@@ -1,0 +1,325 @@
+﻿marka0001 = {
+	name = "Barkei"
+	dynasty = 1069107 #rulers of c_bandiagara
+	religion = west_african_pagan
+	culture = marka
+	2832.1.1 = {
+		birth = yes
+	}
+	2890.1.1 = {
+		death = yes
+	}
+}
+marka0002 = {
+	name = "Bindan"
+	dynasty = 1069107 #rulers of c_bandiagara
+	religion = west_african_pagan
+	culture = marka
+	father = marka0001
+	2864.1.1 = {
+		birth = yes
+	}
+	2921.1.1 = {
+		death = yes
+	}
+}
+marka0003 = {
+	name = "Nakoja"
+	dynasty = 1069107 #rulers of c_bandiagara
+	religion = west_african_pagan
+	culture = marka
+	father = marka0002
+	2897.1.1 = {
+		birth = yes
+	}
+	2962.1.1 = {
+		death = yes
+	}
+}
+marka0004 = {
+	name = "Wumborgnan"
+	dynasty = 1069107 #rulers of c_bandiagara
+	religion = west_african_pagan
+	culture = marka
+	father = marka0003
+	2932.1.1 = {
+		birth = yes
+	}
+	2986.1.1 = {
+		death = yes
+	}
+}
+marka0005 = {
+	name = "Barkei"
+	dynasty = 1069107 #rulers of c_bandiagara
+	religion = west_african_pagan
+	culture = marka
+	father = marka0004
+	2965.1.1 = {
+		birth = yes
+	}
+	3013.1.1 = {
+		death = yes
+	}
+}
+marka0006 = {
+	name = "Wumborti"
+	dynasty = 1069107 #rulers of c_bandiagara
+	religion = west_african_pagan
+	culture = marka
+	father = marka0005
+	2999.1.1 = {
+		birth = yes
+	}
+	3061.1.1 = {
+		death = yes
+	}
+}
+marka0007 = {
+	name = "Tanamwir"
+	dynasty = 1069107 #rulers of c_bandiagara
+	religion = west_african_pagan
+	culture = marka
+	father = marka0006
+	3033.1.1 = {
+		birth = yes
+	}
+	3086.1.1 = {
+		death = yes
+	}
+}
+marka0008 = {
+	name = "Bindan"
+	dynasty = 1069107 #rulers of c_bandiagara
+	religion = west_african_pagan
+	culture = marka
+	father = marka0007
+	3064.1.1 = {
+		birth = yes
+	}
+	3123.1.1 = {
+		death = yes
+	}
+}
+marka0009 = {
+	name = "Wumborgnan"
+	dynasty = 1069107 #rulers of c_bandiagara
+	religion = west_african_pagan
+	culture = marka
+	father = marka0008
+	3099.1.1 = {
+		birth = yes
+	}
+	3151.1.1 = {
+		death = yes
+	}
+}
+marka0010 = {
+	name = "Barkei"
+	dynasty = 1069107 #rulers of c_bandiagara
+	religion = west_african_pagan
+	culture = marka
+	father = marka0009
+	3133.1.1 = {
+		birth = yes
+	}
+	3190.1.1 = {
+		death = yes
+	}
+}
+marka0011 = {
+	name = "Wumborgnan"
+	dynasty = 1069107 #rulers of c_bandiagara
+	religion = west_african_pagan
+	culture = marka
+	father = marka0010
+	3162.1.1 = {
+		birth = yes
+	}
+	3207.1.1 = {
+		death = yes
+	}
+}
+marka0012 = {
+	name = "Tanamwir"
+	dynasty = 1069107 #rulers of c_bandiagara
+	religion = west_african_pagan
+	culture = marka
+	father = marka0011
+	3188.1.1 = {
+		birth = yes
+	}
+	3251.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of Yatenga
+marka0013 = {
+	name = "Wubri"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	2852.1.1 = {
+		birth = yes
+	}
+	2914.1.1 = {
+		death = yes
+	}
+}
+marka0014 = {
+	name = "Ninsi"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	father = marka0013
+	2880.1.1 = {
+		birth = yes
+	}
+	2914.1.1 = {
+		death = yes
+	}
+}
+marka0015 = {
+	name = "Gweba"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	father = marka0014
+	2912.1.1 = {
+		birth = yes
+	}
+	2965.1.1 = {
+		death = yes
+	}
+}
+marka0016 = {
+	name = "Wubri"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	father = marka0015
+	2948.1.1 = {
+		birth = yes
+	}
+	3002.1.1 = {
+		death = yes
+	}
+}
+marka0017 = {
+	name = "Sitobo"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	father = marka0016
+	2982.1.1 = {
+		birth = yes
+	}
+	3050.1.1 = {
+		death = yes
+	}
+}
+marka0018 = {
+	name = "Ninsi"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	father = marka0017
+	3018.1.1 = {
+		birth = yes
+	}
+	3067.1.1 = {
+		death = yes
+	}
+}
+marka0019 = {
+	name = "Wubri"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	father = marka0018
+	3052.1.1 = {
+		birth = yes
+	}
+	3091.1.1 = {
+		death = yes
+	}
+}
+marka0020 = {
+	name = "Ninsi"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	father = marka0019
+	3074.1.1 = {
+		birth = yes
+	}
+	3126.1.1 = {
+		death = yes
+	}
+}
+marka0021 = {
+	name = "Gweba"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	father = marka0020
+	3101.1.1 = {
+		birth = yes
+	}
+	3140.1.1 = {
+		death = yes
+	}
+}
+marka0022 = {
+	name = "Gweba"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	father = marka0021
+	3125.1.1 = {
+		birth = yes
+	}
+	3172.1.1 = {
+		death = yes
+	}
+}
+marka0023 = {
+	name = "Wubri"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	father = marka0022
+	3158.1.1 = {
+		birth = yes
+	}
+	3210.1.1 = {
+		death = yes
+	}
+}
+marka0024 = {
+	name = "Ninsi"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	father = marka0023
+	3188.1.1 = {
+		birth = yes
+	}
+	3235.1.1 = {
+		death = yes
+	}
+}
+marka0025 = {
+	name = "Sitobo"
+	dynasty = 1069108
+	religion = west_african_pagan
+	culture = marka
+	father = marka0024
+	3215.1.1 = {
+		birth = yes
+	}
+	3266.1.1 = {
+		death = yes
+	}
+}

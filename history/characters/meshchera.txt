@@ -1,0 +1,296 @@
+﻿#Moved from russian file
+472450 = {
+	name = "Sbyslav"
+	dynasty = 100555
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "orthodox"
+	culture = "meshchera"
+	trait = cynical
+	trait = education_martial_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+90141 = {
+	name = "Ratibor"
+	dynasty = 100555
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "orthodox"
+	culture = "meshchera"
+	trait = education_stewardship_2
+	trait = deceitful
+	3056.1.2 = {
+		birth = "3056.1.2"
+	}
+	3106.1.2 = {
+		death = "3106.1.2"
+	}
+}
+#
+#867 Meshchera tribes
+302227 = {			#GF
+	name = "Artyo"
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	2792.1.16 = {
+		birth = yes
+	}
+	2817.6.17= {
+		add_spouse = 302228
+	}
+	2843.12.20 = {
+		death = yes
+	}
+}
+302228 = {			#GM
+	name = "Olota"
+	female = yes
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	2802.4.12 = {
+		birth = yes
+	}
+	2874.11.5 = {
+		death = yes
+	}
+}
+302229 = {			#F1
+	name = "Inzhay"
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	father = 302227
+	2819.7.1 = {
+		birth = yes
+	}
+	2839.3.5 = {
+		add_spouse = 302230
+	}
+	2855.9.15 = {
+		death = yes
+	}
+}
+302230 = {			#M1
+	name = "Yalgava"
+	female = yes
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	2823.3.5 = {
+		birth = yes
+	}
+	2855.9.15 = {
+		death = yes
+	}
+}
+302231 = {			#F2
+	name = "Pinyas"
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	father = 302227
+	2823.6.11 = {
+		birth = yes
+	}
+	2842.5.1 = {
+		add_spouse = 302232
+	}
+	2867.5.1 = {
+		death = yes
+	}
+}
+302232 = {			#M2
+	name = "Noroava"
+	female = yes
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	2825.8.22 = {
+		birth = yes
+	}
+	2891.4.14 = {
+		death = yes
+	}
+}
+302233 = {			#F3
+	name = "Koshel"
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	father = 302227
+	2826.2.9 = {
+		birth = yes
+	}
+	2846.2.13 = {
+		add_spouse = 302234
+	}
+	2882.6.30 = {
+		death = yes
+	}
+}
+302234 = {			#M3
+	name = "Anka"
+	female = yes
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	2826.10.25 = {
+		birth = yes
+	}
+	2848.4.12 = {
+		death = yes
+	}
+}
+302235 = {			#S1
+	name = "Shkay"
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	father = 302229
+	mother = 302230
+	2839.11.6 = {
+		birth = yes
+	}
+	2894.6.3 = {
+		death = yes
+	}
+}
+302236 = {			#S1
+	name = "Vasyuk"
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	father = 302229
+	mother = 302230
+	2840.10.23 = {
+		birth = yes
+	}
+	2897.10.29 = {
+		death = yes
+	}
+}
+302237 = {			#D1
+	name = "Utyayka"
+	female = yes
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	father = 302229
+	mother = 302230
+	2842.1.4 = {
+		birth = yes
+	}
+	2902.4.30 = {
+		death = yes
+	}
+}
+302238 = {			#S2
+	name = "Mikikor"
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	father = 302231
+	mother = 302232
+	2844.1.13 = {
+		birth = yes
+	}
+	2919.4.26 = {
+		death = yes
+	}
+}
+302239 = {			#S2
+	name = "Sokhron"
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	father = 302231
+	mother = 302232
+	2847.8.8 = {
+		birth = yes
+	}
+	2878.12.13 = {
+		death = yes
+	}
+}
+302240 = {			#D3
+	name = "Elyuva"
+	female = yes
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	father = 302233
+	mother = 302234
+	2846.9.15 = {
+		birth = yes
+	}
+	2905.2.2 = {
+		death = yes
+	}
+}
+302241 = {			#S3
+	name = "Kvilyo"
+	dynasty = 100555	#Meshchersky
+	religion = "finnish_pagan"
+	culture = meshchera
+	father = 302233
+	mother = 302234
+	2848.4.12 = {
+		birth = yes
+	}
+	2911.3.15 = {
+		death = yes
+	}
+}
+#
+#Post 882 Meshchera leaders (fictional)
+#
+302254 = {
+	name = "Matyo"
+	dynasty = 2001046	#Okalya
+	religion = "finnish_pagan"
+	culture = meshchera
+	3015.5.25 = {
+		birth = yes
+	}
+	3077.3.13 = {
+		death = yes
+	}
+}
+302255 = {
+	name = "Onton"
+	dynasty = 2001046	#Okalya
+	religion = "finnish_pagan"
+	culture = meshchera
+	father = 302254
+	3041.12.30 = {
+		birth = yes
+	}
+	3104.6.15 = {
+		death = yes
+	}
+}
+302256 = {
+	name = "Pemka"
+	female = yes
+	dynasty = 2001046	#Okalya
+	religion = "finnish_pagan"
+	culture = meshchera
+	father = 302255
+	3065.8.7 = {
+		birth = yes
+	}
+	3134.1.19 = {
+		death = yes
+	}
+}

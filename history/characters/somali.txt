@@ -1,0 +1,2149 @@
+﻿#somali characters
+
+#sultans of Mogadishu
+somali0001 = {
+	name = "Fakhr al-Din"
+	dynasty = somalidyn001 #sultans of Mogadishu
+	religion = ashari
+	culture = somali
+	3113.1.1 = {
+		birth = yes
+	}
+	3168.1.1 = {
+		death = yes
+	}
+}
+somali0002 = {
+	name = "Abu Bakar"
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0001
+	3132.1.1 = {
+		birth = yes
+	}
+	3195.1.1 = {
+		death = yes
+	}
+}
+somali0003 = {
+	name = "Omar" #b.Abu Bakar
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0002
+	3160.1.1 = {
+		birth = yes
+	}
+	3222.1.1 = {
+		death = yes
+	}
+}
+somali0004 = {
+	name = "Abu Bakar" #b.Omar
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0003
+	3182.1.1 = {
+		birth = yes
+	}
+	3230.1.1 = {
+		death = yes
+	}
+}
+somali0005 = {
+	name = "Abd al-Aziz"
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0003
+	3187.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = yes
+	}
+}
+somali0006 = {
+	name = "al-Musa'id"
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0003
+	3190.1.1 = {
+		birth = yes
+	}
+	3232.1.1 = {
+		death = yes
+	}
+}
+somali0007 = {
+	name = "al-Rahman"
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0006
+	3212.1.1 = {
+		birth = yes
+	}
+	3275.1.1 = {
+		death = yes
+	}
+}
+somali0008 = {
+	name = "Sa'id"
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0006
+	3214.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}
+somali0009 = {
+	name = "Yusuf"
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0008
+	3233.1.1 = {
+		birth = yes
+	}
+	3291.1.1 = {
+		death = yes
+	}
+}
+somali0010 = {
+	name = "Ali"
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0009
+	3254.1.1 = {
+		birth = yes
+	}
+	3305.1.1 = {
+		death = yes
+	}
+}
+somali0011 = {
+	name = "Rasul"
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0010
+	3272.1.1 = {
+		birth = yes
+	}
+	3320.1.1 = {
+		death = yes
+	}
+}
+somali0012 = {
+	name = "Muhammaad"
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0010
+	3273.1.1 = {
+		birth = yes
+	}
+	3312.1.1 = {
+		death = yes
+	}
+}
+somali0013 = {
+	name = "Abu Bakar" #b.Muhammad - according to coins ruled in 1322-3
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0012
+	3292.1.1 = {
+		birth = yes
+	}
+	3331.1.1 = {
+		death = yes
+	}
+}
+somali0014 = {
+	name = "Umar"
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0012
+	3293.1.1 = {
+		birth = yes
+	}
+	3330.1.1 = {
+		death = yes
+	}
+}
+somali0015 = {
+	name = "Abu Bakar" #b. Umar - ruler at times of Ibn Battuta's visit in 1331
+	dynasty = somalidyn001
+	religion = ashari
+	culture = somali
+	father = somali0014
+	3310.1.1 = {
+		birth = yes
+	}
+	3352.1.1 = {
+		death = yes
+	}
+}
+
+#fictional leaders of the Hawiye clans
+
+somali0016 = {
+	name = "Hawiya" #fictional forefather of the tribe
+	dynasty = somalidyn002
+	religion = waaqism_pagan
+	culture = somali
+	2802.1.1 = {
+		birth = yes
+	}
+	2852.1.1 = {
+		death = yes
+	}
+}
+
+#Muqri clan from near Mogadishu
+somali0017 = {
+	name = "Muqri" #fictional forefather of the Muqri clan
+	dynasty = somalidyn003 #Muqri
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0016
+	2822.1.1 = {
+		birth = yes
+	}
+	2867.1.1 = {
+		death = yes
+	}
+}
+somali0018 = {
+	name = "Kaariye"
+	dynasty = somalidyn003
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0017
+	2845.1.1 = {
+		birth = yes
+	}
+	2899.1.1 = {
+		death = yes
+	}
+}
+somali0019 = {
+	name = "Gedir"
+	dynasty = somalidyn003
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0018
+	2868.1.1 = {
+		birth = yes
+	}
+	2932.1.1 = {
+		death = yes
+	}
+}
+somali0020 = {
+	name = "Muqri"
+	dynasty = somalidyn003
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0019
+	2893.1.1 = {
+		birth = yes
+	}
+	2952.1.1 = {
+		death = yes
+	}
+}
+somali0021 = {
+	name = "Sabti"
+	dynasty = somalidyn003
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0020
+	2919.1.1 = {
+		birth = yes
+	}
+	2965.1.1 = {
+		death = yes
+	}
+}
+somali0022 = {
+	name = "Jijeele"
+	dynasty = somalidyn003
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0021
+	2944.1.1 = {
+		birth = yes
+	}
+	2999.1.1 = {
+		death = yes
+	}
+}
+somali0023 = {
+	name = "Muqri"
+	dynasty = somalidyn003
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0022
+	2973.1.1 = {
+		birth = yes
+	}
+	3035.1.1 = {
+		death = yes
+	}
+}
+somali0024 = {
+	name = "Naleye"
+	dynasty = somalidyn003
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0023
+	3000.1.1 = {
+		birth = yes
+	}
+	3064.1.1 = {
+		death = yes
+	}
+}
+somali0025 = {
+	name = "Kadhafo"
+	dynasty = somalidyn003
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0024
+	3028.1.1 = {
+		birth = yes
+	}
+	3069.1.1 = {
+		death = yes
+	}
+}
+somali0026 = {
+	name = "Muqri"
+	dynasty = somalidyn003
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0025
+	3059.1.1 = {
+		birth = yes
+	}
+	3111.1.1 = {
+		death = yes
+	}
+}
+somali0027 = {
+	name = "Kadhafo"
+	dynasty = somalidyn003
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0026
+	3086.1.1 = {
+		birth = yes
+	}
+	3110.1.1 = {
+		religion = ashari
+	}
+	3140.1.1 = {
+		death = yes
+	}
+}
+somali0028 = {
+	name = "Ibrahim"
+	dynasty = somalidyn003
+	religion = ashari
+	culture = somali
+	father = somali0027
+	3112.1.1 = {
+		birth = yes
+	}
+	3167.1.1 = {
+		death = yes
+	}
+}
+somali0029 = {
+	name = "Gedir"
+	dynasty = somalidyn003
+	religion = ashari
+	culture = somali
+	father = somali0028
+	3136.1.1 = {
+		birth = yes
+	}
+	3184.1.1 = {
+		death = yes
+	}
+}
+somali0030 = {
+	name = "Umar"
+	dynasty = somalidyn003
+	religion = ashari
+	culture = somali
+	father = somali0029
+	3162.1.1 = {
+		birth = yes
+	}
+	3232.1.1 = {
+		death = yes
+	}
+}
+#Garen dynasty
+somali0031 = {
+	name = "Ajuran" #fictional ancestor of the Garen dynasty
+	dynasty = somalidyn004
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0016
+	2825.1.1 = {
+		birth = yes
+	}
+	2868.1.1 = {
+		death = yes
+	}
+}
+somali0032 = {
+	name = "Garen" #fictional forefather of the Garen dynasty
+	dynasty = somalidyn004 #Garen
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0031
+	2852.1.1 = {
+		birth = yes
+	}
+	2905.1.1 = {
+		death = yes
+	}
+}
+somali0033 = {
+	name = "Habr"
+	dynasty = somalidyn004
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0032
+	2882.1.1 = {
+		birth = yes
+	}
+	2945.1.1 = {
+		death = yes
+	}
+}
+somali0034 = {
+	name = "Gedir"
+	dynasty = somalidyn004
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0033
+	2914.1.1 = {
+		birth = yes
+	}
+	2971.1.1 = {
+		death = yes
+	}
+}
+somali0035 = {
+	name = "Ogadeen"
+	dynasty = somalidyn004
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0034
+	2948.1.1 = {
+		birth = yes
+	}
+	3010.1.1 = {
+		death = yes
+	}
+}
+somali0036 = {
+	name = "Ogadeen"
+	dynasty = somalidyn004
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0035
+	2982.1.1 = {
+		birth = yes
+	}
+	3035.1.1 = {
+		death = yes
+	}
+}
+somali0037 = {
+	name = "Gedir"
+	dynasty = somalidyn004
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0036
+	3015.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+somali0038 = {
+	name = "Garen"
+	dynasty = somalidyn004
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0037
+	3039.1.1 = {
+		birth = yes
+	}
+	3091.1.1 = {
+		death = yes
+	}
+}
+somali0039 = {
+	name = "Ogadeen"
+	dynasty = somalidyn004
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0038
+	3067.1.1 = {
+		birth = yes
+	}
+	3119.1.1 = {
+		death = yes
+	}
+}
+somali0040 = {
+	name = "Gardere"
+	dynasty = somalidyn004
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0039
+	3094.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		religion = ashari
+	}
+	3152.1.1 = {
+		death = yes
+	}
+}
+somali0041 = {
+	name = "Isaaq"
+	dynasty = somalidyn004
+	religion = ashari
+	culture = somali
+	father = somali0040
+	3123.1.1 = {
+		birth = yes
+	}
+	3187.1.1 = {
+		death = yes
+	}
+}
+somali0042 = {
+	name = "Ibrahim"
+	dynasty = somalidyn004
+	religion = ashari
+	culture = somali
+	father = somali0041
+	3148.1.1 = {
+		birth = yes
+	}
+	3215.1.1 = {
+		death = yes
+	}
+}
+
+#D̲j̲idʿatī tribe (I am putting it to the west of Mogadishu)
+somali0043 = {
+	name = "Jid_ati" #fictional forefather of the Djid'ati tribe
+	dynasty = somalidyn005
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0016
+	2827.1.1 = {
+		birth = yes
+	}
+	2872.1.1 = {
+		death = yes
+	}
+}
+somali0044 = {
+	name = "Awal"
+	dynasty = somalidyn005
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0043
+	2860.1.1 = {
+		birth = yes
+	}
+	2922.1.1 = {
+		death = yes
+	}
+}
+somali0045 = {
+	name = "Irir"
+	dynasty = somalidyn005
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0044
+	2895.1.1 = {
+		birth = yes
+	}
+	2959.1.1 = {
+		death = yes
+	}
+}
+somali0046 = {
+	name = "Hantale"
+	dynasty = somalidyn005
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0045
+	2931.1.1 = {
+		birth = yes
+	}
+	2994.1.1 = {
+		death = yes
+	}
+}
+somali0047 = {
+	name = "Awal"
+	dynasty = somalidyn005
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0046
+	2968.1.1 = {
+		birth = yes
+	}
+	3033.1.1 = {
+		death = yes
+	}
+}
+somali0048 = {
+	name = "Baraka"
+	dynasty = somalidyn005
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0047
+	3002.1.1 = {
+		birth = yes
+	}
+	3061.1.1 = {
+		death = yes
+	}
+}
+somali0049 = {
+	name = "Jid_ati"
+	dynasty = somalidyn005
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0048
+	3038.1.1 = {
+		birth = yes
+	}
+	3089.1.1 = {
+		death = yes
+	}
+}
+somali0050 = {
+	name = "Baraka"
+	dynasty = somalidyn005
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0049
+	3064.1.1 = {
+		birth = yes
+	}
+	3118.1.1 = {
+		death = yes
+	}
+}
+somali0051 = {
+	name = "Awal"
+	dynasty = somalidyn005
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0050
+	3093.1.1 = {
+		birth = yes
+	}
+	3115.1.1 = {
+		religion = ashari
+	}
+	3152.1.1 = {
+		death = yes
+	}
+}
+somali0052 = {
+	name = "Yayyo"
+	dynasty = somalidyn005
+	religion = ashari
+	culture = somali
+	father = somali0051
+	3118.1.1 = {
+		birth = yes
+	}
+	3175.1.1 = {
+		death = yes
+	}
+}
+somali0053 = {
+	name = "Mansur"
+	dynasty = somalidyn005
+	religion = ashari
+	culture = somali
+	father = somali0052
+	3141.1.1 = {
+		birth = yes
+	}
+	3205.1.1 = {
+		death = yes
+	}
+}
+somali0054 = {
+	name = "Awal"
+	dynasty = somalidyn005
+	religion = ashari
+	culture = somali
+	father = somali0053
+	3178.1.1 = {
+		birth = yes
+	}
+	3242.1.1 = {
+		death = yes
+	}
+}
+#0055-59 free characters
+
+somali0060 = {
+	name = "Darood"
+	dynasty = somalidyn014
+	religion = waaqism_pagan
+	culture = somali
+	2822.1.1 = {
+		birth = yes
+	}
+	2844.1.1 = {
+		add_spouse = somali0104
+	}
+	2866.1.1 = {
+		death = yes
+	}
+}
+somali0061 = {
+	name = "Kablallah"
+	dynasty = somalidyn014
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0060
+	mother = somali0104
+	2845.1.1 = {
+		birth = yes
+	}
+	2865.1.1 = {
+		dynasty = somalidyn015 #Majerteen
+	}
+	2908.1.1 = {
+		death = yes
+	}
+}
+somali0062 = {
+	name = "Delombira"
+	female = yes
+	dynasty = somalidyn014
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0060
+	2848.1.1 = {
+		birth = yes
+	}
+	2912.1.1 = {
+		death = yes
+	}
+}
+somali0063 = {
+	name = "Komade"
+	dynasty = somalidyn014
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0061
+	2868.1.1 = {
+		birth = yes
+	}
+	2888.1.1 = {
+		dynasty = somalidyn034
+	}
+	2932.1.1 = {
+		death = yes
+	}
+}
+somali0064 = {
+	name = "Hamalmal"
+	dynasty = somalidyn034
+	religion = waaqism_pagan
+	culture = somali
+	3029.1.1 = {
+		birth = yes
+	}
+	3100.1.1 = {
+		death = yes
+	}
+}
+somali0065 = {
+	name = "Nahwi"
+	dynasty = somalidyn034
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0064
+	3054.1.1 = {
+		birth = yes
+	}
+	3111.1.1 = {
+		death = yes
+	}
+}
+
+#0066-75 free characters
+
+#Helai clan of Baydhabo (fictional)
+somali0076 = {
+	name = "Helai"
+	dynasty = somalidyn033
+	religion = waaqism_pagan
+	culture = somali
+	2824.1.1 = {
+		birth = yes
+	}
+	2865.1.1 = {
+		death = yes
+	}
+}
+somali0077 = {
+	name = "Aul"
+	dynasty = somalidyn033
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0076
+	2846.1.1 = {
+		birth = yes
+	}
+	2904.1.1 = {
+		death = yes
+	}
+}
+somali0078 = {
+	name = "Dhidhin"
+	dynasty = somalidyn033
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0077
+	2872.1.1 = {
+		birth = yes
+	}
+	2929.1.1 = {
+		death = yes
+	}
+}
+somali0079 = {
+	name = "Aul"
+	dynasty = somalidyn033
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0078
+	2914.1.1 = {
+		birth = yes
+	}
+	2982.1.1 = {
+		death = yes
+	}
+}
+somali0080 = {
+	name = "Dhidhin"
+	dynasty = somalidyn033
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0079
+	2950.1.1 = {
+		birth = yes
+	}
+	3010.1.1 = {
+		death = yes
+	}
+}
+#Maalim clan of Jubba (fictional)
+somali0081 = {
+	name = "Wena"
+	dynasty = somalidyn032
+	religion = waaqism_pagan
+	culture = somali
+	2842.1.1 = {
+		birth = yes
+	}
+	2899.1.1 = {
+		death = yes
+	}
+}
+somali0082 = {
+	name = "Siciid"
+	dynasty = somalidyn032
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0081
+	2867.1.1 = {
+		birth = yes
+	}
+	2932.1.1 = {
+		death = yes
+	}
+}
+somali0083 = {
+	name = "Kedafu"
+	dynasty = somalidyn032
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0082
+	2901.1.1 = {
+		birth = yes
+	}
+	2968.1.1 = {
+		death = yes
+	}
+}
+somali0084 = {
+	name = "Maalim"
+	dynasty = somalidyn032
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0083
+	2937.1.1 = {
+		birth = yes
+	}
+	2990.1.1 = {
+		death = yes
+	}
+}
+somali0085 = {
+	name = "Wena"
+	dynasty = somalidyn032
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0084
+	2974.1.1 = {
+		birth = yes
+	}
+	3033.1.1 = {
+		death = yes
+	}
+}
+somali0086 = {
+	name = "Maalim"
+	dynasty = somalidyn032
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0085
+	3011.1.1 = {
+		birth = yes
+	}
+	3066.1.1 = {
+		death = yes
+	}
+}
+somali0087 = {
+	name = "Kedafu"
+	dynasty = somalidyn032
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0086
+	3045.1.1 = {
+		birth = yes
+	}
+	3103.1.1 = {
+		death = yes
+	}
+}
+somali0088 = {
+	name = "Maalim"
+	dynasty = somalidyn032
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0087
+	3068.1.1 = {
+		birth = yes
+	}
+	3120.1.1 = {
+		death = yes
+	}
+}
+somali0089 = {
+	name = "Siciid"
+	dynasty = somalidyn032
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0088
+	3092.1.1 = {
+		birth = yes
+	}
+	3149.1.1 = {
+		death = yes
+	}
+}
+
+#Hawiye clan - c_mareeg
+somali0090 = {
+	name = "Karanle"
+	dynasty = somalidyn002
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0016
+	2830.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+somali0091 = {
+	name = "Murusade"
+	dynasty = somalidyn002
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0090
+	2850.1.1 = {
+		birth = yes
+	}
+	2918.1.1 = {
+		death = yes
+	}
+}
+somali0092 = {
+	name = "Murusade"
+	dynasty = somalidyn002
+	religion = waaqism_pagan
+	culture = somali
+	3051.1.1 = {
+		birth = yes
+	}
+	3095.1.1 = {
+		death = yes
+	}
+}
+somali0093 = {
+	name = "Karanle"
+	dynasty = somalidyn002
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0092
+	3074.1.1 = {
+		birth = yes
+	}
+	3140.1.1 = {
+		death = yes
+	}
+}
+somali0094 = {
+	name = "Hawiya"
+	dynasty = somalidyn002
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0093
+	3107.1.1 = {
+		birth = yes
+	}
+	3170.1.1 = {
+		death = yes
+	}
+}
+somali0095 = {
+	name = "Murusade"
+	dynasty = somalidyn002
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0094
+	3138.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = yes
+	}
+}
+
+# Dir clan - c_igala
+somali0096 = {
+	name = "Dhidhin" #fictional
+	dynasty = somalidyn012
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0109
+	2832.1.1 = {
+		birth = yes
+	}
+	2890.1.1 = {
+		death = yes
+	}
+}
+somali0097 = {
+	name = "Hamar" #fictional
+	dynasty = somalidyn012
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0096
+	2852.1.1 = {
+		birth = yes
+	}
+	2909.1.1 = {
+		death = yes
+	}
+}
+somali0098 = {
+	name = "Amlale" #fictional
+	dynasty = somalidyn012
+	religion = waaqism_pagan
+	culture = somali
+	3035.1.1 = {
+		birth = yes
+	}
+	3077.1.1 = {
+		death = yes
+	}
+}
+somali0099 = {
+	name = "Hamar" #fictional
+	dynasty = somalidyn012
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0098
+	3053.1.1 = {
+		birth = yes
+	}
+	3109.1.1 = {
+		death = yes
+	}
+}
+somali0100 = {
+	name = "Harire" #fictional
+	dynasty = somalidyn012
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0099
+	3075.1.1 = {
+		birth = yes
+	}
+	3124.1.1 = {
+		death = yes
+	}
+}
+somali0101 = {
+	name = "Hamar" #fictional
+	dynasty = somalidyn012
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0100
+	3102.1.1 = {
+		birth = yes
+	}
+	3161.1.1 = {
+		death = yes
+	}
+}
+somali0102 = {
+	name = "Dhidhin" #fictional
+	dynasty = somalidyn012
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0101
+	3134.1.1 = {
+		birth = yes
+	}
+	3192.1.1 = {
+		death = yes
+	}
+}
+somali0103 = {
+	name = "Amlale" #fictional
+	dynasty = somalidyn012
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0102
+	3153.1.1 = {
+		birth = yes
+	}
+	3210.1.1 = {
+		death = yes
+	}
+}
+somali0104 = {
+	name = "Donbiro" #mythical wife of Darood
+	female = yes
+	dynasty = somalidyn012
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0109
+	2827.1.1 = {
+		birth = yes
+	}
+	2844.1.1 = {
+		add_spouse = somali0060
+	}
+	2911.1.1 = {
+		death = yes
+	}
+}
+somali0105 = {
+	name = "Sede"
+	dynasty = somalidyn024
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0060
+	mother = somali0104
+	2846.1.1 = {
+		birth = yes
+	}
+	2908.1.1 = {
+		death = yes
+	}
+}
+somali0106 = {
+	name = "Tanade"
+	dynasty = somalidyn014
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0060
+	mother = somali0104
+	2848.1.1 = {
+		birth = yes
+	}
+	2908.1.1 = {
+		death = yes
+	}
+}
+somali0107 = {
+	name = "_Iise"
+	dynasty = somalidyn014
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0060
+	mother = somali0104
+	2849.1.1 = {
+		birth = yes
+	}
+	2908.1.1 = {
+		death = yes
+	}
+}
+somali0108 = {
+	name = "Yuusuf"
+	dynasty = somalidyn014
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0060
+	mother = somali0104
+	2851.1.1 = {
+		birth = yes
+	}
+	2908.1.1 = {
+		death = yes
+	}
+}
+somali0109 = {
+	name = "Dir" #mythical founder of the clan Dir
+	dynasty = somalidyn012
+	religion = waaqism_pagan
+	culture = somali
+	2807.1.1 = {
+		birth = yes
+	}
+	2852.1.1 = {
+		death = yes
+	}
+}
+
+#Majerteen clan of c_barbacadle
+somali0110 = {
+	name = "Koombe"
+	dynasty = somalidyn015 #Majerteen
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0061
+	2867.1.1 = {
+		birth = yes
+	}
+	2920.1.1 = {
+		death = yes
+	}
+}
+somali0111 = {
+	name = "Majerteen"
+	dynasty = somalidyn015 #Majerteen
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0110
+	2897.1.1 = {
+		birth = yes
+	}
+	2956.1.1 = {
+		death = yes
+	}
+}
+somali0112 = {
+	name = "Komade"
+	dynasty = somalidyn015 #Majerteen
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0111
+	3021.1.1 = {
+		birth = yes
+	}
+	3075.1.1 = {
+		death = yes
+	}
+}
+somali0113 = {
+	name = "Koombe"
+	dynasty = somalidyn015 #Majerteen
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0112
+	3045.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		religion = ashari
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+somali0114 = {
+	name = "Majerteen"
+	dynasty = somalidyn015 #Majerteen
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0113
+	3077.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		religion = ashari
+	}
+	3132.1.1 = {
+		death = yes
+	}
+}
+somali0115 = {
+	name = "Isaaq"
+	dynasty = somalidyn015 #Majerteen
+	religion = ashari
+	culture = somali
+	father = somali0114
+	3112.1.1 = {
+		birth = yes
+	}
+	3165.1.1 = {
+		death = yes
+	}
+}
+somali0116 = {
+	name = "Kalballah"
+	dynasty = somalidyn015 #Majerteen
+	religion = ashari
+	culture = somali
+	father = somali0115
+	3142.1.1 = {
+		birth = yes
+	}
+	3194.1.1 = {
+		death = yes
+	}
+}
+somali0117 = {
+	name = "Yuusuf"
+	dynasty = somalidyn015 #Majerteen
+	religion = ashari
+	culture = somali
+	father = somali0116
+	3171.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+#Marehan clan of c_mudug
+somali0118 = {
+	name = "Dagale"
+	dynasty = somalidyn024
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0105
+	2868.1.1 = {
+		birth = yes
+	}
+	2925.1.1 = {
+		death = yes
+	}
+}
+somali0119 = {
+	name = "Haqq"
+	dynasty = somalidyn024
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0118
+	3047.1.1 = {
+		birth = yes
+	}
+	3099.1.1 = {
+		death = yes
+	}
+}
+somali0120 = {
+	name = "Dagale"
+	dynasty = somalidyn024
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0119
+	3075.1.1 = {
+		birth = yes
+	}
+	3124.1.1 = {
+		death = yes
+	}
+}
+somali0121 = {
+	name = "Adeer"
+	dynasty = somalidyn024
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0120
+	3110.1.1 = {
+		birth = yes
+	}
+	3164.1.1 = {
+		death = yes
+	}
+}
+somali0122 = {
+	name = "Haqq"
+	dynasty = somalidyn024
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0121
+	3145.1.1 = {
+		birth = yes
+	}
+	3197.1.1 = {
+		death = yes
+	}
+}
+
+#Leelkase clan in c_ras_hafun
+somali0123 = {
+	name = "Barakat"
+	dynasty = somalidyn035 #Leelkase
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0106
+	2868.1.1 = {
+		birth = yes
+	}
+	2922.1.1 = {
+		death = yes
+	}
+}
+somali0124 = {
+	name = "Adeer"
+	dynasty = somalidyn035 #Leelkase
+	religion = waaqism_pagan
+	culture = somali
+	3052.1.1 = {
+		birth = yes
+	}
+	3104.1.1 = {
+		death = yes
+	}
+}
+somali0125 = {
+	name = "Leelkase"
+	dynasty = somalidyn035 #Leelkase
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0124
+	3080.1.1 = {
+		birth = yes
+	}
+	3131.1.1 = {
+		death = yes
+	}
+}
+somali0126 = {
+	name = "Naleye"
+	dynasty = somalidyn035 #Leelkase
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0125
+	3105.1.1 = {
+		birth = yes
+	}
+	3161.1.1 = {
+		death = yes
+	}
+}
+somali0127 = {
+	name = "Adeer"
+	dynasty = somalidyn035 #Leelkase
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0126
+	3141.1.1 = {
+		birth = yes
+	}
+	3199.1.1 = {
+		death = yes
+	}
+}
+somali0128 = {
+	name = "Irir"
+	dynasty = somalidyn035 #Leelkase
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0127
+	3168.1.1 = {
+		birth = yes
+	}
+	3220.1.1 = {
+		death = yes
+	}
+}
+
+#Abgal clan in c_hobyo
+somali0129 = {
+	name = "Irir"
+	dynasty = somalidyn021 #Abgal
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0090
+	2851.1.1 = {
+		birth = yes
+	}
+	2893.1.1 = {
+		death = yes
+	}
+}
+somali0130 = {
+	name = "Abgal"
+	dynasty = somalidyn021 #Abgal
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0129
+	2869.1.1 = {
+		birth = yes
+	}
+	2918.1.1 = {
+		death = yes
+	}
+}
+somali0131 = {
+	name = "Abgal"
+	dynasty = somalidyn021 #Abgal
+	religion = waaqism_pagan
+	culture = somali
+	3025.1.1 = {
+		birth = yes
+	}
+	3067.1.1 = {
+		death = yes
+	}
+}
+somali0132 = {
+	name = "Balad"
+	dynasty = somalidyn021 #Abgal
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0131
+	3050.1.1 = {
+		birth = yes
+	}
+	3108.1.1 = {
+		death = yes
+	}
+}
+somali0133 = {
+	name = "Magaad"
+	dynasty = somalidyn021 #Abgal
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0132
+	3077.1.1 = {
+		birth = yes
+	}
+	3121.1.1 = {
+		death = yes
+	}
+}
+somali0134 = {
+	name = "Adan"
+	dynasty = somalidyn021 #Abgal
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0133
+	3109.1.1 = {
+		birth = yes
+	}
+	3158.1.1 = {
+		death = yes
+	}
+}
+somali0135 = {
+	name = "Irir"
+	dynasty = somalidyn021 #Abgal
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0134
+	3135.1.1 = {
+		birth = yes
+	}
+	3192.1.1 = {
+		death = yes
+	}
+}
+somali0136 = {
+	name = "Balad"
+	dynasty = somalidyn021 #Abgal
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0135
+	3162.1.1 = {
+		birth = yes
+	}
+	3210.1.1 = {
+		death = yes
+	}
+}
+somali0137 = {
+	name = "Magaad"
+	dynasty = somalidyn021 #Abgal
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0136
+	3189.1.1 = {
+		birth = yes
+	}
+	3224.1.1 = {
+		death = yes
+	}
+}
+
+#Darood of the 'Iise branch in c_busaso
+somali0138 = {
+	name = "Talha"
+	dynasty = somalidyn014
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0107
+	2887.1.1 = {
+		birth = yes
+	}
+	2957.1.1 = {
+		death = yes
+	}
+}
+somali0139 = {
+	name = "Ciise"
+	dynasty = somalidyn014
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0138
+	2937.1.1 = {
+		birth = yes
+	}
+	3012.1.1 = {
+		death = yes
+	}
+}
+somali0140 = {
+	name = "Aydahis"
+	dynasty = somalidyn014
+	religion = waaqism_pagan
+	culture = somali
+	father = somali0139
+	2992.1.1 = {
+		birth = yes
+	}
+	3035.1.1 = {
+		religion = ashari
+	}
+	3055.1.1 = {
+		death = yes
+	}
+}
+somali0141 = {
+	name = "_Iise"
+	dynasty = somalidyn014
+	religion = ashari
+	culture = somali
+	father = somali0140
+	3038.1.1 = {
+		birth = yes
+	}
+	3092.1.1 = {
+		death = yes
+	}
+}
+somali0142 = {
+	name = "Tanade"
+	dynasty = somalidyn014
+	religion = ashari
+	culture = somali
+	father = somali0141
+	3064.1.1 = {
+		birth = yes
+	}
+	3117.1.1 = {
+		death = yes
+	}
+}
+somali0143 = {
+	name = "_Iise"
+	dynasty = somalidyn014
+	religion = ashari
+	culture = somali
+	father = somali0142
+	3102.1.1 = {
+		birth = yes
+	}
+	3159.1.1 = {
+		death = yes
+	}
+}
+somali0144 = {
+	name = "Toljalo"
+	dynasty = somalidyn014
+	religion = ashari
+	culture = somali
+	father = somali0143
+	3142.1.1 = {
+		birth = yes
+	}
+	3195.1.1 = {
+		death = yes
+	}
+}
+somali0145 = {
+	name = "Aydahis"
+	dynasty = somalidyn014
+	religion = ashari
+	culture = somali
+	father = somali0144
+	3179.1.1 = {
+		birth = yes
+	}
+	3234.1.1 = {
+		death = yes
+	}
+}
+somali0146 = {
+	name = "Ciise"
+	dynasty = somalidyn014
+	religion = ashari
+	culture = somali
+	father = somali0145
+	3210.1.1 = {
+		birth = yes
+	}
+	3265.1.1 = {
+		death = yes
+	}
+}
+
+#Warsangali clan in c_mait - divides from c_busaso branch of Darood
+somali0147 = {
+	name = "Dhiidhin" #fictional - named after first Warsangali sultan from 1298-1311
+	dynasty = somalidyn011 #Warsangali
+	religion = ashari
+	culture = somali
+	father = somali0140
+	3040.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+somali0148 = {
+	name = "Falagsato" # fictional
+	dynasty = somalidyn011 #Warsangali
+	religion = ashari
+	culture = somali
+	father = somali0147
+	3062.1.1 = {
+		birth = yes
+	}
+	3111.1.1 = {
+		death = yes
+	}
+}
+somali0149 = {
+	name = "Dhiidhin" # fictional
+	dynasty = somalidyn011 #Warsangali
+	religion = ashari
+	culture = somali
+	father = somali0148
+	3089.1.1 = {
+		birth = yes
+	}
+	3143.1.1 = {
+		death = yes
+	}
+}
+somali0150 = {
+	name = "Dhiidhin" # fictional - named after later Warsangali sultan
+	dynasty = somalidyn011 #Warsangali
+	religion = ashari
+	culture = somali
+	father = somali0149
+	3118.1.1 = {
+		birth = yes
+	}
+	3182.1.1 = {
+		death = yes
+	}
+}
+somali0151 = {
+	name = "Falagsato" # fictional
+	dynasty = somalidyn011 #Warsangali
+	religion = ashari
+	culture = somali
+	father = somali0150
+	3149.1.1 = {
+		birth = yes
+	}
+	3205.1.1 = {
+		death = yes
+	}
+}
+somali0152 = {
+	name = "Falagsato" # fictional
+	dynasty = somalidyn011 #Warsangali
+	religion = ashari
+	culture = somali
+	father = somali0151
+	3173.1.1 = {
+		birth = yes
+	}
+	3230.1.1 = {
+		death = yes
+	}
+}
+somali0153 = {
+	name = "Dhiidhin" # fictional
+	dynasty = somalidyn011 #Warsangali
+	religion = ashari
+	culture = somali
+	father = somali0152
+	3205.1.1 = {
+		birth = yes
+	}
+	3263.1.1 = {
+		death = yes
+	}
+}
+
+#Fictionalised Ogaden Tribes
+somali0155 = {
+	name = "Jamal" # fictional
+	dynasty = somali_bali
+	religion = ashari
+	culture = somali
+	2802.1.1 = {
+		birth = yes
+	}
+	2872.1.1 = {
+		death = yes
+	}
+}
+
+somali0156 = {
+	name = "Naleye" # fictional
+	dynasty = somali_bali
+	religion = ashari
+	culture = somali
+	father = somali0155
+	2835.1.1 = {
+		birth = yes
+	}
+	2902.1.1 = {
+		death = yes
+	}
+}
+
+somali0157 = {
+	name = "Yayyo" # fictional
+	dynasty = somali_bali
+	religion = ashari
+	culture = somali
+	father = somali0156
+	2864.1.1 = {
+		birth = yes
+	}
+	2929.1.1 = {
+		death = yes
+	}
+}
+
+somali0158 = {
+	name = "Abadir" # fictional
+	dynasty = somali_bali
+	religion = ashari
+	culture = somali
+	father = somali0157
+	2898.1.1 = {
+		birth = yes
+	}
+	2971.1.1 = {
+		death = yes
+	}
+}
+
+somali0159 = {
+	name = "Adeer" # fictional
+	dynasty = somali_bali
+	religion = ashari
+	culture = somali
+	father = somali0158
+	2925.1.1 = {
+		birth = yes
+	}
+	3009.1.1 = {
+		death = yes
+	}
+}
+
+somali0166 = {
+	name = "Awrala" # fictional
+	dynasty = somali_bali
+	religion = ashari
+	culture = somali
+	father = somali0159
+	2967.1.1 = {
+		birth = yes
+	}
+	3026.1.1 = {
+		death = yes
+	}
+}
+
+somali0167 = {
+	name = "Adeer" # fictional
+	dynasty = somali_bali
+	religion = ashari
+	culture = somali
+	father = somali0166
+	3010.1.1 = {
+		birth = yes
+	}
+	3072.1.1 = {
+		death = yes
+	}
+}
+
+###
+
+somali0168 = {
+	name = "Abram" # fictional
+	dynasty = somali_gidaya
+	religion = ashari
+	culture = somali
+	2803.1.1 = {
+		birth = yes
+	}
+	2874.1.1 = {
+		death = yes
+	}
+}
+
+somali0169 = {
+	name = "Umar" # fictional
+	dynasty = somali_gidaya
+	religion = ashari
+	culture = somali
+	father = somali0168
+	2836.1.1 = {
+		birth = yes
+	}
+	2904.1.1 = {
+		death = yes
+	}
+}
+
+somali0170 = {
+	name = "Aul" # fictional
+	dynasty = somali_gidaya
+	religion = ashari
+	culture = somali
+	father = somali0169
+	2869.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+
+somali0171 = {
+	name = "Liban" # fictional
+	dynasty = somali_gidaya
+	religion = ashari
+	culture = somali
+	father = somali0170
+	2912.1.1 = {
+		birth = yes
+	}
+	2973.1.1 = {
+		death = yes
+	}
+}
+
+somali0172 = {
+	name = "Nahwi" # fictional
+	dynasty = somali_gidaya
+	religion = ashari
+	culture = somali
+	father = somali0171
+	2946.1.1 = {
+		birth = yes
+	}
+	3012.1.1 = {
+		death = yes
+	}
+}
+
+somali0173 = {
+	name = "Sabraddin" # fictional
+	dynasty = somali_gidaya
+	religion = ashari
+	culture = somali
+	father = somali0172
+	2980.1.1 = {
+		birth = yes
+	}
+	3043.1.1 = {
+		death = yes
+	}
+}
+
+somali0174 = {
+	name = "Mansur" # fictional
+	dynasty = somali_gidaya
+	religion = ashari
+	culture = somali
+	father = somali0173
+	3014.1.1 = {
+		birth = yes
+	}
+	3081.1.1 = {
+		death = yes
+	}
+}
+
+###
+
+somali0175 = {
+	name = "Kedafu" # fictional
+	dynasty = somali_ganale
+	religion = ashari
+	culture = somali
+	2822.1.1 = {
+		birth = yes
+	}
+	2891.1.1 = {
+		death = yes
+	}
+}
+
+somali0176 = {
+	name = "Hamalmal" # fictional
+	dynasty = somali_ganale
+	religion = ashari
+	culture = somali
+	father = somali0175
+	2858.1.1 = {
+		birth = yes
+	}
+	2918.1.1 = {
+		death = yes
+	}
+}
+
+somali0177 = {
+	name = "Balad" # fictional
+	dynasty = somali_ganale
+	religion = ashari
+	culture = somali
+	father = somali0176
+	2890.1.1 = {
+		birth = yes
+	}
+	2951.1.1 = {
+		death = yes
+	}
+}
+
+somali0178 = {
+	name = "Baraka" # fictional
+	dynasty = somali_ganale
+	religion = ashari
+	culture = somali
+	father = somali0177
+	2920.1.1 = {
+		birth = yes
+	}
+	2975.1.1 = {
+		death = yes
+	}
+}
+
+somali0179 = {
+	name = "Harire" # fictional
+	dynasty = somali_ganale
+	religion = ashari
+	culture = somali
+	father = somali0178
+	2947.1.1 = {
+		birth = yes
+	}
+	3006.1.1 = {
+		death = yes
+	}
+}
+
+somali0180 = {
+	name = "Sa_ad" # fictional
+	dynasty = somali_ganale
+	religion = ashari
+	culture = somali
+	father = somali0179
+	2980.1.1 = {
+		birth = yes
+	}
+	3034.1.1 = {
+		death = yes
+	}
+}
+
+somali0181 = {
+	name = "Yayyo" # fictional
+	dynasty = somali_ganale
+	religion = ashari
+	culture = somali
+	father = somali0180
+	3011.1.1 = {
+		birth = yes
+	}
+	3069.1.1 = {
+		death = yes
+	}
+}

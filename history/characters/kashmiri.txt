@@ -1,0 +1,1277 @@
+﻿#Shagari Dynasty (Skardu) - historical dynasty/fictional characters
+304662 = {
+	name="Charanpal"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+304663 = {
+	name="Narain"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304662
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+304664 = {
+	name="Ratnakara"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304663
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+304665 = {
+	name="Satyen"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304664
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+304666 = {
+	name="Gulhana"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304665
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+304667 = {
+	name="Utkarsa"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304666
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+304668 = {
+	name="Shambhu"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304667
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+304669 = {
+	name="Radda"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304668
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+304670 = {
+	name="Jagadeva"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304669
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+304671 = {
+	name="Omprakash"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304670
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+304672 = {
+	name="Jayasimha"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304671
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+304673 = {
+	name="Nanda"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304672
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+304674 = {
+	name="Tejbahadur"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304673
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+304675 = {
+	name="Krishan"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304674
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+304676 = {
+	name="Khayaal"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304675
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+304677 = {
+	name="Manohar"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304676
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+304678 = {
+	name="Rajadeva"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304677
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+304679 = {
+	name="Ksemagupta"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304678
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+304680 = {
+	name="Pushkar"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304679
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+304681 = {
+	name="Damodara"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304680
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+304682 = {
+	name="Karan"
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304681
+	3142.1.1={
+		birth=yes
+	}
+	3192.1.1={
+		death=yes
+	}
+}
+
+304683 = {
+	name="Aasha"
+	female=yes
+	dynasty=2003034 # Shagari
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304682
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+#Ibrahim Shah - founder of Maqpon Dynasty
+304684 = {
+	name="Ibrahim"
+	dynasty=2003035 # Shah
+	religion="sunni"
+	culture="persian"
+	3162.1.1={
+		birth=yes
+	}
+	3181.1.1={
+		add_spouse=304683
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+#Maqpon Dynasty (Skardu) - historical dynasty/fictional characters
+304685 = {
+	name="Birbal"
+	dynasty=2003036 # Maqpon
+	religion="sunni"
+	culture="kashmiri" #Dardic
+	father=304684
+	mother=304683
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+304686 = {
+	name="Ganga"
+	dynasty=2003036 # Maqpon
+	religion="sunni"
+	culture="kashmiri" #Dardic
+	father=304685
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+304687 = {
+	name="Shuhul"
+	dynasty=2003036 # Maqpon
+	religion="sunni"
+	culture="kashmiri" #Dardic
+	father=304686
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+304688 = {
+	name="Eshin"
+	dynasty=2003036 # Maqpon
+	religion="sunni"
+	culture="kashmiri" #Dardic
+	father=304687
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+304689 = {
+	name="Rahul"
+	dynasty=2003036 # Maqpon
+	religion="sunni"
+	culture="kashmiri" #Dardic
+	father=304688
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+304690 = {
+	name="Arun"
+	dynasty=2003036 # Maqpon
+	religion="sunni"
+	culture="kashmiri" #Dardic
+	father=304689
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Astore Dynasty - fictional placeholders
+304691 = {
+	name="Damodara"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+304692 = {
+	name="Ramadeva"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304691
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+304693 = {
+	name="Giridhari"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304692
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+304694 = {
+	name="Gangaram"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304693
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+304695 = {
+	name="Kshemendra"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304694
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+304696 = {
+	name="Avantivarman"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304695
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+304697 = {
+	name="Moti"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304696
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+304698 = {
+	name="Bhaskar"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304697
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+304699 = {
+	name="Tunga"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304698
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+304700 = {
+	name="Rajiv"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304699
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+304701 = {
+	name="Vasudeva"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304700
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+304702 = {
+	name="Pushkar"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304701
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+304703 = {
+	name="Nidhi"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304702
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+304704 = {
+	name="Salhana"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304703
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+304705 = {
+	name="Uccala"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304704
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+304706 = {
+	name="Vajraditya"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304705
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+304707 = {
+	name="Jassaka"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304706
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+304708 = {
+	name="Udayaraja"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304707
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+304709 = {
+	name="Vuppadeva"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304708
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+304710 = {
+	name="Pran"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304709
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+304711 = {
+	name="Srivar"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304710
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+304712 = {
+	name="Ratnakara"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304711
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+304713 = {
+	name="Lalit"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304712
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+304714 = {
+	name="Mohan"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304713
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+304715 = {
+	name="Vijayapal"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304714
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+304716 = {
+	name="Siddharth"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304715
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+304717 = {
+	name="Ksemagupta"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304716
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+304718 = {
+	name="Pratapaditya"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304717
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+304719 = {
+	name="Trilokinath"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304718
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+304720 = {
+	name="Motilal"
+	dynasty=2003037 # Astore
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304719
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Khapula Dynasty - fictional placeholders
+304721 = {
+	name="Laksmandadeva"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+304722 = {
+	name="Purushottam"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304721
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+304723 = {
+	name="Gangaram"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304722
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+304724 = {
+	name="Rohit"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304723
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+304725 = {
+	name="Samgramadeva"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304724
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+304726 = {
+	name="Siddharth"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304725
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+304727 = {
+	name="Vajradeva"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304726
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+304728 = {
+	name="Simhadeva"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304727
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+304729 = {
+	name="Simharaja"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304728
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+304730 = {
+	name="Utkarsa"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304729
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+304731 = {
+	name="Kailash"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304730
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+304732 = {
+	name="Ramchandra"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304731
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+304733 = {
+	name="Vigraharaja"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304732
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+304734 = {
+	name="Mustafa"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304733
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+304735 = {
+	name="Durlabhvardhana"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304734
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+304736 = {
+	name="Khushnaseeb"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304735
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+304737 = {
+	name="Avantivarman"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304736
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+304738 = {
+	name="Chandrapida"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304737
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+304739 = {
+	name="Vajraraja"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304738
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+304740 = {
+	name="Triloki"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304739
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+304741 = {
+	name="Kisan"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304740
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+304742 = {
+	name="Satish"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304741
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+304743 = {
+	name="Phalunga"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304742
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+304744 = {
+	name="Ratnakara"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304743
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+304745 = {
+	name="Pamposh"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304744
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+304746 = {
+	name="Ravinder"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304745
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+304747 = {
+	name="Naraindas"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304746
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+304748 = {
+	name="Braj"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304747
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+304749 = {
+	name="Udayaraja"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304748
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+304750 = {
+	name="Anil"
+	dynasty=2003038 # Khapula
+	religion="lamaism"
+	culture="kashmiri" #Dardic
+	father=304749
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+darada_king_1 = {
+	name="Acalamangala"
+	dynasty=kashmiri_darada_dynasty
+	religion="mahayana"
+	culture="kashmiri" #Dardic
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+darada_king_2 = {
+	name="Vidhyadhara"
+	dynasty=kashmiri_darada_dynasty
+	religion="mahayana"
+	culture="kashmiri" #Dardic
+	father = darada_king_1
+	3032.1.1={
+		birth=yes
+	}
+	3112.1.1={
+		death=yes
+	}
+}

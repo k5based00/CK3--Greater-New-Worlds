@@ -1,0 +1,532 @@
+﻿### MON KINGDOM RULERS
+# PEGU RULERS
+mon001 = {
+	name = "Pyinzala" #Fictional father of Thamala and Wimala to make them brothers
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	2762.1.1 = {
+		birth = yes
+	}
+	2812.1.1 = {
+		death = yes
+	}
+}
+
+mon002 = {
+	name = "Thamala" #Legendary founder of Pegu
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon001
+	2782.1.1 = {
+		birth = yes
+	}
+	2839.1.1 = {
+		death = yes
+	}
+}
+
+mon003 = {
+	name = "Wimala" #Brother of Thamala
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon001
+	2802.1.1 = {
+		birth = yes
+	}
+	2856.1.1 = {
+		death = yes
+	}
+}
+
+mon004 = {
+	name = "Atha" #Nephew to Wimala - Son of Thamala?
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon002
+	2802.1.1 = {
+		birth = yes
+	}
+	2863.1.1 = {
+		death = yes
+	}
+}
+
+mon005 = {
+	name = "Areindama" #Son of Atha
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon004
+	2832.1.1 = {
+		birth = yes
+	}
+	2887.1.1 = {
+		death = yes
+	}
+}
+
+mon006 = {
+	name = "Takayutpi" #A monk - Fictional name
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon004
+	trait = education_learning_4
+	trait = devoted
+	2842.1.1 = {
+		birth = yes
+	}
+	2904.1.1 = {
+		death = yes
+	}
+}
+
+mon007 = {
+	name = "Geinda"
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon005
+	2872.1.1 = {
+		birth = yes
+	}
+	2919.1.1 = {
+		death = yes
+	}
+}
+
+mon008 = {
+	name = "Migadeippagyi"
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon007
+	2892.1.1 = {
+		birth = yes
+	}
+	2934.1.1 = {
+		death = yes
+	}
+}
+
+mon009 = {
+	name = "Geissadiya"
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon008
+	2912.1.1 = {
+		birth = yes
+	}
+	2944.1.1 = {
+		death = yes
+	}
+}
+
+mon010 = {
+	name = "Karawika"
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon009
+	2928.1.1 = {
+		birth = yes
+	}
+	2956.1.1 = {
+		death = yes
+	}
+}
+
+mon011 = {
+	name = "Pyinzala"
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon010
+	2944.1.1 = {
+		birth = yes
+	}
+	2969.1.1 = {
+		death = yes
+	}
+}
+
+mon012 = {
+	name = "Attatha"
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon010
+	2946.1.1 = {
+		birth = yes
+	}
+	2984.1.1 = {
+		death = yes
+	}
+}
+
+mon013 = {
+	name = "Anuyama"
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon011
+	2962.1.1 = {
+		birth = yes
+	}
+	2996.1.1 = {
+		death = yes
+	}
+}
+
+mon014 = {
+	name = "Migadeippange"
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon012
+	2967.1.1 = {
+		birth = yes
+	}
+	3006.1.1 = {
+		death = yes
+	}
+}
+
+mon015 = {
+	name = "Ekkathamanta"
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon013
+	2982.1.1 = {
+		birth = yes
+	}
+	3018.1.1 = {
+		death = yes
+	}
+}
+
+mon016 = {
+	name = "Uppala"
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon015
+	2998.1.1 = {
+		birth = yes
+	}
+	3030.1.1 = {
+		death = yes
+	}
+}
+
+mon017 = {
+	name = "Pontarika"
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon016
+	3014.1.1 = {
+		birth = yes
+	}
+	3045.1.1 = {
+		death = yes
+	}
+}
+
+mon018 = {
+	name = "Tissa"
+	dynasty = 2000004 #Hanthawaddy
+	religion = theravada
+	culture = mon
+	father = mon017
+	3032.1.1 = {
+		birth = yes
+	}
+	3070.1.1 = {
+		death = yes
+	}
+}
+
+# THATON RULERS
+mon022 = {
+	name = "Dhamma"
+	dynasty = 2000005 #Thaton
+	religion = theravada
+	culture = mon
+	
+	2802.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+mon023 = {
+	name = "Maha_Seitta"
+	dynasty = 2000005 #Thaton
+	religion = theravada
+	culture = mon
+	father = mon022
+	
+	2822.1.1 = {
+		birth = yes
+	}
+	2862.1.1 = {
+		death = yes
+	}
+}
+mon024 = {
+	name = "Ganda"
+	dynasty = 2000005 #Thaton
+	religion = theravada
+	culture = mon
+	father = mon023
+	
+	2842.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+mon025 = {
+	name = "Zeya"
+	dynasty = 2000005 #Thaton
+	religion = theravada
+	culture = mon
+	father = mon024
+	
+	2862.1.1 = {
+		birth = yes
+	}
+	2902.1.1 = {
+		death = yes
+	}
+}
+mon026 = {
+	name = "Thumana"
+	dynasty = 2000005 #Thaton
+	religion = theravada
+	culture = mon
+	father = mon025
+	
+	2882.1.1 = {
+		birth = yes
+	}
+	2942.1.1 = {
+		death = yes
+	}
+}
+mon027 = {
+	name = "Maddaka"
+	dynasty = 2000005 #Thaton
+	religion = theravada
+	culture = mon
+	father = mon026
+	
+	2902.1.1 = {
+		birth = yes
+	}
+	2962.1.1 = {
+		death = yes
+	}
+}
+mon028 = {
+	name = "Aminna"
+	dynasty = 2000005 #Thaton
+	religion = theravada
+	culture = mon
+	father = mon027
+	
+	2932.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+mon029 = {
+	name = "Udinna"
+	dynasty = 2000005 #Thaton
+	religion = theravada
+	culture = mon
+	father = mon028
+	
+	2962.1.1 = {
+		birth = yes
+	}
+	3032.1.1 = {
+		death = yes
+	}
+}
+mon030 = {
+	name = "Manuha"
+	dynasty = 2000005 #Thaton
+	religion = theravada
+	culture = mon
+	father = mon029
+	
+	3012.1.1 = {
+		birth = yes
+	}
+	#1057 - Imprisoned and taken to Pagan after Anawrahta's conquest of Thaton
+	3072.1.1 = {
+		death = yes
+	}
+}
+mon031 = {
+	name = "Maradi" #Fictional son to have a playable vassal under Pagan in 1066
+	dynasty = 2000005 #Thaton
+	religion = theravada
+	culture = mon
+	father = mon030
+	
+	3032.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+# OTHER MON CHARACTERS
+mon050 = {
+	name = "Shin_Arahan" #Primate to Anawrahta
+	religion = theravada
+	culture = mon
+	learning = 15
+	trait = education_learning_4
+	trait = devoted
+	trait = zealous
+	trait = diligent
+	trait = calm
+	
+	3036.1.1 = {
+		birth = yes
+	}
+	3058.1.1 = {
+		employer = burman001 #Anawrahta
+		give_council_position = councillor_court_chaplain #Anawrahta's realm priest
+	}
+	3117.1.1 = {
+		death = yes
+	}
+}
+
+mon051 = {
+	name = "Athinkha" #Fictional ruler to split up the Irrawaddy Delta
+	dynasty = 2000011 #Athinkha
+	religion = theravada
+	culture = mon
+	
+	2837.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+
+mon052 = {
+	name = "Katha_Wunna" #Fictional ruler to split up the Irrawaddy Delta
+	dynasty = 2000012 #Wunna
+	religion = theravada
+	culture = mon
+	
+	3042.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+mon053 = {
+	name = "Byatta" #Muslim Indian (?) who became one of Anawrahta's generals
+	religion = ashari # chose the most populous faith
+	culture = oriya
+
+	trait = education_martial_3
+	trait = content # served his lord unerringly
+	trait = stubborn # so much so a shipwreck didn't kill him
+	trait = strong # notably so
+	trait = athletic # according to legend, rode his horse 60 miles a day to pick flowers
+	trait = scarred # what a man what a man what a mighty good man
+	3032.1.1 = { # unknown, but likely he'd be quite well-seasoned by 1066
+		birth = yes
+	}
+	3058.1.1 = {
+		employer = burman001 #Anawrahta
+
+		add_secret = { type = secret_cannibal } # supposedly cooked and ate the body of a Zawgyi
+		add_spouse = burman017 # Me Wunna
+
+		effect = {
+			add_opinion = { # loves his wife
+				target = character:burman017
+				modifier = love_opinion
+				opinion = 70
+			}
+			add_opinion = { # respects his liege despite culture differences
+				target = liege
+				modifier = respect_opinion
+				opinion = 50
+			}
+			add_trait = lifestyle_blademaster # beef up that prowess
+			add_trait_xp = {
+				trait = lifestyle_blademaster
+				value = {
+					integer_range = {
+						min = medium_lifestyle_random_xp_low
+						max = medium_lifestyle_random_xp_high
+					}
+				}
+			}
+		}
+	}
+	3092.1.1 = {
+		death = yes
+	}
+}
+
+mon054 = {
+	name = "Manisanda" #Anawrahta's wife and lover of Kyansittha
+	religion = theravada
+	culture = mon
+	father = mon031
+	mother = mon055
+	female = yes
+
+	3050.1.1 = { # was meant to be married to Anawrahta in her mid-teens, but sources are unreliable and, also, ick.
+		birth = yes
+	}
+	3068.1.1 = {
+		add_spouse = burman001 # Anawrahta
+	}
+	3092.1.1 = {
+		death = yes
+	}
+}
+
+mon055 = {
+	name = "Jamadevi" #Manisanda's mother
+	religion = theravada
+	culture = mon
+	female = yes
+
+	3032.1.1 = {
+		birth = yes
+	}
+	3050.1.1 = {
+		add_spouse = mon031
+	}
+	3116.1.1 = {
+		death = yes
+	}
+}

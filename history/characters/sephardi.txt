@@ -1,0 +1,400 @@
+﻿41707 = {
+	name = "Isaac" #Ishaq
+	dynasty = 11000
+	martial = 5
+	diplomacy = 7
+	intrigue = 2
+	stewardship = 5
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = wrathful
+	trait = honest
+	trait = education_diplomacy_1
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+41709 = {
+	name = "Baruch" #Barak
+	dynasty = 11001
+	father = 41713 # Guessed connection to keep the dynasty connected
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = education_stewardship_2
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3067.1.2 = {
+		effect = {
+			create_betrothal = character:41710
+		}
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+41711 = {
+	name = "Yosef" #Yusuf
+	dynasty = 11001
+	father = 41713 # Guessed connection to keep the dynasty connected
+	martial = 4
+	diplomacy = 9
+	intrigue = 4
+	stewardship = 4
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = diligent
+	trait = calm
+	trait = education_stewardship_2
+	3063.1.1 = {
+		birth = "3063.1.1"
+	}
+	3067.1.2 = {
+		effect = {
+			create_betrothal = character:41712
+		}
+	}
+	3113.1.1 = {
+		death = "3113.1.1"
+	}
+}
+
+41713 = {
+	name = "Adam"
+	dynasty = 11001
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = education_stewardship_2
+	3022.1.1 = {
+		birth = "3022.1.1"
+	}
+	3067.1.2 = {
+		add_spouse = 41714
+	}
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+}
+
+41715 = {
+	name = "Avraham" #Ibrahim
+	dynasty = 11002
+	martial = 3
+	diplomacy = 10
+	intrigue = 7
+	stewardship = 4
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = calm
+	trait = just
+	trait = education_diplomacy_3
+	3012.1.1 = {
+		birth = "3012.1.1"
+	}
+	3039.1.1 = {
+		add_spouse = 41716
+	}
+	3062.1.1 = {
+		death = "3062.1.1"
+	}
+}
+
+41714 = {
+	name = "Chaviva"
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = education_stewardship_2
+	3023.1.1 = {
+		birth = "3023.1.1"
+	}
+	3073.1.1 = {
+		death = "3073.1.1"
+	}
+}
+
+41716 = {
+	name = "Dalia"
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = education_stewardship_2
+	3023.1.1 = {
+		birth = "3023.1.1"
+	}
+	3073.1.1 = {
+		death = "3073.1.1"
+	}
+}
+
+41717 = {
+	name = "Sheshet"
+	dynasty = 11003
+	martial = 3
+	diplomacy = 10
+	intrigue = 7
+	stewardship = 4
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = calm
+	trait = just
+	trait = education_stewardship_2
+	3033.1.1 = {
+		birth = "3033.1.1"
+	}
+	3083.1.1 = {
+		death = "3083.1.1"
+	}
+}
+
+3220 = {
+	name = "Shmuel"
+	dynasty = 101606
+	martial = 12
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 10
+	religion = "rabbinism"
+	culture = "sephardi"
+	sexuality = bisexual
+	trait = education_stewardship_2
+	trait = humble
+	trait = poet
+	trait = flexible_leader 
+	2995.1.2 = {
+		birth = "2995.1.2"
+	}
+	3057.1.2 = {
+		death = "3057.1.2"
+	}
+}
+
+3221 = {
+	name = "Yosef"
+	dynasty = 101606
+	martial = 5
+	diplomacy = 7
+	intrigue = 9
+	stewardship = 10
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = ambitious 
+	trait = stubborn 
+	trait = education_stewardship_4
+	trait = cynical
+	father = 3220
+	3027.1.2 = {
+		birth = "3027.1.2"
+	}
+	3047.1.1 = {
+		employer = 45016
+	}
+	3068.12.30 = {
+		death = "3068.12.30"
+	}
+}
+
+sephardi_0001 = { #Qasmuna, a famous jewish female poet. It is far from certain that she was related to Joseph ben Naghrela, but I chose to go with that hypothesis since it makes for a better female representation in the history files.
+	name = "Qasmuna" 
+	female = yes 
+	dynasty = 101606
+	father = 3220
+	religion = rabbinism
+	culture = sephardi 
+	trait = intellect_good_1
+	trait = poet 
+	3046.1.1 = {
+		birth = yes
+	}
+	3116.1.1 = {
+		death = yes 
+	}
+}
+
+sephardi_0002 = {
+	name = "Yaakov"
+	religion = rabbinism
+	culture = sephardi 
+	2962.1.1 = {
+		birth = yes
+	}
+	3022.1.1 = {
+		death = yes 
+	}
+}
+
+sephardi_0003 = {
+	name = "Nissim"
+	father = sephardi_0002
+	religion = rabbinism
+	culture = sephardi 
+	2992.1.1 = {
+		birth = yes
+	}
+	3064.1.1 = {
+		death = yes 
+	}
+}
+
+sephardi_0004 = {
+	name = "Rahel"
+	female = yes 
+	father = sephardi_0003
+	religion = rabbinism
+	culture = sephardi 
+	3039.1.1 = {
+		birth = yes
+	}
+	3051.1.1 = {
+		add_spouse = 3221
+	}
+	3102.1.1 = {
+		death = yes 
+	}
+}
+
+sephardi_0005 = { #Azariah, Yosef ben Naghrela's son 
+	name = "Azariah" 
+	dynasty = 101606
+	father = 3221
+	mother = sephardi_0004
+	religion = rabbinism
+	culture = sephardi 
+	3062.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes 
+	}
+}
+
+
+41708 = {
+	name = "Adina"
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = education_stewardship_2
+	3053.1.1 = {
+		birth = "3053.1.1"
+	}
+	3103.1.1 = {
+		death = "3103.1.1"
+	}
+}
+
+41710 = {
+	name = "Ahava"
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = education_stewardship_2
+	3053.1.1 = {
+		birth = "3053.1.1"
+	}
+	3103.1.1 = {
+		death = "3103.1.1"
+	}
+}
+90131 = {
+	name = "Abu_al-Fadl"
+	# AKA: Abu al
+	dynasty = 20076
+	martial = 8
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 4
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = cynical
+	trait = education_diplomacy_4
+	3042.1.2 = {
+		birth = "3042.1.2"
+	}
+	3092.1.2 = {
+		death = "3092.1.2"
+	}
+}
+
+90132 = {
+	name = "Isaac"
+	dynasty = 20077
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = education_diplomacy_2
+	3042.1.2 = {
+		birth = "3042.1.2"
+	}
+	3092.1.2 = {
+		death = "3092.1.2"
+	}
+}
+
+90133 = {
+	name = "Yosef"
+	dynasty = 20078
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 4
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = education_intrigue_2
+	3042.1.2 = {
+		birth = "3042.1.2"
+	}
+	3092.1.2 = {
+		death = "3092.1.2"
+	}
+}
+
+90134 = {
+	name = "Avraham"
+	dynasty = 20078
+	martial = 4
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "rabbinism"
+	culture = "sephardi"
+	trait = education_stewardship_3
+	3042.1.2 = {
+		birth = "3042.1.2"
+	}
+	3092.1.2 = {
+		death = "3092.1.2"
+	}
+}

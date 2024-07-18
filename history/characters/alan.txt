@@ -1,0 +1,1451 @@
+﻿### Pre 965 Alans
+#
+146205 = {
+	name = "Buriberdi"
+	dynasty = 1022383
+	culture = "alan"
+	religion = "tengri_pagan"
+
+	2722.1.1 = {
+		birth = yes
+	}
+	2779.1.1 = {
+		death = yes
+	}
+}
+
+146206 = {
+	name = "Balsag"
+	dynasty = 1022383
+	culture = "alan"
+	religion = "tengri_pagan"
+	father = 146205
+	2748.1.1 = {
+		birth = yes
+	}
+	2807.1.1 = {
+		death = yes
+	}
+}
+
+146207 = {
+	name = "Rosmag"
+	dynasty = 1022383
+	culture = "alan"
+	religion = "tengri_pagan"
+	father = 146205
+	2750.1.1 = {
+		birth = yes
+	}
+	2810.1.1 = {
+		death = yes
+	}
+}
+
+146208 = {
+	name = "Alatey"
+	dynasty = 1022383
+	culture = "alan"
+	religion = "tengri_pagan"
+	father = 146205
+	2752.1.1 = {
+		birth = yes
+	}
+	2815.1.1 = {
+		death = yes
+	}
+}
+
+146209 = {
+	name = "Bazuk"
+	dynasty = 1022383
+	culture = "alan"
+	religion = "tengri_pagan"
+	father = 146206
+	2765.1.1 = {
+		birth = yes
+	}
+	2829.1.1 = {
+		death = yes
+	}
+}
+163118 = {
+	name = "Itaz"
+	dynasty = 1029056
+	religion = "tengri_pagan"
+	culture = "alan"
+	2842.1.1 = {
+		birth = "2842.1.1"
+	}
+	2902.1.1 = {
+		death = "2902.1.1"
+	}
+}
+183223 = {
+	name = "Levan"
+	dynasty = 1029056
+
+	father = 163118
+
+	religion = "tengri_pagan"
+	culture = "alan"
+	2864.1.1 = {
+		birth = "2864.1.1"
+	}
+	2912.1.1 = {
+		death = "2912.1.1"
+	}
+}
+
+### Kingdom of Alania 965-1238
+#
+#"Oseti" (?) dynasty
+41592 = {
+	name = "Urdur"
+	dynasty = 100603
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "orthodox"
+	culture = "alan"
+	trait = education_martial_2
+	2979.1.1 = {
+		birth = yes
+	}
+	3024.1.1 = {
+		death = yes
+	}
+}
+
+20662 = {
+	name = "Durgulel"	#the Great (?)
+	dynasty = 100603	#Oseti"
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	learning = 6
+	religion = "orthodox"
+	culture = "alan"
+	trait = chaste
+	trait = ambitious
+	trait = education_learning_3
+	father = 41592
+	3007.1.1 = {
+		birth = yes
+	}
+	3090.1.1 = {
+		death = yes
+	}
+}
+
+9956 = {
+	name = "Alda"	#Sister of Durgulel
+	female = yes
+	dynasty = 100603
+	martial = 8
+	diplomacy = 2
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "alan"
+	trait = temperate
+	trait = education_intrigue_2
+	father = 41592
+	3012.1.1 = {
+		birth = yes
+	}
+	3074.1.1 = {
+		death = yes
+	}
+}
+
+9953 = {
+	name = "Borena"		#Sister of Durgulel
+						#Wife of Bagrat IV of Georgia
+	female = yes
+	dynasty = 100603
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "orthodox"
+	culture = "alan"
+	trait = generous
+	trait = education_stewardship_1
+	father = 41592
+	3020.1.1 = {
+		birth = yes
+	}
+	3084.1.1 = {
+		death = yes
+	}
+}
+
+#Bagratoni Alans
+9957 = {
+	name = "Demetre"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "orthodox"
+	culture = "alan"
+	father = 9950
+	mother = 9956
+	trait = arrogant
+	trait = wrathful
+	trait = education_martial_4
+	3057.1.1 = {
+		birth = yes
+	}
+	3110.1.1 = {
+		death = yes
+	}
+}
+
+9959 = {
+	name = "Davit"
+	dynasty = 507
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "orthodox"
+	culture = "alan"
+	trait = honest
+	trait = wrathful
+	trait = education_martial_2
+	father = 9957
+	3081.1.1 = {
+		birth = yes
+	}
+	3132.1.1 = {
+		death = yes
+	}
+}
+
+41550 = {
+	name = "Athom"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "orthodox"
+	culture = "alan"
+	father = 9959
+	3102.1.1 = {
+		birth = yes
+	}
+	3118.1.1 = {
+		add_spouse = 232751	
+	}
+	3170.1.1 = {
+		death = yes
+	}
+}
+
+216524 = {
+	name = "Djadaron"
+	dynasty = 507
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "orthodox"
+	culture = "alan"
+	trait = education_martial_2
+	father = 41550
+	mother = 232751
+	3122.1.1 = {
+		birth = yes
+	}
+	3183.1.1 = {
+		death = yes
+	}
+}
+
+466516 = {
+	name = "Soslan"
+	# AKA: Davit / Soslan
+	dynasty = 507
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "orthodox"
+	culture = "alan"
+	trait = lustful
+	trait = brave
+	trait = humble
+	trait = diligent
+	trait = education_martial_4
+	father = 216524
+	3157.1.1 = {
+		birth = yes
+	}
+	3191.1.1 = {
+		name = "Davit"
+		add_spouse = 466517		#Tamar
+	}
+	3209.1.1 = {
+		death = yes
+	}
+}
+
+#Post David Soslan Alan kings (likely placeholders)
+302270 = {
+	name = "Rhosmices"
+	dynasty = 2001052	#Ovsia
+	religion = orthodox
+	culture = alan
+	3186.1.2 = {
+		birth = yes
+	}
+	3240.1.2 = {
+		death = yes
+	}
+}
+
+93037 = {
+	name = "Khankhusy"
+	dynasty = 100603
+	religion = "orthodox"
+	culture = "alan"
+	father = 93036
+	3202.1.1 = {
+		birth = yes
+	}
+		
+	3267.1.1 = {
+		death = "3267.1.1"
+	}
+}
+93038 = {
+	name = "Safrak"
+	dynasty = 100606
+	religion = "orthodox"
+	culture = "alan"
+	father = 93048
+	3202.1.1 = {
+		birth = yes
+	}
+		
+	3282.1.1 = {
+		death = "3282.1.1"
+	}
+}
+93039 = {
+	name = "Kavtia"
+	#placeholder
+	dynasty = 100606
+	religion = "orthodox"
+	culture = "alan"
+	father = 93038
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+		
+	3315.1.1 = {
+		death = "3315.1.1"
+	}
+}
+93047 = {
+	name = "Aspar"
+	dynasty = 100606
+	religion = "ashari"
+	culture = "alan"
+	father = 93039
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+		
+	3347.1.1 = {
+		death = "3347.1.1"
+	}
+}
+
+### Other Alans
+#
+122502 = {
+	name = "Anastasia"
+	# AKA: Maria
+	female = yes
+	religion = "orthodox"
+	culture = "alan"
+	2992.1.2 = {
+		birth = "2992.1.2"
+	}
+	3042.1.2 = {
+		death = "3042.1.2"
+	}
+}
+
+20664 = {
+	name = "BuU_rgur"
+	# AKA: Buurgur
+	dynasty = 100602
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "alan"
+	trait = chaste
+	trait = education_stewardship_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20665 = {
+	name = "Burikhan"
+	dynasty = 100605
+	martial = 7
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "orthodox"
+	culture = "alan"
+	trait = cynical
+	trait = education_martial_2
+	3040.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+20666 = {
+	name = "Davit"
+	#placeholder
+	dynasty = 100606
+	martial = 4
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 4
+	religion = "orthodox"
+	culture = "alan"
+	trait = education_diplomacy_2
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+216540 = {
+	name = "Burudukan"
+	female = yes
+	dynasty = 100603
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 4
+	religion = "orthodox"
+	culture = "alan"
+	trait = education_learning_3
+	father = 93035
+	3128.1.1 = {
+		birth = "3128.1.1"
+	}
+	3186.1.1 = {
+		death = "3186.1.1"
+	}
+}
+
+222659 = {
+	name = "Anna"
+	# AKA: Marfia
+	female = yes
+	religion = "orthodox"
+	culture = "alan"
+	3167.1.2 = {
+		birth = "3167.1.2"
+	}
+	3202.1.2 = {
+		death = "3202.1.2"
+	}
+}
+
+222671 = {
+	name = "Maria"
+	# AKA: Maria 'Shvarnovna'
+	female = yes
+	religion = "orthodox"
+	culture = "alan"
+	3160.1.2 = {
+		birth = "3160.1.2"
+	}
+	3208.3.19 = {
+		death = "3208.3.19"
+	}
+}
+
+228060 = {
+	name = "Suarn"
+	dynasty = 100603
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "orthodox"
+	culture = "alan"
+	trait = humble
+	trait = education_martial_3
+	father = 93035
+	3130.1.1 = {
+		birth = "3130.1.1"
+	}
+	3180.1.1 = {
+		death = "3180.1.1"
+	}
+}
+
+228063 = {
+	name = "Uturku"
+	dynasty = 100604
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "orthodox"
+	culture = "alan"
+	trait = education_learning_2
+	father = 93042
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228064 = {
+	name = "Gorgun"
+	dynasty = 100605
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "orthodox"
+	culture = "alan"
+	trait = education_martial_2
+	father = 20665
+	3062.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+194425 = {
+	name = "Drudan"
+	female = yes
+	dynasty = 100605
+	religion = "orthodox"
+	culture = "alan"
+	father = 20665
+	3057.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+228065 = {
+	name = "Iltar"
+	#placeholder
+	dynasty = 100606
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 6
+	religion = "orthodox"
+	culture = "alan"
+	trait = education_learning_3
+	father = 20666
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+228073 = {
+	name = "Buriberdi"
+	dynasty = 100674
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "tengri_pagan"
+	culture = "alan"
+	trait = ill
+	trait = education_intrigue_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228074 = {
+	name = "Kuddana"
+	# AKA: Kuddana or Huddan
+	dynasty = 100675
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "alan"
+	trait = just
+	trait = education_learning_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+41593 = {
+	name = "Irina"
+	female = yes
+	dynasty = 100603
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "orthodox"
+	culture = "alan"
+	trait = education_stewardship_2
+	father = 20662
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	3077.1.1 = {
+		death = "3077.1.1"
+	}
+}
+
+41594 = {
+	name = "Yasynya"
+	dynasty = 100603
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "orthodox"
+	culture = "alan"
+	trait = education_diplomacy_3
+	father = 20662
+	3036.1.1 = {
+		birth = "3036.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+480160 = {
+	name = "Chelakhsartag"
+	dynasty = 100604
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "ashari"
+	culture = "alan"
+	trait = craven
+	trait = education_learning_2
+	father = 93046
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+480170 = {
+	name = "Soslan"
+	#placeholder
+	dynasty = 100605
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "orthodox"
+	culture = "alan"
+	trait = honest
+	trait = education_martial_3
+	father = 228064
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3157.1.1 = {
+		death = "3157.1.1"
+	}
+}
+
+480180 = {
+	name = "Taghai"
+	#placeholder
+	dynasty = 100606
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "orthodox"
+	culture = "alan"
+	trait = generous
+	trait = education_martial_2
+	father = 228065
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+480210 = {
+	name = "Taus"
+	#placeholder
+	dynasty = 100605
+	martial = 7
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "alan"
+	trait = generous
+	trait = zealous
+	trait = hunchbacked
+	trait = education_martial_3
+	father = 480170
+	3137.1.1 = {
+		birth = "3137.1.1"
+	}
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+93035 = {
+	name = "Huddan"
+	dynasty = 100603
+	religion = "orthodox"
+	culture = "alan"
+	father = 41594
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+		
+	3150.1.1 = {
+		death = "3150.1.1"
+	}
+}
+
+93036 = {
+	name = "Vladislav"
+	dynasty = 100603
+	religion = "orthodox"
+	culture = "alan"
+	father = 228060
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+		
+	3224.1.1 = {
+		death = "3224.1.1"
+	}
+}
+
+194409 = {
+	name = "Shatana"
+	female = yes
+	dynasty = 100603
+	religion = "orthodox"
+	culture = "alan"
+	father = 93036
+	3206.1.1 = {
+		birth = yes
+	}
+		
+	3267.1.1 = {
+		death = "3267.1.1"
+	}
+}
+
+93040 = {
+	name = "Alatey"
+	#placeholder
+	dynasty = 100604
+	religion = "orthodox"
+	culture = "alan"
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+		
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+93041 = {
+	name = "Aspar"
+	#placeholder
+	dynasty = 100604
+	religion = "orthodox"
+	culture = "alan"
+	father = 93040
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+		
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+93042 = {
+	name = "Candak"
+	#placeholder
+	dynasty = 100604
+	religion = "orthodox"
+	culture = "alan"
+	father = 93041
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+		
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+93043 = {
+	name = "Uruzma"
+	#placeholder
+	dynasty = 100604
+	religion = "orthodox"
+	culture = "alan"
+	father = 228063
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+		
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+
+93044 = {
+	name = "Burikhan"
+	#placeholder
+	dynasty = 100604
+	religion = "orthodox"
+	culture = "alan"
+	father = 93043
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+		
+	3262.1.1 = {
+		death = "3262.1.1"
+	}
+}
+
+93045 = {
+	name = "Aghsartan"
+	#placeholder
+	dynasty = 100604
+	religion = "orthodox"
+	culture = "alan"
+	father = 93044
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+		
+	3292.1.1 = {
+		death = "3292.1.1"
+	}
+}
+
+93046 = {
+	name = "Girgon"
+	#placeholder
+	dynasty = 100604
+	religion = "orthodox"
+	culture = "alan"
+	father = 93045
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+		
+	3315.1.1 = {
+		death = "3315.1.1"
+	}
+}
+
+194416 = {
+	name = "Itaz"
+	dynasty = 100606
+	religion = "ashari"
+	culture = "alan"
+	father = 93047
+	3319.1.1 = {
+		birth = yes
+	}
+		
+	3347.1.1 = {
+		death = "3347.1.1"
+	}
+}
+194415 = {
+	name = "Lela"
+	female = yes	
+	dynasty = 100606
+	religion = "ashari"
+	culture = "alan"
+	father = 93047
+	3317.1.1 = {
+		birth = yes
+	}
+		
+	3347.1.1 = {
+		death = "3347.1.1"
+	}
+}
+
+93048 = {
+	name = "Davit"
+	#placeholder
+	dynasty = 100606
+	religion = "orthodox"
+	culture = "alan"
+	father = 480180
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+		
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+
+9958 = {
+	name = "Irene"
+	female = yes
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "orthodox"
+	culture = "alan"
+	trait = lustful
+	trait = wrathful
+	trait = education_intrigue_4
+	father = 9950
+	mother = 9956
+	3044.1.1 = {
+		birth = "3044.1.1"
+	}
+	3068.1.1 = {
+		employer = 9957
+	}
+	3093.1.2 = {
+		death = "3093.1.2"
+	}
+}
+
+74027 = {
+	name = "Kubal"
+	dynasty = 12271
+
+	culture = "alan"
+	religion = "tengri_pagan"
+
+	2822.1.1 = {
+		birth = "2822.1.1"
+	}
+	2880.1.1 = {
+		death = "2880.1.1"
+	}
+}
+74028 = {
+	name = "Candak"
+	dynasty = 12271
+
+	father = 74027
+
+	culture = "alan"
+	religion = "tengri_pagan"
+
+	2850.1.1 = {
+		birth = "2850.1.1"
+	}
+	2902.1.1 = {
+		death = "2902.1.1"
+	}
+}
+
+183224 = {
+	name = "Saros"
+	dynasty = 1029056
+
+	father = 163118
+
+	religion = "orthodox"
+	culture = "alan"
+	2865.1.1 = {
+		birth = "2865.1.1"
+	}
+	2917.1.1 = {
+		death = "2917.1.1"
+	}
+}
+
+183225 = {
+	name = "Atsyrukhs"
+	female = yes
+	dynasty = 1029056
+
+	father = 163118
+
+	religion = "orthodox"
+	culture = "alan"
+	2867.1.1 = {
+		birth = "2867.1.1"
+	}
+	2923.1.1 = {
+		death = "2923.1.1"
+	}
+}
+
+183226 = {
+	name = "E_lbeg"
+	dynasty = 1029058
+
+	religion = "orthodox"
+	culture = "alan"
+	trait = leper
+	2827.1.1 = {
+		birth = "2827.1.1"
+	}
+	2883.1.1 = {
+		death = "2883.1.1"
+	}
+}
+
+183227 = {
+	name = "Hasqar"
+	dynasty = 1029058
+
+	father = 183226
+
+	religion = "orthodox"
+	culture = "alan"
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}
+	2895.1.1 = {
+		death = "2895.1.1"
+	}
+}
+
+183228 = {
+	name = "Istor"
+	dynasty = 1029058
+
+	father = 183226
+
+	religion = "orthodox"
+	culture = "alan"
+	2851.1.1 = {
+		birth = "2851.1.1"
+	}
+	2869.1.1 = {
+		add_spouse = 183244
+	}
+	2899.1.1 = {
+		death = "2899.1.1"
+	}
+}
+
+183229 = {
+	name = "Balsag"
+	dynasty = 1029058
+
+	father = 183227
+
+	religion = "orthodox"
+	culture = "alan"
+	2866.1.1 = {
+		birth = "2866.1.1"
+	}
+	2914.1.1 = {
+		death = "2914.1.1"
+	}
+}
+
+183230 = {
+	name = "Guranduht"
+	female = yes
+	dynasty = 1029058
+
+	father = 183227
+
+	religion = "orthodox"
+	culture = "alan"
+	2867.1.1 = {
+		birth = "2867.1.1"
+	}
+	2921.1.1 = {
+		death = "2921.1.1"
+	}
+}
+
+183231 = {
+	name = "TsE_rasan"
+	dynasty = 1029057
+
+	religion = "tengri_pagan"
+	culture = "alan"
+	2833.1.1 = {
+		birth = "2833.1.1"
+	}
+	2896.1.1 = {
+		death = "2896.1.1"
+	}
+}
+
+183232 = {
+	name = "Kuluk"
+	dynasty = 1029057
+
+	father = 183231
+
+	religion = "tengri_pagan"
+	culture = "alan"
+	2851.1.1 = {
+		birth = "2851.1.1"
+	}
+	2910.1.1 = {
+		death = "2910.1.1"
+	}
+}
+
+183233 = {
+	name = "Gubaz"
+	dynasty = 1029057
+
+	father = 183231
+
+	religion = "tengri_pagan"
+	culture = "alan"
+	2854.1.1 = {
+		birth = "2854.1.1"
+	}
+	2913.1.1 = {
+		death = "2913.1.1"
+	}
+}
+
+183234 = {
+	name = "Savkudz"
+	dynasty = 1029057
+
+	father = 183231
+
+	religion = "tengri_pagan"
+	culture = "alan"
+	2856.1.1 = {
+		birth = "2856.1.1"
+	}
+	2888.1.1 = {
+		death = "2888.1.1"
+	}
+}
+
+183235 = {
+	name = "Burudukan"
+	female = yes
+	dynasty = 1029057
+
+	father = 183231
+
+	religion = "tengri_pagan"
+	culture = "alan"
+	2858.1.1 = {
+		birth = "2858.1.1"
+	}
+	2891.1.1 = {
+		death = "2891.1.1"
+	}
+}
+
+183236 = {
+	name = "Shukhia"
+	female = yes
+	dynasty = 1029057
+
+	father = 183231
+
+	religion = "tengri_pagan"
+	culture = "alan"
+	2860.1.1 = {
+		birth = "2860.1.1"
+	}
+	2918.1.1 = {
+		death = "2918.1.1"
+	}
+}
+
+183237 = {
+	name = "Vedokha"
+	female = yes
+	dynasty = 1029057
+
+	father = 183231
+
+	religion = "tengri_pagan"
+	culture = "alan"
+	2862.1.1 = {
+		birth = "2862.1.1"
+	}
+	2929.1.1 = {
+		death = "2929.1.1"
+	}
+}
+
+183238 = {
+	name = "MagkE_"
+	dynasty = 1029070
+
+	religion = "orthodox"
+	culture = "alan"
+	2827.1.1 = {
+		birth = "2827.1.1"
+	}
+	2897.1.1 = {
+		death = "2897.1.1"
+	}
+}
+
+183239 = {
+	name = "Aspar"
+	dynasty = 1029070
+
+	father = 183238
+
+	religion = "orthodox"
+	culture = "alan"
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}
+	2914.1.1 = {
+		death = "2914.1.1"
+	}
+}
+
+183240 = {
+	name = "Soslan"
+	dynasty = 1029070
+
+	father = 183239
+
+	religion = "orthodox"
+	culture = "alan"
+	2867.1.1 = {
+		birth = "2867.1.1"
+	}
+	2937.1.1 = {
+		death = "2937.1.1"
+	}
+}
+
+183241 = {
+	name = "Safrak"
+	dynasty = 1029070
+
+	father = 183238
+
+	religion = "gayomarthianism"
+	culture = "alan"
+	2849.1.1 = {
+		birth = "2849.1.1"
+	}
+	2867.1.1 = {
+		add_spouse = 183243
+	}
+	2917.1.1 = {
+		death = "2917.1.1"
+	}
+}
+
+183242 = {
+	name = "Boz-Uruz"
+	dynasty = 1029070
+
+	father = 183241
+	mother = 183243
+
+	religion = "gayomarthianism"
+	culture = "alan"
+	2867.1.1 = {
+		birth = "2867.1.1"
+	}
+	2873.1.1 = {
+		death = "2873.1.1"
+	}
+}
+
+183245 = {
+	name = "Bekkuyzar"
+	dynasty = 1029060
+
+	religion = "tengri_pagan"
+	culture = "alan"
+	2805.1.1 = {
+		birth = "2805.1.1"
+	}
+	2871.1.1 = {
+		death = "2871.1.1"
+	}
+}
+
+183246 = {
+	name = "Konstantin"
+	dynasty = 1029060
+
+	father = 183245
+
+	religion = "orthodox"
+	culture = "alan"
+	2841.1.1 = {
+		birth = "2841.1.1"
+	}
+	2893.1.1 = {
+		death = "2893.1.1"
+	}
+}
+
+183247 = {
+	name = "Zaur"
+	dynasty = 1029060
+
+	father = 183245
+
+	religion = "orthodox"
+	culture = "alan"
+	2843.1.1 = {
+		birth = "2843.1.1"
+	}
+	2888.1.1 = {
+		death = "2888.1.1"
+	}
+}
+
+183248 = {
+	name = "Chelakhsartag"
+
+	father = 183245
+
+	religion = "tengri_pagan"
+	culture = "alan"
+	trait = bastard
+	2851.1.1 = {
+		birth = "2851.1.1"
+	}
+	2910.1.1 = {
+		death = "2910.1.1"
+	}
+}
+194372 = {
+	name = "Lamara"
+	female = yes
+	dynasty = 1029060
+
+	father = 183245
+
+	religion = "tengri_pagan"
+	culture = "alan"
+	2853.1.1 = {
+		birth = yes
+	}
+	2910.1.1 = {
+		death = "2910.1.1"
+	}
+}
+
+146210 = {
+	name = "Kaur"
+	dynasty = 1022384
+	culture = "alan"
+	religion = "tengri_pagan"
+
+	2742.1.1 = {
+		birth = yes
+	}
+	2796.1.1 = {
+		death = yes
+	}
+}
+
+146211 = {
+	name = "Kul"
+	dynasty = 1022384
+	culture = "alan"
+	religion = "tengri_pagan"
+	father = 146210
+	2759.1.1 = {
+		birth = yes
+	}
+	2822.1.1 = {
+		death = yes
+	}
+}
+
+146212 = {
+	name = "Khankhusy"
+	dynasty = 1022385
+	culture = "alan"
+	religion = "tengri_pagan"
+
+	2738.1.1 = {
+		birth = yes
+	}
+	2791.1.1 = {
+		death = yes
+	}
+}
+
+146213 = {
+	name = "Djadaron"
+	dynasty = 1022385
+	culture = "alan"
+	religion = "tengri_pagan"
+	father = 146212
+	2755.1.1 = {
+		birth = yes
+	}
+	2818.1.1 = {
+		death = yes
+	}
+}

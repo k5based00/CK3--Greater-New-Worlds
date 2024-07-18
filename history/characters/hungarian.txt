@@ -1,0 +1,9958 @@
+﻿1621 = {
+	name = "MA_rton"
+	# AKA: Marton
+	dynasty = 101570
+	martial = 5
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 4409
+	3029.1.1 = {
+		birth = yes
+	}
+	3051.1.1 = {
+		add_spouse = 4411
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+6847 = {
+	name = "CsA_k"
+	religion = magyar_pagan
+	culture = mogyer
+	2822.1.1 = {
+		birth = yes
+	}
+	2899.1.1 = {
+		death = yes
+	}
+}
+
+194365 = {
+	name = "GE_za"
+	religion = magyar_pagan
+	culture = mogyer
+	father = 6847
+	2842.1.1 = {
+		birth = yes
+	}
+	2899.1.1 = {
+		death = yes
+	}
+}
+194366 = {
+	name = "Ibolya"
+	female = yes
+	religion = magyar_pagan
+	culture = mogyer
+	father = 6847
+	2847.1.1 = {
+		birth = yes
+	}
+	2899.1.1 = {
+		death = yes
+	}
+}
+
+6848 = {
+	name = "Gyula"
+	religion = magyar_pagan
+	culture = mogyer
+	2843.1.1 = {
+		birth = yes
+	}
+	2897.1.1 = {
+		death = yes
+	}
+}
+
+20356 = {
+	name = "GyO_rgy"
+	dynasty = 19010
+	martial = 8
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = just
+	trait = education_martial_2
+	3022.1.1 = {
+		birth = "3022.1.1"
+	}
+	3047.1.1 = {
+		add_spouse = 4434
+	}
+	3085.1.1 = {
+		death = "3085.1.1"
+	}
+}
+
+20360 = {
+	name = "OttO_"
+	# AKA: Otto
+	dynasty = 101568
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = brave
+	trait = education_martial_3
+	3014.1.1 = {
+		birth = "3014.1.1"
+	}
+	3040.1.1 = {
+		add_spouse = 4389
+	}
+	3084.1.1 = {
+		death = "3084.1.1"
+	}
+}
+
+20362 = {
+	name = "GU_t"
+	# AKA: Gut
+	dynasty = 19052
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_1
+	father = 20357
+	3007.1.1 = {
+		birth = "3007.1.1"
+	}
+	3067.1.1 = {
+		death = "3067.1.1"
+	}
+}
+
+20363 = {
+	name = "Keled"
+	dynasty = 19052
+	martial = 8
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = wrathful
+	trait = deceitful
+	trait = education_diplomacy_4
+	father = 20357
+	3012.1.1 = {
+		birth = "3012.1.1"
+	}
+	3035.1.2 = {
+		add_spouse = 491
+	}
+	3070.1.1 = {
+		death = "3070.1.1"
+	}
+}
+
+20364 = {
+	name = "Elek"
+	dynasty = 101566
+	martial = 6
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 4379
+	3026.1.1 = {
+		birth = "3026.1.1"
+	}
+	3052.1.1 = {
+		add_spouse = 4384
+	}
+	3085.1.1 = {
+		death = "3085.1.1"
+	}
+}
+
+20365 = {
+	name = "MA_tE_"
+	# AKA: Mate
+	dynasty = 101565
+	martial = 8
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = clubfooted
+	trait = education_learning_3
+	3025.1.1 = {
+		birth = "3025.1.1"
+	}
+	3042.1.1 = {
+		add_spouse = 4365
+	}
+	3080.1.1 = {
+		death = "3080.1.1"
+	}
+}
+
+20366 = {
+	name = "PE_ter"
+	dynasty = 19000
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = temperate
+	trait = education_intrigue_2
+	father = 20371
+	mother = 499
+	3019.1.1 = {
+		birth = "3019.1.1"
+	}
+	3042.1.1 = {
+		add_spouse = 20375
+	}
+	3082.1.1 = {
+		death = "3082.1.1"
+	}
+}
+
+20367 = {
+	name = "Ince"
+	dynasty = 101569
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = education_diplomacy_2
+	father = 4399
+	3049.1.1 = {
+		birth = "3049.1.1"
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+20368 = {
+	name = "Lampert"
+	dynasty = 708
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = education_diplomacy_2
+	father = 470
+	mother = 763
+	3053.1.1 = {
+		birth = "3053.1.1"
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+20369 = {
+	name = "Lampert"
+	dynasty = 19053
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = stuttering
+	trait = education_martial_2
+	father = 4429
+	3057.1.1 = {
+		birth = "3057.1.1"
+	}
+	3134.1.1 = {
+		death = "3134.1.1"
+	}
+}
+
+20370 = {
+	name = "ZsO_fia"
+	# AKA: Zsofia
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = craven
+	trait = education_diplomacy_3
+	father = 472
+	mother = 479
+	3066.1.1 = {
+		birth = "3066.1.1"
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+20371 = {
+	name = "SA_muel"
+	# AKA: Samuel
+	dynasty = 19000
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = greedy
+	trait = education_martial_2
+	2992.1.2 = {
+		birth = "2992.1.2"
+	}
+	3012.1.1 = {
+		add_spouse = 499
+	}
+	3046.7.1 = {
+		death = "3046.7.1"
+	}
+}
+
+20372 = {
+	name = "Belenik"
+	dynasty = 101563
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_diplomacy_2
+	3026.1.1 = {
+		birth = "3026.1.1"
+	}
+	3050.1.1 = {
+		add_spouse = 4444
+	}
+	3083.1.1 = {
+		death = "3083.1.1"
+	}
+}
+
+20373 = {
+	name = "MihA_ly"
+	# AKA: Mihaly
+	dynasty = 101564
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = wrathful
+	trait = education_diplomacy_3
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3066.1.1 = {
+		add_spouse = 4366
+	}
+	3089.1.1 = {
+		death = "3089.1.1"
+	}
+}
+
+20374 = {
+	name = "Ilya"
+	dynasty = 101573
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = education_martial_2
+	3033.1.1 = {
+		birth = "3033.1.1"
+	}
+	3068.1.1 = {
+		employer = 476
+	}
+	3085.1.1 = {
+		death = "3085.1.1"
+	}
+}
+
+20375 = {
+	name = "Emese"
+	female = yes
+	dynasty = 180
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = education_learning_1
+	3027.1.1 = {
+		birth = "3027.1.1"
+	}
+	3088.1.1 = {
+		death = "3088.1.1"
+	}
+}
+
+20376 = {
+	name = "MihA_ly"
+	# AKA: Mihaly
+	dynasty = 19000
+	martial = 7
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = generous
+	trait = education_martial_2
+	father = 20366
+	mother = 20375
+	3044.1.1 = {
+		birth = "3044.1.1"
+	}
+	3104.1.1 = {
+		death = "3104.1.1"
+	}
+}
+
+20377 = {
+	name = "JA_nos"
+	# AKA: Janos
+	dynasty = 19000
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = honest
+	trait = diligent
+	trait = education_learning_2
+	father = 20366
+	mother = 20375
+	3047.1.1 = {
+		birth = "3047.1.1"
+	}
+	3101.1.1 = {
+		death = "3101.1.1"
+	}
+}
+
+20378 = {
+	name = "Keled"
+	dynasty = 19052
+	martial = 9
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = cynical
+	trait = education_martial_1
+	father = 20363
+	mother = 491
+	3036.1.1 = {
+		birth = "3036.1.1"
+	}
+	3058.1.2 = {
+		add_spouse = 4363
+	}
+	3088.1.1 = {
+		death = "3088.1.1"
+	}
+}
+
+20379 = {
+	name = "BE_ny"
+	# AKA: Beny
+	dynasty = 19052
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = education_diplomacy_2
+	father = 20363
+	mother = 491
+	3038.1.1 = {
+		birth = "3038.1.1"
+	}
+	3098.1.1 = {
+		death = "3098.1.1"
+	}
+}
+
+219001 = {
+	name = "Almos"
+	dynasty = 100442
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = education_martial_3
+	3152.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = yes
+	}
+}
+
+219003 = {
+	name = "TamA_s"
+	dynasty = 100444
+	martial = 8
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = wrathful
+	trait = education_intrigue_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219004 = {
+	name = "DonA_t"
+	# AKA: Donat
+	dynasty = 100445
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = temperate
+	trait = education_learning_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219005 = {
+	name = "GellE_rt"
+	# AKA: Gellert
+	dynasty = 100450
+	martial = 6
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 93654
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219006 = {
+	name = "KornE_l"
+	# AKA: Kornel
+	dynasty = 100451
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = just
+	trait = arrogant
+	trait = education_martial_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219007 = {
+	name = "BernA_t"
+	# AKA: Bernat
+	dynasty = 100452
+	martial = 4
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = education_intrigue_1
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219008 = {
+	name = "LA_szlO_"
+	# AKA: Laszlo
+	dynasty = 100453
+	martial = 7
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = education_diplomacy_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219009 = {
+	name = "MO_ric"
+	# AKA: Moric
+	dynasty = 100454
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = cynical
+	trait = temperate
+	trait = education_intrigue_1
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219010 = {
+	name = "A_dA_rn"
+	# AKA: adarn
+	dynasty = 100460
+	martial = 4
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219011 = {
+	name = "MA_rton"
+	# AKA: Marton
+	#dynasty = 100462
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = deceitful
+	trait = arrogant
+	trait = education_learning_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219013 = {
+	name = "JA_nos"
+	# AKA: Janos
+	dynasty = 100517
+	martial = 6
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_learning_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219014 = {
+	name = "GA_briel"
+	# AKA: Gabriel
+	dynasty = 100518
+	martial = 5
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_stewardship_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219015 = {
+	name = "Imre"
+	dynasty = 100519
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = greedy
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219016 = {
+	name = "MA_tyA_s"
+	# AKA: Matyas
+	dynasty = 100520
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = zealous
+	trait = brave
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219017 = {
+	name = "MO_ric"
+	# AKA: Moric
+	dynasty = 100521
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219018 = {
+	name = "A_goston"
+	# AKA: agoston
+	dynasty = 100523
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = craven
+	trait = education_learning_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219019 = {
+	name = "ElemE_r"
+	# AKA: Elemer
+	dynasty = 100524
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219020 = {
+	name = "Bertalan"
+	dynasty = 100525
+	martial = 4
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = humble
+	trait = cynical
+	trait = education_intrigue_1
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219021 = {
+	name = "GA_spA_r"
+	# AKA: Gaspar
+	dynasty = 100533
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219022 = {
+	name = "GA_bor"
+	dynasty = 100537
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = wrathful
+	trait = education_stewardship_3
+	father = 93638
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219023 = {
+	name = "Elek"
+	dynasty = 100538
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = greedy
+	trait = education_intrigue_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219024 = {
+	name = "KonrA_d"
+	# AKA: Konrad
+	dynasty = 100539
+	martial = 6
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lazy
+	trait = gluttonous
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219025 = {
+	name = "Attila"
+	dynasty = 100540
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = greedy
+	trait = craven
+	trait = education_learning_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+219500 = {
+	name = "BE_la"
+	dynasty = 708
+	martial = 4
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_stewardship_2
+	father = 219510
+	mother = 222573
+	3150.1.1 = {
+		birth = "3150.1.1"
+	}
+	3165.1.2 = {
+		add_spouse = 213528
+	}
+	3165.6.19 = {
+		add_pressed_claim = title:k_hungary
+		add_pressed_claim = title:k_croatia
+	}	
+	3171.1.2 = {
+		remove_spouse = 213528
+	}
+	3174.1.2 = {
+		add_spouse = 223593
+	}
+	3174.3.4 = {
+		remove_claim = title:k_hungary
+		remove_claim = title:k_croatia
+	}
+	3188.1.2 = {
+		add_spouse = 205515
+	}
+	3198.4.23 = {
+		death = "3198.4.23"
+	}
+}
+
+219501 = {
+	name = "Imre"
+	dynasty = 708
+	martial = 8
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 219500
+	mother = 223593
+	3176.1.2 = {
+		birth = "3176.1.2"
+	}
+	3200.1.2 = {
+		add_spouse = 210503
+	}
+	3206.11.30 = {
+		death = "3206.11.30"
+	}
+}
+
+219502 = {
+	name = "AndrA_s"
+	# AKA: Andras
+	dynasty = 708
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = wrathful
+	trait = honest
+	trait = education_martial_2
+	father = 219500
+	mother = 223593
+	3178.1.2 = {
+		birth = "3178.1.2"
+	}
+	3204.1.2 = {
+		add_spouse = 212946
+	}
+	3217.2.2 = {
+		add_spouse = 98024
+	}
+	3236.5.14 = {
+		add_spouse = 98025
+	}
+	3237.9.21 = {
+		death = "3237.9.21"
+	}
+}
+
+219503 = {
+	name = "Konstancia"
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = cynical
+	trait = education_learning_2
+	father = 219500
+	mother = 223593
+	3182.1.2 = {
+		birth = "3182.1.2"
+	}
+	3242.12.6 = {
+		death = "3242.12.6"
+	}
+}
+
+219504 = {
+	name = "Erzebet"
+	female = yes
+	dynasty = 708
+	martial = 8
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_learning_2
+	father = 219500
+	mother = 223593
+	3180.1.2 = {
+		birth = "3180.1.2"
+	}
+	3230.1.2 = {
+		death = "3230.1.2"
+	}
+}
+
+219505 = {
+	name = "Erzebet"
+	female = yes
+	dynasty = 708
+	martial = 4
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = temperate
+	trait = education_intrigue_2
+	father = 219530
+	mother = 218511
+	3130.1.2 = {
+		birth = "3130.1.2"
+	}
+	3156.7.21 = {
+		death = "3156.7.21"
+	}
+}
+
+219510 = {
+	name = "GE_za"
+	# AKA: Geza
+	dynasty = 708
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = brave
+	trait = education_diplomacy_2
+	father = 219530
+	mother = 218511
+	3132.1.2 = {
+		birth = "3132.1.2"
+	}
+	3143.2.13 = {
+		#CHECK_CAPITAL capital = k_hungary
+	}
+	#3148.1.2 = {
+	#	add_spouse = 222573
+	#}
+	3164.5.31 = {
+		death = "3164.5.31"
+	}
+}
+
+219511 = {
+	name = "IstvA_n"
+	# AKA: Istvan
+	dynasty = 708
+	martial = 8
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = craven
+	trait = education_learning_2
+	father = 219510
+	mother = 222573
+	3149.7.2 = {
+		birth = "3149.7.2"
+	}
+	3169.1.2 = {
+		add_spouse = 98022
+	}
+	3170.1.2 = {
+		remove_spouse = 98022
+	}
+	3170.5.2 = {
+		add_spouse = 212542
+	}
+	3174.3.4 = {
+		death = "3174.3.4"
+	}
+}
+
+219512 = {
+	name = "Erzsebeth"
+	female = yes
+	dynasty = 708
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = deceitful
+	trait = education_intrigue_2
+	father = 219510
+	mother = 222573
+	3146.1.2 = {
+		birth = "3146.1.2"
+	}
+	3196.1.2 = {
+		death = "3196.1.2"
+	}
+}
+
+219515 = {
+	name = "Margit"
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arbitrary
+	trait = education_learning_2
+	father = 219500
+	mother = 223593
+	3177.1.2 = {
+		birth = "3177.1.2"
+	}
+	3231.3.29 = {
+		death = "3231.3.29"
+	}
+}
+
+219517 = {
+	name = "Geza"
+	dynasty = 708
+	martial = 8
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = inbred
+	trait = education_intrigue_2
+	father = 219510
+	mother = 222573
+	3152.1.2 = {
+		birth = "3152.1.2"
+	}
+	3202.1.2 = {
+		death = "3202.1.2"
+	}
+}
+
+219518 = {
+	name = "Helena"
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = temperate
+	trait = education_learning_2
+	father = 219510
+	mother = 222573
+	3160.1.2 = {
+		birth = "3160.1.2"
+	}
+	3210.1.2 = {
+		death = "3210.1.2"
+	}
+}
+
+219519 = {
+	name = "Margit"
+	female = yes
+	dynasty = 708
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = gluttonous
+	trait = cynical
+	trait = education_learning_3
+	father = 219510
+	mother = 222573
+	3164.1.2 = {
+		birth = "3164.1.2"
+	}
+	3214.1.2 = {
+		death = "3214.1.2"
+	}
+}
+
+219525 = {
+	name = "Erzsebet"
+	female = yes
+	dynasty = 708
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = deceitful
+	trait = cynical
+	trait = education_diplomacy_2
+	father = 480
+	mother = 98008
+	3096.1.2 = {
+		birth = "3096.1.2"
+	}
+	3155.1.2 = {
+		death = "3155.1.2"
+	}
+}
+
+219530 = {
+	name = "BE_la"
+	# AKA: Bela
+	dynasty = 708
+	martial = 4
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = deceitful
+	trait = cynical
+	trait = disfigured
+	trait = education_learning_3
+	father = 219531
+	mother = 219532
+	3111.1.2 = {
+		birth = "3111.1.2"
+	}
+	3129.4.28 = {
+		add_spouse = 218511
+	}
+	3133.4.2 = {
+		#CHECK_CAPITAL capital = k_hungary
+	}
+	3143.2.13 = {
+		death = "3143.2.13"
+	}
+}
+
+219531 = {
+	name = "Almos"
+	dynasty = 708
+	martial = 5
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = greedy
+	trait = wrathful
+	trait = education_diplomacy_3
+	father = 472
+	mother = 479
+	3076.1.2 = {
+		birth = "3076.1.2"
+	}
+	3106.8.21 = {
+		add_spouse = 219532
+	}
+	3131.1.3 = {
+		death = "3131.1.3"
+	}
+}
+
+219533 = {
+	name = "Adelaida"
+	female = yes
+	dynasty = 708
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_learning_3
+	father = 219531
+	mother = 219532
+	3107.1.2 = {
+		birth = "3107.1.2"
+	}
+	3143.1.14 = {
+		death = "3143.1.14"
+	}
+}
+
+219550 = {
+	name = "Andras"
+	dynasty = 180
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = wrathful
+	trait = education_learning_2
+	3156.1.2 = {
+		birth = "3156.1.2"
+	}
+	3206.1.2 = {
+		death = "3206.1.2"
+	}
+}
+
+231060 = {
+	name = "Eirene"
+	female = yes
+	dynasty = 708
+	martial = 4
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = zealous
+	trait = humble
+	trait = education_learning_3
+	father = 474
+	mother = 1399
+	3090.1.2 = {
+		birth = "3090.1.2"
+	}
+	3136.1.14 = {
+		death = "3136.1.14"
+	}
+}
+
+231065 = {
+	name = "IstvA_n"
+	# AKA: Istvan
+	dynasty = 708
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = just
+	trait = arrogant
+	trait = education_martial_3
+	father = 480
+	mother = 98008
+	3103.1.2 = {
+		birth = "3103.1.2"
+	}
+	3118.2.3 = {
+		#CHECK_CAPITAL capital = k_hungary
+	}
+	3122.1.2 = {
+		add_spouse = 98013
+	}
+	3133.4.2 = {
+		death = "3133.4.2"
+	}
+}
+
+232553 = {
+	name = "Borisz-KonrA_d"
+	# AKA: Borisz
+	dynasty = 708
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = bastard
+	trait = gregarious
+	trait = greedy
+	trait = education_martial_1
+	father = 480
+	mother = 98018
+	3115.1.2 = {
+		birth = "3115.1.2"
+	}
+	3132.1.2 = {
+		add_spouse = 232554
+	}
+	3158.1.2 = {
+		death = "3158.1.2"
+	}
+}
+
+41200 = {
+	name = "MA_ria"
+	# AKA: Maria
+	female = yes
+	dynasty = 708
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = education_stewardship_2
+	father = 470
+	mother = 763
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3068.1.1 = {
+		employer = 474
+	}
+	3105.1.1 = {
+		death = "3105.1.1"
+	}
+}
+
+41201 = {
+	name = "Lanka"
+	female = yes
+	dynasty = 708
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_2
+	father = 470
+	mother = 763
+	3047.1.1 = {
+		birth = "3047.1.1"
+	}
+	3097.6.18 = {
+		death = "3097.6.18"
+	}
+}
+
+4358 = {
+	name = "A_lmos"
+	# AKA: Almos
+	dynasty = 101563
+	martial = 6
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = just
+	trait = education_stewardship_3
+	father = 20372
+	mother = 4444
+	3051.1.1 = {
+		birth = "3051.1.1"
+	}
+	3116.1.1 = {
+		death = "3116.1.1"
+	}
+}
+
+4362 = {
+	name = "AmA_lia"
+	# AKA: Amalia
+	female = yes
+	dynasty = 19030
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_4
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+4363 = {
+	name = "ZsO_fia"
+	# AKA: Zsofia
+	female = yes
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_diplomacy_3
+	3042.1.1 = {
+		birth = "3042.1.1"
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+4365 = {
+	name = "JolA_n"
+	# AKA: Jolan
+	female = yes
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_stewardship_2
+	3027.1.1 = {
+		birth = "3027.1.1"
+	}
+	3080.1.1 = {
+		death = "3080.1.1"
+	}
+}
+
+4366 = {
+	name = "MA_ria"
+	# AKA: Maria
+	female = yes
+	dynasty = 101565
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = temperate
+	trait = education_stewardship_2
+	father = 20365
+	mother = 4365
+	3051.1.1 = {
+		birth = "3051.1.1"
+	}
+	3111.1.1 = {
+		death = "3111.1.1"
+	}
+}
+
+4371 = {
+	name = "DomoszlO_"
+	# AKA: Domoszlo
+	dynasty = 19000
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = honest
+	trait = education_martial_2
+	father = 20371
+	mother = 499
+	3024.1.1 = {
+		birth = "3024.1.1"
+	}
+	3052.1.1 = {
+		add_spouse = 4443
+	}
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+}
+
+4373 = {
+	name = "Orsolya"
+	female = yes
+	dynasty = 19000
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_stewardship_2
+	father = 4371
+	mother = 4443
+	3053.1.1 = {
+		birth = "3053.1.1"
+	}
+	3111.1.1 = {
+		death = "3111.1.1"
+	}
+}
+
+4374 = {
+	name = "Ernyei"
+	dynasty = 101572
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = ambitious
+	trait = education_learning_4
+	3023.1.1 = {
+		birth = "3023.1.1"
+	}
+	3065.12.1 = {
+		#give_council_position = councillor_court_chaplain
+	}
+	3082.1.1 = {
+		death = "3082.1.1"
+	}
+}
+
+4375 = {
+	name = "Vid"
+	dynasty = 19052
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_learning_2
+	father = 20378
+	mother = 4363
+	3061.1.1 = {
+		birth = "3061.1.1"
+	}
+	3095.1.1 = {
+		death = "3095.1.1"
+	}
+}
+
+4376 = {
+	name = "MA_rton"
+	# AKA: Marton
+	dynasty = 19052
+	martial = 5
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 20378
+	mother = 4363
+	3064.1.1 = {
+		birth = "3064.1.1"
+	}
+	3127.1.1 = {
+		death = "3127.1.1"
+	}
+}
+
+4377 = {
+	name = "LothA_r"
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = bastard
+	father = 20378
+	mother = 4363
+	3066.1.1 = {
+		birth = "3066.1.1"
+	}
+	3117.1.1 = {
+		death = "3117.1.1"
+	}
+}
+
+4378 = {
+	name = "Doboka"
+	dynasty = 101566
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = gluttonous
+	trait = brave
+	trait = education_martial_2
+	2961.1.1 = {
+		birth = "2961.1.1"
+	}
+	3014.1.1 = {
+		death = "3014.1.1"
+	}
+}
+
+4379 = {
+	name = "CsanA_d"
+	dynasty = 101566
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = brave
+	trait = chaste
+	trait = education_martial_3
+	father = 4378
+	2990.1.1 = {
+		birth = "2990.1.1"
+	}
+	3033.1.1 = {
+		death = "3033.1.1"
+	}
+}
+
+4383 = {
+	name = "CsO_mO_r"
+	dynasty = 101566
+	martial = 5
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = cynical
+	trait = education_learning_3
+	father = 4379
+	3021.1.1 = {
+		birth = "3021.1.1"
+	}
+	3059.1.1 = {
+		death = "3059.1.1"
+	}
+}
+
+4384 = {
+	name = "ErzsE_bet"
+	female = yes
+	martial = 7
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = education_intrigue_1
+	3033.1.1 = {
+		birth = "3033.1.1"
+	}
+	3096.1.1 = {
+		death = "3096.1.1"
+	}
+}
+
+4385 = {
+	name = "Imre"
+	dynasty = 101566
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lazy
+	trait = education_stewardship_1
+	father = 4383
+	3044.1.1 = {
+		birth = "3044.1.1"
+	}
+	3100.1.1 = {
+		death = "3100.1.1"
+	}
+}
+
+4386 = {
+	name = "PongrA_cz"
+	dynasty = 101566
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 2
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 20364
+	mother = 4384
+	3057.1.1 = {
+		birth = "3057.1.1"
+	}
+	3100.1.1 = {
+		death = "3100.1.1"
+	}
+}
+
+4387 = {
+	name = "Gyula"
+	dynasty = 101566
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_learning_2
+	father = 20364
+	mother = 4384
+	3058.1.1 = {
+		birth = "3058.1.1"
+	}
+	3119.1.1 = {
+		death = "3119.1.1"
+	}
+}
+
+4388 = {
+	name = "Margit"
+	female = yes
+	dynasty = 19052
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = humble
+	trait = education_intrigue_2
+	father = 20363
+	mother = 491
+	3039.1.1 = {
+		birth = "3039.1.1"
+	}
+	3077.1.1 = {
+		death = "3077.1.1"
+	}
+}
+
+4389 = {
+	name = "Gizella"
+	dynasty = 19019
+	female = yes
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = education_intrigue_2
+	3019.1.1 = {
+		birth = "3019.1.1"
+	}
+	3065.1.1 = {
+		death = "3065.1.1"
+	}
+}
+
+4397 = {
+	name = "Imre"
+	dynasty = 101568
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_diplomacy_1
+	father = 20360
+	mother = 4389
+	3050.1.1 = {
+		birth = "3050.1.1"
+	}
+	3104.1.1 = {
+		death = "3104.1.1"
+	}
+}
+
+4398 = {
+	name = "Judit"
+	female = yes
+	dynasty = 101568
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = generous
+	trait = education_stewardship_2
+	father = 20360
+	mother = 4389
+	3050.1.1 = {
+		birth = "3050.1.1"
+	}
+	3107.1.1 = {
+		death = "3107.1.1"
+	}
+}
+
+4400 = {
+	name = "TamA_s"
+	dynasty = 101569
+	martial = 3
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = education_learning_2
+	father = 4399
+	3047.1.1 = {
+		birth = "3047.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+4401 = {
+	name = "Ipoly"
+	dynasty = 19052
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = wrathful
+	trait = education_martial_2
+	father = 20362
+	3035.1.1 = {
+		birth = "3035.1.1"
+	}
+	3059.1.1 = {
+		add_spouse = 4404
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+4402 = {
+	name = "MiklO_s"
+	# AKA: Miklos
+	dynasty = 19052
+	martial = 3
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arbitrary
+	trait = education_learning_2
+	father = 20362
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	3110.1.1 = {
+		death = "3110.1.1"
+	}
+}
+
+4404 = {
+	name = "Ilona"
+	female = yes
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_diplomacy_4
+	3038.1.1 = {
+		birth = "3038.1.1"
+	}
+	3087.1.1 = {
+		death = "3087.1.1"
+	}
+}
+
+4405 = {
+	name = "GertrU_d"
+	# AKA: Gertrud
+	female = yes
+	dynasty = 19052
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_2
+	father = 4406
+	mother = 4362
+	3061.1.1 = {
+		birth = "3061.1.1"
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+4406 = {
+	name = "BE_ny"
+	# AKA: Beny
+	dynasty = 19052
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = greedy
+	trait = arbitrary
+	trait = education_stewardship_3
+	father = 20362
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3057.1.1 = {
+		add_spouse = 4362
+	}
+	3089.1.1 = {
+		death = "3089.1.1"
+	}
+}
+
+4409 = {
+	name = "Miska"
+	dynasty = 101570
+	martial = 8
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = education_martial_2
+	father = 4408
+	3003.1.1 = {
+		birth = "3003.1.1"
+	}
+	3055.1.1 = {
+		death = "3055.1.1"
+	}
+}
+
+4410 = {
+	name = "KupA_n"
+	# AKA: Kupan
+	dynasty = 101570
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_2
+	trait = arrogant
+	father = 4409
+	3036.1.1 = {
+		birth = "3036.1.1"
+	}
+	3059.1.1 = {
+		add_spouse = 4415
+	}
+	3086.1.2 = {
+		death = "3086.1.2"
+	}
+}
+
+4411 = {
+	name = "Katalin"
+	female = yes
+	dynasty = 12003
+	martial = 8
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = education_diplomacy_2
+	3030.1.1 = {
+		birth = "3030.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+4412 = {
+	name = "BA_tor_Obus"
+	# AKA: Bator Obus
+	dynasty = 101570
+	martial = 8
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = brave
+	trait = education_martial_2
+	father = 1621
+	mother = 4411
+	3048.1.1 = {
+		birth = "3048.1.1"
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+4413 = {
+	name = "Anna"
+	female = yes
+	dynasty = 101570
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = education_diplomacy_3
+	father = 1621
+	mother = 4411
+	3050.1.1 = {
+		birth = "3050.1.1"
+	}
+	3111.1.1 = {
+		death = "3111.1.1"
+	}
+}
+
+4414 = {
+	name = "Margit"
+	female = yes
+	dynasty = 101570
+	martial = 2
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lazy
+	trait = education_stewardship_1
+	father = 1621
+	mother = 4411
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3113.1.1 = {
+		death = "3113.1.1"
+	}
+}
+
+4425 = {
+	name = "Katalin"
+	female = yes
+	dynasty = 101570
+	martial = 4
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_stewardship_2
+	father = 4410
+	mother = 4415
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3120.1.1 = {
+		death = "3120.1.1"
+	}
+}
+
+4431 = {
+	name = "Hartvik"
+	dynasty = 19061
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = generous
+	trait = zealous
+	trait = education_learning_3
+	3035.1.1 = {
+		birth = "3035.1.1"
+	}
+	3065.12.1 = {
+		#give_council_position = councillor_court_chaplain
+	}
+	3113.1.1 = {
+		death = "3113.1.1"
+	}
+}
+
+4432 = {
+	name = "ElO_d"
+	dynasty = 19010
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = education_stewardship_3
+	father = 20356
+	mother = 4434
+	3048.1.1 = {
+		birth = "3048.1.1"
+	}
+	3100.1.1 = {
+		death = "3100.1.1"
+	}
+}
+
+4433 = {
+	name = "Szabolcs"
+	dynasty = 19010
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = greedy
+	trait = education_diplomacy_2
+	father = 20356
+	mother = 4434
+	3050.1.1 = {
+		birth = "3050.1.1"
+	}
+	3107.1.1 = {
+		death = "3107.1.1"
+	}
+}
+
+4434 = {
+	name = "Anna"
+	female = yes
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = cynical
+	trait = education_learning_2
+	3026.1.1 = {
+		birth = "3026.1.1"
+	}
+	3080.1.1 = {
+		death = "3080.1.1"
+	}
+}
+
+4435 = {
+	name = "Antal"
+	dynasty = 101571
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = greedy
+	trait = education_martial_1
+	father = 4437
+	3044.1.1 = {
+		birth = "3044.1.1"
+	}
+	3067.1.1 = {
+		add_spouse = 4436
+	}
+	3089.1.1 = {
+		death = "3089.1.1"
+	}
+}
+
+4436 = {
+	name = "BorbA_la"
+	dynasty = 19010
+	female = yes
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = honest
+	trait = education_diplomacy_1
+	father = 20356
+	mother = 4434
+	3049.1.1 = {
+		birth = "3049.1.1"
+	}
+	3109.1.1 = {
+		death = "3109.1.1"
+	}
+}
+
+4437 = {
+	name = "Ete"
+	dynasty = 101571
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_diplomacy_2
+	3020.1.1 = {
+		birth = "3020.1.1"
+	}
+	3063.1.1 = {
+		death = "3063.1.1"
+	}
+}
+
+4438 = {
+	name = "Gergely"
+	dynasty = 101571
+	martial = 8
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 4437
+	3051.1.1 = {
+		birth = "3051.1.1"
+	}
+	3067.1.2 = {
+		add_spouse = 4439
+	}
+	3124.1.1 = {
+		death = "3124.1.1"
+	}
+}
+
+4439 = {
+	name = "IldikO_"
+	# AKA: Ildiko
+	female = yes
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = deceitful
+	trait = education_intrigue_2
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3113.1.1 = {
+		death = "3113.1.1"
+	}
+}
+
+4440 = {
+	name = "PE_ter"
+	dynasty = 101571
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 4435
+	mother = 4436
+	3068.1.1 = {
+		birth = "3068.1.1"
+	}
+	3117.1.1 = {
+		death = "3117.1.1"
+	}
+}
+
+4441 = {
+	name = "SugA_rka"
+	# AKA: Sugarka
+	female = yes
+	dynasty = 101565
+	martial = 4
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arbitrary
+	trait = temperate
+	trait = education_stewardship_2
+	father = 20365
+	mother = 4365
+	3044.1.1 = {
+		birth = "3044.1.1"
+	}
+	3101.1.1 = {
+		death = "3101.1.1"
+	}
+}
+
+4442 = {
+	name = "Zila"
+	dynasty = 101565
+	female = yes
+	martial = 5
+	diplomacy = 9
+	intrigue = 4
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = education_learning_1
+	father = 20365
+	mother = 4365
+	3046.1.1 = {
+		birth = "3046.1.1"
+	}
+	3108.1.1 = {
+		death = "3108.1.1"
+	}
+}
+
+4443 = {
+	name = "Skolasztika"
+	female = yes
+	dynasty = 19001
+	martial = 5
+	diplomacy = 3
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = zealous
+	trait = education_stewardship_2
+	3033.1.1 = {
+		birth = "3033.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+4444 = {
+	name = "Etel"
+	female = yes
+	dynasty = 19003
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = greedy
+	trait = cynical
+	trait = education_intrigue_1
+	3033.1.1 = {
+		birth = "3033.1.1"
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+460 = {
+	name = "Taksony"
+	dynasty = 708
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	trait = arrogant
+	trait = education_diplomacy_2
+	father = 159135
+	2933.1.1 = {
+		birth = "2933.1.1"
+	}
+	2949.1.1 = {
+		add_spouse = 483
+	}
+	2974.1.1 = {
+		death = "2974.1.1"
+	}
+}
+
+461711 = {
+	name = "Maria"
+	female = yes
+	dynasty = 708
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = education_intrigue_2
+	father = 98004
+	mother = 98042
+	3259.1.2 = {
+		birth = "3259.1.2"
+	}
+	3325.1.26 = {
+		death = "3325.1.26"
+	}
+}
+
+462 = {
+	name = "MihA_ly"
+	# AKA: Mihaly
+	dynasty = 708
+	martial = 5
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 5
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	trait = greedy
+	trait = education_martial_3
+	father = 460
+	mother = 483
+	2950.1.1 = {
+		birth = "2950.1.1"
+	}
+	2972.1.1 = {
+		add_spouse = 759
+	}
+	2980.1.1 = {
+		death = "2980.1.1"
+	}
+}
+
+463 = {
+	name = "Judit"
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = education_intrigue_2
+	father = 464
+	mother = 753
+	2971.1.1 = {
+		birth = "2971.1.1"
+	}
+	2989.1.1 = {
+		death = "2989.1.1"
+	}
+}
+
+464 = {
+	name = "GE_za"
+	# AKA: Geza
+	dynasty = 708
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = cynical
+	trait = education_martial_2
+	father = 460
+	mother = 483
+	2947.1.1 = {
+		birth = "2947.1.1"
+	}
+	2969.1.1 = {
+		add_spouse = 753
+	}
+	2977.1.1 = {
+		remove_spouse = 753
+	}
+	2987.1.1 = {
+		add_spouse = 759
+	}
+	2999.2.1 = {
+		death = "2999.2.1"
+	}
+}
+
+466 = {
+	name = "VA_szoly"
+	# AKA: Vaszoly
+	dynasty = 708
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	trait = wrathful
+	trait = education_martial_2
+	father = 462
+	mother = 759
+	2978.1.1 = {
+		birth = "2978.1.1"
+	}
+	3039.1.1 = {
+		death = "3039.1.1"
+	}
+}
+
+468 = {
+	name = "AndrA_s"
+	# AKA: Andras
+	dynasty = 708
+	martial = 7
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = calm
+	trait = education_diplomacy_3
+	father = 466
+	mother = 484
+	3016.1.1 = {
+		birth = "3016.1.1"
+	}
+	3041.1.1 = {
+		add_spouse = 637
+	}
+	3062.10.1 = {
+		death = "3062.10.1"
+	}
+}
+
+469 = {
+	name = "ZsO_fia"
+	# AKA: Zsofia
+	female = yes
+	martial = 3
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	trait = bastard
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470
+	3064.1.1 = {
+		birth = "3064.1.1"
+	}
+	3068.1.1 = {
+		employer = 472
+	}
+	3118.1.1 = {
+		death = "3118.1.1"
+	}
+}
+
+470 = {
+	name = "BE_la"
+	# AKA: Bela
+	dynasty = 708
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = diligent
+	trait = brave
+	trait = education_martial_3
+	father = 466
+	mother = 484
+	3018.1.1 = {
+		birth = "3018.1.1"
+	}
+	3041.1.1 = {
+		add_spouse = 763
+	}
+	3065.12.1 = {
+		death = "3065.12.1"
+	}
+}
+
+470030 = {
+	name = "MiklO_s"
+	# AKA: Miklos
+	dynasty = 19063
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = arrogant
+	trait = education_martial_2
+	father = 470031
+	3312.1.1 = {
+		birth = "3312.1.1"
+	}
+	3337.1.2 = {
+		add_spouse = 470032
+	}
+	3362.1.1 = {
+		death = "3362.1.1"
+	}
+}
+
+470031 = {
+	name = "IstvA_n"
+	# AKA: Istvan
+	dynasty = 19063
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = generous
+	trait = education_martial_2
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3317.1.1 = {
+		death = "3317.1.1"
+	}
+}
+
+470032 = {
+	name = "Katarina"
+	female = yes
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = generous
+	trait = humble
+	trait = education_diplomacy_1
+	3317.1.1 = {
+		birth = "3317.1.1"
+	}
+	3367.1.1 = {
+		death = "3367.1.1"
+	}
+}
+
+470040 = {
+	name = "TamA_s"
+	dynasty = 19043
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 9
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = generous
+	trait = education_martial_2
+	father = 470049
+	3287.1.2 = {
+		birth = "3287.1.2"
+	}
+	3319.1.2 = {
+		add_spouse = 470041
+	}
+	3330.1.2 = {
+		add_spouse = 470042
+	}
+	3346.1.1 = {
+		death = "3346.1.1"
+	}
+}
+
+470041 = {
+	name = "ErzsE_bet"
+	#AKA Erzsebet Visontai
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_2
+	3301.1.2 = {
+		birth = "3301.1.2"
+	}
+	3329.1.2 = {
+		death = "3329.1.2"
+	}
+}
+
+470043 = {
+	name = "KO_nya"
+	# AKA: Konya
+	dynasty = 19043
+	martial = 5
+	diplomacy = 4
+	intrigue = 2
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = brave
+	trait = arrogant
+	trait = education_martial_2
+	father = 470040
+	mother = 470041
+	3320.1.2 = {
+		birth = "3320.1.2"
+	}
+	3370.1.2 = {
+		death = "3370.1.2"
+	}
+}
+
+470044 = {
+	name = "MihA_ly"
+	# AKA: Mihaly
+	dynasty = 19043
+	martial = 5
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = zealous
+	trait = education_learning_4
+	father = 470040
+	mother = 470041
+	3321.1.2 = {
+		birth = "3321.1.2"
+	}
+	3371.1.2 = {
+		death = "3371.1.2"
+	}
+}
+
+470045 = {
+	name = "IstvA_n"
+	# AKA: Istvan
+	dynasty = 19043
+	martial = 3
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = deceitful
+	trait = education_martial_2
+	father = 470040
+	mother = 470041
+	3323.1.2 = {
+		birth = "3323.1.2"
+	}
+	3373.1.2 = {
+		death = "3373.1.2"
+	}
+}
+
+470046 = {
+	name = "GA_spA_r"
+	# AKA: Gaspar
+	dynasty = 19043
+	martial = 3
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 470040
+	mother = 470042
+	3331.1.2 = {
+		birth = "3331.1.2"
+	}
+	3381.1.2 = {
+		death = "3381.1.2"
+	}
+}
+
+470047 = {
+	name = "Anna"
+	female = yes
+	dynasty = 19043
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_stewardship_2
+	father = 470040
+	mother = 470042
+	3334.1.2 = {
+		birth = "3334.1.2"
+	}
+	3384.1.2 = {
+		death = "3384.1.2"
+	}
+}
+
+470048 = {
+	name = "LA_szlO_"
+	# AKA: Laszlo
+	dynasty = 19043
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470040
+	mother = 470042
+	3337.1.2 = {
+		birth = "3337.1.2"
+	}
+	3387.1.2 = {
+		death = "3387.1.2"
+	}
+}
+
+470049 = {
+	name = "Farkas"
+	dynasty = 19043
+	martial = 4
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 10
+	religion = "catholic"
+	culture = "hungarian"
+	trait = greedy
+	trait = generous
+	trait = education_intrigue_2
+	3259.1.2 = {
+		birth = "3259.1.2"
+	}
+	3307.1.2 = {
+		death = "3307.1.2"
+	}
+}
+
+470050 = {
+	name = "PE_ter"
+	dynasty = 19043
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = greedy
+	trait = humble
+	trait = education_martial_2
+	father = 470049
+	3294.1.2 = {
+		birth = "3294.1.2"
+	}
+	3344.1.2 = {
+		death = "3344.1.2"
+	}
+}
+
+470051 = {
+	name = "IstvA_n"
+	# AKA: Istvan
+	dynasty = 19043
+	martial = 2
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = arrogant
+	trait = education_stewardship_2
+	father = 470050
+	3318.1.2 = {
+		birth = "3318.1.2"
+	}
+	3368.1.2 = {
+		death = "3368.1.2"
+	}
+}
+
+470052 = {
+	name = "TamA_s"
+	dynasty = 19043
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = deceitful
+	trait = education_martial_2
+	father = 470050
+	3320.1.2 = {
+		birth = "3320.1.2"
+	}
+	3370.1.2 = {
+		death = "3370.1.2"
+	}
+}
+
+470053 = {
+	name = "Farkas"
+	dynasty = 19043
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = temperate
+	trait = lazy
+	trait = education_martial_2
+	father = 470050
+	3322.1.2 = {
+		birth = "3322.1.2"
+	}
+	3372.1.2 = {
+		death = "3372.1.2"
+	}
+}
+
+470060 = {
+	name = "LA_szlO_"
+	# AKA: Laszlo
+	dynasty = 19056
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = lazy
+	trait = education_martial_2
+	3262.1.2 = {
+		birth = "3262.1.2"
+	}
+	3288.1.2 = {
+		add_spouse = 470061
+	}
+	3322.1.2 = {
+		death = "3322.1.2"
+	}
+}
+
+470061 = {
+	name = "Margit"
+	# AKA: Margit Pelejtei
+	female = yes
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = generous
+	trait = education_intrigue_2
+	3272.1.2 = {
+		birth = "3272.1.2"
+	}
+	3335.1.2 = {
+		death = "3335.1.2"
+	}
+}
+
+470062 = {
+	name = "JA_nos"
+	# AKA: Janos
+	dynasty = 19056
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = calm
+	trait = education_martial_2
+	father = 470060
+	mother = 470061
+	3310.1.2 = {
+		birth = "3310.1.2"
+	}
+	3332.1.2 = {
+		add_spouse = 470063
+	}
+	3360.1.2 = {
+		death = "3360.1.2"
+	}
+}
+
+470063 = {
+	name = "Katalin"
+	female = yes
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = education_stewardship_2
+	3313.1.2 = {
+		birth = "3313.1.2"
+	}
+	3363.1.2 = {
+		death = "3363.1.2"
+	}
+}
+
+470064 = {
+	name = "MiklO_s"
+	# AKA: Miklos
+	dynasty = 19056
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470062
+	mother = 470063
+	3335.1.2 = {
+		birth = "3335.1.2"
+	}
+	3385.1.2 = {
+		death = "3385.1.2"
+	}
+}
+
+470065 = {
+	name = "Domokos"
+	dynasty = 19056
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470062
+	mother = 470063
+	3338.1.2 = {
+		birth = "3338.1.2"
+	}
+	3388.1.2 = {
+		death = "3388.1.2"
+	}
+}
+
+470070 = {
+	name = "IstvA_n"
+	# AKA: Istvan
+	dynasty = 19057
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = just
+	trait = education_martial_2
+	father = 470071
+	mother = 470073
+	3301.1.2 = {
+		birth = "3301.1.2"
+	}
+	3323.1.2 = {
+		add_spouse = 470074
+	}
+	3351.1.2 = {
+		death = "3351.1.2"
+	}
+}
+
+470071 = {
+	name = "MiklO_s"
+	dynasty = 19057
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = just
+	trait = education_martial_2
+	father = 93755
+	3260.1.1 = {
+		birth = "3260.1.1"
+	}
+	3290.1.1 = {
+		add_spouse = 470072
+	}
+	3299.1.1 = {
+		add_spouse = 470073
+	}
+	3322.1.1 = {
+		death = "3322.1.1"
+	}
+}
+
+470072 = {
+	name = "ErzsE_bet"
+	#AKA Erzsebet de Daro
+	female = yes
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = education_stewardship_2
+	3274.1.2 = {
+		birth = "3274.1.2"
+	}
+	3298.1.2 = {
+		death = "3298.1.2"
+	}
+}
+
+470073 = {
+	name = "ErzsE_bet"
+	#AKA Erzsebet Kaplyon
+	female = yes
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arbitrary
+	trait = generous
+	trait = education_diplomacy_1
+	3282.1.2 = {
+		birth = "3282.1.2"
+	}
+	3332.1.2 = {
+		death = "3332.1.2"
+	}
+}
+
+470074 = {
+	name = "Anna"
+	female = yes
+	dynasty = 19051
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = just
+	trait = lustful
+	trait = education_intrigue_2
+	3304.1.2 = {
+		birth = "3304.1.2"
+	}
+	3354.1.2 = {
+		death = "3354.1.2"
+	}
+}
+
+470075 = {
+	name = "IstvA_n"
+	# AKA: Istvan
+	dynasty = 19057
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = education_learning_2
+	father = 470070
+	mother = 470074
+	3325.1.2 = {
+		birth = "3325.1.2"
+	}
+	3375.1.2 = {
+		death = "3375.1.2"
+	}
+}
+
+470076 = {
+	name = "MO_ricz"
+	# AKA: Moricz
+	dynasty = 19057
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = lazy
+	trait = education_stewardship_2
+	father = 470071
+	mother = 470072
+	3297.1.2 = {
+		birth = "3297.1.2"
+	}
+	3328.1.2 = {
+		add_spouse = 470078
+	}
+	3347.1.2 = {
+		death = "3347.1.2"
+	}
+}
+
+470077 = {
+	name = "MiklO_s"
+	# AKA: Miklos
+	dynasty = 19057
+	martial = 2
+	diplomacy = 2
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = calm
+	trait = education_intrigue_4
+	father = 470071
+	mother = 470073
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3352.1.2 = {
+		death = "3352.1.2"
+	}
+}
+
+470078 = {
+	name = "Skolasztika_Atyinai"
+	# AKA: Skolasztika Atyinai
+	female = yes
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = just
+	trait = gluttonous
+	trait = education_stewardship_4
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3352.1.2 = {
+		death = "3352.1.2"
+	}
+}
+
+470079 = {
+	name = "MiklO_s"
+	# AKA: Miklos
+	dynasty = 19057
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 470076
+	mother = 470078
+	3334.1.2 = {
+		birth = "3334.1.2"
+	}
+	3384.1.2 = {
+		death = "3384.1.2"
+	}
+}
+
+470080 = {
+	name = "Anna"
+	female = yes
+	dynasty = 19057
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470076
+	mother = 470078
+	3337.1.2 = {
+		birth = "3337.1.2"
+	}
+	3387.1.2 = {
+		death = "3387.1.2"
+	}
+}
+
+470090 = {
+	name = "Osli"
+	dynasty = 19058
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+
+470091 = {
+	name = "Beled"
+	dynasty = 19058
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_2
+	father = 470090
+	3212.1.2 = {
+		birth = "3212.1.2"
+	}
+	3274.1.2 = {
+		death = "3274.1.2"
+	}
+}
+
+470092 = {
+	name = "Osli"
+	dynasty = 19058
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_2
+	father = 470090
+	3213.1.1 = {
+		birth = "3213.1.1"
+	}
+	3268.1.1 = {
+		death = "3268.1.1"
+	}
+}
+
+470093 = {
+	name = "TA_mas_Csornai"
+	#AKA Tamas Csornai
+	dynasty = 19058
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 470090
+	3215.1.2 = {
+		birth = "3215.1.2"
+	}
+	3274.1.2 = {
+		death = "3274.1.2"
+	}
+}
+
+470094 = {
+	name = "Beled"
+	# AKA: Beled Viczay
+	dynasty = 19059
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_3
+	father = 93651
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3293.1.1 = {
+		death = "3293.1.1"
+	}
+}
+
+470095 = {
+	name = "MiklO_s"
+	dynasty = 19059
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_3
+	father = 470094
+	3256.1.1 = {
+		birth = "3256.1.1"
+	}
+	3311.1.1 = {
+		death = "3311.1.1"
+	}
+}
+
+470096 = {
+	name = "Imre"
+	dynasty = 19059
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_intrigue_2
+	father = 470094
+	3259.1.1 = {
+		birth = "3259.1.1"
+	}
+	3311.1.1 = {
+		death = "3311.1.1"
+	}
+}
+
+470097 = {
+	name = "JA_nos"
+	dynasty = 19059
+	martial = 6
+	diplomacy = 4
+	intrigue = 2
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_stewardship_2
+	father = 470094
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3312.1.1 = {
+		death = "3312.1.1"
+	}
+}
+
+470098 = {
+	name = "Beled"
+	dynasty = 19059
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = just
+	trait = stuttering
+	trait = brave
+	trait = education_martial_2
+	father = 470094
+	3268.1.1 = {
+		birth = "3268.1.1"
+	}
+	3338.1.1 = {
+		death = "3338.1.1"
+	}
+}
+
+470099 = {
+	name = "JA_nos"
+	dynasty = 19059
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 470095
+	3286.1.1 = {
+		birth = "3286.1.1"
+	}
+	3349.1.1 = {
+		death = "3349.1.1"
+	}
+}
+
+470100 = {
+	name = "MiklO_s"
+	# AKA: Miklos
+	dynasty = 19059
+	martial = 1
+	diplomacy = 2
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arbitrary
+	trait = education_learning_1
+	father = 470099
+	3306.1.1 = {
+		birth = "3306.1.1"
+	}
+	3349.1.1 = {
+		death = "3349.1.1"
+	}
+}
+
+470101 = {
+	name = "TamA_s"
+	dynasty = 19059
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = generous
+	trait = gluttonous
+	trait = education_martial_2
+	father = 470099
+	3308.1.1 = {
+		birth = "3308.1.1"
+	}
+	3362.1.1 = {
+		death = "3362.1.1"
+	}
+}
+
+470102 = {
+	name = "Anna"
+	female = yes
+	dynasty = 19059
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = gluttonous
+	trait = education_intrigue_2
+	father = 470099
+	3317.1.1 = {
+		birth = "3317.1.1"
+	}
+	3362.1.1 = {
+		death = "3362.1.1"
+	}
+}
+
+470103 = {
+	name = "PE_ter"
+	dynasty = 19059
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = craven
+	trait = education_intrigue_2
+	father = 470096
+	3307.1.2 = {
+		birth = "3307.1.2"
+	}
+	3357.1.2 = {
+		death = "3357.1.2"
+	}
+}
+
+470104 = {
+	name = "Ilona"
+	female = yes
+	dynasty = 19059
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = lustful
+	trait = education_diplomacy_1
+	father = 470096
+	3311.1.2 = {
+		birth = "3311.1.2"
+	}
+	3361.1.2 = {
+		death = "3361.1.2"
+	}
+}
+
+470105 = {
+	name = "PE_ter"
+	dynasty = 19059
+	martial = 7
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = brave
+	trait = education_martial_1
+	father = 470097
+	3307.1.1 = {
+		birth = "3307.1.1"
+	}
+	3357.1.1 = {
+		death = "3357.1.1"
+	}
+}
+
+470106 = {
+	name = "JA_nos"
+	# AKA: Janos
+	dynasty = 19059
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = just
+	trait = generous
+	trait = education_martial_2
+	father = 470098
+	3308.1.2 = {
+		birth = "3308.1.2"
+	}
+	3358.1.2 = {
+		death = "3358.1.2"
+	}
+}
+
+470107 = {
+	name = "Osli"
+	dynasty = 19059
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 470106
+	3327.1.2 = {
+		birth = "3327.1.2"
+	}
+	3377.1.2 = {
+		death = "3377.1.2"
+	}
+}
+
+470108 = {
+	name = "Osli"
+	dynasty = 19058
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 470092
+	3243.1.2 = {
+		birth = "3243.1.2"
+	}
+	3272.1.2 = {
+		add_spouse = 470109
+	}
+	3312.1.2 = {
+		death = "3312.1.2"
+	}
+}
+
+470109 = {
+	name = "ErzsE_bet"
+	#AKA Erzsebet Nagymartoni
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_learning_1
+	3263.1.2 = {
+		birth = "3263.1.2"
+	}
+	3334.1.2 = {
+		death = "3334.1.2"
+	}
+}
+
+470110 = {
+	name = "PE_ter"
+	dynasty = 19058
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = bastard
+	trait = education_learning_1
+	father = 470108
+	3290.1.2 = {
+		birth = "3290.1.2"
+	}
+	3340.1.2 = {
+		death = "3340.1.2"
+	}
+}
+
+470111 = {
+	name = "JA_nos"
+	# AKA: Janos
+	dynasty = 19058
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = calm
+	trait = education_stewardship_2
+	father = 470108
+	mother = 470109
+	3292.1.2 = {
+		birth = "3292.1.2"
+	}
+	3342.1.2 = {
+		death = "3342.1.2"
+	}
+}
+
+470112 = {
+	name = "MiklO_s"
+	# AKA: Miklos
+	dynasty = 19058
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = ill
+	trait = temperate
+	trait = education_martial_2
+	father = 470108
+	mother = 470109
+	3293.1.2 = {
+		birth = "3293.1.2"
+	}
+	3332.1.2 = {
+		add_spouse = 470129
+	}
+	3343.1.2 = {
+		death = "3343.1.2"
+	}
+}
+
+470113 = {
+	name = "Domokos"
+	dynasty = 19058
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = just
+	trait = education_martial_2
+	father = 470108
+	mother = 470109
+	3287.1.2 = {
+		birth = "3287.1.2"
+	}
+	3337.1.2 = {
+		death = "3337.1.2"
+	}
+}
+
+470114 = {
+	name = "Demeter"
+	# AKA: Demeter Bresztolci
+	dynasty = 19058
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = brave
+	trait = education_martial_2
+	father = 470113
+	3322.1.2 = {
+		birth = "3322.1.2"
+	}
+	3372.1.2 = {
+		death = "3372.1.2"
+	}
+}
+
+470115 = {
+	name = "MiklO_s"
+	# AKA: Miklos
+	dynasty = 19058
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 470113
+	3331.1.2 = {
+		birth = "3331.1.2"
+	}
+	3381.1.2 = {
+		death = "3381.1.2"
+	}
+}
+
+470116 = {
+	name = "JA_nos"
+	# AKA: Janos
+	dynasty = 19058
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470113
+	3335.1.2 = {
+		birth = "3335.1.2"
+	}
+	3385.1.2 = {
+		death = "3385.1.2"
+	}
+}
+
+470117 = {
+	name = "Imre"
+	dynasty = 19054
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_1
+	father = 470093
+	3240.1.2 = {
+		birth = "3240.1.2"
+	}
+	3307.1.2 = {
+		death = "3307.1.2"
+	}
+}
+
+470118 = {
+	name = "LO_rinc"
+	# AKA: Lorinc
+	dynasty = 19054
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = brave
+	trait = education_martial_2
+	father = 470117
+	3272.1.2 = {
+		birth = "3272.1.2"
+	}
+	3312.1.2 = {
+		add_spouse = 470121
+	}
+	3332.1.10 = {
+		death = "3332.1.10"
+	}
+}
+
+470119 = {
+	name = "MihA_ly"
+	# AKA: Mihaly
+	dynasty = 19054
+	martial = 2
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = brave
+	trait = education_martial_2
+	father = 470117
+	3300.1.2 = {
+		birth = "3300.1.2"
+	}
+	3350.1.2 = {
+		death = "3350.1.2"
+	}
+}
+
+470120 = {
+	name = "Imre"
+	dynasty = 19054
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = wrathful
+	trait = arrogant
+	trait = education_martial_2
+	father = 470117
+	3303.1.2 = {
+		birth = "3303.1.2"
+	}
+	3353.1.2 = {
+		death = "3353.1.2"
+	}
+}
+
+470121 = {
+	name = "Katalin"
+	# AKA: Katalin Nagyamartoni
+	female = yes
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = gluttonous
+	trait = education_diplomacy_1
+	3297.1.2 = {
+		birth = "3297.1.2"
+	}
+	3347.1.2 = {
+		death = "3347.1.2"
+	}
+}
+
+470122 = {
+	name = "JA_nos"
+	# AKA: Janos
+	dynasty = 19054
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = just
+	trait = education_martial_2
+	father = 470118
+	mother = 470121
+	3312.1.2 = {
+		birth = "3312.1.2"
+	}
+	3362.1.2 = {
+		death = "3362.1.2"
+	}
+}
+
+470123 = {
+	name = "IstvA_n"
+	# AKA: Istvan
+	dynasty = 19054
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = just
+	trait = education_martial_2
+	father = 470118
+	mother = 470121
+	3314.1.2 = {
+		birth = "3314.1.2"
+	}
+	3364.1.2 = {
+		death = "3364.1.2"
+	}
+}
+
+470124 = {
+	name = "MiklO_s"
+	# AKA: Miklos
+	dynasty = 19054
+	martial = 2
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = zealous
+	trait = just
+	trait = education_learning_1
+	father = 470118
+	mother = 470121
+	3317.1.2 = {
+		birth = "3317.1.2"
+	}
+	3367.1.2 = {
+		death = "3367.1.2"
+	}
+}
+
+470125 = {
+	name = "LO_rinc"
+	# AKA: Lorinc
+	dynasty = 19054
+	martial = 7
+	diplomacy = 1
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	trait = greedy
+	trait = ill
+	trait = education_martial_2
+	father = 470118
+	mother = 470121
+	3319.1.2 = {
+		birth = "3319.1.2"
+	}
+	3369.1.2 = {
+		death = "3369.1.2"
+	}
+}
+
+470126 = {
+	name = "Benedek"
+	dynasty = 19054
+	martial = 2
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = arbitrary
+	trait = education_stewardship_2
+	father = 470118
+	mother = 470121
+	3322.1.2 = {
+		birth = "3322.1.2"
+	}
+	3372.1.2 = {
+		death = "3372.1.2"
+	}
+}
+
+470127 = {
+	name = "JA_nos"
+	# AKA: Janos
+	dynasty = 19054
+	martial = 8
+	diplomacy = 8
+	intrigue = 2
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 470120
+	3333.1.2 = {
+		birth = "3333.1.2"
+	}
+	3383.1.2 = {
+		death = "3383.1.2"
+	}
+}
+
+470128 = {
+	name = "Anna"
+	female = yes
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = generous
+	trait = gluttonous
+	trait = education_intrigue_2
+	3309.1.2 = {
+		birth = "3309.1.2"
+	}
+	3359.1.2 = {
+		death = "3359.1.2"
+	}
+}
+
+470129 = {
+	name = "ErzsE_bet"
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = temperate
+	trait = education_diplomacy_1
+	3311.1.2 = {
+		birth = "3311.1.2"
+	}
+	3361.1.2 = {
+		death = "3361.1.2"
+	}
+}
+
+470130 = {
+	name = "TamA_s"
+	dynasty = 19045
+	martial = 5
+	diplomacy = 5
+	intrigue = 2
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 93662
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3301.1.1 = {
+		death = "3301.1.1"
+	}
+}
+
+470131 = {
+	name = "LO_rinc"
+	dynasty = 19045
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 470130
+	3282.1.2 = {
+		birth = "3282.1.2"
+	}
+	3317.1.10 = {
+		death = "3317.1.10"
+	}
+}
+
+470132 = {
+	name = "MiklO_s"
+	dynasty = 19045
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = education_martial_2
+	father = 470130
+	3291.1.2 = {
+		birth = "3291.1.2"
+	}
+	3332.1.10 = {
+		death = "3332.1.10"
+	}
+}
+
+470133 = {
+	name = "CsanA_d"
+	dynasty = 19045
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = zealous
+	trait = temperate
+	trait = education_learning_4
+	father = 470130
+	3295.1.2 = {
+		birth = "3295.1.2"
+	}
+	3345.1.2 = {
+		death = "3345.1.2"
+	}
+}
+
+470134 = {
+	name = "PongrA_c"
+	dynasty = 19045
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = education_martial_2
+	father = 470130
+	3297.1.2 = {
+		birth = "3297.1.2"
+	}
+	3332.1.10 = {
+		death = "3332.1.10"
+	}
+}
+
+470135 = {
+	name = "JA_nos"
+	dynasty = 19045
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = lazy
+	trait = education_martial_2
+	father = 470131
+	3307.1.2 = {
+		birth = "3307.1.2"
+	}
+	3357.1.2 = {
+		death = "3357.1.2"
+	}
+}
+
+470136 = {
+	name = "TamA_s"
+	dynasty = 19045
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = wrathful
+	trait = arrogant
+	trait = education_diplomacy_3
+	father = 470131
+	3311.1.2 = {
+		birth = "3311.1.2"
+	}
+	3361.1.2 = {
+		death = "3361.1.2"
+	}
+}
+
+470137 = {
+	name = "IstvA_n"
+	dynasty = 19045
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = education_learning_1
+	father = 470132
+	3317.1.2 = {
+		birth = "3317.1.2"
+	}
+	3367.1.2 = {
+		death = "3367.1.2"
+	}
+}
+
+470138 = {
+	name = "Demeter"
+	dynasty = 19045
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = ill
+	trait = arrogant
+	trait = education_martial_2
+	father = 470132
+	3320.1.2 = {
+		birth = "3320.1.2"
+	}
+	3370.1.2 = {
+		death = "3370.1.2"
+	}
+}
+
+470139 = {
+	name = "GyO_rgy"
+	dynasty = 19045
+	martial = 2
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = diligent
+	trait = education_intrigue_2
+	father = 470132
+	3322.1.2 = {
+		birth = "3322.1.2"
+	}
+	3372.1.2 = {
+		death = "3372.1.2"
+	}
+}
+
+470140 = {
+	name = "MiklO_s"
+	dynasty = 19045
+	martial = 2
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = diligent
+	trait = education_stewardship_2
+	father = 470132
+	3324.1.2 = {
+		birth = "3324.1.2"
+	}
+	3374.1.2 = {
+		death = "3374.1.2"
+	}
+}
+
+470141 = {
+	name = "TamA_s"
+	dynasty = 19045
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = zealous
+	trait = education_learning_2
+	father = 470134
+	3320.1.2 = {
+		birth = "3320.1.2"
+	}
+	3370.1.2 = {
+		death = "3370.1.2"
+	}
+}
+
+470142 = {
+	name = "Dorottya"
+	female = yes
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = honest
+	trait = education_stewardship_2
+	3311.1.2 = {
+		birth = "3311.1.2"
+	}
+	3361.1.2 = {
+		death = "3361.1.2"
+	}
+}
+
+470150 = {
+	name = "Henrik"
+	dynasty = 19032
+	martial = 7
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = education_martial_2
+	father = 93768
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3311.1.1 = {
+		death = "3311.1.1"
+	}
+}
+
+470151 = {
+	name = "PE_ter"
+	dynasty = 19032
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = humble
+	trait = education_martial_2
+	father = 470150
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3328.1.1 = {
+		add_spouse = 470152
+	}
+	3353.1.1 = {
+		death = "3353.1.1"
+	}
+}
+
+470152 = {
+	name = "Anna"
+	female = yes
+	dynasty = 19007 #Blagai
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 2
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = greedy
+	trait = education_diplomacy_3
+	father = 32645
+	3312.1.1 = {
+		birth = "3312.1.1"
+	}
+	3362.1.1 = {
+		death = "3362.1.1"
+	}
+}
+
+470160 = {
+	name = "IstvA_n"
+	# AKA: Istvan Cseh
+	dynasty = 19010
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = zealous
+	trait = brave
+	trait = generous
+	trait = education_martial_2
+	father = 470161
+	mother = 470162
+	3303.1.2 = {
+		birth = "3303.1.2"
+	}
+	3335.1.2 = {
+		add_spouse = 470164
+	}
+	3353.1.2 = {
+		death = "3353.1.2"
+	}
+}
+
+470162 = {
+	name = "Anna"
+	female = yes
+	dynasty = 19010
+	martial = 2
+	diplomacy = 6
+	intrigue = 2
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = education_stewardship_2
+	father = 470163
+	3277.1.2 = {
+		birth = "3277.1.2"
+	}
+	3327.1.2 = {
+		death = "3327.1.2"
+	}
+}
+
+470163 = {
+	name = "PE_ter"
+	dynasty = 19010
+	martial = 5
+	diplomacy = 4
+	intrigue = 2
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = greedy
+	trait = education_martial_2
+	father = 93683
+	3238.1.1 = {
+		birth = "3238.1.1"
+	}
+	3280.1.1 = {
+		death = "3280.1.1"
+	}
+}
+
+470164 = {
+	name = "Anna"
+	female = yes
+	martial = 2
+	diplomacy = 2
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = zealous
+	trait = greedy
+	trait = education_intrigue_2
+	3311.1.2 = {
+		birth = "3311.1.2"
+	}
+	3361.1.2 = {
+		death = "3361.1.2"
+	}
+}
+
+470180 = {
+	name = "Domokos"
+	dynasty = 19060
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = greedy
+	trait = education_martial_2
+	father = 93718
+	3239.1.1 = {
+		birth = "3239.1.1"
+	}
+	3282.1.1 = {
+		death = "3282.1.1"
+	}
+}
+
+470181 = {
+	name = "Doncs"
+	dynasty = 19060
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = calm
+	trait = lustful
+	trait = education_martial_2
+	father = 470180
+	3277.1.1 = {
+		birth = "3277.1.1"
+	}
+	3298.1.1 = {
+		add_spouse = 470182
+	}
+	3347.7.22 = {
+		death = "3347.7.22"
+	}
+}
+
+470182 = {
+	name = "KlA_ra"
+	# AKA: Klara
+	female = yes
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = generous
+	trait = education_intrigue_2
+	3282.1.2 = {
+		birth = "3282.1.2"
+	}
+	3332.1.2 = {
+		death = "3332.1.2"
+	}
+}
+
+470183 = {
+	name = "LA_szlO_"
+	# AKA: Laszlo
+	dynasty = 19060
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = zealous
+	trait = chaste
+	trait = education_martial_2
+	father = 470181
+	mother = 470182
+	3309.1.2 = {
+		birth = "3309.1.2"
+	}
+	3359.1.2 = {
+		death = "3359.1.2"
+	}
+}
+
+470184 = {
+	name = "JA_nos"
+	# AKA: Janos
+	dynasty = 19060
+	martial = 6
+	diplomacy = 2
+	intrigue = 2
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = brave
+	trait = education_martial_1
+	father = 470181
+	mother = 470182
+	3312.1.2 = {
+		birth = "3312.1.2"
+	}
+	3362.1.2 = {
+		death = "3362.1.2"
+	}
+}
+
+470185 = {
+	name = "IstvA_n"
+	# AKA: Istvan
+	dynasty = 19060
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = education_learning_3
+	father = 470181
+	mother = 470182
+	3313.1.2 = {
+		birth = "3313.1.2"
+	}
+	3363.1.2 = {
+		death = "3363.1.2"
+	}
+}
+
+470186 = {
+	name = "MiklO_s"
+	# AKA: Miklos
+	dynasty = 19060
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = zealous
+	trait = lustful
+	trait = education_martial_2
+	father = 470181
+	mother = 470182
+	3315.1.2 = {
+		birth = "3315.1.2"
+	}
+	3365.1.2 = {
+		death = "3365.1.2"
+	}
+}
+
+470187 = {
+	name = "KlA_ra"
+	# AKA: Klara
+	female = yes
+	dynasty = 19060
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = lustful
+	trait = education_diplomacy_1
+	father = 470181
+	mother = 470182
+	3313.1.2 = {
+		birth = "3313.1.2"
+	}
+	3363.1.2 = {
+		death = "3363.1.2"
+	}
+}
+
+470190 = {
+	name = "A_brahA_m"
+	# AKA: abraham
+	dynasty = 19061
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = lustful
+	trait = education_martial_2
+	father = 93635
+	3248.1.1 = {
+		birth = "3248.1.1"
+	}
+	3309.1.1 = {
+		death = "3309.1.1"
+	}
+}
+
+470191 = {
+	name = "PE_ter"
+	dynasty = 19061
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = craven
+	trait = temperate
+	trait = education_intrigue_4
+	father = 470190
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3329.1.1 = {
+		add_spouse = 470194
+	}
+	3349.1.1 = {
+		death = "3349.1.1"
+	}
+}
+
+470192 = {
+	name = "Sebes"
+	dynasty = 19061
+	martial = 7
+	diplomacy = 7
+	intrigue = 3
+	stewardship = 2
+	religion = "catholic"
+	culture = "hungarian"
+	trait = generous
+	trait = arrogant
+	trait = education_martial_2
+	father = 470190
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3332.1.1 = {
+		add_spouse = 470187
+	}
+	3350.1.1 = {
+		death = "3350.1.1"
+	}
+}
+
+470193 = {
+	name = "GyO_rgy"
+	dynasty = 19061
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470192
+	mother = 470187
+	3338.1.2 = {
+		birth = "3338.1.2"
+	}
+	3388.1.2 = {
+		death = "3388.1.2"
+	}
+}
+
+470194 = {
+	name = "Pona"
+	female = yes
+	martial = 4
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = honest
+	trait = education_diplomacy_1
+	3308.1.2 = {
+		birth = "3308.1.2"
+	}
+	3362.1.2 = {
+		death = "3362.1.2"
+	}
+}
+
+470200 = {
+	name = "Bereck"
+	dynasty = 19062
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_learning_2
+	father = 93642
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3322.1.1 = {
+		death = "3322.1.1"
+	}
+}
+
+470201 = {
+	name = "AndrA_s"
+	# AKA: Andras
+	dynasty = 19062
+	martial = 2
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = education_learning_3
+	father = 470200
+	3297.1.2 = {
+		birth = "3297.1.2"
+	}
+	3347.1.2 = {
+		death = "3347.1.2"
+	}
+}
+
+470202 = {
+	name = "JA_nos"
+	# AKA: Janos
+	dynasty = 19062
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = deceitful
+	trait = lustful
+	trait = brave
+	trait = education_martial_2
+	father = 470200
+	3303.1.2 = {
+		birth = "3303.1.2"
+	}
+	3353.1.2 = {
+		death = "3353.1.2"
+	}
+}
+
+470203 = {
+	name = "LO_kO_s"
+	# AKA: Lokos
+	dynasty = 19062
+	martial = 4
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = generous
+	trait = education_martial_2
+	father = 470200
+	3305.1.2 = {
+		birth = "3305.1.2"
+	}
+	3332.1.10 = {
+		death = "3332.1.10"
+	}
+}
+
+470204 = {
+	name = "MiklO_s"
+	# AKA: Miklos
+	dynasty = 19062
+	martial = 4
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = humble
+	trait = generous
+	trait = education_martial_2
+	father = 470200
+	3307.1.2 = {
+		birth = "3307.1.2"
+	}
+	3357.1.2 = {
+		death = "3357.1.2"
+	}
+}
+
+470205 = {
+	name = "Benedek"
+	dynasty = 19062
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = generous
+	trait = education_martial_2
+	father = 470203
+	3324.1.2 = {
+		birth = "3324.1.2"
+	}
+	3374.1.2 = {
+		death = "3374.1.2"
+	}
+}
+
+470206 = {
+	name = "PE_ter"
+	dynasty = 19062
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_martial_2
+	father = 470203
+	3327.1.2 = {
+		birth = "3327.1.2"
+	}
+	3377.1.2 = {
+		death = "3377.1.2"
+	}
+}
+
+470210 = {
+	name = "Benedek"
+	dynasty = 19014
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = brave
+	trait = education_martial_2
+	3281.1.2 = {
+		birth = "3281.1.2"
+	}
+	3324.1.10 = {
+		death = "3324.1.10"
+	}
+}
+
+470212 = {
+	name = "Jakab"
+	dynasty = 19014
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = brave
+	trait = education_martial_2
+	father = 470210
+	3301.1.2 = {
+		birth = "3301.1.2"
+	}
+	3351.1.2 = {
+		death = "3351.1.2"
+	}
+}
+
+470213 = {
+	name = "MiklO_s"
+	# AKA: Miklos
+	dynasty = 19014
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = cynical
+	trait = lazy
+	trait = pneumonic
+	trait = education_martial_2
+	father = 470210
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3352.1.2 = {
+		death = "3352.1.2"
+	}
+}
+
+470214 = {
+	name = "Rafain"
+	dynasty = 19014
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = greedy
+	trait = brave
+	trait = education_martial_2
+	father = 470210
+	3304.1.2 = {
+		birth = "3304.1.2"
+	}
+	3354.1.2 = {
+		death = "3354.1.2"
+	}
+}
+
+470215 = {
+	name = "AndrA_s"
+	# AKA: Andras
+	dynasty = 19014
+	martial = 5
+	diplomacy = 1
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = arbitrary
+	trait = education_martial_1
+	father = 470210
+	3310.1.2 = {
+		birth = "3310.1.2"
+	}
+	3360.1.2 = {
+		death = "3360.1.2"
+	}
+}
+
+470216 = {
+	name = "PA_l"
+	# AKA: Pal
+	dynasty = 19014
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = arrogant
+	trait = honest
+	trait = education_martial_2
+	father = 470210
+	3315.1.2 = {
+		birth = "3315.1.2"
+	}
+	3365.1.2 = {
+		death = "3365.1.2"
+	}
+}
+
+470217 = {
+	name = "DO_zsa"
+	# AKA: Dozsa
+	dynasty = 19014
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lazy
+	trait = arrogant
+	trait = education_learning_3
+	father = 470210
+	3321.1.2 = {
+		birth = "3321.1.2"
+	}
+	3371.1.2 = {
+		death = "3371.1.2"
+	}
+}
+
+470218 = {
+	name = "KlA_ra"
+	# AKA: Klara
+	female = yes
+	dynasty = 19014
+	martial = 2
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arrogant
+	trait = generous
+	trait = education_stewardship_2
+	father = 470210
+	3312.1.2 = {
+		birth = "3312.1.2"
+	}
+	3362.1.2 = {
+		death = "3362.1.2"
+	}
+}
+
+471 = {
+	name = "ZsO_fia"
+	# AKA: Zsofia
+	female = yes
+	dynasty = 708
+	martial = 8
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = diligent
+	father = 470
+	mother = 763
+	3048.1.1 = {
+		birth = "3048.1.1"
+	}
+	3097.6.18 = {
+		death = "3097.6.18"
+	}
+}
+
+472 = {
+	name = "GE_za"
+	# AKA: Geza
+	dynasty = 708
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = chaste
+	trait = honest
+	trait = education_diplomacy_3
+	father = 470
+	mother = 763
+	3046.1.1 = {
+		birth = "3046.1.1"
+	}
+	3064.1.1 = {
+		add_spouse = 479
+	}
+	3079.4.25 = {
+		death = "3079.4.25"
+	}
+}
+
+473 = {
+	name = "EufE_mia"
+	# AKA: Eufemia
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = honest
+	trait = education_stewardship_2
+	father = 470
+	mother = 763
+	3051.1.1 = {
+		birth = "3051.1.1"
+	}
+	3068.1.1 = {
+		employer = 472
+	}
+	3113.4.2 = {
+		death = "3113.4.2"
+	}
+}
+
+474 = {
+	name = "LA_szlO_"
+	# AKA: Laszlo
+	dynasty = 708
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = diligent
+	trait = just
+	trait = arrogant
+	trait = honest
+	trait = education_martial_4
+	father = 470
+	mother = 763
+	3049.1.1 = {
+		birth = "3049.1.1"
+	}
+	3068.1.1 = {
+		effect = { #Táltos king
+			add_trait = lifestyle_mystic
+			add_trait_xp = {
+				trait = lifestyle_mystic
+				value = {
+					integer_range = {
+						min = medium_lifestyle_random_xp_low
+						max = medium_lifestyle_random_xp_high
+					}
+				}
+			}
+		}
+	}
+	3079.1.1 = {
+		add_spouse = 1399
+	}
+	3097.7.29 = {
+		death = "3097.7.29"
+	}
+}
+
+475 = {
+	name = "Ilona"
+	female = yes
+	dynasty = 708
+	martial = 8
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = gluttonous
+	trait = education_intrigue_4
+	father = 470
+	mother = 763
+	3050.1.1 = {
+		birth = "3050.1.1"
+	}
+	3093.1.1 = {
+		death = "3093.1.1"
+	}
+}
+
+476 = {
+	name = "Salamon"
+	dynasty = 708
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = cynical
+	trait = education_martial_2
+	father = 468
+	mother = 637
+	3055.1.1 = {
+		birth = "3055.1.1"
+	}
+	3065.1.1 = {
+		create_betrothal = character:1476
+	}
+	3089.1.1 = {
+		death = "3089.1.1"
+	}
+}
+
+477 = {
+	name = "Adelaida"
+	female = yes
+	dynasty = 708
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = gluttonous
+	trait = education_learning_3
+	father = 468
+	mother = 637
+	3042.1.1 = {
+		birth = "3042.1.1"
+	}
+	3064.1.27 = {
+		death = "3064.1.27"
+	}
+}
+
+478 = {
+	name = "DA_vid"
+	# AKA: David
+	dynasty = 708
+	martial = 8
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arbitrary
+	trait = education_martial_2
+	father = 468
+	mother = 637
+	3056.1.1 = {
+		birth = "3056.1.1"
+	}
+	3068.1.1 = {
+		employer = 476
+	}
+	3096.1.1 = {
+		death = "3096.1.1"
+	}
+}
+
+480 = {
+	name = "KA_lmA_n"
+	# AKA: Kalman
+	dynasty = 708
+	martial = 5
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = hunchbacked
+	trait = education_learning_3
+	father = 472
+	mother = 479
+	3067.1.1 = {
+		birth = "3067.1.1"
+	}
+	3099.1.2 = {
+		#CHECK_CAPITAL capital = k_hungary
+	}
+	3099.1.2 = {
+		add_spouse = 98008
+	}
+	3106.1.2 = {
+		add_spouse = 98018
+	}
+	3114.1.2 = {
+		remove_spouse = 98018
+	}
+	3118.2.3 = {
+		death = "3118.2.3"
+	}
+}
+
+482 = {
+	name = "IstvA_n"
+	# AKA: Istvan
+	dynasty = 708
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = just
+	trait = calm
+	trait = diligent
+	trait = education_learning_2
+	father = 464
+	mother = 753
+	2977.1.1 = {
+		birth = "2977.1.1"
+	}
+	2998.1.1 = {
+		add_spouse = 1297
+	}
+	3040.8.15 = {
+		death = "3040.8.15"
+	}
+}
+
+484 = {
+	name = "TA_tony"
+	# AKA: Tatony
+	dynasty = 180
+	female = yes
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	trait = honest
+	trait = education_stewardship_3
+	2997.1.1 = {
+		birth = "2997.1.1"
+	}
+	3054.1.1 = {
+		death = "3054.1.1"
+	}
+}
+
+485 = {
+	name = "Levente"
+	dynasty = 708
+	martial = 7
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 4
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	trait = generous
+	trait = cynical
+	trait = education_martial_2
+	father = 466
+	mother = 484
+	3020.1.1 = {
+		birth = "3020.1.1"
+	}
+	3049.1.1 = {
+		death = "3049.1.1"
+	}
+}
+
+486 = {
+	name = "GyO_rgy"
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = bastard
+	trait = diligent
+	trait = education_stewardship_2
+	father = 468
+	3039.1.1 = {
+		birth = "3039.1.1"
+	}
+	3068.1.1 = {
+		employer = 984
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+487 = {
+	name = "LA_szlO_"
+	# AKA: Laszlo
+	dynasty = 708
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	trait = wrathful
+	trait = education_martial_1
+	father = 462
+	mother = 759
+	2977.1.1 = {
+		birth = "2977.1.1"
+	}
+	3031.1.1 = {
+		death = "3031.1.1"
+	}
+}
+
+488 = {
+	name = "OttO_"
+	# AKA: Otto
+	dynasty = 708
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_stewardship_2
+	father = 482
+	mother = 1297
+	3004.1.1 = {
+		birth = "3004.1.1"
+	}
+	3012.1.1 = {
+		death = "3012.1.1"
+	}
+}
+
+489 = {
+	name = "Imre" # Saint Emeric
+	dynasty = 708
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = honest
+	trait = education_learning_2
+	trait = lifestyle_hunter
+	father = 482
+	mother = 1297
+	3009.1.1 = {
+		birth = "3009.1.1"
+	}
+	3033.11.2 = {
+		death = {
+			death_reason = death_boar
+		}
+	}
+}
+
+490 = {
+	name = "Odola"
+	dynasty = 708
+	female = yes
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = arbitrary
+	trait = education_diplomacy_1
+	father = 464
+	mother = 753
+	2973.1.1 = {
+		birth = "2973.1.1"
+	}
+	3025.1.1 = {
+		death = "3025.1.1"
+	}
+}
+
+491 = {
+	name = "SA_ra"
+	# AKA: Sara
+	female = yes
+	dynasty = 19053
+	martial = 6
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 4427
+	3018.1.1 = {
+		birth = "3018.1.1"
+	}
+	3068.1.1 = {
+		#employer = 20369
+	}
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+}
+
+492 = {
+	name = "Ilona"
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 7
+	intrigue = 3
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	trait = ill
+	trait = diligent
+	trait = education_learning_3
+	father = 464
+	mother = 753
+	2975.1.1 = {
+		birth = "2975.1.1"
+	}
+	3002.1.1 = {
+		death = "3002.1.1"
+	}
+}
+
+495 = {
+	name = "MA_ria"
+	# AKA: Maria
+	female = yes
+	dynasty = 708
+	martial = 2
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = calm
+	trait = education_stewardship_2
+	father = 464
+	mother = 759
+	2988.1.1 = {
+		birth = "2991.1.1"
+	}
+	3028.1.1 = {
+		death = "3028.1.1"
+	}
+}
+
+497 = {
+	name = "PE_ter"
+	# AKA: Pietro Oddone
+	dynasty = 101562
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = greedy
+	trait = craven
+	trait = education_diplomacy_2
+	father = 496
+	mother = 495
+	3013.1.1 = {
+		birth = "3013.1.1"
+	}
+	3046.7.1 = {
+		trait = blind
+	}
+	3058.1.1 = {
+		add_spouse = 1437
+	}
+	3062.8.30 = {
+		death = "3062.8.30"
+	}
+}
+
+499 = {
+	name = "Sarolta"
+	dynasty = 708
+	female = yes
+	martial = 3
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = temperate
+	trait = education_intrigue_3
+	father = 464
+	mother = 759
+	2989.1.1 = {
+		birth = "2989.1.1"
+	}
+	3055.1.1 = {
+		death = "3055.1.1"
+	}
+}
+
+599 = {
+	name = "Predslava"
+	# AKA: Predeslava
+	female = yes
+	religion = "pagan"
+	culture = "hungarian"
+	2944.1.2 = {
+		birth = "2944.1.2"
+	}
+	2982.1.2 = {
+		death = "2982.1.2"
+	}
+}
+
+98000 = {
+	name = "LA_szlO_"
+	# AKA: Laszlo
+	dynasty = 708
+	martial = 4
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	trait = greedy
+	trait = sadistic
+	trait = arrogant
+	trait = education_intrigue_3
+	father = 219530
+	mother = 218511
+	3133.1.2 = {
+		birth = "3133.1.2"
+	}
+	3138.1.2 = {
+		add_spouse = 221513
+	}
+	3149.6.1 = {
+		remove_spouse = 221513
+	}
+	3165.1.14 = {
+		death = "3165.1.14"
+	}
+}
+
+98001 = {
+	name = "IstvA_n"
+	# AKA: Istvan
+	dynasty = 708
+	martial = 2
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lazy
+	trait = arrogant
+	trait = education_diplomacy_1
+	father = 219530
+	mother = 218511
+	3135.1.2 = {
+		birth = "3135.1.2"
+	}
+	3158.1.2 = {
+		add_spouse = 223021
+	}
+	3167.4.11 = {
+		death = "3167.4.11"
+	}
+}
+
+98002 = {
+	name = "LA_szlO_"
+	# AKA: Laszlo
+	dynasty = 708
+	martial = 2
+	diplomacy = 1
+	intrigue = 4
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	trait = ill
+	trait = education_intrigue_1
+	father = 219501
+	mother = 210503
+	3201.1.2 = {
+		birth = "3201.1.2"
+	}
+	#3148.1.2 = {
+	#add_spouse = 222573
+	#}
+	3207.5.7 = {
+		death = "3207.5.7"
+	}
+}
+
+98003 = {
+	name = "BE_la"
+	dynasty = 708
+	martial = 6
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	trait = temperate
+	trait = brave
+	trait = education_martial_3
+	father = 219502
+	mother = 212946
+	3208.11.29 = {
+		birth = "3208.11.29"
+	}
+	3220.1.2 = {
+		add_spouse = 98033
+	}
+	3272.5.3 = {
+		death = "3272.5.3"
+	}
+}
+
+98004 = {
+	name = "IstvA_n"
+	dynasty = 708
+	martial = 6
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 2
+	religion = "catholic"
+	culture = "hungarian"
+	trait = greedy
+	trait = greedy
+	trait = deceitful
+	trait = education_martial_2
+	father = 98003
+	mother = 98033
+	3241.11.1 = {
+		birth = "3241.11.1"
+	}
+	3255.1.2 = {
+		add_spouse = 98042
+	}
+	3274.8.6 = {
+		death = "3274.8.6"
+	}
+}
+
+98005 = {
+	name = "LA_szlO_"
+	# AKA: Laszlo
+	dynasty = 708
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lustful
+	trait = lifestyle_reveler
+	trait = education_stewardship_1
+	father = 98004
+	3264.8.5 = {
+		birth = "3264.8.5"
+	}
+	3280.1.1 = {
+		add_spouse = 32789 #Elizabeth d'Anjou
+	}
+	3292.7.10 = {
+		death = "3292.7.10"
+	}
+}
+
+98006 = {
+	name = "IstvA_n"
+	# AKA: Istvan
+	dynasty = 708
+	martial = 2
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = lifestyle_blademaster
+	trait = gregarious
+	trait = education_intrigue_3
+	father = 219502
+	mother = 98025
+	3238.1.1 = {
+		birth = "3238.1.1"
+	}
+	3266.1.2 = {
+		add_spouse = 182018 #Tomasini Morosini
+	}
+	3273.1.1 = {
+		death = "3273.1.1"
+	}
+}
+
+98007 = {
+	name = "AndrA_s"
+	# AKA: Andras
+	dynasty = 708
+	martial = 1
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = intellect_bad_1
+	trait = craven
+	trait = education_diplomacy_2
+	father = 98006
+	mother = 182018 #Tomasini Morosini
+	3267.1.2 = {
+		birth = "3267.1.2"
+	}
+	3303.1.14 = {
+		death = "3303.1.14"
+	}
+}
+
+98011 = {
+	name = "Erzsebet"
+	female = yes
+	dynasty = 708
+	martial = 1
+	diplomacy = 3
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = trusting
+	trait = zealous
+	trait = education_diplomacy_4
+	father = 98003
+	mother = 98033
+	3238.1.1 = {
+		birth = "3238.1.1"
+	}
+	3273.10.24 = {
+		death = "3273.10.24"
+	}
+}
+
+98012 = {
+	name = "Anna"
+	female = yes
+	dynasty = 708
+	martial = 2
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = content
+	trait = gregarious
+	trait = education_diplomacy_2
+	father = 98003
+	mother = 98033
+	3229.1.1 = {
+		birth = "3229.1.1"
+	}
+	3272.1.2 = {
+		death = "3272.1.2"
+	}
+}
+
+98017 = {
+	name = "Adelhaid"
+	female = yes
+	dynasty = 708
+	martial = 4
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470
+	mother = 763
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3106.1.2 = {
+		death = "3106.1.2"
+	}
+}
+
+98019 = {
+	name = "Hedwig"
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	father = 219531
+	mother = 219532
+	3113.1.2 = {
+		birth = "3113.1.2"
+	}
+	3142.1.2 = {
+		death = "3142.1.2"
+	}
+}
+
+98020 = {
+	name = "Maria"
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	father = 98000
+	mother = 221513
+	3149.1.2 = {
+		birth = "3149.1.2"
+	}
+	3185.1.2 = {
+		death = "3185.1.2"
+	}
+}
+
+98021 = {
+	name = "Odola"
+	female = yes
+	dynasty = 708
+	martial = 7
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	father = 219510
+	mother = 222573
+	3158.1.2 = {
+		birth = "3158.1.2"
+	}
+	3201.1.2 = {
+		death = "3201.1.2"
+	}
+}
+
+98023 = {
+	name = "BE_la"
+	# AKA: Bela
+	dynasty = 708
+	martial = 1
+	diplomacy = 2
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	father = 219511
+	mother = 212542
+	3169.1.2 = {
+		birth = "3169.1.2"
+	}
+	3169.3.5 = {
+		death = "3169.3.5"
+	}
+}
+
+98026 = {
+	name = "Anna_Maria"
+	# AKA: Maria
+	female = yes
+	dynasty = 708
+	martial = 2
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	father = 219502
+	mother = 212946
+	3206.1.1 = {
+		birth = "3206.1.1"
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+98027 = {
+	name = "ErzsE_bet"
+	female = yes
+	dynasty = 708
+	martial = 6
+	diplomacy = 8
+	intrigue = 2
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	father = 219502
+	mother = 212946
+	3209.7.7 = {
+		birth = "3209.7.7"
+	}
+	3233.11.17 = {
+		death = "3233.11.17"
+	}
+}
+
+98028 = {
+	name = "KA_lmA_n"
+	# AKA: Kalman
+	dynasty = 708
+	martial = 8
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	father = 219502
+	mother = 212946
+	3210.1.1 = {
+		birth = "3210.1.1"
+	}
+	3243.1.1 = {
+		add_spouse = 125981
+	}
+	3243.4.11 = {
+		death = "3243.4.11"
+	}
+}
+
+98029 = {
+	name = "AndrA_s"
+	# AKA: Andras
+	dynasty = 708
+	martial = 8
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	father = 219502
+	mother = 212946
+	3213.1.2 = {
+		birth = "3213.1.2"
+	}
+	3229.1.2 = {
+		add_spouse = 125148
+	}
+	3236.1.1 = {
+		death = "3236.1.1"
+	}
+}
+
+98030 = {
+	name = "Yolande"
+	# AKA: Jolan
+	female = yes
+	dynasty = 708
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	father = 219502
+	mother = 98024
+	3217.11.2 = {
+		birth = "3217.11.2"
+	}
+	3253.10.9 = {
+		death = "3253.10.9"
+	}
+}
+
+98049 = {
+	name = "Katalin"
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 8
+	intrigue = 2
+	stewardship = 6
+	religion = "catholic"
+	culture = "hungarian"
+	father = 474
+	mother = 1399
+	3074.1.2 = {
+		birth = "3074.1.2"
+	}
+	3109.1.2 = {
+		death = "3109.1.2"
+	}
+}
+
+98031 = {
+	name = "Geza"
+	dynasty = 708
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_diplomacy_3
+	father = 219517
+	3192.1.2 = {
+		birth = "3192.1.2"
+	}
+	3214.1.2 = {
+		death = "3214.1.2"
+	}
+}
+
+98032 = {
+	name = "IstvA_n"
+	dynasty = 708
+	martial = 3
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_stewardship_2
+	father = 219517
+	3194.1.2 = {
+		birth = "3194.1.2"
+	}
+	3217.1.2 = {
+		death = "3217.1.2"
+	}
+}
+
+98034 = {
+	name = "Kunigunda"
+	female = yes
+	dynasty = 708
+	martial = 2
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = zealous
+	trait = education_learning_4
+	father = 98003
+	mother = 98033
+	3226.1.1 = {
+		birth = "3226.1.1"
+	}
+	3294.7.24 = {
+		death = "3294.7.24"
+	}
+}
+
+98035 = {
+	name = "Margit"
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 6
+	intrigue = 2
+	stewardship = 7
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_stewardship_3
+	father = 98003
+	mother = 98033
+	3223.1.1 = {
+		birth = "3223.1.1"
+	}
+	3244.4.20 = {
+		death = "3244.4.20"
+	}
+}
+
+98036 = {
+	name = "Katalin"
+	female = yes
+	dynasty = 708
+	martial = 3
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_stewardship_3
+	father = 98003
+	mother = 98033
+	3231.1.1 = {
+		birth = "3231.1.1"
+	}
+	3244.1.2 = {
+		death = "3244.1.2"
+	}
+}
+
+98037 = {
+	name = "Konstancia"
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 8
+	intrigue = 2
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_stewardship_3
+	father = 98003
+	mother = 98033
+	3239.1.1 = {
+		birth = "3239.1.1"
+	}
+	3300.1.2 = {
+		death = "3300.1.2"
+	}
+}
+
+98038 = {
+	name = "Jolan"
+	female = yes
+	dynasty = 708
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 1
+	religion = "catholic"
+	culture = "hungarian"
+	father = 98003
+	mother = 98033
+	3246.1.1 = {
+		birth = "3246.1.1"
+	}
+	3300.3.6 = {
+		death = "3300.3.6"
+	}
+}
+
+98039 = {
+	name = "Margit"
+	female = yes
+	dynasty = 708
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 1
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_learning_4
+	father = 98003
+	mother = 98033
+	3244.5.1 = {
+		birth = "3244.5.1"
+	}
+	3272.1.18 = {
+		death = "3272.1.18"
+	}
+}
+
+98040 = {
+	name = "BE_la"
+	dynasty = 708
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	trait = education_learning_4
+	father = 98003
+	mother = 98033
+	3245.1.1 = {
+		birth = "3245.1.1"
+	}
+	3266.10.25 = {
+		add_spouse = 98041
+	}
+	3271.1.1 = {
+		death = "3271.1.1"
+	}
+}
+
+98043 = {
+	name = "Katalin"
+	female = yes
+	dynasty = 708
+	martial = 5
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	father = 98004
+	mother = 98042
+	3258.1.2 = {
+		birth = "3258.1.2"
+	}
+	3316.1.2 = {
+		death = "3316.1.2"
+	}
+}
+
+98044 = {
+	name = "ErzsE_bet"
+	female = yes
+	dynasty = 708
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "hungarian"
+	father = 98004
+	mother = 98042
+	3257.1.2 = {
+		birth = "3257.1.2"
+	}
+	3328.1.2 = {
+		death = "3328.1.2"
+	}
+}
+
+98045 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 708
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 2
+	religion = "catholic"
+	culture = "hungarian"
+	father = 98004
+	mother = 98042
+	3262.1.2 = {
+		birth = "3262.1.2"
+	}
+	3283.1.2 = {
+		death = "3283.1.2"
+	}
+}
+
+98046 = {
+	name = "AndrA_s"
+	dynasty = 708
+	martial = 7
+	diplomacy = 2
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	father = 98004
+	mother = 98042
+	3270.1.2 = {
+		birth = "3270.1.2"
+	}
+	3280.1.2 = {
+		death = "3280.1.2"
+	}
+}
+
+98047 = {
+	name = "Anna"
+	female = yes
+	dynasty = 708
+	martial = 7
+	diplomacy = 2
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "hungarian"
+	father = 98004
+	mother = 98042
+	3260.1.1 = {
+		birth = "3260.1.1"
+	}
+	3287.1.1 = {
+		death = "3287.1.1"
+	}
+}
+
+32637 = {
+	name = "Babonjeg"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3257.1.1 = {
+		death = "3257.1.1"
+	}
+}
+
+32638 = {
+	name = "Babonjeg"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32637
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3282.1.1 = {
+		death = "3282.1.1"
+	}
+}
+
+32639 = {
+	name = "IstvA_n" #ban of Slavonia 1310-1316
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32638
+	3257.1.1 = {
+		birth = "3257.1.1"
+	}
+	3318.1.1 = {
+		death = "3318.1.1"
+	}
+}
+
+32640 = {
+	name = "IstvA_n"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32637
+	3234.1.1 = {
+		birth = "3234.1.1"
+	}
+	3284.1.1 = {
+		death = "3284.1.1"
+	}
+}
+
+32641 = {
+	name = "IstvA_n" #Ban of Slavonia 1278-1300
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32640
+	3257.1.1 = {
+		birth = "3257.1.1"
+	}
+	3302.1.1 = {
+		death = "3302.1.1"
+	}
+}
+
+32642 = {
+	name = "RadoszlO_"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32640
+	3258.1.1 = {
+		birth = "3258.1.1"
+	}
+	3301.1.1 = {
+		death = "3301.1.1"
+	}
+}
+
+32643 = {
+	name = "IstvA_n"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32641
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+32644 = {
+	name = "LA_szlO_"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32641
+	3290.1.1 = {
+		birth = "3290.1.1"
+	}
+	3340.1.1 = {
+		death = "3340.1.1"
+	}
+}
+
+32645 = {
+	name = "JA_nos" #ban of Slavonia
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32638
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3336.1.1 = {
+		death = "3336.1.1"
+	}
+}
+
+32646 = {
+	name = "OttO_"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32638
+	3264.1.1 = {
+		birth = "3264.1.1"
+	}
+	3302.1.1 = {
+		death = "3302.1.1"
+	}
+}
+
+32647 = {
+	name = "RadoszlO_"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32638
+	3266.1.1 = {
+		birth = "3266.1.1"
+	}
+	3316.1.1 = {
+		death = "3316.1.1"
+	}
+}
+
+32648 = {
+	name = "MiklO_s"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32647
+	3288.1.1 = {
+		birth = "3288.1.1"
+	}
+	3332.1.1 = {
+		death = "3332.1.1"
+	}
+}
+
+32649 = {
+	name = "Duim"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32647
+	3294.1.1 = {
+		birth = "3294.1.1"
+	}
+	3371.1.1 = {
+		death = "3371.1.1"
+	}
+}
+
+32650 = {
+	name = "GyO_rgy"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32639
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3338.1.1 = {
+		death = "3338.1.1"
+	}
+}
+
+32651 = {
+	name = "JA_nos"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32639
+	3299.1.1 = {
+		birth = "3299.1.1"
+	}
+	3330.1.1 = {
+		death = "3330.1.1"
+	}
+}
+
+32652 = {
+	name = "DE_nes"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32639
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3372.1.1 = {
+		death = "3372.1.1"
+	}
+}
+
+32653 = {
+	name = "PA_l"
+	dynasty = 19007
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32639
+	3307.1.1 = {
+		birth = "3307.1.1"
+	}
+	3382.1.1 = {
+		death = "3382.1.1"
+	}
+}
+
+32654 = {
+	name = "Katalin"
+	female = yes
+	dynasty = 19007 #Blagai
+	religion = "catholic"
+	culture = "hungarian"
+	father = 32639
+	3307.1.1 = {
+		birth = "3307.1.1"
+	}
+	3382.1.1 = {
+		death = "3382.1.1"
+	}
+}
+
+93551 = {
+	name = "Hont"
+	dynasty = 19053
+	religion = "catholic"
+	culture = "hungarian"
+	father = 20369
+	3097.1.1 = {
+		birth = "3097.1.1"
+	}
+	3157.1.1 = {
+		death = "3157.1.1"
+	}
+}
+
+93552 = {
+	name = "Martin"
+	dynasty = 19053
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93551
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3205.1.1 = {
+		death = "3205.1.1"
+	}
+}
+
+93624 = {
+	name = "MA_rton"
+	#placeholder
+	dynasty = 101570
+	religion = "catholic"
+	culture = "hungarian"
+	father = 4412
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+93625 = {
+	name = "MA_rton"
+	#placeholder
+	dynasty = 101570
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93624
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	3137.1.1 = {
+		death = "3137.1.1"
+	}
+}
+
+93626 = {
+	name = "Miska"
+	#placeholder
+	dynasty = 101570
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93625
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+93627 = {
+	name = "KupA_n"
+	#placeholder
+	dynasty = 101570
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93626
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+93628 = {
+	name = "OttO_"
+	#placeholder
+	dynasty = 101568
+	religion = "catholic"
+	culture = "hungarian"
+	father = 4397
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3142.1.1 = {
+		death = "3142.1.1"
+	}
+}
+
+
+93629 = {
+	name = "TamA_s"
+	#placeholder
+	dynasty = 101568
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93628
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+93630 = {
+	name = "Ipoly"
+	#placeholder
+	dynasty = 101568
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93629
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+93631 = {
+	name = "Imre"
+	#placeholder
+	dynasty = 101568
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93630
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3252.1.1 = {
+		death = "3252.1.1"
+	}
+}
+
+93632 = {
+	name = "MiklO_s"
+	#placeholder
+	dynasty = 101568
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93631
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3292.1.1 = {
+		death = "3292.1.1"
+	}
+}
+
+93633 = {
+	name = "BE_ny"
+	#placeholder
+	dynasty = 101568
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93632
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3322.1.1 = {
+		death = "3322.1.1"
+	}
+}
+
+93634 = {
+	name = "Sebes"
+	dynasty = 19061
+	religion = "catholic"
+	culture = "hungarian"
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3241.1.1 = {
+		death = "3241.1.1"
+	}
+}
+
+93635 = {
+	name = "A_brahA_m"
+	dynasty = 19061
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93634
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3257.1.1 = {
+		death = "3257.1.1"
+	}
+}
+
+93636 = {
+	name = "TamA_s"
+	dynasty = 19061
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93635
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3289.1.1 = {
+		death = "3289.1.1"
+	}
+}
+
+93637 = {
+	name = "TamA_s"
+	dynasty = 19061
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470190
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3318.1.1 = {
+		death = "3318.1.1"
+	}
+}
+
+93638 = {
+	name = "Imre"
+	# Placeholder
+	dynasty = 100537
+	religion = "catholic"
+	culture = "hungarian"
+	3114.1.1 = {
+		birth = "3114.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+93639 = {
+	name = "MiklO_s"
+	dynasty = 19062
+	religion = "catholic"
+	culture = "hungarian"
+	3208.1.1 = {
+		birth = "3208.1.1"
+	}
+	3262.1.1 = {
+		death = "3262.1.1"
+	}
+}
+
+93640 = {
+	name = "MiklO_s"
+	dynasty = 19062
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93639
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3293.1.1 = {
+		death = "3293.1.1"
+	}
+}
+
+93641 = {
+	name = "IstvA_n"
+	dynasty = 19062
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93639
+	3237.1.1 = {
+		birth = "3237.1.1"
+	}
+	3312.1.1 = {
+		death = "3312.1.1"
+	}
+}
+
+93642 = {
+	name = "AndrA_s"
+	dynasty = 19062
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93639
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3292.1.1 = {
+		death = "3292.1.1"
+	}
+}
+
+93643 = {
+	name = "GyO_rgy"
+	dynasty = 19062
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93642
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3309.1.1 = {
+		death = "3309.1.1"
+	}
+}
+
+93644 = {
+	name = "Benedek"
+	dynasty = 19062
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93642
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	3323.1.1 = {
+		death = "3323.1.1"
+	}
+}
+
+93645 = {
+	name = "Benedek"
+	# placeholder
+	dynasty = 101563
+	religion = "catholic"
+	culture = "hungarian"
+	father = 4358
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+93646 = {
+	name = "GyO_rgy"
+	# placeholder
+	dynasty = 101563
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93645
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+93647 = {
+	name = "Belenik"
+	# placeholder
+	dynasty = 101563
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93646
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+93648 = {
+	name = "Imre"
+	# placeholder
+	dynasty = 101563
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93647
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3252.1.1 = {
+		death = "3252.1.1"
+	}
+}
+
+93649 = {
+	name = "Lampert"
+	# placeholder
+	dynasty = 101563
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93647
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3252.1.1 = {
+		death = "3252.1.1"
+	}
+}
+
+93650 = {
+	name = "JA_nos"
+	dynasty = 19059
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470101
+	3328.1.1 = {
+		birth = "3328.1.1"
+	}
+	3396.1.1 = {
+		death = "3396.1.1"
+	}
+}
+
+93651 = {
+	name = "Beled"
+	dynasty = 19058
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470090
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3238.1.1 = {
+		death = "3238.1.1"
+	}
+}
+
+93652 = {
+	name = "KA_lmA_n"
+	# placeholder
+	dynasty = 100450
+	religion = "catholic"
+	culture = "hungarian"
+	3079.1.1 = {
+		birth = "3079.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+93653 = {
+	name = "DA_vid"
+	# placeholder
+	dynasty = 100450
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93652
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+93654 = {
+	name = "LA_szlO_"
+	# placeholder
+	dynasty = 100450
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93653
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+93655 = {
+	name = "Elek" #real name unknown
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 4386
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+93656 = {
+	name = "Imre" #real name unknown
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93655
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+93657 = {
+	name = "FU_lO_p"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93656
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+93658 = {
+	name = "Benedek"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93656
+	3137.1.1 = {
+		birth = "3137.1.1"
+	}
+	3197.1.1 = {
+		death = "3197.1.1"
+	}
+}
+
+93659 = {
+	name = "BogyoszlO_"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93656
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+93660 = {
+	name = "Kelemen"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93658
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+93661 = {
+	name = "Waffa"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93658
+	3165.1.1 = {
+		birth = "3165.1.1"
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+93662 = {
+	name = "PongrA_cz"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93660
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3258.1.1 = {
+		death = "3258.1.1"
+	}
+}
+
+93663 = {
+	name = "IzsA_k"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93660
+	3189.1.1 = {
+		birth = "3189.1.1"
+	}
+	3258.1.1 = {
+		death = "3258.1.1"
+	}
+}
+
+93664 = {
+	name = "Elek"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93660
+	3191.1.1 = {
+		birth = "3191.1.1"
+	}
+	3258.1.1 = {
+		death = "3258.1.1"
+	}
+}
+
+93665 = {
+	name = "CsO_mO_r"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93660
+	3193.1.1 = {
+		birth = "3193.1.1"
+	}
+	3258.1.1 = {
+		death = "3258.1.1"
+	}
+}
+
+93666 = {
+	name = "LA_szlO_"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93662
+	3237.1.1 = {
+		birth = "3237.1.1"
+	}
+	3284.1.1 = {
+		death = "3284.1.1"
+	}
+}
+
+93667 = {
+	name = "MakO_"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93663
+	3219.1.1 = {
+		birth = "3219.1.1"
+	}
+	3287.1.1 = {
+		death = "3287.1.1"
+	}
+}
+
+93668 = {
+	name = "CsanA_d"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93661
+	3195.1.1 = {
+		birth = "3195.1.1"
+	}
+	3258.1.1 = {
+		death = "3258.1.1"
+	}
+}
+
+93669 = {
+	name = "DE_nes"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93668
+	3225.1.1 = {
+		birth = "3225.1.1"
+	}
+	3292.1.1 = {
+		death = "3292.1.1"
+	}
+}
+
+93670 = {
+	name = "Gergely"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93668
+	3230.1.1 = {
+		birth = "3230.1.1"
+	}
+	3301.1.1 = {
+		death = "3301.1.1"
+	}
+}
+
+93671 = {
+	name = "IstvA_n"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93669
+	3255.1.1 = {
+		birth = "3255.1.1"
+	}
+	3301.1.1 = {
+		death = "3301.1.1"
+	}
+}
+
+93672 = {
+	name = "PA_l"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93669
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3334.1.1 = {
+		death = "3334.1.1"
+	}
+}
+
+93673 = {
+	name = "DE_nes"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93669
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+93674 = {
+	name = "PA_l"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93671
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+93675 = {
+	name = "PE_ter"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93671
+	3294.1.1 = {
+		birth = "3294.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+93676 = {
+	name = "DE_nes"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93674
+	3325.1.1 = {
+		birth = "3325.1.1"
+	}
+	3375.1.1 = {
+		death = "3375.1.1"
+	}
+}
+
+93677 = {
+	name = "PA_l"
+	dynasty = 101566
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93674
+	3327.1.1 = {
+		birth = "3327.1.1"
+	}
+	3377.1.1 = {
+		death = "3377.1.1"
+	}
+}
+
+93678 = {
+	name = "Szabolcs" #real name unknown
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	mother = 4436
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3152.1.1 = {
+		death = "3152.1.1"
+	}
+}
+
+93679 = {
+	name = "IstvA_n" #real name unknown
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93678
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+93680 = {
+	name = "MA_tE_" #real name unknown
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93679
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+93681 = {
+	name = "Ugrin"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93680
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3206.1.1 = {
+		death = "3206.1.1"
+	}
+}
+
+93682 = {
+	name = "MiklO_s"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93680
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3241.1.1 = {
+		death = "3241.1.1"
+	}
+}
+
+93683 = {
+	name = "MA_tE_"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93680
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3251.1.1 = {
+		death = "3251.1.1"
+	}
+}
+
+93684 = {
+	name = "IzsA_k"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93682
+	3198.1.1 = {
+		birth = "3198.1.1"
+	}
+	3242.1.1 = {
+		death = "3242.1.1"
+	}
+}
+
+93685 = {
+	name = "LOErinc"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93682
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3280.1.1 = {
+		death = "3280.1.1"
+	}
+}
+
+93686 = {
+	name = "LOErinc"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93685
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3292.1.1 = {
+		death = "3292.1.1"
+	}
+}
+
+93687 = {
+	name = "JA_nos"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93686
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3360.1.1 = {
+		death = "3360.1.1"
+	}
+}
+
+93688 = {
+	name = "JA_nos"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93682
+	3217.1.1 = {
+		birth = "3217.1.1"
+	}
+	3280.1.1 = {
+		death = "3280.1.1"
+	}
+}
+
+93689 = {
+	name = "Domokos"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93688
+	3247.1.1 = {
+		birth = "3247.1.1"
+	}
+	3307.1.1 = {
+		death = "3307.1.1"
+	}
+}
+
+93690 = {
+	name = "Ugrin"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93688
+	3249.1.1 = {
+		birth = "3249.1.1"
+	}
+	3307.1.1 = {
+		death = "3307.1.1"
+	}
+}
+
+93691 = {
+	name = "JA_nos"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93688
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3307.1.1 = {
+		death = "3307.1.1"
+	}
+}
+
+93692 = {
+	name = "Egyed"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93689
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	3319.1.1 = {
+		death = "3319.1.1"
+	}
+}
+
+93693 = {
+	name = "JA_nos"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93689
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3319.1.1 = {
+		death = "3319.1.1"
+	}
+}
+
+93694 = {
+	name = "PA_l"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93690
+	3279.1.1 = {
+		birth = "3279.1.1"
+	}
+	3360.1.1 = {
+		death = "3360.1.1"
+	}
+}
+
+93695 = {
+	name = "IstvA_n"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93694
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3365.1.1 = {
+		death = "3365.1.1"
+	}
+}
+
+93696 = {
+	name = "MiklO_s"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93694
+	3304.1.1 = {
+		birth = "3304.1.1"
+	}
+	3365.1.1 = {
+		death = "3365.1.1"
+	}
+}
+
+93697 = {
+	name = "JA_nos"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93694
+	3306.1.1 = {
+		birth = "3306.1.1"
+	}
+	3365.1.1 = {
+		death = "3365.1.1"
+	}
+}
+
+93698 = {
+	name = "PE_ter"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93697
+	3336.1.1 = {
+		birth = "3336.1.1"
+	}
+	3407.1.1 = {
+		death = "3407.1.1"
+	}
+}
+
+93699 = {
+	name = "MA_rk"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93683
+	3207.1.1 = {
+		birth = "3207.1.1"
+	}
+	3261.1.1 = {
+		death = "3261.1.1"
+	}
+}
+
+93700 = {
+	name = "IstvA_n"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93683
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3290.1.1 = {
+		death = "3290.1.1"
+	}
+}
+
+93701 = {
+	name = "MA_tE_"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93683
+	3217.1.1 = {
+		birth = "3217.1.1"
+	}
+	3286.1.1 = {
+		death = "3286.1.1"
+	}
+}
+
+93702 = {
+	name = "IstvA_n"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93699
+	3237.1.1 = {
+		birth = "3237.1.1"
+	}
+	3309.1.1 = {
+		death = "3309.1.1"
+	}
+}
+
+93703 = {
+	name = "PE_ter"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93699
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3292.1.1 = {
+		death = "3292.1.1"
+	}
+}
+
+93704 = {
+	name = "PE_ter"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93702
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	3339.1.1 = {
+		death = "3339.1.1"
+	}
+}
+
+93705 = {
+	name = "MA_rk"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93702
+	3269.1.1 = {
+		birth = "3269.1.1"
+	}
+	3311.1.1 = {
+		death = "3311.1.1"
+	}
+}
+
+93706 = {
+	name = "IstvA_n"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93702
+	3271.1.1 = {
+		birth = "3271.1.1"
+	}
+	3331.1.1 = {
+		death = "3331.1.1"
+	}
+}
+
+93707 = {
+	name = "Domokos"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93704
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3361.1.1 = {
+		death = "3361.1.1"
+	}
+}
+
+93708 = {
+	name = "LA_szlO_"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93704
+	3299.1.1 = {
+		birth = "3299.1.1"
+	}
+	3334.1.1 = {
+		death = "3334.1.1"
+	}
+}
+
+93709 = {
+	name = "PE_ter"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93704
+	3301.1.1 = {
+		birth = "3301.1.1"
+	}
+	3334.1.1 = {
+		death = "3334.1.1"
+	}
+}
+
+93710 = {
+	name = "LA_szlO_"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93707
+	3327.1.1 = {
+		birth = "3327.1.1"
+	}
+	3400.1.1 = {
+		death = "3400.1.1"
+	}
+}
+
+93711 = {
+	name = "MA_tE_"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470163
+	3254.1.1 = {
+		birth = "3254.1.1"
+	}
+	3323.3.18 = {
+		death = "3323.3.18"
+	}
+}
+
+93712 = {
+	name = "MA_tE_"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93711
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3323.1.1 = {
+		death = "3323.1.1"
+	}
+}
+
+93713 = {
+	name = "MA_tE_"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93712
+	3317.1.1 = {
+		birth = "3317.1.1"
+	}
+	3358.1.1 = {
+		death = "3358.1.1"
+	}
+}
+
+93714 = {
+	name = "Jakab"
+	dynasty = 19010
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93712
+	3320.1.1 = {
+		birth = "3320.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+93715 = {
+	name = "Synk"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+93716 = {
+	name = "Detre"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93715
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3238.1.1 = {
+		death = "3238.1.1"
+	}
+}
+
+93717 = {
+	name = "MikO_"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93716
+	3200.1.1 = {
+		birth = "3200.1.1"
+	}
+	3272.1.2 = {
+		death = "3272.1.2"
+	}
+}
+
+93718 = {
+	name = "MiklO_s"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93716
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3248.1.1 = {
+		death = "3248.1.1"
+	}
+}
+
+93719 = {
+	name = "Detre"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93716
+	3204.1.1 = {
+		birth = "3204.1.1"
+	}
+	3256.1.1 = {
+		death = "3256.1.1"
+	}
+}
+
+93720 = {
+	name = "Biter"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93717
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3299.1.1 = {
+		death = "3299.1.1"
+	}
+}
+
+93721 = {
+	name = "JA_nos"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93717
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3302.1.1 = {
+		death = "3302.1.1"
+	}
+}
+
+93722 = {
+	name = "MiklO_s"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93717
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3301.1.1 = {
+		death = "3301.1.1"
+	}
+}
+
+93723 = {
+	name = "PE_ter"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93717
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	3337.1.1 = {
+		death = "3337.1.1"
+	}
+}
+
+93724 = {
+	name = "MihA_ly"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93717
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3302.1.1 = {
+		death = "3302.1.1"
+	}
+}
+
+93725 = {
+	name = "GyO_rgy"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93722
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3325.1.1 = {
+		death = "3325.1.1"
+	}
+}
+
+93726 = {
+	name = "MiklO_s"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93723
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3360.1.1 = {
+		death = "3360.1.1"
+	}
+}
+
+93727 = {
+	name = "JA_nos"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93723
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3351.1.1 = {
+		death = "3351.1.1"
+	}
+}
+
+93728 = {
+	name = "GyO_rgy"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93723
+	3307.1.1 = {
+		birth = "3307.1.1"
+	}
+	3387.1.1 = {
+		death = "3387.1.1"
+	}
+}
+
+
+93729 = {
+	name = "Anics"
+	female = yes
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93723
+	3308.1.1 = {
+		birth = "3308.1.1"
+	}
+	3337.1.1 = {
+		death = "3337.1.1"
+	}
+}
+
+93730 = {
+	name = "LA_szlO_"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93726
+	3322.1.1 = {
+		birth = "3322.1.1"
+	}
+	3367.1.1 = {
+		death = "3367.1.1"
+	}
+}
+
+93731 = {
+	name = "BalA_sz"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93726
+	3327.1.1 = {
+		birth = "3327.1.1"
+	}
+	3390.1.1 = {
+		death = "3390.1.1"
+	}
+}
+
+93732 = {
+	name = "JA_nos"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93726
+	3332.1.1 = {
+		birth = "3332.1.1"
+	}
+	3392.8.22 = {
+		death = "3392.8.22"
+	}
+}
+
+93733 = {
+	name = "MikO_"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93726
+	3337.1.1 = {
+		birth = "3337.1.1"
+	}
+	3366.1.1 = {
+		death = "3366.1.1"
+	}
+}
+
+93734 = {
+	name = "PE_ter"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93718
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3309.1.1 = {
+		death = "3309.1.1"
+	}
+}
+
+93735 = {
+	name = "Demeter"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93718
+	3234.1.1 = {
+		birth = "3234.1.1"
+	}
+	3314.6.15 = {
+		death = "3314.6.15"
+	}
+}
+
+93736 = {
+	name = "JA_nos"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93734
+	3257.1.1 = {
+		birth = "3257.1.1"
+	}
+	3307.1.1 = {
+		death = "3307.1.1"
+	}
+}
+
+93737 = {
+	name = "Doncs"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93734
+	3258.1.1 = {
+		birth = "3258.1.1"
+	}
+	3308.1.1 = {
+		death = "3308.1.1"
+	}
+}
+
+93738 = {
+	name = "Detrik"
+	dynasty = 19060
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93734
+	3259.1.1 = {
+		birth = "3259.1.1"
+	}
+	3309.1.1 = {
+		death = "3309.1.1"
+	}
+}
+
+93747 = {
+	name = "KlA_ra"
+	female = yes
+	dynasty = 12002
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93741
+	3310.1.1 = {
+		birth = "3310.1.1"
+	}
+	3353.1.1 = {
+		death = "3353.1.1"
+	}
+}
+
+93748 = {
+	name = "JA_nos"
+	dynasty = 12002
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93745
+	3330.1.1 = {
+		birth = "3330.1.1"
+	}
+	3376.1.1 = {
+		death = "3376.1.1"
+	}
+}
+
+93749 = {
+	name = "LA_szlO_"
+	dynasty = 12002
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93745
+	3332.1.1 = {
+		birth = "3332.1.1"
+	}
+	3373.1.1 = {
+		death = "3373.1.1"
+	}
+}
+
+93750 = {
+	name = "Sebestyen"
+	dynasty = 12002
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93746
+	3332.1.1 = {
+		birth = "3332.1.1"
+	}
+	3363.1.1 = {
+		death = "3363.1.1"
+	}
+}
+
+93751 = {
+	name = "Gyula"
+	dynasty = 7378
+	religion = "catholic"
+	culture = "hungarian"
+	3177.1.1 = {
+		birth = "3177.1.1"
+	}
+	3228.1.1 = {
+		death = "3228.1.1"
+	}
+}
+
+93752 = {
+	name = "LA_szlO_"
+	dynasty = 7378
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93751
+	3207.1.1 = {
+		birth = "3207.1.1"
+	}
+	3278.1.1 = {
+		death = "3278.1.1"
+	}
+}
+
+93753 = {
+	name = "Gyula"
+	dynasty = 7378
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93751
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3235.1.1 = {
+		death = "3235.1.1"
+	}
+}
+
+93754 = {
+	name = "LA_szlO_"
+	dynasty = 7378
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93752
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3317.1.1 = {
+		death = "3317.1.1"
+	}
+}
+
+93755 = {
+	name = "MO_ricz"
+	dynasty = 19057
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93756
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3271.1.1 = {
+		death = "3271.1.1"
+	}
+}
+
+93756 = {
+	name = "MO_ricz"
+	dynasty = 19057
+	religion = "catholic"
+	culture = "hungarian"
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3252.1.1 = {
+		death = "3252.1.1"
+	}
+}
+
+93757 = {
+	name = "SA_muel"
+	# placeholder
+	dynasty = 19000
+	religion = "catholic"
+	culture = "hungarian"
+	father = 20376
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	3147.1.1 = {
+		death = "3147.1.1"
+	}
+}
+
+93758 = {
+	name = "JA_nos"
+	# placeholder
+	dynasty = 19000
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93757
+	3117.1.1 = {
+		birth = "3117.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+93759 = {
+	name = "DomoszlO_"
+	# placeholder
+	dynasty = 19000
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93758
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+93760 = {
+	name = "GE_za"
+	# placeholder
+	dynasty = 19000
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93759
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3242.1.1 = {
+		death = "3242.1.1"
+	}
+}
+
+93761 = {
+	name = "DA_vid"
+	dynasty = 19000
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93760
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3262.1.1 = {
+		death = "3262.1.1"
+	}
+}
+
+93762 = {
+	name = "AmadE_"
+	dynasty = 19000
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93761
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3313.9.5 = {
+		death = "3313.9.5"
+	}
+}
+
+93763 = {
+	name = "FintA_"
+	dynasty = 19000
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93761
+	3247.1.1 = {
+		birth = "3247.1.1"
+	}
+	3313.9.5 = {
+		death = "3313.9.5"
+	}
+}
+
+93765 = {
+	name = "Hencz"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93764
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3198.1.1 = {
+		death = "3198.1.1"
+	}
+}
+
+93766 = {
+	name = "MihA_ly"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93765
+	3167.1.1 = {
+		birth = "3167.1.1"
+	}
+	3214.1.1 = {
+		death = "3214.1.1"
+	}
+}
+
+93767 = {
+	name = "Henrik"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93765
+	3177.1.1 = {
+		birth = "3177.1.1"
+	}
+	3239.1.1 = {
+		death = "3239.1.1"
+	}
+}
+
+93768 = {
+	name = "Henrik"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93767
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3276.1.1 = {
+		death = "3276.1.1"
+	}
+}
+
+93769 = {
+	name = "MiklO_s"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93768
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3301.1.1 = {
+		death = "3301.1.1"
+	}
+}
+
+93770 = {
+	name = "JA_nos"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93768
+	3247.1.1 = {
+		birth = "3247.1.1"
+	}
+	3310.5.4 = {
+		death = "3310.5.4"
+	}
+}
+
+93771 = {
+	name = "PE_ter"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93768
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3291.1.1 = {
+		death = "3291.1.1"
+	}
+}
+
+93772 = {
+	name = "MiklO_s"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93769
+	3277.1.1 = {
+		birth = "3277.1.1"
+	}
+	3334.1.1 = {
+		death = "3334.1.1"
+	}
+}
+
+93773 = {
+	name = "JA_nos"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93769
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3332.1.1 = {
+		death = "3332.1.1"
+	}
+}
+
+93774 = {
+	name = "JA_nos"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93772
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+93775 = {
+	name = "LA_szlO_"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93772
+	3304.1.1 = {
+		birth = "3304.1.1"
+	}
+	3338.1.1 = {
+		death = "3338.1.1"
+	}
+}
+
+93776 = {
+	name = "Henrik"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93772
+	3312.1.1 = {
+		birth = "3312.1.1"
+	}
+	3378.1.1 = {
+		death = "3378.1.1"
+	}
+}
+
+93777 = {
+	name = "MiklO_s"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93776
+	3332.1.1 = {
+		birth = "3332.1.1"
+	}
+	3362.1.1 = {
+		death = "3362.1.1"
+	}
+}
+
+93778 = {
+	name = "AndrA_s"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93776
+	3337.1.1 = {
+		birth = "3337.1.1"
+	}
+	3425.1.1 = {
+		death = "3425.1.1"
+	}
+}
+
+93779 = {
+	name = "JA_nos"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470150
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3329.1.1 = {
+		death = "3329.1.1"
+	}
+}
+
+93780 = {
+	name = "MiklO_s"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93779
+	3317.1.1 = {
+		birth = "3317.1.1"
+	}
+	3360.1.1 = {
+		death = "3360.1.1"
+	}
+}
+
+93781 = {
+	name = "PE_ter"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93779
+	3319.1.1 = {
+		birth = "3319.1.1"
+	}
+	3360.1.1 = {
+		death = "3360.1.1"
+	}
+}
+
+93782 = {
+	name = "Henrik"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93779
+	3321.1.1 = {
+		birth = "3321.1.1"
+	}
+	3360.1.1 = {
+		death = "3360.1.1"
+	}
+}
+
+93783 = {
+	name = "MiklO_s"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470150
+	3304.1.1 = {
+		birth = "3304.1.1"
+	}
+	3338.1.1 = {
+		death = "3338.1.1"
+	}
+}
+
+93784 = {
+	name = "PE_ter"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 470151
+	mother = 470152
+	3332.1.1 = {
+		birth = "3332.1.1"
+	}
+	3407.1.1 = {
+		death = "3407.1.1"
+	}
+}
+
+93785 = {
+	name = "Gergely"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93770
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	3299.1.1 = {
+		death = "3299.1.1"
+	}
+}
+
+93786 = {
+	name = "JA_nos"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93770
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3335.1.1 = {
+		death = "3335.1.1"
+	}
+}
+
+93787 = {
+	name = "MiklO_s"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93785
+	3287.1.1 = {
+		birth = "3287.1.1"
+	}
+	3316.1.1 = {
+		death = "3316.1.1"
+	}
+}
+
+93788 = {
+	name = "AndrA_s"
+	dynasty = 19032
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93785
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+93789 = {
+	name = "TamA_s" #real name unknown
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3242.1.1 = {
+		death = "3242.1.1"
+	}
+}
+
+93790 = {
+	name = "BarnabA_s"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93789
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3281.1.1 = {
+		death = "3281.1.1"
+	}
+}
+
+93791 = {
+	name = "GyO_rgy"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93789
+	3217.1.1 = {
+		birth = "3217.1.1"
+	}
+	3267.1.1 = {
+		death = "3267.1.1"
+	}
+}
+
+93792 = {
+	name = "TamA_s"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93790
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3297.1.1 = {
+		death = "3297.1.1"
+	}
+}
+
+93793 = {
+	name = "JA_nos"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93790
+	3234.1.1 = {
+		birth = "3234.1.1"
+	}
+	3281.1.1 = {
+		death = "3281.1.1"
+	}
+}
+
+93794 = {
+	name = "LorA_nd"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93792
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3303.1.1 = {
+		death = "3303.1.1"
+	}
+}
+
+93795 = {
+	name = "IstvA_n"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93792
+	3257.1.1 = {
+		birth = "3257.1.1"
+	}
+	3296.1.1 = {
+		death = "3296.1.1"
+	}
+}
+
+93796 = {
+	name = "Jakab"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93792
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3327.1.1 = {
+		death = "3327.1.1"
+	}
+}
+
+93797 = {
+	name = "LA_szlO_"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93792
+	3264.1.1 = {
+		birth = "3264.1.1"
+	}
+	3309.1.1 = {
+		death = "3309.1.1"
+	}
+}
+
+93798 = {
+	name = "Beke"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93792
+	3266.1.1 = {
+		birth = "3266.1.1"
+	}
+	3328.1.1 = {
+		death = "3328.1.1"
+	}
+}
+
+93799 = {
+	name = "JA_nos"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93792
+	3268.1.1 = {
+		birth = "3268.1.1"
+	}
+	3306.1.1 = {
+		death = "3306.1.1"
+	}
+}
+
+93800 = {
+	name = "IstvA_n"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93794
+	3277.1.1 = {
+		birth = "3277.1.1"
+	}
+	3339.1.1 = {
+		death = "3339.1.1"
+	}
+}
+
+93801 = {
+	name = "JA_nos"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93794
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3339.1.1 = {
+		death = "3339.1.1"
+	}
+}
+
+93802 = {
+	name = "LA_szlO_"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93794
+	3287.1.1 = {
+		birth = "3287.1.1"
+	}
+	3359.1.1 = {
+		death = "3359.1.1"
+	}
+}
+
+93803 = {
+	name = "IstvA_n"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93795
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3336.1.1 = {
+		death = "3336.1.1"
+	}
+}
+
+93804 = {
+	name = "IstvA_n"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93795
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3336.1.1 = {
+		death = "3336.1.1"
+	}
+}
+
+93805 = {
+	name = "Bekcs"
+	dynasty = 19009
+	religion = "catholic"
+	culture = "hungarian"
+	father = 93796
+	3287.1.1 = {
+		birth = "3287.1.1"
+	}
+	3321.1.1 = {
+		death = "3321.1.1"
+	}
+}
+
+159135 = {
+	name = "ZoltA_n"
+	dynasty = 708
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	father = 159136 #Arpad Arpad
+	mother = 306004
+	2882.1.2 = {
+		birth = "2882.1.2"
+	}
+	2957.1.2 = {
+		death = "2957.1.2"
+	}
+}
+
+159136 = {
+	name = "A_rpA_d"
+	dna = 159136_arpad
+	dynasty = 708
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	father = 159137 #(#Álmos Arpad of Magyar)
+	mother = 306003 #Fictional
+	martial = 8
+	trait = ambitious
+	trait = strong
+	trait = just
+	trait = diligent
+	trait = education_martial_4
+	2847.1.1 = {
+		birth = yes
+	}
+	2863.1.1 = {
+		add_spouse = 306004 #Fictional
+	}
+	2909.1.1 = {
+		death = yes
+	}
+}
+
+306004 = { #Fictional wife of Arpad
+	name = "Hajnal"
+	dna = 306004_hajnal
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	female = yes
+	trait = beauty_good_1
+	trait = diligent
+	trait = shy
+	trait = brave
+	2845.1.1 = {
+		birth = yes
+	}
+	2909.1.1 = {
+		death = yes
+	}
+}
+
+#Álmos Arpad of Magyar
+159137 = {
+	name = "A_lmos" # Ruler of the Magyars in 845
+	dna = 159137_almos_arpad
+	dynasty = 708
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	father = 159138
+	mother = 159139
+	martial = 8
+	diplomacy = 7
+	trait = ambitious
+	trait = gregarious
+	trait = just
+	trait = calm
+	trait = education_martial_4
+	sexuality = heterosexual
+	
+	2822.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+	}
+
+	2846.1.1 = {
+		add_spouse = 306003 #Fictional, her name is lost but she was supposed to be highborn
+	}
+	
+	# Boost the strength of the magyars for the hungarian invasion.
+	2869.1.1 = {
+		add_prestige = 1000
+	}
+	
+	2897.1.1 = {
+		death = yes
+	}
+}
+
+306006 = { #Fictional vassal of Almos Arpad
+	name = "Vilmos"
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	martial = 8
+	trait = giant
+	trait = wrathful
+	trait = paranoid
+	trait = gluttonous
+	trait = education_martial_4
+	2839.1.1 = {
+		birth = yes
+	}
+	2909.1.1 = {
+		death = yes
+	}
+}
+
+306007 = { #Fictional vassal of Almos Arpad
+	name = "Ambrus"
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	martial = 8
+	trait = shrewd
+	trait = gregarious
+	trait = lustful
+	trait = brave
+	trait = beauty_good_1
+	trait = education_martial_3
+	2842.1.1 = {
+		birth = yes
+	}
+	2864.1.1 = {
+		add_spouse = 306008
+		effect = {
+			add_trait = lifestyle_blademaster
+			add_trait_xp = {
+				trait = lifestyle_blademaster
+				value = {
+					integer_range = {
+						min = medium_lifestyle_random_xp_low
+						max = medium_lifestyle_random_xp_high
+					}
+				}
+			}
+		}
+	}
+	2909.1.1 = {
+		death = yes
+	}
+}
+
+306008 = { #Fictional vassal wife
+	name = "Dorottya"
+	female = yes
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	martial = 8
+	trait = stubborn
+	trait = trusting
+	trait = compassionate
+	trait = beauty_good_1
+	trait = education_intrigue_3
+	2843.1.1 = {
+		birth = yes
+	}
+	2909.1.1 = {
+		death = yes
+	}
+}
+
+
+163168 = {
+	name = "LinU_tika"
+	dynasty = 708
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	father = 159136 #Arpad Arpad
+	mother = 306004
+	2864.1.1 = {
+		birth = "2864.1.1"
+	}
+	2908.1.1 = {
+		death = "2908.1.1"
+	}
+}
+
+306005 = { #Fictional daughter of Arpad
+	name = "Ibolya"
+	female = yes
+	dynasty = 708
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	father = 159136 #Arpad Arpad
+	mother = 306004
+	2868.1.1 = {
+		birth = "2866.1.1"
+	}
+	2922.1.1 = {
+		death = "2922.1.1"
+	}
+}
+
+163169 = {
+	name = "Tarkatzus"
+	dynasty = 708
+	religion = "magyar_pagan"
+	culture = "mogyer"
+	father = 159136 #Arpad Arpad
+	mother = 306004
+	2866.1.1 = {
+		birth = "2866.1.1"
+	}
+	2922.1.1 = {
+		death = "2922.1.1"
+	}
+}
+146214 = {
+	name = "JenOE"
+	dynasty = 1022386
+	culture = "mogyer"
+	religion = "magyar_pagan"
+
+	2743.1.1 = {
+		birth = yes
+	}
+	2805.1.1 = {
+		death = yes
+	}
+}
+
+146215 = {
+	name = "DezsO_"
+	dynasty = 1022386
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146214
+	2760.1.1 = {
+		birth = yes
+	}
+	2821.1.1 = {
+		death = yes
+	}
+}
+
+194345 = {
+	name = "Elek"
+	dynasty = 1022386
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146214
+	2762.1.1 = {
+		birth = yes
+	}
+	2821.1.1 = {
+		death = yes
+	}
+}
+
+146216 = {
+	name = "KE_r"
+	dynasty = 1022387
+	culture = "mogyer"
+	religion = "magyar_pagan"
+
+	2744.1.1 = {
+		birth = yes
+	}
+	2806.1.1 = {
+		death = yes
+	}
+}
+
+146217 = {
+	name = "Elek"
+	dynasty = 1022387
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146216
+	2761.1.1 = {
+		birth = yes
+	}
+	2822.1.1 = {
+		death = yes
+	}
+}
+
+146218 = {
+	name = "Keszi"
+	dynasty = 1022388
+	culture = "mogyer"
+	religion = "magyar_pagan"
+
+	2745.1.1 = {
+		birth = yes
+	}
+	2807.1.1 = {
+		death = yes
+	}
+}
+
+146219 = {
+	name = "DO_mO_tO_r"
+	dynasty = 1022388
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146218
+	2762.1.1 = {
+		birth = yes
+	}
+	2823.1.1 = {
+		death = yes
+	}
+}
+
+146220 = {
+	name = "KU_rt"
+	dynasty = 1022389
+	culture = "mogyer"
+	religion = "magyar_pagan"
+
+	2746.1.1 = {
+		birth = yes
+	}
+	2808.1.1 = {
+		death = yes
+	}
+}
+
+146221 = {
+	name = "Gergely"
+	dynasty = 1022389
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146220
+	2763.1.1 = {
+		birth = yes
+	}
+	2824.1.1 = {
+		death = yes
+	}
+}
+
+146222 = {
+	name = "Gyarmat"
+	dynasty = 1022390
+	culture = "mogyer"
+	religion = "magyar_pagan"
+
+	2747.1.1 = {
+		birth = yes
+	}
+	2809.1.1 = {
+		death = yes
+	}
+}
+
+146223 = {
+	name = "Attila"
+	dynasty = 1022390
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146222
+	2764.1.1 = {
+		birth = yes
+	}
+	2825.1.1 = {
+		death = yes
+	}
+}
+
+146224 = {
+	name = "Megyer"
+	dynasty = 1022391
+	culture = "mogyer"
+	religion = "magyar_pagan"
+
+	2748.1.1 = {
+		birth = yes
+	}
+	2810.1.1 = {
+		death = yes
+	}
+}
+
+146225 = {
+	name = "Tivadar"
+	dynasty = 1022391
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146224
+	2765.1.1 = {
+		birth = yes
+	}
+	2826.1.1 = {
+		death = yes
+	}
+}
+
+146226 = {
+	name = "NyE_k"
+	dynasty = 1022392
+	culture = "mogyer"
+	religion = "magyar_pagan"
+
+	2749.1.1 = {
+		birth = yes
+	}
+	2811.1.1 = {
+		death = yes
+	}
+}
+
+146227 = {
+	name = "Zsolt"
+	dynasty = 1022392
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146226
+	2766.1.1 = {
+		birth = yes
+	}
+	2827.1.1 = {
+		death = yes
+	}
+}
+
+146228 = {
+	name = "TarjA_n"
+	dynasty = 1022393
+	culture = "mogyer"
+	religion = "magyar_pagan"
+
+	2750.1.1 = {
+		birth = yes
+	}
+	2812.1.1 = {
+		death = yes
+	}
+}
+
+146229 = {
+	name = "Tibor"
+	dynasty = 1022393
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146228
+	2767.1.1 = {
+		birth = yes
+	}
+	2828.1.1 = {
+		death = yes
+	}
+}
+
+146230 = {
+	name = "TE_tE_ny"
+	dynasty = 1022386
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146215
+	2785.1.1 = {
+		birth = yes
+	}
+	2847.1.1 = {
+		death = yes
+	}
+}
+
+146231 = {
+	name = "TO_hO_tO_m"
+	dynasty = 1022386
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146230
+	2811.1.1 = {
+		birth = yes
+	}
+	2875.1.1 = {
+		death = yes
+	}
+}
+194367 = {
+	name = "Csaba"
+	dynasty = 1022386
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146231
+	2842.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+194368 = {
+	name = "Hajnal"
+	female = yes
+	dynasty = 1022386
+	culture = "mogyer"
+	religion = "magyar_pagan"
+	father = 146231
+	2847.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}

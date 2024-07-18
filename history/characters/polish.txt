@@ -1,0 +1,7528 @@
+﻿###PIAST DYNASTY
+
+		#EARLY PIAST
+
+#171010 = {
+#	name = "Choscisko"	#Piast's father
+#	outcommented because very "legendary" character
+#	religion = "slavic_pagan"
+#	culture = "polish"
+#	2797.1.2 = {
+#		birth = "2797.1.2"
+#	}
+#	2862.1.2 = {
+#		death = "2862.1.2"
+#	}
+#}
+
+82233 = {
+	name = "Piast"	#the Wheelwright
+	#Piast dynasty founder
+	dynasty = 699
+	martial = 5
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 8
+	trait = honest
+	trait = just
+	trait = education_stewardship_2
+	religion = "slavic_pagan"
+	culture = "polish"
+	#father = 171010
+	2742.1.1 = {		#semi-legendary, so his 740-861 (=120 years) lifespan is debatable but hey, no better dates
+		birth = "2742.1.1"
+	}
+	2813.1.2 = {
+		add_spouse = 82234
+	}
+	2863.1.1 = {
+		death = "2863.1.1"
+	}
+}
+
+82234 = {
+	name = "Rzepicha"
+	#Piast's wife
+	female = yes
+	religion = "slavic_pagan"
+	culture = "polish"
+	2797.1.1 = {		#no proper dates  exist
+		birth = "2797.1.1"
+	}
+	2865.1.1 = {
+		death = "2865.1.1"
+	}
+}
+
+82235 = {
+	name = "Siemowit"	#Piast's son
+	#1st Piast "ruler"
+	dynasty = 699
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	trait = education_martial_2
+	trait = brave
+	trait = honest
+	religion = "slavic_pagan"
+	culture = "polish"
+	father = 82233		#Piast
+	mother = 82234
+	2827.1.1 = {
+		birth = "2827.1.1"
+	}
+	2882.1.1 = {
+		death = "2882.1.1"
+	}
+}
+
+82236 = {
+	name = "Lestek"		#Siemowit's son
+	#2nd Piast "ruler"
+	dynasty = 699
+	diplomacy = 6
+	intrigue = 7
+	trait = education_diplomacy_2
+	religion = "slavic_pagan"
+	culture = "polish"
+	father = 82235		#Siemowit
+	2872.1.1 = {
+		birth = "2872.1.1"
+	}
+	2932.1.1 = {
+		death = "2932.1.1"
+	}
+}
+
+752 = {
+	name = "SiemomysL_"	#Lestek's son
+	#3th Piast "ruler"
+	dynasty = 699
+	martial = 8
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "slavic_pagan"
+	culture = "polish"
+	father = 82236		#Lestek
+	trait = brave
+	trait = education_martial_2
+	2902.1.2 = {
+		birth = "2902.1.2"
+	}
+	2962.1.2 = {
+		death = "2962.1.2"
+	}
+}
+
+		#HISTORICAL PIAST
+
+	#Mieszko I 's family
+754 = {
+	name = "Mieszko"	#I of Poland
+	#1st Polish ruler
+	dynasty = 699
+	martial = 7
+	diplomacy = 7
+	stewardship = 8
+	learning = 5
+	religion = "catholic"
+	culture = "polish"
+	trait = education_martial_3
+	trait = brave
+	trait = zealous
+	trait = diligent
+	trait = gregarious
+	trait = intellect_good_1
+	father = 752		#Siemomysl
+	2932.1.1 = {
+		birth = "2932.1.1"
+	}
+	2967.1.1 = {
+		add_spouse = 509
+	}
+	2980.1.1 = {
+		add_spouse = 168525
+	}
+	2994.5.25 = {
+		death = "2994.5.25"
+	}
+}
+
+756 = {
+	name = "BolesL_aw"	#Boleslaw I Chrobry / the Brave
+	#2nd Polish ruler
+	dynasty = 699
+	martial = 8
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "polish"
+	trait = brave
+	trait = ambitious
+	trait = intellect_good_1
+	trait = physique_good_2
+	trait = education_martial_3
+	father = 754
+	mother = 509
+	2969.1.2 = {
+		birth = "2969.1.2"
+		give_nickname = "nick_the_brave"
+	}
+	2987.1.2 = {
+		add_spouse = 463
+	}
+	2989.1.2 = {
+		add_spouse = 757
+	}
+	3027.6.17 = {
+		death = "3027.6.17"
+	}
+}
+
+755 = {
+	name = "SwiE_tosL_awa"	#Sister of Boleslaw I Chrobry
+	female = yes
+	dynasty = 699
+	martial = 8
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "polish"
+	trait = greedy
+	trait = arrogant
+	trait = education_diplomacy_2
+	father = 754
+	mother = 509
+	2972.1.2 = {
+		birth = "2972.1.2"
+	}
+	3016.2.2 = {
+		death = "3016.2.2"
+	}
+}
+
+168536 = {
+	name = "WL_adywoj" #duke of Bohemia 1002-1003
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 754
+	mother = 509
+	2974.1.1 = {
+		birth = yes
+	}
+	
+	3005.1.1 = {
+		death = yes
+	}
+}
+
+168538 = {
+	name = "Mieszko"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 754
+	mother = 168525
+	2981.1.1 = {
+		birth = yes
+	}
+	
+	3001.1.1 = {
+		death = yes
+	}
+}
+
+168539 = {
+	name = "SwiE_topeL_k"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 754
+	mother = 168525
+	2982.1.1 = {
+		birth = yes
+	}
+	
+	2994.5.25 = {
+		death = yes
+	}
+}
+
+168540 = {
+	name = "Lambert"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 754
+	mother = 168525
+	2983.1.1 = {
+		birth = yes
+	}
+	
+	2994.5.25 = {
+		death = yes
+	}
+}
+
+	#Boleslaw I 's family
+
+766 = {
+	name = "Bezprym"	#son of Boleslaw I
+	#4th ruler of Poland, briefly
+	dynasty = 699
+	trait = stubborn
+	trait = sadistic
+	trait = arbitrary
+	religion = "catholic"
+	culture = "polish"
+	father = 756
+	mother = 463
+	2988.1.2 = {
+		birth = "2988.1.2"
+	}
+	3034.1.2 = {
+		death = "3034.1.2"
+	}
+}
+
+302000 = {
+	name = "Regelinda"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 756
+	mother = 757
+	2991.1.2 = {
+		birth = "2991.1.2"
+	}
+	3022.3.21 = {
+		death = "3022.3.21"
+	}
+}
+
+758 = {
+	name = "Mieszko"	#Mieszko II Lambert
+	#3rd then 5th ruler of Poland
+	dynasty = 699
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "polish"
+	trait = scholar
+	father = 756
+	mother = 757
+	2992.1.2 = {
+		birth = "2992.1.2"
+		#give_nickname = "nick_the_lazy"
+	}
+	3015.1.2 = {
+		add_spouse = 427
+	}
+	3036.5.11 = {
+		death = "3036.5.11"
+	}
+}
+
+302001 = {
+	name = "Otto"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 756
+	mother = 757
+	3002.1.2 = {
+		birth = "3002.1.2"
+	}
+	3035.1.2 = {
+		death = "3035.1.2"
+	}
+}
+
+302002 = {
+	name = "Matilda"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 756
+	3021.1.2 = {
+		birth = "3021.1.2"
+	}
+	3042.1.2 = {
+		death = "3042.1.2"
+	}
+}
+	
+	#Mieszko II 's family
+
+763 = {
+	name = "Ryksa"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 758
+	mother = 427
+	3018.1.2 = {
+		birth = "3018.1.2"
+	}
+	3054.1.2 = {
+		death = "3054.1.2"
+	}
+}
+
+302003 = {
+	name = "BolesL_aw"	#The Forgotten
+	#6th ruler of Poland
+	#Odd char, semi-legendary that would have been sentenced to "Damnatio_Memoriae"
+	#Removed from k_poland title history due to mucking things up for all the other Bolesławs. Good job, mate.
+	dynasty = 699
+	trait = sadistic
+	religion = "catholic"
+	culture = "polish"
+	father = 758
+	mother = 427
+	3016.8.24 = {
+		birth = "3016.8.24"
+	}
+	3041.1.10 = {
+		death = "3041.1.10"
+	}
+}
+	
+760 = {
+	name = "Kazimierz"	#Kazimierz I the Restorer
+	#7th ruler of Poland
+	dynasty = 699
+	martial = 6
+	stewardship = 7
+	trait = education_stewardship_3
+	religion = "catholic"
+	culture = "polish"
+	father = 758
+	mother = 427
+	3018.7.25 = {
+		birth = "3018.7.25"
+		give_nickname = "nick_the_restorer"
+	}
+	3042.1.2 = {
+		add_spouse = 13501
+	}
+	3060.11.28 = {
+		death = "3060.11.28"
+	}
+}
+
+761 = {
+	name = "Gertruda"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 758
+	mother = 427
+	3027.1.2 = {
+		birth = "3027.1.2"
+	}
+	3110.1.4 = {
+		death = "3110.1.4"
+	}
+}
+	
+	#Kazimierz I 's family
+
+762 = {
+	name = "BolesL_aw"	#Boleslaw II the Generous (or The Bold)
+	#8th ruler of Poland
+	dna = 762_king_boleslaw
+	dynasty = 699
+	martial = 8
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 10
+	learning = 7
+	religion = "catholic"
+	culture = "polish"
+	trait = strong
+	trait = diligent
+	trait = wrathful
+	trait = generous
+	trait = brave
+	trait = education_martial_3
+	father = 760
+	mother = 13501
+	3044.1.1 = {
+		birth = "3044.1.1"
+		give_nickname = "nick_the_bold"
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+	}
+	3068.1.1 = {
+		add_spouse = 161257
+	}
+	3081.1.1 = {
+		trait = excommunicated
+	}
+	3081.5.1 = {
+		employer = 474
+	}
+	3083.3.22 = {
+		death = "3083.3.22"
+	}
+}
+
+764 = {
+	name = "WL_adysL_aw"	#Wladyslaw I Herman
+	#9th ruler of Poland
+	dynasty = 699
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "polish"
+	trait = infirm
+	trait = shy
+	trait = craven
+	trait = generous
+	trait = content
+	trait = education_intrigue_1
+	father = 760
+	mother = 13501
+	3045.1.2 = {
+		birth = "3045.1.2"
+	}
+	3082.1.1 = {
+		add_spouse = 212881
+	}
+	3091.1.1 = {
+		add_spouse = 1476
+	}
+	3104.6.4 = {
+		death = "3104.6.4"
+	}
+}
+
+302004 = {
+	name = "Mieszko"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 760
+	mother = 13501
+	3047.4.16 = {
+		birth = "3047.4.16"
+	}
+	3067.1.28 = {
+		death = "3067.1.28"
+	}
+}
+
+302005 = {
+	name = "Otto"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 760
+	mother = 13501
+	3048.10.1 = {
+		birth = "3048.10.1"
+	}
+	3050.1.1 = {
+		death = "3050.1.1"
+	}
+}
+
+765 = {
+	name = "S_wiE_tosL_awa"
+	dna = 765_princess_swietoslawa
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 760
+	mother = 13501
+	3050.1.2 = {
+		birth = "3050.1.2"
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+	}
+	3128.9.1 = {
+		death = "3128.9.1"
+	}
+}
+	
+	#Wladyslaw I 's family
+	
+170108 = {
+	name = "Zbigniew"	#Wladyslaw I Herman's first bastard son
+	#10th ruler of Poland
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = bastard
+	father = 764
+	3075.1.2 = {
+		birth = "3075.1.2"
+	}
+	3104.6.4 = {
+		add_pressed_claim = title:k_poland
+		employer = 8504
+	}
+	3109.5.1 = {
+		employer = 96011
+	}
+	3111.9.21 = {
+		employer = 212861
+	}
+	3114.1.2 = {
+		death = "3114.1.2"
+	}
+}
+
+221515 = {
+	name = "BolesL_aw"	#Boleslaw III Wrymouth
+	#11th ruler of Poland
+	dynasty = 699
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "polish"
+	trait = ambitious
+	father = 764
+	mother = 212881
+	3088.8.20 = {
+		birth = "3088.8.20"
+	}
+	3105.11.16 = {
+		add_spouse = 222781
+	}
+	3117.6.1 = {
+		add_spouse = 221519
+	}
+	3140.10.28 = {
+		death = "3140.10.28"
+	}
+}
+
+125902 = {
+	name = "Zofia"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 764
+	mother = 1476
+	3091.1.1 = {
+		birth = "3091.1.1"
+	}
+	3114.10.12 = {
+		death = "3114.10.12"
+	}
+}
+
+302006 = {
+	name = "Agnieszka"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 764
+	mother = 1476
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3127.12.29 = {
+		death = "3127.12.29"
+	}
+}
+
+125900 = {
+	name = "Adelajda"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 764
+	mother = 1476
+	3093.1.1 = {
+		birth = "3093.1.1"
+	}
+	3129.3.26 = {
+		death = "3129.3.26"
+	}
+}
+	
+	#Boleslaw III 's family
+
+221531 = {
+	name = "WL_adysL_aw"	#Wladyslaw II the Exile
+	#12th ruler of Poland
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 222781
+	3107.1.2 = {
+		birth = "3107.1.2"
+	}
+	3129.1.1 = {
+		add_spouse = 212545
+	}
+	3148.5.1 = {
+		add_pressed_claim = title:k_poland
+		employer = 7903
+	}
+	3154.2.15 = {
+		employer = 212501
+	}
+	3161.5.30 = {
+		death = "3161.5.30"
+	}
+}
+	
+302007 = {
+	name = "Judyta"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 222781
+	3114.1.2 = {
+		birth = "3114.1.2"
+	}
+	3162.1.2 = {
+		death = "3162.1.2"
+	}
+}
+
+302008 = {
+	name = "Leszek"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 221519
+	3117.1.2 = {
+		birth = "3117.1.2"
+	}
+	3132.8.26 = {
+		death = "3132.8.26"
+	}
+}
+	
+221511 = {
+	name = "Ryksa"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 221519
+	3118.1.2 = {
+		birth = "3118.1.2"
+	}
+	3157.1.26 = {
+		death = "3157.1.26"
+	}
+}
+
+170103 = {
+	name = "Matylda"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 222781
+	3110.1.1 = {
+		birth = "3110.1.1"
+	}
+	3150.1.1 = {
+		death = "3150.1.1"
+	}
+}
+
+302009 = {
+	name = "Kazimierz"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 221519
+	3124.8.9 = {
+		birth = "3124.8.9"
+	}
+	3133.10.19 = {
+		death = "3133.10.19"
+	}
+}
+
+302010 = {
+	name = "Gertruda"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 221519
+	3125.9.10 = {
+		birth = "3125.9.10"
+	}
+	3162.5.7 = {
+		death = "3162.5.7"
+	}
+}
+
+125973 = {
+	name = "BolesL_aw"	#Boleslaw IV the Curly
+	#13th ruler of Poland
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 221519
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3143.1.1 = {
+		add_spouse = 222823
+	}
+	3175.4.3 = {
+		death = "3175.4.3"
+	}
+}
+
+221560 = {
+	name = "Mieszko"	#Mieszko III the Old
+	#14th ruler of Poland
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 221519
+	3128.1.2 = {
+		birth = "3128.1.2"
+	}
+	3146.1.2 = {
+		add_spouse = 219505
+	}
+	3157.1.1 = {
+		add_spouse = 222826
+	}
+	3184.1.1 = {
+		give_nickname = "nick_the_old"
+	}
+	3204.3.13 = {
+		death = "3204.3.13"
+	}
+}
+
+221512 = {
+	name = "Dobroniega"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 221519
+	3131.1.2 = {
+		birth = "3131.1.2"
+	}
+	3162.1.27 = {
+		death = "3162.1.27"
+	}
+}
+
+221513 = {
+	name = "Judyta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 221519
+	3132.1.2 = {
+		birth = "3132.1.2"
+	}
+	3177.7.8 = {
+		death = "3177.7.8"
+	}
+}
+
+221510 = {
+	name = "Henryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 221519
+	3133.1.2 = {
+		birth = "3133.1.2"
+	}
+	3168.10.18 = {
+		death = "3168.10.18"
+	}
+}
+
+221514 = {
+	name = "Agnieszka"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 221519
+	3139.1.2 = {
+		birth = "3139.1.2"
+	}
+	3184.1.2 = {
+		death = "3184.1.2"
+	}
+}
+
+221520 = {
+	name = "Kazimierz"	#Kazimierz II the Just
+	#15th ruler of Poland
+	dynasty = 699
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	trait = generous
+	trait = education_stewardship_2
+	religion = "catholic"
+	culture = "polish"
+	father = 221515
+	mother = 221519
+	3140.1.2 = {
+		birth = "3140.1.2"
+	}
+	3168.1.2 = {
+		add_spouse = 221521
+	}
+	3179.1.1 = {
+		trait = just
+		give_nickname = "nick_the_just"
+	}
+	3196.5.5 = {
+		death = "3196.5.5"
+	}
+}
+	
+###NON PIAST BELOW v
+
+20388 = {
+	name = "StanisL_aw"
+	martial = 6
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "polish"
+	trait = wrathful
+	trait = greedy
+	trait = deceitful
+	trait = temperate
+	trait = education_learning_3
+	3032.11.26 = {
+		birth = "3032.11.26"
+	}
+	3081.5.11 = {
+		death = "3081.5.11"
+	}
+}
+
+20390 = {
+	name = "JanisL_aw"
+	dynasty = 21011
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "polish"
+	trait = deceitful
+	trait = temperate
+	trait = education_learning_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20393 = {
+	name = "BogumiL_"	#Archbishop of Gniezno
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "polish"
+	trait = humble
+	trait = zealous
+	trait = education_learning_3
+	3023.1.1 = {
+		birth = "3023.1.1"
+	}
+	3094.1.1 = {
+		death = "3094.1.1"
+	}
+}
+
+20395 = {
+	name = "JarosL_aw"
+	dynasty = 21031
+	martial = 5
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "polish"
+	trait = arbitrary
+	trait = education_intrigue_2
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	3087.1.1 = {
+		death = "3087.1.1"
+	}
+}
+
+20396 = {
+	name = "Wszebor"
+	dynasty = 21035
+	martial = 8
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "polish"
+	trait = education_martial_2
+	3036.1.1 = {
+		birth = "3036.1.1"
+	}
+	3086.1.1 = {
+		death = "3086.1.1"
+	}
+}
+
+220390 = {
+	name = "JanisL_aw"
+	dynasty = 100430
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "polish"
+	trait = deceitful
+	trait = temperate
+	trait = education_learning_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+221523 = {
+	name = "Maria"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221520
+	mother = 221521
+	3168.1.2 = {
+		birth = "3168.1.2"
+	}
+	3196.1.2 = {
+		death = "3196.1.2"
+	}
+}
+
+221524 = {
+	name = "Leszek"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221520
+	mother = 221521
+	3188.1.2 = {
+		birth = "3188.1.2"
+	}
+	3209.1.2 = {
+		add_spouse = 125134
+	}
+	3229.11.23 = {
+		death = "3229.11.23"
+	}
+}
+
+221525 = {
+	name = "Konrad"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221520
+	mother = 221521
+	3189.1.2 = {
+		birth = "3189.1.2"
+	}
+	3211.1.2 = {
+		add_spouse = 125073
+	}
+	3249.8.31 = {
+		death = "3249.8.31"
+	}
+}
+
+221529 = {
+	name = "Richeza"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221531
+	mother = 212545
+	3132.1.2 = {
+		birth = "3132.1.2"
+	}
+	3187.1.13 = {
+		death = "3187.1.13"
+	}
+}
+
+221530 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221531
+	mother = 212545
+	3129.1.2 = {
+		birth = "3129.1.2"
+		#give_nickname = "nick_the_tall"
+	}
+	3144.1.2 = {
+		add_spouse = 125068
+	}
+	3165.1.17 = {
+		add_spouse = 221541
+	}
+	3203.12.7 = {
+		death = "3203.12.7"
+	}
+}
+
+221532 = {
+	name = "JarosL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = education_learning_2
+	father = 221530
+	mother = 125068
+	3145.1.2 = {
+		birth = "3145.1.2"
+	}
+	3203.3.22 = {
+		death = "3203.3.22"
+	}
+}
+
+221533 = {
+	name = "Olga"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221530
+	mother = 125068
+	3157.1.2 = {
+		birth = "3157.1.2"
+	}
+	3177.6.27 = {
+		death = "3177.6.27"
+	}
+}
+
+221534 = {
+	name = "Konrad"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221530
+	mother = 221541
+	3166.1.2 = {
+		birth = "3166.1.2"
+	}
+	3192.7.5 = {
+		death = "3192.7.5"
+	}
+}
+
+221535 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221530
+	mother = 221541
+	3165.10.2 = {
+		birth = "3165.10.2"
+	}
+	3183.7.18 = {
+		death = "3183.7.18"
+	}
+}
+
+221536 = {
+	name = "Jan"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221530
+	mother = 221541
+	3167.1.2 = {
+		birth = "3167.1.2"
+	}
+	3176.3.10 = {
+		death = "3176.3.10"
+	}
+}
+
+221537 = {
+	name = "Henryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221530
+	mother = 221541
+	3170.1.2 = {
+		birth = "3170.1.2"
+	}
+	3190.1.2 = {
+		add_spouse = 212943
+	}
+	3240.3.19 = {
+		death = "3240.3.19"
+	}
+}
+
+221538 = {
+	name = "WL_adysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221530
+	mother = 221541
+	3183.1.2 = {
+		birth = "3183.1.2"
+	}
+	3201.1.2 = {
+		death = "3201.1.2"
+	}
+}
+
+221539 = {
+	name = "Berta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221530
+	mother = 221541
+	3169.1.2 = {
+		birth = "3169.1.2"
+	}
+	3202.5.7 = {
+		death = "3202.5.7"
+	}
+}
+
+221540 = {
+	name = "Adelajda"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221530
+	mother = 221541
+	3168.1.2 = {
+		birth = "3168.1.2"
+	}
+	3217.3.29 = {
+		death = "3217.3.29"
+	}
+}
+
+221550 = {
+	name = "Mieszko"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221531
+	mother = 212545
+	3134.1.2 = {
+		birth = "3134.1.2"
+	}
+	3168.1.2 = {
+		add_spouse = 221551
+	}
+	3213.5.16 = {
+		death = "3213.5.16"
+	}
+}
+
+221555 = {
+	name = "Kazimierz"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221550
+	mother = 221551
+	3181.1.2 = {
+		birth = "3181.1.2"
+	}
+	3232.5.13 = {
+		death = "3232.5.13"
+	}
+}
+
+221561 = {
+	name = "Odon"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221560
+	mother = 219505
+	3151.1.2 = {
+		birth = "3151.1.2"
+	}
+	3186.1.2 = {
+		add_spouse = 222509
+	}
+	3196.4.20 = {
+		death = "3196.4.20"
+	}
+}
+
+221562 = {
+	name = "WierzchosL_awa"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221560
+	mother = 219505
+	3153.1.2 = {
+		birth = "3153.1.2"
+	}
+	3225.1.2 = {
+		death = "3225.1.2"
+	}
+}
+
+221563 = {
+	name = "ElZ_bieta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221560
+	mother = 219505
+	3154.1.2 = {
+		birth = "3154.1.2"
+	}
+	3211.4.2 = {
+		death = "3211.4.2"
+	}
+}
+
+221564 = {
+	name = "Judyta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221560
+	mother = 219505
+	3155.1.2 = {
+		birth = "3155.1.2"
+	}
+	3203.12.12 = {
+		death = "3203.12.12"
+	}
+}
+
+221565 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221560
+	mother = 222826
+	3161.1.2 = {
+		birth = "3161.1.2"
+	}
+	3197.9.13 = {
+		death = "3197.9.13"
+	}
+}
+
+221566 = {
+	name = "Mieszko"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221560
+	mother = 222826
+	3162.1.2 = {
+		birth = "3162.1.2"
+	}
+	3195.8.2 = {
+		death = "3195.8.2"
+	}
+}
+
+221567 = {
+	name = "ZwinisL_awa"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221560
+	mother = 222826
+	3168.1.2 = {
+		birth = "3168.1.2"
+	}
+	3242.1.1 = {
+		death = "3242.1.1"
+	}
+}
+
+221568 = {
+	name = "Anastazja"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221560
+	mother = 222826
+	3166.1.1 = {
+		birth = "3166.1.1"
+	}
+	3242.5.31 = {
+		death = "3242.5.31"
+	}
+}
+
+221569 = {
+	name = "Salomea"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221560
+	mother = 222826
+	3164.1.1 = {
+		birth = "3164.1.1"
+	}
+	3185.5.11 = {
+		death = "3185.5.11"
+	}
+}
+
+221570 = {
+	name = "WL_adysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221560
+	mother = 222826
+	3163.1.2 = {
+		birth = "3163.1.2"
+	}
+	3197.1.2 = {
+		add_spouse = 221732
+	}
+	3233.11.3 = {
+		death = "3233.11.3"
+	}
+}
+
+221750 = {
+	name = "Sambor" #Sambor I
+	dynasty = 175
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "polish"
+	trait = education_stewardship_3
+	father = 221760
+	mother = 221761
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3209.2.7 = {
+		death = "3209.2.7"
+	}
+}
+
+221751 = {
+	name = "SubisL_aw" #Subislaw II
+	dynasty = 175
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "polish"
+	trait = education_learning_2
+	father = 221750
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3225.12.28 = {
+		death = "3225.12.28"
+	}
+}
+
+221755 = {
+	name = "Mszczuj" #Mszczuj I
+	dynasty = 175
+	martial = 8
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "polish"
+	trait = greedy
+	trait = humble
+	trait = inbred
+	trait = education_learning_2
+	father = 221760
+	mother = 221761
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3188.1.2 = {
+		add_spouse = 221567
+	}
+	3221.5.1 = {
+		death = "3221.5.1"
+	}
+}
+
+221760 = {
+	name = "SubisL_aw" #Subislaw I
+	dynasty = 175
+	martial = 8
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "polish"
+	trait = calm
+	trait = deceitful
+	trait = cynical
+	trait = education_intrigue_2
+	3132.1.2 = {
+		birth = "3132.1.2"
+	}
+	3151.1.2 = {
+		add_spouse = 221761
+	}
+	3189.1.29 = {
+		death = "3189.1.29"
+	}
+}
+
+221761 = {
+	name = "Anna"
+	female = yes
+	dynasty = 7160 #Powal
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "polish"
+	trait = just
+	trait = education_diplomacy_2
+	3134.1.1 = {
+		birth = "3134.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+30450 = {
+	name = "S_wiE_topeL_k" #Swietopelk I
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 221750
+	3195.1.1 = {
+		birth = "3195.1.1"
+	}
+	3229.1.1 = {
+		death = "3229.1.1"
+	}
+}
+
+30451 = {
+	name = "S_wiE_topeL_k" #Swietopelk II
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 221755
+	mother = 221567
+	
+	3197.1.1 = {
+		birth = "3197.1.1"
+	}
+	3268.1.10 = {
+		death = "3268.1.10"
+	}
+}
+
+30452 = {
+	name = "WarcisL_aw" #Wartislaw I
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 221755
+	mother = 221567
+	
+	3199.1.1 = {
+		birth = "3199.1.1"
+	}
+	3235.5.4 = {
+		death = "3235.5.4"
+	}
+}
+
+30453 = {
+	name = "Sambor" #Sambor II
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 221755
+	mother = 221567
+	
+	3208.1.1 = {
+		birth = "3208.1.1"
+	}
+	3236.1.1 = {
+		add_spouse = 30470
+	}
+	3280.11.13 = {
+		death = "3280.11.13"
+	}
+}
+
+30454 = {
+	name = "Ratibor"
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 221755
+	mother = 221567
+	
+	3214.1.1 = {
+		birth = "3214.1.1"
+	}
+	3274.6.6 = {
+		death = "3274.6.6"
+	}
+}
+
+30455 = {
+	name = "WitosL_awa"
+	female = yes
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 221755
+	mother = 221567
+	
+	3207.1.1 = {
+		birth = "3207.1.1"
+	}
+	3292.1.1 = {
+		death = "3292.1.1"
+	}
+}
+
+30456 = {
+	name = "MirosL_awa"
+	female = yes
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 221755
+	mother = 221567
+	
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+30457 = {
+	name = "Jadwiga"
+	female = yes
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 221755
+	mother = 221567
+	
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3251.1.1 = {
+		death = "3251.1.1"
+	}
+}
+
+30458 = {
+	name = "Mszczuj" #Mszczuj II
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 30451
+	
+	
+	3230.1.1 = {
+		birth = "3230.1.1"
+	}
+	3250.1.1 = {
+		add_spouse = 30471
+	}
+	
+	3296.12.25 = {
+		death = "3296.12.25"
+	}
+}
+
+30459 = {
+	name = "WarcisL_aw" #Wartislaw II
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 30451
+	
+	
+	3229.1.1 = {
+		birth = "3229.1.1"
+	}
+	3273.1.1 = {
+		death = "3273.1.1"
+	}
+}
+
+30460 = {
+	name = "Jan"
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 30451
+	
+	
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3250.1.1 = {
+		death = "3250.1.1"
+	}
+}
+
+30461 = {
+	name = "Eufemia"
+	female = yes
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 30451
+	
+	
+	3227.1.1 = {
+		birth = "3227.1.1"
+	}
+	3272.1.1 = {
+		death = "3272.1.1"
+	}
+}
+
+30462 = {
+	name = "Eufemia"
+	female = yes
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 30458
+	mother = 30471
+	
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3319.1.1 = {
+		death = "3319.1.1"
+	}
+}
+
+30464 = {
+	name = "SubisL_aw"
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 30453
+	mother = 30470
+	
+	3237.1.1 = {
+		birth = "3237.1.1"
+	}
+	3256.1.1 = {
+		death = "3256.1.1"
+	}
+}
+
+30466 = {
+	name = "SwinisL_awa"
+	female = yes
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 30453
+	mother = 30470
+	
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3282.1.1 = {
+		death = "3282.1.1"
+	}
+}
+
+30467 = {
+	name = "Getrude"
+	# AKA: Gertrude
+	female = yes
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 30453
+	mother = 30470
+	
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3316.1.1 = {
+		death = "3316.1.1"
+	}
+}
+
+30468 = {
+	name = "Eufemia"
+	female = yes
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 30453
+	mother = 30470
+	
+	3256.1.1 = {
+		birth = "3256.1.1"
+	}
+	3307.1.1 = {
+		death = "3307.1.1"
+	}
+}
+
+30469 = {
+	name = "Salome"
+	female = yes
+	dynasty = 175
+	
+	religion = "catholic"
+	culture = "polish"
+	
+	father = 30453
+	mother = 30470
+	
+	3257.1.1 = {
+		birth = "3257.1.1"
+	}
+	3316.1.1 = {
+		death = "3316.1.1"
+	}
+}
+
+451519 = {
+	name = "Margarete"
+	# AKA: Margarethe Sambiria
+	female = yes
+	dynasty = 175
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "polish"
+	trait = generous
+	trait = education_intrigue_1
+	father = 30453
+	mother = 30470
+	
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3284.1.1 = {
+		death = "3284.1.1"
+	}
+}
+
+470042 = {
+	name = "Anna"
+	# AKA: Anna Oswiecim
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "polish"
+	trait = arrogant
+	trait = temperate
+	trait = education_diplomacy_1
+	3303.1.2 = {
+		birth = "3303.1.2"
+	}
+	3353.1.2 = {
+		death = "3353.1.2"
+	}
+}
+
+471500 = {
+	name = "Kazimierz"
+	dynasty = 699
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 9
+	religion = "catholic"
+	culture = "polish"
+	trait = intellect_good_3
+	trait = education_stewardship_4
+	father = 471510
+	mother = 471555
+	3312.4.30 = {
+		birth = "3312.4.30"
+		give_nickname = "nick_the_great"
+	}
+	3327.1.2 = {
+		add_spouse = 471503
+	}
+	3372.11.5 = {
+		death = "3372.11.5"
+	}
+}
+
+471501 = {
+	name = "ElZ_bieta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471510
+	mother = 471555
+	3307.1.2 = {
+		birth = "3307.1.2"
+	}
+	3382.1.2 = {
+		death = "3382.1.2"
+	}
+}
+
+471502 = {
+	name = "Kunegunda"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471510
+	mother = 471555
+	3300.1.2 = {
+		birth = "3300.1.2"
+	}
+	3333.4.9 = {
+		death = "3333.4.9"
+	}
+}
+
+471504 = {
+	name = "ElZ_bieta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471500
+	mother = 471503
+	3328.1.2 = {
+		birth = "3328.1.2"
+	}
+	3363.1.2 = {
+		death = "3363.1.2"
+	}
+}
+
+471505 = {
+	name = "Kunegunda"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471500
+	mother = 471503
+	3336.1.2 = {
+		birth = "3336.1.2"
+	}
+	3359.1.2 = {
+		death = "3359.1.2"
+	}
+}
+
+471510 = {
+	name = "WL_adysL_aw"
+	dynasty = 699
+	martial = 8
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "polish"
+	trait = ambitious
+	trait = education_diplomacy_3
+	father = 471520
+	mother = 471540
+	3263.1.2 = {
+		birth = "3263.1.2"
+	}
+	3295.1.2 = {
+		add_spouse = 471555
+	}
+	3335.3.2 = {
+		death = "3335.3.2"
+	}
+}
+
+471515 = {
+	name = "Trojden"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125990
+	mother = 125313
+	3286.1.2 = {
+		birth = "3286.1.2"
+	}
+	3310.1.2 = {
+		add_spouse = 471516
+	}
+	3343.3.13 = {
+		death = "3343.3.13"
+	}
+}
+
+471518 = {
+	name = "Siemowit"
+	dynasty = 699
+	martial = 8
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "polish"
+	trait = chaste
+	trait = education_martial_3
+	father = 471515
+	mother = 471516
+	3321.1.2 = {
+		birth = "3321.1.2"
+	}
+	3337.1.2 = {
+		add_spouse = 471525
+	}
+	3366.1.2 = {
+		death = "3366.1.2"
+	}
+}
+
+471519 = {
+	name = "Eufemia"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471515
+	mother = 471516
+	3312.1.2 = {
+		birth = "3312.1.2"
+	}
+	3375.1.2 = {
+		death = "3375.1.2"
+	}
+}
+
+471520 = {
+	name = "Kazimierz"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221525
+	mother = 125073
+	3213.1.2 = {
+		birth = "3213.1.2"
+	}
+	3235.1.1 = {
+		add_spouse = 125976
+	}
+	3241.1.1 = {
+		add_spouse = 125907
+	}
+	3259.3.1 = {
+		add_spouse = 471540
+	}
+	3269.12.14 = {
+		death = "3269.12.14"
+	}
+}
+
+471521 = {
+	name = "Kazimierz"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471515
+	mother = 471516
+	3316.1.2 = {
+		birth = "3316.1.2"
+	}
+	3357.1.2 = {
+		death = "3357.1.2"
+	}
+}
+
+471530 = {
+	name = "SiemomysL_"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471520
+	mother = 125907
+	3247.1.2 = {
+		birth = "3247.1.2"
+	}
+	3270.1.2 = {
+		add_spouse = 30469
+	}
+	3289.1.2 = {
+		death = "3289.1.2"
+	}
+}
+
+471533 = {
+	name = "PrzemysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471530
+	mother = 30469
+	3279.1.2 = {
+		birth = "3279.1.2"
+	}
+	3341.1.2 = {
+		death = "3341.1.2"
+	}
+}
+
+471534 = {
+	name = "Leszek"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471530
+	mother = 30469
+	3278.1.2 = {
+		birth = "3278.1.2"
+	}
+	3341.1.2 = {
+		death = "3341.1.2"
+	}
+}
+
+471535 = {
+	name = "Kazimierz"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471530
+	mother = 30469
+	3280.1.2 = {
+		birth = "3280.1.2"
+	}
+	3350.1.2 = {
+		death = "3350.1.2"
+	}
+}
+
+471536 = {
+	name = "WL_adysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471535
+	3329.1.2 = {
+		birth = "3329.1.2"
+	}
+	3390.1.2 = {
+		death = "3390.1.2"
+	}
+}
+
+471537 = {
+	name = "ElZ_bieta"
+	female = yes
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "polish"
+	trait = arrogant
+	trait = education_stewardship_2
+	3321.1.2 = {
+		birth = "3321.1.2"
+	}
+	3371.1.2 = {
+		death = "3371.1.2"
+	}
+}
+
+471538 = {
+	name = "ElZ_bieta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471535
+	3310.1.2 = {
+		birth = "3310.1.2"
+	}
+	3347.1.2 = {
+		death = "3347.1.2"
+	}
+}
+
+471540 = {
+	name = "Eufrozyna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221555
+	3230.1.2 = {
+		birth = "3230.1.2"
+	}
+	3294.11.4 = {
+		death = "3294.11.4"
+	}
+}
+
+471550 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 7689
+	3226.1.1 = {
+		birth = "3226.1.1"
+		give_nickname = "nick_the_pious"
+	}
+	3260.1.1 = {
+		add_spouse = 98038
+	}
+	3281.4.14 = {
+		death = "3281.4.14"
+	}
+}
+
+471555 = {
+	name = "Jadwiga"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471550
+	mother = 98038
+	3272.1.2 = {
+		birth = "3272.1.2"
+	}
+	3341.12.10 = {
+		death = "3341.12.10"
+	}
+}
+
+471560 = {
+	name = "Spycimir"
+	dynasty = 24
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "polish"
+	trait = education_martial_2
+	father = 471570
+	3292.1.2 = {
+		birth = "3292.1.2"
+	}
+	3319.1.2 = {
+		add_spouse = 471605
+	}
+	3342.1.2 = {
+		death = "3342.1.2"
+	}
+}
+
+471561 = {
+	name = "PakosL_aw"
+	dynasty = 24
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "polish"
+	trait = chaste
+	trait = calm
+	trait = education_intrigue_1
+	father = 471560
+	mother = 471605
+	3322.1.2 = {
+		birth = "3322.1.2"
+	}
+	3372.1.2 = {
+		death = "3372.1.2"
+	}
+}
+
+471570 = {
+	name = "Jakub"
+	dynasty = 24
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "polish"
+	trait = lustful
+	trait = education_martial_2
+	3264.1.2 = {
+		birth = "3264.1.2"
+	}
+	3326.1.2 = {
+		death = "3326.1.2"
+	}
+}
+
+471580 = {
+	name = "Msciowoj"
+	dynasty = 21016
+	martial = 8
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "polish"
+	trait = diligent
+	trait = arbitrary
+	trait = education_martial_2
+	father = 471590
+	3292.1.2 = {
+		birth = "3292.1.2"
+	}
+	3342.1.2 = {
+		death = "3342.1.2"
+	}
+}
+
+471590 = {
+	name = "WarcisL_aw"
+	dynasty = 21016
+	martial = 8
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "polish"
+	trait = education_intrigue_1
+	3263.1.2 = {
+		birth = "3263.1.2"
+	}
+	3308.1.2 = {
+		death = "3308.1.2"
+	}
+}
+
+471600 = {
+	name = "Piotr"
+	dynasty = 21002
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "polish"
+	trait = honest
+	trait = arrogant
+	trait = education_martial_3
+	3223.1.2 = {
+		birth = "3223.1.2"
+	}
+	3292.1.2 = {
+		death = "3292.1.2"
+	}
+}
+
+471603 = {
+	name = "Wojciech"
+	dynasty = 21002
+	martial = 8
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "polish"
+	trait = greedy
+	trait = craven
+	trait = education_martial_2
+	father = 471600
+	3280.1.2 = {
+		birth = "3280.1.2"
+	}
+	3319.1.2 = {
+		death = "3319.1.2"
+	}
+}
+
+471604 = {
+	name = "JarosL_aw"
+	dynasty = 21002
+	martial = 7
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "polish"
+	trait = diligent
+	trait = education_martial_3
+	father = 471600
+	3278.1.2 = {
+		birth = "3278.1.2"
+	}
+	3328.1.2 = {
+		death = "3328.1.2"
+	}
+}
+
+471605 = {
+	name = "StanisL_awa"
+	female = yes
+	dynasty = 21002
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "polish"
+	trait = arrogant
+	trait = cynical
+	trait = education_learning_3
+	father = 471600
+	3289.1.2 = {
+		birth = "3289.1.2"
+	}
+	3339.1.2 = {
+		death = "3339.1.2"
+	}
+}
+
+471652 = {
+	name = "Henryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125905
+	mother = 96042
+	3229.1.2 = {
+		birth = "3229.1.2"
+	}
+	3254.6.2 = {
+		add_spouse = 125996
+	}
+	3268.1.1 = {
+		add_spouse = 161704
+	}
+	3268.12.3 = {
+		death = "3268.12.3"
+	}
+}
+
+471670 = {
+	name = "Maciej"
+	dynasty = 18
+	martial = 8
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "polish"
+	trait = lustful
+	trait = arrogant
+	trait = cynical
+	trait = education_martial_2
+	3315.1.2 = {
+		birth = "3315.1.2"
+	}
+	3365.1.2 = {
+		death = "3365.1.2"
+	}
+}
+
+471700 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = education_martial_2
+	father = 471710
+	mother = 471502
+	3316.1.2 = {
+		birth = "3316.1.2"
+	}
+	3370.7.28 = {
+		death = "3370.7.28"
+	}
+}
+
+471710 = {
+	name = "Bernard"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471735
+	mother = 33740
+	3293.1.2 = {
+		birth = "3293.1.2"
+	}
+	3316.1.2 = {
+		add_spouse = 471502
+	}
+	3328.5.6 = {
+		death = "3328.5.6"
+	}
+}
+
+471720 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471722
+	mother = 471723
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3332.1.2 = {
+		add_spouse = 471721
+	}
+	3358.1.2 = {
+		death = "3358.1.2"
+	}
+}
+
+471721 = {
+	name = "ElZ_bieta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471710
+	mother = 471502
+	3317.1.2 = {
+		birth = "3317.1.2"
+	}
+	3350.2.9 = {
+		death = "3350.2.9"
+	}
+}
+
+471722 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471724
+	mother = 125980
+	3260.1.2 = {
+		birth = "3260.1.2"
+	}
+	3282.1.2 = {
+		add_spouse = 471723
+	}
+	3315.5.14 = {
+		death = "3315.5.14"
+	}
+}
+
+471723 = {
+	name = "GrzymisL_awa"
+	female = yes
+	religion = "catholic"
+	culture = "polish"
+	3262.1.2 = {
+		birth = "3262.1.2"
+	}
+	3308.1.2 = {
+		death = "3308.1.2"
+	}
+}
+
+471724 = {
+	name = "WL_adysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221555
+	3227.1.2 = {
+		birth = "3227.1.2"
+	}
+	3253.1.2 = {
+		add_spouse = 125980
+	}
+	3284.8.27 = {
+		death = "3284.8.27"
+	}
+}
+
+471725 = {
+	name = "WL_adysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471720
+	mother = 471721
+	3334.1.2 = {
+		birth = "3334.1.2"
+	}
+	3403.1.2 = {
+		death = "3403.1.2"
+	}
+}
+
+471726 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471720
+	mother = 471721
+	3337.1.2 = {
+		birth = "3337.1.2"
+	}
+	3384.1.2 = {
+		death = "3384.1.2"
+	}
+}
+
+471729 = {
+	name = "Euphemia"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471732
+	mother = 471733
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3349.6.1 = {
+		death = "3349.6.1"
+	}
+}
+
+471730 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = generous
+	father = 471732
+	mother = 471733
+	3293.9.23 = {
+		birth = "3293.9.23"
+	}
+	3314.2.21 = {
+		add_spouse = 96061
+	}
+	3328.1.2 = {
+		add_spouse = 470013
+	}
+	3354.4.21 = {
+		death = "3354.4.21"
+	}
+}
+
+471732 = {
+	name = "Henryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471734
+	mother = 125997
+	3250.1.24 = {
+		birth = "3250.1.24"
+	}
+	3266.1.24 = {
+		trait = gluttonous
+		give_nickname = "nick_the_fat"
+	}
+	3281.1.2 = {
+		add_spouse = 471733
+	}
+	3298.2.22 = {
+		death = "3298.2.22"
+	}
+}
+
+471733 = {
+	name = "ElZ_bieta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471550
+	mother = 98038
+	3265.1.1 = {
+		birth = "3265.1.1"
+	}
+	3306.9.28 = {
+		death = "3306.9.28"
+	}
+}
+
+471734 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125905
+	mother = 96042
+	3225.1.24 = {
+		birth = "3225.1.24"
+	}
+	3244.5.8 = {
+		add_spouse = 125997
+	}
+	3262.1.2 = {
+		add_spouse = 170029
+	}
+	3280.12.25 = {
+		death = "3280.12.25"
+	}
+}
+
+471735 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = just
+	trait = greedy
+	trait = education_intrigue_2
+	father = 471734
+	mother = 125997
+	3254.1.24 = {
+		birth = "3254.1.24"
+	}
+	3288.1.1 = {
+		add_spouse = 33740
+	}
+	3303.11.9 = {
+		death = "3303.11.9"
+	}
+}
+
+471736 = {
+	name = "WL_adysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471732
+	mother = 471733
+	3298.6.6 = {
+		birth = "3298.6.6"
+	}
+	3327.8.13 = {
+		add_spouse = 170033
+	}
+	3331.1.13 = {
+		remove_spouse = 170033
+	}
+	3354.1.13 = {
+		death = "3354.1.13"
+	}
+}
+
+471737 = {
+	name = "WacL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471730
+	mother = 96061
+	3320.1.24 = {
+		birth = "3320.1.24"
+	}
+	3366.6.2 = {
+		death = "3366.6.2"
+	}
+}
+
+471738 = {
+	name = "Ludwik"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = just
+	father = 471730
+	mother = 96061
+	3323.1.24 = {
+		birth = "3323.1.24"
+	}
+	3400.12.23 = {
+		death = "3400.12.23"
+	}
+}
+
+471739 = {
+	name = "Katarzyna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471730
+	mother = 96061
+	3324.1.24 = {
+		birth = "3324.1.24"
+	}
+	3411.1.24 = {
+		death = "3411.1.24"
+	}
+}
+
+471740 = {
+	name = "Kazimierz"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471741
+	3282.1.2 = {
+		birth = "3282.1.2"
+	}
+	3327.1.1 = {
+		add_spouse = 471519
+	}
+	3360.9.29 = {
+		death = "3360.9.29"
+	}
+}
+
+471741 = {
+	name = "Mieszko"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471724
+	mother = 125980
+	3254.1.2 = {
+		birth = "3254.1.2"
+	}
+	3317.6.27 = {
+		death = "3317.6.27"
+	}
+}
+
+471742 = {
+	name = "WL_adysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471740
+	mother = 471519
+	3330.1.2 = {
+		birth = "3330.1.2"
+	}
+	3357.1.2 = {
+		death = "3357.1.2"
+	}
+}
+
+471743 = {
+	name = "PrzemysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471740
+	mother = 471519
+	3336.1.2 = {
+		birth = "3336.1.2"
+	}
+	3412.1.2 = {
+		death = "3412.1.2"
+	}
+}
+
+472900 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471515
+	mother = 471516
+	3310.1.2 = {
+		birth = "3310.1.2"
+	}
+	3327.1.2 = {
+		name = "Yuriy"
+		religion = "orthodox"
+	}
+	3333.1.2 = {
+		add_spouse = 472901
+	}
+	3362.1.2 = {
+		death = "3362.1.2"
+	}
+}
+
+7515 = {
+	name = "Eudoxia"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221525
+	mother = 125073
+	3214.1.1 = {
+		birth = "3214.1.1"
+	}
+	3242.1.1 = {
+		death = "3242.1.1"
+	}
+}
+
+757 = {
+	name = "Emnilde"
+	female = yes
+	martial = 4
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "polish"
+	trait = calm
+	trait = education_intrigue_1
+	2973.1.2 = {
+		birth = "2973.1.2"
+	}
+	3019.1.2 = {
+		death = "3019.1.2"
+	}
+}
+
+759 = {
+	name = "Adleta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 752
+	2936.1.2 = {
+		birth = "2936.1.2"
+	}
+	2999.1.3 = {
+		death = "2999.1.3"
+	}
+}
+
+767 = {
+	name = "Sieciech"
+	dynasty = 101681
+	martial = 8
+	diplomacy = 5
+	intrigue = 10
+	stewardship = 4
+	religion = "catholic"
+	culture = "polish"
+	trait = education_intrigue_2
+	3046.1.2 = {
+		birth = "3046.1.2"
+	}
+	3096.1.2 = {
+		death = "3096.1.2"
+	}
+}
+
+7689 = {
+	name = "WL_adysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221561
+	mother = 222509
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3241.6.5 = {
+		death = "3241.6.5"
+	}
+}
+
+7690 = {
+	name = "PrzemysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 7689
+	3222.6.5 = {
+		birth = "3222.6.5"
+	}
+	3246.1.1 = {
+		add_spouse = 125927
+	}
+	3259.6.4 = {
+		death = "3259.6.4"
+	}
+}
+
+7691 = {
+	name = "Konstancja"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 7690
+	mother = 125927
+	3247.1.1 = {
+		birth = "3247.1.1"
+	}
+	3283.10.8 = {
+		death = "3283.10.8"
+	}
+}
+
+7706 = {
+	name = "Friedrich"
+	dynasty = 706
+	martial = 7
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "polish"
+	trait = education_learning_3
+	3022.1.2 = {
+		birth = "3022.1.2"
+	}
+	3072.1.2 = {
+		death = "3072.1.2"
+	}
+}
+
+125901 = {
+	name = "Mieszko"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 762
+	mother = 161257
+	3071.4.12 = {
+		birth = "3071.4.12"
+	}
+	3090.1.1 = {
+		add_spouse = 40600
+	}
+	3091.1.7 = {
+		death = "3091.1.7"
+	}
+}
+
+125903 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221537
+	mother = 212943
+	3193.1.2 = {
+		birth = "3193.1.2"
+	}
+	3209.9.10 = {
+		death = "3209.9.10"
+	}
+}
+
+125904 = {
+	name = "Konrad"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221537
+	mother = 212943
+	3200.1.2 = {
+		birth = "3200.1.2"
+	}
+	3215.9.4 = {
+		death = "3215.9.4"
+	}
+}
+
+125905 = {
+	name = "Henryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221537
+	mother = 212943
+	3198.1.2 = {
+		birth = "3198.1.2"
+	}
+	3222.1.1 = {
+		add_spouse = 96042
+	}
+	3242.1.1 = {
+		give_nickname = "nick_the_pious"
+	}
+	3243.4.9 = {
+		death = "3243.4.9"
+	}
+}
+
+
+125906 = {
+	name = "Gertruda"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125905
+	mother = 96042
+	3222.1.1 = {
+		birth = "3222.1.1"
+	}
+	3249.4.23 = {
+		death = "3249.4.23"
+	}
+}
+
+125907 = {
+	name = "Konstancja"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125905
+	mother = 96042
+	3223.1.1 = {
+		birth = "3223.1.1"
+	}
+	3259.2.21 = {
+		death = "3259.2.21"
+	}
+}
+
+125908 = {
+	name = "Mieszko"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125905
+	mother = 96042
+	3226.1.1 = {
+		birth = "3226.1.1"
+	}
+	3244.1.1 = {
+		death = "3244.1.1"
+	}
+}
+
+125909 = {
+	name = "Henryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = honest
+	father = 471652
+	mother = 125996
+	3260.1.1 = {
+		birth = "3260.1.1"
+	}
+	3279.1.1 = {
+		add_spouse = 125969
+	}
+	3286.1.1 = {
+		remove_spouse = 125969
+	}
+	3289.1.1 = {
+		add_spouse = 33741
+	}	
+	3292.6.24 = {
+		death = "3292.6.24"
+	}
+}
+
+125910 = {
+	name = "Konrad"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125905
+	mother = 96042
+	3230.1.1 = {
+		birth = "3230.1.1"
+	}
+	3251.1.1 = {
+		add_spouse = 125979
+	}
+	3273.1.1 = {
+		add_spouse = 30815
+	}
+	3276.8.6 = {
+		death = "3276.8.6"
+	}
+}
+
+125911 = {
+	name = "Anna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125910
+	mother = 125979
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3273.6.25 = {
+		death = "3273.6.25"
+	}
+}
+
+125912 = {
+	name = "Henryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125910
+	mother = 125979
+	3253.1.1 = {
+		birth = "3253.1.1"
+	}
+	3293.3.1 = {
+		add_spouse = 125998
+	}
+	3311.12.3 = {
+		death = "3311.12.3"
+	}
+}
+
+125913 = {
+	name = "Henryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125912
+	mother = 125998
+	3294.1.1 = {
+		birth = "3294.1.1"
+	}
+	3316.1.5 = {
+		add_spouse = 33746
+	}
+	3344.1.22 = {
+		death = "3344.1.22"
+	}
+}
+
+125914 = {
+	name = "Jadwiga"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = education_learning_3
+	father = 125913
+	mother = 33746
+	3318.1.1 = {
+		birth = "3318.1.1"
+	}
+	3350.5.28 = {
+		death = "3350.5.28"
+	}
+}
+
+125915 = {
+	name = "Henryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125913
+	mother = 33746
+	3321.1.1 = {
+		birth = "3321.1.1"
+		give_nickname = "nick_the_ironside"
+	}
+	3371.4.8 = {
+		death = "3371.4.8"
+	}
+}
+
+125916 = {
+	name = "Salomea"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125913
+	mother = 33746
+	3322.1.1 = {
+		birth = "3322.1.1"
+	}
+	3361.6.12 = {
+		death = "3361.6.12"
+	}
+}
+
+125917 = {
+	name = "Agnieszka"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125913
+	mother = 33746
+	3323.1.1 = {
+		birth = "3323.1.1"
+	}
+	3364.7.7 = {
+		death = "3364.7.7"
+	}
+}
+
+125918 = {
+	name = "Konrad"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125912
+	mother = 125998
+	3296.1.1 = {
+		birth = "3296.1.1"
+	}
+	3324.1.10 = {
+		add_spouse = 125932
+	}
+	3335.3.2 = {
+		add_spouse = 125957
+	}
+	3368.12.22 = {
+		death = "3368.12.22"
+	}
+}
+
+125919 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125912
+	mother = 125998
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3323.4.23 = {
+		death = "3323.4.23"
+	}
+}
+
+125920 = {
+	name = "Agnieszka"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125912
+	mother = 125998
+	3298.1.1 = {
+		birth = "3298.1.1"
+	}
+	3363.12.25 = {
+		death = "3363.12.25"
+	}
+}
+
+125921 = {
+	name = "Jan"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125912
+	mother = 125998
+	3300.1.1 = {
+		birth = "3300.1.1"
+	}
+	3318.1.14 = {
+		add_spouse = 471658
+	}
+	3367.5.19 = {
+		death = "3367.5.19"
+	}
+}
+
+125922 = {
+	name = "Katarzyna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125912
+	mother = 125998
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3325.12.5 = {
+		death = "3325.12.5"
+	}
+}
+
+125923 = {
+	name = "PrzemysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125912
+	mother = 125998
+	3307.1.1 = {
+		birth = "3307.1.1"
+	}
+	3332.3.1 = {
+		add_spouse = 125937
+	}
+	3333.1.11 = {
+		death = "3333.1.11"
+	}
+}
+
+125924 = {
+	name = "Konrad"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = education_learning_3
+	father = 125910
+	mother = 125979
+	3254.1.1 = {
+		birth = "3254.1.1"
+	}
+	3306.10.11 = {
+		death = "3306.10.11"
+	}
+}
+
+125925 = {
+	name = "Eufemia"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125910
+	mother = 125979
+	3256.1.1 = {
+		birth = "3256.1.1"
+	}
+	3277.1.1 = {
+		death = "3277.1.1"
+	}
+}
+
+125926 = {
+	name = "PrzemysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125910
+	mother = 125979
+	3257.1.1 = {
+		birth = "3257.1.1"
+	}
+	3291.2.26 = {
+		death = "3291.2.26"
+	}
+}
+
+125927 = {
+	name = "ElZ_bieta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125905
+	mother = 96042
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3267.1.16 = {
+		death = "3267.1.16"
+	}
+}
+
+125928 = {
+	name = "WL_adysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = education_learning_3
+	father = 125905
+	mother = 96042
+	3239.1.1 = {
+		birth = "3239.1.1"
+	}
+	3272.4.27 = {
+		death = "3272.4.27"
+	}
+}
+
+125929 = {
+	name = "Agnieszka"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471734
+	mother = 125997
+	3245.1.1 = {
+		birth = "3245.1.1"
+	}
+	3267.3.13 = {
+		death = "3267.3.13"
+	}
+}
+
+125930 = {
+	name = "Hedwig"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471732
+	mother = 471733
+	3281.1.2 = {
+		birth = "3281.1.2"
+	}
+	3349.2.3 = {
+		death = "3349.2.3"
+	}
+}
+
+125931 = {
+	name = "Henryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = generous
+	trait = just
+	father = 471732
+	mother = 471733
+	3296.3.18 = {
+		birth = "3296.3.18"
+	}
+	3312.1.1 = {
+		add_spouse = 125999
+	}
+	3313.1.1 = {
+		give_nickname = "nick_the_good"
+	}
+	3337.11.24 = {
+		death = "3337.11.24"
+	}
+}
+
+125932 = {
+	name = "ElZ_bieta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125931
+	mother = 125999
+	3313.1.1 = {
+		birth = "3313.1.1"
+	}
+	3330.2.20 = {
+		death = "3330.2.20"
+	}
+}
+
+125933 = {
+	name = "Eufemia"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125931
+	mother = 125999
+	3314.1.1 = {
+		birth = "3314.1.1"
+	}
+	3386.3.21 = {
+		death = "3386.3.21"
+	}
+}
+
+125934 = {
+	name = "Jadwiga"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471734
+	mother = 125997
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3282.1.1 = {
+		death = "3282.1.1"
+	}
+}
+
+125935 = {
+	name = "Judyta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471735
+	mother = 33740
+	3289.1.1 = {
+		birth = "3289.1.1"
+	}
+	3322.9.15 = {
+		death = "3322.9.15"
+	}
+}
+
+125936 = {
+	name = "Anna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471735
+	mother = 33740
+	3303.11.21 = {
+		birth = "3303.11.21"
+	}
+	3336.6.24 = {
+		death = "3336.6.24"
+	}
+}
+
+125937 = {
+	name = "Konstancja"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471710
+	mother = 471502
+	3316.1.2 = {
+		birth = "3316.1.2"
+	}
+	3365.11.21 = {
+		death = "3365.11.21"
+	}
+}
+
+125938 = {
+	name = "Henryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471710
+	mother = 471502
+	3318.1.2 = {
+		birth = "3318.1.2"
+	}
+	3347.6.28 = {
+		death = "3347.6.28"
+	}
+}
+
+125939 = {
+	name = "Henryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471735
+	mother = 33740
+	3294.1.1 = {
+		birth = "3294.1.1"
+	}
+	3323.1.1 = {
+		add_spouse = 96063
+	}
+	3348.5.15 = {
+		death = "3348.5.15"
+	}
+}
+
+125940 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471735
+	mother = 33740
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3324.1.1 = {
+		add_spouse = 462144
+	}
+	3343.6.11 = {
+		death = "3343.6.11"
+	}
+}
+
+125941 = {
+	name = "MikoL_aj"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125940
+	mother = 462144
+	3329.1.1 = {
+		birth = "3329.1.1"
+	}
+	3360.4.23 = {
+		death = "3360.4.23"
+	}
+}
+
+125942 = {
+	name = "Bernard"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471734
+	mother = 125997
+	3255.1.1 = {
+		birth = "3255.1.1"
+	}
+	3288.4.25 = {
+		death = "3288.4.25"
+	}
+}
+
+125943 = {
+	name = "Konrad"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221531
+	mother = 212545
+	3148.1.2 = {
+		birth = "3148.1.2"
+	}
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+125944 = {
+	name = "Mieszko"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = gluttonous
+	father = 221555
+	3222.1.2 = {
+		birth = "3222.1.2"
+		give_nickname = "nick_the_fat"
+	}
+	3248.10.22 = {
+		death = "3248.10.22"
+	}
+}
+
+125946 = {
+	name = "WL_adysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471741
+	3277.1.2 = {
+		birth = "3277.1.2"
+	}
+	3310.1.2 = {
+		add_spouse = 125995
+	}
+	3326.5.15 = {
+		death = "3326.5.15"
+	}
+}
+
+125947 = {
+	name = "Jan"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = education_learning_3
+	father = 125946
+	mother = 125995
+	3310.1.2 = {
+		birth = "3310.1.2"
+	}
+	3374.9.29 = {
+		death = "3374.9.29"
+	}
+}
+
+125948 = {
+	name = "Anna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125946
+	mother = 125995
+	3317.1.2 = {
+		birth = "3317.1.2"
+	}
+	3356.9.29 = {
+		death = "3356.9.29"
+	}
+}
+
+125949 = {
+	name = "Anna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471740
+	mother = 471519
+	3327.1.2 = {
+		birth = "3327.1.2"
+	}
+	3369.1.2 = {
+		death = "3369.1.2"
+	}
+}
+
+125950 = {
+	name = "Jolanta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471740
+	mother = 471519
+	3333.1.2 = {
+		birth = "3333.1.2"
+	}
+	3405.1.2 = {
+		death = "3405.1.2"
+	}
+}
+
+125951 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471740
+	mother = 471519
+	3334.1.2 = {
+		birth = "3334.1.2"
+	}
+	3358.1.2 = {
+		death = "3358.1.2"
+	}
+}
+
+125952 = {
+	name = "ElZ_bieta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = beauty_good_1
+	father = 471741
+	3293.1.2 = {
+		birth = "3293.1.2"
+	}
+	3319.9.21 = {
+		death = "3319.9.21"
+	}
+}
+
+125953 = {
+	name = "Kazimierz"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471724
+	mother = 125980
+	3255.1.2 = {
+		birth = "3255.1.2"
+	}
+	3314.3.10 = {
+		death = "3314.3.10"
+	}
+}
+
+125954 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125953
+	3278.1.2 = {
+		birth = "3278.1.2"
+	}
+	3331.1.17 = {
+		death = "3331.1.17"
+	}
+}
+
+125955 = {
+	name = "WL_adysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125953
+	3279.1.2 = {
+		birth = "3279.1.2"
+	}
+	3330.4.5 = {
+		add_spouse = 451987
+	}
+	3354.1.17 = {
+		death = "3354.1.17"
+	}
+}
+
+125956 = {
+	name = "Kazimierz"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125955
+	3314.1.2 = {
+		birth = "3314.1.2"
+	}
+	3349.1.17 = {
+		death = "3349.1.17"
+	}
+}
+
+125957 = {
+	name = "Eufemia"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125955
+	3315.1.2 = {
+		birth = "3315.1.2"
+	}
+	3380.1.17 = {
+		death = "3380.1.17"
+	}
+}
+
+125958 = {
+	name = "Agnieszka"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125955
+	mother = 451987
+	3330.1.2 = {
+		birth = "3330.1.2"
+	}
+	3364.1.17 = {
+		death = "3364.1.17"
+	}
+}
+
+125959 = {
+	name = "Katarzyna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125955
+	mother = 451987
+	3331.1.2 = {
+		birth = "3331.1.2"
+	}
+	3379.1.17 = {
+		death = "3379.1.17"
+	}
+}
+
+125960 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125955
+	mother = 451987
+	3332.1.2 = {
+		birth = "3332.1.2"
+	}
+	3357.1.17 = {
+		death = "3357.1.17"
+	}
+}
+
+125961 = {
+	name = "Beata"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125955
+	mother = 451987
+	3337.1.2 = {
+		birth = "3337.1.2"
+	}
+	3366.1.17 = {
+		death = "3366.1.17"
+	}
+}
+
+125962 = {
+	name = "Maria"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125953
+	3284.1.2 = {
+		birth = "3284.1.2"
+	}
+	3317.12.15 = {
+		death = "3317.12.15"
+	}
+}
+
+125963 = {
+	name = "Siemowit"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125953
+	3294.1.2 = {
+		birth = "3294.1.2"
+	}
+	3344.7.1 = {
+		death = "3344.7.1"
+	}
+}
+
+125964 = {
+	name = "Mieszko"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125953
+	3307.1.2 = {
+		birth = "3307.1.2"
+	}
+	3346.8.9 = {
+		death = "3346.8.9"
+	}
+}
+
+125965 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471722
+	mother = 471723
+	3295.1.2 = {
+		birth = "3295.1.2"
+	}
+	3327.1.2 = {
+		add_spouse = 125933
+	}
+	3367.1.1 = {
+		death = "3367.1.1"
+	}
+}
+
+125966 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125965
+	mother = 125933
+	3328.1.2 = {
+		birth = "3328.1.2"
+	}
+	3370.1.1 = {
+		death = "3370.1.1"
+	}
+}
+
+125967 = {
+	name = "WacL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125965
+	mother = 125933
+	3338.1.2 = {
+		birth = "3338.1.2"
+	}
+	3371.1.1 = {
+		death = "3371.1.1"
+	}
+}
+
+125968 = {
+	name = "Albert"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471722
+	mother = 471723
+	3307.1.2 = {
+		birth = "3307.1.2"
+	}
+	3377.1.1 = {
+		death = "3377.1.1"
+	}
+}
+
+125969 = {
+	name = "Konstancja"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471724
+	mother = 125980
+	3262.1.2 = {
+		birth = "3262.1.2"
+	}
+	3289.1.1 = {
+		death = "3289.1.1"
+	}
+}
+
+125970 = {
+	name = "PrzemysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471724
+	mother = 125980
+	3270.6.12 = {
+		birth = "3270.6.12"
+	}
+	3291.1.1 = {
+		add_spouse = 125989
+	}
+	3308.5.7 = {
+		death = "3308.5.7"
+	}
+}
+
+125971 = {
+	name = "Leszek"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125970
+	mother = 125989
+	3294.1.1 = {
+		birth = "3294.1.1"
+	}
+	3334.1.1 = {
+		add_spouse = 125917
+	}
+	3338.1.1 = {
+		death = "3338.1.1"
+	}
+}
+
+125972 = {
+	name = "Anna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125970
+	mother = 125989
+	3295.1.1 = {
+		birth = "3295.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+125974 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125973
+	mother = 222823
+	3158.1.1 = {
+		birth = "3158.1.1"
+	}
+	3174.1.1 = {
+		death = "3174.1.1"
+	}
+}
+
+125975 = {
+	name = "Leszek"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125973
+	3164.1.1 = {
+		birth = "3164.1.1"
+	}
+	3188.1.1 = {
+		death = "3188.1.1"
+	}
+}
+
+125976 = {
+	name = "Jadwiga"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 7689
+	3220.1.1 = {
+		birth = "3220.1.1"
+	}
+	3236.1.8 = {
+		death = "3236.1.8"
+	}
+}
+
+125977 = {
+	name = "PrzemysL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 7690
+	mother = 125927
+	3259.5.14 = {
+		birth = "3259.5.14"
+	}
+	3280.1.1 = {
+		add_spouse = 126000
+	}
+	3287.1.1 = {
+		add_spouse = 126001
+	}
+	3295.4.19 = {
+		add_spouse = 33752
+	}
+	3298.2.8 = {
+		death = "3298.2.8"
+	}
+}
+
+125978 = {
+	name = "Ryksa_ElZ_bieta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125977
+	mother = 126001
+	3288.9.1 = {
+		birth = "3288.9.1"
+	}
+	3337.10.18 = {
+		death = "3337.10.18"
+	}
+}
+
+125979 = {
+	name = "Salomea"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 7689
+	3227.1.1 = {
+		birth = "3227.1.1"
+	}
+	3269.1.1 = {
+		death = "3269.1.1"
+	}
+}
+
+125980 = {
+	name = "Eufemia"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 7689
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3283.2.15 = {
+		death = "3283.2.15"
+	}
+}
+
+125981 = {
+	name = "Salomea"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221524
+	mother = 125134
+	3213.1.1 = {
+		birth = "3213.1.1"
+	}
+	3270.11.10 = {
+		death = "3270.11.10"
+	}
+}
+
+125982 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	trait = chaste
+	father = 221524
+	mother = 125134
+	3228.6.21 = {
+		birth = "3228.6.21"
+		give_nickname = "nick_the_chaste"
+	}
+	3241.1.1 = {
+		add_spouse = 98034
+	}
+	3281.12.7 = {
+		death = "3281.12.7"
+	}
+}
+
+125983 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221525
+	mother = 125073
+	3210.1.1 = {
+		birth = "3210.1.1"
+	}
+	3238.1.1 = {
+		add_spouse = 125906
+	}
+	3249.7.1 = {
+		add_spouse = 170087 #Anastasia Aleksandrovna
+	}
+	3250.4.1 = {
+		death = "3250.4.1"
+	}
+}
+
+125984 = {
+	name = "Leszek"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471520
+	mother = 125907
+	3243.1.1 = {
+		birth = "3243.1.1"
+	}
+	3267.1.1 = {
+		add_spouse = 125054
+	}
+	3290.9.30 = {
+		death = "3290.9.30"
+	}
+}
+
+125985 = {
+	name = "Siemowit"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471520
+	mother = 471540
+	3264.1.1 = {
+		birth = "3264.1.1"
+	}
+	3303.1.1 = {
+		add_spouse = 125119
+	}
+	3316.1.1 = {
+		death = "3316.1.1"
+	}
+}
+
+125986 = {
+	name = "Eufemia"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471520
+	mother = 471540
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3310.3.18 = {
+		death = "3310.3.18"
+	}
+}
+
+125987 = {
+	name = "Siemowit"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221525
+	mother = 125073
+	3217.1.1 = {
+		birth = "3217.1.1"
+	}
+	3250.1.1 = {
+		add_spouse = 125124
+	}
+	3264.6.23 = {
+		death = "3264.6.23"
+	}
+}
+
+125988 = {
+	name = "Konrad"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125987
+	mother = 125124
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3270.1.1 = {
+		add_spouse = 125934
+	}
+	3296.10.11 = {
+		death = "3296.10.11"
+	}
+}
+
+125989 = {
+	name = "Anna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125988
+	mother = 125934
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3326.7.13 = {
+		death = "3326.7.13"
+	}
+}
+
+125990 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125987
+	mother = 125124
+	3253.1.1 = {
+		birth = "3253.1.1"
+	}
+	3281.1.1 = {
+		add_spouse = 125313
+	}
+	3293.1.1 = {
+		add_spouse = 96050
+	}
+	3315.4.20 = {
+		death = "3315.4.20"
+	}
+}
+
+125991 = {
+	name = "Siemowit"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125990
+	mother = 125313
+	3285.1.1 = {
+		birth = "3285.1.1"
+	}
+	3347.2.18 = {
+		death = "3347.2.18"
+	}
+}
+
+125992 = {
+	name = "WacL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125990
+	mother = 96050
+	3295.1.1 = {
+		birth = "3295.1.1"
+	}
+	3322.1.1 = {
+		add_spouse = 125319
+	}
+	3338.1.1 = {
+		death = "3338.1.1"
+	}
+}
+
+125993 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125992
+	mother = 125319
+	3324.1.1 = {
+		birth = "3324.1.1"
+	}
+	3353.1.1 = {
+		death = "3353.1.1"
+	}
+}
+
+125994 = {
+	name = "Anna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125992
+	mother = 125319
+	3326.1.1 = {
+		birth = "3326.1.1"
+	}
+	3365.1.1 = {
+		death = "3365.1.1"
+	}
+}
+
+125995 = {
+	name = "Eufrozyna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125990
+	mother = 96050
+	3294.1.1 = {
+		birth = "3294.1.1"
+	}
+	3330.12.26 = {
+		death = "3330.12.26"
+	}
+}
+
+125996 = {
+	name = "Judyta"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221525
+	mother = 125073
+	3224.1.1 = {
+		birth = "3224.1.1"
+	}
+	3267.1.1 = {
+		death = "3267.1.1"
+	}
+}
+
+96071 = {
+	name = "Hipolit"
+	religion = "catholic"
+	culture = "polish"
+	trait = education_learning_3
+	2967.1.1 = {
+		birth = "2967.1.1"
+	}
+	3029.1.1 = {
+		death = "3029.1.1"
+	}
+}
+
+96072 = {
+	name = "Stefan"
+	religion = "catholic"
+	culture = "polish"
+	2973.1.1 = {
+		birth = "2973.1.1"
+	}
+	3030.3.7 = {
+		death = "3030.3.7"
+	}
+}
+
+96075 = {
+	name = "Marcin"		#Archbishop of Gniezno
+	religion = "catholic"
+	culture = "polish"
+	3045.1.1 = {
+		birth = "3045.1.1"
+	}
+	3114.1.1 = {
+		death = "3114.1.1"
+	}
+}
+
+96076 = {
+	name = "Jakub"
+	religion = "catholic"
+	culture = "polish"
+	3076.1.1 = {
+		birth = "3076.1.1"
+	}
+	3150.9.23 = {
+		death = "3150.9.23"
+	}
+}
+
+96077 = {
+	name = "JanisL_aw"
+	dynasty = 21012
+	religion = "catholic"
+	culture = "polish"
+	3101.1.1 = {
+		birth = "3101.1.1"
+	}
+	3170.3.11 = {
+		death = "3170.3.11"
+	}
+}
+
+96079 = {
+	name = "BogumiL_"
+	religion = "catholic"
+	culture = "polish"
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3193.1.1 = {
+		death = "3193.1.1"
+	}
+}
+
+96080 = {
+	name = "Piotr"
+	religion = "catholic"
+	culture = "polish"
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3200.8.20 = {
+		death = "3200.8.20"
+	}
+}
+
+96081 = {
+	name = "Henryk"
+	religion = "catholic"
+	culture = "polish"
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3221.3.22 = {
+		death = "3221.3.22"
+	}
+}
+
+96082 = {
+	name = "Wincenty"
+	religion = "catholic"
+	culture = "polish"
+	3178.1.1 = {
+		birth = "3178.1.1"
+	}
+	3234.1.1 = {
+		death = "3234.1.1"
+	}
+}
+
+96083 = {
+	name = "PeL_ka"
+	dynasty = 21016
+	religion = "catholic"
+	culture = "polish"
+	3183.1.1 = {
+		birth = "3183.1.1"
+	}
+	3260.4.5 = {
+		death = "3260.4.5"
+	}
+}
+
+96084 = {
+	name = "Janusz"
+	religion = "catholic"
+	culture = "polish"
+	3205.1.1 = {
+		birth = "3205.1.1"
+	}
+	3273.8.26 = {
+		death = "3273.8.26"
+	}
+}
+
+96085 = {
+	name = "Marcin"
+	religion = "catholic"
+	culture = "polish"
+	trait = education_learning_3
+	3227.1.1 = {
+		birth = "3227.1.1"
+	}
+	3280.6.25 = {
+		death = "3280.6.25"
+	}
+}
+
+96086 = {
+	name = "Jakub"
+	religion = "catholic"
+	culture = "polish"
+	trait = education_learning_4
+	3249.1.1 = {
+		birth = "3249.1.1"
+	}
+	3316.3.4 = {
+		death = "3316.3.4"
+	}
+}
+
+96087 = {
+	name = "BorzysL_aw"
+	religion = "catholic"
+	culture = "polish"
+	3258.1.1 = {
+		birth = "3258.1.1"
+	}
+	3319.1.1 = {
+		death = "3319.1.1"
+	}
+}
+
+96088 = {
+	name = "JanisL_aw"
+	religion = "catholic"
+	culture = "polish"
+	3281.1.1 = {
+		birth = "3281.1.1"
+	}
+	3343.12.4 = {
+		death = "3343.12.4"
+	}
+}
+
+96089 = {
+	name = "Krystyn"
+	dynasty = 21010
+	religion = "catholic"
+	culture = "polish"
+	trait = education_martial_2
+	3051.1.1 = {
+		birth = "3051.1.1"
+	}
+	3114.1.1 = {
+		death = "3114.1.1"
+	}
+}
+
+96090 = {
+	name = "Krystyn"
+	dynasty = 21010
+	religion = "catholic"
+	culture = "polish"
+	father = 96089
+	3085.1.1 = {
+		birth = "3085.1.1"
+	}
+	3140.1.1 = {
+		death = "3140.1.1"
+	}
+}
+
+96091 = {
+	name = "Maciej"
+	dynasty = 11114
+	religion = "catholic"
+	culture = "polish"
+	3045.1.1 = {
+		birth = "3045.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+96092 = {
+	name = "Andrzej"
+	dynasty = 11114
+	religion = "catholic"
+	culture = "polish"
+	father = 96091
+	3077.1.1 = {
+		birth = "3077.1.1"
+	}
+	3140.1.1 = {
+		death = "3140.1.1"
+	}
+}
+
+96093 = {
+	name = "WL_ost"
+	dynasty = 10111
+	religion = "catholic"
+	culture = "polish"
+	3047.1.1 = {
+		birth = "3047.1.1"
+	}
+	3118.1.1 = {
+		death = "3118.1.1"
+	}
+}
+
+96094 = {
+	name = "Piotr"
+	dynasty = 10111
+	religion = "catholic"
+	culture = "polish"
+	trait = generous
+	father = 96093
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3118.1.1 = {
+		add_spouse = 96095
+	}	
+	3155.4.16 = {
+		death = "3155.4.16"
+	}
+}
+
+96096 = {
+	name = "Wszebor"
+	dynasty = 10111
+	religion = "catholic"
+	culture = "polish"
+	father = 96094
+	mother = 96095
+	3119.1.1 = {
+		birth = "3119.1.1"
+	}
+	3165.1.1 = {
+		death = "3165.1.1"
+	}
+}
+
+96097 = {
+	name = "SwiE_tosL_aw"
+	dynasty = 10111
+	religion = "catholic"
+	culture = "polish"
+	father = 96094
+	mother = 96095
+	3121.1.1 = {
+		birth = "3121.1.1"
+	}
+	3180.1.1 = {
+		death = "3180.1.1"
+	}
+}
+
+96098 = {
+	name = "Lambert"
+	religion = "catholic"
+	culture = "polish"
+	3007.1.1 = {
+		birth = "3007.1.1"
+	}
+	3073.8.22 = {
+		death = "3073.8.22"
+	}
+}
+
+96099 = {
+	name = "Lambert"
+	religion = "catholic"
+	culture = "polish"
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	3103.1.1 = {
+		death = "3103.1.1"
+	}
+}
+
+96100 = {
+	name = "CzesL_aw"
+	religion = "catholic"
+	culture = "polish"
+	3049.1.1 = {
+		birth = "3049.1.1"
+	}
+	3105.1.1 = {
+		death = "3105.1.1"
+	}
+}
+
+96105 = {
+	name = "Mateusz"
+	religion = "catholic"
+	culture = "polish"
+	3101.1.1 = {
+		birth = "3101.1.1"
+	}
+	3168.10.18 = {
+		death = "3168.10.18"
+	}
+}
+
+96106 = {
+	name = "Gedko"
+	religion = "catholic"
+	culture = "polish"
+	3129.1.1 = {
+		birth = "3129.1.1"
+	}
+	3187.1.1 = {
+		death = "3187.1.1"
+	}
+}
+
+96107 = {
+	name = "PeL_ka"
+	religion = "catholic"
+	culture = "polish"
+	3129.1.1 = {
+		birth = "3129.1.1"
+	}
+	3209.9.11 = {
+		death = "3209.9.11"
+	}
+}
+
+96108 = {
+	name = "Wincenty"
+	religion = "catholic"
+	culture = "polish"
+	trait = education_learning_4
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3225.3.8 = {
+		death = "3225.3.8"
+	}
+}
+
+96109 = {
+	name = "Iwo"
+	dynasty = 21021
+	religion = "catholic"
+	culture = "polish"
+	trait = humble
+	3165.1.1 = {
+		birth = "3165.1.1"
+	}
+	3231.7.21 = {
+		death = "3231.7.21"
+	}
+}
+
+96110 = {
+	name = "WiesL_aw"
+	religion = "catholic"
+	culture = "polish"
+	3176.1.1 = {
+		birth = "3176.1.1"
+	}
+	3244.3.15 = {
+		death = "3244.3.15"
+	}
+}
+
+96111 = {
+	name = "Prendota"
+	dynasty = 21021
+	religion = "catholic"
+	culture = "polish"
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3268.9.20 = {
+		death = "3268.9.20"
+	}
+}
+
+96112 = {
+	name = "PaweL_"
+	dynasty = 21023
+	religion = "catholic"
+	culture = "polish"
+	3228.1.1 = {
+		birth = "3228.1.1"
+	}
+	3294.1.1 = {
+		death = "3294.1.1"
+	}
+}
+
+96114 = {
+	name = "Jan"
+	religion = "catholic"
+	culture = "polish"
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3322.2.7 = {
+		death = "3322.2.7"
+	}
+}
+
+96115 = {
+	name = "Jan"
+	religion = "catholic"
+	culture = "polish"
+	3281.1.1 = {
+		birth = "3281.1.1"
+	}
+	3343.5.8 = {
+		death = "3343.5.8"
+	}
+}
+
+96116 = {
+	name = "Jan"
+	religion = "catholic"
+	culture = "polish"
+	3285.1.1 = {
+		birth = "3285.1.1"
+	}
+	3349.8.5 = {
+		death = "3349.8.5"
+	}
+}
+
+96117 = {
+	name = "PrzemysL_aw"
+	dynasty = 21025
+	religion = "catholic"
+	culture = "polish"
+	3048.1.1 = {
+		birth = "3048.1.1"
+	}
+	3109.1.1 = {
+		death = "3109.1.1"
+	}
+}
+
+96118 = {
+	name = "Jerzy"
+	dynasty = 21025
+	religion = "catholic"
+	culture = "polish"
+	father = 96117
+	3076.1.1 = {
+		birth = "3076.1.1"
+	}
+	3140.10.28 = {
+		death = "3140.10.28"
+	}
+}
+
+93534 = {
+	name = "Hedwig"
+	female = yes
+	dynasty = 175
+	religion = "catholic"
+	culture = "polish"
+	father = 30451
+	3214.1.1 = {
+		birth = "3214.1.1"
+	}
+	3264.1.1 = {
+		death = "3264.1.1"
+	}
+}
+
+161902 = {
+	name = "Beatrycza" # Beatrycza of Schweidnitz
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125912
+	mother = 125998
+	3294.1.1 = {
+		birth = "3294.1.1"
+	}
+	3324.8.24 = {
+		death = "3324.8.24"
+	}
+}
+
+
+82232 = {
+	name = "Popiel"
+	dynasty = 9120
+	religion = "slavic_pagan"
+	culture = "polish"
+	trait = callous
+	trait = lustful
+	trait = drunkard
+	trait = lifestyle_reveler
+	trait = gluttonous
+	trait = deceitful
+	father = 194080
+	2802.1.1 = {
+		birth = "2802.1.1"
+	}
+	2867.1.1 = {
+		death = "2867.1.1"
+	}
+
+
+}
+
+82237 = {
+	name = "SobiesL_aw"
+	dynasty = 9122
+	religion = "slavic_pagan"
+	culture = "polish"
+	father = 194093
+	2832.1.1 = {
+		birth = "2832.1.1"
+	}
+	2913.1.1 = {
+		death = "2913.1.1"
+	}
+}
+
+82238 = {
+	name = "Racibor"
+	dynasty = 9122
+	religion = "slavic_pagan"
+	culture = "polish"
+	father = 82237
+	2884.1.1 = {
+		birth = "2884.1.1"
+	}
+	2962.1.1 = {
+		death = "2962.1.1"
+	}
+
+
+}
+
+82239 = {
+	name = "Niklot"
+	dynasty = 9122
+	religion = "catholic"
+	culture = "polish"
+	father = 82238
+	2934.1.1 = {
+		birth = "2934.1.1"
+	}
+	2994.1.1 = {
+		death = "2994.1.1"
+	}
+
+
+}
+
+82240 = {
+	name = "Racibor"
+	dynasty = 9122
+	religion = "catholic"
+	culture = "polish"
+	father = 82239
+	2969.1.1 = {
+		birth = "2969.1.1"
+	}
+	3046.1.1 = {
+		death = "3046.1.1"
+	}
+
+
+}
+
+82241 = {
+	name = "S_wiE_tobor"
+	dynasty = 9122
+	religion = "catholic"
+	culture = "polish"
+	father = 82240
+	3025.1.1 = {
+		birth = "3025.1.1"
+	}
+	3081.1.1 = {
+		death = "3081.1.1"
+	}
+
+
+}
+
+
+82242 = {
+	name = "WarcisL_aw"
+	dynasty = 9121
+	religion = "slavic_pagan"
+	culture = "polish"
+	father = 194083
+	2832.1.1 = {
+		birth = "2832.1.1"
+	}
+	2911.1.1 = {
+		death = "2911.1.1"
+	}
+
+
+}
+
+82243 = {
+	name = "Leszek"
+	dynasty = 9121
+	father = 82242
+	religion = "slavic_pagan"
+	culture = "polish"
+	2872.1.1 = {
+		birth = "2873.1.1"
+	}
+	2947.1.1 = {
+		death = "2947.1.1"
+	}
+
+
+}
+82244 = {
+	name = "WsiesL_aw"
+	dynasty = 9121
+	father = 82243
+	religion = "slavic_pagan"
+	culture = "polish"
+	2913.1.1 = {
+		birth = "2913.1.1"
+	}
+	2971.1.1 = {
+		death = "2971.1.1"
+	}
+
+
+}
+
+82245 = {
+	name = "BogusL_aw"
+	dynasty = 9121
+	father = 82244
+	religion = "catholic"
+	culture = "polish"
+	2947.1.1 = {
+		birth = "2947.1.1"
+	}
+	3006.1.1 = {
+		death = "3006.1.1"
+	}
+
+
+}
+
+82246 = {
+	name = "WL_odzimierz"
+	dynasty = 9121
+	father = 82245
+	religion = "catholic"
+	culture = "polish"
+	2985.1.1 = {
+		birth = "2985.1.1"
+	}
+	3057.1.1 = {
+		death = "3057.1.1"
+	}
+
+
+}
+
+82247 = {
+	name = "WarcisL_aw"
+	dynasty = 9121
+	father = 82246
+	religion = "catholic"
+	culture = "polish"
+	3046.1.1 = {
+		birth = "3046.1.1"
+	}
+	3103.1.1 = {
+		death = "3103.1.1"
+	}
+
+
+}
+
+
+82248 = {
+	name = "Drogomir"
+	dynasty = 9123
+	religion = "slavic_pagan"
+	culture = "polish"
+	2812.1.1 = {
+		birth = "2812.1.1"
+	}
+	2867.1.1 = {
+		death = "2867.1.1"
+	}
+
+
+}
+
+82249 = {
+	name = "Drogowit"
+	dynasty = 9123
+	father = 82248
+	religion = "slavic_pagan"
+	culture = "polish"
+	2849.1.1 = {
+		birth = "2849.1.1"
+	}
+	2932.1.1 = {
+		death = "2932.1.1"
+	}
+}
+
+82250 = {
+	name = "Goscimir"
+	dynasty = 9123
+	father = 82248
+	religion = "slavic_pagan"
+	culture = "polish"
+	2851.1.1 = {
+		birth = "2851.1.1"
+	}
+	2922.1.1 = {
+		death = "2922.1.1"
+	}
+}
+
+82251 = {
+	name = "Przedabog"
+	dynasty = 9123
+	father = 82249
+	religion = "slavic_pagan"
+	culture = "polish"
+	2912.1.1 = {
+		birth = "2912.1.1"
+	}
+	2989.1.1 = {
+		death = "2989.1.1"
+	}
+}
+
+82252 = {
+	name = "DrogomysL_"
+	dynasty = 9123
+	father = 82249
+	culture = "polish"
+	religion = "catholic"
+	2923.1.1 = {
+		birth = "2923.1.1"
+	}
+	3001.1.1 = {
+		death = "3001.1.1"
+	}
+}
+
+82253 = {
+	name = "BE_dzimir"
+	dynasty = 9123
+	father = 82252
+	culture = "polish"
+	religion = "catholic"
+	2974.1.1 = {
+		birth = "2974.1.1"
+	}
+	3062.1.1 = {
+		death = "3062.1.1"
+	}
+}
+
+
+82254 = {
+	name = "RodsL_aw"
+	dynasty = 9123
+	father = 82253
+	culture = "polish"
+	religion = "catholic"
+	3022.1.1 = {
+		birth = "3022.1.1"
+	}
+	3066.1.2 = {
+		add_spouse = 82221
+	}
+	3081.1.1 = {
+		death = "3081.1.1"
+	}
+}
+
+
+82255 = {
+	name = "Tegomir"
+	dynasty = 9123
+	father = 82250
+	religion = "slavic_pagan"
+	culture = "polish"
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	2989.1.1 = {
+		death = "2922.1.1"
+	}
+}
+
+82256 = {
+	name = "Modlibog"
+	dynasty = 9123
+	father = 82255
+	religion = "catholic"
+	culture = "polish"
+	2953.1.1 = {
+		birth = "2953.1.1"
+	}
+	3035.1.1 = {
+		death = "3035.1.1"
+	}
+}
+
+
+82257 = {
+	# TODO_CD_P: Who is this guy, and why did he become a count only to immediately lose the county again?
+	name = "LutosL_aw"
+	dynasty = 9123
+	father = 82256
+	religion = "catholic"
+	culture = "polish"
+	3016.1.1 = {
+		birth = "3016.1.1"
+	}
+	3036.5.12 = {
+		employer = 760
+	}
+	3081.1.1 = {
+		death = "3081.1.1"
+	}
+}
+
+82258 = {
+	name = "Lech"
+	dynasty = 9124
+	religion = "slavic_pagan"
+	culture = "polish"
+	father = 194090
+	2802.1.1 = {
+		birth = "2802.1.1"
+	}
+	2862.1.1 = {
+		death = "2862.1.1"
+	}
+}
+
+82259 = {
+	name = "LechosL_aw"
+	dynasty = 9124
+	father = 82258
+	religion = "slavic_pagan"
+	culture = "polish"
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}
+	2922.1.1 = {
+		death = "2922.1.1"
+	}
+
+
+}
+
+82260 = {
+	name = "Ostrowod"
+	dynasty = 9124
+	father = 82259
+	religion = "slavic_pagan"
+	culture = "polish"
+	2907.1.1 = {
+		birth = "2907.1.1"
+	}
+	2979.1.2 = {
+		death = "2979.1.2"
+	}
+
+
+}
+
+82261 = {
+	name = "PeL_czybog"
+	dynasty = 9124
+	father = 82259
+	religion = "catholic"
+	culture = "polish"
+	2952.1.1 = {
+		birth = "2952.1.1"
+	}
+	3001.7.1 = {
+		death = "3001.7.1"
+	}
+
+
+}
+
+
+82262 = {
+	name = "Nadbor"
+	dynasty = 9124
+	father = 82258
+	religion = "slavic_pagan"
+	culture = "polish"
+	2849.1.1 = {
+		birth = "2849.1.1"
+	}
+	2924.1.1 = {
+		death = "2924.1.1"
+	}
+
+
+}
+
+82263 = {
+	name = "Wolrad"
+	dynasty = 9124
+	father = 82262
+	religion = "slavic_pagan"
+	culture = "polish"
+	2905.1.1 = {
+		birth = "2905.1.1"
+	}
+	2979.1.2 = {
+		death = "2979.1.2"
+	}
+
+
+}
+
+82264 = {
+	name = "Lederg"
+	dynasty = 9124
+	father = 82263
+	religion = "catholic"
+	culture = "polish"
+	2952.1.1 = {
+		birth = "2952.1.1"
+	}
+	3035.1.1 = {
+		death = "3035.1.1"
+	}
+
+
+}
+
+82265 = {
+	name = "MS_cigniew"
+	dynasty = 9124
+	father = 82264
+	religion = "catholic"
+	culture = "polish"
+	3024.1.1 = {
+		birth = "3024.1.1"
+	}
+	3063.1.1 = {
+		employer = 96098
+		move_to_pool = yes
+	}
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+
+
+}
+
+82291 = {
+	name = "SlezasL_aw"
+	dynasty = 9127
+	religion = "slavic_pagan"
+	culture = "polish"
+	father = 194085
+	2807.1.1 = {
+		birth = "2807.1.1"
+	}
+	2844.1.2 = {
+		add_spouse = 82292
+	}
+	2866.1.1 = {
+		death = "2866.1.1"
+	}
+}
+
+82292 = {
+	name = "Gniewosadka"
+	female = yes
+	religion = "slavic_pagan"
+	culture = "polish"
+	2827.1.1 = {
+		birth = "2827.1.1"
+	}
+	2902.1.1 = {
+		death = "2902.1.1"
+	}
+}
+
+82293 = {
+	name = "Gardomir"
+	dynasty = 9127
+	father = 82291
+	mother = 82292
+	religion = "slavic_pagan"
+	culture = "polish"
+	2846.1.1 = {
+		birth = "2846.1.1"
+	}
+	2864.1.2 = {
+		add_spouse = 82296
+	}
+	2914.1.1 = {
+		death = "2914.1.1"
+	}
+
+
+}
+
+82294 = {
+	name = "Zdamir"
+	dynasty = 9127
+	father = 82291
+	mother = 82292
+	religion = "slavic_pagan"
+	culture = "polish"
+	2849.1.1 = {
+		birth = "2849.1.1"
+	}
+	2916.1.1 = {
+		death = "2916.1.1"
+	}
+
+
+}
+
+82295 = {
+	name = "PrzybyczeS_C_"
+	female = yes
+	dynasty = 9127
+	father = 82291
+	mother = 82292
+	religion = "slavic_pagan"
+	culture = "polish"
+	2853.1.1 = {
+		birth = "2853.1.1"
+	}
+	2926.1.1 = {
+		death = "2926.1.1"
+	}
+
+
+}
+
+82296 = {
+	name = "SL_awomira"
+	female = yes
+	religion = "slavic_pagan"
+	culture = "polish"
+	2848.1.1 = {
+		birth = "2848.1.1"
+	}
+	2922.1.1 = {
+		death = "2922.1.1"
+	}
+}
+
+
+82297 = {
+	name = "Uniedrog"
+	dynasty = 9127
+	father = 82293
+	mother = 82296
+	religion = "slavic_pagan"
+	culture = "polish"
+	2865.1.1 = {
+		birth = "2865.1.1"
+	}
+	2944.1.1 = {
+		death = "2944.1.1"
+	}
+
+
+}
+
+82298 = {
+	name = "CirzpisL_awa"
+	female = yes
+	dynasty = 9127
+	father = 82293
+	mother = 82296
+	religion = "slavic_pagan"
+	culture = "polish"
+	2866.1.1 = {
+		birth = "2866.1.1"
+	}
+	2945.1.1 = {
+		death = "2945.1.1"
+	}
+
+
+}
+
+82299 = {
+	name = "Suligost"
+	dynasty = 9127
+	father = 82293
+	mother = 82296
+	religion = "slavic_pagan"
+	culture = "polish"
+	2867.1.1 = {
+		birth = "2867.1.1"
+	}
+	2923.1.1 = {
+		death = "2923.1.1"
+	}
+
+
+}
+
+
+82300 = {
+	name = "MaL_ogost"
+	dynasty = 9127
+	father = 82299
+	religion = "slavic_pagan"
+	culture = "polish"
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	2967.1.1 = {
+		death = "2967.1.1"
+	}
+
+
+}
+
+82301 = {
+	name = "Mirogod"
+	dynasty = 9127
+	father = 82297
+	religion = "slavic_pagan"
+	culture = "polish"
+	2914.1.1 = {
+		birth = "2914.1.1"
+	}
+	2987.1.1 = {
+		death = "2987.1.1"
+	}
+
+
+}
+
+82302 = {
+	name = "Uniedrog"
+	dynasty = 9127
+	father = 82300
+	religion = "catholic"
+	culture = "polish"
+	2962.1.1 = {
+		birth = "2962.1.1"
+	}
+	3022.1.1 = {
+		death = "3022.1.1"
+	}
+
+
+}
+
+82303 = {
+	name = "Odolan"
+	dynasty = 9127
+	father = 82302
+	religion = "catholic"
+	culture = "polish"
+	3002.1.1 = {
+		birth = "3002.1.1"
+	}
+	3062.1.1 = {
+		death = "3062.1.1"
+	}
+
+
+}
+
+82304 = {
+	name = "WratysL_aw"
+	dynasty = 9128
+	religion = "slavic_pagan"
+	culture = "polish"
+	2817.1.1 = {
+		birth = "2817.1.1"
+	}
+	2861.1.1 = {
+		add_spouse = 82305
+	}
+	2882.1.1 = {
+		death = "2882.1.1"
+	}
+
+
+}
+
+82305 = {
+	name = "GrzymisL_awa"
+	female = yes
+	dynasty = 9127
+	father = 82291
+	mother = 82292
+	religion = "slavic_pagan"
+	culture = "polish"
+	2845.1.1 = {
+		birth = "2845.1.1"
+	}
+	2936.1.1 = {
+		death = "2936.1.1"
+	}
+
+
+}
+
+82306 = {
+	name = "Dobiegniewa"
+	female = yes
+	dynasty = 9128
+	father = 82304
+	mother = 82305
+	religion = "slavic_pagan"
+	culture = "polish"
+	2862.1.1 = {
+		birth = "2862.1.1"
+	}
+	2932.1.1 = {
+		death = "2932.1.1"
+	}
+
+
+}
+
+82307 = {
+	name = "Krzesimir"
+	dynasty = 9128
+	father = 82304
+	mother = 82305
+	religion = "slavic_pagan"
+	culture = "polish"
+	2864.1.1 = {
+		birth = "2864.1.1"
+	}
+	2902.1.1 = {
+		death = "2902.1.1"
+	}
+
+
+}
+
+
+82308 = {
+	name = "MiL_owit"
+	dynasty = 9128
+	father = 82304
+	mother = 82305
+	religion = "slavic_pagan"
+	culture = "polish"
+	2864.1.1 = {
+		birth = "2864.1.1"
+	}
+	2922.1.1 = {
+		death = "2922.1.1"
+	}
+
+
+}
+
+82309 = {
+	name = "Braturad"
+	dynasty = 9128
+	father = 82307
+	religion = "slavic_pagan"
+	culture = "polish"
+	2894.1.1 = {
+		birth = "2894.1.1"
+	}
+	2962.1.1 = {
+		death = "2962.1.1"
+	}
+
+
+}
+
+82310 = {
+	name = "IwosL_aw"
+	dynasty = 9128
+	father = 82309
+	religion = "slavic_pagan"
+	culture = "polish"
+	2931.1.1 = {
+		birth = "2931.1.1"
+	}
+	2992.1.1 = {
+		death = "2992.1.1"
+	}
+
+
+}
+
+82311 = {
+	name = "Strachomir"
+	dynasty = 9128
+	father = 82310
+	religion = "catholic"
+	culture = "polish"
+	2973.1.1 = {
+		birth = "2973.1.1"
+	}
+	3038.1.1 = {
+		death = "3038.1.1"
+	}
+
+
+}
+
+82312 = {
+	name = "Dargorad"
+	dynasty = 9128
+	father = 82311
+	religion = "catholic"
+	culture = "polish"
+	3031.1.1 = {
+		birth = "3031.1.1"
+	}
+	3060.11.28 = {
+		employer = 96093
+	}
+	3082.1.1 = {
+		death = "3082.1.1"
+	}
+
+
+}
+
+
+82313 = {
+	name = "Jutrogost"
+	dynasty = 9129
+	religion = "slavic_pagan"
+	culture = "polish"
+	father = 194087
+	2822.1.1 = {
+		birth = yes
+	}
+	2864.1.1 = {
+		add_spouse = 82314
+	}
+	2904.1.1 = {
+		death = "2904.1.1"
+	}
+}
+
+82314  = {
+	name = "Mojmira"
+	female = yes
+	dynasty = 9127
+	father = 82291
+	mother = 82292
+	religion = "slavic_pagan"
+	culture = "polish"
+	2847.1.1 = {
+		birth = "2845.1.1"
+	}
+	2933.1.1 = {
+		death = "2933.1.1"
+	}
+
+
+}
+
+82315 = {
+	name = "Wilkomir"
+	dynasty = 9129
+	father = 82313
+	mother = 82314
+	religion = "slavic_pagan"
+	culture = "polish"
+	2866.1.1 = {
+		birth = "2866.1.1"
+	}
+	2934.1.1 = {
+		death = "2934.1.1"
+	}
+
+
+}
+
+82316 = {
+	name = "MroczysL_aw"
+	dynasty = 9129
+	father = 82313
+	mother = 82314
+	religion = "slavic_pagan"
+	culture = "polish"
+	2868.1.1 = {
+		birth = "2868.1.1"
+	}
+	2944.1.1 = {
+		death = "2944.1.1"
+	}
+
+
+}
+
+82317 = {
+	name = "Wilkomir"
+	dynasty = 9129
+	father = 82316
+	religion = "slavic_pagan"
+	culture = "polish"
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	2972.1.1 = {
+		death = "2972.1.1"
+	}
+
+
+}
+
+
+82318 = {
+	name = "Izbygniew"
+	dynasty = 9129
+	father = 82317
+	religion = "slavic_pagan"
+	culture = "polish"
+	2932.1.1 = {
+		birth = "2932.1.1"
+	}
+	3002.1.1 = {
+		death = "3002.1.1"
+	}
+
+
+}
+
+
+82319 = {
+	name = "Bytomir"
+	dynasty = 9129
+	father = 82318
+	religion = "catholic"
+	culture = "polish"
+	2962.1.1 = {
+		birth = "2962.1.1"
+	}
+	3022.1.1 = {
+		death = "3022.1.1"
+	}
+
+
+}
+
+
+82320 = {
+	name = "Niemironieg"
+	dynasty = 9129
+	father = 82319
+	religion = "catholic"
+	culture = "polish"
+	3003.1.1 = {
+		birth = "3003.1.1"
+	}
+	3052.1.1 = {
+		death = "3052.1.1"
+	}
+
+
+}
+
+
+82321 = {
+	name = "Tatomir"
+	dynasty = 9129
+	father = 82320
+	religion = "catholic"
+	culture = "polish"
+	3027.1.1 = {
+		birth = "3027.1.1"
+	}
+	3060.11.28 = {
+		employer = 762
+	}
+	3087.1.1 = {
+		death = "3087.1.1"
+	}
+
+
+}
+
+
+82322 = {
+	name = "Bolko"
+	dynasty = 9130
+	religion = "slavic_pagan"
+	culture = "polish"
+	father = 194088
+	2772.1.1 = {
+		birth = "2772.1.1"
+	}
+	2832.1.1 = {
+		death = "2832.1.1"
+	}
+}
+
+82323 = {
+	name = "Leszko"
+	father = 82322
+	dynasty = 9130
+	religion = "slavic_pagan"
+	culture = "polish"
+	2792.1.1 = {
+		birth = "2792.1.1"
+	}
+	2842.1.1 = {
+		death = "2842.1.1"
+	}
+
+
+}
+
+82324 = {
+	name = "Cieszko"
+	father = 82323
+	dynasty = 9130
+	religion = "slavic_pagan"
+	culture = "polish"
+	2812.1.1 = {
+		birth = "2812.1.1"
+	}
+	2862.1.1 = {
+		death = "2862.1.1"
+	}
+
+
+}
+
+82325 = {
+	name = "Cirzpibog"
+	father = 82323
+	dynasty = 9130
+	religion = "slavic_pagan"
+	culture = "polish"
+	2812.1.1 = {
+		birth = "2812.1.1"
+	}
+	2844.1.2 = {
+		add_spouse = 82326
+	}
+	2862.1.1 = {
+		death = "2862.1.1"
+	}
+
+
+}
+
+82326 = {
+	name = "Przybyrada"
+	female = yes
+	religion = "slavic_pagan"
+	culture = "polish"
+	2827.1.1 = {
+		birth = "2827.1.1"
+	}
+	2903.1.1 = {
+		death = "2903.1.1"
+	}
+}
+
+82327 = {
+	name = "Bolko"
+	father = 82325
+	mother = 82326
+	dynasty = 9130
+	religion = "slavic_pagan"
+	culture = "polish"
+	2845.1.1 = {
+		birth = "2845.1.1"
+	}
+	2904.1.1 = {
+		death = "2904.1.1"
+	}
+
+
+}
+
+82328 = {
+	name = "DA_brO_wka"
+	female = yes
+	father = 82325
+	mother = 82326
+	dynasty = 9130
+	religion = "slavic_pagan"
+	culture = "polish"
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}
+	2916.1.1 = {
+		death = "2916.1.1"
+	}
+
+
+}
+
+82329 = {
+	name = "Leszko"
+	father = 82325
+	mother = 82326
+	dynasty = 9130
+	religion = "slavic_pagan"
+	culture = "polish"
+	2849.1.1 = {
+		birth = "2849.1.1"
+	}
+	2903.1.1 = {
+		death = "2903.1.1"
+	}
+
+
+}
+
+82330 = {
+	name = "Cieszko"
+	father = 82325
+	mother = 82326
+	dynasty = 9130
+	religion = "slavic_pagan"
+	culture = "polish"
+	2851.1.1 = {
+		birth = "2851.1.1"
+	}
+	2894.1.1 = {
+		death = "2894.1.1"
+	}
+
+
+}
+
+82331 = {
+	name = "DrogosL_aw"
+	father = 82327
+	dynasty = 9130
+	religion = "slavic_pagan"
+	culture = "polish"
+	2882.1.1 = {
+		birth = "2882.1.1"
+	}
+	2952.1.1 = {
+		death = "2952.1.1"
+	}
+
+
+}
+
+82332 = {
+	name = "Bronisad"
+	father = 82327
+	dynasty = 9130
+	religion = "slavic_pagan"
+	culture = "polish"
+	2910.1.1 = {
+		birth = "2910.1.1"
+	}
+	2952.1.1 = {
+		death = "2952.1.1"
+	}
+
+
+}
+
+82333 = {
+	name = "ZwnisL_aw"
+	father = 82332
+	dynasty = 9130
+	religion = "slavic_pagan"
+	culture = "polish"
+	2942.1.1 = {
+		birth = "2942.1.1"
+	}
+	2997.1.1 = {
+		death = "2997.1.1"
+	}
+
+
+}
+
+82334 = {
+	name = "S_wiE_topeL_k"
+	father = 82333
+	dynasty = 9130
+	religion = "catholic"
+	culture = "polish"
+	2992.1.1 = {
+		birth = "2992.1.1"
+	}
+	3062.1.1 = {
+		death = "3062.1.1"
+	}
+}
+
+168541 = {
+	name = "Dytryk"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 168538
+	2997.1.1 = {
+		birth = yes
+	}
+	
+	3034.7.7 = {
+		death = yes
+	}
+}
+
+170096 = {
+	name = "BolesL_aw"
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221520
+	mother = 221521
+	3170.1.2 = {
+		birth = "3170.1.2"
+	}
+	3184.4.16 = {
+		death = "3184.4.16"
+	}
+}
+
+170030 = {
+	name = "Anna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471732
+	mother = 471733
+	3286.1.1 = {
+		birth = "3286.1.1"
+	}
+	3345.10.2 = {
+		death = "3345.10.2"
+	}
+}
+
+170031 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471732
+	mother = 471733
+	3287.1.1 = {
+		birth = "3287.1.1"
+	}
+	3359.11.1 = {
+		death = "3359.11.1"
+	}
+}
+
+170032 = {
+	name = "Helena"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 471732
+	mother = 471733
+	3288.1.1 = {
+		birth = "3288.1.1"
+	}
+	3301.1.1 = {
+		death = "3301.1.1"
+	}
+}
+
+170033 = {
+	name = "Anna"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125990
+	mother = 125313
+	3287.1.1 = {
+		birth = "3289.1.1"
+	}
+	3337.1.1 = {
+		death = "3337.1.1"
+	}
+}
+
+170034 = {
+	name = "MaL_gorzata"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125931
+	mother = 125999
+	3315.1.1 = {
+		birth = "3315.1.1"
+	}
+	3381.3.8 = {
+		death = "3381.3.8"
+	}
+}
+
+170029 = {
+	name = "Alenta"
+	female = yes
+	dynasty = 175
+	religion = "catholic"
+	culture = "polish"
+	father = 30453
+	mother = 30470
+	3237.1.1 = {
+		birth = "3237.1.1"
+	}
+	3300.1.1 = {
+		death = "3300.1.1"
+	}
+}
+
+170097 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221537
+	mother = 212943
+	3194.1.2 = {
+		birth = "3194.1.2"
+	}
+	3216.4.9 = {
+		death = "3216.4.9"
+	}
+}
+
+170098 = {
+	name = "Gertrud"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 221537
+	mother = 212943
+	3202.1.2 = {
+		birth = "3202.1.2"
+	}
+	3270.12.30 = {
+		death = "3270.12.30"
+	}
+}
+
+170102 = {
+	name = "Ryksa"
+	female = yes
+	dynasty = 699
+	religion = "catholic"
+	culture = "polish"
+	father = 125973
+	mother = 222823
+	3161.1.2 = {
+		birth = "3161.1.2"
+	}
+	3180.1.2 = {
+		death = "3180.1.2"
+	}
+}
+194079 = {
+	name = "DobiesL_aw"
+	dynasty = 9120
+	religion = slavic_pagan
+	culture = polish
+	2735.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194080 = {
+	name = "Popiel"
+	dynasty = 9120
+	religion = slavic_pagan
+	culture = polish
+	father = 194079
+	2772.1.1 = {
+		birth = yes
+	}
+	2824.1.1 = {
+		death = yes
+	}
+}
+194081 = {
+	name = "SE_dziej"
+	dynasty = 9121
+	religion = slavic_pagan
+	culture = polish
+	2735.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194082 = {
+	name = "SE_dzimir"
+	dynasty = 9121
+	religion = slavic_pagan
+	culture = polish
+	father = 194081
+	2772.1.1 = {
+		birth = yes
+	}
+	2824.1.1 = {
+		death = yes
+	}
+}
+194083 = {
+	name = "WiesL_aw"
+	dynasty = 9121
+	religion = slavic_pagan
+	culture = polish
+	father = 194082
+	2812.1.1 = {
+		birth = yes
+	}
+	2868.1.1 = {
+		death = yes
+	}
+}
+194084 = {
+	name = "Witosz"
+	dynasty = 9127
+	religion = slavic_pagan
+	culture = polish
+	2735.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194085 = {
+	name = "Witosz"
+	dynasty = 9127
+	religion = slavic_pagan
+	culture = polish
+	father = 194084
+	2772.1.1 = {
+		birth = yes
+	}
+	2824.1.1 = {
+		death = yes
+	}
+}
+194086 = {
+	name = "Sambor"
+	dynasty = 9129
+	religion = slavic_pagan
+	culture = polish
+	2735.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194087 = {
+	name = "WielisL_aw"
+	dynasty = 9129
+	religion = slavic_pagan
+	culture = polish
+	father = 194086
+	2772.1.1 = {
+		birth = yes
+	}
+	2824.1.1 = {
+		death = yes
+	}
+}
+194088 = {
+	name = "Milzas"
+	dynasty = 9130
+	religion = slavic_pagan
+	culture = polish
+	2735.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194089 = {
+	name = "Siemowit"
+	dynasty = 9124
+	religion = slavic_pagan
+	culture = polish
+	2735.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194090 = {
+	name = "Nadbor"
+	dynasty = 9124
+	religion = slavic_pagan
+	culture = polish
+	father = 194089
+	2772.1.1 = {
+		birth = yes
+	}
+	2824.1.1 = {
+		death = yes
+	}
+}
+194091 = {
+	name = "Witosz"
+	dynasty = 9122
+	religion = slavic_pagan
+	culture = polish
+	2735.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194092 = {
+	name = "Imram"
+	dynasty = 9122
+	religion = slavic_pagan
+	culture = polish
+	father = 194091
+	2772.1.1 = {
+		birth = yes
+	}
+	2824.1.1 = {
+		death = yes
+	}
+}
+194093 = {
+	name = "Czcibor"
+	dynasty = 9122
+	religion = slavic_pagan
+	culture = polish
+	father = 194092
+	2812.1.1 = {
+		birth = yes
+	}
+	2868.1.1 = {
+		death = yes
+	}
+}
+###Archbishops of Gniezno
+302011 = {
+	name = "Radzim_Gaudenty"	#Archbishop of Gniezno
+	religion = catholic
+	culture = polish
+	trait = education_learning_3
+	2972.1.1 = {
+		birth = yes
+	}
+	3024.1.2 = {
+		death = yes
+	}
+}
+302012 = {
+	name = "Bossuta_Stefan"	#Archbishop of Gniezno
+	religion = catholic
+	culture = polish
+	trait = education_learning_2
+	2952.1.2 = {
+		birth = yes
+	}
+	3030.3.7 = {
+		death = yes
+	}
+}
+302013 = {
+	name = "MichaL_"	#Fictional Archbishop of Gniezno
+	religion = catholic
+	culture = polish
+	trait = education_learning_2
+	3008.1.2 = {
+		birth = yes
+	}
+	3077.1.2 = {
+		death = yes
+	}
+}
+302015 = {
+	name = "ZdzisL_aw"	#Archbishop of Gniezno
+	religion = catholic
+	culture = polish
+	trait = education_learning_2
+	3117.1.2 = {
+		birth = yes
+	}
+	3190.1.2 = {
+		death = yes
+	}
+}
+###Ciolek lords of Poznan (semi fictional)
+302016 = {
+	name = "PaweL_"	#Lords of Poznan
+	dynasty = 21005	#Ciolek
+	religion = catholic
+	culture = polish
+	3014.6.9 = {
+		birth = yes
+	}
+	3065.4.9 = {
+		death = yes
+	}
+}
+302017 = {
+	name = "Jan"	#Lords of Poznan
+	dynasty = 21005
+	religion = catholic
+	culture = polish
+	father = 302016
+	3037.12.22 = {
+		birth = yes
+	}
+	3105.11.18 = {
+		death = yes
+	}
+}
+302018 = {
+	name = "Sieciech"	#Lords of Poznan
+	dynasty = 21005
+	religion = catholic
+	culture = polish
+	father = 302016
+	3039.9.6 = {
+		birth = yes
+	}
+	3098.2.23 = {
+		death = yes
+	}
+}
+302019 = {
+	name = "PaweL_"	#Lords of Poznan
+	dynasty = 21005
+	religion = catholic
+	culture = polish
+	father = 302017
+	3067.1.30 = {
+		birth = yes
+	}
+	3129.3.12 = {
+		death = yes
+	}
+}
+302020 = {
+	name = "Zofia"	#Lords of Poznan
+	female = yes
+	dynasty = 21005
+	religion = catholic
+	culture = polish
+	father = 302017
+	3068.7.13 = {
+		birth = yes
+	}
+	3138.5.16 = {
+		death = yes
+	}
+}
+302021 = {
+	name = "JarosL_aw"	#Lords of Poznan
+	dynasty = 21005
+	religion = catholic
+	culture = polish
+	father = 302019
+	3100.9.18 = {
+		birth = yes
+	}
+	3167.2.22 = {
+		death = yes
+	}
+}
+302022 = {
+	name = "Jan"	#Lords of Poznan
+	dynasty = 21005
+	religion = catholic
+	culture = polish
+	father = 302019
+	3126.5.5 = {
+		birth = yes
+	}
+	3187.12.21 = {
+		death = yes
+	}
+}
+302024 = {
+	name = "Krystyna"	#Lords of Poznan
+	female = yes
+	dynasty = 21005
+	religion = catholic
+	culture = polish
+	father = 302019
+	3154.9.10 = {
+		birth = yes
+	}
+	3218.10.9 = {
+		death = yes
+	}
+}
+302025 = {
+	name = "JarosL_aw"	#Lords of Poznan
+	dynasty = 21005
+	religion = catholic
+	culture = polish
+	father = 302019
+	3156.5.21 = {
+		birth = yes
+	}
+	3211.11.4 = {
+		death = yes
+	}
+}
+#Ossowski lords of Plock (semi fictional)
+302026 = {
+	name = "Zygmunt"	#Lords of Plock
+	dynasty = 2001001	#Ossowski
+	religion = catholic
+	culture = polish
+	3036.11.3 = {
+		birth = yes
+	}
+	3103.2.9 = {
+		death = yes
+	}
+}
+302027 = {
+	name = "Marcin"		#Lords of Plock
+	dynasty = 2001001	#Ossowski
+	religion = catholic
+	culture = polish
+	father = 302026
+	3062.12.17 = {
+		birth = yes
+	}
+	3125.4.3 = {
+		death = yes
+	}
+}
+302028 = {
+	name = "Maciej"		#Lords of Plock
+	dynasty = 2001001	#Ossowski
+	religion = catholic
+	culture = polish
+	father = 302026
+	3065.6.29 = {
+		birth = yes
+	}
+	3137.9.18 = {
+		death = yes
+	}
+}
+302029 = {
+	name = "Anastazja"	#Lords of Plock
+	female = yes
+	dynasty = 2001001	#Ossowski
+	religion = catholic
+	culture = polish
+	father = 302026
+	3068.1.12 = {
+		birth = yes
+	}
+	3131.7.30 = {
+		death = yes
+	}
+}
+302030 = {
+	name = "Zygmunt"		#Lords of Plock
+	dynasty = 2001001	#Ossowski
+	religion = catholic
+	culture = polish
+	father = 302027
+	3089.8.7 = {
+		birth = yes
+	}
+	3143.4.22 = {
+		death = yes
+	}
+}
+302031 = {
+	name = "Andrzej"	#Lords of Plock
+	dynasty = 2001001	#Ossowski
+	religion = catholic
+	culture = polish
+	father = 302030
+	3132.12.30 = {
+		birth = yes
+	}
+	3188.7.27 = {
+		death = yes
+	}
+}
+302032 = {
+	name = MaL_gorzata	#Lords of Plock
+	female = yes
+	dynasty = 2001001	#Ossowski
+	religion = catholic
+	culture = polish
+	father = 302031
+	3165.2.4 = {
+		birth = yes
+	}
+	3203.6.16 = {
+		death = yes
+	}
+}
+302033 = {
+	name = Mateusz		#Lords of Plock
+	dynasty = 2001001	#Ossowski
+	religion = catholic
+	culture = polish
+	father = 302031
+	3168.5.19 = {
+		birth = yes
+	}
+	3236.1.27 = {
+		death = yes
+	}
+}
+302034 = {
+	name = Marcin		#Lords of Plock
+	dynasty = 2001001	#Ossowski
+	religion = catholic
+	culture = polish
+	father = 302031
+	3170.12.12 = {
+		birth = yes
+	}
+	3238.1.29 = {
+		death = yes
+	}
+}
+302035 = {
+	name = Maciej		#Lords of Plock
+	dynasty = 2001001	#Ossowski
+	religion = catholic
+	culture = polish
+	father = 302031
+	3172.4.23 = {
+		birth = yes
+	}
+	3242.1.28 = {
+		death = yes
+	}
+}
+#Lis lords of Czersk (semi fictional)
+302036 = {
+	name = WacL_aw		#Lords of Czersk
+	dynasty = 21016		#Lis
+	religion = catholic
+	culture = polish
+	3030.7.1 = {
+		birth = yes
+	}
+	3094.4.26 = {
+		death = yes
+	}
+}
+302037 = {
+	name = Wincenty		#Lords of Czersk
+	dynasty = 21016		#Lis
+	religion = catholic
+	culture = polish
+	father = 302036
+	3061.8.28 = {
+		birth = yes
+	}
+	3123.9.30 = {
+		death = yes
+	}
+}
+302038 = {
+	name = Olga			#Lords of Czersk
+	dynasty = 21016		#Lis
+	religion = catholic
+	culture = polish
+	father = 302036
+	female = yes
+	3064.4.17 = {
+		birth = yes
+	}
+	3130.5.20 = {
+		death = yes
+	}
+}
+302039 = {
+	name = WacL_aw		#Lords of Czersk
+	dynasty = 21016		#Lis
+	religion = catholic
+	culture = polish
+	father = 302037
+	3097.11.14 = {
+		birth = yes
+	}
+	3168.11.13 = {
+		death = yes
+	}
+}
+302040 = {
+	name = BogumiL_		#Lords of Czersk
+	dynasty = 21016		#Lis
+	religion = catholic
+	culture = polish
+	father = 302039
+	3129.10.22 = {
+		birth = yes
+	}
+	3192.6.11 = {
+		death = yes
+	}
+}
+302041 = {
+	name = Lech		#Lords of Czersk
+	dynasty = 21016		#Lis
+	religion = catholic
+	culture = polish
+	father = 302040
+	3161.4.12 = {
+		birth = yes
+	}
+	3220.8.10 = {
+		death = yes
+	}
+}
+302042 = {
+	name = Kazimierz	#Lords of Czersk
+	dynasty = 21016		#Lis
+	religion = catholic
+	culture = polish
+	father = 302040
+	3161.4.12 = {
+		birth = yes
+	}
+	3220.8.13 = {
+		death = yes
+	}
+}
+302043 = {
+	name = Beata		#Lords of Czersk
+	female = yes
+	dynasty = 21016		#Lis
+	religion = catholic
+	culture = polish
+	father = 302040
+	3165.2.16 = {
+		birth = yes
+	}
+	3237.6.2 = {
+		death = yes
+	}
+}
+#Kurowie lords of Lublin (semi fictional)
+302044 = {
+	name = Marian	#Lords of Lublin
+	dynasty = 2001000	#Kurowie
+	religion = catholic
+	culture = polish
+	3043.3.24 = {
+		birth = yes
+	}
+	3102.12.30 = {
+		death = yes
+	}
+}
+302045 = {
+	name = StanisL_aw	#Lords of Lublin
+	dynasty = 2001000	#Kurowie
+	religion = catholic
+	culture = polish
+	father = 302044
+	3076.3.24 = {
+		birth = yes
+	}
+	3131.5.19 = {
+		death = yes
+	}
+}
+302046 = {
+	name = Henryk		#Lords of Lublin
+	dynasty = 2001000	#Kurowie
+	religion = catholic
+	culture = polish
+	father = 302045
+	3102.5.15 = {
+		birth = yes
+	}
+	3171.11.13 = {
+		death = yes
+	}
+}
+302047 = {
+	name = Piotr		#Lords of Lublin
+	dynasty = 2001000	#Kurowie
+	religion = catholic
+	culture = polish
+	father = 302046
+	3131.3.22 = {
+		birth = yes
+	}
+	3190.7.17 = {
+		death = yes
+	}
+}
+302048 = {
+	name = Konrad		#Lords of Lublin
+	dynasty = 2001000	#Kurowie
+	religion = catholic
+	culture = polish
+	father = 302047
+	3156.9.12 = {
+		birth = yes
+	}
+	3211.7.18 = {
+		death = yes
+	}
+}
+302049 = {
+	name = Jolanta		#Lords of Lublin
+	female = yes
+	dynasty = 2001000	#Kurowie
+	religion = catholic
+	culture = polish
+	father = 302047
+	3159.5.24 = {
+		birth = yes
+	}
+	3218.6.6 = {
+		death = yes
+	}
+}
+302050 = {
+	name = Helena		#Lords of Lublin
+	female = yes
+	dynasty = 2001000	#Kurowie
+	religion = catholic
+	culture = polish
+	father = 302047
+	3162.10.14 = {
+		birth = yes
+	}
+	3243.9.8 = {
+		death = yes
+	}
+}
+#Licicawski lords of Lubusz
+302051 = {
+	name = DobiesL_aw
+	dynasty = 2001002	#Licicawski
+	religion = catholic
+	culture = polish
+	3004.10.9 = {
+		birth = 3004.10.9
+	}
+	3066.9.12 = {
+		death = 3066.9.12
+	}
+}
+302052 = {
+	name = Gaudenty
+	dynasty = 2001002	#Licicawski
+	religion = catholic
+	culture = polish
+	father = 302051
+	3040.6.17 = {
+		birth = 3040.6.17
+	}
+	3101.4.25 = {
+		death = 3101.4.25
+	}
+}
+302053 = {
+	name = Henryk
+	dynasty = 2001002	#Licicawski
+	religion = catholic
+	culture = polish
+	father = 302051
+	3046.5.19 = {
+		birth = 3046.5.19
+	}
+	3104.3.18 = {
+		death = 3104.3.18
+	}
+}
+302054 = {
+	name = Jakub
+	dynasty = 2001002	#Licicawski
+	religion = catholic
+	culture = polish
+	father = 302052
+	3071.8.21 = {
+		birth = 3071.8.21
+	}
+	3142.5.18 = {
+		death = 3142.5.18
+	}
+}
+###
+#Proto-polish tribes
+###
+#Legendary Krakus & Wanda + completely fictional descendants until the 867 characters
+82273 = {
+	name = "Krakus"		#Legendary 1st ruler of Krakow
+	dynasty = 9124
+	religion = "slavic_pagan"
+	culture = "polish"
+	2688.1.1 = {
+		birth = "2688.1.1"
+	}
+	2727.1.1 = {
+		death = "2727.1.1"
+	}
+}
+82274 = {
+	name = "Wanda"		#Legendary daughter of Krakus
+	female = yes
+	dynasty = 9124
+	father = 82273
+	religion = "slavic_pagan"
+	culture = "polish"
+	2710.1.1 = {
+		birth = "2710.1.1"
+	}
+	2740.1.1 = {
+		death = "2740.1.1"
+	}
+}
+302066 = {
+	name = Lech
+	dynasty = 9124
+	religion = slavic_pagan
+	culture = polish
+	mother = 82274
+	2737.1.1 = {
+		birth = 2737.1.1
+	}
+	2780.1.1 = {
+		death = 2780.1.1
+	}
+}
+302067 = {
+	name = Wanda
+	female = yes
+	dynasty = 9124
+	religion = slavic_pagan
+	culture = polish
+	father = 302066
+	2767.1.1 = {
+		birth = 2767.1.1
+	}
+	2815.1.1 = {
+		death = 2815.1.1
+	}
+}
+302055 = {
+	name = "Krak"
+	dynasty = 2001003	#z Wiślanie
+	religion = slavic_pagan
+	culture = polish
+	mother = 302067
+	2795.7.15 = {
+		birth = 2795.7.15
+	}
+	2831.5.13 = {
+		death = 2831.5.13
+	}
+}
+302059 = {
+	name = "Wanda"
+	female = yes
+	dynasty = 2001003	#z Wiślanie
+	religion = slavic_pagan
+	culture = polish
+	father = 302055
+	2847.6.22 = {
+		birth = 2827.6.22
+	}
+	2922.7.21 = {
+		death = 2903.7.21
+	}
+}
+302056 = {
+	name = "Krak"
+	dynasty = 2001003	#z Wiślanie
+	religion = slavic_pagan
+	culture = polish
+	father = 302055
+	2821.3.15 = {
+		birth = 2821.3.15
+	}
+	2864.3.26 = {
+		death = 2864.3.26
+	}
+}
+302057 = {
+	name = Lech
+	dynasty = 2001003	#z Wiślanie
+	religion = slavic_pagan
+	culture = polish
+	father = 302055
+	2824.12.25 = {
+		birth = 2824.12.25
+	}
+	2867.9.17 = {
+		death = 2867.9.17
+	}
+}
+
+#Vistulians in Great Moravia
+302058 = {
+	name = "Krak"
+	dynasty = 2001003	#z Wiślanie
+	religion = slavic_pagan
+	culture = polish
+	father = 302056
+	2844.8.23 = {
+		birth = 2844.8.23
+	}
+	2916.9.15 = {
+		death = 2916.9.15
+	}
+}
+
+
+
+#Vistulians (independent)
+302060 = {
+	name = Lech
+	dynasty = 2001003	#z Wiślanie
+	religion = slavic_pagan
+	culture = polish
+	father = 302057
+	2847.2.13 = {
+		birth = 2847.2.13
+	}
+	2912.12.11 = {
+		death = 2912.12.11
+	}
+}
+
+#Lendians
+302061 = {
+	name = Aleksander
+	dynasty = 2001004	#z Lędzianie
+	religion = slavic_pagan
+	culture = polish
+	2838.10.23 = {
+		birth = 2838.10.23
+	}
+	2894.3.14 = {
+		death = 2894.3.14
+	}
+}
+
+#Mazurians
+302062 = {
+	name = Maciej
+	dynasty = 2001005	#z Mazurie
+	religion = slavic_pagan
+	culture = polish
+	2847.9.19 = {
+		birth = 2847.9.19
+	}
+	2901.11.16 = {
+		death = 2901.11.16
+	}
+}
+
+#Mazovians
+302063 = {
+	name = BorzysL_aw
+	dynasty = 2001006	#z Mazowszanie
+	religion = slavic_pagan
+	culture = polish
+	2851.6.6 = {
+		birth = 2851.6.6
+	}
+	2903.12.12 = {
+		death = 2903.12.12
+	}
+}
+
+#Goplans
+302064 = {
+	name = Stefan
+	dynasty = 2001007	#z Goplanie
+	religion = slavic_pagan
+	culture = polish
+	2846.5.3 = {
+		birth = 2846.5.3
+	}
+	2890.12.26 = {
+		death = 2890.12.26
+	}
+}
+
+#Leczycans
+302065 = {
+	name = WacL_aw
+	dynasty = 2001008	#z Łęczycanie
+	religion = slavic_pagan
+	culture = polish
+	2850.1.21 = {
+		birth = 2850.1.21
+	}
+	2914.8.23 = {
+		death = 2914.8.23
+	}
+}

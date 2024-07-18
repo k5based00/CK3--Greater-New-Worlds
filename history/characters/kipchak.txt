@@ -1,0 +1,724 @@
+﻿#Astan
+302616 = {
+	name = "C_ilbu"
+	dynasty = 2001094	#Astan
+	religion = tengri_pagan
+	culture = kipchak
+	2830.4.30 = {
+		birth = yes
+	}
+	2850.6.15 = {
+		add_spouse = 302617
+	}
+	2877.2.12 = {
+		death = yes
+	}
+}
+302617 = {
+	name = "Sarica"
+	female = yes
+	religion = tengri_pagan
+	culture = kipchak
+	2834.7.18 = {
+		birth = yes
+	}
+	2888.6.17 = {
+		death = yes
+	}
+}
+302618 = {
+	name = "EldeC_yuk"
+	dynasty = 2001094	#Astan
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302616
+	2851.9.18 = {
+		birth = yes
+	}
+	2908.5.21 = {
+		death = yes
+	}
+}
+302619 = {
+	name = "Etrek"
+	dynasty = 2001094	#Astan
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302616
+	2853.11.1 = {
+		birth = yes
+	}
+	2907.2.23 = {
+		death = yes
+	}
+}
+302620 = {
+	name = "Blush"
+	dynasty = 2001094	#Astan
+	religion = tengri_pagan
+	culture = kipchak
+	3018.3.20 = {
+		birth = yes
+	}
+	3066.1.14 = {
+		death = yes
+	}
+}
+302621 = {
+	name = "Kotyan"
+	dynasty = 2001094	#Astan
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302620
+	3043.8.23 = {
+		birth = yes
+	}
+	3095.7.27 = {
+		death = yes
+	}
+}
+302622 = {
+	name = "Kobyak"
+	dynasty = 2001094	#Astan
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302620
+	3046.6.30 = {
+		birth = yes
+	}
+	3095.8.19 = {
+		death = yes
+	}
+}
+302623 = {
+	name = "Uzluk"
+	dynasty = 2001094	#Astan
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302621
+	3065.1.12 = {
+		birth = yes
+	}
+	3123.10.21 = {
+		death = yes
+	}
+}
+302624 = {
+	name = "Tugor"
+	dynasty = 2001094	#Astan
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302622
+	3067.4.18 = {
+		birth = yes
+	}
+	3115.9.13 = {
+		death = yes
+	}
+}
+302625 = {
+	name = "Bachman"
+	dynasty = 2001094	#Astan
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302623
+	3091.12.9 = {
+		birth = yes
+	}
+	3137.3.2 = {
+		death = yes
+	}
+}
+302626 = {
+	name = "Uzluk"
+	dynasty = 2001094	#Astan
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302625
+	3113.7.1 = {
+		birth = yes
+	}
+	3165.10.7 = {
+		death = yes
+	}
+}
+302627 = {
+	name = "Bachman"
+	dynasty = 2001094	#Astan
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302626
+	3143.12.10 = {
+		birth = yes
+	}
+	3204.9.14 = {
+		death = yes
+	}
+}
+302628 = {
+	name = "Bonyak"
+	dynasty = 2001094	#Astan
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302627
+	3167.6.26 = {
+		birth = yes
+	}
+	3222.1.27 = {
+		death = yes
+	}
+}
+
+#Kentek
+302647 = {
+	name = "Aepak"
+	dynasty = 2001097	#Kentek
+	religion = tengri_pagan
+	culture = kipchak
+	3045.9.13 = {
+		birth = yes
+	}
+	3103.9.26 = {
+		death = yes
+	}
+}
+302648 = {
+	name = "Kutan"
+	dynasty = 2001097	#Kentek
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302647
+	3071.2.15 = {
+		birth = yes
+	}
+	3126.7.5 = {
+		death = yes
+	}
+}
+302649 = {
+	name = "Pulad"
+	dynasty = 2001097	#Kentek
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302648
+	3101.8.12 = {
+		birth = yes
+	}
+	3150.1.23 = {
+		death = yes
+	}
+}
+302650 = {
+	name = "BO_nek"
+	dynasty = 2001097	#Kentek
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302649
+	3126.10.14 = {
+		birth = yes
+	}
+	3175.4.3 = {
+		death = yes
+	}
+}
+302651 = {
+	name = "Uzur"
+	dynasty = 2001097	#Kentek
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302650
+	3152.6.22 = {
+		birth = yes
+	}
+	3211.2.17 = {
+		death = yes
+	}
+}
+302652 = {
+	name = "Koza"
+	dynasty = 2001097	#Kentek
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302651
+	3180.7.4 = {
+		birth = yes
+	}
+	3234.11.18 = {
+		death = yes
+	}
+}
+
+#Beldet
+302653 = {
+	name = "Kubasar"
+	dynasty = 2001099	#Beldet
+	religion = tengri_pagan
+	culture = kipchak
+	3041.6.5 = {
+		birth = yes
+	}
+	3085.5.30 = {
+		death = yes
+	}
+}
+302654 = {
+	name = "SirC_an"
+	dynasty = 2001099	#Beldet
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302653
+	3063.9.21 = {
+		birth = yes
+	}
+	3122.7.14 = {
+		death = yes
+	}
+}
+302655 = {
+	name = "Blush"
+	dynasty = 2001099	#Beldet
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302654
+	3088.2.27 = {
+		birth = yes
+	}
+	3152.6.11 = {
+		death = yes
+	}
+}
+302656 = {
+	name = "Sugr"
+	dynasty = 2001099	#Beldet
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302655
+	3117.10.25 = {
+		birth = yes
+	}
+	3165.12.3 = {
+		death = yes
+	}
+}
+#
+302731 = {
+	name = "Kozel"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	2812.2.19 = {
+		birth = yes
+	}
+	2837.7.7 = {
+		add_spouse = 302732
+	}
+	2868.1.12 = {
+		death = yes
+	}
+}
+302732 = {
+	name = "Usunbike"
+	female = yes
+	religion = tengri_pagan
+	culture = kipchak
+	2819.6.19 = {
+		birth = yes
+	}
+	2883.2.18 = {
+		death = yes
+	}
+}
+302733 = {
+	name = "Sotan"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302731
+	mother = 302732
+	2841.3.28 = {
+		birth = yes
+	}
+	2860.6.21 = {
+		add_spouse = 302734
+	}
+	2895.4.23 = {
+		death = yes
+	}
+}
+302734 = {
+	name = "Songul"
+	female = yes
+	religion = tengri_pagan
+	culture = kipchak
+	2843.6.19 = {
+		birth = yes
+	}
+	2911.11.27 = {
+		death = yes
+	}
+}
+302735 = {
+	name = "SirC_an"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302731
+	mother = 302732
+	2843.3.1 = {
+		birth = yes
+	}
+	2860.6.21 = {
+		add_spouse = 302736
+	}
+	2887.9.16 = {
+		death = yes
+	}
+}
+302736 = {
+	name = "TekC_e"
+	female = yes
+	religion = tengri_pagan
+	culture = kipchak
+	2843.6.19 = {
+		birth = yes
+	}
+	2929.5.4 = {
+		death = yes
+	}
+}
+302737 = {
+	name = "Kozel"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302733
+	mother = 302734
+	2861.6.17 = {
+		birth = yes
+	}
+	2923.3.22 = {
+		death = yes
+	}
+}
+302738 = {
+	name = "Yildiz"
+	female = yes
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302733
+	mother = 302734
+	2862.7.13 = {
+		birth = yes
+	}
+	2931.1.25 = {
+		death = yes
+	}
+}
+302739 = {
+	name = "Kozel"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302735
+	mother = 302736
+	2863.12.30 = {
+		birth = yes
+	}
+	2895.9.18 = {
+		death = yes
+	}
+}
+302740 = {
+	name = "Kobyak"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302735
+	mother = 302736
+	2865.5.15 = {
+		birth = yes
+	}
+	2932.5.18 = {
+		death = yes
+	}
+}
+#
+302741 = {
+	name = "C_ilbu"
+	dynasty = 2001115	#Ashadamdar
+	religion = tengri_pagan
+	culture = kipchak
+	2824.3.26 = {
+		birth = yes
+	}
+	2882.1.19 = {
+		death = yes
+	}
+}
+302742 = {
+	name = "Kubasar"
+	dynasty = 2001115	#Ashadamdar
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302741
+	2847.4.15 = {
+		birth = yes
+	}
+	2908.2.27 = {
+		death = yes
+	}
+}
+302743 = {
+	name = "Girgen"
+	dynasty = 2001115	#Ashadamdar
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302741
+	2850.7.29 = {
+		birth = yes
+	}
+	2905.11.10 = {
+		death = yes
+	}
+}
+#
+302744 = {
+	name = "Gzi"
+	dynasty = 2001116	#Adalteri
+	religion = tengri_pagan
+	culture = kipchak
+	2845.2.3 = {
+		birth = yes
+	}
+	2900.4.5 = {
+		death = yes
+	}
+}
+#
+302745 = {
+	name = "Uzur"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	3028.1.13 = {
+		birth = yes
+	}
+	3086.4.24 = {
+		death = yes
+	}
+}
+302746 = {
+	name = "Akgul"
+	female = yes
+	religion = tengri_pagan
+	culture = kipchak
+	3034.8.7 = {
+		birth = yes
+	}
+	3108.6.12 = {
+		death = yes
+	}
+}
+302747 = {
+	name = "Uzluk"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302745
+	mother = 302746
+	3051.10.6 = {
+		birth = yes
+	}
+	3104.8.13 = {
+		death = yes
+	}
+}
+302748 = {
+	name = "Karacik"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302745
+	mother = 302746
+	3053.12.4 = {
+		birth = yes
+	}
+	3137.3.26 = {
+		death = yes
+	}
+}
+302749 = {
+	name = "Saru"
+	female = yes
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302745
+	mother = 302746
+	3054.9.26 = {
+		birth = yes
+	}
+	3114.4.30 = {
+		death = yes
+	}
+}
+302750 = {
+	name = "Kotyan"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302747
+	3079.11.14 = {
+		birth = yes
+	}
+	3140.5.23 = {
+		death = yes
+	}
+}
+302751 = {
+	name = "TO_rtogul"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302748
+	3078.12.28 = {
+		birth = yes
+	}
+	3127.6.17 = {
+		death = yes
+	}
+}
+302752 = {
+	name = "Sugr"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302750
+	3104.1.4 = {
+		birth = yes
+	}
+	3168.8.30 = {
+		death = yes
+	}
+}
+302753 = {
+	name = "TO_rtogul"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302752
+	3134.7.15 = {
+		birth = yes
+	}
+	3197.8.7 = {
+		death = yes
+	}
+}
+302754 = {
+	name = "Kotyan"
+	dynasty = 2001114	#Karasorkaliq
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302752
+	3158.9.29 = {
+		birth = yes
+	}
+	3213.11.12 = {
+		death = yes
+	}
+}
+#
+302755 = {
+	name = "Kuntuvdi"
+	dynasty = 2001117	#Kunsoqi
+	religion = tengri_pagan
+	culture = kipchak
+	3031.6.13 = {
+		birth = yes
+	}
+	3053.1.14 = {
+		add_spouse = 302756
+	}
+	3088.8.22 = {
+		death = yes
+	}
+}
+302756 = {
+	name = "Gulay"
+	female = yes
+	religion = tengri_pagan
+	culture = kipchak
+	3035.9.30 = {
+		birth = yes
+	}
+	3099.5.17 = {
+		death = yes
+	}
+}
+302757 = {
+	name = "SirC_an"
+	dynasty = 2001117	#Kunsoqi
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302755
+	mother = 302756
+	3055.8.21 = {
+		birth = yes
+	}
+	3100.10.4 = {
+		death = yes
+	}
+}
+302758 = {
+	name = "EldeC_yuk"
+	dynasty = 2001117	#Kunsoqi
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302757
+	3081.8.30 = {
+		birth = yes
+	}
+	3133.4.11 = {
+		death = yes
+	}
+}
+302759 = {
+	name = "Girgen"
+	dynasty = 2001117	#Kunsoqi
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302758
+	3101.7.18 = {
+		birth = yes
+	}
+	3153.4.1 = {
+		death = yes
+	}
+}
+302760 = {
+	name = "Sotan"
+	dynasty = 2001117	#Kunsoqi
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302759
+	3125.2.13 = {
+		birth = yes
+	}
+	3164.6.22 = {
+		death = yes
+	}
+}
+302761 = {
+	name = "Etrek"
+	dynasty = 2001117	#Kunsoqi
+	religion = tengri_pagan
+	culture = kipchak
+	father = 302760
+	3145.1.6 = {
+		birth = yes
+	}
+	3209.12.15 = {
+		death = yes
+	}
+}

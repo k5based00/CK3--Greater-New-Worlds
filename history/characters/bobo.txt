@@ -1,0 +1,1186 @@
+﻿#Bobo characters
+
+#placeholders for c_sikasso
+
+bobo0001 = {
+	name = "Wuro" #fictional
+	dynasty = bobodyn001
+	religion = west_african_pagan
+	culture = bobo
+	2837.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+bobo0002 = {
+	name = "Dwo" #fictional
+	dynasty = bobodyn001
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0001
+	2872.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+bobo0003 = {
+	name = "Dwo" #fictional
+	dynasty = bobodyn001
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0002
+	2917.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+bobo0004 = {
+	name = "Wule" #fictional
+	dynasty = bobodyn001
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0003
+	2975.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+bobo0005 = {
+	name = "Kouka" #fictional
+	dynasty = bobodyn001
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0004
+	3024.1.1 = {
+		birth = yes
+	}
+	3083.1.1 = {
+		death = yes
+	}
+}
+bobo0006 = {
+	name = "Wuro" #fictional
+	dynasty = bobodyn001
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0005
+	3064.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+bobo0007 = {
+	name = "Kouka" #fictional
+	dynasty = bobodyn001
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0006
+	3102.1.1 = {
+		birth = yes
+	}
+	3161.1.1 = {
+		death = yes
+	}
+}
+bobo0008 = {
+	name = "Dwo" #fictional
+	dynasty = bobodyn001
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0007
+	3144.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+bobo0009 = {
+	name = "Mensah" #fictional
+	dynasty = bobodyn001
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0008
+	3182.1.1 = {
+		birth = yes
+	}
+	3237.1.1 = {
+		death = yes
+	}
+}
+bobo0010 = {
+	name = "Wule" #fictional
+	dynasty = bobodyn001
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0009
+	3217.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}
+
+#rulers in c_bena
+bobo0011 = {
+	name = "Setriakor" #fictional
+	dynasty = bobodyn002
+	religion = west_african_pagan
+	culture = bobo
+	2832.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+bobo0012 = {
+	name = "Ewunio" #fictional
+	dynasty = bobodyn002
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0011
+	2867.1.1 = {
+		birth = yes
+	}
+	2932.1.1 = {
+		death = yes
+	}
+}
+bobo0013 = {
+	name = "Doucouri" #fictional
+	dynasty = bobodyn002
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0012
+	2912.1.1 = {
+		birth = yes
+	}
+	2985.1.1 = {
+		death = yes
+	}
+}
+bobo0014 = {
+	name = "Yama" #fictional
+	dynasty = bobodyn002
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0013
+	2962.1.1 = {
+		birth = yes
+	}
+	3037.1.1 = {
+		death = yes
+	}
+}
+bobo0015 = {
+	name = "Doucouri" #fictional
+	dynasty = bobodyn002
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0014
+	3020.1.1 = {
+		birth = yes
+	}
+	3077.1.1 = {
+		death = yes
+	}
+}
+bobo0016 = {
+	name = "Ewunio" #fictional
+	dynasty = bobodyn002
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0015
+	3060.1.1 = {
+		birth = yes
+	}
+	3117.1.1 = {
+		death = yes
+	}
+}
+bobo0017 = {
+	name = "Setriakor" #fictional
+	dynasty = bobodyn002
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0016
+	3097.1.1 = {
+		birth = yes
+	}
+	3151.1.1 = {
+		death = yes
+	}
+}
+bobo0018 = {
+	name = "Commie" #fictional
+	dynasty = bobodyn002
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0017
+	3134.1.1 = {
+		birth = yes
+	}
+	3197.1.1 = {
+		death = yes
+	}
+}
+bobo0019 = {
+	name = "Akorli" #fictional
+	dynasty = bobodyn002
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0018
+	3179.1.1 = {
+		birth = yes
+	}
+	3232.1.1 = {
+		death = yes
+	}
+}
+bobo0020 = {
+	name = "Ewunio" #fictional
+	dynasty = bobodyn002
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0019
+	3212.1.1 = {
+		birth = yes
+	}
+	3266.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_lobi and c_dyulaso
+bobo0021 = {
+	name = "Zara" #fictional
+	dynasty = bobodyn003
+	religion = west_african_pagan
+	culture = bobo
+	2837.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+bobo0022 = {
+	name = "Adika" #fictional
+	dynasty = bobodyn003
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0021
+	2872.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+bobo0023 = {
+	name = "Dari" #fictional
+	dynasty = bobodyn003
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0022
+	2917.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+bobo0024 = {
+	name = "Jula" #fictional
+	dynasty = bobodyn003
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0023
+	2975.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+bobo0025 = {
+	name = "Konsa" #fictional
+	dynasty = bobodyn003
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0024
+	3024.1.1 = {
+		birth = yes
+	}
+	3083.1.1 = {
+		death = yes
+	}
+}
+bobo0026 = {
+	name = "Agor" #fictional
+	dynasty = bobodyn003
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0025
+	3064.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+bobo0027 = {
+	name = "Tse" #fictional
+	dynasty = bobodyn003
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0026
+	3102.1.1 = {
+		birth = yes
+	}
+	3161.1.1 = {
+		death = yes
+	}
+}
+bobo0028 = {
+	name = "Dafra" #fictional
+	dynasty = bobodyn003
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0027
+	3144.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+bobo0029 = {
+	name = "Mawulawde" #fictional
+	dynasty = bobodyn003
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0028
+	3182.1.1 = {
+		birth = yes
+	}
+	3237.1.1 = {
+		death = yes
+	}
+}
+bobo0030 = {
+	name = "Dambatu" #fictional
+	dynasty = bobodyn003
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0029
+	3217.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_wa
+
+bobo0031 = {
+	name = "Sia" #fictional
+	dynasty = bobodyn004
+	religion = west_african_pagan
+	culture = bobo
+	2845.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		death = yes
+	}
+}
+bobo0032 = {
+	name = "Wofa" #fictional
+	dynasty = bobodyn004
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0031
+	2882.1.1 = {
+		birth = yes
+	}
+	2952.1.1 = {
+		death = yes
+	}
+}
+bobo0033 = {
+	name = "Bomou" #fictional
+	dynasty = bobodyn004
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0032
+	2932.1.1 = {
+		birth = yes
+	}
+	3007.1.1 = {
+		death = yes
+	}
+}
+bobo0034 = {
+	name = "Dafra" #fictional
+	dynasty = bobodyn004
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0033
+	2992.1.1 = {
+		birth = yes
+	}
+	3060.1.1 = {
+		death = yes
+	}
+}
+bobo0035 = {
+	name = "Dafra" #fictional
+	dynasty = bobodyn004
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0034
+	3042.1.1 = {
+		birth = yes
+	}
+	3104.1.1 = {
+		death = yes
+	}
+}
+bobo0036 = {
+	name = "Wofa" #fictional
+	dynasty = bobodyn004
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0035
+	3080.1.1 = {
+		birth = yes
+	}
+	3138.1.1 = {
+		death = yes
+	}
+}
+bobo0037 = {
+	name = "Sia" #fictional
+	dynasty = bobodyn004
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0036
+	3119.1.1 = {
+		birth = yes
+	}
+	3180.1.1 = {
+		death = yes
+	}
+}
+bobo0038 = {
+	name = "Wofa" #fictional
+	dynasty = bobodyn004
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0037
+	3161.1.1 = {
+		birth = yes
+	}
+	3223.1.1 = {
+		death = yes
+	}
+}
+bobo0039 = {
+	name = "Sia" #fictional
+	dynasty = bobodyn004
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0038
+	3204.1.1 = {
+		birth = yes
+	}
+	3265.1.1 = {
+		death = yes
+	}
+}
+bobo0040 = {
+	name = "Bomou" #fictional
+	dynasty = bobodyn004
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0039
+	3242.1.1 = {
+		birth = yes
+	}
+	3307.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_loropeni
+
+bobo0041 = {
+	name = "Tandian" #fictional
+	dynasty = bobodyn005
+	religion = west_african_pagan
+	culture = bobo
+	2832.1.1 = {
+		birth = yes
+	}
+	2895.1.1 = {
+		death = yes
+	}
+}
+bobo0042 = {
+	name = "Longesai" #fictional
+	dynasty = bobodyn005
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0041
+	2864.1.1 = {
+		birth = yes
+	}
+	2920.1.1 = {
+		death = yes
+	}
+}
+bobo0043 = {
+	name = "Labidiedo" #fictional
+	dynasty = bobodyn005
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0042
+	2897.1.1 = {
+		birth = yes
+	}
+	2970.1.1 = {
+		death = yes
+	}
+}
+bobo0044 = {
+	name = "Longesai" #fictional
+	dynasty = bobodyn005
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0043
+	2952.1.1 = {
+		birth = yes
+	}
+	3027.1.1 = {
+		death = yes
+	}
+}
+bobo0045 = {
+	name = "Dambatu" #fictional
+	dynasty = bobodyn005
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0044
+	3007.1.1 = {
+		birth = yes
+	}
+	3068.1.1 = {
+		death = yes
+	}
+}
+bobo0046 = {
+	name = "Longesai" #fictional
+	dynasty = bobodyn005
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0045
+	3044.1.1 = {
+		birth = yes
+	}
+	3099.1.1 = {
+		death = yes
+	}
+}
+bobo0047 = {
+	name = "Labidiedo" #fictional
+	dynasty = bobodyn005
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0046
+	3082.1.1 = {
+		birth = yes
+	}
+	3148.1.1 = {
+		death = yes
+	}
+}
+bobo0048 = {
+	name = "Dambatu" #fictional
+	dynasty = bobodyn005
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0047
+	3117.1.1 = {
+		birth = yes
+	}
+	3175.1.1 = {
+		death = yes
+	}
+}
+bobo0049 = {
+	name = "Yama" #fictional
+	dynasty = bobodyn005
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0048
+	3156.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+bobo0050 = {
+	name = "Yama" #fictional
+	dynasty = bobodyn005
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0049
+	3188.1.1 = {
+		birth = yes
+	}
+	3246.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of c_nyene
+bobo0051 = {
+	name = "Sikam" #fictional
+	dynasty = bobodyn006
+	religion = west_african_pagan
+	culture = bobo
+	2817.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+bobo0052 = {
+	name = "Wuleyaho" #fictional
+	dynasty = bobodyn006
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0051
+	2843.1.1 = {
+		birth = yes
+	}
+	2904.1.1 = {
+		death = yes
+	}
+}
+bobo0053 = {
+	name = "Sikam" #fictional
+	dynasty = bobodyn006
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0052
+	2886.1.1 = {
+		birth = yes
+	}
+	2955.1.1 = {
+		death = yes
+	}
+}
+bobo0054 = {
+	name = "Longesai" #fictional
+	dynasty = bobodyn006
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0053
+	2932.1.1 = {
+		birth = yes
+	}
+	3010.1.1 = {
+		death = yes
+	}
+}
+bobo0055 = {
+	name = "Sikam" #fictional
+	dynasty = bobodyn006
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0054
+	2992.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+bobo0056 = {
+	name = "Labidiedo" #fictional
+	dynasty = bobodyn006
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0055
+	3035.1.1 = {
+		birth = yes
+	}
+	3096.1.1 = {
+		death = yes
+	}
+}
+bobo0057 = {
+	name = "Konsa" #fictional
+	dynasty = bobodyn006
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0056
+	3079.1.1 = {
+		birth = yes
+	}
+	3107.1.1 = {
+		religion = ashari
+	}
+	3142.1.1 = {
+		death = yes
+	}
+}
+bobo0058 = {
+	name = "Wuleyaho" #fictional
+	dynasty = bobodyn006
+	religion = ashari
+	culture = bobo
+	father = bobo0057
+	3122.1.1 = {
+		birth = yes
+	}
+	3183.1.1 = {
+		death = yes
+	}
+}
+bobo0059 = {
+	name = "Konsa" #fictional
+	dynasty = bobodyn006
+	religion = ashari
+	culture = bobo
+	father = bobo0058
+	3161.1.1 = {
+		birth = yes
+	}
+	3218.1.1 = {
+		death = yes
+	}
+}
+bobo0050 = {
+	name = "Labidiedo" #fictional
+	dynasty = bobodyn006
+	religion = ashari
+	culture = bobo
+	father = bobo0059
+	3195.1.1 = {
+		birth = yes
+	}
+	3256.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_tyendugu
+bobo0061 = {
+	name = "Konsa" #fictional
+	dynasty = bobodyn007
+	religion = west_african_pagan
+	culture = bobo
+	2837.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+bobo0062 = {
+	name = "Labidiedo" #fictional
+	dynasty = bobodyn007
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0061
+	2872.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+bobo0063 = {
+	name = "Konsa" #fictional
+	dynasty = bobodyn007
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0062
+	2917.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+bobo0064 = {
+	name = "Wule" #fictional
+	dynasty = bobodyn007
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0063
+	2975.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+bobo0065 = {
+	name = "Longesai" #fictional
+	dynasty = bobodyn007
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0064
+	3024.1.1 = {
+		birth = yes
+	}
+	3083.1.1 = {
+		death = yes
+	}
+}
+bobo0066 = {
+	name = "Konsa" #fictional
+	dynasty = bobodyn007
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0065
+	3064.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+bobo0067 = {
+	name = "Konsa" #fictional
+	dynasty = bobodyn007
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0066
+	3102.1.1 = {
+		birth = yes
+	}
+	3161.1.1 = {
+		death = yes
+	}
+}
+bobo0068 = {
+	name = "Longesai" #fictional
+	dynasty = bobodyn007
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0067
+	3144.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+bobo0069 = {
+	name = "Wule" #fictional
+	dynasty = bobodyn007
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0068
+	3182.1.1 = {
+		birth = yes
+	}
+	3237.1.1 = {
+		death = yes
+	}
+}
+bobo0070 = {
+	name = "Longesai" #fictional
+	dynasty = bobodyn007
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0069
+	3217.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}
+
+#Kong
+bobo0071 = {
+	name = "Dwo" #fictional
+	dynasty = bobodyn008
+	religion = west_african_pagan
+	culture = bobo
+	2844.1.1 = {
+		birth = yes
+	}
+	2900.1.1 = {
+		death = yes
+	}
+}
+bobo0072 = {
+	name = "Wuro" #fictional
+	dynasty = bobodyn008
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0071
+	2882.1.1 = {
+		birth = yes
+	}
+	2952.1.1 = {
+		death = yes
+	}
+}
+bobo0073 = {
+	name = "Bobo" #fictional
+	dynasty = bobodyn008
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0072
+	2927.1.1 = {
+		birth = yes
+	}
+	3002.1.1 = {
+		death = yes
+	}
+}
+bobo0074 = {
+	name = "Wule" #fictional
+	dynasty = bobodyn008
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0073
+	2982.1.1 = {
+		birth = yes
+	}
+	3037.1.1 = {
+		death = yes
+	}
+}
+bobo0075 = {
+	name = "Sekkin" #fictional
+	dynasty = bobodyn008
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0074
+	3017.1.1 = {
+		birth = yes
+	}
+	3072.1.1 = {
+		death = yes
+	}
+}
+bobo0076 = {
+	name = "Kabayo" #fictional
+	dynasty = bobodyn008
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0075
+	3047.1.1 = {
+		birth = yes
+	}
+	3100.1.1 = {
+		death = yes
+	}
+}
+bobo0077 = {
+	name = "Wuro" #fictional
+	dynasty = bobodyn008
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0076
+	3074.1.1 = {
+		birth = yes
+	}
+	3135.1.1 = {
+		death = yes
+	}
+}
+bobo0078 = {
+	name = "Kabayo" #fictional
+	dynasty = bobodyn008
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0077
+	3101.1.1 = {
+		birth = yes
+	}
+	3165.1.1 = {
+		death = yes
+	}
+}
+bobo0079 = {
+	name = "Bobo" #fictional
+	dynasty = bobodyn008
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0078
+	3134.1.1 = {
+		birth = yes
+	}
+	3197.1.1 = {
+		death = yes
+	}
+}
+bobo0080 = {
+	name = "Sekkin" #fictional
+	dynasty = bobodyn008
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0079
+	3170.1.1 = {
+		birth = yes
+	}
+	3223.1.1 = {
+		death = yes
+	}
+}
+
+#rulers in c_worodugu and c_boron
+bobo0081 = {
+	name = "Dambatu" #fictional
+	dynasty = bobodyn009
+	religion = west_african_pagan
+	culture = bobo
+	2852.1.1 = {
+		birth = yes
+	}
+	2914.1.1 = {
+		death = yes
+	}
+}
+bobo0082 = {
+	name = "Sekkin" #fictional
+	dynasty = bobodyn009
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0081
+	2897.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+bobo0083 = {
+	name = "Dari" #fictional
+	dynasty = bobodyn009
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0082
+	2954.1.1 = {
+		birth = yes
+	}
+	3027.1.1 = {
+		death = yes
+	}
+}
+bobo0084 = {
+	name = "Yama" #fictional
+	dynasty = bobodyn009
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0083
+	3002.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+bobo0085 = {
+	name = "Zenku" #fictional
+	dynasty = bobodyn009
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0084
+	3040.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+bobo0086 = {
+	name = "Dambatu" #fictional
+	dynasty = bobodyn009
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0085
+	3067.1.1 = {
+		birth = yes
+	}
+	3129.1.1 = {
+		death = yes
+	}
+}
+bobo0087 = {
+	name = "Wofa" #fictional
+	dynasty = bobodyn009
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0086
+	3100.1.1 = {
+		birth = yes
+	}
+	3160.1.1 = {
+		death = yes
+	}
+}
+bobo0088 = {
+	name = "Zenku" #fictional
+	dynasty = bobodyn009
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0087
+	3137.1.1 = {
+		birth = yes
+	}
+	3191.1.1 = {
+		death = yes
+	}
+}
+bobo0089 = {
+	name = "Dari" #fictional
+	dynasty = bobodyn009
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0088
+	3175.1.1 = {
+		birth = yes
+	}
+	3230.1.1 = {
+		death = yes
+	}
+}
+bobo0090 = {
+	name = "Wofa" #fictional
+	dynasty = bobodyn009
+	religion = west_african_pagan
+	culture = bobo
+	father = bobo0089
+	3209.1.1 = {
+		birth = yes
+	}
+	3271.1.1 = {
+		death = yes
+	}
+}

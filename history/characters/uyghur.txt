@@ -1,0 +1,3728 @@
+﻿188783 = {
+	name = "Qutlugh" # or Guli Peilo
+	dynasty = 1042190 # Yaghlakar
+	religion = "tengri_pagan"
+	culture = "uyghur"
+	2702.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		death = yes
+	}
+}
+
+188784 = {
+	name = "Bayanchur" # or Moyanchur
+	dynasty = 1042190 # Yaghlakar
+	religion = "tengri_pagan"
+	culture = "uyghur"
+	father = 188783
+	2729.1.1 = {
+		birth = yes
+	}
+	2761.6.1 = {
+		death = yes
+	}
+}
+
+188785 = {
+	name = "Tengri_BO_gU_"
+	dynasty = 1042190 # Yaghlakar
+	religion = "tengri_pagan"
+	culture = "uyghur"
+	father = 188784
+	2747.1.1 = {
+		birth = yes
+	}
+	2764.1.1 = {
+		religion = manichean
+	}
+	2781.1.1 = {
+		death = yes
+	}
+}
+
+194352 = {
+	name = "BO_nek" # Fictional son
+	dynasty = 1042190 # Yaghlakar
+	religion = manichean
+	culture = "uyghur"
+	father = 188785
+	2767.1.1 = {
+		birth = yes
+	}
+	2781.1.1 = {
+		death = yes
+	}
+}
+
+188786 = {
+	name = "Alp-Qutlugh"
+	dynasty = 1042190 # Yaghlakar
+	religion = "tengri_pagan"
+	culture = "uyghur"
+	father = 188783
+	2727.1.1 = {
+		birth = yes
+	}
+	2764.1.1 = {
+		religion = manichean
+	}
+	2791.1.1 = {
+		death = yes
+	}
+}
+
+188787 = {
+	name = "Tolossu"
+	dynasty = 1042190 # Yaghlakar
+	religion = "tengri_pagan"
+	culture = "uyghur"
+	father = 188786
+	2751.1.1 = {
+		birth = yes
+	}
+	2764.1.1 = {
+		religion = manichean
+	}
+	2792.1.1 = {
+		death = yes
+	}
+}
+
+188788 = {
+	name = "Qutlugh"
+	dynasty = 1042190 # Yaghlakar
+	religion = "manichean"
+	culture = "uyghur"
+	father = 188787
+	2770.1.1 = {
+		birth = yes
+	}
+	2797.1.1 = {
+		death = yes
+	}
+}
+194191 = {
+	name = "Qutlugh"
+	dynasty = 1045083 # Ediz
+	religion = "manichean"
+	culture = "uyghur"
+	2760.1.1 = {
+		birth = yes
+	}
+	2810.1.1 = {
+		death = yes
+	}
+}
+
+217100 = {
+	name = "C_or" #fictional
+	dynasty = 1051100 # Uzun
+	religion = "manichean"
+	culture = "uyghur"
+	2714.4.9 = {
+		birth = yes
+	}
+	2733.7.3 = {
+		add_spouse = 217118
+	}
+	2749.2.19 = {
+		death = yes
+	}
+}
+217101 = {
+	name = "U_ge" #fictional
+	dynasty = 1051100 # Uzun
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217100
+	mother = 217118
+	2741.6.12 = {
+		birth = yes
+	}
+	2784.1.30 = {
+		death = yes
+	}
+}
+194353 = {
+	name = "Sotan" #fictional
+	dynasty = 1051100 # Uzun
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217101
+	2758.6.12 = {
+		birth = yes
+	}
+	2784.1.30 = {
+		death = yes
+	}
+}
+217102 = {
+	name = "Samur" #fictional
+	dynasty = 1051100 # Uzun
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217100
+	mother = 217118
+	female = yes
+	2743.3.14 = {
+		birth = yes
+	}
+	2789.11.15 = {
+		death = yes
+	}
+}
+217103 = {
+	name = "KO_nC_ek" #fictional
+	dynasty = 1051103 # Ugurlu
+	religion = "manichean"
+	culture = "uyghur"
+	2727.8.15 = {
+		birth = yes
+	}
+	2742.3.15 = {
+		add_spouse = 217116
+	}
+	2759.10.13 = {
+		death = yes
+	}
+}
+217104 = {
+	name = "Bilge" #fictional
+	dynasty = 1051103 # Ugurlu
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217103
+	mother = 217116
+	2743.12.24 = {
+		birth = yes
+	}
+	2787.9.30 = {
+		death = yes
+	}
+}
+217105 = {
+	name = "O_zgul" #fictional
+	dynasty = 1051103 # Ugurlu
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217103
+	mother = 217116
+	female = yes
+	2745.3.19 = {
+		birth = yes
+	}
+	2791.7.15 = {
+		death = yes
+	}
+}
+217106 = {
+	name = "Togli" #fictional
+	dynasty = 1051101 # Alptekin
+	religion = "manichean"
+	culture = "uyghur"
+	2723.4.3 = {
+		birth = yes
+	}
+	2743.11.30 = {
+		add_spouse = 217114
+	}
+	2764.2.8 = {
+		death = yes
+	}
+}
+217107 = {
+	name = "U_ge" #fictional
+	dynasty = 1051101 # Alptekin
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217106
+	mother = 217114
+	2745.10.21 = {
+		birth = yes
+	}
+	2793.4.26 = {
+		death = yes
+	}
+}
+217108 = {
+	name = "GulC_iC_ek" #fictional
+	dynasty = 1051101 # Alptekin
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217106
+	mother = 217114
+	female = yes
+	2741.6.30 = {
+		birth = yes
+	}
+	2784.12.10 = {
+		death = yes
+	}
+}
+217109 = {
+	name = "Itlar" #fictional
+	dynasty = 1051102 # Akhun
+	religion = "manichean"
+	culture = "uyghur"
+	2717.11.10 = {
+		birth = yes
+	}
+	2739.4.2 = {
+		add_spouse = 217112
+	}
+	2751.7.2 = {
+		death = yes
+	}
+}
+217110 = {
+	name = "Kozel" #fictional
+	dynasty = 1051102 # Akhun
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217109
+	mother = 217112
+	2743.8.1 = {
+		birth = yes
+	}
+	2788.1.21 = {
+		death = yes
+	}
+}
+194354 = {
+	name = "Ituk" #fictional
+	dynasty = 1051102 # Akhun
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217110
+	2760.8.1 = {
+		birth = yes
+	}
+	2788.1.21 = {
+		death = yes
+	}
+}
+217111 = {
+	name = "Yeldem" #fictional
+	dynasty = 1051102 # Akhun
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217109
+	mother = 217112
+	female = yes
+	2747.7.7 = {
+		birth = yes
+	}
+	2796.11.9 = {
+		death = yes
+	}
+}
+217112 = {
+	name = "Ayten" #fictional
+	religion = "manichean"
+	culture = "uyghur"
+	female = yes
+	2721.7.12 = {
+		birth = yes
+	}
+	2758.3.19 = {
+		death = yes
+	}
+}
+217113 = {
+	name = "Bonyak" #fictional
+	dynasty = 1051102 # Akhun
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217109
+	mother = 217112
+	2746.5.18 = {
+		birth = yes
+	}
+	2789.5.5 = {
+		death = yes
+	}
+}
+217114 = {
+	name = "Songul" #fictional
+	religion = "manichean"
+	culture = "uyghur"
+	female = yes
+	2727.3.7 = {
+		birth = yes
+	}
+	2773.3.27 = {
+		death = yes
+	}
+}
+217115 = {
+	name = "Mutlu" #fictional
+	dynasty = 1051101 # Alptekin
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217106
+	mother = 217114
+	female = yes
+	2748.6.15 = {
+		birth = yes
+	}
+	2797.3.30 = {
+		death = yes
+	}
+}
+217116 = {
+	name = "KO_nC_ek" #fictional
+	religion = "manichean"
+	culture = "uyghur"
+	female = yes
+	2726.2.25 = {
+		birth = yes
+	}
+	2771.11.28 = {
+		death = yes
+	}
+}
+217117 = {
+	name = "Bilge" #fictional
+	dynasty = 1051103 # Ugurlu
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217103
+	mother = 217116
+	2750.4.23 = {
+		birth = yes
+	}
+	2774.2.19 = {
+		death = yes
+	}
+}
+217118 = {
+	name = "C_iltanesi" #fictional
+	religion = "manichean"
+	culture = "uyghur"
+	female = yes
+	2716.2.8 = {
+		birth = yes
+	}
+	2758.5.24 = {
+		death = yes
+	}
+}
+217119 = {
+	name = "Kutan" #fictional
+	dynasty = 1051100 # Uzun
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217100
+	mother = 217118
+	2744.8.21 = {
+		birth = yes
+	}
+	2787.3.2 = {
+		death = yes
+	}
+}
+217120 = {
+	name = "Uzluk" #fictional
+	dynasty = 1051100 # Uzun
+	religion = "manichean"
+	culture = "uyghur"
+	father = 217100
+	mother = 217118
+	2746.3.15 = {
+		birth = yes
+	}
+	2783.8.10 = {
+		death = yes
+	}
+}
+217121 = {
+	name = "Ipekel" #fictional
+	dynasty = 1051100 # Uzun
+	religion = "manichean"
+	culture = "uyghur"
+	female = yes
+	father = 217100
+	mother = 217118
+	2747.8.19 = {
+		birth = yes
+	}
+	2798.4.18 = {
+		death = yes
+	}
+}
+217122 = {
+	name = "Gzi" #fictional
+	dynasty = 1051104 # Üzümcü
+	religion = "manichean"
+	culture = "uyghur"
+	2821.7.12 = {
+		birth = yes
+	}
+	2842.4.1 = {
+		add_spouse = 217124
+	}
+	2867.12.2 = {
+		death = yes
+	}
+}
+217123 = {
+	name = "Uzluk" #fictional
+	dynasty = 1051104 # Üzümcü
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = 217122
+	mother = 217124
+	2849.11.7 = {
+		birth = yes
+	}
+	2895.6.7 = {
+		death = yes
+	}
+}
+217124 = {
+	name = "Dilek" #fictional
+	religion = "manichean"
+	culture = "uyghur"
+	female = yes
+	2826.3.26 = {
+		birth = yes
+	}
+	2869.5.3 = {
+		death = yes
+	}
+}
+217125 = {
+	name = "BozC_in" #fictional
+	dynasty = 1051104 # Üzümcü
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = 217122
+	mother = 217124
+	female = yes
+	2851.3.1 = {
+		birth = yes
+	}
+	2897.5.22 = {
+		death = yes
+	}
+}
+217126 = {
+	name = "Sotan" #fictional
+	dynasty = 1051104 # Üzümcü
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = 217122
+	mother = 217124
+	trait = generous
+	2854.2.4 = {
+		birth = yes
+	}
+	2888.3.28 = {
+		death = yes
+	}
+}
+217186 = {
+	name = "Kozel" # fictional
+	dynasty = 1051104 # Üzümcü
+	religion = vajrayana
+	culture = uyghur
+	father = 217123
+	2875.6.9 = {
+		birth = yes
+	}
+	2948.3.7 = {
+		death = yes
+	}
+}
+217187 = {
+	name = "Kubasar" # fictional
+	dynasty = 1051104 # Üzümcü
+	religion = vajrayana
+	culture = uyghur
+	father = 217186
+	2919.4.12 = {
+		birth = yes
+	}
+	2996.8.24 = {
+		death = yes
+	}
+}
+217188 = {
+	name = "Asalup" # fictional
+	dynasty = 1051104 # Üzümcü
+	religion = vajrayana
+	culture = uyghur
+	father = 217187
+	2963.7.10 = {
+		birth = yes
+	}
+	3023.9.13 = {
+		death = yes
+	}
+}
+217189 = {
+	name = "Blush" # fictional
+	dynasty = 1051104 # Üzümcü
+	religion = vajrayana
+	culture = uyghur
+	father = 217188
+	3008.11.11 = {
+		birth = yes
+	}
+	3061.4.10 = {
+		death = yes
+	}
+}
+217190 = {
+	name = "Begluk" # fictional
+	dynasty = 1051104 # Üzümcü
+	religion = vajrayana
+	culture = uyghur
+	father = 217189
+	3036.6.5 = {
+		birth = yes
+	}
+	3099.4.15 = {
+		death = yes
+	}
+}
+217191 = {
+	name = "Ipek" # fictional
+	dynasty = 1051104 # Üzümcü
+	religion = vajrayana
+	culture = uyghur
+	father = 217189
+	female = yes
+	3039.12.17 = {
+		birth = yes
+	}
+	3113.11.11 = {
+		death = yes
+	}
+}
+217228 = {
+	name = TO_rtogul # fictional
+	dynasty = 1051121 # Müjde
+	religion = vajrayana
+	culture = uyghur
+	3082.4.17 = {
+		birth = yes
+	}
+	3129.7.4 = {
+		death = yes
+	}
+}
+217229 = {
+	name = Gzi # fictional
+	dynasty = 1051121 # Müjde
+	religion = vajrayana
+	culture = uyghur
+	father = 217228
+	3101.12.10 = {
+		birth = yes
+	}
+	3164.5.17 = {
+		death = yes
+	}
+}
+217230 = {
+	name = Kotyan # fictional
+	dynasty = 1051121 # Müjde
+	religion = vajrayana
+	culture = uyghur
+	father = 217229
+	3130.5.13 = {
+		birth = yes
+	}
+	3151.4.7 = {
+		add_spouse = 217231
+	}
+	3186.10.4 = {
+		death = yes
+	}
+}
+217231 = {
+	name = Ayasun # fictional
+	religion = vajrayana
+	culture = uyghur
+	female = yes
+	3134.4.9 = {
+		birth = yes
+	}
+	3200.3.12 = {
+		death = yes
+	}
+}
+217232 = {
+	name = Ituk # fictional
+	dynasty = 1051121 # Müjde
+	religion = vajrayana
+	culture = uyghur
+	father = 217230
+	mother = 217231
+	3154.11.7 = {
+		birth = yes
+	}
+	3183.4.11 = {
+		add_spouse = 217233
+	}
+	3194.6.10 = {
+		death = yes
+	}
+}
+217233 = {
+	name = Umay # fictional
+	religion = vajrayana
+	culture = uyghur
+	female = yes
+	3162.4.3 = {
+		birth = yes
+	}
+	3209.5.10 = {
+		death = yes
+	}
+}
+217234 = {
+	name = Barchuq
+	dynasty = 1051121 # Müjde # fictional dynasty
+	religion = vajrayana
+	culture = uyghur
+	father = 217232
+	mother = 217233
+	3186.6.9 = {
+		birth = yes
+	}
+	3213.3.10 = {
+		add_spouse = 217227 # Altun Begi
+	}
+	3239.5.9 = {
+		death = yes
+	}
+}
+217235 = {
+	name = Gunes # fictional
+	dynasty = 1051121 # Müjde
+	religion = vajrayana
+	culture = uyghur
+	father = 217232
+	mother = 217233
+	3184.7.15 = {
+		birth = yes
+	}
+	3226.3.6 = {
+		death = yes
+	}
+}
+217244 = {
+	name = TO_mU_r # fictional
+	dynasty = 1051121 # Müjde
+	religion = vajrayana
+	culture = uyghur
+	father = 217234
+	mother = 217227
+	3216.6.8 = {
+		birth = yes
+	}
+	3255.7.16 = {
+		death = yes
+	}
+}
+217245 = {
+	name = Irge # fictional
+	dynasty = 1051121 # Müjde
+	religion = vajrayana
+	culture = uyghur
+	father = 217234
+	mother = 217227
+	female = yes
+	3218.3.14 = {
+		birth = yes
+	}
+	3253.7.6 = {
+		death = yes
+	}
+}
+217250 = {
+	name  = MA_nglik # fictional
+	dynasty = 1051123 # Tapmish
+	religion = vajrayana
+	culture = uyghur
+	3197.5.10 = {
+		birth = yes
+	}
+	3245.11.15 = {
+		death = yes
+	}
+}
+217251 = {
+	name = Kuntuvdi # fictional
+	dynasty = 1051123 # Tapmish
+	religion = vajrayana
+	culture = uyghur
+	father = 217250
+	3222.4.17 = {
+		birth = yes
+	}
+	3280.5.9 = {
+		death = yes
+	}
+}
+217252 = {
+	name = Itlar # fictional
+	dynasty = 1051123 # Tapmish
+	religion = vajrayana
+	culture = uyghur
+	father = 217251
+	3246.12.22 = {
+		birth = yes
+	}
+	3273.3.9 = {
+		add_spouse = 217254
+	}
+	3293.5.7 = {
+		death = yes
+	}
+}
+217253 = {
+	name = O_zmish # fictional
+	dynasty = 1051123 # Tapmish
+	religion = vajrayana
+	culture = uyghur
+	father = 217252
+	mother = 217254
+	3280.10.3 = {
+		birth = yes
+	}
+	3303.5.3 = {
+		add_spouse = 217256
+	}
+	3341.5.3 = {
+		death = yes
+	}
+}
+217254 = {
+	name = Barchuq # fictional
+	religion = vajrayana
+	culture = uyghur
+	female = yes
+	3261.4.12 = {
+		birth = yes
+	}
+	3312.4.8 = {
+		death = yes
+	}
+}
+217255 = {
+	name = O_zlem # fictional
+	dynasty = 1051123 # Tapmish
+	religion = vajrayana
+	culture = uyghur
+	father = 217252
+	mother = 217254
+	female = yes
+	3277.4.10 = {
+		birth = yes
+	}
+	3315.5.9 = {
+		death = yes
+	}
+}
+217256 = {
+	name = Mala # fictional
+	religion = vajrayana
+	culture = uyghur
+	female = yes
+	3281.4.19 = {
+		birth = yes
+	}
+	3340.2.9 = {
+		death = yes
+	}
+}
+217257 = {
+	name = Adigh # fictional
+	dynasty = 1051123 # Tapmish
+	religion = vajrayana
+	culture = uyghur
+	father = 217253
+	mother = 217256
+	3306.6.15 = {
+		birth = yes
+	}
+	3351.9.22 = {
+		death = yes
+	}
+}
+217258 = {
+	name = Ayten # fictional
+	dynasty = 1051123 # Tapmish
+	religion = vajrayana
+	culture = uyghur
+	father = 217253
+	mother = 217256
+	female = yes
+	3308.3.11 = {
+		birth = yes
+	}
+	3341.2.12 = {
+		death = yes
+	}
+}
+166757 = {
+	name = "Bagha"
+	dynasty = 1040062 # Kulug
+	religion = "manichean"
+	culture = "uyghur"
+	2808.1.1 = {
+		birth = yes
+	}
+	2848.1.1 = {
+		death = yes
+	}
+}#minister who betrayed the Uyghur Empire to the Kyrgyz in 840
+166758 = {
+	name = "Paoi"
+	dynasty = 1045083 # Ediz
+	religion = "manichean"
+	culture = "uyghur"
+	father = 194191
+	2780.1.1 = {
+		birth = yes
+	}
+	2823.1.1 = {
+		death = yes
+	}
+}
+166759 = {
+	name = "KU_chlU_g" #Chungte
+	dynasty = 1045083 # Ediz
+	religion = "manichean"
+	culture = "uyghur"
+	father = 166758
+	2797.1.1 = {
+		birth = yes
+	}
+	2826.1.1 = {
+		death = yes
+	}
+}
+166760 = {
+	name = "Qasar"
+	dynasty = 1045083 # Ediz
+	religion = "manichean"
+	culture = "uyghur"
+	father = 166758
+	2800.1.1 = {
+		birth = yes
+	}
+	2834.1.1 = {
+		death = yes
+	}
+}
+166761 = {
+	name = "Hu"
+	dynasty = 1045083 # Ediz
+	religion = "manichean"
+	culture = "uyghur"
+	father = 166759
+	2813.1.1 = {
+		birth = yes
+	}
+	2841.1.1 = {
+		death = yes
+	}
+}
+166762 = {
+	name = "KO_l"
+	dynasty = 1040063 # Hosa
+	religion = "manichean"
+	culture = "uyghur"
+	2764.1.1 = {
+		birth = yes
+	}
+	2821.1.1 = {
+		death = yes
+	}
+}
+166763 = {
+	name = "KU_rebir" #Usurper of Uyghur Empire
+	dynasty = 1040063 # Hosa
+	religion = "manichean"
+	culture = "uyghur"
+	father = 166762
+	2791.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+166764 = {
+	name = "OrmI_zt"
+	dynasty = 1040063 # Hosa
+	religion = "manichean"
+	culture = "uyghur"
+	father = 166762
+	2796.1.1 = {
+		birth = yes
+	}
+	2848.1.1 = {
+		death = yes
+	}
+}
+166765 = {
+	name = "O_ge"
+	dynasty = 1045083 # Ediz
+	religion = "manichean"
+	culture = "uyghur"
+	father = 166758
+	2804.1.1 = {
+		birth = yes
+	}
+	2849.1.1 = {
+		death = yes
+	}
+}
+
+
+##Uyghur Kingdom of Qocho
+#166774 = {
+#	name = "Kutan"
+#	dynasty = 1045083 # Ediz
+#	religion = "manichean"
+#	culture = "uyghur"
+#	father = 166761
+#	2829.1.1 = {
+#		birth = yes
+#	}
+#	2850.1.1 = {
+#		dynasty = 1040065 # Idiqut
+#	}
+#	2875.1.1 = {
+#		death = yes
+#	}
+#}
+#166775 = {
+#	name = "BorC_"
+#	dynasty = 1045083 # Ediz
+#	religion = "manichean"
+#	culture = "uyghur"
+#	father = 166761
+#	2832.1.1 = {
+#		birth = yes
+#	}
+#	2850.1.1 = {
+#		dynasty = 1040065 # Idiqut
+#	}
+#	2862.1.1 = {
+#		religion = "nestorian"
+#	}
+#	2880.1.1 = {
+#		death = yes
+#	}
+#}
+#166776 = {
+#	name = "Arslan"
+#	dynasty = 1045083 # Ediz
+#	religion = "manichean"
+#	culture = "uyghur"
+#	father = 166774
+#	2847.1.1 = {
+#		birth = yes
+#	}
+#	2850.1.1 = {
+#		dynasty = 1040065 # Idiqut
+#	}
+#	2867.1.1 = {
+#		religion = "vajrayana"
+#	}
+#	2898.1.1 = {
+#		death = yes
+#	}
+#}
+#166777 = {
+#	name = "Tugor"
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166776
+#	2874.1.1 = {
+#		birth = yes
+#	}
+#	2918.1.1 = {
+#		death = yes
+#	}
+#}
+#166778 = {
+#	name = "KO_nC_ek"
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166777
+#	2896.1.1 = {
+#		birth = yes
+#	}
+#	2959.1.1 = {
+#		death = yes
+#	}
+#}
+#166779 = {
+#	name = "Etrek"
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166778
+#	2922.1.1 = {
+#		birth = yes
+#	}
+#	2990.1.1 = {
+#		death = yes
+#	}
+#}
+#166780 = {
+#	name = "Koza"
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166779
+#	2955.1.1 = {
+#		birth = yes
+#	}
+#	3012.1.1 = {
+#		death = yes
+#	}
+#}
+#166781 = {
+#	name = "Uzluk"
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166780
+#	2985.1.1 = {
+#		birth = yes
+#	}
+#	3056.1.1 = {
+#		death = yes
+#	}
+#}
+#166782 = {
+#	name = "Uzluk"
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166781
+#	3016.1.1 = {
+#		birth = yes
+#	}
+#	3066.1.1 = {
+#		death = yes
+#	}
+#}
+#166783 = {
+#	name = "Asalup"
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166782
+#	3041.1.1 = {
+#		birth = yes
+#	}
+#	3082.1.1 = {
+#		death = yes
+#	}
+#}
+#166784 = {
+#	name = "TO_rtogul"
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166783
+#	3062.1.1 = {
+#		birth = yes
+#	}
+#	3107.1.1 = {
+#		death = yes
+#	}
+#}
+#194400 = {
+#	name = "Peksen"
+#	female = yes
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166783
+#	3058.1.1 = {
+#		birth = yes
+#	}
+#	3107.1.1 = {
+#		death = yes
+#	}
+#}
+#166785 = {
+#	name = "Itlar"
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166784
+#	3089.1.1 = {
+#		birth = yes
+#	}
+#	3134.1.1 = {
+#		death = yes
+#	}
+#}
+#166786 = {
+#	name = "C_ilbu"
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166785
+#	3115.1.1 = {
+#		birth = yes
+#	}
+#	3167.1.1 = {
+#		death = yes
+#	}
+#}
+#166787 = {
+#	name = "U_ge"
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166786
+#	3146.1.1 = {
+#		birth = yes
+#	}
+#	3191.1.1 = {
+#		death = yes
+#	}
+#}
+#166788 = {
+#	name = "Atrak"
+#	dynasty = 1040065 # Idiqut
+#	religion = "vajrayana"
+#	culture = "uyghur"
+#	father = 166787
+#	3169.1.1 = {
+#		birth = yes
+#	}
+#	3208.1.1 = {
+#		death = yes
+#	}
+#}
+166789 = {
+	name = "Barchuq"
+	dynasty = 1040065 # Idiqut (changed to "Bilgä")
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = 302984
+	3192.1.1 = {
+		birth = yes
+	}
+	3237.1.1 = {
+		death = yes
+	}
+}
+166790 = {
+	name = "Qusmayin"
+	dynasty = 1040065 # Idiqut	(changed to "Bilgä")
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = 166789
+	3212.1.1 = {
+		birth = yes
+	}
+	3247.1.1 = {
+		death = yes
+	}
+}
+166791 = {
+	name = "Salun"
+	dynasty = 1040065 # Idiqut	(changed to "Bilgä")
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = 166789
+	3215.1.1 = {
+		birth = yes
+	}
+	3257.1.1 = {
+		death = yes
+	}
+}
+166792 = {
+	name = "Oghrunzh"
+	dynasty = 1040065 # Idiqut	(changed to "Bilgä")
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = 166790
+	3232.1.1 = {
+		birth = yes
+	}
+	3267.1.1 = {
+		death = yes
+	}
+}
+166793 = {
+	name = "Mamuraq"
+	dynasty = 1040065 # Idiqut	(changed to "Bilgä")
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = 166790
+	3234.1.1 = {
+		birth = yes
+	}
+	3268.1.1 = {
+		death = yes
+	}
+}
+166794 = {
+	name = "Qozhighar"
+	dynasty = 1040065 # Idiqut	(changed to "Bilgä")
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = 166790
+	3237.1.1 = {
+		birth = yes
+	}
+	3278.1.1 = {
+		death = yes
+	}
+}
+
+
+#Uyghur Kingdom of Qocho redux
+#Below, those not explicitly marked as fictional are historical
+#However, their specifics (DOB, family ties...) are mostly made up, as we only know when they ruled (if even that...)
+302970 = {
+	name = "Pangtele"
+	dynasty = 1045083 #Ediz
+	religion = manichean
+	culture = uyghur
+	2819.7.18 = {
+		birth = yes
+	}
+	2845.1.1 = {
+		dynasty = 1040065 #Bilgä
+	}
+	2866.10.1 = {
+		death = yes
+	}
+}
+302971 = {
+	name = "Peksen"	#fictional wife of Pangtele
+	female = yes
+	religion = manichean
+	culture = uyghur
+	2824.2.16 = {
+		birth = yes
+	}
+	2901.12.24 = {
+		death = yes
+	}
+}
+302972 = {
+	name = "Bokut"	#successor of Pangtele
+	dynasty = 1040065 #Bilgä
+	religion = manichean
+	culture = uyghur
+	father = 302970
+	mother = 302971
+	2841.6.5 = {
+		birth=yes
+	}
+	2867.1.1 = {
+		add_spouse=bodpa0246 #fictional to connect with General Baönhrom Barhé
+	}
+	2876.12.13 = {
+		death=yes
+	}
+}
+302973 = {
+	name = "BorC_"	#fictional brother of Bokut
+	dynasty = 1040065 #Bilgä
+	religion = manichean
+	culture = uyghur
+	father = 302970
+	mother = 302971
+	2842.8.30 = {
+		birth = yes
+	}
+	2894.7.1 = {
+		death = yes
+	}
+}
+302974 = {
+	name = "Irge"	#fictional sister of Bokut
+	female = yes
+	dynasty = 1040065 #Bilgä
+	religion = manichean
+	culture = uyghur
+	father = 302970
+	mother = 302971
+	2843.1.17 = {
+		birth = yes
+	}
+	2917.3.28 = {
+		death = yes
+	}
+}
+302975 = {
+	name = "Ilig"
+	dynasty = 1040065	#Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = uyghur0087 #fictional to connect gaps
+	2930.7.5 = {
+		birth = yes
+	}
+	2983.8.15 = {
+		death = yes
+	}
+}
+302976 = {
+	name = "Arslan"	#Ilig's successor
+	dynasty = 1040065	#Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = 302975
+	2953.4.17 = {
+		birth = yes
+	}
+	2998.11.3 = {
+		death = yes
+	}
+}
+302977 = {
+	name = "BU_gU_"	#Bügü, Arslan's successor
+	dynasty = 1040065	#Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = 302975
+	2958.1.12 = {
+		birth = yes
+	}
+	3009.10.29 = {
+		death = yes
+	}
+}
+302978 = {
+	name = "Alp_Arslan"	#Alp Arslan, Bügü's successor
+	dynasty = 1040065	#Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = 302977
+	2981.4.30 = {
+		birth = yes
+	}
+	3026.5.20 = {
+		death = yes
+	}
+}
+302979 = {
+	name = "KU_l"	#Kül, Alp Arslan's successor
+	dynasty = 1040065	#Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = 302978
+	3003.2.15 = {
+		birth = yes
+	}
+	3070.7.11 = {
+		death = yes
+	}
+}
+302980 = {
+	name = "U_ge"	#fictional
+	dynasty = 1040065	#Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = 302979
+	3024.9.27 = {
+		birth = yes
+	}
+	3063.1.6 = {
+		death = yes
+	}
+}
+302981 = {
+	name = "BU_gU_"	#Bügü, Kül's successor
+	dynasty = 1040065	#Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = 302980
+	3047.1.13 = {
+		birth = yes
+	}
+	3125.10.14 = {
+		death = yes
+	}
+}
+302982 = {
+	name = "Bilge"	#Bügü's successor
+	dynasty = 1040065	#Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = 302981
+	3072.9.21 = {
+		birth = yes
+	}
+	3132.5.17 = {
+		death = yes
+	}
+}
+302983 = {
+	name = "Kutan"	#fictional Qocho king, during history hole
+	dynasty = 1040065	#Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = uyghur0089 #fictional to connect gaps
+	3146.3.11 = {
+		birth = yes
+	}
+	3195.8.8 = {
+		death = yes
+	}
+}
+302984 = {
+	name = "Yur_Temur"	#Qocho king in 1193, after history hole
+	dynasty = 1040065	#Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = 302983
+	3169.3.11 = {
+		birth = yes
+	}
+	3210.12.14 = {
+		death = yes
+	}
+}
+#
+302985 = {
+	name = "Adigh"	#fictional
+	dynasty = 2001134	#Urulchiq
+	religion = manichean
+	culture = uyghur
+	2837.2.15 = {
+		birth = yes
+	}
+	2881.1.23 = {
+		death = yes
+	}
+}
+302986 = {
+	name = "Atrak"	#fictional
+	dynasty = 2001134	#Urulchiq
+	religion = manichean
+	culture = uyghur
+	father = 302985
+	2859.7.12 = {
+		birth = yes
+	}
+	2910.10.24 = {
+		death = yes
+	}
+}
+302987 = {
+	name = "MA_nglik"	#fictional
+	dynasty = 2001134	#Urulchiq
+	religion = vajrayana
+	culture = uyghur
+	3032.4.3 = {
+		birth = yes
+	}
+	3051.1.23 = {
+		add_spouse = 302988
+	}
+	3084.8.13 = {
+		death = yes
+	}
+}
+302988 = {
+	name = "Yildiz"	#fictional
+	female = yes
+	religion = vajrayana
+	culture = uyghur
+	3035.1.16 = {
+		birth = yes
+	}
+	3104.12.9 = {
+		death = yes
+	}
+}
+302989 = {
+	name = "Qutlugh"	#fictional
+	dynasty = 2001134	#Urulchiq
+	religion = vajrayana
+	culture = uyghur
+	father = 302987
+	mother = 302988
+	3054.10.24 = {
+		birth = yes
+	}
+	3104.7.15 = {
+		death = yes
+	}
+}
+302990 = {
+	name = "Sirma"	#fictional
+	female = yes
+	dynasty = 2001134	#Urulchiq
+	religion = vajrayana
+	culture = uyghur
+	father = 302987
+	mother = 302988
+	3055.1.28 = {
+		birth = yes
+	}
+	3111.6.14 = {
+		death = yes
+	}
+}
+302991 = {
+	name = "KO_nC_ek"	#fictional
+	dynasty = 2001134	#Urulchiq
+	religion = vajrayana
+	culture = uyghur
+	father = 302989
+	3080.12.15 = {
+		birth = yes
+	}
+	3141.4.5 = {
+		death = yes
+	}
+}
+302992 = {
+	name = "Sokal"	#fictional
+	dynasty = 2001134	#Urulchiq
+	religion = vajrayana
+	culture = uyghur
+	father = 302991
+	3102.11.27 = {
+		birth = yes
+	}
+	3151.3.16 = {
+		death = yes
+	}
+}
+302993 = {
+	name = "Qutlugh"	#fictional
+	dynasty = 2001134	#Urulchiq
+	religion = vajrayana
+	culture = uyghur
+	father = 302992
+	3128.8.9 = {
+		birth = yes
+	}
+	3193.2.14 = {
+		death = yes
+	}
+}
+302994 = {
+	name = "Barchuq"	#fictional
+	dynasty = 2001134	#Urulchiq
+	religion = vajrayana
+	culture = uyghur
+	father = 302993
+	3149.3.19 = {
+		birth = yes
+	}
+	3199.2.20 = {
+		death = yes
+	}
+}
+#
+302995 = {
+	name = "SirC_an"	#fictional
+	dynasty = 2001133	#Altaigaas
+	religion = vajrayana
+	culture = uyghur
+	2847.3.1 = {
+		birth = yes
+	}
+	2905.5.19 = {
+		death = yes
+	}
+}
+302996 = {
+	name = "C_ilbu"	#fictional
+	dynasty = 2001133	#Altaigaas
+	religion = vajrayana
+	culture = uyghur
+	3019.2.20 = {
+		birth = yes
+	}
+	3066.1.29 = {
+		death = yes
+	}
+}
+302997 = {
+	name = "Sotan"	#fictional
+	dynasty = 2001133	#Altaigaas
+	religion = vajrayana
+	culture = uyghur
+	father = 302996
+	3045.4.18 = {
+		birth = yes
+	}
+	3096.11.4 = {
+		death = yes
+	}
+}
+302998 = {
+	name = "Tugor"	#fictional
+	dynasty = 2001133	#Altaigaas
+	religion = vajrayana
+	culture = uyghur
+	father = 302996
+	3047.12.17 = {
+		birth = yes
+	}
+	3099.4.9 = {
+		death = yes
+	}
+}
+302999 = {
+	name = "Uzluk"	#fictional
+	dynasty = 2001133	#Altaigaas
+	religion = vajrayana
+	culture = uyghur
+	father = 302997
+	3069.1.13 = {
+		birth = yes
+	}
+	3128.10.22 = {
+		death = yes
+	}
+}
+303000 = {
+	name = "Buqa"	#fictional
+	dynasty = 2001133	#Altaigaas
+	religion = vajrayana
+	culture = uyghur
+	father = 302999
+	3098.9.10 = {
+		birth = yes
+	}
+	3146.7.5 = {
+		death = yes
+	}
+}
+303001 = {
+	name = "Ilig"	#fictional
+	dynasty = 2001133	#Altaigaas
+	religion = vajrayana
+	culture = uyghur
+	father = 303000
+	3123.8.8 = {
+		birth = yes
+	}
+	3174.3.29 = {
+		death = yes
+	}
+}
+303002 = {
+	name = "Uzluk"	#fictional
+	dynasty = 2001133	#Altaigaas
+	religion = vajrayana
+	culture = uyghur
+	father = 303001
+	3145.5.1 = {
+		birth = yes
+	}
+	3198.8.26 = {
+		death = yes
+	}
+}
+#
+303003 = {
+	name = "C_or"	#fictional
+	dynasty = 2001135	#Bögün
+	religion = vajrayana
+	culture = uyghur
+	2854.6.18 = {
+		birth = yes
+	}
+	2906.9.15 = {
+		death = yes
+	}
+}
+303004 = {
+	name = "Kubasar"	#fictional
+	dynasty = 2001135	#Bögün
+	religion = vajrayana
+	culture = uyghur
+	3047.11.8 = {
+		birth = yes
+	}
+	3095.4.13 = {
+		death = yes
+	}
+}
+303005 = {
+	name = "KU_l"	#fictional
+	dynasty = 2001135	#Bögün
+	religion = vajrayana
+	culture = uyghur
+	father = 303004
+	3071.2.25 = {
+		birth = yes
+	}
+	3122.6.16 = {
+		death = yes
+	}
+}
+303006 = {
+	name = "Adigh"	#fictional
+	dynasty = 2001135	#Bögün
+	religion = vajrayana
+	culture = uyghur
+	father = 303005
+	3096.10.29 = {
+		birth = yes
+	}
+	3146.2.11 = {
+		death = yes
+	}
+}
+303007 = {
+	name = "SevenC_"	#fictional
+	dynasty = 2001135	#Bögün
+	religion = vajrayana
+	culture = uyghur
+	father = 303006
+	3124.1.30 = {
+		birth = yes
+	}
+	3170.9.26 = {
+		death = yes
+	}
+}
+303008 = {
+	name = "Kubasar"	#fictional
+	dynasty = 2001135	#Bögün
+	religion = vajrayana
+	culture = uyghur
+	father = 303007
+	3151.4.18 = {
+		birth = yes
+	}
+	3211.7.10 = {
+		death = yes
+	}
+}
+
+
+#Qocho Governor of Kumul/Hami - fictional placeholders
+uyghur0001 = {
+	name="Sugr"
+	dynasty=2003122 #Xungul
+	religion="nestorian"
+	culture="uyghur"
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+uyghur0002 = {
+	name="Bachman"
+	dynasty=2003122 #Xungul
+	religion="nestorian"
+	culture="uyghur"
+	father= uyghur0001
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+uyghur0003 = {
+	name="Qosqar"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0002
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+uyghur0004 = {
+	name="Uzluk"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0003
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+uyghur0005 = {
+	name="Kotyan"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0004
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+uyghur0006 = {
+	name="Begluk"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0005
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+uyghur0007 = {
+	name="Senggi"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0006
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+uyghur0008 = {
+	name="Pulad"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0007
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+uyghur0009 = {
+	name="Arslan"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0008
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+uyghur0010 = {
+	name="Etrek"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0009
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+uyghur0011 = {
+	name="Itlar"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0010
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+uyghur0012 = {
+	name="SirC_an"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0011
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+#Aksu vassals - fictional placeholders
+uyghur0013 = {
+	name = "Kubasar"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	2882.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		add_spouse = tocharian0002
+	}
+	2942.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0014 = {
+	name = "Ayasun"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0013
+	mother = tocharian0002
+	2902.1.1 = {
+		birth = yes
+	}
+	2962.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0015 = {
+	name = "C_ilbu"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0014
+	2922.1.1 = {
+		birth = yes
+	}
+	2982.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0016 = {
+	name = "Barchuq"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0015
+	2942.1.1 = {
+		birth = yes
+	}
+	3002.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0017 = {
+	name = "Itlar"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0016
+	2962.1.1 = {
+		birth = yes
+	}
+	3022.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0018 = {
+	name = "TO_rtogul"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0017
+	2982.1.1 = {
+		birth = yes
+	}
+	3042.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0019 = {
+	name = "MA_nglik"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0018
+	3002.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0020 = {
+	name = "Ilig"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0019
+	3022.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0021 = {
+	name = "Arslan"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0020
+	3042.1.1 = {
+		birth = yes
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0022 = {
+	name = "Kuntuvdi"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0021
+	3062.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0023 = {
+	name = "Kutan"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0022
+	3082.1.1 = {
+		birth = yes
+	}
+	3142.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0024 = {
+	name = "Adigh"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0023
+	3102.1.1 = {
+		birth = yes
+	}
+	3162.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0025 = {
+	name = "Atrak"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0024
+	3122.1.1 = {
+		birth = yes
+	}
+	3182.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0026 = {
+	name = "BO_nek"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0025
+	3142.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0027 = {
+	name = "Alp"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0026
+	3162.1.1 = {
+		birth = yes
+	}
+	3222.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0028 = {
+	name = "C_or"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0027
+	3182.1.1 = {
+		birth = yes
+	}
+	3242.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0029 = {
+	name = "Tolossu"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0028
+	3202.1.1 = {
+		birth = yes
+	}
+	3262.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0030 = {
+	name = "KO_nC_ek"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0029
+	3222.1.1 = {
+		birth = yes
+	}
+	3282.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0031 = {
+	name = "Bilge"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0030
+	3242.1.1 = {
+		birth = yes
+	}
+	3302.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0032 = {
+	name = "Sotan"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0031
+	3262.1.1 = {
+		birth = yes
+	}
+	3322.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0033 = {
+	name = "Togli"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0032
+	3282.1.1 = {
+		birth = yes
+	}
+	3342.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0034 = {
+	name = "Samur"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0033
+	3302.1.1 = {
+		birth = yes
+	}
+	3362.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0035 = {
+	name = "TO_mU_r"
+	dynasty = 2003126
+	religion = "mahayana"
+	culture = "uyghur"
+	father = uyghur0034
+	3322.1.1 = {
+		birth = yes
+	}
+	3382.1.1 = {
+		death = yes
+	}
+}
+
+#Karashar vassals - fictional placeholders
+uyghur0036 = {
+	name="Gunes"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	2842.1.1={
+		birth=yes
+	}
+	2861.1.1={
+		add_spouse=sogdian0004
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+uyghur0037 = {
+	name="O_zmish"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0036
+	mother=sogdian0004
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+uyghur0038 = {
+	name="Paoi"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0037
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+uyghur0039 = {
+	name="Qasar"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0038
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+uyghur0040 = {
+	name="KU_rebir"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0039
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+uyghur0041 = {
+	name="BorC_"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0040
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+uyghur0042 = {
+	name="Etrek"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0041
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+uyghur0043 = {
+	name="Tugor"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0042
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+uyghur0044 = {
+	name="O_ge"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0043
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+uyghur0045 = {
+	name="Peksen"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0044
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+uyghur0046 = {
+	name="Uzluk"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0045
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+uyghur0047 = {
+	name="Kutan"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0046
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+uyghur0048 = {
+	name="Koza"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0047
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+uyghur0049 = {
+	name="U_ge"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0048
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+uyghur0050 = {
+	name="Asalup"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0049
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+uyghur0051 = {
+	name="Atrak"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0050
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+uyghur0052 = {
+	name="Itlar"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0051
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+uyghur0053 = {
+	name="Barchuq"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0052
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+uyghur0054 = {
+	name="Kubasar"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0053
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+uyghur0055 = {
+	name="MA_nglik"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0054
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+uyghur0056 = {
+	name="BorC_"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0055
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+uyghur0057 = {
+	name="BU_gU_"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0056
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+uyghur0058 = {
+	name="Bokut"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0057
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+uyghur0059 = {
+	name="Asalup"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0058
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+uyghur0060 = {
+	name="Hu"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0059
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Kucha vassals - fictional placeholders
+uyghur0061 = {
+	name="Asalup"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	2842.1.1={
+		birth=yes
+	}
+	2868.1.1={
+		add_spouse=166717
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+uyghur0062 = {
+	name="Ayasun"
+	female=yes
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0061
+	mother=166717
+	2869.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+uyghur0063 = {
+	name="Bagha"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0061
+	mother=166717
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+uyghur0064 = {
+	name="Koza"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0063
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+uyghur0065 = {
+	name="Jakhangir"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0064
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+uyghur0066 = {
+	name="Nur"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0065
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+uyghur0067 = {
+	name="Merxat"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0066
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+uyghur0068 = {
+	name="Zordun"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0067
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+uyghur0069 = {
+	name="Shohrat"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0068
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+uyghur0070 = {
+	name="Turghun"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0069
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+uyghur0071 = {
+	name="Mahinur"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0070
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+uyghur0072 = {
+	name="Khoja"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0071
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+uyghur0073 = {
+	name="Gheni"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0072
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+uyghur0074 = {
+	name="Burhan"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0073
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+uyghur0075 = {
+	name="Subair"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0074
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+uyghur0076 = {
+	name="Yulbars"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0075
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+uyghur0077 = {
+	name="Perhat"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0076
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+uyghur0078 = {
+	name="Erkin"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0077
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+uyghur0079 = {
+	name="Tohti"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0078
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+uyghur0080 = {
+	name="TO_mU_r"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0079
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+uyghur0081 = {
+	name="Arslan"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0080
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+uyghur0082 = {
+	name="Bokut"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0081
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+uyghur0083 = {
+	name="Ilig"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0082
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+uyghur0084 = {
+	name="Alp"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0083
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+uyghur0085 = {
+	name="Qutlugh"
+	dynasty=2003129 #Kuchar
+	religion="vajrayana"
+	culture="uyghur"
+	father=uyghur0084
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Filling holes in Qocho ruler history - fictional placeholders
+uyghur0086 = {
+	name = "Art"	#fictional
+	dynasty = 1040065 #Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = 302972
+	mother = bodpa0246
+	2877.1.1 = {
+		birth=yes
+	}
+	2922.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0087 = {
+	name = "Irdimin"	#fictional
+	dynasty = 1040065 #Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = uyghur0086
+	2902.1.1 = {
+		birth=yes
+	}
+	2956.2.22 = {
+		death=yes
+	}
+}
+
+uyghur0088 = {
+	name = "Isen"
+	dynasty = 1040065	#Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = 302982
+	3102.1.1 = {
+		birth = yes
+	}
+	3132.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0089 = {
+	name = "TO_mU_r"
+	dynasty = 1040065	#Bilgä
+	religion = vajrayana
+	culture = uyghur
+	father = uyghur0088
+	3122.1.1 = {
+		birth = yes
+	}
+	3172.6.1 = {
+		death = yes
+	}
+}
+
+#Historical Late Qocho Kings (Turghun Almas, Uyghurlar (Almaty, 1992), vol. 1, pp. 180–85)
+uyghur0090 = {
+	name = "Nolen"
+	dynasty = 1040065 # Idiqut	(changed to "Bilgä")
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = 166794
+	3257.1.1 = {
+		birth = yes
+	}
+	3320.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0091 = {
+	name = "TO_mU_r_Buqa"
+	dynasty = 1040065 # Idiqut	(changed to "Bilgä")
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = uyghur0090
+	3274.1.1 = {
+		birth = yes
+	}
+	3329.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0092 = {
+	name = "Sunggi"
+	dynasty = 1040065 # Idiqut	(changed to "Bilgä")
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = uyghur0091
+	3292.1.1 = {
+		birth = yes
+	}
+	3333.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0093 = {
+	name = "Taypan"
+	dynasty = 1040065 # Idiqut	(changed to "Bilgä")
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = uyghur0092
+	3309.1.1 = {
+		birth = yes
+	}
+	3337.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0094 = {
+	name = "Yuelutiemur"
+	dynasty = 1040065 # Idiqut	(changed to "Bilgä")
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = uyghur0093
+	3326.1.1 = {
+		birth = yes
+	}
+	3355.1.1 = {
+		death = yes
+	}
+}
+
+uyghur0095 = {
+	name = "Sangge" #Last Qocho King
+	dynasty = 1040065 # Idiqut	(changed to "Bilgä")
+	religion = "vajrayana"
+	culture = "uyghur"
+	father = uyghur0094
+	3344.1.1 = {
+		birth = yes
+	}
+	3376.1.1 = {
+		death = yes
+	}
+}
+
+#Charkliq vassals - fictional placeholders
+uyghur0096 = {
+	name="Nur"
+	dynasty=2003131	#Charkliq
+	religion=manichean
+	culture=uyghur
+	2842.1.1 = {
+		birth=yes
+	}
+	2860.1.1 = {
+		add_spouse=sogdian0006
+	}
+	2902.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0097 = {
+	name="Sunggi"
+	dynasty=2003131	#Charkliq
+	religion=manichean
+	culture=uyghur
+	father=uyghur0096
+	mother=sogdian0006
+	2862.1.1 = {
+		birth=yes
+	}
+	2922.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0098 = {
+	name="Ertekin"
+	dynasty=2003131	#Charkliq
+	religion=manichean
+	culture=uyghur
+	father=uyghur0097
+	2882.1.1 = {
+		birth=yes
+	}
+	2942.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0099 = {
+	name="Kopti"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0098
+	2902.1.1 = {
+		birth=yes
+	}
+	2962.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0100 = {
+	name="Uzur"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0099
+	2922.1.1 = {
+		birth=yes
+	}
+	2982.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0101 = {
+	name="Bachman"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0100
+	2942.1.1 = {
+		birth=yes
+	}
+	3002.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0102 = {
+	name="Tolun"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0101
+	2962.1.1 = {
+		birth=yes
+	}
+	3022.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0103 = {
+	name="Etrek"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0102
+	2982.1.1 = {
+		birth=yes
+	}
+	3042.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0104 = {
+	name="Bonyak"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0103
+	3002.1.1 = {
+		birth=yes
+	}
+	3062.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0105 = {
+	name="SirC_an"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0104
+	3022.1.1 = {
+		birth=yes
+	}
+	3082.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0106 = {
+	name="Begluk"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0105
+	3042.1.1 = {
+		birth=yes
+	}
+	3102.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0107 = {
+	name="Asep"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0106
+	3062.1.1 = {
+		birth=yes
+	}
+	3122.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0108 = {
+	name="Pulad"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0107
+	3082.1.1 = {
+		birth=yes
+	}
+	3142.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0109 = {
+	name="Pan"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0108
+	3102.1.1 = {
+		birth=yes
+	}
+	3162.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0110 = {
+	name="O_zmish"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0109
+	3122.1.1 = {
+		birth=yes
+	}
+	3182.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0111 = {
+	name="Atrak"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0110
+	3142.1.1 = {
+		birth=yes
+	}
+	3202.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0112 = {
+	name="Nur"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0111
+	3162.1.1 = {
+		birth=yes
+	}
+	3222.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0113 = {
+	name="Girgen"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0112
+	3182.1.1 = {
+		birth=yes
+	}
+	3242.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0114 = {
+	name="Tugor"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0113
+	3202.1.1 = {
+		birth=yes
+	}
+	3262.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0115 = {
+	name="Yur"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0114
+	3222.1.1 = {
+		birth=yes
+	}
+	3282.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0116 = {
+	name="Isen"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0115
+	3242.1.1 = {
+		birth=yes
+	}
+	3302.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0117 = {
+	name="Bars"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0116
+	3262.1.1 = {
+		birth=yes
+	}
+	3322.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0118 = {
+	name="KU_l"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0117
+	3282.1.1 = {
+		birth=yes
+	}
+	3342.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0119 = {
+	name="Sugr"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0118
+	3302.1.1 = {
+		birth=yes
+	}
+	3362.1.1 = {
+		death=yes
+	}
+}
+
+uyghur0120 = {
+	name="Barchuq"
+	dynasty=2003131	#Charkliq
+	religion=vajrayana
+	culture=uyghur
+	father=uyghur0119
+	3322.1.1 = {
+		birth=yes
+	}
+	3382.1.1 = {
+		death=yes
+	}
+}
+
+#Kumul extended
+uyghur0121 = {
+	name="Dilraba"
+	female=yes
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0010
+	3052.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+uyghur0122 = {
+	name="Kozel"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0012
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+uyghur0123 = {
+	name="MA_nglik"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0122
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+uyghur0124 = {
+	name="EldeC_yuk"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0123
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+uyghur0125 = {
+	name="Togli"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0124
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+uyghur0126 = {
+	name="Buqa"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0125
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+uyghur0127 = {
+	name="Alp"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0126
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+uyghur0128 = {
+	name="C_ilbu"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0127
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+uyghur0129 = {
+	name="Wushour"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0128
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+uyghur0130 = {
+	name="C_or"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0129
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+uyghur0131 = {
+	name="Shoukhrat"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0130
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+uyghur0132 = {
+	name="Zunun"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0131
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+uyghur0133 = {
+	name="Adili"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0132
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+uyghur0134 = {
+	name="Ilzat"
+	dynasty=2003122 #Xungul
+	religion="mahayana"
+	culture="uyghur"
+	father= uyghur0133
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+uyghur0135 = {
+	name="Arslan"
+	dynasty=2003128 #Yenki
+	religion="mahayana"
+	culture="uyghur"
+	father=uyghur0047
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}

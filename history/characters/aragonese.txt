@@ -1,0 +1,1246 @@
+﻿70231 = {
+	name = "Pero" # Pedro (I) Sánchez de Aragón
+	dynasty_house = house_jimena_aragon
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "aragonese"
+	trait = brave
+	trait = education_martial_2
+	father = 110500
+	mother = 110501
+	
+	3070.1.1 = {
+		birth = "3070.1.1"
+	}
+	3090.1.1 = {
+		add_spouse = 127036
+		effect = {
+			add_trait = lifestyle_blademaster
+			add_trait_xp = {
+				trait = lifestyle_blademaster
+				value = {
+					integer_range = {
+						min = small_lifestyle_random_xp_low
+						max = small_lifestyle_random_xp_high
+					}
+				}
+			}
+		}
+	}
+	3099.8.16 = {
+		add_spouse = 70878
+	}
+	3106.9.27 = {
+		death = "3106.9.27"
+	}
+}
+
+70232 = {
+	name = "Alifonso" # Alfonso (I) Sánchez de Aragón 'el Batallador'
+	dynasty_house = house_jimena_aragon
+	martial = 8
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "aragonese"
+	trait = brave
+	trait = lifestyle_hunter
+	trait = education_martial_4
+	father = 110500
+	mother = 71589
+	3084.1.1 = {
+		birth = "3084.1.1"
+	}
+	3111.10.1 = {
+		add_spouse = 207660
+	}
+	3113.9.17 = {
+		add_pressed_claim = title:k_castille
+		add_pressed_claim = title:d_castilla
+		add_pressed_claim = title:d_toledo
+	}
+	3116.1.1 = {
+		remove_spouse = 207660
+		remove_claim = title:k_castille
+		remove_claim = title:d_castilla
+		remove_claim = title:d_toledo
+	}
+	3120.12.1 = {
+	capital = c_zaragoza
+	}
+	3136.9.7 = {
+		death = "3136.9.7"
+	}
+}
+
+70233 = {
+	name = "Remiro" # Ramiro (II) Sánchez de Aragón 'el Monje'
+	dynasty_house = house_jimena_aragon
+	martial = 3
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "aragonese"
+	trait = chaste
+	trait = scholar
+	trait = education_learning_3
+	father = 110500
+	mother = 71589
+	3088.1.1 = {
+		birth = "3088.1.1"
+	}
+	3136.9.7 = {
+		give_nickname = nick_the_monk
+		capital = c_zaragoza
+	}
+	3137.1.1 = {
+		add_spouse = 7623
+	}
+	3139.1.1 = {
+		remove_spouse = 7623
+	}
+	3159.8.16 = {
+		death = "3159.8.16"
+	}
+}
+
+71381 = {
+	name = "Sancha" # Sancha de Risnel
+	dynasty = 8780
+	female = yes
+	religion = "catholic"
+	culture = "aragonese"
+	father = 71380
+	mother = 207654
+	3138.1.1 = {
+		birth = "3138.1.1"
+	}
+	3196.1.1 = {
+		death = "3196.1.1"
+	}
+}
+
+71581 = {
+	name = "Talesa" # Teresa Sánchez de Aragón
+	female = yes
+	dynasty_house = house_jimena_aragon
+
+	father = 110515
+	mother = 71587
+
+	religion = catholic
+	culture = aragonese
+
+	3072.1.1 = {
+		birth = yes
+	}
+	3157.11.1 = {
+		death = yes
+	}
+}
+
+71582 = {
+	name = "Pero" # Pedro Sánchez de Aragón
+	dynasty_house = house_jimena_aragon
+
+	father = 110515
+	mother = 71580
+
+	religion = catholic
+	culture = aragonese
+
+	3069.1.1 = {
+		birth = yes
+	}
+	3104.1.1 = {
+		death = yes
+	}
+}
+
+71583 = {
+	name = "GarcI_a" # García Sánchez de Aragón
+	dynasty_house = house_jimena_aragon
+
+	father = 110515
+	mother = 71580
+
+	religion = catholic
+	culture = aragonese
+
+	3070.1.1 = {
+		birth = yes
+	}
+	3098.1.1 = {
+		add_spouse = 71584
+	}
+	3130.1.1 = {
+		death = yes
+	}
+}
+
+71585 = {
+	name = "Pero" # Pedro García de Aragón
+	dynasty_house = house_jimena_aragon
+
+	father = 71583
+	mother = 71584
+
+	religion = catholic
+	culture = aragonese
+
+	3101.1.1 = {
+		birth = yes
+	}
+	3153.3.21 = {
+		death = yes
+	}
+}
+
+71586 = {
+	name = "Lope" # Lope García de Aragón
+	dynasty_house = house_jimena_aragon
+
+	father = 71583
+	mother = 71584
+
+	religion = catholic
+	culture = aragonese
+
+	3099.1.1 = {
+		birth = yes
+	}
+	3126.1.1 = {
+		death = yes
+	}
+}
+
+71588 = {
+	name = "Beatriz" # Beatriz Sánchez de Aragón
+	female = yes
+	dynasty_house = house_jimena_aragon
+
+	father = 110515
+	mother = 71587
+
+	religion = catholic
+	culture = aragonese
+
+	3074.1.1 = {
+		birth = yes
+	}
+	3118.1.1 = {
+		death = yes
+	}
+}
+
+71590 = {
+	name = "Isabela" # Isabel Pérez de Aragón
+	dynasty_house = house_jimena_aragon
+	female = yes
+	religion = "catholic"
+	culture = "aragonese"
+	father = 70231
+	mother = 127036
+	3094.1.1 = {
+		birth = "3094.1.1"
+	}
+	3106.1.1 = {
+		death = "3106.1.1"
+	}
+}
+
+71591 = {
+	name = "Ferrando" # Fernando Sánchez de Aragón
+	dynasty_house = house_jimena_aragon
+	religion = "catholic"
+	culture = "aragonese"
+	father = 110500
+	mother = 71589
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3088.1.1 = {
+		death = "3088.1.1"
+	}
+}
+
+71592 = {
+	name = "GarcI_a" # García Sánchez de Aragón
+	dynasty_house = house_jimena_aragon
+	religion = "catholic"
+	culture = "aragonese"
+	trait = bastard
+	trait = education_learning_1
+	father = 110500
+	3080.1.1 = {
+		birth = "3080.1.1"
+	}
+	3135.1.1 = {
+		death = "3135.1.1"
+	}
+}
+
+71719 = {
+	name = "Ferrando" # Fernando Sánchez de Aragón
+	dynasty = 7033
+
+	father = 200106
+	mother = 200107
+
+	religion = catholic
+	culture = aragonese
+
+	3295.1.1 = {
+		birth = yes
+	}
+	3324.1.1 = {
+		add_spouse = 71711
+	}
+	3343.1.1 = {
+		death = yes
+	}
+}
+
+71734 = {
+	name = "Talesa" # Teresa Artal de Alagón, spouse of Alfons de Híjar
+	dynasty = 8685
+	female = yes
+	religion = catholic
+	culture = aragonese
+	father = 71735
+	
+	3313.1.1 = {
+		birth = yes
+	}
+	3338.1.1 = {
+		death = yes
+	}
+}
+
+71735 = {
+	name = "Artal" # Artal de Alagón
+	dynasty = 8685
+	religion = catholic
+	culture = aragonese
+	father = aragonese0002
+	
+	3281.1.1 = {
+		birth = yes
+	}
+	3325.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+71736 = {
+	name = "Blasco" # Velasco Artal de Alagón
+	dynasty = 8685
+	religion = catholic
+	culture = aragonese
+	father = 71735
+	
+	3310.1.1 = {
+		birth = yes
+	}
+	3322.1.1 = {
+		add_spouse = 71732
+	}
+	3360.1.1 = {
+		death = yes
+	}
+}
+
+71743 = {
+	name = "Artal" # Artal López de Luna
+	dynasty = 7033
+	
+	father = 200106
+	mother = 200107
+	
+	religion = catholic
+	culture = aragonese
+	
+	3282.1.1 = {
+		birth = yes
+	}
+	3332.1.1 = {
+		death = yes
+	}
+}
+
+71978 = {
+	name = "MarI_a" # María Artal de Luna
+	dynasty = 7033
+	female = yes
+	religion = "catholic"
+	culture = "aragonese"
+	father = 71743
+	mother = 71742
+	3303.1.1 = {
+		birth = "3303.1.1"
+	}
+	3349.1.1 = {
+		death = "3349.1.1"
+	}
+}
+
+200106 = {
+	name = "Lope" # Lope de Luna
+	dynasty = 7033
+
+	religion = catholic
+	culture = aragonese
+
+	3254.1.1 = {
+		birth = yes
+	}
+	3281.1.1 = {
+		add_spouse = 200107
+	}
+	3302.8.1 = {
+		death = yes
+	}
+}
+
+200107 = {
+	name = "MarI_a"
+	female = yes
+
+	religion = catholic
+	culture = aragonese
+
+	3262.1.1 = {
+		birth = yes
+	}
+	3327.1.1 = {
+		death = yes
+	}
+}
+
+210507 = {
+	name = "Peironela" # Petronila (I) Ramírez de Aragón
+	female = yes
+	dynasty_house = house_jimena_aragon
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "aragonese"
+	trait = education_intrigue_1
+	father = 70233
+	mother = 7623
+	3138.7.29 = {
+		birth = "3138.7.29"
+	}
+	3176.10.16 = {
+		death = "3176.10.16"
+	}
+}
+
+aragonese0001 = {
+	name = "Blasco" # Blasco d'Alagona 'the Old'
+	dynasty = 8685
+	religion = "catholic"
+	culture = "aragonese"
+	father = aragonese0002
+	trait = education_intrigue_1
+	
+	3258.1.1 = {
+		birth = yes
+	}
+	3281.1.1 = {
+		add_spouse = 30793
+		dynasty_house = house_alagona
+	}
+	3304.1.1 = {
+		death = yes
+	}
+}
+
+aragonese0002 = {
+	name = "Artal" # Artal de Alagón
+	dynasty = 8685
+	religion = "catholic"
+	culture = "aragonese"
+	trait = education_stewardship_3
+	
+	3230.1.1 = {
+		birth = yes
+	}
+	3297.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+42023 = {
+	name = "Gonzalo" # Gonzalo Sánchez, Count of Sobrarbe (1035-1045)
+	dynasty = 442 # Jimena Dynasty
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 3
+	religion = catholic
+	culture = aragonese
+	trait = wrathful
+	trait = education_diplomacy_2
+
+	father = 106030 # King Sancho III of Navarra (basque.txt)
+	mother = 107650 # Queen Muniadona Sánchez (castilian.txt)
+
+	3022.1.1 = {
+		birth = yes
+	}
+	3047.6.26 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+
+70231 = {
+	name = "Pero" # Pedro (I) Sánchez de Aragón, King of Aragon & Navarra (1094-1104) & Count of Alto Aragon (1094-1104)
+	dynasty_house = house_jimena_aragon # House of Aragón (Jimena)
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 6
+	religion = catholic
+	culture = aragonese
+	trait = brave
+	trait = education_martial_2
+
+	father = 110500 # King Sancho I of Aragon
+	mother = 110501 # Queen Isabel d'Urgell (catalan.txt)
+ 
+	3070.1.1 = {
+		birth = yes
+	}
+	3090.12.1 = {
+		add_spouse = 127036 # Ainès de Poitou (occitan.txt)
+		effect = {
+			add_trait = lifestyle_blademaster
+			add_trait_xp = {
+				trait = lifestyle_blademaster
+				value = {
+					integer_range = {
+						min = small_lifestyle_random_xp_low
+						max = small_lifestyle_random_xp_high
+					}
+				}
+			}
+		}
+	}
+	3099.8.16 = {
+		add_spouse = 70878 # Bertha de Savoie (french.txt)
+	}
+	3106.9.28 = {
+		death = yes
+	}
+}
+
+70232 = {
+	name = "Alifonso" # Alfonso (I) Sánchez de Aragón 'el Batallador', King of Aragon & Navarra (1104-1134) & Count of Alto Aragón (1104-1134) & Zaragoza (1118-1134)
+	dynasty_house = house_jimena_aragon # House of Aragón (Jimena)
+	martial = 8
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = catholic
+	culture = aragonese
+	trait = brave
+	trait = lifestyle_hunter
+	trait = education_martial_4
+
+	father = 110500 # King Sancho I of Aragon
+	mother = 71589 # Felice de Ramerupt (french.txt)
+
+	3075.1.1 = {
+		birth = yes
+	}
+	3111.10.1 = {
+		add_spouse = 207660 # Queen Urraca of Castille (castilian.txt)
+	}
+	3113.9.17 = {
+		add_pressed_claim = title:k_castille
+		add_pressed_claim = title:d_castilla
+		add_pressed_claim = title:d_toledo
+	}
+	3117.1.1 = {
+		remove_spouse = 207660
+		remove_claim = title:k_castille
+		remove_claim = title:d_castilla
+		remove_claim = title:d_toledo
+	}
+	3120.12.1 = {
+		capital = c_zaragoza
+	}
+	3136.9.7 = {
+		death = {
+			death_reason = death_wounds
+		}
+	}
+}
+
+70233 = {
+	name = "Remiro" # Ramiro (II) Sánchez de Aragón 'el Monje', King of Aragon (1134-1157), Count of Alto Aragón & Zaragoza (1134-1157)
+	dynasty_house = house_jimena_aragon # House of Aragón (Jimena)
+	martial = 3
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 8
+	religion = catholic
+	culture = aragonese
+	trait = chaste
+	trait = scholar
+	trait = devoted
+	trait = education_learning_3
+
+	father = 110500 # King Sancho I of Aragon
+	mother = 71589 # Queen Felice de Ramerupt (french.txt)
+
+	3088.4.24 = {
+		birth = yes
+	}
+	3136.9.7 = {
+		give_nickname = nick_the_monk
+		capital = c_zaragoza
+	}
+	3137.11.13 = {
+		add_spouse = 7623 # Ainès de Poitou (occitan.txt)
+	}
+	3138.12.1 = {
+		remove_spouse = 7623
+	}
+	3159.8.16 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+71532 = {
+	name = "Pedro" # Pedro Pérez de Aragón
+	dynasty_house = house_jimena_aragon # House of Aragón
+	religion = catholic
+	culture = aragonese
+ 
+	father = 70231 # King Pedro I of Aragón
+	mother = 127036 # Ainès de Poitou
+
+	3091.1.1 = {
+		birth = yes
+	}
+	3106.2.1 = {
+		death = yes
+	}
+}
+
+71581 = {
+	name = "Talesa" # Teresa Sánchez de Aragón
+	female = yes
+	dynasty_house = house_jimena_aragon # House of Aragón (Jimena)
+	religion = catholic
+	culture = aragonese
+	trait = education_stewardship_3
+
+	father = 110515 # Sancho Ramírez de Aragón
+	mother = 71580 # Beatritz (basque.txt)
+
+	3069.1.1 = {
+		birth = yes
+	}
+	3157.11.1 = {
+		death = yes
+	}
+}
+
+71582 = {
+	name = "Pero" # Pedro Sánchez de Aragón
+	dynasty_house = house_jimena_aragon # House of Aragón (Jimena)
+	religion = catholic
+	culture = aragonese
+
+	father = 110515 # Sancho Ramírez de Aragón
+	mother = 71580 # Beatritz (basque.txt)
+
+	3065.1.1 = {
+		birth = yes
+	}
+	3081.1.1 = {
+		trait = education_martial_1
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+
+71583 = {
+	name = "GarcI_a" # García Sánchez de Atarés
+	dynasty_house = house_jimena_aragon # House of Aragón (Jimena)
+	religion = catholic
+	culture = aragonese
+
+	father = 110515 # Sancho Ramírez de Aragón
+	mother = 71580 # Beatritz (basque.txt)
+
+	3063.1.1 = {
+		birth = yes
+	}
+	3079.1.1 = {
+		trait = education_martial_1
+	}
+	3084.1.1 = {
+		add_spouse = 71584 # Teresa Cajal (basque.txt)
+	}
+	3107.5.1 = {
+		dynasty_house = house_atares # House of Atarés, Founder
+	}
+	3130.1.1 = {
+		death = yes
+	}
+}
+
+71584 = {
+	name = "Teresa" # Teresa, wife of García Sánchez de Atarés (71583)
+	female = yes
+	religion = catholic
+	culture = aragonese
+
+	3067.1.1 = {
+		birth = yes
+		employer = 110500 # King Sancho I of Aragón
+	}
+	3083.1.1 = {
+		trait = education_stewardship_1
+	}
+	3138.1.1 = {
+		death = yes
+	}
+}
+
+71585 = {
+	name = "Pero" # Pedro García de Atarés
+	dynasty_house = house_atares # House of Atarés
+	religion = catholic
+	culture = aragonese
+	trait = education_intrigue_2
+
+	father = 71583 # García Sánchez de Atarés
+	mother = 71584 # Teresa Cajal (basque.txt)
+
+	3085.1.1 = {
+		birth = yes
+	}
+	3154.2.21 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+71586 = {
+	name = "Lope" # Lope García de Atarés
+	dynasty_house = house_atares # House of Atarés
+	religion = catholic
+	culture = aragonese
+	trait = education_martial_2
+
+	father = 71583 # García Sánchez de Atarés
+	mother = 71584 # Teresa Cajal (basque.txt)
+
+	3086.1.1 = {
+		birth = yes
+	}
+	3126.1.1 = {
+		death = yes
+	}
+}
+
+71588 = {
+	name = "Beatriz" # Beatriz Sánchez de Aragón
+	female = yes
+	dynasty_house = house_jimena_aragon # House of Aragón (Jimena)
+	religion = catholic
+	culture = aragonese
+	trait = education_diplomacy_1
+
+	father = 110515 # Sancho Ramírez de Aragón
+	mother = 71587 # Talesa (occitan.txt)
+
+	3071.1.1 = {
+		birth = yes
+	}
+	3118.1.1 = {
+		death = yes
+	}
+}
+
+71590 = {
+	name = "Isabela" # Isabel Pérez de Aragón
+	dynasty_house = house_jimena_aragon # House of Aragón (Jimena)
+	female = yes
+	religion = catholic
+	culture = aragonese
+
+	father = 70231 # King Pedro I of Aragon
+	mother = 127036 # Queen Ainés de Poitou (occitan.txt)
+
+	3093.1.1 = {
+		birth = yes
+	}
+	3105.1.1 = {
+		death = yes
+	}
+}
+
+71591 = {
+	name = "Ferrando" # Fernando Sánchez de Aragón
+	dynasty_house = house_jimena_aragon # House of Aragón (Jimena)
+	religion = catholic
+	culture = aragonese
+
+	father = 110500 # King Sancho I of Aragon
+	mother = 71589 # Queen Felicie de Ramerupt (french.txt)
+
+	3073.1.1 = {
+		birth = yes
+	}
+	3088.1.1 = {
+		death = yes
+	}
+}
+
+71719 = {
+	name = "Ferrando" # Fernando López de Luna
+	dynasty = 7033
+	religion = catholic
+	culture = aragonese
+
+	father = 200106 # Lope de Luna
+	mother = 200107 # María
+
+	3295.1.1 = {
+		birth = yes
+	}
+	3324.1.1 = {
+		add_spouse = 71711 # Blanca de Ayerbe (catalan.txt)
+	}
+	3343.1.1 = {
+		death = yes
+	}
+}
+
+71734 = {
+	name = "Talesa" # Teresa Artal de Alagón, spouse of Alfons de Híjar (71731 - catalan.txt)
+	dynasty = 8685
+	female = yes
+	religion = catholic
+	culture = aragonese
+
+	father = 71735
+ 
+	3313.1.1 = {
+		birth = yes
+	}
+	3338.1.1 = {
+		death = yes
+	}
+}
+
+71735 = {
+	name = "Artal" # Artal (V) Artález de Alagón
+	dynasty = 8685
+	religion = catholic
+	culture = aragonese
+
+	father = aragonese0002
+ 
+	3281.1.1 = {
+		birth = yes
+	}
+	3325.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+71736 = {
+	name = "Blasco" # Blasco (III) Artález de Alagón
+	dynasty = 8685
+	religion = catholic
+	culture = aragonese
+
+	father = 71735 # Artal V Artález de Alagón
+ 
+	3310.1.1 = {
+		birth = yes
+	}
+	3327.1.1 = {
+		add_spouse = 71732 # Marquesa de Híjar (catalan.txt)
+	}
+	3387.1.1 = {
+		death = yes
+	}
+}
+
+71743 = {
+	name = "Artal" # Artal López de Luna
+	dynasty = 7033
+ 
+	father = 200106 # Lope de Luna
+	mother = 200107 # María
+ 
+	religion = catholic
+	culture = aragonese
+ 
+	3282.1.1 = {
+		birth = yes
+	}
+	3332.1.1 = {
+		death = yes
+	}
+}
+
+71978 = {
+	name = "MarI_a" # María Artal de Luna
+	dynasty = 7033
+	female = yes
+	religion = catholic
+	culture = aragonese
+
+	father = 71743
+	mother = 71742
+
+	3303.1.1 = {
+		birth = "3303.1.1"
+	}
+	3349.1.1 = {
+		death = "3349.1.1"
+	}
+}
+
+110500 = {
+	name = "Sancho" # Sancho (I & V) Ramírez de Aragón, King of Aragon (1063-1094) & Navarra (1076-1094), Count of Alto Aragón (1063-1094) & Navarra (1076-1094)
+	dna = 110500_sancho_of_aragon
+	dynasty_house = house_jimena_aragon
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = catholic
+	culture = aragonese
+	trait = education_intrigue_2
+
+	father = 110510 # King Ramiro I of Aragon
+	mother = 1077 # Queen Ermesentz de Foix (occitan.txt)
+
+	3044.1.1 = {
+		birth = yes
+	}
+	3067.1.1 = {
+		add_spouse = 110501 # Isabel d'Urgell
+	}
+	3072.1.1 = {
+		remove_spouse = 110501
+		add_spouse = 71589 # Felicie de Ramerupt (french.txt)
+	}
+	3096.6.4 = {
+		death = {
+			death_reason = death_siege
+		}
+	}
+}
+
+110510 = {
+	name = "Remiro" # Ramiro (I) Sánchez de Aragón, King of Aragon (1035-1063) & Count of Alto Aragón (1035-1063)
+	dynasty_house = house_jimena_aragon
+	martial = 6
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 5
+	religion = catholic
+	culture = aragonese
+	trait = legitimized_bastard
+	trait = deceitful
+	trait = greedy
+	trait = education_martial_1
+
+	father = 106030 # King Sancho III of Navarra (basque.txt)
+	mother = 106031 # Sancha de Aybar (basque.txt)
+
+	3010.1.1 = {
+		birth = yes
+	}
+	3038.8.22 = {
+		add_spouse = 1077 # Ermessentz de Foix (occitan.txt)
+	}
+	3065.5.8 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+
+110511 = {
+	name = "GarcI_a" # García Ramírez de Aragón, Bishop of Barbastro (1066-1086)
+	dynasty_house = house_jimena_aragon
+	martial = 8
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 8
+	religion = catholic
+	culture = aragonese
+	trait = scholar
+	trait = chaste
+	trait = education_learning_3
+
+	father = 110510 # King Ramiro I of Aragon
+	mother = 1077 # Queen Ermessentz de Foix (occitan.txt)
+
+	3048.1.1 = {
+		birth = yes
+	}
+	3065.5.8 = {
+		employer = 110500 # King Sancho I of Aragón
+		effect = {
+			add_trait = lifestyle_mystic
+			add_trait_xp = {
+				trait = lifestyle_mystic
+				value = {
+					integer_range = {
+						min = medium_lifestyle_random_xp_low
+						max = medium_lifestyle_random_xp_high
+					}
+				}
+			}
+		}
+	}
+	3088.7.17 = {
+		death = yes
+	}
+}
+
+110512 = {
+	name = "Talesa" # Teresa Ramírez de Aragón
+	female = yes
+	dynasty_house = house_jimena_aragon
+	martial = 4
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 8
+	religion = catholic
+	culture = aragonese
+	trait = generous
+	trait = education_stewardship_2
+
+	father = 110510 # King Ramiro I of Aragon
+	mother = 1077 # Queen Ermessentz de Foix (occitan.txt)
+
+	3039.5.1 = {
+		birth = yes
+	}
+	3054.1.1 = {
+		death = yes
+	}
+}
+
+110513 = {
+	name = "Urraca" # Urraca Ramírez de Aragón, Nun
+	female = yes
+	dynasty_house = house_jimena_aragon
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 6
+	religion = catholic
+	culture = aragonese
+	trait = arrogant
+	trait = devoted
+	trait = chaste
+	trait = education_learning_2
+
+	father = 110510 # King Ramiro I of Aragon
+	mother = 1077 # Queen Ermessentz de Foix (occitan.txt)
+
+	3049.1.1 = {
+		birth = yes
+	}
+	3065.5.8 = {
+		employer = 110500 # King Sancho I of Aragón
+	}
+	3079.1.1 = {
+		death = yes
+	}
+}
+
+110514 = {
+	name = "Sancha" # Sancha Ramírez de Aragón
+	female = yes
+	dynasty_house = house_jimena_aragon
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 8
+	religion = catholic
+	culture = aragonese
+	trait = calm
+	trait = education_diplomacy_2
+
+	father = 110510 # King Ramiro I of Aragon
+	mother = 1077 # Queen Ermessentz de Foix (occitan.txt)
+
+	3047.1.1 = {
+		birth = yes
+	}
+	3065.5.8 = {
+		employer = 110500 # King Sancho I of Aragón
+	}
+	3068.4.1 = {
+		# Regent for her young step-son, Ermengol of Urgell.
+		employer = 110550
+	}
+	3099.8.16 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+110515 = {
+	name = "Sancho" # Sancho Ramírez de Aragón
+	dynasty_house = house_jimena_aragon
+	religion = catholic
+	culture = aragonese
+	trait = education_stewardship_2
+
+	father = 110510 # King Ramiro I of Aragon
+	trait = legitimized_bastard
+
+	3045.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		add_spouse = 71580 # Beatriz (basque.txt)
+	}
+	3065.5.8 = {
+		employer = 110500 # King Sancho I of Aragon
+	}
+	3071.1.1 = {
+		add_spouse = 71587 # Talesa (occitan.txt)
+	}
+	3107.5.1 = {
+		trait = devoted
+	}
+	3112.11.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+200106 = {
+	name = "Lope" # Lope de Luna
+	dynasty = 7033
+
+	religion = catholic
+	culture = aragonese
+
+	3254.1.1 = {
+		birth = yes
+	}
+	3281.1.1 = {
+		add_spouse = 200107
+	}
+	3302.8.1 = {
+		death = yes
+	}
+}
+
+200107 = {
+	name = "MarI_a"
+	female = yes
+
+	religion = catholic
+	culture = aragonese
+
+	3262.1.1 = {
+		birth = yes
+	}
+	3327.1.1 = {
+		death = yes
+	}
+}
+
+210507 = {
+	name = "Peironela" # Petronila (I) Ramírez de Aragón, Queen of Aragon (1157-1164), Countess of Alto Aragón, Calatayud & Zaragoza (1157-1164)
+	female = yes
+	dynasty_house = house_jimena_aragon
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 7
+	religion = catholic
+	culture = aragonese
+	trait = education_intrigue_1
+
+	father = 70233 # King Ramiro II of Aragon
+	mother = 7623 # Queen Ainès de Poitou (occitan.txt)
+
+	3138.7.29 = {
+		birth = yes
+	}
+	3175.10.15 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+aragonese0001 = {
+	name = "Blasco" # Blasco Artález d'Alagona 'the Old'
+	dynasty = 8685
+	religion = catholic
+	culture = aragonese
+	trait = education_intrigue_1
+
+	father = aragonese0002
+ 
+	3258.1.1 = {
+		birth = yes
+	}
+	3281.1.1 = {
+		add_spouse = 30793
+		dynasty_house = house_alagona # House of Alagona, Founder
+	}
+	3304.1.1 = {
+		death = yes
+	}
+}
+
+aragonese0002 = {
+	name = "Artal" # Artal (IV) Blázquez de Alagón
+	dynasty = 8685
+	religion = catholic
+	culture = aragonese
+	trait = education_stewardship_3
+ 
+	3230.1.1 = {
+		birth = yes
+	}
+	3297.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}

@@ -1,0 +1,1310 @@
+﻿#kru characters
+
+#placeholders Tagbusi in for c_dabou
+kru0001 = {
+	name = "Didwho" #fictional
+	dynasty = krudyn001
+	religion = akom_pagan
+	culture = kru
+	2845.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		death = yes
+	}
+}
+kru0002 = {
+	name = "Wamah" #fictional
+	dynasty = krudyn001
+	religion = akom_pagan
+	culture = kru
+	father = kru0001
+	2882.1.1 = {
+		birth = yes
+	}
+	2952.1.1 = {
+		death = yes
+	}
+}
+kru0003 = {
+	name = "Forkay" #fictional
+	dynasty = krudyn001
+	religion = akom_pagan
+	culture = kru
+	father = kru0002
+	2932.1.1 = {
+		birth = yes
+	}
+	3007.1.1 = {
+		death = yes
+	}
+}
+kru0004 = {
+	name = "Boryee" #fictional
+	dynasty = krudyn001
+	religion = akom_pagan
+	culture = kru
+	father = kru0003
+	2992.1.1 = {
+		birth = yes
+	}
+	3060.1.1 = {
+		death = yes
+	}
+}
+kru0005 = {
+	name = "Boryee" #fictional
+	dynasty = krudyn001
+	religion = akom_pagan
+	culture = kru
+	father = kru0004
+	3042.1.1 = {
+		birth = yes
+	}
+	3104.1.1 = {
+		death = yes
+	}
+}
+kru0006 = {
+	name = "Wamah" #fictional
+	dynasty = krudyn001
+	religion = akom_pagan
+	culture = kru
+	father = kru0005
+	3080.1.1 = {
+		birth = yes
+	}
+	3138.1.1 = {
+		death = yes
+	}
+}
+kru0007 = {
+	name = "Didwho" #fictional
+	dynasty = krudyn001
+	religion = akom_pagan
+	culture = kru
+	father = kru0006
+	3119.1.1 = {
+		birth = yes
+	}
+	3180.1.1 = {
+		death = yes
+	}
+}
+kru0008 = {
+	name = "Wamah" #fictional
+	dynasty = krudyn001
+	religion = akom_pagan
+	culture = kru
+	father = kru0007
+	3161.1.1 = {
+		birth = yes
+	}
+	3223.1.1 = {
+		death = yes
+	}
+}
+kru0009 = {
+	name = "Didwho" #fictional
+	dynasty = krudyn001
+	religion = akom_pagan
+	culture = kru
+	father = kru0008
+	3204.1.1 = {
+		birth = yes
+	}
+	3265.1.1 = {
+		death = yes
+	}
+}
+kru0010 = {
+	name = "Forkay" #fictional
+	dynasty = krudyn001
+	religion = akom_pagan
+	culture = kru
+	father = kru0009
+	3242.1.1 = {
+		birth = yes
+	}
+	3307.1.1 = {
+		death = yes
+	}
+}
+
+#Bouake rulers in c_nzi
+kru0011 = {
+	name = "Dwe" #fictional
+	dynasty = krudyn002
+	religion = akom_pagan
+	culture = kru
+	2852.1.1 = {
+		birth = yes
+	}
+	2914.1.1 = {
+		death = yes
+	}
+}
+kru0012 = {
+	name = "Kpakelah" #fictional
+	dynasty = krudyn002
+	religion = akom_pagan
+	culture = kru
+	father = kru0011
+	2897.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+kru0013 = {
+	name = "Kpakelah" #fictional
+	dynasty = krudyn002
+	religion = akom_pagan
+	culture = kru
+	father = kru0012
+	2954.1.1 = {
+		birth = yes
+	}
+	3027.1.1 = {
+		death = yes
+	}
+}
+kru0014 = {
+	name = "Cammue" #fictional
+	dynasty = krudyn002
+	religion = akom_pagan
+	culture = kru
+	father = kru0013
+	3002.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+kru0015 = {
+	name = "Manhtee" #fictional
+	dynasty = krudyn002
+	religion = akom_pagan
+	culture = kru
+	father = kru0014
+	3040.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+kru0016 = {
+	name = "Manhtee" #fictional
+	dynasty = krudyn002
+	religion = akom_pagan
+	culture = kru
+	father = kru0015
+	3067.1.1 = {
+		birth = yes
+	}
+	3129.1.1 = {
+		death = yes
+	}
+}
+kru0017 = {
+	name = "Wamah" #fictional
+	dynasty = krudyn002
+	religion = akom_pagan
+	culture = kru
+	father = kru0016
+	3100.1.1 = {
+		birth = yes
+	}
+	3160.1.1 = {
+		death = yes
+	}
+}
+kru0018 = {
+	name = "Armah" #fictional
+	dynasty = krudyn002
+	religion = akom_pagan
+	culture = kru
+	father = kru0017
+	3137.1.1 = {
+		birth = yes
+	}
+	3191.1.1 = {
+		death = yes
+	}
+}
+kru0019 = {
+	name = "Kpakelah" #fictional
+	dynasty = krudyn002
+	religion = akom_pagan
+	culture = kru
+	father = kru0018
+	3175.1.1 = {
+		birth = yes
+	}
+	3230.1.1 = {
+		death = yes
+	}
+}
+kru0020 = {
+	name = "Wamah" #fictional
+	dynasty = krudyn002
+	religion = akom_pagan
+	culture = kru
+	father = kru0019
+	3209.1.1 = {
+		birth = yes
+	}
+	3271.1.1 = {
+		death = yes
+	}
+}
+
+#fictional Attie rulers for c_attie
+kru0021 = {
+	name = "Kparsi" #fictional
+	dynasty = krudyn003
+	religion = akom_pagan
+	culture = kru
+	2847.1.1 = {
+		birth = yes
+	}
+	2899.1.1 = {
+		death = yes
+	}
+}
+kru0022 = {
+	name = "Gboto" #fictional
+	dynasty = krudyn003
+	religion = akom_pagan
+	culture = kru
+	father = kru0021
+	2867.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+kru0023 = {
+	name = "Armah" #fictional
+	dynasty = krudyn003
+	religion = akom_pagan
+	culture = kru
+	father = kru0022
+	2910.1.1 = {
+		birth = yes
+	}
+	2980.1.1 = {
+		death = yes
+	}
+}
+kru0024 = {
+	name = "Kparsi" #fictional
+	dynasty = krudyn003
+	religion = akom_pagan
+	culture = kru
+	father = kru0023
+	2952.1.1 = {
+		birth = yes
+	}
+	3032.1.1 = {
+		death = yes
+	}
+}
+kru0025 = {
+	name = "Armah" #fictional
+	dynasty = krudyn003
+	religion = akom_pagan
+	culture = kru
+	father = kru0024
+	3014.1.1 = {
+		birth = yes
+	}
+	3072.1.1 = {
+		death = yes
+	}
+}
+kru0026 = {
+	name = "Monon" #fictional
+	dynasty = krudyn003
+	religion = akom_pagan
+	culture = kru
+	father = kru0025
+	3052.1.1 = {
+		birth = yes
+	}
+	3118.1.1 = {
+		death = yes
+	}
+}
+kru0027 = {
+	name = "Kparsi" #fictional
+	dynasty = krudyn003
+	religion = akom_pagan
+	culture = kru
+	father = kru0026
+	3090.1.1 = {
+		birth = yes
+	}
+	3147.1.1 = {
+		death = yes
+	}
+}
+kru0028 = {
+	name = "Gboto" #fictional
+	dynasty = krudyn003
+	religion = akom_pagan
+	culture = kru
+	father = kru0027
+	3127.1.1 = {
+		birth = yes
+	}
+	3185.1.1 = {
+		death = yes
+	}
+}
+kru0029 = {
+	name = "Gboto" #fictional
+	dynasty = krudyn003
+	religion = akom_pagan
+	culture = kru
+	father = kru0028
+	3168.1.1 = {
+		birth = yes
+	}
+	3219.1.1 = {
+		death = yes
+	}
+}
+kru0030 = {
+	name = "Armah" #fictional
+	dynasty = krudyn003
+	religion = akom_pagan
+	culture = kru
+	father = kru0029
+	3201.1.1 = {
+		birth = yes
+	}
+	3265.1.1 = {
+		death = yes
+	}
+}
+#fictional Boubo rulers for c_boubo
+kru0031 = {
+	name = "Monon" #fictional
+	dynasty = krudyn004
+	religion = akom_pagan
+	culture = kru
+	2850.1.1 = {
+		birth = yes
+	}
+	2910.1.1 = {
+		death = yes
+	}
+}
+kru0032 = {
+	name = "Borforh" #fictional
+	dynasty = krudyn004
+	religion = akom_pagan
+	culture = kru
+	father = kru0031
+	2891.1.1 = {
+		birth = yes
+	}
+	2964.1.1 = {
+		death = yes
+	}
+}
+kru0033 = {
+	name = "Dwe" #fictional
+	dynasty = krudyn004
+	religion = akom_pagan
+	culture = kru
+	father = kru0032
+	2947.1.1 = {
+		birth = yes
+	}
+	3014.1.1 = {
+		death = yes
+	}
+}
+kru0034 = {
+	name = "Armah" #fictional
+	dynasty = krudyn004
+	religion = akom_pagan
+	culture = kru
+	father = kru0033
+	2994.1.1 = {
+		birth = yes
+	}
+	3055.1.1 = {
+		death = yes
+	}
+}
+kru0035 = {
+	name = "Monon" #fictional
+	dynasty = krudyn004
+	religion = akom_pagan
+	culture = kru
+	father = kru0034
+	3038.1.1 = {
+		birth = yes
+	}
+	3100.1.1 = {
+		death = yes
+	}
+}
+kru0036 = {
+	name = "Dwe" #fictional
+	dynasty = krudyn004
+	religion = akom_pagan
+	culture = kru
+	father = kru0035
+	3068.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+kru0037 = {
+	name = "Armah" #fictional
+	dynasty = krudyn004
+	religion = akom_pagan
+	culture = kru
+	father = kru0036
+	3101.1.1 = {
+		birth = yes
+	}
+	3158.1.1 = {
+		death = yes
+	}
+}
+kru0038 = {
+	name = "Borforh" #fictional
+	dynasty = krudyn004
+	religion = akom_pagan
+	culture = kru
+	father = kru0037
+	3134.1.1 = {
+		birth = yes
+	}
+	3190.1.1 = {
+		death = yes
+	}
+}
+kru0039 = {
+	name = "Borforh" #fictional
+	dynasty = krudyn004
+	religion = akom_pagan
+	culture = kru
+	father = kru0038
+	3175.1.1 = {
+		birth = yes
+	}
+	3224.1.1 = {
+		death = yes
+	}
+}
+kru0040 = {
+	name = "Dwe" #fictional
+	dynasty = krudyn004
+	religion = akom_pagan
+	culture = kru
+	father = kru0039
+	3208.1.1 = {
+		birth = yes
+	}
+	3271.1.1 = {
+		death = yes
+	}
+}
+
+#fictional Kwene rulers for c_lobo
+kru0041 = {
+	name = "Kpakelah" #fictional
+	dynasty = krudyn005
+	religion = akom_pagan
+	culture = kru
+	2843.1.1 = {
+		birth = yes
+	}
+	2891.1.1 = {
+		death = yes
+	}
+}
+kru0042 = {
+	name = "Manhtee" #fictional
+	dynasty = krudyn005
+	religion = akom_pagan
+	culture = kru
+	father = kru0041
+	2874.1.1 = {
+		birth = yes
+	}
+	2930.1.1 = {
+		death = yes
+	}
+}
+kru0043 = {
+	name = "Togar" #fictional
+	dynasty = krudyn005
+	religion = akom_pagan
+	culture = kru
+	father = kru0042
+	2913.1.1 = {
+		birth = yes
+	}
+	2997.1.1 = {
+		death = yes
+	}
+}
+kru0044 = {
+	name = "Manhtee" #fictional
+	dynasty = krudyn005
+	religion = akom_pagan
+	culture = kru
+	father = kru0043
+	2977.1.1 = {
+		birth = yes
+	}
+	3036.1.1 = {
+		death = yes
+	}
+}
+kru0045 = {
+	name = "Togar" #fictional
+	dynasty = krudyn005
+	religion = akom_pagan
+	culture = kru
+	father = kru0044
+	3020.1.1 = {
+		birth = yes
+	}
+	3071.1.1 = {
+		death = yes
+	}
+}
+kru0046 = {
+	name = "Konowa" #fictional
+	dynasty = krudyn005
+	religion = akom_pagan
+	culture = kru
+	father = kru0045
+	3055.1.1 = {
+		birth = yes
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+kru0047 = {
+	name = "Togar" #fictional
+	dynasty = krudyn005
+	religion = akom_pagan
+	culture = kru
+	father = kru0046
+	3086.1.1 = {
+		birth = yes
+	}
+	3140.1.1 = {
+		death = yes
+	}
+}
+kru0048 = {
+	name = "Luogon" #fictional
+	dynasty = krudyn005
+	religion = akom_pagan
+	culture = kru
+	father = kru0047
+	3122.1.1 = {
+		birth = yes
+	}
+	3187.1.1 = {
+		death = yes
+	}
+}
+kru0049 = {
+	name = "Togar" #fictional
+	dynasty = krudyn005
+	religion = akom_pagan
+	culture = kru
+	father = kru0048
+	3159.1.1 = {
+		birth = yes
+	}
+	3215.1.1 = {
+		death = yes
+	}
+}
+kru0050 = {
+	name = "Luogon" #fictional
+	dynasty = krudyn005
+	religion = akom_pagan
+	culture = kru
+	father = kru0049
+	3192.1.1 = {
+		birth = yes
+	}
+	3249.1.1 = {
+		death = yes
+	}
+}
+
+#fictional Guere rulers for c_man
+kru0051 = {
+	name = "Armah" #fictional
+	dynasty = krudyn006
+	religion = akom_pagan
+	culture = kru
+	2841.1.1 = {
+		birth = yes
+	}
+	2898.1.1 = {
+		death = yes
+	}
+}
+kru0052 = {
+	name = "Gboto" #fictional
+	dynasty = krudyn006
+	religion = akom_pagan
+	culture = kru
+	father = kru0051
+	2868.1.1 = {
+		birth = yes
+	}
+	2932.1.1 = {
+		death = yes
+	}
+}
+kru0053 = {
+	name = "Sundaygar" #fictional
+	dynasty = krudyn006
+	religion = akom_pagan
+	culture = kru
+	father = kru0052
+	2913.1.1 = {
+		birth = yes
+	}
+	2989.1.1 = {
+		death = yes
+	}
+}
+kru0054 = {
+	name = "Gboto" #fictional
+	dynasty = krudyn006
+	religion = akom_pagan
+	culture = kru
+	father = kru0053
+	2973.1.1 = {
+		birth = yes
+	}
+	3048.1.1 = {
+		death = yes
+	}
+}
+kru0055 = {
+	name = "Yarkpawolo" #fictional
+	dynasty = krudyn006
+	religion = akom_pagan
+	culture = kru
+	father = kru0054
+	3031.1.1 = {
+		birth = yes
+	}
+	3089.1.1 = {
+		death = yes
+	}
+}
+kru0056 = {
+	name = "Sundaygar" #fictional
+	dynasty = krudyn006
+	religion = akom_pagan
+	culture = kru
+	father = kru0055
+	3067.1.1 = {
+		birth = yes
+	}
+	3134.1.1 = {
+		death = yes
+	}
+}
+kru0057 = {
+	name = "Yarkpawolo" #fictional
+	dynasty = krudyn006
+	religion = akom_pagan
+	culture = kru
+	father = kru0056
+	3107.1.1 = {
+		birth = yes
+	}
+	3165.1.1 = {
+		death = yes
+	}
+}
+kru0058 = {
+	name = "Lami" #fictional
+	dynasty = krudyn006
+	religion = akom_pagan
+	culture = kru
+	father = kru0057
+	3146.1.1 = {
+		birth = yes
+	}
+	3200.1.1 = {
+		death = yes
+	}
+}
+kru0059 = {
+	name = "Sundaygar" #fictional
+	dynasty = krudyn006
+	religion = akom_pagan
+	culture = kru
+	father = kru0058
+	3182.1.1 = {
+		birth = yes
+	}
+	3237.1.1 = {
+		death = yes
+	}
+}
+kru0060 = {
+	name = "Lami" #fictional
+	dynasty = krudyn006
+	religion = akom_pagan
+	culture = kru
+	father = kru0059
+	3217.1.1 = {
+		birth = yes
+	}
+	3265.1.1 = {
+		death = yes
+	}
+}
+
+#fictional Kren rulers for c_grebo
+kru0061 = {
+	name = "Lami" #fictional
+	dynasty = krudyn007
+	religion = akom_pagan
+	culture = kru
+	2850.1.1 = {
+		birth = yes
+	}
+	2895.1.1 = {
+		death = yes
+	}
+}
+kru0062 = {
+	name = "Togar" #fictional
+	dynasty = krudyn007
+	religion = akom_pagan
+	culture = kru
+	father = kru0061
+	2882.1.1 = {
+		birth = yes
+	}
+	2937.1.1 = {
+		death = yes
+	}
+}
+kru0063 = {
+	name = "Gboto" #fictional
+	dynasty = krudyn007
+	religion = akom_pagan
+	culture = kru
+	father = kru0062
+	2915.1.1 = {
+		birth = yes
+	}
+	2988.1.1 = {
+		death = yes
+	}
+}
+kru0064 = {
+	name = "Didwho" #fictional
+	dynasty = krudyn007
+	religion = akom_pagan
+	culture = kru
+	father = kru0063
+	2971.1.1 = {
+		birth = yes
+	}
+	3039.1.1 = {
+		death = yes
+	}
+}
+kru0065 = {
+	name = "Didwho" #fictional
+	dynasty = krudyn007
+	religion = akom_pagan
+	culture = kru
+	father = kru0064
+	3021.1.1 = {
+		birth = yes
+	}
+	3078.1.1 = {
+		death = yes
+	}
+}
+kru0066 = {
+	name = "Lami" #fictional
+	dynasty = krudyn007
+	religion = akom_pagan
+	culture = kru
+	father = kru0065
+	3061.1.1 = {
+		birth = yes
+	}
+	3118.1.1 = {
+		death = yes
+	}
+}
+kru0067 = {
+	name = "Gartee" #fictional
+	dynasty = krudyn007
+	religion = akom_pagan
+	culture = kru
+	father = kru0066
+	3090.1.1 = {
+		birth = yes
+	}
+	3145.1.1 = {
+		death = yes
+	}
+}
+kru0068 = {
+	name = "Zokaya" #fictional
+	dynasty = krudyn007
+	religion = akom_pagan
+	culture = kru
+	father = kru0067
+	3122.1.1 = {
+		birth = yes
+	}
+	3187.1.1 = {
+		death = yes
+	}
+}
+kru0069 = {
+	name = "Gartee" #fictional
+	dynasty = krudyn007
+	religion = akom_pagan
+	culture = kru
+	father = kru0068
+	3164.1.1 = {
+		birth = yes
+	}
+	3223.1.1 = {
+		death = yes
+	}
+}
+kru0070 = {
+	name = "Didwho" #fictional
+	dynasty = krudyn007
+	religion = akom_pagan
+	culture = kru
+	father = kru0069
+	3199.1.1 = {
+		birth = yes
+	}
+	3261.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of c_bassa
+kru0071 = {
+	name = "Didwho" #
+	dynasty = krudyn008 #
+	religion = akom_pagan
+	culture = kru
+	2849.1.1 = {
+		birth = yes
+	}
+	2904.1.1 = {
+		death = yes
+	}
+}
+kru0072 = {
+	name = "Dolo" #
+	dynasty = krudyn008 #
+	religion = akom_pagan
+	culture = kru
+	father = kru0071
+	2886.1.1 = {
+		birth = yes
+	}
+	2950.1.1 = {
+		death = yes
+	}
+}
+kru0073 = {
+	name = "Garteh" #
+	dynasty = krudyn008 #
+	religion = akom_pagan
+	culture = kru
+	father = kru0072
+	2935.1.1 = {
+		birth = yes
+	}
+	3013.1.1 = {
+		death = yes
+	}
+}
+kru0074 = {
+	name = "Didwho" #
+	dynasty = krudyn008 #
+	religion = akom_pagan
+	culture = kru
+	father = kru0073
+	2987.1.1 = {
+		birth = yes
+	}
+	3054.1.1 = {
+		death = yes
+	}
+}
+kru0075 = {
+	name = "Garteh" #
+	dynasty = krudyn008 #
+	religion = akom_pagan
+	culture = kru
+	father = kru0074
+	3033.1.1 = {
+		birth = yes
+	}
+	3089.1.1 = {
+		death = yes
+	}
+}
+kru0076 = {
+	name = "Dolo" #
+	dynasty = krudyn008 #
+	religion = akom_pagan
+	culture = kru
+	father = kru0075
+	3066.1.1 = {
+		birth = yes
+	}
+	3125.1.1 = {
+		death = yes
+	}
+}
+kru0077 = {
+	name = "Dolo" #
+	dynasty = krudyn008 #
+	religion = akom_pagan
+	culture = kru
+	father = kru0076
+	3102.1.1 = {
+		birth = yes
+	}
+	3165.1.1 = {
+		death = yes
+	}
+}
+kru0078 = {
+	name = "Togba" #
+	dynasty = krudyn008 #
+	religion = akom_pagan
+	culture = kru
+	father = kru0077
+	3137.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+kru0079 = {
+	name = "Garteh" #
+	dynasty = krudyn008 #
+	religion = akom_pagan
+	culture = kru
+	father = kru0078
+	3182.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = yes
+	}
+}
+kru0090 = {
+	name = "Togba" #
+	dynasty = krudyn008 #
+	religion = akom_pagan
+	culture = kru
+	father = kru0079
+	3214.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}
+
+#fictional Neyo rulers for c_dibri
+kru0081 = {
+	name = "Manhtee" #fictional
+	dynasty = krudyn009
+	religion = akom_pagan
+	culture = kru
+	2852.1.1 = {
+		birth = yes
+	}
+	2914.1.1 = {
+		death = yes
+	}
+}
+kru0082 = {
+	name = "Kpakelah" #fictional
+	dynasty = krudyn009
+	religion = akom_pagan
+	culture = kru
+	father = kru0081
+	2897.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+kru0083 = {
+	name = "Kpakelah" #fictional
+	dynasty = krudyn009
+	religion = akom_pagan
+	culture = kru
+	father = kru0082
+	2954.1.1 = {
+		birth = yes
+	}
+	3027.1.1 = {
+		death = yes
+	}
+}
+kru0084 = {
+	name = "Cammue" #fictional
+	dynasty = krudyn009
+	religion = akom_pagan
+	culture = kru
+	father = kru0083
+	3002.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+kru0085 = {
+	name = "Dwe" #fictional
+	dynasty = krudyn009
+	religion = akom_pagan
+	culture = kru
+	father = kru0084
+	3040.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+kru0086 = {
+	name = "Manhtee" #fictional
+	dynasty = krudyn009
+	religion = akom_pagan
+	culture = kru
+	father = kru0085
+	3067.1.1 = {
+		birth = yes
+	}
+	3129.1.1 = {
+		death = yes
+	}
+}
+kru0087 = {
+	name = "Wamah" #fictional
+	dynasty = krudyn009
+	religion = akom_pagan
+	culture = kru
+	father = kru0086
+	3100.1.1 = {
+		birth = yes
+	}
+	3160.1.1 = {
+		death = yes
+	}
+}
+kru0088 = {
+	name = "Armah" #fictional
+	dynasty = krudyn009
+	religion = akom_pagan
+	culture = kru
+	father = kru0087
+	3137.1.1 = {
+		birth = yes
+	}
+	3191.1.1 = {
+		death = yes
+	}
+}
+kru0089 = {
+	name = "Kpakelah" #fictional
+	dynasty = krudyn009
+	religion = akom_pagan
+	culture = kru
+	father = kru0088
+	3175.1.1 = {
+		birth = yes
+	}
+	3230.1.1 = {
+		death = yes
+	}
+}
+#rulers of c_nuon
+kru0091 = {
+	name = "Gardiah" #fictional
+	dynasty = krudyn010
+	religion = akom_pagan
+	culture = kru
+	2852.1.1 = {
+		birth = yes
+	}
+	2914.1.1 = {
+		death = yes
+	}
+}
+kru0092 = {
+	name = "Kpakelah" #fictional
+	dynasty = krudyn010
+	religion = akom_pagan
+	culture = kru
+	father = kru0091
+	2897.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+kru0093 = {
+	name = "Gardiah" #fictional
+	dynasty = krudyn010
+	religion = akom_pagan
+	culture = kru
+	father = kru0092
+	2954.1.1 = {
+		birth = yes
+	}
+	3027.1.1 = {
+		death = yes
+	}
+}
+kru0094 = {
+	name = "Toimu" #fictional
+	dynasty = krudyn010
+	religion = akom_pagan
+	culture = kru
+	father = kru0093
+	3002.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+kru0095 = {
+	name = "Gardiah" #fictional
+	dynasty = krudyn010
+	religion = akom_pagan
+	culture = kru
+	father = kru0094
+	3040.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+kru0096 = {
+	name = "Tehpoe" #fictional
+	dynasty = krudyn010
+	religion = akom_pagan
+	culture = kru
+	father = kru0095
+	3067.1.1 = {
+		birth = yes
+	}
+	3129.1.1 = {
+		death = yes
+	}
+}
+kru0097 = {
+	name = "Zaowolo" #fictional
+	dynasty = krudyn010
+	religion = akom_pagan
+	culture = kru
+	father = kru0096
+	3100.1.1 = {
+		birth = yes
+	}
+	3160.1.1 = {
+		death = yes
+	}
+}
+kru0098 = {
+	name = "Tehpoe" #fictional
+	dynasty = krudyn010
+	religion = akom_pagan
+	culture = kru
+	father = kru0097
+	3137.1.1 = {
+		birth = yes
+	}
+	3191.1.1 = {
+		death = yes
+	}
+}
+kru0099 = {
+	name = "Kpakelah" #fictional
+	dynasty = krudyn010
+	religion = akom_pagan
+	culture = kru
+	father = kru0098
+	3175.1.1 = {
+		birth = yes
+	}
+	3230.1.1 = {
+		death = yes
+	}
+}
+kru0100 = {
+	name = "Zaowolo" #fictional
+	dynasty = krudyn010
+	religion = akom_pagan
+	culture = kru
+	father = kru0099
+	3209.1.1 = {
+		birth = yes
+	}
+	3271.1.1 = {
+		death = yes
+	}
+}
+
+kru0101 = {
+	name = "Wamah" #fictional
+	dynasty = krudyn009
+	religion = akom_pagan
+	culture = kru
+	father = kru0089
+	3209.1.1 = {
+		birth = yes
+	}
+	3271.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,437 @@
+﻿##Historical Keraits
+303208 = {
+	name = "Marguz"	#Margus / Marcus / Markus Buyuruk
+	dynasty = 1041002	#Khereid
+	religion = nestorian
+	culture = kerait
+	father = 303226		#fictional father
+	3063.1.2 = {
+		birth = yes
+	}
+	3102.1.2 = {
+		death =yes
+	}
+}
+303209 = {
+	name = "Kurchakus"	#Ciriac
+	dynasty = 1041002	#Khereid
+	religion = nestorian
+	culture = kerait
+	father = 303208
+	3086.1.2 = {
+		birth = yes
+	}
+	3118.1.2 = {
+		add_spouse = 303206
+	}
+	3157.1.2 = {
+		death = yes
+	}
+}
+303210 = {
+	name = "Erke_kara"
+	dynasty = 1041002		#Khereid
+	religion = nestorian
+	culture = kerait
+	father = 303209
+	mother = 303206
+	3127.1.2 = {
+		birth = yes
+	}
+	3190.1.2 = {
+		death = yes
+	}
+}
+303211 = {
+	name = "Togrul"		#historical
+	#AKA Wang Khan
+	dynasty = 1041002	#Khereid
+	religion = nestorian
+	culture = kerait
+	father = 303209
+	mother = 303206
+	3132.1.2 = {
+		birth = yes
+	}
+	3154.1.2 = {
+		add_spouse = 303219 #Yazad Khatun
+	}
+	3201.1.2 = {
+		give_nickname = nick_wang_khan
+	}
+	3205.1.2 = {
+		death = yes
+	}
+}
+303212 = {
+	name = "Bukha_Timur"
+	dynasty = 1041002		#Khereid
+	religion = nestorian
+	culture = kerait
+	father = 303209
+	mother = 303206
+	3142.1.2 = {
+		birth = yes
+	}
+	3167.1.2 = {
+		death = yes
+	}
+}
+303213 = {
+	name = "Tai_Timur"
+	dynasty = 1041002		#Khereid
+	religion = nestorian
+	culture = kerait
+	father = 303209
+	mother = 303206
+	3152.1.2 = {
+		birth = yes
+	}
+	3167.1.2 = {
+		death = yes
+	}
+}
+303214 = {
+	name = "Jakha_Gambhu"
+	dynasty = 1041002		#Khereid
+	religion = nestorian
+	culture = kerait
+	father = 303209
+	mother = 303206
+	3157.1.1 = {
+		birth = yes
+	}
+	3208.1.2 = {
+		death = yes
+	}
+}
+303215 = {
+	name = "Oghuul"
+	dynasty = 1041002		#Khereid
+	religion = nestorian
+	culture = kerait
+	father = 303211
+	mother = 303219
+	3163.1.2 = {
+		birth = yes
+	}
+	3202.1.2 = {
+		death = yes
+	}
+}
+303216 = {
+	name = "Ilqa_Sangun"
+	dynasty = 1041002		#Khereid
+	religion = nestorian
+	culture = kerait
+	father = 303211
+	mother = 303219
+	3170.1.2 = {
+		birth = yes
+	}
+	3205.1.2 = {
+		death = yes
+	}
+}
+303217 = {
+	name = "Chaur_Baqi"
+	female = yes
+	dynasty = 1041002		#Khereid
+	religion = nestorian
+	culture = kerait
+	father = 303211
+	mother = 303219
+	3174.1.2 = {
+		birth = yes
+	}
+	3232.1.2 = {
+		death = yes
+	}
+}
+303218 = {
+	name = "Ibakha"
+	female = yes
+	dynasty = 1041002		#Khereid
+	religion = nestorian
+	culture = kerait
+	father = 303214
+	3187.1.2 = {
+		birth = yes
+	}
+	3248.1.2 = {
+		death = yes
+	}
+}
+172010 = {
+	name = "Sorkhaghatani"
+	#main spouse of Tolui, son of Temujin
+	dynasty = 1041002		#Khereid
+	religion = nestorian
+	culture = kerait
+	female = yes
+	trait = ambitious
+	father = 303214
+	3192.1.1 = {
+		birth = yes
+	}
+	3208.1.1 = {
+		trait = education_diplomacy_4
+	}
+	3254.2.1 = {
+		death = yes
+	}
+}
+303219 = {
+	name = "Yazada"
+	female = yes
+	religion = nestorian
+	culture = kerait
+	3137.1.2 = {
+		birth = yes
+	}
+	3202.1.2 = {
+		death = yes
+	}
+}
+
+##Fictional Keraits
+
+303220 = {
+	name = "Jakha"
+	dynasty = 1041002		#Khereid
+	religion = tengri_pagan
+	culture = kerait
+	2822.11.17 = {
+		birth = yes
+	}
+	2846.2.13 = {
+		add_spouse = 303221
+	}
+	2881.4.28 = {
+		death = yes
+	}
+}
+303221 = {
+	name = "Holuikhan"
+	female = yes
+	religion = tengri_pagan
+	culture = kerait
+	2828.4.1 = {
+		birth = yes
+	}
+	2892.2.16 = {
+		death = yes
+	}
+}
+303222 = {
+	name = "Yula_Mangus"
+	dynasty = 1041002		#Khereid
+	religion = tengri_pagan
+	culture = kerait
+	father = 303220
+	mother = 303221
+	2849.6.23 = {
+		birth = yes
+	}
+	2900.3.11 = {
+		death = yes
+	}
+}
+303223 = {
+	name = "Ciriac"
+	dynasty = 1041002		#Khereid
+	religion = tengri_pagan
+	culture = kerait
+	father = 303220
+	mother = 303221
+	2850.10.19 = {
+		birth = yes
+	}
+	2906.12.2 = {
+		death = yes
+	}
+}
+303224 = {
+	name = "Orbei"
+	female = yes
+	dynasty = 1041002		#Khereid
+	religion = tengri_pagan
+	culture = kerait
+	father = 303220
+	mother = 303221
+	2848.7.25 = {
+		birth = yes
+	}
+	2913.3.5 = {
+		death = yes
+	}
+}
+303225 = {
+	name = "Yesui"
+	female = yes
+	dynasty = 1041002		#Khereid
+	religion = tengri_pagan
+	culture = kerait
+	father = 303220
+	mother = 303221
+	2846.9.17 = {
+		birth = yes
+	}
+	2908.8.8	= {
+		death = yes
+	}
+}
+303226 = {		#fictional father of Margus Buyurid
+	name = "Inanch"
+	dynasty = 1041002		#Khereid
+	religion = nestorian
+	culture = kerait
+	3036.1.2 = {
+		birth = yes
+	}
+	3085.1.2 = {
+		death = yes
+	}
+}
+
+303227 = {
+	name = "Kereyidei"
+	dynasty = 2001154	#Jirkin
+	religion = tengri_pagan
+	culture = kerait
+	2836.3.18 = {
+		birth = yes
+	}
+	2887.6.13 = {
+		death = yes
+	}
+}
+303228 = {
+	name = "Quchar"
+	dynasty = 2001154	#Jirkin
+	religion = tengri_pagan
+	culture = kerait
+	father = 303227
+	2859.10.21 = {
+		birth = yes
+	}
+	2908.7.11 = {
+		death = yes
+	}
+}
+303229 = {
+	name = "Ciriac"
+	dynasty = 2001154	#Jirkin
+	religion = nestorian
+	culture = kerait
+	3045.2.11 = {
+		birth = yes
+	}
+	3103.2.13 = {
+		death = yes
+	}
+}
+303230 = {
+	name = "Tooril"
+	dynasty = 2001154	#Jirkin
+	religion = nestorian
+	culture = kerait
+	father = 303229
+	3071.5.11 = {
+		birth = yes
+	}
+	3134.8.10 = {
+		death = yes
+	}
+}
+303231 = {
+	name = "Oghuul"
+	dynasty = 2001154	#Jirkin
+	religion = nestorian
+	culture = kerait
+	father = 303230
+	3093.4.5 = {
+		birth = yes
+	}
+	3152.1.9 = {
+		death = yes
+	}
+}
+303232 = {
+	name = "Tayan"
+	dynasty = 2001154	#Jirkin
+	religion = nestorian
+	culture = kerait
+	father = 303231
+	3117.11.3 = {
+		birth = yes
+	}
+	3182.1.6 = {
+		death = yes
+	}
+}
+303233 = {
+	name = "Taibuka"
+	dynasty = 2001154	#Jirkin
+	religion = nestorian
+	culture = kerait
+	father = 303232
+	3141.12.30 = {
+		birth = yes
+	}
+	3195.6.10 = {
+		death = yes
+	}
+}
+303234 = {
+	name = "Qatarqa"
+	dynasty = 2001154	#Jirkin
+	religion = nestorian
+	culture = kerait
+	father = 303233
+	3162.11.8 = {
+		birth = yes
+	}
+	3227.7.22 = {
+		death = yes
+	}
+}
+303235 = {
+	name = "Elkutur"
+	dynasty = 2001155	#Konkant
+	religion = nestorian
+	culture = kerait
+	3121.3.15 = {
+		birth = yes
+	}
+	3184.12.21 = {
+		death = yes
+	}
+}
+303236 = {
+	name = "Jagambu"
+	dynasty = 2001155	#Konkant
+	religion = nestorian
+	culture = kerait
+	father = 303235
+	3144.6.17 = {
+		birth = yes
+	}
+	3202.10.25 = {
+		death = yes
+	}
+}
+303237 = {
+	name = "Gur"
+	dynasty = 2001155	#Konkant
+	religion = nestorian
+	culture = kerait
+	father = 303236
+	3164.1.10 = {
+		birth = yes
+	}
+	3213.2.27 = {
+		death = yes
+	}
+}
+#

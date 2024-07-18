@@ -1,0 +1,2228 @@
+﻿20479 = {
+	name = "Radomir"
+	dynasty = 702
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = education_diplomacy_2
+	father = 20486
+	3038.1.1 = {
+		birth = "3038.1.1"
+	}
+	3095.1.1 = {
+		death = "3095.1.1"
+	}
+}
+
+20486 = {
+	name = "Aron"
+	dynasty = 702
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = craven
+	trait = deceitful
+	trait = wrathful
+	trait = education_intrigue_2
+	father = 722
+	3014.1.1 = {
+		birth = "3014.1.1"
+	}
+	3062.1.1 = {
+		death = "3062.1.1"
+	}
+}
+
+215004 = {
+	name = "Dobromir"
+	# AKA: Dobromir Chrysos
+	dynasty = 17008
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = lustful
+	trait = diligent
+	trait = education_martial_2
+	3165.1.1 = {
+		birth = "3165.1.1"
+	}
+	3182.1.30 = {
+		add_spouse = 217504
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+217007 = {
+	name = "Zvonimir"
+	dynasty = 17001
+	martial = 5
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = chaste
+	trait = education_intrigue_1
+	3173.1.1 = {
+		birth = "3173.1.1"
+	}
+	3223.1.1 = {
+		death = "3223.1.1"
+	}
+}
+
+217500 = {
+	name = "Ivan" #Ivan I
+	dynasty = 185
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = diligent
+	trait = brave
+	trait = arrogant
+	trait = education_diplomacy_3
+	father = 217503
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	
+	
+	3198.1.1 = {
+		death = "3198.1.1"
+	}
+}
+
+217501 = {
+	name = "Petar" #Petar IV
+	dynasty = 185
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = honest
+	trait = calm
+	trait = humble
+	trait = education_learning_2
+	father = 217503
+	3158.1.1 = {
+		birth = "3158.1.1"
+	}
+	3199.1.1 = {
+		death = "3199.1.1"
+	}
+}
+
+
+217502 = {
+	name = "Kaloyan" #Kaloyan I
+	dynasty = 185
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = greedy
+	trait = gluttonous
+	trait = education_martial_3
+	father = 217503
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3192.1.1 = {
+		add_spouse = 31184
+		add_pressed_claim = title:c_philippopolis
+		add_pressed_claim = title:c_adrianopolis
+	}
+	
+	3209.10.1 = {
+		death = "3209.10.1"
+	}
+}
+
+217503 = {
+	name = "Ivan"
+	dynasty = 185
+	martial = 6
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = cynical
+	trait = education_martial_3
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3181.1.1 = {
+		death = "3181.1.1"
+	}
+}
+
+217504 = {
+	name = "Elena"
+	female = yes
+	dynasty = 185
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = temperate
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 217503
+	3167.1.1 = {
+		birth = "3167.1.1"
+	}
+	3217.1.1 = {
+		death = "3217.1.1"
+	}
+}
+
+217505 = {
+	name = "Boril"
+	dynasty = 185
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 3
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = arbitrary
+	trait = education_stewardship_2
+	father = 215004
+	mother = 217504
+	3183.1.1 = {
+		birth = "3183.1.1"
+	}
+	3210.1.1 = {
+		add_spouse = 31184
+	}
+	3220.1.2 = {
+		death = "3220.1.2"
+	}
+}
+
+217506 = {
+	name = "Aleksii"
+	dynasty = 185
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 215004
+	mother = 217504
+	3185.1.1 = {
+		birth = "3185.1.1"
+	}
+	3232.1.2 = {
+		death = "3232.1.2"
+	}
+}
+
+217507 = {
+	name = "Strez"
+	dynasty = 185
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 215004
+	mother = 217504
+	3185.1.1 = {
+		birth = "3185.1.1"
+	}
+	3236.1.1 = {
+		death = "3236.1.1"
+	}
+}
+
+232525 = {
+	name = "Ivanko-Alexios"
+	# AKA: Ivanko
+	dynasty = 101071
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = diligent
+	trait = lustful
+	trait = greedy
+	trait = education_martial_2
+	3178.1.2 = {
+		birth = "3178.1.2"
+	}
+	3228.1.2 = {
+		death = "3228.1.2"
+	}
+}
+
+31160 = {
+	name = "Ivan" #Ivan II
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 217500
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3223.1.1 = {
+		add_spouse = 98026
+	}
+	3239.1.1 = {
+		add_spouse = 125713 # Eirene Komnene Doukaina
+	}
+	3244.6.24 = {
+		death = "3244.6.24"
+	}
+}
+
+31161 = {
+	name = "Marija"
+	female = yes
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = bastard
+	father = 31160
+	3220.1.1 = {
+		birth = "3220.1.1"
+	}
+	3262.1.1 = {
+		death = "3262.1.1"
+	}
+}
+
+31162 = {
+	name = "Beloslava"
+	female = yes
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = bastard
+	father = 31160
+	
+	3222.1.1 = {
+		birth = "3222.1.1"
+	}
+	3287.1.1 = {
+		death = "3287.1.1"
+	}
+}
+
+31163 = {
+	name = "Elena"
+	female = yes
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31160
+	mother = 98026
+	3226.1.1 = {
+		birth = "3226.1.1"
+	}
+	3256.1.1 = {
+		death = "3256.1.1"
+	}
+}
+
+31164 = {
+	name = "Tamara"
+	female = yes
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31160
+	mother = 98026
+	3227.1.1 = {
+		birth = "3227.1.1"
+	}
+	3272.1.1 = {
+		death = "3272.1.1"
+	}
+}
+
+31165 = {
+	name = "Koloman" #Koloman I
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31160
+	mother = 98026
+	3235.1.1 = {
+		birth = "3235.1.1"
+	}
+	3248.8.1 = {
+		death = "3248.8.1"
+	}
+}
+
+31166 = {
+	name = "Mihail" #Mihail I
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31160
+	mother = 125713
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3258.1.1 = {
+		death = "3258.1.1"
+	}
+}
+
+31167 = {
+	name = "Teodora"
+	female = yes
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31160
+	mother = 125713
+	3241.1.1 = {
+		birth = "3241.1.1"
+	}
+	3292.1.1 = {
+		death = "3292.1.1"
+	}
+}
+
+31168 = {
+	name = "Marija"
+	female = yes
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31160
+	mother = 125713
+	3239.1.1 = {
+		birth = "3239.1.1"
+	}
+	3294.1.1 = {
+		death = "3294.1.1"
+	}
+}
+
+31169 = {
+	name = "Aleksandr"
+	# AKA: Aleksii
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 217500
+	3194.1.1 = {
+		birth = "3194.1.1"
+	}
+	3242.1.1 = {
+		death = "3242.1.1"
+	}
+}
+
+31170 = {
+	name = "Koloman" #Koloman I
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31169
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3259.1.1 = {
+		death = "3259.1.1"
+	}
+}
+
+31171 = {
+	name = "Bilyana"
+	female = yes
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 217502
+	mother = 31184
+	3193.1.1 = {
+		birth = "3193.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+31172 = {
+	name = "Marija"
+	female = yes
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 217502
+	mother = 31184
+	3194.1.1 = {
+		birth = "3194.1.1"
+	}
+	3218.1.1 = {
+		death = "3218.1.1"
+	}
+}
+
+31183 = {
+	name = "Keramarija"
+	female = yes
+	dynasty = 185
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31185
+	mother = 31168
+	3253.1.1 = {
+		birth = "3253.1.1"
+	}
+	3312.1.1 = {
+		death = "3312.1.1"
+	}
+}
+
+31185 = {
+	name = "Micho"
+	dynasty = 7202
+	religion = "orthodox"
+	culture = "bulgarian"
+	3217.1.1 = {
+		birth = "3217.1.1"
+	}
+	3253.1.1 = {
+		add_spouse = 31168
+	}
+	3280.1.1 = {
+		death = "3280.1.1"
+	}
+}
+
+31186 = {
+	name = "Tihomir"
+	dynasty = 7203
+	religion = "orthodox"
+	culture = "bulgarian"
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3252.1.1 = {
+		death = "3252.1.1"
+	}
+}
+
+31187 = {
+	name = "Konstandin"
+	dynasty = 7203
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31186
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3258.1.1 = {
+		add_spouse = 125744 #Eirene Laskaris dau of Theodoros II Laskaris
+	}
+	3272.1.1 = {
+		add_spouse = 34419 #Maria Kantakouzenos
+	}
+	3279.9.1 = {
+		death = "3279.9.1"
+	}
+}
+
+31188 = {
+	name = "Mihail"
+	dynasty = 7203
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31187
+	mother = 34419
+	3273.1.1 = {
+		birth = "3273.1.1"
+	}
+	3303.1.1 = {
+		death = "3303.1.1"
+	}
+}
+
+31189 = {
+	name = "Marija" #real name unknown
+	female = yes
+	dynasty = 7203
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31187
+	mother = 125744
+	3260.1.1 = {
+		birth = "3260.1.1"
+	}
+	#1280 married Smilec Sliven
+	3292.1.1 = {
+		death = "3292.1.1"
+	}
+}
+
+31191 = {
+	name = "Marina"
+	# AKA: Eirene
+	female = yes
+	dynasty = 40
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31195
+	3318.1.1 = {
+		birth = "3318.1.1"
+	}
+	3368.1.1 = {
+		death = "3368.1.1"
+	}
+}
+
+31192 = {
+	name = "Ivaljo"
+	dynasty = 7204
+	religion = "orthodox"
+	culture = "bulgarian"
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3280.1.1 = {
+		add_spouse = 34419
+	}
+	3282.1.1 = {
+		death = "3282.1.1"
+	}
+}
+
+31193 = {
+	name = "Todor"
+	# AKA: Theodore Svetoslav
+	dynasty = 40
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 467530
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	#married Efrosina ??
+	3322.1.1 = {
+		add_spouse = 465515
+	}
+	3324.1.1 = {
+		death = "3324.1.1"
+	}
+}
+
+31194 = {
+	name = "Elena"
+	female = yes
+	dynasty = 40
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 467530
+	3265.1.1 = {
+		birth = "3265.1.1"
+	}
+	#married 125519 Chaka son of Nogai Khan
+	3302.1.1 = {
+		death = "3302.1.1"
+	}
+}
+
+31195 = {
+	name = "Georgi"
+	dynasty = 40
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31193
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3324.8.1 = {
+		death = "3324.8.1"
+	}
+}
+
+31196 = {
+	name = "Ioasaph"
+	dynasty = 7205
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 467540
+	mother = 31189
+	3284.1.2 = {
+		birth = "3284.1.2"
+	}
+	3312.1.2 = {
+		death = "3312.1.2"
+	}
+}
+
+31197 = {
+	name = "Ioannes"
+	dynasty = 7205
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 467540
+	mother = 34288
+	3295.1.1 = {
+		birth = "3295.1.1"
+	}
+	3332.1.1 = {
+		death = "3332.1.1"
+	}
+}
+
+31198 = {
+	name = "Ivan"
+	dynasty = 7205
+	religion = "orthodox"
+	culture = "bulgarian"
+	3242.1.2 = {
+		birth = "3242.1.2"
+	}
+	3277.1.2 = {
+		death = "3277.1.2"
+	}
+}
+
+31199 = {
+	name = "Radoslav"
+	dynasty = 7205
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31198
+	3267.1.2 = {
+		birth = "3267.1.2"
+	}
+	3300.1.2 = {
+		death = "3300.1.2"
+	}
+}
+
+31200 = {
+	name = "Vojsil"
+	dynasty = 7205
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 31198
+	3268.1.2 = {
+		birth = "3268.1.2"
+	}
+	3300.1.2 = {
+		death = "3300.1.2"
+	}
+}
+
+31201 = {
+	name = "Georgi"
+	dynasty = 40
+	religion = "orthodox"
+	culture = "bulgarian"
+	3222.1.1 = {
+		birth = "3222.1.1"
+	}
+	3272.1.1 = {
+		death = "3272.1.1"
+	}
+}
+
+40531 = {
+	name = "Kosara"
+	female = yes
+	dynasty = 702
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 728
+	2984.1.2 = {
+		birth = "2984.1.2"
+	}
+	3027.1.2 = {
+		death = "3027.1.2"
+	}
+}
+
+41323 = {
+	name = "Miroslava"
+	female = yes
+	dynasty = 702
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 720
+	2982.1.1 = {
+		birth = "2982.1.1"
+	}
+	3018.1.1 = {
+		death = "3018.1.1"
+	}
+}
+
+4490 = {
+	name = "Ana"
+	female = yes
+	dynasty = 702
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = education_stewardship_2
+	father = 730
+	3001.1.1 = {
+		birth = "3001.1.1"
+	}
+	3062.1.1 = {
+		death = "3062.1.1"
+	}
+}
+
+465551 = {
+	name = "Ivan"
+	# AKA: Ivan 'Mytzes'
+	dynasty = 185
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = craven
+	trait = honest
+	trait = education_diplomacy_2
+	father = 31185
+	mother = 31168
+	3261.1.1 = {
+		birth = "3261.1.1"
+	}
+	3277.1.1 = {
+		add_spouse = 465526
+	}
+	
+	3305.1.1 = {
+		death = "3305.1.1"
+	}
+}
+
+467500 = {
+	name = "Ivan_Aleksandr"
+	# AKA: Ivan Alexander
+	dynasty = 41
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = zealous
+	trait = generous
+	trait = education_stewardship_2
+	father = 467505
+	mother = 467506
+	3303.1.2 = {
+		birth = "3303.1.2"
+	}
+	3322.1.2 = {
+		add_spouse = 475552
+	}
+	3373.2.17 = {
+		death = "3373.2.17"
+	}
+}
+
+467501 = {
+	name = "Elena"
+	female = yes
+	dynasty = 41
+	martial = 5
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 4
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = brave
+	trait = education_intrigue_2
+	father = 467505
+	mother = 467506
+	3305.1.2 = {
+		birth = "3305.1.2"
+	}
+	3357.1.2 = {
+		death = "3357.1.2"
+	}
+}
+
+467502 = {
+	name = "Ivan-Komnin"
+	# AKA: Ivan Komnin
+	dynasty = 41
+	martial = 8
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = arbitrary
+	trait = education_learning_3
+	father = 467505
+	mother = 467506
+	3307.1.2 = {
+		birth = "3307.1.2"
+	}
+	3365.1.2 = {
+		death = "3365.1.2"
+	}
+}
+
+467503 = {
+	name = "Mihail"
+	dynasty = 41
+	martial = 8
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 4
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = greedy
+	trait = education_intrigue_1
+	father = 467505
+	mother = 467506
+	3309.1.2 = {
+		birth = "3309.1.2"
+	}
+	3359.1.2 = {
+		death = "3359.1.2"
+	}
+}
+
+467504 = {
+	name = "Dragutin"
+	dynasty = 41
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = greedy
+	trait = brave
+	trait = education_diplomacy_2
+	father = 467505
+	mother = 467506
+	3311.1.2 = {
+		birth = "3311.1.2"
+	}
+	3361.1.2 = {
+		death = "3361.1.2"
+	}
+}
+
+467505 = {
+	name = "Srazimir"
+	dynasty = 100500
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = education_stewardship_3
+	3282.1.2 = {
+		birth = "3282.1.2"
+	}
+	3302.1.2 = {
+		add_spouse = 467506
+	}
+	3332.1.2 = {
+		death = "3332.1.2"
+	}
+}
+
+467506 = {
+	name = "Keratsa"
+	# AKA: Keratsa Petriza
+	female = yes
+	dynasty = 41
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = diligent
+	trait = greedy
+	trait = education_learning_2
+	father = 467508
+	3284.1.2 = {
+		birth = "3284.1.2"
+	}
+	3334.1.2 = {
+		death = "3334.1.2"
+	}
+}
+
+467507 = {
+	name = "Belaur"
+	dynasty = 41
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = generous
+	trait = arrogant
+	trait = calm
+	trait = education_martial_3
+	father = 467508
+	3283.1.2 = {
+		birth = "3283.1.2"
+	}
+	3336.1.2 = {
+		death = "3336.1.2"
+	}
+}
+
+467508 = {
+	name = "Shishman"
+	dynasty = 41
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = lustful
+	trait = lazy
+	trait = education_martial_2
+	3254.1.2 = {
+		birth = "3254.1.2"
+	}
+	3313.1.2 = {
+		death = "3313.1.2"
+	}
+}
+
+467510 = {
+	name = "Mihail"
+	dynasty = 41
+	martial = 5
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = education_martial_2
+	father = 467500
+	mother = 475552
+	3325.1.2 = {
+		birth = "3325.1.2"
+	}
+	3356.1.2 = {
+		death = "3356.1.2"
+	}
+}
+
+467511 = {
+	name = "Ivan"
+	# AKA: Ivan Sratzimir
+	dynasty = 41
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = diligent
+	trait = education_stewardship_2
+	father = 467500
+	mother = 475552
+	3327.1.2 = {
+		birth = "3327.1.2"
+	}
+	3398.1.2 = {
+		death = "3398.1.2"
+	}
+}
+
+467512 = {
+	name = "Ivan"
+	# AKA: Ivan Shishman
+	dynasty = 41
+	martial = 6
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = calm
+	trait = temperate
+	trait = education_martial_2
+	father = 467500
+	mother = 475552
+	3330.1.2 = {
+		birth = "3330.1.2"
+	}
+	3397.1.2 = {
+		death = "3397.1.2"
+	}
+}
+
+467513 = {
+	name = "Kera_Tamara"
+	# AKA: Kera Tamara
+	female = yes
+	dynasty = 41
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = education_stewardship_2
+	father = 467500
+	mother = 475552
+	3334.1.2 = {
+		birth = "3334.1.2"
+	}
+	3384.1.2 = {
+		death = "3384.1.2"
+	}
+}
+
+467520 = {
+	name = "Mihail"
+	dynasty = 41
+	martial = 8
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = diligent
+	trait = honest
+	trait = just
+	trait = zealous
+	trait = calm
+	trait = education_learning_2
+	father = 467508
+	3282.1.2 = {
+		birth = "3282.1.2"
+	}
+	3302.1.2 = {
+		add_spouse = 468511
+	}
+	3326.1.1 = {
+		remove_spouse = 468511
+	}	
+	3327.1.1 = {
+		add_spouse = 465515
+	}
+	3332.7.28 = {
+		death = "3332.7.28"
+	}
+}
+
+467521 = {
+	name = "Ivan_Stefan"
+	# AKA: Ivan Stefan
+	dynasty = 41
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = greedy
+	trait = education_intrigue_2
+	father = 467520
+	mother = 468511
+	3304.1.2 = {
+		birth = "3304.1.2"
+	}
+	3375.1.2 = {
+		death = "3375.1.2"
+	}
+}
+
+467522 = {
+	name = "Shishman"
+	dynasty = 41
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = education_martial_2
+	father = 467520
+	mother = 468511
+	3306.1.2 = {
+		birth = "3306.1.2"
+	}
+	3356.1.2 = {
+		death = "3356.1.2"
+	}
+}
+
+467523 = {
+	name = "Mihail"
+	dynasty = 41
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = temperate
+	trait = education_martial_2
+	father = 467520
+	mother = 468511
+	3308.1.2 = {
+		birth = "3308.1.2"
+	}
+	3358.1.2 = {
+		death = "3358.1.2"
+	}
+}
+
+467524 = {
+	name = "Liudovik"
+	dynasty = 41
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = education_martial_2
+	father = 467520
+	mother = 468511
+	3310.1.2 = {
+		birth = "3310.1.2"
+	}
+	3360.1.2 = {
+		death = "3360.1.2"
+	}
+}
+
+467530 = {
+	name = "Georgi"
+	dynasty = 40
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = education_intrigue_2
+	father = 31201
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3268.1.1 = {
+		add_spouse = 31183
+	}
+	3310.1.1 = {
+		death = "3310.1.1"
+	}
+}
+
+467531 = {
+	name = "Anna"
+	female = yes
+	dynasty = 40
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = calm
+	trait = stuttering
+	trait = education_intrigue_2
+	father = 467530
+	mother = 31183
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	3301.1.1 = {
+		death = "3301.1.1"
+	}
+}
+
+467540 = {
+	name = "Smiletz"
+	dynasty = 7205
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = wrathful
+	trait = education_diplomacy_3
+	father = 31198
+	3266.1.2 = {
+		birth = "3266.1.2"
+	}
+	3282.1.1 = {
+		add_spouse = 31189
+	}
+	3293.1.1 = {
+		add_spouse = 34288
+	}
+	3301.1.1 = {
+		death = "3301.1.1"
+	}
+}
+
+467541 = {
+	name = "Theodora"
+	female = yes
+	dynasty = 7205
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = stuttering
+	trait = education_learning_3
+	father = 467540
+	mother = 31189
+	3283.1.2 = {
+		birth = "3283.1.2"
+	}
+	3324.1.2 = {
+		death = "3324.1.2"
+	}
+}
+
+467542 = {
+	name = "Maria"
+	female = yes
+	dynasty = 7205
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = greedy
+	trait = education_intrigue_1
+	father = 467540
+	mother = 31189
+	3287.1.2 = {
+		birth = "3287.1.2"
+	}
+	3337.1.2 = {
+		death = "3337.1.2"
+	}
+}
+
+467550 = {
+	name = "Balik"
+	dynasty = 39
+	martial = 8
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = generous
+	trait = deceitful
+	trait = education_martial_3
+	father = 467555
+	3317.1.2 = {
+		birth = "3317.1.2"
+	}
+	3367.1.2 = {
+		death = "3367.1.2"
+	}
+}
+
+467551 = {
+	name = "Dobrotitza"
+	dynasty = 39
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = honest
+	trait = temperate
+	trait = education_intrigue_2
+	father = 467555
+	3319.1.2 = {
+		birth = "3319.1.2"
+	}
+	3369.1.2 = {
+		death = "3369.1.2"
+	}
+}
+
+467555 = {
+	name = "Dobromir"
+	dynasty = 39
+	martial = 8
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = craven
+	trait = education_diplomacy_3
+	3265.1.2 = {
+		birth = "3265.1.2"
+	}
+	3322.1.2 = {
+		death = "3322.1.2"
+	}
+}
+
+468550 = {
+	name = "Ivan"
+	dynasty = 40
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = zealous
+	trait = education_martial_2
+	father = 468555
+	mother = 467542
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3352.1.2 = {
+		death = "3352.1.2"
+	}
+}
+
+468555 = {
+	name = "Aldimir"
+	dynasty = 40
+	martial = 8
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = education_learning_2
+	father = 31201
+	3253.1.2 = {
+		birth = "3253.1.2"
+	}
+	3303.1.2 = {
+		add_spouse = 467542
+	}
+	3307.1.5 = {
+		death = "3307.1.5"
+	}
+}
+
+70380 = {
+	name = "Presian"
+	dynasty = 702
+	martial = 4
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 7
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = diligent
+	trait = content
+	trait = education_diplomacy_3
+	father = 722
+	3010.1.1 = {
+		birth = "3010.1.1"
+	}
+	3030.1.1 = {
+		trait = blind
+		trait = devoted
+	}
+	3063.1.1 = {
+		death = yes
+	}
+}
+
+70381 = {
+	name = "Nikola"
+	dynasty = 702
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = ambitious
+	trait = arrogant
+	trait = education_martial_2
+	mother = 70385
+	2927.1.1 = {
+		birth = yes
+	}
+	2978.1.1 = {
+		death = "2978.1.1"
+	}
+}
+
+70382 = {
+	name = "Boris"
+	dynasty = 8636
+	martial = 7
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 10
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	trait = ambitious	#Can't say he didn't aim high in all areas of his life.
+	trait = callous	#Blinded his own son, threatened to blind the others, ruthlessly broke pagan revolts throughout his reign. Rarely mean, but utterly pragmatic.
+	trait = cynical	#Converted for political reasons.
+	trait = education_martial_4
+	father = 70384
+	2827.1.1 = {
+		birth = "2827.1.1"
+	}
+	2843.1.1 = {
+		add_spouse = 168075
+	}
+	2857.1.1 = {
+		effect = {
+			set_relation_lover = { reason = lover_history target = character:168076 } 	#Meets Vasilka's mother.
+		}
+	}
+	2866.1.1 = {
+		religion = "orthodox"
+		capital = "c_dorostorum"
+		effect = {
+			set_relation_rival = { target = character:70383 reason = rival_historical }	#Vladimir does not take kindly to Christianity.
+			set_relation_potential_friend = character:712	#Simeon, on the other hand, is born just after/before the conversion, and he has high hopes.
+		}
+	}
+	889 = {
+		trait = devoted	#Abdicated to become a monk.
+	}
+	2909.5.2 = {
+		death = "2909.5.2"
+	}
+}
+
+70383 = {
+	name = "Vladimir_Rasate"
+	dynasty = 8636
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	trait = calm
+	trait = temperate
+	trait = zealous
+	trait = education_stewardship_2
+	father = 70382
+	mother = 168075
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}
+	2895.1.1 = {
+		trait = blind
+	}
+	2898.1.1 = {
+		death = {
+			death_reason = death_execution
+			killer = 70382
+		}
+	}
+}
+
+70384 = {
+	name = "Presian"
+	dynasty = 8636
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	trait = brave
+	trait = arrogant
+	trait = education_martial_2
+	father = 159126
+	2804.1.1 = {
+		birth = "2804.1.1"
+	}
+	2854.1.1 = {
+		death = "2854.1.1"
+	}
+}
+
+70385 = {
+	name = "Miroslava"
+	female = yes
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = greedy
+	trait = bastard
+	trait = education_diplomacy_2
+	father = 70382
+	
+	2914.1.1 = {
+		birth = yes
+	}
+	2975.1.1 = {
+		death = "2975.1.1"
+	}
+}
+
+712 = {
+	name = "Simeon"
+	dynasty = 8636
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	learning = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = intellect_good_1
+	trait = pensive
+	father = 70382
+	mother = 168075
+	2866.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		trait = ambitious
+		trait = zealous
+		trait = diligent
+		trait = education_learning_3
+	}
+	2916.1.1 = {
+		give_nickname = nick_the_great
+	}
+	2929.5.27 = {
+		death = "2929.5.27"
+	}
+}
+
+714 = {
+	name = "Petar"
+	dynasty = 8636
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = wrathful
+	trait = compassionate
+	trait = honest
+	trait = education_intrigue_2
+	father = 712
+	2914.1.1 = {
+		birth = "2914.1.1"
+	}
+	2971.1.30 = {
+		death = "2971.1.30"
+	}
+}
+
+716 = {
+	name = "Boris"
+	dynasty = 8636
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = deceitful
+	trait = education_intrigue_1
+	father = 714
+	2942.1.1 = {
+		birth = "2942.1.1"
+	}
+	2988.1.1 = {
+		death = "2988.1.1"
+	}
+}
+
+718 = {
+	name = "Roman"
+	dynasty = 8636
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = celibate
+	trait = gluttonous
+	trait = education_martial_3
+	father = 714
+	2947.1.1 = {
+		birth = "2947.1.1"
+	}
+	3000.1.1 = {
+		death = "3000.1.1"
+	}
+}
+
+720 = {
+	name = "Aron"
+	dynasty = 702
+	martial = 7
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = chaste
+	trait = hunchbacked
+	trait = education_intrigue_2
+	father = 70381
+	2942.1.1 = {
+		birth = "2942.1.1"
+	}
+	2990.7.14 = {
+		death = "2990.7.14"
+	}
+}
+
+722 = {
+	name = "Ivan_Vladislav"
+	# AKA: Ivan Vladislav
+	dynasty = 702
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = zealous
+	trait = education_martial_2
+	father = 720
+	2979.1.1 = {
+		birth = "2979.1.1"
+	}
+	3020.2.1 = {
+		death = "3020.2.1"
+	}
+}
+
+724 = {
+	name = "Alusian"
+	dynasty = 702
+	martial = 8
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = gluttonous
+	trait = honest
+	trait = education_martial_2
+	father = 722
+	3012.1.1 = {
+		birth = "3012.1.1"
+	}
+	3073.8.26 = {
+		death = "3073.8.26"
+	}
+}
+
+7242 = {
+	name = "Samuil"
+	dynasty = 702
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = education_martial_2
+	father = 724
+	3033.1.1 = {
+		birth = "3033.1.1"
+	}
+	3068.1.1 = {
+		employer = 724
+		contract_disease_effect = { DISEASE = ill TREATMENT_EVENT = yes }
+	}
+	3071.1.1 = {
+		death = "3071.1.1"
+	}
+}
+
+725 = {
+	name = "Anna"
+	female = yes
+	dynasty = 702
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = just
+	trait = education_intrigue_2
+	father = 724
+	3034.1.1 = {
+		birth = "3034.1.1"
+	}
+	3067.1.1 = {
+		death = "3067.1.1"
+	}
+}
+
+726 = {
+	name = "Trajan"
+	dynasty = 702
+	martial = 5
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 4
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = diligent
+	trait = wrathful
+	trait = education_martial_2
+	father = 722
+	3015.1.1 = {
+		birth = "3015.1.1"
+	}
+	3068.5.19 = {
+		death = "3068.5.19"
+	}
+}
+
+727 = {
+	name = "Mariya"
+	female = yes
+	dynasty = 702
+	martial = 8
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = diligent
+	trait = education_diplomacy_1
+	father = 726
+	3045.1.2 = {
+		birth = "3045.1.2"
+	}
+	3120.1.1 = {
+		death = "3120.1.1"
+	}
+}
+
+728 = {
+	name = "Samuil"
+	dynasty = 702
+	martial = 8
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = just
+	trait = education_martial_3
+	father = 70381
+	2947.1.1 = {
+		birth = "2947.1.1"
+	}
+	3016.10.6 = {
+		death = "3016.10.6"
+	}
+}
+
+729 = {
+	name = "Ekaterina"
+	female = yes
+	dynasty = 702
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = education_learning_3
+	father = 722
+	3017.1.1 = {
+		birth = "3017.1.1"
+	}
+	3063.1.1 = {
+		death = "3063.1.1"
+	}
+}
+
+730 = {
+	name = "Gavril_Radomir"
+	# AKA: Gavril Radomir
+	dynasty = 702
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = brave
+	trait = wrathful
+	trait = education_martial_3
+	trait = lifestyle_hunter
+	father = 728
+	2971.1.2 = {
+		birth = "2971.1.2"
+	}
+	2989.1.1 = {
+		add_spouse = 492
+	}
+	2990.1.1 = {
+		remove_spouse = 492
+	}
+	3017.10.1 = {
+		death = {
+			death_reason = death_hunting_accident
+			killer = 722 # Ivan Vladislav
+		}
+	}
+}
+
+732 = {
+	name = "Petar"
+	# AKA: Petar Deljan
+	dynasty = 702
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "bulgarian"
+	trait = cynical
+	trait = arrogant
+	trait = education_martial_2
+	father = 730
+	mother = 492
+	2991.1.1 = {
+		birth = "2991.1.1"
+	}
+	3043.1.1 = {
+		death = "3043.1.1"
+	}
+}
+
+34463 = {
+	name = "Georgi"
+	dynasty = 25200
+	trait = ambitious
+	religion = "orthodox"
+	culture = "bulgarian"
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}	
+	3080.1.1 = {
+		death = "3080.1.1"
+	}
+}
+
+34584 = {
+	name = "Dobromir"
+	dynasty = 100508
+	religion = "orthodox"
+	culture = "bulgarian"
+	3177.1.1 = {
+		birth = "3177.1.1"
+	}
+	3199.1.1 = {
+		add_spouse = 34585
+	}
+	3203.1.1 = {
+		remove_spouse = 34585
+	}
+	3203.1.1 = {
+		add_spouse = 7686
+	}
+	3205.1.1 = {
+		death = "3205.1.1"
+	}
+}
+
+159126 = {
+	name = "Zvinica" #father of Presian I
+	dynasty = 591
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	father = 159124
+	2786.1.2 = {
+		birth = "2786.1.2"
+	}
+	2832.1.2 = {
+		death = "2832.1.2"
+	}
+}
+
+168067 = {
+	name = "Gavril"
+	dynasty = 8636
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	father = 70382
+	mother = 168075
+	2850.1.1 = {
+		birth = "2850.1.1"
+	}
+	2866.1.1 = {
+		religion = "orthodox"
+		trait = disinherited	#His father preferred his newborn brother, Simeon.
+	}
+	2898.1.1 = {
+		death = "2898.1.1"
+	}
+}
+
+168068 = {
+	name = "Anna"
+	female = yes
+	dynasty = 8636
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	father = 70382
+	mother = 168075
+	2844.1.1 = {
+		birth = "2844.1.1"
+	}
+	2866.1.1 = {
+		religion = "orthodox"
+	}
+	2901.1.1 = {
+		death = "2901.1.1"
+	}
+}
+
+
+168069 = {
+	name = "Dox"
+	dynasty = 8636
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	father = 70384
+	2829.1.1 = {
+		birth = "2829.1.1"
+	}
+	2866.1.1 = {
+		religion = "orthodox"
+	}
+	2879.1.1 = {
+		death = "2879.1.1"
+	}
+}
+
+
+
+168070 = {
+	name = "Gavril"
+	dynasty = 8636
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	father = 70384
+	2831.1.1 = {
+		birth = "2831.1.1"
+	}
+	2866.1.1 = {
+		religion = "orthodox"
+	}
+	2881.1.1 = {
+		death = "2881.1.1"
+	}
+}
+
+168075 = {
+	name = "Marija"
+	female = yes
+	religion = "orthodox"
+	culture = "bulgarian"
+	2827.1.1 = {
+		birth = "2827.1.1"
+	}
+	2877.1.1 = {
+		death = "2877.1.1"
+	}
+}
+
+
+
+168076 = {
+	name = "Praxi"
+	female = yes
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	2837.1.1 = {
+		birth = "2837.1.1"
+	}
+	2866.1.1 = {
+		religion = "orthodox"
+	}
+	2887.1.1 = {
+		death = "2887.1.1"
+	}
+}
+
+
+168077 = {
+	name = "Vasilka" #real name unknown
+	female = yes
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	trait = bastard
+	father = 70382
+	mother = 168076
+	2857.1.1 = {
+		birth = "2857.1.1"
+	}
+	2866.1.1 = {
+		religion = "orthodox"
+	}
+	2901.1.1 = {
+		death = "2901.1.1"
+	}
+}
+
+
+168078 = {
+	name = "Iakov"
+	dynasty = 8636
+	religion = "orthodox"
+	culture = "bulgarian"
+	father = 70382
+	mother = 168075
+	2869.1.1 = {
+		birth = "2854.1.1"
+	}
+	2898.1.1 = {
+		death = "2898.1.1"
+	}
+}
+
+168287 = {
+	name = "Alogobotur"
+	dynasty = 9581
+	trait = education_martial_3
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2895.1.1 = {
+		religion = "orthodox"
+	}
+	2929.5.27 = {
+		death = "2929.5.27"
+	}
+}
+
+168288 = {
+	name = "Marmais"
+	dynasty = 9582
+	trait = education_martial_3
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2895.1.1 = {
+		religion = "orthodox"
+	}
+	2926.1.1 = {
+		death = "2926.1.1"
+	}
+}
+
+
+168289 = {
+	name = "Mostich"
+	#placeholder
+	dynasty = 9583
+	trait = education_martial_2
+	religion = "tengri_pagan"
+	culture = "bulgarian"
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}
+	2895.1.1 = {
+		religion = "orthodox"
+	}
+	2917.1.1 = {
+		death = "2917.1.1"
+	}
+}
+
+168290 = {
+	name = "Zalan"
+	dynasty = 9584
+	trait = education_intrigue_3
+	religion = "orthodox"
+	culture = "bulgarian"
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}
+	2897.1.1 = {
+		death = "2897.1.1"
+	}
+}
+
+168291 = {
+	name = "Petar"
+	#dynasty = 9585
+	trait = education_diplomacy_3
+	religion = "orthodox"
+	culture = "bulgarian"
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2891.1.1 = {
+		death = "2891.1.1"
+	}
+}

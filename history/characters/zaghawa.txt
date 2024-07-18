@@ -1,0 +1,1051 @@
+﻿# Sao rulers
+248717 = {
+	name = "Shu" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	trait = strong
+	2752.1.1 = {
+		birth = yes
+	}
+	2802.1.1 = {
+		death = yes
+	}
+}
+248718 = {
+	name = "Katuri" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248717
+	2782.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+248719 = {
+	name = "Dalu" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248718
+	2822.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+248720 = {
+	name = "Kuti" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248719
+	2869.1.1 = {
+		birth = yes
+	}
+	2937.1.1 = {
+		death = yes
+	}
+}
+248721 = {
+	name = "Oki" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248720
+	2902.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+248722 = {
+	name = "Timan" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248721
+	2942.1.1 = {
+		birth = yes
+	}
+	3012.1.1 = {
+		death = yes
+	}
+}
+248723 = {
+	name = "Kosu" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248722
+	2992.1.1 = {
+		birth = yes
+	}
+	3068.1.1 = {
+		death = yes
+	}
+}
+248724 = {
+	name = "Goukoni" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248723
+	3032.1.1 = {
+		birth = yes
+	}
+	3085.1.1 = {
+		death = yes
+	}
+}
+248725 = {
+	name = "Abakar" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	#trait = sympathy_islam
+	father = 248724
+	3068.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+248726 = {
+	name = "Oki" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	#trait = sympathy_islam
+	father = 248725
+	3102.1.1 = {
+		birth = yes
+	}
+	3162.1.1 = {
+		death = yes
+	}
+}
+248727 = {
+	name = "Sora" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	#trait = sympathy_islam
+	father = 248726
+	3132.1.1 = {
+		birth = yes
+	}
+	3192.1.1 = {
+		death = yes
+	}
+}
+248728 = {
+	name = "Musa" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	#trait = sympathy_islam
+	father = 248727
+	3162.1.1 = {
+		birth = yes
+	}
+	3222.1.1 = {
+		death = yes
+	}
+}
+248729 = {
+	name = "Tor" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	#trait = sympathy_islam
+	father = 248728
+	3192.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+248730 = {
+	name = "Tugule" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	#trait = sympathy_islam
+	father = 248729
+	3222.1.1 = {
+		birth = yes
+	}
+	3282.1.1 = {
+		death = yes
+	}
+}
+248731 = {
+	name = "Yaqub" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	#trait = sympathy_islam
+	father = 248730
+	3252.1.1 = {
+		birth = yes
+	}
+	3312.1.1 = {
+		death = yes
+	}
+}
+248732 = {
+	name = "Tijani" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	#trait = sympathy_islam
+	father = 248731
+	3282.1.1 = {
+		birth = yes
+	}
+	3342.1.1 = {
+		death = yes
+	}
+}
+248733 = {
+	name = "Siddick" # Fictional Soa ruler
+	dynasty = 1059974
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	#trait = sympathy_islam
+	father = 248732
+	3312.1.1 = {
+		birth = yes
+	}
+	3372.1.1 = {
+		death = yes
+	}
+}
+
+# Kayi dynasty - historical Zaghawa clan holding Fitri region
+248817 = {
+	name = "Kay"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	2752.1.1 = {
+		birth = yes
+	}
+	2822.1.1 = {
+		death = yes
+	}
+}
+248767 = {
+	name = "Baram"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248817
+	2770.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+248768 = {
+	name = "Ya"
+	female = yes
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248817
+	2771.1.1 = {
+		birth = yes
+	}
+	2845.1.1 = {
+		death = yes
+	}
+}
+248769 = {
+	name = "Alooma"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248767
+	2812.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+248770 = {
+	name = "Arku"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248769
+	2862.1.1 = {
+		birth = yes
+	}
+	2922.1.1 = {
+		death = yes
+	}
+}
+248771 = {
+	name = "Kaltum"
+	female = yes
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248769
+	2865.1.1 = {
+		birth = yes
+	}
+	2937.1.1 = {
+		death = yes
+	}
+}
+248772 = {
+	name = "Kiyari"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248770
+	2892.1.1 = {
+		birth = yes
+	}
+	2962.1.1 = {
+		death = yes
+	}
+}
+248773 = {
+	name = "Mamane"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248772
+	2932.1.1 = {
+		birth = yes
+	}
+	3002.1.1 = {
+		death = yes
+	}
+}
+248774 = {
+	name = "Bulu"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248773
+	2962.1.1 = {
+		birth = yes
+	}
+	3022.1.1 = {
+		death = yes
+	}
+}
+248775 = {
+	name = "Buyuma"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248774
+	2997.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+248776 = {
+	name = "Baram"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248775
+	3027.1.1 = {
+		birth = yes
+	}
+	3083.1.1 = {
+		death = yes
+	}
+}
+248777 = {
+	name = "Mamane"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248776
+	3058.1.1 = {
+		birth = yes
+	}
+	3112.1.1 = {
+		death = yes
+	}
+}
+248778 = {
+	name = "Malika"
+	female = yes	
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248776
+	3062.1.1 = {
+		birth = yes
+	}
+	3116.1.1 = {
+		death = yes
+	}
+}
+248779 = {
+	name = "Alooma"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248777
+	3083.1.1 = {
+		birth = yes
+	}
+	3152.1.1 = {
+		death = yes
+	}
+}
+248780 = {
+	name = "Kiyari"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248779
+	3102.1.1 = {
+		birth = yes
+	}
+	3172.1.1 = {
+		death = yes
+	}
+}
+248781 = {
+	name = "Baram"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248780
+	3132.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = yes
+	}
+}
+248782 = {
+	name = "Gaji"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248781
+	3162.1.1 = {
+		birth = yes
+	}
+	3222.1.1 = {
+		death = yes
+	}
+}
+248783 = {
+	name = "Gana"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248782
+	#trait = sympathy_islam
+	3192.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+248784 = {
+	name = "Kaday"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248783
+	#trait = sympathy_islam
+	3212.1.1 = {
+		birth = yes
+	}
+	3282.1.1 = {
+		death = yes
+	}
+}
+248785 = {
+	name = "Kanemi"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248784
+	#trait = sympathy_islam
+	3242.1.1 = {
+		birth = yes
+	}
+	3312.1.1 = {
+		death = yes
+	}
+}
+248786 = {
+	name = "Kura"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248785
+	# trait = sympathy_islam
+	3272.1.1 = {
+		birth = yes
+	}
+	3342.1.1 = {
+		death = yes
+	}
+}
+248787 = {
+	name = "Kuwaana"
+	dynasty = 1059965
+	religion = "west_african_bori_pagan"
+	culture = "zaghawa"
+	father = 248786
+	#trait = sympathy_islam
+	3292.1.1 = {
+		birth = yes
+	}
+	3352.1.1 = {
+		death = yes
+	}
+}
+
+# Teda clan rulers of Tibesti
+zaghawa0001 = {
+	name = "Tu" # Fictional
+	dynasty = zaghawadyn001
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	2848.1.1 = {
+		birth = yes
+	}
+	2899.1.1 = {
+		death = yes
+	}
+}
+zaghawa0002 = {
+	name = "Deli" # Fictional
+	dynasty = zaghawadyn001
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0001
+	2882.1.1 = {
+		birth = yes
+	}
+	2937.1.1 = {
+		death = yes
+	}
+}
+zaghawa0003 = {
+	name = "Kosu" # Fictional
+	dynasty = zaghawadyn001
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0002
+	2919.1.1 = {
+		birth = yes
+	}
+	2988.1.1 = {
+		death = yes
+	}
+}
+zaghawa0004 = {
+	name = "Tu" # Fictional
+	dynasty = zaghawadyn001
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0003
+	2970.1.1 = {
+		birth = yes
+	}
+	3037.1.1 = {
+		death = yes
+	}
+}
+zaghawa0005 = {
+	name = "Kosu" # Fictional
+	dynasty = zaghawadyn001
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0004
+	3020.1.1 = {
+		birth = yes
+	}
+	3077.1.1 = {
+		death = yes
+	}
+}
+zaghawa0006 = {
+	name = "Toholjo" # Fictional
+	dynasty = zaghawadyn001
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0005
+	3055.1.1 = {
+		birth = yes
+	}
+	3111.1.1 = {
+		death = yes
+	}
+}
+zaghawa0007 = {
+	name = "Deli" # Fictional
+	dynasty = zaghawadyn001
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0006
+	3092.1.1 = {
+		birth = yes
+	}
+	3145.1.1 = {
+		death = yes
+	}
+}
+zaghawa0008 = {
+	name = "Toholjo" # Fictional
+	dynasty = zaghawadyn001
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0007
+	3123.1.1 = {
+		birth = yes
+	}
+	3181.1.1 = {
+		death = yes
+	}
+}
+zaghawa0009 = {
+	name = "Kosu" # Fictional
+	dynasty = zaghawadyn001
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0008
+	3161.1.1 = {
+		birth = yes
+	}
+	3219.1.1 = {
+		death = yes
+	}
+}
+zaghawa0010 = {
+	name = "Tu" # Fictional
+	dynasty = zaghawadyn001
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0009
+	3198.1.1 = {
+		birth = yes
+	}
+	3261.1.1 = {
+		death = yes
+	}
+}
+
+#Koeherda in Bahr al-Ghazzal c_ghazzal and c_bodele
+
+zaghawa0011 = {
+	name = "Timan" #fictional
+	dynasty = zaghawadyn002 #Koeherda
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	2852.1.1 = {
+		birth = yes
+	}
+	2914.1.1 = {
+		death = yes
+	}
+}
+zaghawa0012 = {
+	name = "Dolo" #fictional
+	dynasty = zaghawadyn002
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0011
+	2897.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+zaghawa0013 = {
+	name = "Dolo" #fictional
+	dynasty = zaghawadyn002
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0012
+	2954.1.1 = {
+		birth = yes
+	}
+	3027.1.1 = {
+		death = yes
+	}
+}
+zaghawa0014 = {
+	name = "Minni" #fictional
+	dynasty = zaghawadyn002
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0013
+	3002.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+zaghawa0015 = {
+	name = "Minni" #fictional
+	dynasty = zaghawadyn002
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0014
+	3040.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+zaghawa0016 = {
+	name = "Timan" #fictional
+	dynasty = zaghawadyn002
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0015
+	3067.1.1 = {
+		birth = yes
+	}
+	3129.1.1 = {
+		death = yes
+	}
+}
+zaghawa0017 = {
+	name = "Okiramaj" #fictional
+	dynasty = zaghawadyn002
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0016
+	3100.1.1 = {
+		birth = yes
+	}
+	3160.1.1 = {
+		death = yes
+	}
+}
+zaghawa0018 = {
+	name = "Minni" #fictional
+	dynasty = zaghawadyn002
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0017
+	3137.1.1 = {
+		birth = yes
+	}
+	3191.1.1 = {
+		death = yes
+	}
+}
+zaghawa0019 = {
+	name = "Dolo" #fictional
+	dynasty = zaghawadyn002
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0018
+	3175.1.1 = {
+		birth = yes
+	}
+	3230.1.1 = {
+		death = yes
+	}
+}
+zaghawa0020 = {
+	name = "Okiramaj" #fictional
+	dynasty = zaghawadyn002
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0019
+	3209.1.1 = {
+		birth = yes
+	}
+	3271.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of Kreda dynasty for c_masalit c_qimr and c_ayn_farah
+zaghawa0021 = {
+	name = "Kpodo" #fictional
+	dynasty = zaghawadyn003
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	2847.1.1 = {
+		birth = yes
+	}
+	2899.1.1 = {
+		death = yes
+	}
+}
+zaghawa0022 = {
+	name = "Adika" #fictional
+	dynasty = zaghawadyn003
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0021
+	2867.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+zaghawa0023 = {
+	name = "Atsu" #fictional
+	dynasty = zaghawadyn003
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0022
+	2910.1.1 = {
+		birth = yes
+	}
+	2980.1.1 = {
+		death = yes
+	}
+}
+zaghawa0024 = {
+	name = "Kpodo" #fictional
+	dynasty = zaghawadyn003
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0023
+	2952.1.1 = {
+		birth = yes
+	}
+	3032.1.1 = {
+		death = yes
+	}
+}
+zaghawa0025 = {
+	name = "Atsu" #fictional
+	dynasty = zaghawadyn003
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0024
+	3014.1.1 = {
+		birth = yes
+	}
+	3072.1.1 = {
+		death = yes
+	}
+}
+zaghawa0026 = {
+	name = "Mawulawde" #fictional
+	dynasty = zaghawadyn003
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0025
+	3052.1.1 = {
+		birth = yes
+	}
+	3118.1.1 = {
+		death = yes
+	}
+}
+zaghawa0027 = {
+	name = "Kpodo" #fictional
+	dynasty = zaghawadyn003
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0026
+	3090.1.1 = {
+		birth = yes
+	}
+	3147.1.1 = {
+		death = yes
+	}
+}
+zaghawa0028 = {
+	name = "Adika" #fictional
+	dynasty = zaghawadyn003
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0027
+	3127.1.1 = {
+		birth = yes
+	}
+	3185.1.1 = {
+		death = yes
+	}
+}
+zaghawa0029 = {
+	name = "Adika" #fictional
+	dynasty = zaghawadyn003
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0028
+	3168.1.1 = {
+		birth = yes
+	}
+	3219.1.1 = {
+		death = yes
+	}
+}
+zaghawa0030 = {
+	name = "Atsu" #fictional
+	dynasty = zaghawadyn003
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0029
+	3201.1.1 = {
+		birth = yes
+	}
+	3265.1.1 = {
+		death = yes
+	}
+}
+
+#Norea clan - fictional rulers of Dar al-Rih in Darfur
+zaghawa0031 = {
+	name = "Mawulawde" #fictional
+	dynasty = zaghawadyn004
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	2850.1.1 = {
+		birth = yes
+	}
+	2910.1.1 = {
+		death = yes
+	}
+}
+zaghawa0032 = {
+	name = "Bla" #fictional
+	dynasty = zaghawadyn004
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0031
+	2891.1.1 = {
+		birth = yes
+	}
+	2964.1.1 = {
+		death = yes
+	}
+}
+zaghawa0033 = {
+	name = "Egya" #fictional
+	dynasty = zaghawadyn004
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0032
+	2947.1.1 = {
+		birth = yes
+	}
+	3014.1.1 = {
+		death = yes
+	}
+}
+zaghawa0034 = {
+	name = "Atsu" #fictional
+	dynasty = zaghawadyn004
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0033
+	2994.1.1 = {
+		birth = yes
+	}
+	3055.1.1 = {
+		death = yes
+	}
+}
+zaghawa0035 = {
+	name = "Egya" #fictional
+	dynasty = zaghawadyn004
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0034
+	3038.1.1 = {
+		birth = yes
+	}
+	3100.1.1 = {
+		death = yes
+	}
+}
+zaghawa0036 = {
+	name = "Mawulawde" #fictional
+	dynasty = zaghawadyn004
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0035
+	3068.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+zaghawa0037 = {
+	name = "Atsu" #fictional
+	dynasty = zaghawadyn004
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0036
+	3101.1.1 = {
+		birth = yes
+	}
+	3158.1.1 = {
+		death = yes
+	}
+}
+zaghawa0038 = {
+	name = "Bla" #fictional
+	dynasty = zaghawadyn004
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0037
+	3134.1.1 = {
+		birth = yes
+	}
+	3190.1.1 = {
+		death = yes
+	}
+}
+zaghawa0039 = {
+	name = "Bla" #fictional
+	dynasty = zaghawadyn004
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0038
+	3175.1.1 = {
+		birth = yes
+	}
+	3224.1.1 = {
+		death = yes
+	}
+}
+zaghawa0040 = {
+	name = "Egya" #fictional
+	dynasty = zaghawadyn004
+	religion = west_african_bori_pagan
+	culture = zaghawa
+	father = zaghawa0039
+	3208.1.1 = {
+		birth = yes
+	}
+	3271.1.1 = {
+		death = yes
+	}
+}

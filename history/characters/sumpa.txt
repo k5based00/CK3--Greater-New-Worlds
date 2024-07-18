@@ -1,0 +1,3640 @@
+﻿#Last King of Sumpa
+247341 = {
+	name="Drotsen" #Molingzan
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305543
+	2720.1.1={
+		birth=yes
+	}
+	2757.1.1={
+		death=yes
+	} #Killed by the Tibetans because of submission to Tang Dynasty
+}
+
+247342 = {
+	name="Shenlo" #Xinuoluo, Sumparu Kingdom claimant
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=247341
+	2738.1.1={
+		birth=yes
+	}
+	2756.1.1={
+		add_spouse = 252027
+	}
+	2757.1.1={
+		add_pressed_claim = title:c_nagchu
+		add_pressed_claim = title:c_amdo
+		add_pressed_claim = title:c_lhunzhub
+		add_pressed_claim = title:c_xainza
+		add_pressed_claim = title:d_nagchu
+	} #escapes to Tang China and is made a Huaiyi Prince
+	2802.1.1={
+		death=yes
+	}
+}
+
+12068 = {
+	name="Dudlutsen" # Fictional
+	dynasty=19128
+	
+	culture = sumpa
+	religion = old_bon
+	
+	2842.1.1={
+		birth=yes
+	}
+	2912.1.1={
+		death=yes
+	}
+}
+
+242403 = {
+	name="Shimwerro" # Fictional
+	dynasty=1053203
+	
+	culture = sumpa
+	religion=old_bon
+	
+	2746.1.1={
+		birth=yes
+	}
+	2797.1.1={
+		death=yes
+	}
+}
+
+242405 = {
+	# Fictional, but represents a semi-historical/legendary individual that comes from local stories in the
+	# eastern Changtang about a great female warrior(s) who ruled the Sumpa
+	name="Ataklumo"
+	dynasty=105835 #Tong
+	female = yes
+	father=247341
+	culture="sumpa"
+	religion="old_bon"
+	
+	trait="education_martial_3"
+	trait="brave"
+	trait="physique_good_2"
+	
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+242406 = {
+	name="Dhingyose" # Fictional
+	dynasty=1053205
+	female = yes
+	
+	culture = sumpa
+	religion=old_bon
+	
+	2845.1.1={
+		birth=yes
+	}
+	2915.1.1={
+		death=yes
+	}
+}
+
+243017 = {
+	name="Nyilni" # Fictional
+	dynasty=1053030
+	
+	culture = sumpa
+	religion = lamaism
+	
+	3086.1.1={
+		birth=yes
+	}
+	3156.1.1={
+		death=yes
+	}
+}
+
+243018 = {
+	name="Skyartse" # Fictional
+	dynasty=1053030
+	
+	culture = sumpa
+	religion = lamaism
+	
+	father = 243017
+	
+	3136.1.1={
+		birth=yes
+	}
+	3210.1.1={
+		death=yes
+	}
+}
+
+243019 = {
+	name="Mangpu" # Fictional
+	dynasty=1053030
+	
+	culture = sumpa
+	religion = lamaism
+	
+	father = 243018
+	
+	3194.1.1={
+		birth=yes
+	}
+	3264.1.1={
+		death=yes
+	}
+}
+
+#Nakchu vassals - fictional placeholders
+305542 = {
+	name="Gemang"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="sumpa"
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+305513 = {
+	name="Pude"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="sumpa"
+	father=305542
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+305514 = {
+	name="Jangbu"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="sumpa"
+	father=305513
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+305515 = {
+	name="Nyasig"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="sumpa"
+	father=305514
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+305516 = {
+	name="Kona"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="sumpa"
+	father=305515
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+305517 = {
+	name="Gungsong"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="sumpa"
+	father=305516
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+305518 = {
+	name="Cetan"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="sumpa"
+	father=305517
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+305519 = {
+	name="DruksE_"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="bodpa"
+	father=305518
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+305520 = {
+	name="Jodrung"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="bodpa"
+	father=305519
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+305521 = {
+	name="Razhak"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="bodpa"
+	father=305520
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+305522 = {
+	name="Sachen"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="bodpa"
+	father=305521
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+305523 = {
+	name="TsangdE_"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="bodpa"
+	father=305522
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+305524 = {
+	name="Mingma"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="bodpa"
+	father=305523
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+305525 = {
+	name="Nyatri"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="bodpa"
+	father=305524
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+305526 = {
+	name="Lutsek"
+	dynasty=2003068 #Nakchu
+	religion="old_bon"
+	culture="bodpa"
+	father=305525
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+305527 = {
+	name="Jetsan"
+	dynasty=2003068 #Nakchu
+	religion="bon"
+	culture="bodpa"
+	father=305526
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+305528 = {
+	name="MunE_"
+	dynasty=2003068 #Nakchu
+	religion="bon"
+	culture="bodpa"
+	father=305527
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+305529 = {
+	name="Sey"
+	dynasty=2003068 #Nakchu
+	religion="bon"
+	culture="bodpa"
+	father=305528
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+305530 = {
+	name="Norzang"
+	dynasty=2003068 #Nakchu
+	religion="lamaism"
+	culture="bodpa"
+	father=305529
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+305531 = {
+	name="Tridra"
+	dynasty=2003068 #Nakchu
+	religion="lamaism"
+	culture="bodpa"
+	father=305530
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+305532 = {
+	name="Gongpa"
+	dynasty=2003068 #Nakchu
+	religion="lamaism"
+	culture="bodpa"
+	father=305531
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+305533 = {
+	name="Pasang"
+	dynasty=2003068 #Nakchu
+	religion="lamaism"
+	culture="bodpa"
+	father=305532
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+305534 = {
+	name="Tsugru"
+	dynasty=2003068 #Nakchu
+	religion="lamaism"
+	culture="bodpa"
+	father=305533
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+305535 = {
+	name="Trisumje"
+	dynasty=2003068 #Nakchu
+	religion="lamaism"
+	culture="bodpa"
+	father=305534
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+305536 = {
+	name="Somba"
+	dynasty=2003068 #Nakchu
+	religion="lamaism"
+	culture="bodpa"
+	father=305535
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+305537 = {
+	name="Geleg"
+	dynasty=2003068 #Nakchu
+	religion="lamaism"
+	culture="bodpa"
+	father=305536
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+305538 = {
+	name="Kitsi"
+	dynasty=2003068 #Nakchu
+	religion="lamaism"
+	culture="bodpa"
+	father=305537
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+305539 = {
+	name="Seupa"
+	dynasty=2003068 #Nakchu
+	religion="lamaism"
+	culture="bodpa"
+	father=305538
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+305540 = {
+	name="Dedan"
+	dynasty=2003068 #Nakchu
+	religion="lamaism"
+	culture="bodpa"
+	father=305539
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+305541 = {
+	name="WO_ser"
+	dynasty=2003068 #Nakchu
+	religion="lamaism"
+	culture="bodpa"
+	father=305540
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Tong Royal Ancestors - fictional placeholders
+305543 = {
+	name="Murkya"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305544
+	2697.1.1={
+		birth=yes
+	}
+	2742.1.1={
+		death=yes
+	}
+}
+
+305544 = {
+	name="Rangskya"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305545
+	2672.1.1={
+		birth=yes
+	}
+	2724.1.1={
+		death=yes
+	}
+}
+
+305545 = {
+	name="Mangpu"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305546
+	2647.1.1={
+		birth=yes
+	}
+	2698.1.1={
+		death=yes
+	}
+}
+
+305546 = {
+	name="Namrakya"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	2592.1.1={
+		birth=yes
+	}
+	2650.1.1={
+		death=yes
+	}
+}
+
+#Tong descendants (Pelgon) - fictional placeholders
+305547 = {
+	name="Martaskra"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305545
+	2682.1.1={
+		birth=yes
+	}
+	2742.1.1={
+		death=yes
+	}
+}
+
+305548 = {
+	name="Thungni"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305547
+	2702.1.1={
+		birth=yes
+	}
+	2762.1.1={
+		death=yes
+	}
+}
+
+305549 = {
+	name="Tigrali"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305548
+	2722.1.1={
+		birth=yes
+	}
+	2782.1.1={
+		death=yes
+	}
+}
+
+305550 = {
+	name="Rawerni"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305549
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+305551 = {
+	name="Pantimatso"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305550
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+305552 = {
+	name="Mugunpu"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305551
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+305553 = {
+	name="Rtseni"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305552
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+305554 = {
+	name="Tigunyiri"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305553
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+305555 = {
+	name="Tigratinsho"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305554
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+305556 = {
+	name="Zarani"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305555
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+305557 = {
+	name="Zenji"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305556
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+305558 = {
+	name="GE_khO_"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305557
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+305559 = {
+	name="ME_"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305558
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+305560 = {
+	name="Ngor"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305559
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+305561 = {
+	name="JamgO_n"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305560
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+305562 = {
+	name="Taknye"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305561
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+305563 = {
+	name="Lek"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305562
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+305564 = {
+	name="SenggE_"
+	dynasty=105835 #Tong
+	religion="bon"
+	culture="sumpa"
+	father=305563
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+305565 = {
+	name="KU_nzang"
+	dynasty=105835 #Tong
+	religion="bon"
+	culture="sumpa"
+	father=305564
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+305566 = {
+	name="SO_nam"
+	dynasty=105835 #Tong
+	religion="bon"
+	culture="sumpa"
+	father=305565
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+305567 = {
+	name="Wangdak"
+	dynasty=105835 #Tong
+	religion="bon"
+	culture="sumpa"
+	father=305566
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+305568 = {
+	name="O_zer"
+	dynasty=105835 #Tong
+	religion="bon"
+	culture="sumpa"
+	father=305567
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+305569 = {
+	name="Jotok"
+	dynasty=105835 #Tong
+	religion="bon"
+	culture="sumpa"
+	father=305568
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+305570 = {
+	name="Phakpa"
+	dynasty=105835 #Tong
+	religion="bon"
+	culture="sumpa"
+	father=305569
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+305571 = {
+	name="ZangdE_"
+	dynasty=105835 #Tong
+	religion="bon"
+	culture="sumpa"
+	father=305570
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+305572 = {
+	name="GO_dem"
+	dynasty=105835 #Tong
+	religion="bon"
+	culture="sumpa"
+	father=305571
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+305573 = {
+	name="Gyagar"
+	dynasty=105835 #Tong
+	religion="bon"
+	culture="sumpa"
+	father=305572
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+305574 = {
+	name="LodrO_"
+	dynasty=105835 #Tong
+	religion="lamaism"
+	culture="bodpa"
+	father=305573
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+305575 = {
+	name="Rinchen"
+	dynasty=105835 #Tong
+	religion="lamaism"
+	culture="bodpa"
+	father=305574
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+305576 = {
+	name="Zonpa"
+	dynasty=105835 #Tong
+	religion="lamaism"
+	culture="bodpa"
+	father=305575
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+305577 = {
+	name="Yongten"
+	dynasty=105835 #Tong
+	religion="lamaism"
+	culture="bodpa"
+	father=305576
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+305578 = {
+	name="MunE_"
+	dynasty=105835 #Tong
+	religion="lamaism"
+	culture="bodpa"
+	father=305577
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+305579 = {
+	name="Gampo"
+	dynasty=105835 #Tong
+	religion="lamaism"
+	culture="bodpa"
+	father=305578
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Pelgon vassals (Garco) - fictional placeholders
+305580 = {
+	name="Tsakrani"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+305581 = {
+	name="Datserhim"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305580
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+305582 = {
+	name="Muguni"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305581
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+305583 = {
+	name="Pantihritse"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305582
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+305584 = {
+	name="Dangraskya"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305583
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+305585 = {
+	name="Thetsedar"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305584
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+305586 = {
+	name="Nyagdod"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305585
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+305587 = {
+	name="Dudlutsen"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305586
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+305588 = {
+	name="BO_nsung"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305587
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+305589 = {
+	name="ChO_mden"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305588
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+305590 = {
+	name="KU_ntu"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305589
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+305591 = {
+	name="SO_nnE_"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305590
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+305592 = {
+	name="DraktsendE_"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305591
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+305593 = {
+	name="BO_nkyi"
+	dynasty=2003069 #Pelgon
+	religion="old_bon"
+	culture="sumpa"
+	father=305592
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+305594 = {
+	name="BO_npodE_"
+	dynasty=2003069 #Pelgon
+	religion="bon"
+	culture="sumpa"
+	father=305593
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+305595 = {
+	name="BO_ndU_"
+	dynasty=2003069 #Pelgon
+	religion="bon"
+	culture="sumpa"
+	father=305594
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+305596 = {
+	name="BO_ntsen"
+	dynasty=2003069 #Pelgon
+	religion="bon"
+	culture="sumpa"
+	father=305595
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+305597 = {
+	name="BO_ndrO_"
+	dynasty=2003069 #Pelgon
+	religion="bon"
+	culture="sumpa"
+	father=305596
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+305598 = {
+	name="DE_tsukgO_n"
+	dynasty=2003069 #Pelgon
+	religion="bon"
+	culture="sumpa"
+	father=305597
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+305599 = {
+	name="JungnE_"
+	dynasty=2003069 #Pelgon
+	religion="bon"
+	culture="sumpa"
+	father=305598
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+305600 = {
+	name="Zanggyel"
+	dynasty=2003069 #Pelgon
+	religion="bon"
+	culture="sumpa"
+	father=305599
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+305601 = {
+	name="ZangdE_"
+	dynasty=2003069 #Pelgon
+	religion="bon"
+	culture="sumpa"
+	father=305600
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+305602 = {
+	name="TsE_dE_"
+	dynasty=2003069 #Pelgon
+	religion="bon"
+	culture="sumpa"
+	father=305601
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+305603 = {
+	name="Tsering"
+	dynasty=2003069 #Pelgon
+	religion="bon"
+	culture="sumpa"
+	father=305602
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+305604 = {
+	name="TridE_"
+	dynasty=2003069 #Pelgon
+	religion="lamaism"
+	culture="bodpa"
+	father=305603
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+305605 = {
+	name="LodrO_"
+	dynasty=2003069 #Pelgon
+	religion="lamaism"
+	culture="bodpa"
+	father=305604
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+305606 = {
+	name="GO_ngyel"
+	dynasty=2003069 #Pelgon
+	religion="lamaism"
+	culture="bodpa"
+	father=305605
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+305607 = {
+	name="ChidE_tsen"
+	dynasty=2003069 #Pelgon
+	religion="lamaism"
+	culture="bodpa"
+	father=305606
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+305608 = {
+	name="Detrin"
+	dynasty=2003069 #Pelgon
+	religion="lamaism"
+	culture="bodpa"
+	father=305607
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+305609 = {
+	name="Tridra"
+	dynasty=2003069 #Pelgon
+	religion="lamaism"
+	culture="bodpa"
+	father=305608
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Tong nomads (Conyi) - fictional placeholders (placeholder female dominated tribe)
+305610 = {
+	name="Sherkya"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=242405
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+305611 = {
+	name="Zhamze"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305610
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+305612 = {
+	name="Shethetse"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305611
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+305613 = {
+	name="Nelnesla"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305612
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+305614 = {
+	name="Baninera"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305613
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+305615 = {
+	name="Brizhalda"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305614
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+305616 = {
+	name="Khizhi"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305615
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+305617 = {
+	name="Shimyose"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305616
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+305618 = {
+	name="Smaryose"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305617
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+305619 = {
+	name="Tritiga"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305618
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+305620 = {
+	name="Tingsho"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305619
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+305621 = {
+	name="Neltunyose"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305620
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+305622 = {
+	name="Dhingyose"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305621
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+305623 = {
+	name="Zangsyag"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305622
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+305624 = {
+	name="Delosnyri"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305623
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+305625 = {
+	name="Bhardha"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305624
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+305626 = {
+	name="Yutsog"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305625
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+305627 = {
+	name="Pantitsamed"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305626
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+305628 = {
+	name="Smarkangshe"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305627
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+305629 = {
+	name="Shekhonti"
+	female=yes
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305628
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+305630 = {
+	name="GE_khO_"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	mother=305629
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+305631 = {
+	name="BO_ngyen"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305630
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+305632 = {
+	name="BO_ndrO_"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305631
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+305633 = {
+	name="GO_npo"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="sumpa"
+	father=305632
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+305634 = {
+	name="BO_ntsun"
+	dynasty=105835 #Tong
+	religion="old_bon"
+	culture="bodpa"
+	father=305633
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+305635 = {
+	name="GO_dem"
+	dynasty=105835 #Tong
+	religion="lamaism"
+	culture="bodpa"
+	father=305634
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+305636 = {
+	name="GyeldE_"
+	dynasty=105835 #Tong
+	religion="lamaism"
+	culture="bodpa"
+	father=305635
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+305637 = {
+	name="Detrin"
+	dynasty=105835 #Tong
+	religion="lamaism"
+	culture="bodpa"
+	father=305636
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+305638 = {
+	name="GyelwE_"
+	dynasty=105835 #Tong
+	religion="lamaism"
+	culture="bodpa"
+	father=305637
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Sumpa dynasty (Amdo) - fictional placeholders
+305639 = {
+	name="ChO_den"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	2702.1.1={
+		birth=yes
+	}
+	2762.1.1={
+		death=yes
+	}
+}
+
+305640 = {
+	name="BO_npoche"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305639
+	2722.1.1={
+		birth=yes
+	}
+	2782.1.1={
+		death=yes
+	}
+}
+
+305641 = {
+	name="BO_ntok"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305640
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+305642 = {
+	name="LhadE_"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305641
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+305643 = {
+	name="JamgO_n"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305642
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+305644 = {
+	name="Trimen"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305643
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+305645 = {
+	name="TrideiO_po"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305644
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+305646 = {
+	name="Balpo"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305645
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+305647 = {
+	name="ChE_chentsa"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305646
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+305648 = {
+	name="Naro"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305647
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+305649 = {
+	name="TO_npa"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305648
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+305650 = {
+	name="DonyO_"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305649
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+305651 = {
+	name="Mukhung"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305650
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+305652 = {
+	name="Gawa"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305651
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+305653 = {
+	name="Salwa"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305652
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+305654 = {
+	name="Yangje"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305653
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+305655 = {
+	name="Meka"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305654
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+305656 = {
+	name="Kyipo"
+	dynasty=2003070 #Sumpa
+	religion="bon"
+	culture="sumpa"
+	father=305655
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+305657 = {
+	name="Tsepo"
+	dynasty=2003070 #Sumpa
+	religion="bon"
+	culture="sumpa"
+	father=305656
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+305658 = {
+	name="Chakna"
+	dynasty=2003070 #Sumpa
+	religion="bon"
+	culture="bodpa"
+	father=305657
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+305659 = {
+	name="O_kar"
+	dynasty=2003070 #Sumpa
+	religion="bon"
+	culture="bodpa"
+	father=305658
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+305660 = {
+	name="Aktsom"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305659
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+305661 = {
+	name="Gyagar"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305660
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+305662 = {
+	name="SenO_l"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305661
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+305663 = {
+	name="Lutsek"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305662
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+305664 = {
+	name="Tseundu"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305663
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+305665 = {
+	name="Mangpoje"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305664
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+305666 = {
+	name="BardE_"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305665
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+305667 = {
+	name="Gyel"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305666
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+305668 = {
+	name="Detrul"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305667
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+305669 = {
+	name="Taru"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305668
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+305670 = {
+	name="Penden"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305669
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Hohozhili dynasty (Aqenganggyai) - fictional placeholders
+305671 = {
+	name="Rawerni"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+305672 = {
+	name="Thungni"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305671
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+305673 = {
+	name="BO_ntok"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305672
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+305674 = {
+	name="TO_npa"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305673
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+305675 = {
+	name="Mukhung"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305674
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+305676 = {
+	name="Zangza"
+	female=yes
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305675
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+305677 = {
+	name="Drakpa"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	mother=305676
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+305678 = {
+	name="Kunchen"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305677
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+305679 = {
+	name="Sachen"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305678
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+305680 = {
+	name="Skamar"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305679
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+305681 = {
+	name="Popo"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305680
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+305682 = {
+	name="Tridra"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305681
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+305683 = {
+	name="Ngodup"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305682
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+305684 = {
+	name="PO_nsE_"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305683
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+305685 = {
+	name="TsE_dE_"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305684
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+305686 = {
+	name="Pelkye"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305685
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+305687 = {
+	name="Khyungza"
+	female=yes
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305686
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+305688 = {
+	name="Gangkarwa"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	mother=305687
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+305689 = {
+	name="Tsugru"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305688
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+305690 = {
+	name="O_gyen"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305689
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+305691 = {
+	name="Dampa"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305690
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+305692 = {
+	name="Kelden"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305691
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+305693 = {
+	name="Wangchuk"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="sumpa"
+	father=305692
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+305694 = {
+	name="Tori"
+	dynasty=2003071 #Hohozhili
+	religion="old_bon"
+	culture="bodpa"
+	father=305693
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+305695 = {
+	name="Mangban"
+	dynasty=2003071 #Hohozhili
+	religion="lamaism"
+	culture="bodpa"
+	father=305694
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+305696 = {
+	name="Desho"
+	dynasty=2003071 #Hohozhili
+	religion="lamaism"
+	culture="bodpa"
+	father=305695
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+305697 = {
+	name="ChO_drO_n"
+	dynasty=2003071 #Hohozhili
+	religion="lamaism"
+	culture="bodpa"
+	father=305696
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+305698 = {
+	name="GO_ntsen"
+	dynasty=2003071 #Hohozhili
+	religion="lamaism"
+	culture="bodpa"
+	father=305697
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+305699 = {
+	name="Mida"
+	dynasty=2003071 #Hohozhili
+	religion="lamaism"
+	culture="bodpa"
+	father=305698
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+305700 = {
+	name="Jampo"
+	dynasty=2003071 #Hohozhili
+	religion="lamaism"
+	culture="bodpa"
+	father=305699
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Sumpa dynasty (Zadoi) - fictional placeholders
+305701 = {
+	name="BO_nchung"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305639
+	2724.1.1={
+		birth=yes
+	}
+	2782.1.1={
+		death=yes
+	}
+}
+
+305702 = {
+	name="Skyartse"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305701
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+305703 = {
+	name="JO_nwa"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305702
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+305704 = {
+	name="TsendrO_"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305703
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+305705 = {
+	name="Jowo"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305704
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+305706 = {
+	name="LopO_n"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305705
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+305707 = {
+	name="BO_nden"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305706
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+305708 = {
+	name="DrogO_n"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305707
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+305709 = {
+	name="LO_ntsen"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305708
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+305710 = {
+	name="Durshen"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305709
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+305711 = {
+	name="Gyeltsap"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305710
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+305712 = {
+	name="Mutik"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305711
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+305713 = {
+	name="Balpo"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305712
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+305714 = {
+	name="Jangbu"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305713
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+305715 = {
+	name="Rabtson"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305714
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+305716 = {
+	name="Tonggyung"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305715
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+305717 = {
+	name="Chatri"
+	dynasty=2003070 #Sumpa
+	religion="bon"
+	culture="sumpa"
+	father=305716
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+305718 = {
+	name="BO_nten"
+	dynasty=2003070 #Sumpa
+	religion="bon"
+	culture="sumpa"
+	father=305717
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+305719 = {
+	name="Mangban"
+	dynasty=2003070 #Sumpa
+	religion="bon"
+	culture="bodpa"
+	father=305718
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+305720 = {
+	name="Zangwa"
+	dynasty=2003070 #Sumpa
+	religion="bon"
+	culture="bodpa"
+	father=305719
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+305721 = {
+	name="NamdE_tsen"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305720
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+305722 = {
+	name="Lhachen"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305721
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+305723 = {
+	name="Gyeltso"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305722
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+305724 = {
+	name="Dar"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305723
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+305725 = {
+	name="KO_nchok"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305724
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+305726 = {
+	name="Changchub"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305725
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+305727 = {
+	name="Sotri"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305726
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+305728 = {
+	name="Wangdu"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305727
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+305729 = {
+	name="Udumtsen"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305728
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+305730 = {
+	name="O_zer"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305729
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+305731 = {
+	name="Zhangtsun"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305730
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Sumpa dynasty (Baqen) - fictional placeholders
+305732 = {
+	name="LO_po"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305639
+	2726.1.1={
+		birth=yes
+	}
+	2782.1.1={
+		death=yes
+	}
+}
+
+305733 = {
+	name="Lutsen"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305732
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+305734 = {
+	name="Thoktse"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305733
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+305735 = {
+	name="Yidring"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305734
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+305736 = {
+	name="Pholha"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305735
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+305737 = {
+	name="ChO_gyel"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305736
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+305738 = {
+	name="SongngE_"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305737
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+305739 = {
+	name="Senggetram"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305738
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+305740 = {
+	name="Chirum"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305739
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+305741 = {
+	name="Cimba"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305740
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+305742 = {
+	name="Zache"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305741
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+305743 = {
+	name="Getong"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305742
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+305744 = {
+	name="Sotri"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="sumpa"
+	father=305743
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+305745 = {
+	name="Rime"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="bodpa"
+	father=305744
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+305746 = {
+	name="BO_ngO_"
+	dynasty=2003070 #Sumpa
+	religion="old_bon"
+	culture="bodpa"
+	father=305745
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+305747 = {
+	name="Jalus"
+	dynasty=2003070 #Sumpa
+	religion="bon"
+	culture="bodpa"
+	father=305746
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+305748 = {
+	name="Sumnang"
+	dynasty=2003070 #Sumpa
+	religion="bon"
+	culture="bodpa"
+	father=305747
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+305749 = {
+	name="Namkha"
+	dynasty=2003070 #Sumpa
+	religion="bon"
+	culture="bodpa"
+	father=305748
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+305750 = {
+	name="GO_ngyel"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305749
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+305751 = {
+	name="Sangye"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305750
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+305752 = {
+	name="Draktsen"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305751
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+305753 = {
+	name="Gyatso"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305752
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+305754 = {
+	name="Phakpa"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305753
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+305755 = {
+	name="Trinyen"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305754
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+305756 = {
+	name="Kundun"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305755
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+305757 = {
+	name="Dekyi"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305756
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+305758 = {
+	name="Dingtri"
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305757
+	3240.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+305759 = {
+	name="Sengemo"
+	female=yes
+	dynasty=2003070 #Sumpa
+	religion="lamaism"
+	culture="bodpa"
+	father=305757
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}

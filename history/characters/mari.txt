@@ -1,0 +1,170 @@
+﻿#
+#
+194147 = {
+	name = "Varaka"
+	dynasty = 1029108
+	religion = finnish_pagan
+	culture = mari
+	2735.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194148 = {
+	name = "Nuyat"
+	dynasty = 1029108
+	religion = finnish_pagan
+	culture = mari
+	father = 194147
+	2762.1.1 = {
+		birth = yes
+	}
+	2824.1.1 = {
+		death = yes
+	}
+}
+194149 = {
+	name = "Atyamas"
+	dynasty = 1029108
+	religion = finnish_pagan
+	culture = mari
+	father = 194148
+	2782.1.1 = {
+		birth = yes
+	}
+	2841.1.1 = {
+		death = yes
+	}
+}
+160114 = {
+	name = "Shumat"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 194149
+	2802.1.1 = {
+		birth = "2802.1.1"
+	}
+	2867.1.1 = {
+		death = "2867.1.1"
+	}
+}
+160115 = {
+	name = "Azyren"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 160114
+	2845.1.1 = {
+		birth = yes
+	}
+	2929.1.1 = {
+		death = yes
+	}
+}
+159712 = {
+	name = "Purysho"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 160114
+	2844.1.1 = {
+		birth = yes
+	}
+	2929.1.1 = {
+		death = yes
+	}
+}
+160116 = {
+	name = "Saksa"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 160115
+	2863.1.1 = {
+		birth = "2863.1.1"
+	}
+	2907.1.1 = {
+		death = "2907.1.1"
+	}
+}
+160118 = {
+	name = "Tutyra"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 159712
+	2863.1.1 = {
+		birth = "2863.1.1"
+	}
+	2907.1.1 = {
+		death = "2907.1.1"
+	}
+}
+160117 = {
+	name = "Surt"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 160115
+	2864.1.1 = {
+		birth = "2864.1.1"
+	}
+	2907.1.1 = {
+		death = "2907.1.1"
+	}
+}
+160119 = {
+	name = "Uzhara"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 159712
+	2864.1.1 = {
+		birth = "2864.1.1"
+	}
+	2907.1.1 = {
+		death = "2907.1.1"
+	}
+}
+##
+302267 = {
+	name = "Iakov"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 2001051	#Opolyesky
+	2998.12.13 = {
+		birth = yes
+	}
+	3045.5.24 = {
+		death = yes
+	}
+}
+302268 = {
+	name = "Simeon"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 2001051	#Opolyesky
+	father = 302267
+	3027.6.21 = {
+		birth = yes
+	}
+	3074.7.3 = {
+		death = yes
+	}
+}
+302269 = {
+	name = "Alexei"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 2001051	#Opolyesky
+	father = 302268
+	3053.4.19 = {
+		birth = yes
+	}
+	3110.6.30 = {
+		death = yes
+	}
+}

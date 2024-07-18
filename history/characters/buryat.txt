@@ -1,0 +1,1318 @@
+﻿#Barga
+303070 = {
+	name = "Galsan"
+	dynasty = 2001142		#dynn_Barga
+	religion = tengri_pagan
+	culture = buryat
+	2827.1.4 = {
+		birth = yes
+	}
+	2850.8.17 = {
+		add_spouse = 303071
+	}
+	2882.10.23 = {
+		death = yes
+	}
+}
+303071 = {
+	name = "Soyolma"
+	female = yes
+	religion = tengri_pagan
+	culture = buryat
+	2834.7.21 = {
+		birth = yes
+	}
+	2902.8.18 = {
+		death = yes
+	}
+}
+303072 = {
+	name = "Geleg"
+	female = yes
+	dynasty = 2001142		#dynn_Barga
+	religion = tengri_pagan
+	culture = buryat
+	father = 303070
+	mother = 303071
+	2855.3.29 = {
+		birth = yes
+	}
+	2908.5.11 = {
+		death = yes
+	}
+}
+303073 = {
+	name = "Badma"
+	female = yes
+	dynasty = 2001142		#dynn_Barga
+	religion = tengri_pagan
+	culture = buryat
+	father = 303070
+	mother = 303071
+	2858.12.24 = {
+		birth = yes
+	}
+	2918.9.12 = {
+		death = yes
+	}
+}
+
+303074 = {
+	name = "Baatar"
+	dynasty = 2001142		#dynn_Barga
+	religion = tengri_pagan
+	culture = buryat
+	3042.7.18 = {
+		birth = yes
+	}
+	3102.2.13 = {
+		death = yes
+	}
+}
+303075 = {
+	name = "Azarga"
+	dynasty = 2001142		#dynn_Barga
+	religion = tengri_pagan
+	culture = buryat
+	father = 303074
+	3066.9.8 = {
+		birth = yes
+	}
+	3109.6.10 = {
+		death = yes
+	}
+}
+303076 = {
+	name = "Mulan"
+	dynasty = 2001142		#dynn_Barga
+	religion = tengri_pagan
+	culture = buryat
+	father = 303075
+	3092.7.15 = {
+		birth = yes
+	}
+	3150.12.27 = {
+		death = yes
+	}
+}
+303077 = {
+	name = "Joichi"
+	dynasty = 2001142		#dynn_Barga
+	religion = tengri_pagan
+	culture = buryat
+	father = 303076
+	3114.12.30 = {
+		birth = yes
+	}
+	3155.2.2 = {
+		death = yes
+	}
+}
+303078 = {
+	name = "Ligdan"
+	dynasty = 2001142		#dynn_Barga
+	religion = tengri_pagan
+	culture = buryat
+	father = 303077
+	3144.1.30 = {
+		birth = yes
+	}
+	3202.5.18 = {
+		death = yes
+	}
+}
+303079 = {
+	name = "Baatar"
+	dynasty = 2001142		#dynn_Barga
+	religion = tengri_pagan
+	culture = buryat
+	father = 303078
+	3165.7.24 = {
+		birth = yes
+	}
+	3211.8.16 = {
+		death = yes
+	}
+}
+
+#Khori-tumeds
+303080 = {
+	name = "Tolui"
+	dynasty = 2001143		#dynn_Khori_Tumed
+	religion = tengri_pagan
+	culture = buryat
+	2847.6.18 = {
+		birth = yes
+	}
+	2902.10.14 = {
+		death = yes
+	}
+}
+303081 = {
+	name = "Tuyana"
+	female = yes
+	dynasty = 2001143		#dynn_Khori_Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303080
+	2871.3.18 = {
+		birth = yes
+	}
+	2918.9.21 = {
+		death = yes
+	}
+}
+303082 = {
+	name = "Zorikto"
+	dynasty = 2001143		#dynn_Khori_Tumed
+	religion = tengri_pagan
+	culture = buryat
+	mother = 303081
+	2895.2.20 = {
+		birth = yes
+	}
+	2948.4.1 = {
+		death = yes
+	}
+}
+
+303083 = {
+	name = "Eshegen"
+	dynasty = 2001143		#dynn_Khori_Tumed
+	religion = tengri_pagan
+	culture = buryat
+	3040.6.26 = {
+		birth = yes
+	}
+	3096.4.28 = {
+		death = yes
+	}
+}
+303084 = {
+	name = "Guluun"
+	dynasty = 2001143		#dynn_Khori_Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303083
+	3064.1.24 = {
+		birth = yes
+	}
+	3116.9.30 = {
+		death = yes
+	}
+}
+303085 = {
+	name = "Rinchin"
+	dynasty = 2001143		#dynn_Khori_Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303084
+	3090.12.12 = {
+		birth = yes
+	}
+	3150.7.8 = {
+		death = yes
+	}
+}
+303086 = {
+	name = "Buda"
+	dynasty = 2001143		#dynn_Khori_Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303085
+	3111.1.28 = {
+		birth = yes
+	}
+	3150.10.26 = {
+		death = yes
+	}
+}
+303087 = {
+	name = "Zamso"
+	dynasty = 2001143		#dynn_Khori_Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303086
+	3133.8.15 = {
+		birth = yes
+	}
+	3160.7.23 = {
+		death = yes
+	}
+}
+
+303088 = {
+	name = "Innokentii"
+	dynasty = 2001143		#dynn_Khori_Tumed
+	religion = tengri_pagan
+	culture = buryat
+	2837.1.25 = {
+		birth = yes
+	}
+	2891.3.16 = {
+		death = yes
+	}
+}
+303089 = {
+	name = "Tsyrendashi"
+	dynasty = 2001143		#dynn_Khori_Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303088
+	2860.8.15 = {
+		birth = yes
+	}
+	2915.11.3 = {
+		death = yes
+	}
+}
+
+303090 = {
+	name = "Engke"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	3046.3.8 = {
+		birth = yes
+	}
+	3094.12.7 = {
+		death = yes
+	}
+}
+303091 = {
+	name = "Bolot"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303090
+	3072.5.13 = {
+		birth = yes
+	}
+	3113.9.11 = {
+		death = yes
+	}
+}
+303092 = {
+	name = "Arugtai"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303091
+	3097.1.26 = {
+		birth = yes
+	}
+	3147.8.21 = {
+		death = yes
+	}
+}
+303093 = {
+	name = "Qayshan"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303092
+	3123.11.14 = {
+		birth = yes
+	}
+	3168.3.28 = {
+		death = yes
+	}
+}
+303094 = {
+	name = "Jorightu"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303093
+	3147.7.20 = {
+		birth = yes
+	}
+	3202.6.16 = {
+		death = yes
+	}
+}
+303095 = {
+	name = "Bahamu"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303094
+	3169.11.4 = {
+		birth = yes
+	}
+	3221.1.18 = {
+		death = yes
+	}
+}
+
+303096 = {
+	name = "Bair"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	2847.1.5 = {
+		birth = yes
+	}
+	2904.8.16 = {
+		death = yes
+	}
+}
+303097 = {
+	name = "Damba"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303096
+	2872.4.23 = {
+		birth = yes
+	}
+	2922.1.12 = {
+		death = yes
+	}
+}
+
+303098 = {
+	name = "Amgalan"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	3040.1.4 = {
+		birth = yes
+	}
+	3085.2.26 = {
+		death = yes
+	}
+}
+303099 = {
+	name = "Oyiradai"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303098
+	3059.3.9 = {
+		birth = yes
+	}
+	3111.4.22 = {
+		death = yes
+	}
+}
+303100 = {
+	name = "Yeshinhorlo"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303099
+	3084.5.30 = {
+		birth = yes
+	}
+	3151.6.18 = {
+		death = yes
+	}
+}
+303101 = {
+	name = "Manduulun"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303100
+	3104.7.10 = {
+		birth = yes
+	}
+	3143.8.6 = {
+		death = yes
+	}
+}
+303102 = {
+	name = "Bashiila"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303101
+	3130.9.28 = {
+		birth = yes
+	}
+	3179.10.22 = {
+		death = yes
+	}
+}
+303103 = {
+	name = "Shono"
+	dynasty = 2001143		#Khori-Tumed
+	religion = tengri_pagan
+	culture = buryat
+	father = 303102
+	3156.11.17 = {
+		birth = yes
+	}
+	3209.12.5 = {
+		death = yes
+	}
+}
+
+#Galzuud 2001145
+303141 = {
+	name = "Namzil"
+	dynasty = 2001145	#Galzuud
+	religion = siberian_pagan
+	culture = buryat
+	father = galzuud0001
+	2859.10.8 = {
+		birth = yes
+	}
+	2905.2.13 = {
+		death = yes
+	}
+}
+303144 = {
+	name = "Azarga"
+	dynasty = 2001145	#Galzuud
+	religion = siberian_pagan
+	culture = buryat
+	father = galzuud0003
+	3096.7.18 = {
+		birth = yes
+	}
+	3147.4.11 = {
+		death = yes
+	}
+}
+303145 = {
+	name = "Bukha"
+	dynasty = 2001145	#Galzuud
+	religion = siberian_pagan
+	culture = buryat
+	father = 303144
+	3123.11.13 = {
+		birth = yes
+	}
+	3184.8.15 = {
+		death = yes
+	}
+}
+303146 = {
+	name = "Tekhe"
+	dynasty = 2001145	#Galzuud
+	religion = siberian_pagan
+	culture = buryat
+	father = 303145
+	3150.9.29 = {
+		birth = yes
+	}
+	3196.11.4 = {
+		death = yes
+	}
+}
+303147 = {
+	name = "Tsyren"
+	dynasty = 2001145	#Galzuud
+	religion = siberian_pagan
+	culture = buryat
+	father = 303146
+	3171.2.27 = {
+		birth = yes
+	}
+	3226.7.2 = {
+		death = yes
+	}
+}
+
+galzuud0001 = {
+	name = "Osor"
+	dynasty = 2001145	#Galzuud
+	religion = siberian_pagan
+	culture = buryat
+	2837.6.19 = {
+		birth = yes
+	}
+	2891.8.20 = {
+		death = yes
+	}
+}
+
+#Hengelder 2001146
+303148 = {
+	name = "Aldar"
+	dynasty = 2001146	#Hengelder
+	religion = siberian_pagan
+	culture = buryat
+	2839.1.18 = {
+		birth = yes
+	}
+	2894.4.25 = {
+		death = yes
+	}
+}
+303149 = {
+	name = "Damba"
+	dynasty = 2001146	#Hengelder
+	religion = siberian_pagan
+	culture = buryat
+	father = 303148
+	2863.10.30 = {
+		birth = yes
+	}
+	2907.6.19 = {
+		death = yes
+	}
+}
+
+303150 = {
+	name = "Sayn"
+	dynasty = 2001146	#Hengelder
+	religion = siberian_pagan
+	culture = buryat
+	3055.8.12 = {
+		birth = yes
+	}
+	3104.7.11 = {
+		death = yes
+	}
+}
+303151 = {
+	name = "Eshegen"
+	dynasty = 2001146	#Hengelder
+	religion = siberian_pagan
+	culture = buryat
+	father = 303150
+	3078.5.14 = {
+		birth = yes
+	}
+	3126.11.9 = {
+		death = yes
+	}
+}
+303152 = {
+	name = "Erdenebal"
+	dynasty = 2001146	#Hengelder
+	religion = siberian_pagan
+	culture = buryat
+	father = 303151
+	3102.7.19 = {
+		birth = yes
+	}
+	3160.12.6 = {
+		death = yes
+	}
+}
+303153 = {
+	name = "Solbon"
+	dynasty = 2001146	#Hengelder
+	religion = siberian_pagan
+	culture = buryat
+	father = 303152
+	3127.5.14 = {
+		birth = yes
+	}
+	3181.1.2 = {
+		death = yes
+	}
+}
+303154 = {
+	name = "Urzin"
+	dynasty = 2001146	#Hengelder
+	religion = siberian_pagan
+	culture = buryat
+	father = 303153
+	3149.3.16 = {
+		birth = yes
+	}
+	3202.4.20 = {
+		death = yes
+	}
+}
+303155 = {
+	name = "Bek"
+	dynasty = 2001146	#Hengelder
+	religion = siberian_pagan
+	culture = buryat
+	father = 303154
+	3168.11.18 = {
+		birth = yes
+	}
+	3206.8.13 = {
+		death = yes
+	}
+}
+
+#Abazaj 2001147
+303156 = {
+	name = "Sambuu"
+	dynasty = 2001147	#Abazaj
+	religion = siberian_pagan
+	culture = buryat
+	2846.1.18 = {
+		birth = yes
+	}
+	2893.9.13 = {
+		death = yes
+	}
+}
+303157 = {
+	name = "Tayisung"
+	dynasty = 2001147	#Abazaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303156
+	2873.2.23 = {
+		birth = yes
+	}
+	2923.7.16 = {
+		death = yes
+	}
+}
+
+303158 = {
+	name = "Ariq"
+	dynasty = 2001147	#Abazaj
+	religion = siberian_pagan
+	culture = buryat
+	3046.10.28 = {
+		birth = yes
+	}
+	3094.6.27 = {
+		death = yes
+	}
+}
+303159 = {
+	name = "Jorightu"
+	dynasty = 2001147	#Abazaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303158
+	3072.3.19 = {
+		birth = yes
+	}
+	3127.7.11 = {
+		death = yes
+	}
+}
+303160 = {
+	name = "Gulichi"
+	dynasty = 2001147	#Abazaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303159
+	3091.8.2 = {
+		birth = yes
+	}
+	3152.12.23 = {
+		death = yes
+	}
+}
+303161 = {
+	name = "Bars"
+	dynasty = 2001147	#Abazaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303160
+	3113.9.14 = {
+		birth = yes
+	}
+	3161.1.27 = {
+		death = yes
+	}
+}
+303162 = {
+	name = "Tsokto"
+	dynasty = 2001147	#Abazaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303161
+	3141.6.29 = {
+		birth = yes
+	}
+	3192.1.13 = {
+		death = yes
+	}
+}
+303163 = {
+	name = "Khotsa"
+	dynasty = 2001147	#Abazaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303162
+	3169.11.23 = {
+		birth = yes
+	}
+	3218.1.14 = {
+		death = yes
+	}
+}
+
+#Yrkhu 2001148
+303164 = {
+	name = "Arugtai"
+	dynasty = 2001148	#Yrkhu
+	religion = siberian_pagan
+	culture = buryat
+	2844.1.14 = {
+		birth = yes
+	}
+	2893.3.26 = {
+		death = yes
+	}
+}
+303165 = {
+	name = "Khermen"
+	dynasty = 2001148	#Yrkhu
+	religion = siberian_pagan
+	culture = buryat
+	father = 303164
+	2864.5.17 = {
+		birth = yes
+	}
+	2920.10.19 = {
+		death = yes
+	}
+}
+
+303166 = {
+	name = "Baldan"
+	dynasty = 2001148	#Yrkhu
+	religion = siberian_pagan
+	culture = buryat
+	3045.1.22 = {
+		birth = yes
+	}
+	3094.12.17 = {
+		death = yes
+	}
+}
+303167 = {
+	name = "Uskhal"
+	dynasty = 2001148	#Yrkhu
+	religion = siberian_pagan
+	culture = buryat
+	father = 303166
+	3070.8.16 = {
+		birth = yes
+	}
+	3122.4.15 = {
+		death = yes
+	}
+}
+303168 = {
+	name = "Mulan"
+	dynasty = 2001148	#Yrkhu
+	religion = siberian_pagan
+	culture = buryat
+	father = 303167
+	3092.11.13 = {
+		birth = yes
+	}
+	3143.11.8 = {
+		death = yes
+	}
+}
+303169 = {
+	name = "Eshi"
+	dynasty = 2001148	#Yrkhu
+	religion = siberian_pagan
+	culture = buryat
+	father = 303168
+	3118.9.2 = {
+		birth = yes
+	}
+	3150.7.19 = {
+		death = yes
+	}
+}
+303170 = {
+	name = "Bidia"
+	dynasty = 2001148	#Yrkhu
+	religion = siberian_pagan
+	culture = buryat
+	father = 303169
+	3142.10.29 = {
+		birth = yes
+	}
+	3188.1.16 = {
+		death = yes
+	}
+}
+303171 = {
+	name = "Badmazhap"
+	dynasty = 2001148	#Yrkhu
+	religion = siberian_pagan
+	culture = buryat
+	father = 303170
+	3163.8.12 = {
+		birth = yes
+	}
+	3207.1.22 = {
+		death = yes
+	}
+}
+
+#Sono 2001149
+303172 = {
+	name = "Arigaba"
+	dynasty = 2001149	#Sono
+	religion = siberian_pagan
+	culture = buryat
+	2838.1.18 = {
+		birth = yes
+	}
+	2895.9.22 = {
+		death = yes
+	}
+}
+303173 = {
+	name = "Tseden"
+	dynasty = 2001149	#Sono
+	religion = siberian_pagan
+	culture = buryat
+	father = 303172
+	2861.12.8 = {
+		birth = yes
+	}
+	2902.7.10 = {
+		death = yes
+	}
+}
+303174 = {
+	name = "Engke"
+	dynasty = 2001149	#Sono
+	religion = siberian_pagan
+	culture = buryat
+	3039.10.4 = {
+		birth = yes
+	}
+	3094.5.2 = {
+		death = yes
+	}
+}
+303175 = {
+	name = "Toq"
+	dynasty = 2001149	#Sono
+	religion = siberian_pagan
+	culture = buryat
+	father = 303174
+	3065.1.19 = {
+		birth = yes
+	}
+	3125.8.16 = {
+		death = yes
+	}
+}
+303176 = {
+	name = "Sodnom"
+	dynasty = 2001149	#Sono
+	religion = siberian_pagan
+	culture = buryat
+	father = 303175
+	3089.3.17 = {
+		birth = yes
+	}
+	3137.7.22 = {
+		death = yes
+	}
+}
+303177 = {
+	name = "Sambuu"
+	dynasty = 2001149	#Sono
+	religion = siberian_pagan
+	culture = buryat
+	father = 303176
+	3121.1.10 = {
+		birth = yes
+	}
+	3162.8.22 = {
+		death = yes
+	}
+}
+303178 = {
+	name = "Zamso"
+	dynasty = 2001149	#Sono
+	religion = siberian_pagan
+	culture = buryat
+	father = 303177
+	3143.1.17 = {
+		birth = yes
+	}
+	3195.3.26 = {
+		death = yes
+	}
+}
+303179 = {
+	name = "Qoshila"
+	dynasty = 2001149	#Sono
+	religion = siberian_pagan
+	culture = buryat
+	father = 303178
+	3162.11.29 = {
+		birth = yes
+	}
+	3199.2.25 = {
+		death = yes
+	}
+}
+
+#Bajandaj 2001150
+303180 = {
+	name = "Batu"
+	dynasty = 2001150	#Bajandaj
+	religion = siberian_pagan
+	culture = buryat
+	2828.7.18 = {
+		birth = yes
+	}
+	2891.2.23 = {
+		death = yes
+	}
+}
+303181 = {
+	name = "Tsyren"
+	dynasty = 2001150	#Bajandaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303180
+	2853.11.26 = {
+		birth = yes
+	}
+	2904.8.21 = {
+		death = yes
+	}
+}
+
+303182 = {
+	name = "Bair"
+	dynasty = 2001150	#Bajandaj
+	religion = siberian_pagan
+	culture = buryat
+	3032.6.18 = {
+		birth = yes
+	}
+	3083.10.3 = {
+		death = yes
+	}
+}
+303183 = {
+	name = "Geleg"
+	dynasty = 2001150	#Bajandaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303182
+	3056.12.27 = {
+		birth = yes
+	}
+	3105.4.16 = {
+		death = yes
+	}
+}
+303184 = {
+	name = "Joichi"
+	dynasty = 2001150	#Bajandaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303183
+	3080.4.20 = {
+		birth = yes
+	}
+	3138.1.19 = {
+		death = yes
+	}
+}
+303185 = {
+	name = "Qayshan"
+	dynasty = 2001150	#Bajandaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303184
+	3103.10.24 = {
+		birth = yes
+	}
+	3151.3.26 = {
+		death = yes
+	}
+}
+303186 = {
+	name = "Joichi"
+	dynasty = 2001150	#Bajandaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303185
+	3133.6.19 = {
+		birth = yes
+	}
+	3180.8.22 = {
+		death = yes
+	}
+}
+303187 = {
+	name = "Manduulun"
+	dynasty = 2001150	#Bajandaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303186
+	3153.11.4 = {
+		birth = yes
+	}
+	3203.2.13 = {
+		death = yes
+	}
+}
+303188 = {
+	name = "Tolui"
+	dynasty = 2001150	#Bajandaj
+	religion = siberian_pagan
+	culture = buryat
+	father = 303187
+	3170.4.6 = {
+		birth = yes
+	}
+	3215.11.18 = {
+		death = yes
+	}
+}
+
+#Bulagad 2001151
+303189 = {
+	name = "Rinchin"
+	dynasty = 2001151	#Bulagad
+	religion = siberian_pagan
+	culture = buryat
+	2823.4.2 = {
+		birth = yes
+	}
+	2880.2.3 = {
+		death = yes
+	}
+}
+303190 = {
+	name = "Suddhipala"
+	dynasty = 2001151	#Bulagad
+	religion = siberian_pagan
+	culture = buryat
+	father = 303189
+	2848.11.6 = {
+		birth = yes
+	}
+	2907.7.1 = {
+		death = yes
+	}
+}
+
+303191 = {
+	name = "Bulgan"
+	dynasty = 2001151	#Bulagad
+	religion = siberian_pagan
+	culture = buryat
+	3034.5.1 = {
+		birth = yes
+	}
+	3085.6.23 = {
+		death = yes
+	}
+}
+303192 = {
+	name = "Gunga"
+	dynasty = 2001151	#Bulagad
+	religion = siberian_pagan
+	culture = buryat
+	father = 303191
+	3057.9.15 = {
+		birth = yes
+	}
+	3125.2.19 = {
+		death = yes
+	}
+}
+303193 = {
+	name = "Guluun"
+	dynasty = 2001151	#Bulagad
+	religion = siberian_pagan
+	culture = buryat
+	father = 303192
+	3081.3.14 = {
+		birth = yes
+	}
+	3127.2.28 = {
+		death = yes
+	}
+}
+303194 = {
+	name = "Bulgan"
+	dynasty = 2001151	#Bulagad
+	religion = siberian_pagan
+	culture = buryat
+	father = 303193
+	3113.7.1= {
+		birth = yes
+	}
+	3159.4.30 = {
+		death = yes
+	}
+}
+303195 = {
+	name = "Arugtai"
+	dynasty = 2001151	#Bulagad
+	religion = siberian_pagan
+	culture = buryat
+	father = 303194
+	3130.2.25 = {
+		birth = yes
+	}
+	3186.1.16 = {
+		death = yes
+	}
+}
+303196 = {
+	name = "Guluun"
+	dynasty = 2001151	#Bulagad
+	religion = siberian_pagan
+	culture = buryat
+	father = 303195
+	3153.10.14 = {
+		birth = yes
+	}
+	3202.9.21 = {
+		death = yes
+	}
+}
+
+#Khongodor
+303197 = {
+	name = "Khotsa"
+	dynasty = 2001152	#Khongodor
+	religion = tengri_pagan
+	culture = buryat
+	2845.1.26 = {
+		birth = yes
+	}
+	2901.3.14 = {
+		death = yes
+	}
+}
+303198 = {
+	name = "Erdenebal"
+	dynasty = 2001152	#Khongodor
+	religion = tengri_pagan
+	culture = buryat
+	father = 303197
+	2866.10.28 = {
+		birth = yes
+	}
+	2928.12.29 = {
+		death = yes
+	}
+}
+
+303199 = {
+	name = "Uskhal"
+	dynasty = 2001152	#Khongodor
+	religion = tengri_pagan
+	culture = buryat
+	3021.5.30 = {
+		birth = yes
+	}
+	3076.4.18 = {
+		death = yes
+	}
+}
+303200 = {
+	name = "Gombozab"
+	dynasty = 2001152	#Khongodor
+	religion = tengri_pagan
+	culture = buryat
+	father = 303199
+	3044.7.23 = {
+		birth = yes
+	}
+	3103.10.20 = {
+		death = yes
+	}
+}
+303201 = {
+	name = "Sodnom"
+	dynasty = 2001152	#Khongodor
+	religion = tengri_pagan
+	culture = buryat
+	father = 303200
+	3065.7.12 = {
+		birth = yes
+	}
+	3114.1.1 = {
+		death = yes
+	}
+}
+303202 = {
+	name = "Osor"
+	dynasty = 2001152	#Khongodor
+	religion = tengri_pagan
+	culture = buryat
+	father = 303201
+	3090.9.2 = {
+		birth = yes
+	}
+	3146.3.16 = {
+		death = yes
+	}
+}
+303203 = {
+	name = "Khotsa"
+	dynasty = 2001152	#Khongodor
+	religion = tengri_pagan
+	culture = buryat
+	father = 303202
+	3117.10.1 = {
+		birth = yes
+	}
+	3168.11.2 = {
+		death = yes
+	}
+}
+303204 = {
+	name = "Osor"
+	dynasty = 2001152	#Khongodor
+	religion = tengri_pagan
+	culture = buryat
+	father = 303203
+	3138.9.18 = {
+		birth = yes
+	}
+	3177.4.18 = {
+		death = yes
+	}
+}
+303205 = {
+	name = "Geleg"
+	dynasty = 2001152	#Khongodor
+	religion = tengri_pagan
+	culture = buryat
+	father = 303204
+	3160.5.11 = {
+		birth = yes
+	}
+	3228.10.29 = {
+		death = yes
+	}
+}
+#
+
+galzuud0002 = {
+	name = "Dashinima"
+	dynasty = 2001145	#Galzuud
+	religion = siberian_pagan
+	culture = buryat
+	father = 303142
+	3070.8.5 = {
+		birth = yes
+	}
+	3117.10.30 = {
+		death = yes
+	}
+}
+
+galzuud0003 = {
+	name = "Geleg"
+	dynasty = 2001145	#Galzuud
+	religion = siberian_pagan
+	culture = buryat
+	3045.3.12 = {
+		birth = yes
+	}
+	3097.1.26 = {
+		death = yes
+	}
+}

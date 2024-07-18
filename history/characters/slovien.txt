@@ -1,0 +1,725 @@
+﻿146176 = {
+	name = "Predslav"
+	dynasty = 7508
+	religion = "slavic_pagan"
+	culture = "slovien"
+	father = 187000
+	2750.1.1 = {
+		birth = yes
+	}
+	2803.1.1 = {
+		death = yes
+	}
+}
+
+146177 = {
+	name = "Rostislav"
+	dynasty = 7508
+	religion = "slavic_pagan"
+	culture = "slovien"
+	father = 187000
+	2752.1.1 = {
+		birth = yes
+	}
+	2811.1.1 = {
+		death = yes
+	}
+}
+
+146178 = {
+	name = "SvE_timI_r"
+	dynasty = 7508
+	religion = "slavic_pagan"
+	culture = "slovien"
+	father = 187000
+	2754.1.1 = {
+		birth = yes
+	}
+	2816.1.1 = {
+		death = yes
+	}
+}
+187000 = {
+	name = "MojmI_r"
+	dynasty = 7508
+	religion = "slavic_pagan"
+	culture = "slovien"
+
+	2722.1.1 = {
+		birth = "2722.1.1"
+	}
+	2784.1.1 = {
+		death = "2784.1.1"
+	}
+}
+
+187001 = {
+	name = "MojmI_r"
+	# AKA: Mojmír I Mojmírovci
+	dynasty = 7508
+	religion = "slavic_pagan"
+	culture = "slovien"
+	father = 146177
+	2792.1.1 = {
+		birth = "2792.1.1"
+	}
+	2833.1.1 = {
+		religion = "catholic"
+	}
+	2848.8.15 = {
+		death = "2848.8.15"
+	}
+}
+187002 = {
+	name = "Rostislav"
+	# AKA: Rostislav Mojmírovci
+	dynasty = 7508
+	religion = "slavic_pagan"
+	culture = "slovien"
+	father = 187009
+	2817.1.1 = {
+		birth = "2817.1.1"
+	}
+	2833.1.1 = {
+		religion = "catholic"
+	}
+	2871.1.1 = {
+		death = "2871.1.1"
+	}
+}
+187003 = {
+	name = "Svatopluk"
+	# AKA: Svatopluk Mojmírovci
+	dynasty = 7508
+	religion = "catholic"
+	culture = "slovien"
+	father = 187010
+	2842.1.1 = {
+		birth = "2842.1.1"
+	}
+	2860.1.1 = {
+		add_spouse = 168068
+		add_pressed_claim = title:d_bohemia
+	}
+	2896.1.1 = {
+		death = "2896.1.1"
+	}
+} # Nephew of Rostislav
+
+187004 = {
+	name = "SlavomI_r"
+	# AKA: Slavomír Mojmírovci
+	dynasty = 7508
+	religion = "catholic"
+	culture = "slovien"
+	father = 187010
+	2844.1.1 = {
+		birth = "2844.1.1"
+	}
+	2873.12.1 = {
+		death = "2873.12.1"
+	}
+}
+
+#187005 = {
+#	name = "Sventozizna"
+#	female = yes
+#	religion = "catholic"
+#	culture = "slovien"
+#	2842.1.1 = {
+#		birth = "2842.1.1"
+#	}
+#	2896.12.31 = {
+#		death = "2896.1.1"
+#	}
+#}
+
+187006 = {
+	name = "MojmI_r"
+	# AKA: Mojmír II Mojmírovci
+	dynasty = 7508
+	religion = "catholic"
+	culture = "slovien"
+	father = 187003
+	mother = 168068
+	2861.1.1 = {
+		birth = "2861.1.1"
+	}
+	2909.7.4 = {
+		death = "2909.7.4"
+	}
+}
+
+187007 = {
+	name = "Svatopluk"
+	# AKA: Svatopluk II Mojmírovci
+	dynasty = 7508
+	religion = "catholic"
+	culture = "slovien"
+	father = 187003
+	mother = 168068
+	2862.1.1 = {
+		birth = "2862.1.1"
+	}
+	2909.7.4 = {
+		death = "2909.7.4"
+	}
+}
+
+187008 = {
+	name = "Predslav"
+	# AKA: Predslav Mojmírovci
+	dynasty = 7508
+	religion = "catholic"
+	culture = "slovien"
+	father = 187003
+	mother = 168068
+	2863.1.1 = {
+		birth = "2863.1.1"
+	}
+	2909.7.4 = {
+		death = "2909.7.4"
+	}
+}
+
+187009 = {
+	name = "Svatopluk"
+	dynasty = 7508
+	religion = "slavic_pagan"
+	culture = "slovien"
+	father = 146177
+	2796.1.1 = {
+		birth = "2796.1.1"
+	}
+	2821.1.1 = {
+		death = "2821.1.1"
+	}
+}
+
+187010 = {
+	name = "SvE_timI_r"
+	dynasty = 7508
+	religion = "slavic_pagan"
+	culture = "slovien"
+	father = 187009
+	2819.1.1 = {
+		birth = "2819.1.1"
+	}
+	2833.1.1 = {
+		religion = "catholic"
+	}
+	2852.1.1 = {
+		death = "2817.1.1"
+	}
+}
+187011 = {
+	name = "Pribina"
+	# AKA: Pribina z Nitrava
+	dynasty = 7509
+	religion = "slavic_pagan"
+	culture = "slovien"
+	father = 273017
+	2802.1.1 = {
+		birth = "2802.1.1"
+	}
+	2833.1.1 = {
+		religion = "catholic"
+	}
+	2863.1.1 = {
+		death = "2863.1.1"
+	}
+}
+
+187012 = {
+	name = "Kocel"
+	# AKA: Kocel z Nitrava
+	dynasty = 7509
+	religion = "catholic"
+	culture = "slovien"
+	father = 187011
+	2835.1.1 = {
+		birth = "2835.1.1"
+	}
+	2878.1.1 = {
+		death = "2878.1.1"
+	}
+}
+
+260041 = {		# Placeholder Krems 769
+	name = "BoC_ek"
+	dynasty = 1062023
+	religion = "slavic_pagan"
+	culture = "slovien"
+	2737.1.1 = {
+		birth = yes
+	}
+	2786.1.1 = {
+		death = yes
+	}
+}
+260042 = {		# Placeholder Krems 867
+	name = "Smil"
+	dynasty = 1069070
+	religion = "catholic"
+	culture = "slovien"
+	2839.1.1 = {
+		birth = yes
+	}
+	2880.1.1 = {
+		death = yes
+	}
+}
+
+260053 = {		# Placeholder Freistadt 769
+	name = "Vistrach"
+	dynasty = 1069076
+	religion = "slavic_pagan"
+	culture = slovien
+	2734.1.1 = {
+		birth = yes
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+260054 = {		# Placeholder Freistadt 867
+	name = "Pravoslav"
+	dynasty = 1069076
+	religion = "catholic"
+	culture = slovien
+	2823.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+260634 = {
+	name = "BoZ_idar"
+	dynasty = 1062276
+	religion = catholic
+	culture = slovien
+	2903.1.1 = {
+		birth = yes
+	}
+	2947.1.1 = {
+		death = yes
+	}
+}
+260635 = {
+	name = "Hrdoslav"
+	dynasty = 10100
+	religion = catholic
+	culture = slovien
+	2914.1.1 = {
+		birth = yes
+	}
+	2951.1.1 = {
+		death = yes
+	}
+}
+
+260662 = {
+	name = "Vladan"
+	dynasty = 1069052
+	religion = catholic
+	culture = slovien
+	father = 260668
+	2902.1.1 =  {
+		birth = yes
+	}
+	2951.1.1 = {
+		death = yes
+	}
+}
+260663 = {
+	name = "Svatoslav"
+	dynasty = 1069052
+	religion = catholic
+	culture = slovien
+	father = 260668
+	2908.1.1 = {
+		birth = yes
+	}
+	2965.1.1 = {
+		death = yes
+	}
+}
+260664 = {
+	name = "BeneS_"
+	dynasty = 1062297
+	religion = catholic
+	culture = slovien
+	2910.1.1 = {
+		birth = yes
+	}
+	2969.1.1 = {
+		death = yes
+	}
+}
+260668 = {
+	name = "Jaromil"
+	dynasty = 1069052
+	religion = catholic
+	culture = slovien
+	2871.1.1 = {
+		birth = yes
+	}
+	2922.1.1 = {
+		death = yes
+	}
+}
+273000 = {
+	name = "JeC_mI_nek"
+	dynasty = 1069075
+	diplomacy = 6
+	martial = 4
+	stewardship = 9
+	intrigue = 3
+	learning = 6
+	religion = catholic
+	culture = slovien
+	trait = "just"
+	#trait = "midas_touched"
+	3042.1.1 = {
+		birth = yes
+	}
+	3087.1.1 = {
+		death = yes
+	}
+}
+273001 = { #Placeholder ruler of Trencin
+	name = "BystrI_k"
+	dynasty = 1069047 #Pobedimsky
+	religion = catholic
+	culture = slovien
+	father = 273006
+	2892.1.1 = {
+		birth = yes
+	}
+	2947.1.1 = {
+		death = yes
+	}
+}
+273002 = { #Placeholder ruler of Trencin
+	name = "ZvonimI_r"
+	dynasty = 1069047
+	religion = slavic_pagan
+	culture = slovien
+	2742.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+273003 = { #Placeholder ruler of Trencin
+	name = "BystrI_k"
+	dynasty = 1069047
+	religion = slavic_pagan
+	culture = slovien
+	father = 273002
+	2768.1.1 = {
+		birth = yes
+	}
+	2838.1.1 = {
+		death = yes
+	}
+}
+273004 = { #Placeholder ruler of Trencin
+	name = "Radoslav"
+	dynasty = 1069047
+	religion = slavic_pagan
+	culture = slovien
+	father = 273003
+	2802.1.1 = {
+		birth = yes
+	}
+	2833.1.1 = {
+		religion = catholic
+	}
+	2859.1.1 = {
+		death = yes
+	}
+}
+273005 = { #Placeholder ruler of Trencin
+	name = "ZvonimI_r"
+	dynasty = 1069047
+	religion = catholic
+	culture = slovien
+	father = 273004
+	2834.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+273006 = { #Placeholder ruler of Trencin
+	name = "Radoslav"
+	dynasty = 1069047
+	religion = catholic
+	culture = slovien
+	father = 273005
+	2866.1.1 = {
+		birth = yes
+	}
+	2908.1.1 = {
+		death = yes
+	}
+}
+273007 = { #Placeholder ruler of Trencin
+	name = "LubomI_r"
+	dynasty = 1069047
+	religion = catholic
+	culture = slovien
+	father = 273001
+	2921.1.1 = {
+		birth = yes
+	}
+	2982.1.1 = {
+		death = yes
+	}
+}
+273008 = { #Placeholder for Trencin
+	name = "Lubica"
+	female = yes
+	dynasty = 1069047
+	religion = catholic
+	culture = slovien
+	father = 273001
+	2919.1.1 = {
+		birth = yes
+	}
+	2982.1.1 = {
+		death = yes
+	}
+}
+273009 = { #Placeholder ruler of Orava/Arva
+	name = "Svatoslav"
+	dynasty = 1069050 #Divinsky
+	religion = slavic_pagan
+	culture = slovien
+	2752.1.1 = {
+		birth = yes
+	}
+	2809.1.1 = {
+		death = yes
+	}
+}
+273010 = { #Placeholder ruler of Orava/Arva
+	name = "Viacslav"
+	dynasty = 1069050 #Divinsky
+	religion = slavic_pagan
+	culture = slovien
+	father = 273009
+	2785.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+273011 = { #Placeholder ruler of Orava/Arva
+	name = "Svorad"
+	dynasty = 1069050 #Divinsky
+	religion = slavic_pagan
+	culture = slovien
+	father = 273010
+	2814.1.1 = {
+		birth = yes
+	}
+	2833.1.1 = {
+		religion = catholic
+	}
+	2867.1.1 = {
+		death = yes
+	}
+}
+273012 = { #Placeholder ruler of Orava/Arva
+	name = "VelemI_r"
+	dynasty = 1069050 #Divinsky
+	religion = catholic
+	culture = slovien
+	father = 273011
+	2845.1.1 = {
+		birth = yes
+	}
+	2904.1.1 = {
+		death = yes
+	}
+}
+273013 = { #Placeholder ruler of Orava/Arva
+	name = "Horislav"
+	dynasty = 1069050 #Divinsky
+	religion = catholic
+	culture = slovien
+	father = 273012
+	2868.1.1 = {
+		birth = yes
+	}
+	2908.1.1 = {
+		death = yes
+	}
+}
+273014 = { #Placeholder ruler of Orava/Arva
+	name = "VelemI_r"
+	dynasty = 1069050 #Divinsky
+	religion = catholic
+	culture = slovien
+	father = 273013
+	2892.1.1 = {
+		birth = yes
+	}
+	2931.1.1 = {
+		death = yes
+	}
+}
+273015 = { #Placeholder ruler of Orava/Arva
+	name = "Svorad"
+	dynasty = 1069050 #Divinsky
+	religion = catholic
+	culture = slovien
+	father = 273014
+	2917.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+273016 = { #Placeholder ruler of Orava/Arva
+	name = "Pravdomila"
+	female = yes
+	dynasty = 1069050 #Divinsky
+	religion = catholic
+	culture = slovien
+	father = 273014
+	2923.1.1 = {
+		birth = yes
+	}
+	2991.1.1 = {
+		death = yes
+	}
+}
+#Ancestors of Pribina
+273017 = {
+	name = "Drahoslav"
+	# fantasy father of Pribina Nitravský
+	dynasty = 7509
+	religion = slavic_pagan
+	culture = slovien
+	father = 273018
+	2769.1.1 = {
+		birth = yes
+	}
+	2822.1.1 = {
+		death = yes
+	}
+}
+273018 = {
+	name = "Nitrabor"
+	# fantasy ancestor of Pribina
+	dynasty = 7509
+	religion = slavic_pagan
+	culture = slovien
+	2742.1.1 = {
+		birth = yes
+	}
+	2795.1.1 = {
+		death = yes
+	}
+}
+273019 = { #Placeholder ruler of Gemer 936
+	name = "Svorad"
+	dynasty = 1069050 #Divinsky
+	religion = catholic
+	culture = slovien
+	father = 273014
+	2917.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+273060 = { #Placeholder ruler of Gemer 769
+	name = "Miloboj"
+	dynasty = 1069042
+	religion = slavic_pagan
+	culture = slovien
+	2746.1.1 = {
+		birth = yes
+	}
+	2797.1.1 = {
+		death = yes
+	}
+}
+273061 = { #Placeholder ruler of Gemer
+  name = "Drahoslav"
+  dynasty = 1069042
+  religion = slavic_pagan
+  culture = slovien
+  father = 273060
+  2782.1.1 = {
+	birth = yes
+  }
+  2837.1.1 = {
+	death = yes
+  }
+}
+273062 = { #Placeholder ruler of Gemer
+	name = "Jaroslav"
+	dynasty = 1069042
+	religion = slavic_pagan
+	culture = slovien
+	father = 273061
+	2812.1.1 = {
+		birth = yes
+	}
+	2833.1.1 = {
+		religion = catholic
+	}
+	2867.1.1 = {
+		death = yes
+	}
+}
+273063 = { #Placeholder ruler of Gemer
+	name = "Predslav"
+	dynasty = 1069042
+	religion = catholic
+	culture = slovien
+	father = 273062
+	2844.1.1 = {
+		birth = yes
+	}
+	2902.1.1 = {
+		death = yes
+	}
+}
+273064 = { #Placeholder ruler of Gemer
+	name = "Predslav"
+	dynasty = 1069042
+	religion = catholic
+	culture = slovien
+	father = 273063
+	2870.1.1 = {
+		birth = yes
+	}
+	2922.1.1 = {
+		death = yes
+	}
+}
+273065 = { #Placeholder ruler of Gemer
+	name = "Predslav"
+	dynasty = 1069042
+	religion = catholic
+	culture = slovien
+	father = 273064
+	2892.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,4390 @@
+﻿125051 = {
+	name = "Sirma"
+	female = yes
+	religion = "orthodox"
+	culture = "cuman"
+	3070.1.2 = {
+		birth = yes
+	}
+	3099.1.3 = {
+		death = yes
+	}
+}
+
+125092 = {
+	name = "Anna"
+	female = yes
+	religion = "orthodox"
+	culture = "cuman"
+	3052.1.2 = {
+		birth = "3052.1.2"
+	}
+	3113.1.2 = {
+		death = "3113.1.2"
+	}
+}
+
+125145 = {
+	name = "Maria"
+	female = yes
+	religion = "orthodox"
+	culture = "cuman"
+	father = 125404
+	3182.1.2 = {
+		birth = "3182.1.2"
+	}
+	3232.1.2 = {
+		death = "3232.1.2"
+	}
+}
+
+125400 = {
+	name = "Svoboda"
+	female = yes
+	dynasty = 698
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 228030
+	3173.1.2 = {
+		birth = "3173.1.2"
+	}
+	3189.1.2 = {
+		religion = "orthodox"
+	name = "Anastasia"
+	# AKA: Svoboda
+	}
+	3222.1.2 = {
+		death = "3222.1.2"
+	}
+}
+
+125401 = {
+	name = "Atrak"
+	dynasty = 698
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 806
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3148.1.1 = {
+		death = "3148.1.1"
+	}
+}
+
+125402 = {
+	name = "Kobyak"
+	dynasty = 1051135
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3185.1.1 = {
+		death = "3185.1.1"
+	}
+}
+
+125403 = {
+	name = "Girgen"
+	dynasty = 698
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 228030
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3203.1.1 = {
+		add_spouse = 194190
+	}
+	3225.1.1 = {
+		death = "3225.1.1"
+	}
+}
+
+125404 = {
+	name = "Kotyan"
+	dynasty = 698
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 228030
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+20646 = {
+	name = "TO_rtogul"
+	# AKA: Tortogul
+	dynasty = 100558
+	martial = 8
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_diplomacy_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20647 = {
+	name = "Asalup"
+	#dynasty = 100559
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = zealous
+	trait = arrogant
+	trait = education_martial_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20648 = {
+	name = "Uzur"
+	dynasty = 100565
+	martial = 8
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = honest
+	trait = arbitrary
+	trait = education_learning_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20650 = {
+	name = "Kutan"
+	dynasty = 100557
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_intrigue_1
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20651 = {
+	name = "Itlar"
+	dynasty = 100566
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_diplomacy_3
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20653 = {
+	name = "Uzluk"
+	dynasty = 100594
+	martial = 8
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = greedy
+	trait = education_intrigue_1
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20655 = {
+	name = "BorC_"
+	# AKA: Borc
+	dynasty = 100596
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = zealous
+	trait = education_diplomacy_3
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20656 = {
+	name = "SirC_an"
+	# AKA: Sircan
+	dynasty = 100597
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_stewardship_3
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+20657 = {
+	name = "Uzur"
+	dynasty = 100599
+	martial = 8
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_martial_3
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20658 = {
+	name = "Tolun"
+	dynasty = 100607
+	martial = 8
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_martial_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3068.1.1 = {
+		contract_disease_effect = { DISEASE = ill TREATMENT_EVENT = yes }
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+222633 = {
+	name = "Maria"
+	female = yes
+	dynasty = 698
+	religion = "orthodox"
+	culture = "cuman"
+	father = 90143
+	3112.1.2 = {
+		birth = "3112.1.2"
+	}
+	3172.1.2 = {
+		death = "3172.1.2"
+	}
+}
+
+222673 = {
+	name = "Anna"
+	female = yes
+	dynasty = 698
+	religion = "orthodox"
+	culture = "cuman"
+	father = 90143
+	3094.1.2 = {
+		birth = "3094.1.2"
+	}
+	3152.1.3 = {
+		death = "3152.1.3"
+	}
+}
+
+228030 = {
+	name = "KO_nC_ek"
+	# AKA: Koza
+	dynasty = 698
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 125401
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3205.1.1 = {
+		death = "3205.1.1"
+	}
+}
+
+228034 = {
+	name = "Koza"
+	dynasty = 100556
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_intrigue_1
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+228036 = {
+	name = "Garu"
+	dynasty = 100566
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228037 = {
+	name = "Itlar"
+	dynasty = 100594
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = wrathful
+	trait = arbitrary
+	trait = zealous
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228038 = {
+	name = "Borj"
+	dynasty = 100595
+	martial = 4
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_intrigue_1
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228039 = {
+	name = "Kobyak"
+	dynasty = 100608
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_intrigue_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228040 = {
+	name = "Bonyak"
+	dynasty = 100609
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228041 = {
+	name = "Borj"
+	dynasty = 100614
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = calm
+	trait = greedy
+	trait = education_learning_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228042 = {
+	name = "Garu"
+	dynasty = 100615
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_intrigue_1
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228043 = {
+	name = "Sevenj"
+	dynasty = 100616
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = wrathful
+	trait = education_diplomacy_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228044 = {
+	name = "Kubasar"
+	dynasty = 100617
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = craven
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228045 = {
+	name = "Borj"
+	dynasty = 100618
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = zealous
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228046 = {
+	name = "Borj"
+	dynasty = 100619
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_intrigue_1
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228047 = {
+	name = "TO_rtogul"
+	# AKA: Tortogul
+	dynasty = 100620
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = chaste
+	trait = education_diplomacy_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228048 = {
+	name = "Eilbu"
+	dynasty = 100621
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_intrigue_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228049 = {
+	name = "Kobyak"
+	dynasty = 100622
+	martial = 6
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = cynical
+	trait = education_intrigue_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228050 = {
+	name = "Girgen"
+	dynasty = 100623
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = hunchbacked
+	trait = education_intrigue_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228051 = {
+	name = "Asalup"
+	dynasty = 100624
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = arbitrary
+	trait = humble
+	trait = zealous
+	trait = wrathful
+	trait = education_stewardship_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228052 = {
+	name = "Ituk"
+	dynasty = 100625
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = greedy
+	trait = education_learning_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228053 = {
+	name = "Sirjan"
+	dynasty = 100626
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = arrogant
+	trait = calm
+	trait = education_martial_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228054 = {
+	name = "Kobyak"
+	dynasty = 100627
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = chaste
+	trait = just
+	trait = cynical
+	trait = education_diplomacy_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228055 = {
+	name = "Sokal"
+	dynasty = 100557
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228056 = {
+	name = "Koza"
+	dynasty = 100558
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_martial_2
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3117.1.1 = {
+		death = "3117.1.1"
+	}
+}
+
+228057 = {
+	name = "Sokal"
+	#dynasty = 100559
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = deceitful
+	trait = arbitrary
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228058 = {
+	name = "Kopti"
+	dynasty = 100563
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_learning_3
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+228059 = {
+	name = "Atrak"
+	dynasty = 100596
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = honest
+	trait = education_learning_2
+	father = 20655
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+228061 = {
+	name = "Burikhan"
+	dynasty = 100597
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = diligent
+	trait = cynical
+	trait = education_diplomacy_2
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+228062 = {
+	name = "Durgulel"
+	dynasty = 100599
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_martial_3
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3127.1.1 = {
+		death = "3127.1.1"
+	}
+}
+
+228066 = {
+	name = "Uturku"
+	dynasty = 100607
+	martial = 8
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_learning_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228067 = {
+	name = "Eldejyk"
+	#dynasty = 100602
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "cuman"
+	trait = brave
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+31184 = {
+	name = "Anna"
+	female = yes
+	dynasty = 698
+	religion = "orthodox"
+	culture = "cuman"
+	father = 228030
+	3174.1.1 = {
+		birth = "3174.1.1"
+	}
+	3224.1.1 = {
+		death = "3224.1.1"
+	}
+}
+
+479000 = {
+	name = "BO_nek"
+	# AKA: BOnek
+	dynasty = 100614
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = greedy
+	trait = education_stewardship_3
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479010 = {
+	name = "BO_nek"
+	# AKA: BOnek
+	dynasty = 100615
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_intrigue_1
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+194417 = {
+	name = "Tugor"
+	dynasty = 100615
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 479010
+	3322.1.1 = {
+		birth = yes
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479020 = {
+	name = "Uzluk"
+	dynasty = 100616
+	martial = 8
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_martial_3
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479040 = {
+	name = "Itlar"
+	dynasty = 100607
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = lustful
+	trait = just
+	trait = humble
+	trait = education_martial_3
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479060 = {
+	name = "Kubasar"
+	dynasty = 100556
+	martial = 6
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = honest
+	trait = humble
+	trait = brave
+	trait = education_stewardship_2
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3152.1.1 = {
+		death = "3152.1.1"
+	}
+}
+
+479070 = {
+	name = "Uzur"
+	dynasty = 100564
+	martial = 8
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = greedy
+	trait = wrathful
+	trait = temperate
+	trait = education_stewardship_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479080 = {
+	name = "SirC_an"
+	# AKA: Sircan
+	dynasty = 100566
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = wrathful
+	trait = education_learning_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479090 = {
+	name = "Itlar"
+	dynasty = 100594
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_learning_3
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479100 = {
+	name = "SevenC_"
+	# AKA: Sevenc
+	dynasty = 100595
+	martial = 7
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = honest
+	trait = brave
+	trait = hunchbacked
+	trait = education_martial_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479110 = {
+	name = "SirC_an"
+	# AKA: Sircan
+	dynasty = 100618
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = wrathful
+	trait = gluttonous
+	trait = education_martial_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479120 = {
+	name = "Kutan"
+	dynasty = 100619
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 4
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_diplomacy_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479130 = {
+	name = "Uzur"
+	dynasty = 100620
+	martial = 8
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 4
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = zealous
+	trait = calm
+	trait = education_learning_3
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479140 = {
+	name = "Saru"
+	dynasty = 100621
+	martial = 7
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = honest
+	trait = education_intrigue_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479150 = {
+	name = "SirC_an"
+	# AKA: Sircan
+	dynasty = 100622
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_stewardship_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479160 = {
+	name = "BO_nek"
+	# AKA: BOnek
+	dynasty = 100623
+	martial = 4
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = calm
+	trait = education_martial_3
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479170 = {
+	name = "Togli"
+	dynasty = 100624
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = humble
+	trait = wrathful
+	trait = cynical
+	trait = education_learning_3
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479180 = {
+	name = "Koza"
+	dynasty = 100625
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = lustful
+	trait = wrathful
+	trait = education_diplomacy_3
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479190 = {
+	name = "Uzur"
+	dynasty = 100627
+	martial = 8
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = diligent
+	trait = education_intrigue_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479200 = {
+	name = "EldeC_yU_k"
+	# AKA: EldecyUk
+	dynasty = 100557
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = lazy
+	trait = education_martial_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479210 = {
+	name = "BorC_"
+	# AKA: Borc
+	dynasty = 100558
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_learning_3
+	3097.1.1 = {
+		birth = "3097.1.1"
+	}
+	3152.1.1 = {
+		death = "3152.1.1"
+	}
+}
+
+479220 = {
+	name = "BO_nek"
+	# AKA: BOnek
+	#dynasty = 100559
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_intrigue_1
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+479230 = {
+	name = "BorC_"
+	# AKA: Borc
+	dynasty = 100563
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = chaste
+	trait = wrathful
+	trait = education_learning_3
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3142.1.1 = {
+		death = "3142.1.1"
+	}
+}
+
+479240 = {
+	name = "EldeC_yU_k"
+	dynasty = 100596
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = cynical
+	trait = education_martial_3
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3152.1.1 = {
+		death = "3152.1.1"
+	}
+}
+
+70371 = {
+	name = "Gyula"
+	dynasty = 8635
+	martial = 7
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = deceitful
+	trait = zealous
+	trait = education_martial_3
+	father = 70370
+	2937.1.1 = {
+		birth = "2937.1.1"
+	}
+	2988.1.1 = {
+		death = "2988.1.1"
+	}
+}
+
+70372 = {
+	name = "Zombor"
+	dynasty = 8635
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = chaste
+	trait = arbitrary
+	trait = education_stewardship_1
+	father = 70370
+	
+	2939.1.1 = {
+		birth = "2939.1.1"
+	}
+	2982.1.1 = {
+		death = "2982.1.1"
+	}
+}
+
+70373 = {
+	name = "Gyula"
+	dynasty = 8635
+	martial = 4
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = celibate
+	trait = temperate
+	trait = education_martial_1
+	father = 70372
+	
+	2954.1.1 = {
+		birth = "2954.1.1"
+	}
+	3005.1.1 = {
+		death = "3005.1.1"
+	}
+}
+
+753 = {
+	name = "Sarolta"
+	female = yes
+	dynasty = 8635
+	martial = 7
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = diligent
+	trait = greedy
+	trait = education_diplomacy_2
+	father = 70371
+	2956.1.1 = {
+		birth = "2956.1.1"
+	}
+	3002.1.1 = {
+		death = "3002.1.1"
+	}
+}
+
+801 = {
+	name = "Anna"
+	female = yes
+	dynasty = 698
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 90142
+	3055.1.2 = {
+		birth = "3055.1.2"
+	}
+	3105.1.2 = {
+		death = "3105.1.2"
+	}
+}
+
+806 = {
+	name = "Saru"
+	# AKA: Sharu
+	dynasty = 698
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 90142
+	3042.1.1 = {
+		birth = "3042.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+90142 = {
+	name = "Blush"
+	# AKA: Borc
+	dynasty = 698
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3022.1.1 = {
+		birth = "3022.1.1"
+	}
+	3068.1.1 = {
+		death = "3068.1.1"
+	}
+}
+
+90143 = {
+	name = "Aepak"
+	# AKA: Sugr
+	dynasty = 698
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 90142
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+98042 = {
+	name = "Elizabeth"
+	female = yes
+	dynasty = 698
+	religion = "catholic"
+	culture = "cuman"
+	father = 125404
+	3238.1.1 = {
+		birth = "3238.1.1"
+	}
+	3292.1.2 = {
+		death = "3292.1.2"
+	}
+}
+
+34820 = {
+	name = "Atrak"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+
+34821 = {
+	name = "Sokal"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3243.1.1 = {
+		death = "3243.1.1"
+	}
+}
+
+34822 = {
+	name = "Kubasar"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+34823 = {
+	name = "Sugr"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3243.1.1 = {
+		death = "3243.1.1"
+	}
+}
+
+34824 = {
+	name = "Etrek"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+
+34825 = {
+	name = "BO_nek"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3243.1.1 = {
+		death = "3243.1.1"
+	}
+}
+
+34826 = {
+	name = "Sotan"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+34827 = {
+	name = "Kozel"
+	dynasty = 1045097
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3227.1.1 = {
+		death = "3227.1.1"
+	}
+}
+194404 = {
+	name = "Kubazar"
+	dynasty = 1045097
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34827
+	3202.1.1 = {
+		birth = yes
+	}
+	3227.1.1 = {
+		death = "3227.1.1"
+	}
+}
+194405 = {
+	name = "Sarica"
+	dynasty = 1045097
+	female = yes
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34827
+	3204.1.1 = {
+		birth = yes
+	}
+	3227.1.1 = {
+		death = "3227.1.1"
+	}
+}
+
+34828 = {
+	name = "Asep"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3252.1.1 = {
+		death = "3252.1.1"
+	}
+}
+
+34829 = {
+	name = "Saru"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3272.1.1 = {
+		death = "3272.1.1"
+	}
+}
+
+34832 = {
+	name = "Uzluk"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+34833 = {
+	name = "Ituk"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+
+34834 = {
+	name = "Tortogul"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+34839 = {
+	name = "Blush"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+
+34840 = {
+	name = "Asalup"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+34845 = {
+	name = "Sokal"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+34846 = {
+	name = "Kozel"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3152.1.1 = {
+		death = "3152.1.1"
+	}
+}
+
+34847 = {
+	name = "Sotan"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+34848 = {
+	name = "Begluk"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3222.1.1 = {
+		death = "3222.1.1"
+	}
+}
+
+34849 = {
+	name = "Kuntuvdi"
+	dynasty = 1045107
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3192.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+194441 = {
+	name = "Tugor"
+	dynasty = 1045107
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34849
+	3212.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+194442 = {
+	name = "Yasar"
+	dynasty = 1045107
+	female = yes
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34849
+	3214.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+34854 = {
+	name = "Kubasar"
+	dynasty = 1045096
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3027.1.1 = {
+		birth = yes
+	}
+	3093.1.1 = {
+		death = yes
+	}
+}
+194388 = {
+	name = "Sugr"
+	dynasty = 1045096
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34854
+	3048.1.1 = {
+		birth = yes
+	}
+	3101.1.1 = {
+		death = yes
+	}
+}
+194389 = {
+	name = "Sarica"
+	dynasty = 1045096
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34854
+	3046.1.1 = {
+		birth = yes
+	}
+	3101.1.1 = {
+		death = yes
+	}
+}
+194390 = {
+	name = "Sevilay"
+	dynasty = 1045096
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34854
+	3050.1.1 = {
+		birth = yes
+	}
+	3101.1.1 = {
+		death = yes
+	}
+}
+
+34856 = {
+	name = "SirC_an"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+34857 = {
+	name = "Togli"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+34858 = {
+	name = "Gzi"
+	dynasty = 1045108
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3192.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+194443 = {
+	name = "Uzur"
+	dynasty = 1045108
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34858
+	3215.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+194444 = {
+	name = "Mala"
+	dynasty = 1045108
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34858
+	3212.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+34863 = {
+	name = "Togli"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+34864 = {
+	name = "C_ilbu"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+34865 = {
+	name = "Bachman"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+34870 = {
+	#placeholder
+	name = SirC_an
+	dynasty = 851 # Turgay
+	religion = tengri_pagan
+	culture = cuman
+	2827.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+194376 = {
+	name = Koza
+	dynasty = 851 # Turgay
+	religion = tengri_pagan
+	culture = cuman
+	father = 34870
+	2847.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+194377 = {
+	name = Mala
+	female = yes
+	dynasty = 851 # Turgay
+	religion = tengri_pagan
+	culture = cuman
+	father = 34870
+	2849.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+34871 = {
+	name = Kutan 	#placeholder
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 188782
+	2826.1.1 = {
+		birth = yes
+	}
+	2867.5.12 = {
+		add_spouse = 217165
+	}
+	2891.1.1 = {
+		death = yes
+	}
+}
+
+34882 = {
+	name = "Kubasar"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+34883 = {
+	name = "Kozel"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+34884 = {
+	name = "Sugr"
+	dynasty = 1045098
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3182.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = yes
+	}
+}
+194428 = {
+	name = "Sokal"
+	dynasty = 1045098
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34884
+	3202.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = yes
+	}
+}
+194429 = {
+	name = "Asli"
+	dynasty = 1045098
+	female = yes
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34884
+	3207.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = yes
+	}
+}
+194406 = {
+	name = "Blush"
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3201.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = yes
+	}
+}
+194407 = {
+	name = "Umay"
+	female = yes
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3204.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = yes
+	}
+}
+
+34889 = {
+	name = "Girgen"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+34890 = {
+	name = "Etrek"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+34891 = {
+	name = "Bonyak"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+34896 = {
+	name = "Itlar"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+34897 = {
+	name = "Asalup"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+34898 = {
+	name = "Aepak"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+34945 = {
+	name = "Itlar"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3042.1.1 = {
+		birth = "3042.1.1"
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+34946 = {
+	name = "Pulad"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3077.1.1 = {
+		birth = "3077.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+34947 = {
+	name = "Sokal"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3107.1.1 = {
+		birth = "3107.1.1"
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+34948 = {
+	name = "Kuntuvdi"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+34949 = {
+	name = "BO_nek"
+	dynasty = 1045109
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3172.1.1 = {
+		birth = yes
+	}
+	3229.1.1 = {
+		death = "3229.1.1"
+	}
+}
+194445 = {
+	name = "Atrak"
+	dynasty = 1045109
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34949
+	3192.1.1 = {
+		birth = yes
+	}
+	3229.1.1 = {
+		death = "3229.1.1"
+	}
+}
+194446 = {
+	name = "Ayten"
+	dynasty = 1045109
+	female = yes
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34949
+	3197.1.1 = {
+		birth = yes
+	}
+	3229.1.1 = {
+		death = "3229.1.1"
+	}
+}
+34954 = {
+	name = "Kutan"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3042.1.1 = {
+		birth = "3042.1.1"
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+34955 = {
+	name = "Blush"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3077.1.1 = {
+		birth = "3077.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+34956 = {
+	name = "Itlar"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3107.1.1 = {
+		birth = "3107.1.1"
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+34957 = {
+	name = "Kubasar"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+34958 = {
+	name = "Aepak"
+	dynasty = 1045106
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3229.1.1 = {
+		death = "3229.1.1"
+	}
+}
+194439 = {
+	name = "Kutan"
+	dynasty = 1045106
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34958
+	3197.1.1 = {
+		birth = yes
+	}
+	3229.1.1 = {
+		death = "3229.1.1"
+	}
+}
+194440 = {
+	name = "Sati"
+	dynasty = 1045106
+	female = yes
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34958
+	3202.1.1 = {
+		birth = yes
+	}
+	3229.1.1 = {
+		death = "3229.1.1"
+	}
+}
+
+34963 = {
+	name = "SirC_an"
+	dynasty = 1045110
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3032.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+194447 = {
+	name = "Uzur"
+	dynasty = 1045110
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34963
+	3052.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+194448 = {
+	name = "Peksen"
+	dynasty = 1045110
+	female = yes
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 34963
+	3054.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+34964 = {
+	name = "Etrek"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3077.1.1 = {
+		birth = "3077.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+34965 = {
+	name = "Uzur"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3107.1.1 = {
+		birth = "3107.1.1"
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+34966 = {
+	name = "Begluk"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+34967 = {
+	name = "C_ilbu"
+	#placeholder
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+228028 = {
+	name = "Boru"
+	dynasty = 100514
+	martial = 4
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228029 = {
+	name = "Sol"
+	dynasty = 100516
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = lazy
+	trait = arbitrary
+	trait = craven
+	trait = education_martial_3
+	3152.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228031 = {
+	name = "KU_erC_i"
+	# AKA: KUerci
+	dynasty = 100512
+	martial = 6
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 7
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = education_intrigue_1
+	3152.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228032 = {
+	name = "Teber"
+	dynasty = 100542
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = just
+	trait = education_intrigue_1
+	3152.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228033 = {
+	name = "Yeke"
+	dynasty = 100543
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = greedy
+	trait = education_learning_2
+	3152.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+480140 = {
+	name = "Bartan"
+	dynasty = 100597
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 4
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = diligent
+	trait = education_intrigue_1
+	3117.1.1 = {
+		birth = yes
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+480150 = {
+	name = "Shirgugetu"
+	dynasty = 100599
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "tengri_pagan"
+	culture = "cuman"
+	trait = chaste
+	trait = brave
+	trait = education_intrigue_2
+	3107.1.1 = {
+		birth = yes
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+34990 = {
+	name = "Sunkur"
+	dynasty = 7323
+	religion = "ashari"
+	culture = "cuman"
+	3232.1.1 = {
+		birth = yes
+	}
+	3282.1.1 = {
+		death = "3282.1.1"
+	}
+}
+
+34991 = {
+	name = "Shudja_al-Din"
+	dynasty = 7324
+	religion = "ashari"
+	culture = "cuman"
+	3252.1.1 = {
+		birth = yes
+	}
+	3299.1.1 = {
+		death = "3299.1.1"
+	}
+}
+
+34992 = {
+	name = "Sayf-ad-Din"
+	dynasty = 100566
+	religion = "ashari"
+	culture = "cuman"
+	3277.1.1 = {
+		birth = yes
+	}
+	3314.1.1 = {
+		death = "3314.1.1"
+	}
+}
+
+34993 = {
+	name = "Sayf-ad-Din"
+	dynasty = 100691
+	religion = "ashari"
+	culture = "cuman"
+	3282.1.1 = {
+		birth = yes
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+159139 = {
+	name = "Emese" #Mother of Almos Arpad
+	female = yes
+	dynasty = 1029005
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 159140
+	trait = lifestyle_mystic
+	2792.1.2 = {
+		birth = yes
+	}
+	2821.1.1 = {
+		add_spouse = 159138
+	}
+	2857.1.2 = {
+		death = "2857.1.2"
+	}
+}
+
+159140 = {
+	name = "O_nedbelia"
+	dynasty = 1029005
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2747.1.2 = {
+		birth = yes
+	}
+	2817.1.2 = {
+		death = "2817.1.2"
+	}
+}
+
+161730 = {
+	name = "Begluk"
+	#placeholder
+	dynasty = 1051133
+	religion = "tengri_pagan"
+	culture = "cuman"
+	3032.1.1 = {
+		birth = yes
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+194426 = {
+	name = "Gzi"
+	dynasty = 1051133
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 161730
+	3050.1.1 = {
+		birth = yes
+	}
+	3092.1.1 = {
+		death = yes
+	}
+}
+194427 = {
+	name = "Esin"
+	female = yes
+	dynasty = 1051133
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 161730
+	3052.1.1 = {
+		birth = yes
+	}
+	3092.1.1 = {
+		death = yes
+	}
+}
+
+161731 = {
+	name = "Atrak"
+	#placeholder
+	dynasty = 1051133
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 161730
+	3082.1.1 = {
+		birth = yes
+	}
+	3142.1.1 = {
+		death = "3142.1.1"
+	}
+}
+
+161732 = {
+	name = "Sokal"
+	#placeholder
+	dynasty = 1051133
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 161731
+	3112.1.1 = {
+		birth = yes
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+161733 = {
+	name = "Aepak"
+	#placeholder
+	dynasty = 1051133
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 161732
+	3142.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+161734 = {
+	name = "Kutan"
+	#placeholder
+	dynasty = 1051133
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 161733
+	3162.1.1 = {
+		birth = yes
+	}
+	3222.1.1 = {
+		death = "3222.1.1"
+	}
+}
+
+
+161735 = {
+	name = "Kozel"
+	dynasty = 1051133
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 161734
+	3182.1.1 = {
+		birth = yes
+	}
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+194408 = {
+	name = "Tugor"
+	dynasty = 1051133
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 161735
+	3211.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = "3232.1.1"
+	}
+}
+
+180260 = {
+	name = "Uzluk"	# fictional
+	dynasty = 1042045
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 188799
+	2801.1.1 = {
+		birth = yes
+	}
+	2820.1.1 = {
+		add_spouse = 180261
+	}
+	2839.1.1 = {
+		death = "2839.1.1"
+	}
+}
+180261 = {
+	name = "Gulay"	# fictional
+	female = yes
+	dynasty = 1042047
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2803.5.3 = {
+		birth = yes
+	}
+	2871.1.1 = {
+		death = yes
+	}
+}
+180262 = {
+	name = "Sokal"	# fictional
+	# King of Cumania
+	dynasty = 1042045
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 180260
+	mother = 180261
+	2821.8.4 = {
+		birth = yes
+	}
+	2845.4.1 = {
+		add_spouse = 180263
+	}
+	
+	#2869.1.1 = {
+	#	# Boost the initial strength of the Cumans
+	#	effect = {
+	#		spawn_unit = {
+	#			province = 895 # Oral
+	#			owner = ROOT
+	#			#leader = ROOT
+	#			troops = {
+	#				light_cavalry = { 76 76 }
+	#				horse_archers = { 35 35 }
+	#			}
+	#			attrition = 0.5
+	#		}
+	#		FIX_HISTORY_create_character = {
+	#			random_traits = yes
+	#			dynasty = random
+	#			religion = ROOT
+	#			culture = ROOT
+	#			female = no
+	#			age = 23
+	#			attributes = {
+	#				martial = 6
+	#			}
+	#			trait = education_martial_3
+	#		}
+	#		new_character = {
+	#			spawn_unit = {
+	#				province = 895 # Oral
+	#				owner = ROOT
+	#				#leader = ROOT
+	#				troops = {
+	#					light_cavalry = { 76 76 }
+	#					horse_archers = { 35 35 }
+	#				}
+	#				attrition = 0.5
+	#			}
+	#		}
+	#		FIX_HISTORY_create_character = {
+	#			random_traits = yes
+	#			dynasty = random
+	#			religion = ROOT
+	#			culture = ROOT
+	#			female = no
+	#			age = 27
+	#			attributes = {
+	#				martial = 6
+	#			}
+	#			trait = education_martial_3
+	#		}
+	#		new_character = {
+	#			spawn_unit = {
+	#				province = 895 # Oral
+	#				owner = ROOT
+	#				#leader = ROOT
+	#				troops = {
+	#					light_cavalry = { 76 76 }
+	#					horse_archers = { 35 35 }
+	#				}
+	#				attrition = 0.5
+	#			}
+	#		}
+	#	}
+	#}
+	
+	2877.1.1 = {
+		death = "2877.1.1"
+	}
+}
+180263 = {
+	name = "Ayasun"	# fictional
+	female = yes
+	dynasty = 1042049
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2827.6.14 = {
+		birth = "2827.6.14"
+	}
+	2871.1.1 = {
+		death = "2871.1.1"
+	}
+}
+180264 = {
+	name = "Asli"	# fictional
+	female = yes
+	dynasty = 1042045
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 180262
+	mother = 180263
+	2847.1.17 = {
+		birth = "2847.1.17"
+	}
+	2903.1.1 = {
+		death = "2903.1.1"
+	}
+}
+180265 = {
+	name = "SirC_an"	# fictional
+	dynasty = 1042045
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 180262
+	mother = 180263
+	2848.11.3 = {
+		birth = "2848.11.3"
+	}
+	2914.1.1 = {
+		death = "2914.1.1"
+	}
+}
+180266 = {
+	name = "Sati"	# fictional
+	female = yes
+	dynasty = 1042045
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 180262
+	mother = 180263
+	2851.7.24 = {
+		birth = "2851.7.24"
+	}
+	2899.1.1 = {
+		death = "2899.1.1"
+	}
+}
+180267 = {
+	name = "C_ilen"	# fictional
+	female = yes
+	dynasty = 1042045
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 180262
+	mother = 180263
+	2853.12.3 = {
+		birth = "2853.12.3"
+	}
+	2915.1.1 = {
+		death = "2915.1.1"
+	}
+}
+180268 = {
+	name = "Blush"	# fictional
+	dynasty = 1042045
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 180260
+	mother = 180261
+	2826.2.28 = {
+		birth = "2826.2.28"
+	}
+	2845.4.1 = {
+		add_spouse = 180269
+	}
+	2872.1.1 = {
+		death = "2872.1.1"
+	}
+}
+180269 = {
+	name = "Peksen"	# fictional
+	female = yes
+	dynasty = 1042046
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2828.11.14 = {
+		birth = "2828.11.14"
+	}
+	2875.1.1 = {
+		death = "2875.1.1"
+	}
+}
+180270 = {
+	name = "Etrek"	# fictional
+	dynasty = 1042045
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 180268
+	mother = 180269
+	2846.8.19 = {
+		birth = "2846.8.19"
+	}
+	2901.1.1 = {
+		death = "2901.1.1"
+	}
+}
+180271 = {
+	name = "Gzi"	# fictional
+	dynasty = 1042045
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 180268
+	mother = 180269
+	2850.3.27 = {
+		birth = "2850.3.27"
+	}
+	2899.1.1 = {
+		death = "2899.1.1"
+	}
+}
+180272 = {
+	name = "Tura"	# fictional
+	female = yes
+	dynasty = 1042045
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 180260
+	mother = 180261
+	2833.4.11 = {
+		birth = "2833.4.11"
+	}
+	2885.1.1 = {
+		death = "2885.1.1"
+	}
+}
+180273 = {
+	name = "Pulad"	# fictional
+	dynasty = 1042048
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2825.4.19 = {
+		birth = "2825.4.19"
+	}
+	2847.1.1 = {
+		add_spouse = 180272
+	}
+	2875.1.1 = {
+		death = "2875.1.1"
+	}
+}
+194374 = {
+	name = "Sugr"	# fictional
+	dynasty = 1042048
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 180273
+	2845.1.19 = {
+		birth = yes
+	}
+	2885.1.1 = {
+		death = yes
+	}
+}
+194375 = {
+	name = "Songul"	# fictional
+	female = yes
+	dynasty = 1042048
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 180273
+	2847.1.19 = {
+		birth = yes
+	}
+	2895.1.1 = {
+		death = yes
+	}
+}
+188779 = {
+	name = "TO_rtogul" # fictional
+	dynasty = 852 # Kimak
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2722.1.1 = {
+		birth = yes
+	}
+	2772.1.1 = {
+		death = yes
+	}
+}
+
+188780 = {
+	name = "Ituk" # fictional
+	dynasty = 852 # Kimak
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 188779
+	2747.1.1 = {
+		birth = yes
+	}
+	2797.1.1 = {
+		death = yes
+	}
+}
+
+188781 = {
+	name = "Ituk" # fictional
+	dynasty = 852 # Kimak
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 188780
+	2772.1.1 = {
+		birth = yes
+	}
+	2822.1.1 = {
+		death = yes
+	}
+}
+
+188782 = {
+	name = "Itlar" # fictional
+	dynasty = 852 # Kimak
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 188781
+	2802.1.1 = {
+		birth = yes
+	}
+	2852.1.1 = {
+		death = yes
+	}
+}
+
+188798 = {
+	name = "Kuntuvdi" # fictional
+	dynasty = 1042045
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2725.1.1 = {
+		birth = yes
+	}
+	2802.1.1 = {
+		death = yes
+	}
+}
+
+194349 = {
+	name = "Koza" # fictional
+	dynasty = 1042045
+	father = 188798
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2745.1.1 = {
+		birth = yes
+	}
+	2802.1.1 = {
+		death = yes
+	}
+}
+194358 = {
+	name = "Irge" # fictional
+	female = yes
+	dynasty = 1042045
+	father = 188798
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2749.1.1 = {
+		birth = yes
+	}
+	2802.1.1 = {
+		death = yes
+	}
+}
+
+188799 = {
+	name = "Koza" # fictional
+	dynasty = 1042045
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 188798
+	2774.1.1 = {
+		birth = yes
+	}
+	2827.1.1 = {
+		death = yes
+	}
+}
+
+188800 = {
+	name = "Bonyak" # fictional
+	dynasty = 1042195
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2730.1.1 = {
+		birth = yes
+	}
+	2807.1.1 = {
+		death = yes
+	}
+}
+
+194350 = {
+	name = "Saru" # fictional
+	dynasty = 1042195
+	father = 188800
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2757.1.1 = {
+		birth = yes
+	}
+	2807.1.1 = {
+		death = yes
+	}
+}
+194359 = {
+	name = "Tura" # fictional
+	dynasty = 1042195
+	father = 188800
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2752.1.1 = {
+		birth = yes
+	}
+	2807.1.1 = {
+		death = yes
+	}
+}
+194360 = {
+	name = "Sibel" # fictional
+	female = yes
+	dynasty = 1042195
+	father = 188800
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2754.1.1 = {
+		birth = yes
+	}
+	2807.1.1 = {
+		death = yes
+	}
+}
+
+188816 = {
+	name = "Gzi" # fictional
+	dynasty = 1042197
+	religion = "tengri_pagan"
+	culture = "cuman"
+	2743.1.1 = {
+		birth = yes
+	}
+	2802.1.1 = {
+		death = yes
+	}
+}
+194189 = {
+	name = "Kutan"
+	dynasty = 698 # Terteroba
+	religion = "tengri_pagan"
+	culture = "cuman"
+	father = 125403
+	mother = 194190
+	3204.5.6 = {
+		birth = yes
+	}
+	3260.2.1 = {
+		death = yes
+	}
+}
+194190 = {
+	name = "Sevilay"
+	religion = "tengri_pagan"
+	culture = "cuman"
+	female = yes
+	3174.7.6 = {
+		birth = yes
+	}
+	3217.2.5 = {
+		death = yes
+	}
+}
+194205 = {
+	name = "Sotan"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 34871
+	2852.1.1 = {
+		birth = yes
+	}
+	2922.1.1 = {
+		death = yes
+	}
+}
+194206 = {
+	name = "Kobyak"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194205
+	2882.1.1 = {
+		birth = yes
+	}
+	2932.1.1 = {
+		death = yes
+	}
+}
+194207 = {
+	name = "Uzluk"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194206
+	2896.1.1 = {
+		birth = yes
+	}
+	2952.1.1 = {
+		death = yes
+	}
+}
+194208 = {
+	name = "Sotan"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194207
+	2922.1.1 = {
+		birth = yes
+	}
+	2982.1.1 = {
+		death = yes
+	}
+}
+194209 = {
+	name = "BO_nek"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194208
+	2962.1.1 = {
+		birth = yes
+	}
+	3032.1.1 = {
+		death = yes
+	}
+}
+194210 = {
+	name = "Uzluk"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194209
+	2992.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+194211 = {
+	name = "Kutan"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194210
+	3027.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+194212 = {
+	name = "Koza"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194211
+	3047.1.1 = {
+		birth = yes
+	}
+	3112.1.1 = {
+		death = yes
+	}
+}
+194397 = {
+	name = "Irge"
+	female = yes
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194211
+	3049.1.1 = {
+		birth = yes
+	}
+	3112.1.1 = {
+		death = yes
+	}
+}
+194213 = {
+	name = "Togli"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194212
+	3082.1.1 = {
+		birth = yes
+	}
+	3152.1.1 = {
+		death = yes
+	}
+}
+194214 = {
+	name = "Asalup"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194213
+	3114.1.1 = {
+		birth = yes
+	}
+	3182.1.1 = {
+		death = yes
+	}
+}
+194215 = {
+	name = "C_ilbu"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194214
+	3142.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = yes
+	}
+}
+194216 = {
+	name = "Kubasar"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194215
+	3182.1.1 = {
+		birth = yes
+	}
+	3232.1.1 = {
+		death = yes
+	}
+}
+194217 = {
+	name = "Sugr"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194216
+	3202.1.1 = {
+		birth = yes
+	}
+	3282.1.1 = {
+		death = yes
+	}
+}
+194403 = {
+	name = "Esin"
+	female = yes
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194216
+	3205.1.1 = {
+		birth = yes
+	}
+	3282.1.1 = {
+		death = yes
+	}
+}
+194218 = {
+	name = "Bonyak"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194217
+	3252.1.1 = {
+		birth = yes
+	}
+	3312.1.1 = {
+		death = yes
+	}
+}
+194219 = {
+	name = "Etrek"
+	dynasty = 852 # Kimak
+	religion = tengri_pagan
+	culture = cuman
+	father = 194218
+	3292.1.1 = {
+		birth = yes
+	}
+	3352.1.1 = {
+		death = yes
+	}
+}
+#
+302781 = {
+	name = "C_ilbu"
+	dynasty = 2001118	#Batpaktan
+	religion = tengri_pagan
+	culture = cuman
+	3027.4.12 = {
+		birth = yes
+	}
+	3047.11.30 = {
+		add_spouse = cuman0001
+	}
+	3075.7.1 = {
+		death = yes
+	}
+}
+302783 = {
+	name = "Saru"
+	dynasty = 2001118	#Batpaktan
+	religion = tengri_pagan
+	culture = cuman
+	father = 302781
+	mother = cuman0001
+	3049.1.19 = {
+		birth = yes
+	}
+	3068.10.28 = {
+		add_spouse = 302785
+	}
+	3110.8.23 = {
+		death = yes
+	}
+}
+302785 = {
+	name = "O_zlem"
+	female = yes
+	religion = tengri_pagan
+	culture = cuman
+	3052.2.3 = {
+		birth = yes
+	}
+	3121.6.16 = {
+		death = yes
+	}
+}
+302786 = {
+	name = "Kubasar"
+	dynasty = 2001118	#Batpaktan
+	religion = tengri_pagan
+	culture = cuman
+	father = 302783
+	mother = 302785
+	3074.4.27 = {
+		birth = yes
+	}
+	3131.12.26 = {
+		death = yes
+	}
+}
+302787 = {
+	name = "Saru"
+	dynasty = 2001118	#Batpaktan
+	religion = tengri_pagan
+	culture = cuman
+	father = 302786
+	3102.6.17 = {
+		birth = yes
+	}
+	3146.10.6 = {
+		death = yes
+	}
+}
+302788 = {
+	name = "Bachman"
+	dynasty = 2001118	#Batpaktan
+	religion = tengri_pagan
+	culture = cuman
+	father = 302787
+	3134.4.2 = {
+		birth = yes
+	}
+	3202.11.15 = {
+		death = yes
+	}
+}
+302789 = {
+	name = "C_ilbu"
+	dynasty = 2001118	#Batpaktan
+	religion = tengri_pagan
+	culture = cuman
+	father = 302788
+	3161.8.4 = {
+		birth = yes
+	}
+	3219.1.21 = {
+		death = yes
+	}
+}
+#
+302808 = {
+	name = "Sharaga"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	3012.1.18 = {
+		birth = yes
+	}
+	3035.5.25 = {
+		add_spouse = 302809
+	}
+	3039.1.28 = {
+		add_spouse = 302810
+	}
+	3065.5.5 = {
+		death = yes
+	}
+}
+302809 = {
+	name = "Jiajak"
+	female = yes
+	religion = tengri_pagan
+	culture = cuman
+	3018.7.5 = {
+		birth = yes
+	}
+	3038.5.12 = {
+		death = yes
+	}
+}
+302810 = {
+	name = "Guranduk"
+	female = yes
+	religion = tengri_pagan
+	culture = cuman
+	3020.8.12	= {
+		birth = yes
+	}
+	3096.10.30 = {
+		death = yes
+	}
+}
+302811 = {
+	name = "Seyhan"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302808
+	mother = 302809
+	3037.1.9 = {
+		birth = yes
+	}
+	3058.12.7 = {
+		add_spouse = 302812
+	}
+	3094.12.19 = {
+		death = yes
+	}
+}
+302812 = {
+	name = "Yildiz"
+	female = yes
+	religion = tengri_pagan
+	culture = cuman
+	3040.7.24 = {
+		birth = yes
+	}
+	3103.6.12 = {
+		death = yes
+	}
+}
+302813 = {
+	name = "Zeyhan"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302808
+	mother = 302809
+	3038.5.10 = {
+		birth = yes
+	}
+	3062.6.20 = {
+		add_spouse = 302814
+	}
+	3087.8.24 = {
+		death = yes
+	}
+}
+302814 = {
+	name = "Peksen"
+	female = yes
+	religion = tengri_pagan
+	culture = cuman
+	3042.4.1 = {
+		birth = yes
+	}
+	3074.2.17 = {
+		death = yes
+	}
+}
+302815 = {
+	name = "Songul"
+	female = yes
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302808
+	mother = 302810
+	3044.6.26 = {
+		birth = yes
+	}
+	3061.8.5 = {
+		add_spouse = 302816
+	}
+	3119.12.21 = {
+		death = yes
+	}
+}
+302816 = {
+	name = "Aepak"
+	religion = tengri_pagan
+	culture = cuman
+	3040.11.4	= {
+		birth = yes
+	}
+	3098.5.22 = {
+		death = yes
+	}
+}
+302817 = {
+	name = "Ovlur"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302808
+	mother = 302810
+	3046.2.5 = {
+		birth = yes
+	}
+	3066.1.14 = {
+		add_spouse = 302818
+	}
+	3112.1.4 = {
+		death = yes
+	}
+}
+302818 = {
+	name = "Samur"
+	female = yes
+	religion = tengri_pagan
+	culture = cuman
+	3049.6.11 = {
+		birth = yes
+	}
+	3108.10.4 = {
+		death = yes
+	}
+}
+302819 = {
+	name = "Sharaga"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302811
+	mother = 302812
+	3059.2.5 = {
+		birth = yes
+	}
+	3083.7.12 = {
+		add_spouse = 302820
+	}
+	3109.10.7 = {
+		death = yes
+	}
+}
+302820 = {
+	name = "O_zlem"
+	female = yes
+	religion = tengri_pagan
+	culture = cuman
+	3064.2.27 = {
+		birth = yes
+	}
+	3134.3.28 = {
+		death = yes
+	}
+}
+302821 = {
+	name = "Lavor"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302811
+	mother = 302812
+	3062.8.17 = {
+		birth = yes
+	}
+	3081.6.6 = {
+		add_spouse = 302822
+	}
+	3134.11.29 = {
+		death = yes
+	}
+}
+302822 = {
+	name = "Akgul"
+	female = yes
+	religion = tengri_pagan
+	culture = cuman
+	3062.9.1 = {
+		birth = yes
+	}
+	3120.8.16 = {
+		death = yes
+	}
+}
+302823 = {
+	name = "Sugr"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302813
+	mother = 302814
+	3064.2.4 = {
+		birth = yes
+	}
+	3064.7.19 = {
+		death = yes
+	}
+}
+302824 = {
+	name = "Sarica"
+	female = yes
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302813
+	mother = 302814
+	3067.3.20 = {
+		birth = yes
+	}
+	3088.3.13 = {
+		add_spouse = 302825
+	}
+	3126.10.20 = {
+		death = yes
+	}
+}
+302825 = {
+	name = "BO_nek"
+	religion = tengri_pagan
+	culture = cuman
+	3065.5.13 = {
+		birth = yes
+	}
+	3109.2.17 = {
+		death = yes
+	}
+}
+302826 = {
+	name = "Kemenche"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302813
+	mother = 302814
+	3069.1.3 = {
+		birth = yes
+	}
+	3089.2.1 = {
+		add_spouse = 302827
+	}
+	3124.1.25 = {
+		death = yes
+	}
+}
+302827 = {
+	name = "Dilek"
+	female = yes
+	religion = tengri_pagan
+	culture = cuman
+	3072.4.5 = {
+		birth = yes
+	}
+	3141.10.7 = {
+		death = yes
+	}
+}
+302828 = {
+	name = "Irge"
+	female = yes
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302817
+	mother = 302818
+	3068.12.13 = {
+		birth = yes
+	}
+	3090.6.6 = {
+		add_spouse = 302829
+	}
+	3144.8.17 = {
+		death = yes
+	}
+}
+302829 = {
+	name = "Baytursun"
+	religion = tengri_pagan
+	culture = cuman
+	3060.3.10 = {
+		birth = yes
+	}
+	3110.1.2 = {
+		death = yes
+	}
+}
+302830 = {
+	name = "Umay"
+	female = yes
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302817
+	mother = 302818
+	3071.3.22 = {
+		birth = yes
+	}
+	3080.8.14 = {
+		death = yes
+	}
+}
+302831 = {
+	name = "Taz"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302817
+	mother = 302818
+	3072.6.23 = {
+		birth = yes
+	}
+	3088.8.6 = {
+		add_spouse = 302832
+	}
+	3111.4.29 = {
+		death = yes
+	}
+}
+302832 = {
+	name = "Tura"
+	female = yes
+	religion = tengri_pagan
+	culture = cuman
+	3077.7.18 = {
+		birth = yes
+	}
+	3158.12.17 = {
+		death = yes
+	}
+}
+302833 = {
+	name = "Ayten"
+	female = yes
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302819
+	mother = 302820
+	3089.4.12 = {
+		birth = yes
+	}
+	3157.1.20 = {
+		death = yes
+	}
+}
+302834 = {
+	name = "Beka"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302819
+	mother = 302820
+	3092.11.24 = {
+		birth = yes
+	}
+	3168.11.10 = {
+		death = yes
+	}
+}
+302835 = {
+	name = "Yeldem"
+	female = yes
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302821
+	mother = 302822
+	3085.6.13 = {
+		birth = yes
+	}
+	3139.2.9 = {
+		death = yes
+	}
+}
+302836 = {
+	name = "Togortok"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302821
+	mother = 302822
+	3087.2.8 = {
+		birth = yes
+	}
+	3141.9.11 = {
+		death = yes
+	}
+}
+302837 = {
+	name = "Gunes"
+	female = yes
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302824
+	mother = 302825
+	3091.3.29 = {
+		birth = yes
+	}
+	3168.11.17 = {
+		death = yes
+	}
+}
+302838 = {
+	name = "Vlur"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302826
+	mother = 302827
+	3093.5.16 = {
+		birth = yes
+	}
+	3154.7.20 = {
+		death = yes
+	}
+}
+302839 = {
+	name = "C_ilen"
+	female = yes
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302826
+	mother = 302827
+	3095.2.8 = {
+		birth = yes
+	}
+	3155.1.30 = {
+		death = yes
+	}
+}
+302840 = {
+	name = "GulC_iC_ek "
+	female = yes
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302826
+	mother = 302827
+	3096.7.7 = {
+		birth = yes
+	}
+	3158.8.22 = {
+		death = yes
+	}
+}
+302841 = {
+	name = "Sati"
+	female = yes
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302828
+	mother = 302829
+	3088.7.23 = {
+		birth = yes
+	}
+	3132.4.12 = {
+		death = yes
+	}
+}
+302842 = {
+	name = "Menk"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302828
+	mother = 302829
+	3091.5.22 = {
+		birth = yes
+	}
+	3138.6.30 = {
+		death = yes
+	}
+}
+302843 = {
+	name = "Kozel"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302831
+	mother = 302832
+	3093.9.30 = {
+		birth = yes
+	}
+	3149.12.14 = {
+		death = yes
+	}
+}
+302844 = {
+	name = "Togli"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302831
+	mother = 302832
+	3094.10.27 = {
+		birth = yes
+	}
+	3151.8.25 = {
+		death = yes
+	}
+}
+302845 = {
+	name = "Karacik"
+	female = yes
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302831
+	mother = 302832
+	3096.1.9 = {
+		birth = yes
+	}
+	3128.4.26 = {
+		death = yes
+	}
+}
+302846 = {
+	name = "Jiajak"
+	female = yes
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302831
+	mother = 302832
+	3099.1.28 = {
+		birth = yes
+	}
+	3168.2.16 = {
+		death = yes
+	}
+}
+302847 = {
+	name = "Kutan"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302834
+	3118.12.10 = {
+		birth = yes
+	}
+	3175.12.2 = {
+		death = yes
+	}
+}
+302848 = {
+	name = "Alpra"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302847
+	3146.3.14 = {
+		birth = yes
+	}
+	3208.2.10 = {
+		death = yes
+	}
+}
+302849 = {
+	name = "Lavor"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302838
+	3122.7.18 = {
+		birth = yes
+	}
+	3180.3.6 = {
+		death = yes
+	}
+}
+302850 = {
+	name = "Bonyak"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302849
+	3147.9.26 = {
+		birth = yes
+	}
+	3204.10.1 = {
+		death = yes
+	}
+}
+302851 = {
+	name = "Taz"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302843
+	3115.11.18 = {
+		birth = yes
+	}
+	3166.2.11 = {
+		death = yes
+	}
+}
+302852 = {
+	name = "Kolo"
+	dynasty = 2001119	#Altunopa
+	religion = tengri_pagan
+	culture = cuman
+	father = 302843
+	3140.8.7 = {
+		birth = yes
+	}
+	3201.10.23 = {
+		death = yes
+	}
+}
+
+### Additional fictional underlings under Khan Saru of Cumania in k_pontic_steppe 1066
+#Added so that Khan Saru doesn't hold everything (and goes above domain limit) in Cumania
+303436 = {
+	name = "Lavor"	#fictional
+	dynasty = 2001324	#fictional Tolgag
+	religion = tengri_pagan
+	culture = cuman
+	3039.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+303437 = {
+	name = "Tugor"	#fictional
+	dynasty = 2001325	#fictional Sokortal
+	religion = tengri_pagan
+	culture = cuman
+	3032.1.1 = {
+		birth = yes
+	}
+	3091.1.1 = {
+		death = yes
+	}
+}
+
+cuman0001 = {
+	name = "Yildiz"
+	female = yes
+	religion = tengri_pagan
+	culture = cuman
+	3029.11.27 = {
+		birth = yes
+	}
+	3097.3.5 = {
+		death = yes
+	}
+}
+
+cuman0002 = {
+	name = "Ituk"
+	dynasty = 2001118	#Batpaktan
+	religion = tengri_pagan
+	culture = cuman
+	father = 302781
+	mother = cuman0001
+	3053.12.3 = {
+		birth = yes
+	}
+	3102.4.11 = {
+		death = yes
+	}
+}
+
+### End of fictional underlings under Khan Saru of Cumania in k_pontic_steppe 1066

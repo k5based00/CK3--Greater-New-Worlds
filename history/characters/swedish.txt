@@ -1,0 +1,8351 @@
+﻿100514 = {
+	name = "Ingrid"
+	female = yes
+	dynasty_house = house_munso
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = gluttonous
+	trait = legitimized_bastard
+	trait = education_stewardship_3
+	father = 100509 # Emund Slemme
+	3031.1.2 = {
+		birth = "3031.1.2"
+	}
+	3081.1.2 = {
+		death = "3081.1.2"
+	}
+}
+
+100522 = {
+	name = "Stenkil"
+	dynasty_house = house_stenkiling
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = lustful
+	trait = wrathful
+	trait = generous
+	trait = education_martial_2
+	father = 100521
+	mother = 100510
+	
+	3029.1.1 = {
+		birth = yes
+	}
+	3047.1.1 = {
+		add_spouse = 100514 # Maria af Munsö
+	}
+	
+	3068.1.1 = {
+		trait = pneumonic
+	}
+	
+	3068.9.15 = {
+		death = {
+			death_reason = death_pneumonic
+		}
+	}
+}
+
+100523 = {
+	name = "Halsten"
+	dynasty_house = house_stenkiling
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = education_diplomacy_2
+	father = 100522
+	mother = 100514
+	3049.1.2 = {
+		birth = "3049.1.2"
+	}
+	3112.12.1 = {
+		death = "3112.12.1"
+	}
+}
+
+100524 = {
+	name = "Inge" # "the_Older"
+	dynasty_house = house_stenkiling
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = zealous
+	trait = education_diplomacy_2
+	father = 100522
+	mother = 100514
+	3052.1.8 = {
+		birth = "3052.1.8"
+	}
+	3102.1.8 = {
+		death = "3102.1.8"
+	}
+}
+
+100525 = {
+	name = "Erik"
+	dynasty_house = house_stenkiling
+	martial = 7
+	diplomacy = 3
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = brave
+	trait = stubborn
+	trait = education_martial_2
+	father = 100522 # Stenkil - Speculation
+	mother = 100514 # Speculation
+	3048.1.4 = {
+		birth = "3048.1.4"
+	}
+	3069.12.20 = {
+		death = "3069.12.20" # Died in a civil war against 100546 - Erik "Hedningen" ("The_Heathen")
+	}
+}
+
+100526 = {
+	name = "HA_kan" # "Röde" (Possibly the same person as "Blot-Sven")
+	# AKA: Haakon
+	dynasty_house = house_stenkiling # Speculation
+	martial = 6
+	diplomacy = 3
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic" # Possibly Norse Pagan
+	culture = "swedish"
+	trait = cynical
+	trait = legitimized_bastard
+	trait = education_intrigue_3
+	father = 100522 # Stenkil - Speculation
+	# mother = 100514 # Presumed to have been a Bastard of Stenkil's	
+	3050.6.2 = {
+		birth = "3050.6.2"
+		give_nickname = nick_the_red
+	}
+	3082.12.1 = {
+		death = "3082.12.1"
+	}
+}
+
+100527 = {
+	name = "BjO_rn"
+	# AKA: Bjorn
+	dynasty = 1045058
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "norse_pagan"
+	culture = "swedish"
+	trait = lustful
+	trait = honest
+	trait = brave
+	trait = education_martial_3
+	3050.1.2 = {
+		birth = "3050.1.2"
+	}
+	3100.1.2 = {
+		death = "3100.1.2"
+	}
+}
+
+100528 = {
+	name = "Katarina"
+	female = yes
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = zealous
+	trait = education_intrigue_1
+	3051.1.2 = {
+		birth = "3051.1.2"
+	}
+	3101.1.2 = {
+		death = "3101.1.2"
+	}
+}
+
+100529 = {
+	name = "Kol"
+	dynasty = 496
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "norse_pagan"
+	culture = "swedish"
+	trait = cynical
+	trait = education_intrigue_1
+	3032.1.2 = {
+		birth = "3032.1.2"
+	}
+	3069.1.4 = {
+		death = "3069.1.4"
+	}
+}
+
+100530 = {
+	name = "Sven"
+	dynasty = 496
+	martial = 8
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = just
+	trait = education_martial_2
+	father = 100529
+	3058.1.1 = {
+		birth = "3058.1.1"
+	}
+	3108.1.1 = {
+		death = "3108.1.1"
+	}
+}
+
+100535 = {
+	name = "Ilthiaud"
+	female = yes
+	dynasty = 495
+	martial = 6
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = hunchbacked
+	trait = education_diplomacy_2
+	father = 100532
+	mother = 100543
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3082.1.1 = {
+		death = "3082.1.1"
+	}
+}
+
+100536 = {
+	name = "Botstain"
+	dynasty = 495
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_2
+	father = 100538
+	mother = 100535
+	3049.1.1 = {
+		birth = "3049.1.1"
+	}
+	3067.1.1 = {
+		add_spouse = 167630
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+100537 = {
+	name = "Hallgarir"
+	dynasty = 495
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_2
+	father = 100538
+	mother = 100535
+	3054.1.1 = {
+		birth = "3054.1.1"
+	}
+	3104.1.1 = {
+		death = "3104.1.1"
+	}
+}
+
+100538 = {
+	name = "Audvald"
+	#dynasty = 495
+	martial = 4
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_intrigue_2
+	3027.1.1 = {
+		birth = "3027.1.1"
+	}
+	3047.1.1 = {
+		add_spouse = 100535
+	}
+	3077.1.1 = {
+		death = "3077.1.1"
+	}
+}
+
+100540 = {
+	name = "Olaf"
+	dynasty = 494
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = cynical
+	trait = education_intrigue_2
+	father = 100539
+	mother = 100534
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3082.1.1 = {
+		death = "3082.1.1"
+	}
+}
+
+100541 = {
+	name = "Estrid"
+	female = yes
+	dynasty = 493
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = greedy
+	trait = education_intrigue_2
+	3026.1.1 = {
+		birth = "3026.1.1"
+	}
+	3076.1.1 = {
+		death = "3076.1.1"
+	}
+}
+
+100542 = {
+	name = "Botaid"
+	dynasty = 495
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_2
+	father = 100533
+	mother = 100541
+	3057.1.1 = {
+		birth = "3057.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+100544 = {
+	name = "Tolir"
+	dynasty = 491
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 4
+	religion = "norse_pagan"
+	culture = "swedish"
+	trait = education_learning_3
+	3042.1.2 = {
+		birth = "3042.1.2"
+	}
+	3066.1.2 = {
+		add_spouse = 100545
+	}
+	3092.1.2 = {
+		death = "3092.1.2"
+	}
+}
+
+100545 = {
+	name = "HjO_rdis"
+	# AKA: Hjordis
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = greedy
+	trait = humble
+	trait = education_intrigue_2
+	3047.1.2 = {
+		birth = "3047.1.2"
+	}
+	3097.1.2 = {
+		death = "3097.1.2"
+	}
+}
+
+100546 = {
+	name = "Erik" # Hedningen
+	# AKA: Erik Hedningen
+	dynasty_house = house_munso
+	martial = 6
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 4
+	religion = "norse_pagan"
+	culture = "swedish"
+	trait = greedy
+	trait = brave
+	trait = zealous
+	trait = education_martial_2
+	trait = legitimized_bastard
+	father = 100509 # Emund the Old, speculative
+	3033.1.1 = {
+		birth = "3033.1.1"
+	}
+	3062.8.2 = {
+		add_pressed_claim = title:k_sweden
+		give_nickname = nick_the_heathen_rebel
+	}
+	3063.6.6 = {
+		add_spouse = 100547
+	}
+	3069.12.20 = {
+		death = "3069.12.20" # Died in a civil war against 100525 - Erik Stenkilsson
+	}
+}
+
+100547 = {
+	name = "Sigrid"
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = honest
+	trait = greedy
+	trait = education_intrigue_2
+	3048.1.2 = {
+		birth = "3048.1.2"
+	}
+	3098.1.2 = {
+		death = "3098.1.2"
+	}
+}
+
+100550 = {
+	name = "Filip"
+	dynasty_house = house_stenkiling
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = diligent
+	trait = education_diplomacy_2
+	father = 100523
+	
+	3077.1.2 = {
+		birth = "3077.1.2"
+	}
+	3098.1.1 = {
+		add_spouse = 102535 # Ingeberd of Norway
+	}
+	3120.6.6 = {
+		death = "3120.6.6"
+	}
+}
+
+100551 = {
+	name = "Inge"
+	# AKA: Inge the Younger
+	dynasty_house = house_stenkiling
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_martial_2
+	father = 100523
+	3080.1.2 = {
+		birth = "3080.1.2"
+	}
+	3112.1.1 = {
+		add_spouse = 200601
+	}
+	3127.6.6 = {
+		death = "3127.6.6"
+	}
+}
+
+100552 = {
+	name = "Ragnvald" # "Knaphövde"
+	# AKA: Ragnvald 'Knaphovde'
+	dynasty_house = house_stenkiling
+	martial = 3
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = trusting
+	trait = education_stewardship_2
+	father = 100524 # Possibly
+	
+	3077.1.8 = {
+		birth = "3077.1.8"
+	}
+	3128.6.6 = {
+		death = "3128.6.6"
+	}
+}
+
+144648 = {
+	name = "Filip"
+	dynasty = 381
+	religion = "catholic"
+	culture = "swedish"
+	father = 200490
+	mother = 200491
+	3161.1.1 = {
+		birth = "3161.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+144649 = {
+	name = "Holmger"
+	dynasty = 381
+	religion = "catholic"
+	culture = "swedish"
+	father = 144648
+	3181.1.1 = {
+		birth = "3181.1.1"
+	}
+	3209.1.1 = {
+		death = "3209.1.1"
+	}
+}
+
+144670  = {
+	name = "Karl"
+	dynasty = 136
+	religion = "catholic"
+	culture = "swedish"
+	father = 200541
+	3218.1.1 = {
+		birth = "3218.1.1"
+	}
+	3255.1.1 = {
+		death = "3255.1.1"
+	}
+}
+
+200001 = {
+	name = "Arnfast"
+	dynasty = 100280
+	martial = 4
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 5
+	religion = "norse_pagan"
+	culture = "swedish"
+	trait = generous
+	trait = cynical
+	trait = education_diplomacy_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3222.1.1 = {
+		death = "3222.1.1"
+	}
+}
+
+200002 = {
+	name = "TorgO_t"
+	# AKA: Torgot
+	dynasty = 100281
+	martial = 8
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 4
+	religion = "norse_pagan"
+	culture = "swedish"
+	trait = education_learning_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3231.1.1 = {
+		death = "3231.1.1"
+	}
+}
+
+200004 = {
+	name = "Bengt"
+	dynasty = 100283
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200005 = {
+	name = "Jedvard"
+	dynasty = 100284
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = lustful
+	trait = wrathful
+	trait = inbred
+	trait = education_intrigue_1
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200006 = {
+	name = "RO_rek"
+	# AKA: Rorek
+	dynasty = 100285
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200007 = {
+	name = "Botulf"
+	# AKA: Botolf
+	dynasty = 100286
+	martial = 5
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = chaste
+	trait = lazy
+	trait = wrathful
+	trait = brave
+	trait = education_learning_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200008 = {
+	name = "Bengt"
+	dynasty = 100287
+	martial = 5
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = gluttonous
+	trait = education_diplomacy_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200009 = {
+	name = "Folkvid"
+	dynasty = 100288
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = deceitful
+	trait = education_learning_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3182.1.2 = {
+		add_spouse = 202506
+	}
+	3186.1.1 = {
+		remove_spouse = 202506
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200010 = {
+	name = "Halsten"
+	dynasty = 100295
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = humble
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200011 = {
+	name = "Emund"
+	dynasty = 100298
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = clubfooted
+	trait = education_intrigue_1
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200012 = {
+	name = "Eskild"
+	dynasty = 100299
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = temperate
+	trait = honest
+	trait = ill
+	trait = education_learning_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200013 = {
+	name = "Bertil"
+	dynasty = 100300
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = gluttonous
+	trait = education_stewardship_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200014 = {
+	name = "ArnbjO_rn"
+	# AKA: Arnborn
+	dynasty = 100006
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200015 = {
+	name = "TorbjO_rn"
+	# AKA: Torbjorn
+	dynasty = 100301
+	martial = 8
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	3149.1.1 = {
+		birth = "3149.1.1"
+	}
+	3199.1.1 = {
+		death = "3199.1.1"
+	}
+}
+
+200016 = {
+	name = "Johannes"
+	dynasty = 100290
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = brave
+	trait = education_learning_2
+	3151.1.1 = {
+		birth = "3151.1.1"
+	}
+	3201.1.1 = {
+		death = "3201.1.1"
+	}
+}
+
+200017 = {
+	name = "Thore"
+	dynasty = 100291
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_martial_2
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200018 = {
+	name = "Johan"
+	dynasty = 100289
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = diligent
+	trait = education_learning_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200019 = {
+	name = "Haakon"
+	dynasty = 100288
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_martial_2
+	father = 200009
+	mother = 202506
+	3185.1.1 = {
+		birth = "3185.1.1"
+	}
+	3235.1.1 = {
+		death = "3235.1.1"
+	}
+}
+
+20005 = {
+	name = "Tjudmund"
+	dynasty = 100287
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20006 = {
+	name = "Olaf"
+	dynasty = 100291
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "norse_pagan"
+	culture = "swedish"
+	trait = education_martial_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20007 = {
+	name = "Tyke"
+	dynasty = 100300
+	martial = 8
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = humble
+	trait = education_stewardship_3
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3068.1.1 = {
+		contract_disease_effect = { DISEASE = ill TREATMENT_EVENT = yes }
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20008 = {
+	name = "Faste"
+	dynasty = 100295
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = education_martial_3
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20009 = {
+	name = "Finn"
+	dynasty = 100294
+	martial = 5
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_3
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20010 = {
+	name = "Kettil"
+	dynasty = 100298
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = lustful
+	trait = calm
+	trait = education_martial_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20011 = {
+	name = "Algot"
+	dynasty = 100006
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_intrigue_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20012 = {
+	name = "Sigvard"
+	dynasty = 100299
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = education_martial_3
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20013 = {
+	name = "KolbjO_rn"
+	# AKA: Kolbjorn
+	dynasty = 100283
+	martial = 7
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 5
+	religion = "norse_pagan"
+	culture = "swedish"
+	trait = calm
+	trait = craven
+	trait = education_diplomacy_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+20014 = {
+	name = "Thord"
+	dynasty = 100281
+	martial = 7
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "norse_pagan"
+	culture = "swedish"
+	trait = calm
+	trait = education_diplomacy_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+20015 = {
+	name = "Botulf"
+	dynasty = 100280
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 8
+	religion = "norse_pagan"
+	culture = "swedish"
+	trait = calm
+	trait = arrogant
+	trait = education_martial_3
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+20020 = {
+	name = "Toke"
+	dynasty = 827 # Värending
+	religion = "norse_pagan"
+	culture = "swedish"
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+200490 = {
+	name = "Erik" # Den Helige - The Holy
+	dynasty = 381
+	martial = 8
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = just
+	trait = education_learning_2
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3147.1.1 = {
+		add_spouse = 200491 # Kristina Björnsdotter
+	}
+	3152.1.1 = {
+		trait = faith_warrior
+	}
+	3162.6.6 = {
+		death = "3162.6.6"
+	}
+}
+
+200493 = {
+	name = "Katarina"
+	female = yes
+	dynasty_house = house_stenkiling
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	father = 100524
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3147.1.2 = {
+		death = "3147.1.2"
+	}
+}
+
+200494 = {
+	name = "Margareta" # Fredkulla
+	female = yes
+	dynasty_house = house_stenkiling
+	martial = 4
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	father = 100524
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+200500 = {
+	name = "Knut"
+	dynasty = 381
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = gluttonous
+	trait = education_diplomacy_1
+	father = 200490
+	mother = 200491
+	3148.1.1 = {
+		birth = "3148.1.1"
+	}
+	3168.1.1 = {
+		add_spouse = 200520
+	}
+	3197.1.2 = {
+		death = "3197.1.2"
+	}
+}
+
+200501 = {
+	name = "Jon"
+	dynasty = 381
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = just
+	trait = education_martial_3
+	father = 200500
+	mother = 200520
+	3173.1.2 = {
+		birth = "3173.1.2"
+	}
+	3207.1.11 = {
+		death = "3207.1.11" #Battle of Älgarås
+	}
+}
+
+200502 = {
+	name = "Knut"
+	dynasty = 381
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = deceitful
+	trait = education_stewardship_2
+	father = 200500
+	mother = 200520
+	3175.1.2 = {
+		birth = "3175.1.2"
+	}
+	3207.1.11 = {
+		death = "3207.1.11" #Battle of Älgarås
+	}
+}
+
+200503 = {
+	name = "Joar"
+	dynasty = 381
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = education_martial_2
+	father = 200500
+	mother = 200520
+	3177.1.2 = {
+		birth = "3177.1.2"
+	}
+	3207.1.11 = {
+		death = "3207.1.11" #Battle of Älgarås
+	}
+}
+
+200504 = {
+	name = "Erik" #Knutsson
+	dynasty = 381
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = humble
+	trait = education_martial_2
+	father = 200500 # Knut, King of Sweden
+	mother = 200520
+	3182.1.2 = {
+		birth = "3182.1.2"
+	}
+	3212.1.1 = {
+		add_spouse = 201506 # Rikissa of Denmark
+	}
+	3218.4.10 = {
+		death = "3218.4.10"
+	}
+}
+
+200505 = {
+	name = "Sigrid"
+	female = yes
+	dynasty = 381
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = diligent
+	trait = cynical
+	trait = education_diplomacy_3
+	father = 200500
+	mother = 200520
+	3171.1.2 = {
+		birth = "3171.1.2"
+	}
+	3221.1.2 = {
+		death = "3221.1.2"
+	}
+}
+
+200506 = {
+	name = "Margareta"
+	female = yes
+	dynasty = 381
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = just
+	trait = education_diplomacy_3
+	father = 200490
+	3160.1.2 = {
+		birth = "3160.1.2"
+	}
+	3210.1.2 = {
+		death = "3210.1.2"
+	}
+}
+
+200507 = {
+	name = "Erik" # 'den Läspe och Halte'
+	dynasty = 381
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = chaste
+	trait = lisping
+	trait = clubfooted
+	trait = education_stewardship_2
+	father = 200504 # Erik Knutsson
+	mother = 201506
+	3218.1.2 = {
+		birth = "3218.1.2"
+	}
+	3222.1.1 = {
+		give_nickname = nick_the_lisp_and_lame		# Really earlier than its historical use, but makes him more visible in the 1220 start
+	}
+#	3236.1.2 = {
+#		give_nickname = nick_the_lisp_and_lame
+#	}
+	3245.1.1 = {
+		add_spouse = 170021 # Katarina Sunadotter
+	}
+	3252.2.2 = {
+		death = "3252.2.2"
+	}
+}
+
+200508 = {
+	name = "Knut" # Holmgersson
+	# AKA: Knut Holmgersson
+	dynasty = 381
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = temperate
+	trait = education_diplomacy_3
+	father = 144649
+	3208.1.1 = {
+		birth = "3208.1.1"
+	}
+	3227.1.1 = {
+		add_spouse = 170023 # Helena Pedersdatter
+	}
+	3236.6.6 = {
+		death = "3236.6.6"
+	}
+}
+
+200519 = {
+	name = "Ingevald" # Possibly the son of the legendary Folke Filbyter
+	dynasty = 155
+	martial = 3
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = intellect_good_1
+	trait = diligent
+	trait = just
+	trait = strong
+	trait = education_stewardship_3
+	3047.1.1 = {
+		birth = "3047.1.1"
+	}
+	3063.1.1 = {
+		employer = 100522 # King Stenkil
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+200520 = {
+	name = "Cecilia" # Johansdotter, name uncertain
+	female = yes
+	dynasty = 493
+	martial = 8
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+200521 = {
+	name = "Bengt" # 'Snivil'
+	dynasty = 155
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = deceitful
+	trait = wrathful
+	trait = education_diplomacy_2
+	father = 200535 # Folke the Fat
+	mother = 101550 # Ingegerd Knudsdatter
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	3151.1.1 = {
+		add_spouse = 200522
+	}
+	3168.1.1 = {
+		death = "3168.1.1"
+	}
+}
+
+200522 = {
+	name = "Sigrid"
+	female = yes
+	dynasty = 379
+	martial = 4
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = just
+	trait = hunchbacked
+	trait = education_stewardship_2
+	3129.1.2 = {
+		birth = "3129.1.2"
+	}
+	3179.1.2 = {
+		death = "3179.1.2"
+	}
+}
+
+200523 = {
+	name = "Birger" # 'Brosa' - Jarl of Sweden
+	# AKA: Birger Brosa
+	dynasty = 155
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 9
+	religion = "catholic"
+	culture = "swedish"
+	trait = diligent
+	trait = calm
+	trait = education_diplomacy_3
+	father = 200521
+	mother = 200522
+	3143.1.2 = {
+		birth = "3143.1.2"
+	}
+	3167.1.1 = {
+		add_spouse = 202513
+	}
+	3204.1.9 = {
+		death = "3204.1.9"
+	}
+}
+
+200524 = {
+	name = "Filip"
+	dynasty = 155
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = generous
+	trait = arrogant
+	trait = diligent
+	trait = education_martial_2
+	father = 200523
+	mother = 202513
+	3165.1.2 = {
+		birth = "3165.1.2"
+	}
+	3215.1.2 = {
+		death = "3215.1.2"
+	}
+}
+
+200525 = {
+	name = "Knut"
+	dynasty = 155
+	martial = 8
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = deceitful
+	trait = hunchbacked
+	trait = education_martial_2
+	father = 200523
+	mother = 202513
+	3164.1.2 = {
+		birth = "3164.1.2"
+	}
+	3188.1.2 = {
+		add_spouse = 200505
+	}
+	3214.1.2 = {
+		death = "3214.1.2"
+	}
+}
+
+200526 = {
+	name = "Folke" # Jarl
+	dynasty = 155
+	martial = 8
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = temperate
+	trait = education_martial_3
+	father = 200523
+	mother = 202513
+	3168.1.1 = {
+		birth = "3168.1.1"
+	}
+	3212.7.17 = {
+		death = "3212.7.17"
+	}
+}
+
+200527 = {
+	name = "Magnus"
+	dynasty = 155
+	martial = 8
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = greedy
+	trait = stuttering
+	trait = education_martial_2
+	father = 200523
+	mother = 202513
+	3170.1.2 = {
+		birth = "3170.1.2"
+	}
+	3220.1.2 = {
+		death = "3220.1.2"
+	}
+}
+
+200528 = {
+	name = "IngegA_rd"
+	# AKA: Ingegard
+	female = yes
+	dynasty = 155
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = temperate
+	trait = education_diplomacy_1
+	father = 200523 # Birger Brosa
+	mother = 202513
+	3182.1.2 = {
+		birth = "3182.1.2"
+	}
+	3232.4.7 = {
+		death = "3232.4.7"
+	}
+}
+
+200529 = {
+	name = "Kristina"
+	female = yes
+	dynasty = 155
+	martial = 7
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = education_stewardship_2
+	father = 200523
+	mother = 202513
+	3174.1.2 = {
+		birth = "3174.1.2"
+	}
+	3224.1.2 = {
+		death = "3224.1.2"
+	}
+}
+
+200530 = {
+	name = "Margareta"
+	female = yes
+	dynasty = 155
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = cynical
+	trait = education_stewardship_2
+	father = 200523
+	mother = 202513
+	3176.1.2 = {
+		birth = "3176.1.2"
+	}
+	3226.1.2 = {
+		death = "3226.1.2"
+	}
+}
+
+200531 = {
+	name = "Eskil"
+	dynasty = 155
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = just
+	trait = cynical
+	trait = education_martial_2
+	father = 200540
+	mother = 200542
+	3177.10.1 = {
+		birth = "3177.10.1"
+	}
+	3227.1.1 = {
+		death = "3227.1.1"
+	}
+}
+
+200532 = {
+	name = "Kristina"
+	female = yes
+	dynasty = 155
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = lazy
+	trait = education_stewardship_2
+	father = 200540
+	mother = 200542
+	3182.1.2 = {
+		birth = "3182.1.2"
+	}
+	3232.1.2 = {
+		death = "3232.1.2"
+	}
+}
+
+200533 = {
+	name = "Elof"
+	dynasty = 155
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	father = 200540
+	mother = 200542
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3255.1.1 = {
+		death = "3255.1.1"
+	}
+}
+
+200534 = {
+	name = "Sune" # Folkesson
+	# AKA: Sune Folkesson
+	dynasty = 155
+	martial = 7
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = brave
+	trait = education_martial_2
+	father = 200526
+	3194.1.1 = {
+		birth = "3194.1.1"
+	}
+	3212.1.1 = {
+		add_spouse = 200610
+	}
+	3249.1.1 = {
+		death = "3249.1.1"
+	}
+}
+
+200535 = {
+	name = "Folke" # 'the Fat'
+	# AKA: Folke the Fat
+	dynasty = 155
+	martial = 5
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = gluttonous
+	trait = education_stewardship_3
+	father = 200519 # Ingevald
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3111.1.1 = {
+		add_spouse = 101550 # Ingegerd Knudsdatter
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+200540 = {
+	name = "Magnus" # 'Minnesköld'
+	dynasty = 155
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = lustful
+	trait = brave
+	trait = gluttonous
+	trait = education_martial_2
+	father = 200521
+	mother = 200522
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3177.1.1 = {
+		add_spouse = 200542
+	}
+	3197.1.1 = {
+		add_spouse = 200607 # Ingrid Ylva
+	}
+	3212.7.17 = {
+		death = "3212.7.17"
+	}
+}
+
+200541 = {
+	name = "Karl" # 'Döve' - Jarl of Sweden
+	dynasty = 155
+	martial = 5
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = diligent
+	trait = zealous
+	trait = education_learning_2
+	father = 200521
+	mother = 200522
+	3167.1.2 = {
+		birth = "3167.1.2"
+	}
+	3222.8.8 = {
+		death = "3222.8.8"
+	}
+}
+
+200542 = {
+	name = "Kristina"
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = chaste
+	trait = ill
+	trait = education_intrigue_1
+	3150.1.1 = {
+		birth = "3150.1.1"
+	}
+	3196.1.1 = {
+		death = "3196.1.1"
+	}
+}
+
+200543 = {
+	name = "Knut"
+	dynasty = 155
+	martial = 7
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_martial_2
+	father = 200525
+	mother = 200505
+	3187.1.2 = {
+		birth = "3187.1.2"
+	}
+	3237.1.2 = {
+		death = "3237.1.2"
+	}
+}
+
+200550 = {
+	name = "Kol"
+	dynasty = 100293
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = chaste
+	trait = zealous
+	trait = education_learning_3
+	3149.1.2 = {
+		birth = "3149.1.2"
+	}
+	3199.1.2 = {
+		death = "3199.1.2"
+	}
+}
+
+200600 = {
+	name = "Sverker" # the Older
+	dynasty = 496
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = clubfooted
+	trait = zealous
+	trait = education_learning_2
+	father = 100530
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3136.6.25 = {
+		add_spouse = 200601	
+	}
+	3151.1.1 = {
+		add_spouse = 221511 #Ryksa of Poland
+	}
+	3158.12.25 = {
+		death = "3158.12.25"
+	}
+}
+
+200602 = {
+	name = "Karl"
+	dynasty = 496
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = zealous
+	trait = education_diplomacy_3
+	father = 200600
+	mother = 200601
+	3138.1.1 = {
+		birth = "3138.1.1"
+	}
+	3164.1.2 = {
+		add_spouse = 200603
+	}
+	3169.4.12 = {
+		death = "3169.4.12"
+	}
+}
+
+200604 = {
+	name = "Sverker" # the Younger
+	dynasty = 496
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = diligent
+	trait = wrathful
+	trait = education_martial_2
+	father = 200602
+	mother = 200603
+	3166.1.1 = {
+		birth = yes
+	}
+	3186.1.1 = {
+		add_spouse = 200605 #Benedicta Ebbesdotter
+	}
+	3202.1.1 = {
+		add_spouse = 200528 #Ingegärd Birgersdotter
+	}
+	3210.1.31 = {
+		death = yes
+	}
+}
+
+200606 = {
+	name = "Sune"
+	dynasty = 496
+	martial = 5
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = diligent
+	trait = education_martial_2
+	father = 200600
+	mother = 221511
+	3156.1.2 = {
+		birth = "3156.1.2"
+	}
+	3207.1.2 = {
+		death = "3207.1.2"
+	}
+}
+
+200607 = {
+	name = "Ingrid_Ylva"
+	# AKA: Ingrid Ylva
+	female = yes
+	dynasty = 496
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = diligent
+	trait = education_stewardship_2
+	father = 200606
+	3177.1.1 = {
+		birth = "3177.1.1"
+	}
+	3253.11.1 = {
+		death = "3253.11.1"
+	}
+}
+
+200608 = {
+	name = "Kol"
+	dynasty = 496
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = content
+	trait = legitimized_bastard
+	trait = education_martial_2
+	father = 200600
+	3137.1.2 = {
+		birth = "3137.1.2"
+	}
+	
+	3175.1.1 = {
+		death = "3175.1.1"
+	}
+}
+
+200609 = {
+	name = "Johan"
+	dynasty = 496
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = chaste
+	trait = education_stewardship_2
+	father = 200604 # Sverker den Yngre
+	mother = 200528 # Ingegärd Birgersdotter
+	3203.1.1 = {
+		birth = "3203.1.1"
+	}
+	3224.3.10 = {
+		death = "3224.3.10"
+	}
+}
+
+200610 = {
+	name = "Helena" # Abbess
+	# AKA: Helena Sverkersdotter
+	female = yes
+	dynasty = 496
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_3
+	father = 200604 # Sverker den Yngre
+	mother = 200605 # Benedicta Ebbesdotter
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3249.1.1 = {
+		death = "3249.1.1"
+	}
+}
+
+222575 = {
+	name = "Christina"
+	# AKA: Christina Ingesdottir
+	female = yes
+	dynasty_house = house_stenkiling
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "orthodox"
+	culture = "swedish"
+	trait = lazy
+	trait = arbitrary
+	trait = education_stewardship_3
+	father = 100524
+	3082.1.2 = {
+		birth = "3082.1.2"
+	}
+	3124.1.3 = {
+		death = "3124.1.3"
+	}
+}
+
+30546 = {
+	name = "Mariana"
+	female = yes
+	dynasty = 381
+	religion = "catholic"
+	culture = "swedish"
+	father = 200504 # Erik Knutsson, king of Sweden
+	mother = 201506
+	3213.1.1 = {
+		birth = "3213.1.1"
+	}
+	3254.6.27 = {
+		death = "3254.6.27"
+	}
+}
+
+30547 = {
+	name = "Sofia"
+	female = yes
+	dynasty = 381
+	religion = "catholic"
+	culture = "swedish"
+	father = 200504 # Erik Knutsson, king of Sweden
+	mother = 201506
+	3219.1.1 = {
+		birth = "3219.1.1"
+	}
+	3243.4.24 = {
+		death = "3243.4.24"
+	}
+}
+
+30605 = {
+	name = "Rikissa"
+	female = yes
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_intrigue_1
+	father = 450510
+	mother = 450511
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3290.12.13 = {
+		death = "3290.12.13"
+	}
+}
+
+450500 = {
+	name = "Magnus"
+	# AKA: Magnus Eriksson
+	dynasty = 155
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = generous
+	trait = cynical
+	trait = brave
+	trait = education_diplomacy_1
+	father = 450501 # Duke Erik Magnusson
+	mother = 452505
+	3318.4.20 = {
+		birth = "3318.4.20"
+	}
+	3337.1.2 = {
+		add_spouse = 455942
+	}
+	3376.12.1 = {
+		death = "3376.12.1"
+	}
+}
+
+450501 = {
+	name = "Erik" # Duke of Södermanland
+	# AKA: Erik Magnusson
+	dynasty = 155
+	martial = 7
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = generous
+	trait = education_learning_2
+	father = 450502
+	mother = 450503
+	3284.1.1 = {
+		birth = "3284.1.1"
+	}
+	3304.1.1 = {
+		add_pressed_claim = title:k_sweden
+	add_pressed_claim = title:d_finland
+	}
+	3314.1.1 = {
+		add_spouse = 452505
+	}
+	3320.2.16 = {
+		death = "3320.2.16"
+	}
+}
+
+450502 = {
+	name = "Magnus" # 'Ladulås'
+	# AKA: Magnus Birgersson
+	dynasty = 155
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = honest
+	trait = education_martial_3
+	father = 450510
+	mother = 450511
+	3242.1.2 = {
+		birth = "3242.1.2"
+	}
+	3278.11.11 = {
+		add_spouse = 450503 # Helvig
+	}
+	3292.12.18 = {
+		death = "3292.12.18"
+	}
+}
+
+450504 = {
+	name = "Birger"
+	# AKA: Birger Magnusson
+	dynasty = 155
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = chaste
+	trait = wrathful
+	trait = education_learning_2
+	father = 450502
+	mother = 450503
+	3282.1.2 = {
+		birth = "3282.1.2"
+	}
+	3300.11.25 = {
+		add_spouse = 451516 # Margrethe Eriksdatter
+	}
+	3304.1.1 = {
+		add_pressed_claim = title:d_ostergotland
+		add_pressed_claim = title:d_finland
+	}
+	3321.7.8 = {
+		employer = 451515
+	}
+	3321.11.13 = {
+		employer = 451520
+	}
+	3323.5.31 = {
+		death = "3323.5.31"
+	}
+}
+
+450505 = {
+	name = "Ingeborg"
+	# AKA: Ingeborg Magnusdotter
+	female = yes
+	dynasty = 155
+	martial = 4
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = content
+	trait = education_learning_2
+	father = 450502
+	mother = 450503
+	3279.1.2 = {
+		birth = "3279.1.2"
+	}
+	3321.1.1 = {
+		trait = celibate
+	}
+	3321.4.5 = {
+		death = "3321.4.5"
+	}
+}
+
+450506 = {
+	name = "Valdemar"
+	# AKA: Valdemar Birgersson
+	dynasty = 155
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_diplomacy_2
+	father = 450510
+	mother = 450511
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3263.1.1 = {
+		add_spouse = 451511
+	}
+	3279.1.1 = {
+		remove_spouse = 451511
+	}
+	3304.12.26 = {
+		death = "3304.12.26"
+	}
+}
+
+450507 = {
+	name = "Ingeborg"
+	# AKA: Ingeborg Valdemarsdotter
+	female = yes
+	dynasty = 155
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = education_intrigue_2
+	father = 450506
+	mother = 451511
+	3265.1.2 = {
+		birth = "3265.1.2"
+	}
+	3292.1.2 = {
+		death = "3292.1.2"
+	}
+}
+
+450508 = {
+	name = "Eufemia"
+	# AKA: Eufemia Eriksdotter
+	female = yes
+	dynasty = 155
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = zealous
+	trait = education_intrigue_2
+	father = 450501
+	mother = 452505
+	3319.1.2 = {
+		birth = "3319.1.2"
+	}
+	3372.6.16 = {
+		death = "3372.6.16"
+	}
+}
+
+450509 = {
+	name = "Katharina"
+	# AKA: Katharina Birgersdotter
+	female = yes
+	dynasty = 155
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_intrigue_1
+	father = 450510
+	mother = 450511
+	3244.1.2 = {
+		birth = "3244.1.2"
+	}
+	3307.1.27 = {
+		death = "3307.1.27"
+	}
+}
+
+450510 = {
+	name = "Birger" # Birger Jarl
+	# AKA: Birger Magnusson
+	dynasty = 155
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 10
+	religion = "catholic"
+	culture = "swedish"
+	trait = humble
+	trait = calm
+	trait = brave
+	trait = education_diplomacy_4
+	father = 200540 # Magnus Minnisköld
+	mother = 200607 # Ingrid Ylva
+	3207.1.1 = {
+		birth = "3207.1.1"
+	}
+	3237.1.1 = {
+		add_spouse = 450511
+	}
+	3263.1.1 = {	
+		add_spouse = 31765
+	}
+	3268.10.21 = {
+		death = "3268.10.21"
+	}
+}
+
+450511 = {
+	name = "Ingeborg"
+	# AKA: Ingeborg Erlingsdotter
+	female = yes
+	dynasty = 381
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = temperate
+	trait = education_intrigue_1
+	father = 200504 # Erik Knutsson, king of Sweden
+	mother = 201506
+	3216.1.1 = {
+		birth = yes
+	}
+	3256.6.17 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+
+450512 = {
+	name = "Bengt" # Magnusson, Bishop of Linköping 1220 to 1236
+	# AKA: Bengt Magnusson
+	dynasty = 155
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	learning = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = humble
+	trait = calm
+	trait = brave
+	trait = education_learning_3
+	father = 200540 # Magnus Minnisköld
+	mother = 200607 # Ingrid Ylva
+	3200.1.1 = {
+		birth = "3200.1.1"
+	}
+	3239.1.1 = {
+		death = "3239.1.1"
+	}
+}
+
+450513 = {
+	name = "Magnus" # Bengtsson, Fogde of Kalmar castle
+	# AKA: Magnus Bengtsson
+	dynasty = 155
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	learning = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_stewardship_2
+	father = 450512 # Bengt Magnusson
+	3223.1.1 = {
+		birth = "3223.1.1"
+	}
+	3265.1.1 = {
+		death = "3265.1.1"
+	}
+}
+
+450514 = {
+	name = "Bengt" # Lagman in Östergötland, riksråd
+	# AKA: Bengt Magnusson
+	dynasty = 155
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	learning = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_stewardship_3
+	father = 450513 # Magnus Bengtsson
+	3243.1.1 = {
+		birth = "3243.1.1"
+	}
+	3296.1.1 = {
+		death = "3296.1.1"
+	}
+}
+
+450520 = {
+	name = "Erengisle"
+	# AKA: Erengisle Sunesson
+	dynasty = 131
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = greedy
+	trait = diligent
+	trait = lustful
+	trait = education_intrigue_4
+	father = 450760
+	3323.1.1 = {
+		birth = "3323.1.1"
+	}
+	3398.12.26 = {
+		death = "3398.12.26"
+	}
+}
+
+450600 = {
+	name = "Gustaf"
+	# AKA: Gustaf Nilsson
+	dynasty = 153
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_martial_3
+	father = 450601
+	mother = 450602
+	3296.1.2 = {
+		birth = "3296.1.2"
+	}
+	3322.1.2 = {
+		add_spouse = 450603
+	}
+	3346.1.2 = {
+		death = "3346.1.2"
+	}
+}
+
+450601 = {
+	name = "Nils"
+	# AKA: Nils Kettilsson
+	dynasty = 153
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = arrogant
+	trait = cynical
+	trait = education_martial_3
+	father = 450604
+	#mother = 450605
+	3271.1.2 = {
+		birth = "3271.1.2"
+	}
+	3291.1.2 = {
+		add_spouse = 450602
+	}
+	3321.1.2 = {
+		death = "3321.1.2"
+	}
+}
+
+450602 = {
+	name = "Bengta"
+	female = yes
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_3
+	3276.1.2 = {
+		birth = "3276.1.2"
+	}
+	3331.1.2 = {
+		death = "3331.1.2"
+	}
+}
+
+450603 = {
+	name = "Cecilia"
+	# AKA: Cecilia Glysingsdotter
+	female = yes
+	dynasty = 152
+	martial = 4
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = arbitrary
+	trait = education_learning_3
+	3306.1.2 = {
+		birth = "3306.1.2"
+	}
+	3356.1.2 = {
+		death = "3356.1.2"
+	}
+}
+
+450604 = {
+	name = "Kettil"
+	# AKA: Kettil Bengtsson
+	dynasty = 153
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_3
+	3246.1.2 = {
+		birth = "3246.1.2"
+	}
+	3296.1.2 = {
+		death = "3296.1.2"
+	}
+}
+
+450605 = {
+	name = "Ingeborg"
+	female = yes
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = humble
+	trait = education_stewardship_2
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3332.1.1 = {
+		death = "3332.1.1"
+	}
+}
+
+450606 = {
+	name = "IngegA_rd"
+	# AKA: Ingegard Gustafsdotter
+	female = yes
+	dynasty = 153
+	martial = 4
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = stuttering
+	trait = education_stewardship_2
+	father = 450600
+	mother = 450603
+	3331.1.2 = {
+		birth = "3331.1.2"
+	}
+	3381.1.2 = {
+		death = "3381.1.2"
+	}
+}
+
+450607 = {
+	name = "Valdemar"
+	# AKA: Valdemar Magnusson
+	dynasty = 155
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = chaste
+	trait = wrathful
+	trait = education_learning_2
+	father = 450502 # Magnus Ladulås
+	mother = 450503
+	3286.6.6 = {
+		birth = "3286.6.6"
+	}
+	3304.1.1 = {
+		add_pressed_claim = title:k_sweden
+	add_pressed_claim = title:d_ostergotland
+	}
+	3314.1.1 = {
+		add_spouse = 170009 # Ingeborg Eriksdottir
+	}
+	3320.2.16 = {
+		death = "3320.2.16"
+	}
+}
+
+450610 = {
+	name = "Bengt"
+	dynasty = 153
+	martial = 4
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_2
+	father = 450611
+	mother = 450612
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3360.1.1 = {
+		death = "3360.1.1"
+	}
+}
+
+450611 = {
+	name = "Ture"
+	# AKA: Ture Kettilsson
+	dynasty = 153
+	martial = 4
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = brave
+	trait = education_intrigue_2
+	father = 450604
+	#mother = 450605
+	3267.1.2 = {
+		birth = "3267.1.2"
+	}
+	3287.1.2 = {
+		add_spouse = 450612
+	}
+	3324.1.1 = {
+		death = "3324.1.1"
+	}
+}
+
+450612 = {
+	name = "Sigrid"
+	female = yes
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_intrigue_1
+	3271.1.2 = {
+		birth = "3271.1.2"
+	}
+	3329.1.2 = {
+		death = "3329.1.2"
+	}
+}
+
+450613 = {
+	name = "Erik"
+	# AKA: Erik Turesson
+	dynasty = 153
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = lazy
+	trait = craven
+	trait = education_stewardship_2
+	father = 450611
+	mother = 450612
+	3294.1.2 = {
+		birth = "3294.1.2"
+	}
+	3313.1.2 = {
+		add_spouse = 450614
+	}
+	3330.1.2 = {
+		death = "3330.1.2"
+	}
+}
+
+450614 = {
+	name = "Margareta"
+	# AKA: Margareta Bengtsdotter
+	female = yes
+	dynasty = 155
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = zealous
+	trait = education_intrigue_2
+	father = 161122
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3337.1.1 = {
+		death = "3337.1.1"
+	}
+}
+
+450615 = {
+	name = "Margareta"
+	# AKA: Margareta Eriksdotter
+	female = yes
+	dynasty = 153
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 450613
+	mother = 450614
+	3318.1.2 = {
+		birth = "3318.1.2"
+	}
+	3368.1.2 = {
+		death = "3368.1.2"
+	}
+}
+
+450620 = {
+	name = "Nils"
+	# AKA: Nils Turesson
+	dynasty = 153
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = lazy
+	trait = education_intrigue_1
+	father = 450611
+	mother = 450612
+	3303.1.2 = {
+		birth = "3303.1.2"
+	}
+	3353.1.2 = {
+		death = "3353.1.2"
+	}
+}
+
+450630 = {
+	name = "Knut"
+	# AKA: Knut Magnusson
+	dynasty = 150
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = inbred
+	trait = education_intrigue_2
+	father = 450631
+	mother = 450632
+	3291.1.2 = {
+		birth = "3291.1.2"
+	}
+	3307.1.2 = {
+		add_spouse = 450633
+	}
+	3341.1.2 = {
+		death = "3341.1.2"
+	}
+}
+
+450631 = {
+	name = "Magnus"
+	# AKA: Magnus Knutsson
+	dynasty = 150
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = greedy
+	trait = education_intrigue_2
+	3252.1.2 = {
+		birth = "3252.1.2"
+	}
+	3287.1.2 = {
+		add_spouse = 450632
+	}
+	3307.1.2 = {
+		death = "3307.1.2"
+	}
+}
+
+450632 = {
+	name = "Birgitte"
+	female = yes
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = education_diplomacy_3
+	3262.1.2 = {
+		birth = "3262.1.2"
+	}
+	3322.1.2 = {
+		death = "3322.1.2"
+	}
+}
+
+450633 = {
+	name = "Cecilia"
+	# AKA: Cecilia Ruriksdotter
+	female = yes
+	dynasty = 149
+	martial = 8
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = diligent
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 450634
+	mother = 450635
+	3282.1.2 = {
+		birth = "3282.1.2"
+	}
+	3332.1.2 = {
+		death = "3332.1.2"
+	}
+}
+
+450634 = {
+	name = "Rurik"
+	# AKA: Rurik Algotsson
+	dynasty = 149
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = diligent
+	trait = brave
+	trait = education_intrigue_2
+	3247.1.2 = {
+		birth = "3247.1.2"
+	}
+	3297.1.2 = {
+		death = "3297.1.2"
+	}
+}
+
+450635 = {
+	name = "Birgitta"
+	# AKA: Birgitta Filipsdotter
+	female = yes
+	dynasty = 149
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = honest
+	trait = education_stewardship_3
+	3257.1.2 = {
+		birth = "3257.1.2"
+	}
+	3312.1.2 = {
+		death = "3312.1.2"
+	}
+}
+
+450640 = {
+	name = "Birgitte"
+	# AKA: Birgitte Knutsdotter
+	female = yes
+	dynasty = 150
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = deceitful
+	trait = just
+	trait = education_stewardship_2
+	father = 450630
+	mother = 450633
+	3318.1.2 = {
+		birth = "3318.1.2"
+	}
+	3368.1.2 = {
+		death = "3368.1.2"
+	}
+}
+
+450647 = {
+	name = "Bo"
+	# AKA: Bo Nilsson
+	dynasty = 148
+	father = 194256
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = education_diplomacy_3
+	3283.1.2 = {
+		birth = "3283.1.2"
+	}
+	3314.1.2 = {
+		add_spouse = 450659
+	}
+	3324.1.2 = {
+		death = "3324.1.2"
+	}
+}
+
+450648 = {
+	name = "Ingeborg"
+	# AKA: Ingeborg Bosdotter
+	female = yes
+	dynasty = 148
+	martial = 6
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_intrigue_1
+	father = 450647
+	mother = 450659
+	3311.1.2 = {
+		birth = "3311.1.2"
+	}
+	3359.1.2 = {
+		death = "3359.1.2"
+	}
+}
+
+450649 = {
+	name = "Bo"
+	# AKA: Bo Bosson
+	dynasty = 148
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = craven
+	trait = education_martial_2
+	father = 450647
+	mother = 450659
+	3315.1.2 = {
+		birth = "3315.1.2"
+	}
+	3365.1.2 = {
+		death = "3365.1.2"
+	}
+}
+
+450650 = {
+	name = "Knut"
+	# AKA: Knut Jonsson
+	dynasty = 147
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_martial_2
+	father = 450651
+	mother = 450652
+	3274.1.2 = {
+		birth = "3274.1.2"
+	}
+	3282.1.2 = {
+		add_spouse = 450653
+	}
+	3349.1.1 = {
+		death = "3349.1.1"
+	}
+}
+
+450651 = {
+	name = "Johan"
+	# AKA: Johan Filipsson
+	dynasty = 147
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = honest
+	trait = education_learning_3
+	3214.1.2 = {
+		birth = "3214.1.2"
+	}
+	3273.1.2 = {
+		add_spouse = 450652
+	}
+	3282.1.21 = {
+		death = "3282.1.21"
+	}
+}
+
+450652 = {
+	name = "Ingeborg"
+	# AKA: Ingeborg Svantepolksdotter
+	female = yes
+	dynasty_house = house_estrid
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_stewardship_3
+	father = 450654
+	mother = 450655
+	3259.1.1 = {
+		birth = "3259.1.1"
+	}
+	3309.2.1 = {
+		death = "3309.2.1"
+	}
+}
+
+450653 = {
+	name = "Katarina"
+	# AKA: Katarina Bengtsdotter
+	female = yes
+	dynasty = 155
+	martial = 7
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = greedy
+	trait = temperate
+	trait = education_learning_2
+	father = 450514 # Bengt Magnusson
+	3276.1.1 = {
+		birth = "3276.1.1"
+	}
+	3352.6.1 = {
+		death = "3352.6.1"
+	}
+}
+
+450655 = {
+	name = "Bengta" # 'Benedicta' as a Nun
+	# AKA: Bengta Sunadotter
+	female = yes
+	dynasty = 155
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_3
+	father = 200534 # Sune Folkesson
+	mother = 200610 # Helena Sverkersdotter
+	3215.1.1 = {
+		birth = "3215.1.1"
+	}
+	3263.1.1 = {
+		death = "3263.1.1"
+	}
+}
+
+450656 = {
+	name = "Birger"
+	# AKA: Birger Knutsson
+	dynasty = 147
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_3
+	father = 450650
+	mother = 450653
+	3292.1.2 = {
+		birth = "3292.1.2"
+	}
+	3342.1.2 = {
+		death = "3342.1.2"
+	}
+}
+
+450657 = {
+	name = "Magnus"
+	# AKA: Magnus Knutsson
+	dynasty = 147
+	martial = 8
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = greedy
+	trait = education_intrigue_1
+	father = 450650
+	mother = 450653
+	3293.1.2 = {
+		birth = "3293.1.2"
+	}
+	3343.1.2 = {
+		death = "3343.1.2"
+	}
+}
+
+450658 = {
+	name = "Jon"
+	# AKA: Jon Knutsson
+	dynasty = 147
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_diplomacy_3
+	father = 450650
+	mother = 450653
+	3296.1.2 = {
+		birth = "3296.1.2"
+	}
+	3346.1.2 = {
+		death = "3346.1.2"
+	}
+}
+
+450659 = {
+	name = "Cecilia"
+	# AKA: Cecilia Knutsdotter
+	female = yes
+	dynasty = 147
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_intrigue_1
+	father = 450650
+	mother = 450653
+	3296.1.2 = {
+		birth = "3296.1.2"
+	}
+	3348.1.2 = {
+		death = "3348.1.2"
+	}
+}
+
+450680 = {
+	name = "Gustav"
+	# AKA: Gustav Tunesson
+	dynasty = 144
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = diligent
+	trait = wrathful
+	trait = arbitrary
+	trait = humble
+	trait = education_martial_2
+	father = 450681
+	mother = 450652
+	3304.1.2 = {
+		birth = "3304.1.2"
+	}
+	3354.1.2 = {
+		death = "3354.1.2"
+	}
+}
+
+450681 = {
+	name = "Tune"
+	# AKA: Tune Anundsson
+	dynasty = 144
+	martial = 6
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = honest
+	trait = education_martial_2
+	3270.1.2 = {
+		birth = "3270.1.2"
+	}
+	3289.1.2 = {
+		add_spouse = 450652
+	}
+	3315.1.2 = {
+		death = "3315.1.2"
+	}
+}
+
+450682 = {
+	name = "Anund_Sture"
+	# AKA: Anund Sture Tunesson
+	dynasty = 144
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = generous
+	trait = education_intrigue_1
+	father = 450681
+	mother = 450652
+	3309.1.2 = {
+		birth = "3309.1.2"
+	}
+	3334.1.2 = {
+		add_spouse = 450615
+	}
+	3362.1.2 = {
+		death = "3362.1.2"
+	}
+}
+
+450683 = {
+	name = "Ingeborg"
+	# AKA: Ingeborg Anundsdotter
+	female = yes
+	dynasty = 144
+	martial = 4
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	father = 450682
+	mother = 450615
+	3338.1.2 = {
+		birth = "3338.1.2"
+	}
+	3388.1.2 = {
+		death = "3388.1.2"
+	}
+}
+
+450690 = {
+	name = "Ulf"
+	# AKA: Ulf Gudmarsson
+	dynasty = 143
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_martial_2
+	father = 450691
+	mother = 450833
+	3300.1.2 = {
+		birth = "3300.1.2"
+	}
+	3318.1.2 = {
+		add_spouse = 450716
+	}
+	3350.1.2 = {
+		death = "3350.1.2"
+	}
+}
+
+450691 = {
+	name = "Gudmar"
+	# AKA: Gudmar Magnusson
+	dynasty = 143
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = education_intrigue_2
+	3268.1.1 = {
+		birth = "3268.1.1"
+	}
+	3293.1.1 = {
+		add_spouse = 450833
+	}
+	3315.1.1 = {
+		death = "3315.1.1"
+	}
+}
+
+450692 = {
+	name = "Ingeborg"
+	# AKA: Ingeborg Magnusdotter
+	female = yes
+	dynasty = 143
+	martial = 8
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = greedy
+	trait = honest
+	trait = education_learning_2
+	father = 450693
+	mother = 450717
+	3329.1.2 = {
+		birth = "3329.1.2"
+	}
+	3379.1.2 = {
+		death = "3379.1.2"
+	}
+}
+
+450693 = {
+	name = "Magnus"
+	# AKA: Magnus Gudmarsson
+	dynasty = 143
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = education_intrigue_2
+	father = 450691
+	mother = 450833
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3318.1.1 = {
+		add_spouse = 450717
+	}
+	3347.1.1 = {
+		death = "3347.1.1"
+	}
+}
+
+450694 = {
+	name = "Cecilia"
+	# AKA: Cecilia Ulfsdotter
+	female = yes
+	dynasty = 143
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	father = 450690
+	mother = 450716
+	3339.1.2 = {
+		birth = "3339.1.2"
+	}
+	3389.1.2 = {
+		death = "3389.1.2"
+	}
+}
+
+450695 = {
+	name = "Karl"
+	# AKA: Karl Ulfsson
+	dynasty = 143
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_stewardship_2
+	father = 450690
+	mother = 450716
+	3329.1.2 = {
+		birth = "3329.1.2"
+	}
+	3379.1.2 = {
+		death = "3379.1.2"
+	}
+}
+
+450696 = {
+	name = "Ingeborg"
+	# AKA: Ingeborg Ulfsdotter
+	female = yes
+	dynasty = 143
+	martial = 4
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = temperate
+	trait = education_stewardship_2
+	father = 450690
+	mother = 450716
+	3331.1.2 = {
+		birth = "3331.1.2"
+	}
+	3381.1.2 = {
+		death = "3381.1.2"
+	}
+}
+
+450697 = {
+	name = "Katarina"
+	# AKA: Katarina Ulfsdotter
+	female = yes
+	dynasty = 143
+	martial = 4
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = education_learning_2
+	father = 450690
+	mother = 450716
+	3333.1.2 = {
+		birth = "3333.1.2"
+	}
+	3383.1.2 = {
+		death = "3383.1.2"
+	}
+}
+
+450698 = {
+	name = "Birger"
+	# AKA: Birger Ulfsson
+	dynasty = 143
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	father = 450690
+	mother = 450716
+	3335.1.2 = {
+		birth = "3335.1.2"
+	}
+	3385.1.2 = {
+		death = "3385.1.2"
+	}
+}
+
+450699 = {
+	name = "Bengt"
+	# AKA: Bengt Ulfsson
+	dynasty = 143
+	martial = 6
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	father = 450690
+	mother = 450716
+	3337.1.2 = {
+		birth = "3337.1.2"
+	}
+	3387.1.2 = {
+		death = "3387.1.2"
+	}
+}
+
+450700 = {
+	name = "Johan"
+	# AKA: Johan Magnusson
+	dynasty = 142
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = humble
+	trait = brave
+	trait = education_intrigue_2
+	father = 450701
+	mother = 450702
+	3297.1.2 = {
+		birth = "3297.1.2"
+	}
+	3322.1.2 = {
+		add_spouse = 450703
+	}
+	3347.1.2 = {
+		death = "3347.1.2"
+	}
+}
+
+450701 = {
+	name = "Magnus"
+	# AKA: Magnus Gregersson
+	dynasty = 142
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = lustful
+	trait = zealous
+	trait = education_martial_3
+	3259.1.2 = {
+		birth = "3259.1.2"
+	}
+	3284.1.2 = {
+		add_spouse = 450702
+	}
+	3328.1.2 = {
+		death = "3328.1.2"
+	}
+}
+
+450702 = {
+	name = "IngegA_rd"
+	# AKA: Ingegard Filipsdotter
+	female = yes
+	dynasty = 141
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = arrogant
+	trait = education_learning_3
+	3268.1.2 = {
+		birth = "3268.1.2"
+	}
+	3330.1.2 = {
+		death = "3330.1.2"
+	}
+}
+
+450703 = {
+	name = "IngegA_rd"
+	# AKA: Ingegard
+	female = yes
+	dynasty = 142
+	martial = 5
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_stewardship_2
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3327.1.2 = {
+		death = "3327.1.2"
+	}
+}
+
+450704 = {
+	name = "IngegA_rd"
+	# AKA: Ingegard Johansdotter
+	female = yes
+	dynasty = 142
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = deceitful
+	trait = humble
+	trait = education_learning_2
+	father = 450700
+	mother = 450703
+	3327.1.2 = {
+		birth = "3327.1.2"
+	}
+	3377.1.2 = {
+		death = "3377.1.2"
+	}
+}
+
+450705 = {
+	name = "Helena"
+	# AKA: Helena Magnusdotter
+	female = yes
+	dynasty = 142
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = education_diplomacy_2
+	father = 450701
+	mother = 450702
+	3289.1.2 = {
+		birth = "3289.1.2"
+	}
+	3339.1.2 = {
+		death = "3339.1.2"
+	}
+}
+
+450710 = {
+	name = "Israel"
+	# AKA: Israel Birgersson
+	dynasty = 100290
+	martial = 7
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_diplomacy_2
+	father = 450711
+	mother = 450712
+	3307.1.2 = {
+		birth = "3307.1.2"
+	}
+	3328.1.2 = {
+		add_spouse = 450713
+	}
+	3357.1.2 = {
+		death = "3357.1.2"
+	}
+}
+
+450711 = {
+	name = "Birger" # Petersson
+	# AKA: Birger Persson
+	dynasty = 100290
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = arbitrary
+	trait = wrathful
+	trait = education_diplomacy_3
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	3300.1.1 = {
+		add_spouse = 450712
+	}
+	3329.1.1 = {
+		death = "3329.1.1"
+	}
+}
+
+450712 = {
+	name = "Ingeborg"
+	# AKA: Ingeborg Bengtsdotter
+	female = yes
+	dynasty = 155
+	martial = 8
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_intrigue_1
+	father = 450514 # Bengt Magnusson
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3316.1.1 = {
+		death = "3316.1.1"
+	}
+}
+
+450713 = {
+	name = "Bengta"
+	# AKA: Bengta Karlsdotter
+	female = yes
+	dynasty = 138
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = deceitful
+	trait = lisping
+	trait = education_learning_3
+	father = 450718
+	mother = 450705
+	3312.1.2 = {
+		birth = "3312.1.2"
+	}
+	3362.1.2 = {
+		death = "3362.1.2"
+	}
+}
+
+450714 = {
+	name = "Helena"
+	# AKA: Helena Israelsdotter
+	female = yes
+	dynasty = 100290
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_stewardship_2
+	father = 450710
+	mother = 450713
+	3327.1.2 = {
+		birth = "3327.1.2"
+	}
+	3377.1.2 = {
+		death = "3377.1.2"
+	}
+}
+
+450715 = {
+	name = "Ramborg"
+	# AKA: Ramborg Israelsdotter
+	female = yes
+	dynasty = 100290
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_stewardship_2
+	father = 450710
+	mother = 450713
+	3330.1.2 = {
+		birth = "3330.1.2"
+	}
+	3380.1.2 = {
+		death = "3380.1.2"
+	}
+}
+
+450716 = {
+	name = "Birgitta" # Heliga Birgitta (Saint)
+	# AKA: Birgitta Birgersdotter
+	female = yes
+	dynasty = 100290
+	martial = 3
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = chaste
+	trait = deceitful
+	trait = arrogant
+	trait = zealous
+	trait = education_intrigue_2
+	father = 450711
+	mother = 450712
+	3305.1.1 = {
+		birth = "3305.1.1"
+	}
+	3355.7.23 = {
+		death = "3355.7.23" # In Rome
+	}
+}
+
+450717 = {
+	name = "Katarina"
+	# AKA: Katarina Birgersdotter
+	female = yes
+	dynasty = 100290
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = education_intrigue_2
+	father = 450711
+	mother = 450712
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3352.1.2 = {
+		death = "3352.1.2"
+	}
+}
+
+450718 = {
+	name = "Karl"
+	# AKA: Karl Astadsson
+	dynasty = 138
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = arbitrary
+	trait = education_martial_2
+	3286.1.2 = {
+		birth = "3286.1.2"
+	}
+	3305.1.2 = {
+		add_spouse = 450705
+	}
+	3337.1.2 = {
+		death = "3337.1.2"
+	}
+}
+
+450720 = {
+	name = "Nils"
+	# AKA: Nils Abjornsson
+	dynasty = 137
+	martial = 7
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = education_learning_2
+	father = 450721
+	mother = 450722
+	3280.1.2 = {
+		birth = "3280.1.2"
+	}
+	3308.1.2 = {
+		add_spouse = 450723
+	}
+	3331.1.2 = {
+		death = "3331.1.2"
+	}
+}
+
+450721 = {
+	name = "A_sbjO_rn"
+	# AKA: Abjorn Sixtensson
+	dynasty = 137
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_martial_3
+	3242.1.2 = {
+		birth = "3242.1.2"
+	}
+	3272.1.2 = {
+		add_spouse = 450722
+	}
+	3312.1.2 = {
+		death = "3312.1.2"
+	}
+}
+
+450722 = {
+	name = "Ingeborg"
+	# AKA: Ingeborg Ulfsdotter
+	female = yes
+	dynasty = 136
+	martial = 8
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_2
+	father = 450830
+	mother = 450832
+	3250.1.1 = {
+		birth = "3250.1.1"
+	}
+	3309.1.2 = {
+		death = "3309.1.2"
+	}
+}
+
+450723 = {
+	name = "Bengta"
+	# AKA: Bengta Abrahamsdotter
+	female = yes
+	dynasty = 137
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 450724
+	mother = 450725
+	3292.1.2 = {
+		birth = "3292.1.2"
+	}
+	3342.1.2 = {
+		death = "3342.1.2"
+	}
+}
+
+450724 = {
+	name = "Abraham"
+	dynasty = 137
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = education_martial_2
+	3267.1.2 = {
+		birth = "3267.1.2"
+	}
+	3288.1.2 = {
+		add_spouse = 450725
+	}
+	3317.1.2 = {
+		death = "3317.1.2"
+	}
+}
+
+450725 = {
+	name = "Ingrid"
+	female = yes
+	dynasty = 137
+	martial = 8
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = just
+	trait = education_learning_3
+	3272.1.2 = {
+		birth = "3272.1.2"
+	}
+	3332.1.2 = {
+		death = "3332.1.2"
+	}
+}
+
+450726 = {
+	name = "Ingeborg"
+	# AKA: Ingeborg Nilsdotter
+	female = yes
+	dynasty = 137
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_intrigue_2
+	father = 450720
+	mother = 450723
+	3317.1.2 = {
+		birth = "3317.1.2"
+	}
+	3367.1.2 = {
+		death = "3367.1.2"
+	}
+}
+
+450727 = {
+	name = "Filip"
+	# AKA: Filip Nilsson
+	dynasty = 137
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_intrigue_2
+	father = 450720
+	mother = 450723
+	3322.1.2 = {
+		birth = "3322.1.2"
+	}
+	3372.1.2 = {
+		death = "3372.1.2"
+	}
+}
+
+450728 = {
+	name = "Ingrid"
+	# AKA: Ingrid Nilsdotter
+	female = yes
+	dynasty = 137
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_2
+	father = 450720
+	mother = 450723
+	3329.1.2 = {
+		birth = "3329.1.2"
+	}
+	3379.1.2 = {
+		death = "3379.1.2"
+	}
+}
+
+450729 = {
+	name = "Bengt"
+	# AKA: Bengt Nilsson
+	dynasty = 137
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_martial_2
+	father = 450720
+	mother = 450723
+	3331.1.2 = {
+		birth = "3331.1.2"
+	}
+	3381.1.2 = {
+		death = "3381.1.2"
+	}
+}
+
+450760 = {
+	name = "Sune"
+	dynasty = 131
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = greedy
+	trait = education_martial_3
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+450771 = {
+	name = "MAErta"
+	# AKA: Marta Ulfsdotter
+	female = yes
+	dynasty = 143
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_martial_2
+	father = 450690
+	mother = 450716
+	3321.1.2 = {
+		birth = "3321.1.2"
+	}
+	3371.1.2 = {
+		death = "3371.1.2"
+	}
+}
+
+450830 = {
+	name = "Ulf"
+	# AKA: Ulf Karlsson
+	dynasty = 136
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = lazy
+	trait = education_intrigue_1
+	father = 144670
+	3234.1.1 = {
+		birth = "3234.1.1"
+	}
+	3283.1.1 = {
+		death = "3283.1.1"
+	}
+}
+
+450831 = {
+	name = "Margareta"
+	female = yes
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = humble
+	trait = education_stewardship_2
+	3255.1.2 = {
+		birth = "3255.1.2"
+	}
+	3310.1.2 = {
+		death = "3310.1.2"
+	}
+}
+
+450832 = {
+	name = "Ingeborg"
+	female = yes
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = arrogant
+	trait = temperate
+	trait = education_learning_2
+	3232.1.2 = {
+		birth = "3232.1.2"
+	}
+	3252.1.3 = {
+		death = "3252.1.3"
+	}
+}
+
+450833 = {
+	name = "Margareta"
+	# AKA: Margareta Ulfsdotter
+	female = yes
+	dynasty = 136
+	martial = 5
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_intrigue_2
+	father = 450830
+	mother = 450831
+	3275.1.1 = {
+		birth = "3275.1.1"
+	}
+	3325.1.1 = {
+		death = "3325.1.1"
+	}
+}
+
+450840 = {
+	name = "Bo"
+	# AKA: Bo Jonsson
+	dynasty = 121
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_2
+	father = 450841
+	3332.1.2 = {
+		birth = "3332.1.2"
+	}
+	3382.1.2 = {
+		death = "3382.1.2"
+	}
+}
+
+450841 = {
+	name = "Jan"
+	# AKA: Jan Tomasson
+	dynasty = 121
+	father = 194226
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = greedy
+	trait = education_intrigue_1
+	3292.1.2 = {
+		birth = "3292.1.2"
+	}
+	3336.1.2 = {
+		death = "3336.1.2"
+	}
+}
+
+450850 = {
+	name = "Bengt"
+	# AKA: Bengt Gregersson
+	dynasty = 761
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "swedish"
+	trait = calm
+	trait = education_intrigue_1
+	3277.1.2 = {
+		birth = "3277.1.2"
+	}
+	3327.1.2 = {
+		death = "3327.1.2"
+	}
+}
+
+450860 = {
+	name = "Peter"
+	# AKA: Peter Filipsson
+	dynasty = 141
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = clubfooted
+	trait = education_diplomacy_3
+	3272.1.2 = {
+		birth = "3272.1.2"
+	}
+	3322.1.2 = {
+		death = "3322.1.2"
+	}
+}
+
+487070 = {
+	name = "Magnus"
+	dynasty = 100280
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = generous
+	trait = education_learning_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+487071 = {
+	name = "Bengt"
+	dynasty = 100281
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = greedy
+	trait = zealous
+	trait = education_martial_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+487072 = {
+	name = "Bengt"
+	dynasty = 100283
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = brave
+	trait = cynical
+	trait = generous
+	trait = education_martial_2
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+126001 = {
+	name = "Rikissa"
+	female = yes
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	father = 450506
+	mother = 451511
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3294.1.1 = {
+		death = "3294.1.1"
+	}
+}
+
+33337 = {
+	name = "Erik" #duke of Smaland
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	father = 450510
+	mother = 450511
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3277.12.17 = {
+		death = "3277.12.17"
+	}
+}
+
+33338 = {
+	name = "Bengt" #duke of Finland
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	trait = celibate
+	trait = education_learning_3
+	father = 450510
+	mother = 450511
+	3256.1.1 = {
+		birth = "3256.1.1"
+	}
+	3293.5.25 = {
+		death = "3293.5.25"
+	}
+}
+
+33339 = {
+	name = "Ingeborg"
+	female = yes
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	father = 450510
+	mother = 450511
+	3254.1.1 = {
+		birth = "3254.1.1"
+	}
+	3304.6.30 = {
+		death = "3304.6.30"
+	}
+}
+
+33340 = {
+	name = "Gregers"
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	trait = legitimized_bastard
+	father = 450510
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3278.1.1 = {
+		death = "3278.1.1"
+	}
+}
+
+126002 = {
+	name = "Tengil"
+	dynasty = 1055
+	religion = "norse_pagan"
+	culture = "swedish"
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	learning = 5
+	trait = education_martial_4
+	trait = callous
+	trait = temperate
+	trait = greedy
+	trait = deceitful
+	trait = ambitious
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3052.1.1 = {
+		give_nickname = nick_the_liberator
+	}
+	3068.1.1 = {
+		employer = 100536
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+126003 = {
+	name = "Jossi"
+	dynasty = guldtupp
+	religion = "norse_pagan"
+	culture = "swedish"
+	martial = 3
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 3
+	learning = 6
+	trait = education_intrigue_4
+	trait = deceitful
+	trait = gluttonous
+	trait = craven
+	3024.1.1 = {
+		birth = "3024.1.1"
+	}
+	3068.1.2 = {
+		employer = 100536
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+101503 = {
+	name = "Gyrid" #Olavsdottir
+	female = yes
+	dynasty_house = house_munso
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "norse_pagan"
+	culture = "swedish"
+	trait = just
+	trait = greedy
+	trait = calm
+	trait = education_learning_3
+	father = 100502 #Olof
+	2962.1.1 = {
+		birth = "2962.1.1"
+	}
+	2981.1.1 = {
+		religion = "catholic"
+	}
+	3004.11.13 = {
+		death = "3004.11.13"
+	}
+}
+
+100554 = {
+	name = "Ingrid" #Ragnvaldsdotter
+	female = yes
+	dynasty_house = house_stenkiling
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "swedish"
+	trait = arrogant
+	trait = deceitful
+	trait = education_intrigue_3
+	father = 100552 # Ragnvald
+	3107.1.1 = {
+		birth = "3107.1.1"
+	}
+	3164.1.1 = {
+		death = "3164.1.1"
+	}
+}
+
+143136 = {
+	name = "Olaf"
+	dynasty = 100291
+	religion = "norse_pagan"
+	culture = "swedish"
+	father = 20006
+	3071.1.1 = {
+		birth = "3071.1.1"
+	}
+	3141.1.1 = {
+		death = "3141.1.1"
+	}
+}
+
+143137 = {
+	name = "Olaf"
+	dynasty = 100291
+	religion = "norse_pagan"
+	culture = "swedish"
+	father = 143136
+	3121.1.1 = {
+		birth = "3121.1.1"
+	}
+	3160.1.1 = {
+		death = "3160.1.1"
+	}
+}
+
+143138 = {
+	name = "Faste"
+	dynasty = 100295
+	religion = "catholic"
+	culture = "swedish"
+	father = 20008
+	3071.1.1 = {
+		birth = "3071.1.1"
+	}
+	3141.1.1 = {
+		death = "3141.1.1"
+	}
+}
+
+143139 = {
+	name = "Faste"
+	dynasty = 100295
+	religion = "catholic"
+	culture = "swedish"
+	father = 143138
+	3121.1.1 = {
+		birth = "3121.1.1"
+	}
+	3189.1.1 = {
+		death = "3189.1.1"
+	}
+}
+
+143140 = {
+	name = "Thord"
+	dynasty = 100281
+	religion = "norse_pagan"
+	culture = "swedish"
+	father = 20014
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3142.1.1 = {
+		death = "3142.1.1"
+	}
+}
+
+143141 = {
+	name = "Thord"
+	dynasty = 100281
+	religion = "norse_pagan"
+	culture = "swedish"
+	father = 143140
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3189.1.1 = {
+		death = "3189.1.1"
+	}
+}
+
+143142 = {
+	name = "Botulf"
+	dynasty = 100280
+	religion = "norse_pagan"
+	culture = "swedish"
+	father = 20015
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3142.1.1 = {
+		death = "3142.1.1"
+	}
+}
+
+143143 = {
+	name = "Botulf"
+	dynasty = 100280
+	religion = "norse_pagan"
+	culture = "swedish"
+	father = 143142
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3189.1.1 = {
+		death = "3189.1.1"
+	}
+}
+
+143144 = {
+	name = "Arnfast"
+	dynasty = 100280
+	religion = "norse_pagan"
+	culture = "swedish"
+	father = 200001
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3272.1.1 = {
+		death = "3272.1.1"
+	}
+}
+
+143145 = {
+	name = "Arnfast"
+	dynasty = 100280
+	religion = "norse_pagan"
+	culture = "swedish"
+	father = 143144
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3312.1.1 = {
+		death = "3312.1.1"
+	}
+}
+
+161123 = {
+	name = "Sigge"
+	dynasty = 1030030
+	religion = "catholic"
+	culture = "swedish"
+	father = 202044
+	mother = 202043
+	3167.1.1 = {
+		birth = "3167.1.1"
+	}
+	3217.1.1 = {
+		death = "3217.1.1"
+	}
+}
+
+161122 = {
+	name = "Bengt"
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	father = 200533
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3300.1.1 = {
+		death = "3300.1.1"
+	}
+}
+
+202044 = {
+	name = "Guttorm"
+	dynasty = 1030030
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_martial_2
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3152.1.1 = {
+		trait = faith_warrior
+	}
+	3154.1.1 = {
+		add_spouse = 202043
+	}
+	3176.1.1 = {
+		death = "3176.1.1"
+	}
+}
+
+202045 = {
+	name = "Helene"
+	female = yes
+	dynasty = 1030030
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "swedish"
+	trait = lustful
+	trait = humble
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 202044
+	mother = 202043
+	3164.1.1 = {
+		birth = "3164.1.1"
+	}
+	3214.1.1 = {
+		death = "3214.1.1"
+	}
+}
+
+#af Stenkyrka
+
+167300 = {
+	name = "Audvald"
+	#placeholder
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 100536
+	mother = 167630
+	3068.1.1 = {
+		birth = "3068.1.1"
+	}
+	3090.1.1 = {
+		add_spouse = 167631
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+167301 = {
+	name = "Likair"
+	#placeholder
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 100536
+	mother = 167630
+	3070.1.1 = {
+		birth = "3070.1.1"
+	}
+	3117.1.1 = {
+		death = "3117.1.1"
+	}
+}
+
+
+167302 = {
+	name = "Rodiaud"
+	#placeholder
+	female = yes
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167301
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3142.1.1 = {
+		death = "3142.1.1"
+	}
+}
+
+167303 = {
+	name = "AsbjO_rn"
+	#placeholder
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167300
+	mother = 167631
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3110.1.1 = {
+		add_spouse = 167632
+	}
+	3150.1.1 = {
+		death = "3150.1.1"
+	}
+}
+
+
+
+167304 = {
+	name = "Magnus"
+	#placeholder
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167303
+	mother = 167632
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	3140.1.1 = {
+		add_spouse = 167633
+	}
+	3178.1.1 = {
+		death = "3178.1.1"
+	}
+}
+
+
+
+167305 = {
+	name = "Gyla"
+	#placeholder
+	female = yes
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167303
+	mother = 167632
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+
+
+167306 = {
+	name = "Brynjolf"
+	#placeholder
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167304
+	mother = 167633
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3160.1.1 = {
+		add_spouse = 167634
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+
+
+167307 = {
+	name = "Audvald"
+	#placeholder
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167304
+	mother = 167633
+	3144.1.1 = {
+		birth = "3144.1.1"
+	}
+	3207.1.1 = {
+		death = "3207.1.1"
+	}
+}
+
+
+
+167308 = {
+	name = "Olaf"
+	#placeholder
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167304
+	mother = 167633
+	3146.1.1 = {
+		birth = "3146.1.1"
+	}
+	3201.1.1 = {
+		death = "3201.1.1"
+	}
+}
+
+
+
+167309 = {
+	name = "Inga"
+	#placeholder
+	female = yes
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167304
+	mother = 167633
+	3148.1.1 = {
+		birth = "3148.1.1"
+	}
+	3208.1.1 = {
+		death = "3208.1.1"
+	}
+}
+
+
+
+167310 = {
+	name = "Magnus"
+	#placeholder
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167306
+	mother = 167634
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3189.1.1 = {
+		add_spouse = 167635
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+
+
+167311 = {
+	name = "Tolir"
+	#placeholder
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167306
+	mother = 167634
+	3163.1.1 = {
+		birth = "3163.1.1"
+	}
+	3213.1.1 = {
+		death = "3213.1.1"
+	}
+}
+
+
+
+
+167312 = {
+	name = "Rikissa"
+	#placeholder
+	female = yes
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167307
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3214.1.1 = {
+		death = "3214.1.1"
+	}
+}
+
+
+
+167313 = {
+	name = "Aleta"
+	#placeholder
+	female = yes
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167307
+	3163.1.1 = {
+		birth = "3163.1.1"
+	}
+	3216.1.1 = {
+		death = "3216.1.1"
+	}
+}
+
+
+
+
+167314 = {
+	name = "Ingvar"
+	#placeholder
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167308
+	3166.1.1 = {
+		birth = "3166.1.1"
+	}
+	3216.1.1 = {
+		death = "3216.1.1"
+	}
+}
+
+# Guldsmed
+
+167315 = {
+	name = "Tjudmund"
+	#placeholder
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	3002.1.1 = {
+		birth = "3002.1.1"
+	}
+	3026.1.1 = {
+		add_spouse = 167636
+	}
+	3052.1.1 = {
+		death = "3052.1.1"
+	}
+}
+
+167316 = {
+	name = "Kettil"
+	#placeholder
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167315
+	mother = 167636
+	3027.1.1 = {
+		birth = "3027.1.1"
+	}
+	3050.1.1 = {
+		add_spouse = 167637
+	}
+	3082.1.1 = {
+		death = "3082.1.1"
+	}
+}
+
+167317 = {
+	name = "Ragnhild"
+	#placeholder
+	female = yes
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167315
+	mother = 167636
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3082.1.1 = {
+		death = "3082.1.1"
+	}
+}
+
+167318 = {
+	name = "Tjudmund"
+	#placeholder
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167316
+	mother = 167637
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3118.1.1 = {
+		death = "3118.1.1"
+	}
+}
+
+
+
+167319 = {
+	name = "Niklas"
+	#placeholder
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167316
+	mother = 167637
+	3054.1.1 = {
+		birth = "3054.1.1"
+	}
+	3076.1.1 = {
+		add_spouse = 167638
+	}
+	3106.1.1 = {
+		death = "3106.1.1"
+	}
+}
+
+
+167320 = {
+	name = "Holmfrid"
+	#placeholder
+	female = yes
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167319
+	mother = 167638
+	3077.1.1 = {
+		birth = "3077.1.1"
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+
+
+
+167321 = {
+	name = "Maer"
+	#placeholder
+	female = yes
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167319
+	mother = 167638
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3135.1.1 = {
+		death = "3135.1.1"
+	}
+}
+
+
+
+
+167322 = {
+	name = "Jedvard"
+	#placeholder
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167319
+	mother = 167638
+	3086.1.1 = {
+		birth = "3086.1.1"
+	}
+	3112.1.1 = {
+		add_spouse = 167302
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+
+
+167323 = {
+	name = "Tjudmund"
+	#placeholder
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167322
+	mother = 167302
+	3114.1.1 = {
+		birth = "3114.1.1"
+	}
+	3140.1.1 = {
+		add_spouse = 167639
+	}
+	
+	3177.1.1 = {
+		death = "3177.1.1"
+	}
+}
+
+
+
+
+167324 = {
+	name = "Jedvard"
+	#placeholder
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167323
+	mother = 167639
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3161.1.1 = {
+		add_spouse = 167640
+	}
+	3201.1.1 = {
+		death = "3201.1.1"
+	}
+}
+
+
+
+
+167325 = {
+	name = "Niklas"
+	#placeholder
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167324
+	mother = 167640
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3189.1.1 = {
+		add_spouse = 167312
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+
+
+
+167326 = {
+	name = "Tjudmund"
+	#placeholder
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167324
+	mother = 167640
+	3164.1.1 = {
+		birth = "3164.1.1"
+	}
+	
+	3214.1.1 = {
+		death = "3214.1.1"
+	}
+}
+
+
+
+
+167327 = {
+	name = "Halsten"
+	#placeholder
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167323
+	mother = 167639
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+
+
+167328 = {
+	name = "Aleta"
+	#placeholder
+	female = yes
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167327
+	3167.1.1 = {
+		birth = "3167.1.1"
+	}
+	
+	3217.1.1 = {
+		death = "3217.1.1"
+	}
+}
+
+
+
+167329 = {
+	name = "Niklas"
+	#placeholder
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167327
+	3168.1.1 = {
+		birth = "3168.1.1"
+	}
+	
+	3218.1.1 = {
+		death = "3218.1.1"
+	}
+}
+
+
+# Hejnum
+
+
+
+167330 = {
+	name = "Faste"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	3012.1.1 = {
+		birth = "3012.1.1"
+	}
+	3030.1.1 = {
+		add_spouse = 167641
+	}
+	3062.1.1 = {
+		death = "3062.1.1"
+	}
+}
+
+
+
+167331 = {
+	name = "Tolir"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167330
+	mother = 167641
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3050.1.1 = {
+		add_spouse = 167317
+	}
+	3100.1.1 = {
+		death = "3100.1.1"
+	}
+}
+
+
+
+167332 = {
+	name = "Dag"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167330
+	mother = 167641
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+
+
+
+167333 = {
+	name = "Olaf"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167330
+	mother = 167641
+	3042.1.1 = {
+		birth = "3042.1.1"
+	}
+	
+	3094.1.1 = {
+		death = "3094.1.1"
+	}
+}
+
+
+
+167334 = {
+	name = "Arnfast"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167331
+	mother = 167317
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3068.1.1 = {
+		add_spouse = 167642
+	}
+	3109.1.1 = {
+		death = "3109.1.1"
+	}
+}
+
+
+
+
+167335 = {
+	name = "Tjudmund"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167331
+	mother = 167317
+	3057.1.1 = {
+		birth = "3057.1.1"
+	}
+	
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+
+
+167336 = {
+	name = "Sigtrygg"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	trait = legitimized_bastard
+	father = 167332
+	3057.1.1 = {
+		birth = "3057.1.1"
+	}
+	
+	3100.1.1 = {
+		death = "3100.1.1"
+	}
+}
+
+
+
+167337 = {
+	name = "Emund"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167334
+	mother = 167642
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3100.1.1 = {
+		add_spouse = 167643
+	}
+	3130.1.1 = {
+		death = "3130.1.1"
+	}
+}
+
+
+167338 = {
+	name = "Faste"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167337
+	mother = 167643
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	
+	3157.1.1 = {
+		death = "3157.1.1"
+	}
+}
+
+
+
+167339 = {
+	name = "Arnfast"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167338
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3144.1.1 = {
+		add_spouse = 167305
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+
+
+
+167340 = {
+	name = "Sverker"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167339
+	mother = 167305
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3166.1.1 = {
+		add_spouse = 167644
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+
+
+
+
+167341 = {
+	name = "Faste"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167339
+	mother = 167305
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+
+167378 = {
+	name = "Dag"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167340
+	mother = 167644
+	3167.1.1 = {
+		birth = "3167.1.1"
+	}
+	
+	3217.1.1 = {
+		death = "3217.1.1"
+	}
+}
+
+
+
+
+167379 = {
+	name = "Tolir"
+	#placeholder
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167340
+	mother = 167644
+	3170.1.1 = {
+		birth = "3170.1.1"
+	}
+	
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+# Gildehusen
+
+
+
+167342 = {
+	name = "HA_kan"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	3007.1.1 = {
+		birth = "3007.1.1"
+	}
+	3030.1.1 = {
+		add_spouse = 167649
+	}
+	3057.1.1 = {
+		death = "3057.1.1"
+	}
+}
+
+
+167343 = {
+	name = "RO_rek"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167342
+	mother = 167649
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3052.1.1 = {
+		add_spouse = 167650
+	}
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+}
+
+
+
+
+167344 = {
+	name = "Sigurd"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167342
+	mother = 167649
+	3034.1.1 = {
+		birth = "3034.1.1"
+	}
+	3052.1.1 = {
+		add_spouse = 167651
+	}
+	3082.1.1 = {
+		death = "3082.1.1"
+	}
+}
+
+
+
+
+167345 = {
+	name = "HA_kan"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167344
+	mother = 167651
+	3054.1.1 = {
+		birth = "3054.1.1"
+	}
+	3072.1.1 = {	
+		add_spouse = 167364
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+
+
+
+167346 = {
+	name = "Sven"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167344
+	mother = 167651
+	3058.1.1 = {
+		birth = "3058.1.1"
+	}
+	3081.1.1 = {	
+		add_spouse = 167653
+	}
+	3106.1.1 = {
+		death = "3106.1.1"
+	}
+}
+
+
+
+
+167347 = {
+	name = "O_ystein"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167344
+	mother = 167651
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	
+	3120.1.1 = {
+		death = "3120.1.1"
+	}
+}
+
+
+
+
+167348 = {
+	name = "Sigurd"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167345
+	mother = 167364
+	3074.1.1 = {
+		birth = "3074.1.1"
+	}
+	3097.1.1 = {	
+		add_spouse = 167652
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+
+
+167349 = {
+	name = "AsbjO_rn"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167346
+	mother = 167653
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3101.1.1 = {	
+		add_spouse = 167654
+	}
+	3137.1.1 = {
+		death = "3137.1.1"
+	}
+}
+
+
+
+
+167350 = {
+	name = "Ingeborg"
+	#placeholder
+	female = yes
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167347
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	
+	3137.1.1 = {
+		death = "3137.1.1"
+	}
+}
+
+
+
+
+167351 = {
+	name = "HA_kan"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167349
+	mother = 167654
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3126.1.1 = {	
+		add_spouse = 167655
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+
+
+167352 = {
+	name = "Bengt"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167351
+	mother = 167655
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3151.1.1 = {	
+		add_spouse = 167656
+	}
+	3180.1.1 = {
+		death = "3180.1.1"
+	}
+}
+
+
+
+167353 = {
+	name = "Sigurd"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167351
+	mother = 167655
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+
+
+167354 = {
+	name = "RO_rek"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167352
+	mother = 167656
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+
+
+167355 = {
+	name = "SA_mund"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167352
+	mother = 167656
+	3155.1.1 = {
+		birth = "3155.1.1"
+	}
+	3171.1.1 = {	
+		add_spouse = 167657
+	}
+	3205.1.1 = {
+		death = "3205.1.1"
+	}
+}
+
+
+
+167390 = {
+	name = "Brigitta"
+	#placeholder
+	female = yes
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167355
+	mother = 167657
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	
+	3222.1.1 = {
+		death = "3222.1.1"
+	}
+}	
+
+
+
+167356 = {
+	name = "HA_kan"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167355
+	mother = 167657
+	3173.1.1 = {
+		birth = "3173.1.1"
+	}
+	3189.1.1 = {
+		add_spouse = 167313
+	}
+	3223.1.1 = {
+		death = "3223.1.1"
+	}
+}
+
+
+
+167357 = {
+	name = "Bror"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	trait = legitimized_bastard
+	father = 167353
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3168.1.1 = {
+		add_spouse = 167658
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+
+
+
+167358 = {
+	name = "Sigurd"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167357
+	mother = 167658
+	3170.1.1 = {
+		birth = "3170.1.1"
+	}
+	
+	3222.1.1 = {
+		death = "3222.1.1"
+	}
+}
+
+
+
+167359 = {
+	name = "Sigtrygg"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167357
+	mother = 167658
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	
+	3222.1.1 = {
+		death = "3222.1.1"
+	}
+}
+
+
+
+167360 = {
+	name = "SigbjO_rn"
+	#placeholder
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167357
+	mother = 167658
+	3173.1.1 = {
+		birth = "3173.1.1"
+	}
+	
+	3224.1.1 = {
+		death = "3224.1.1"
+	}
+}
+
+
+# Stråben
+
+167361 = {
+	name = "Knut"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	3022.1.1 = {
+		birth = "3022.1.1"
+	}
+	3046.1.1 = {
+		add_spouse = 167645
+	}
+	3079.1.1 = {
+		death = "3079.1.1"
+	}
+}
+
+
+167362 = {
+	name = "Dyre"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167361
+	mother = 167645
+	3047.1.1 = {
+		birth = "3047.1.1"
+	}
+	3065.1.1 = {
+		add_spouse = 167646
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+
+
+167363 = {
+	name = "Folke"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167361
+	mother = 167645
+	3050.1.1 = {
+		birth = "3050.1.1"
+	}
+	
+	3107.1.1 = {
+		death = "3107.1.1"
+	}
+}
+
+
+
+167364 = {
+	name = "Inga"
+	#placeholder
+	female = yes
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167361
+	mother = 167645
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	
+	3107.1.1 = {
+		death = "3107.1.1"
+	}
+}	
+	
+167365 = {
+	name = "Knut"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167362
+	mother = 167646
+	3067.1.1 = {
+		birth = "3067.1.1"
+	}
+	3086.1.1 = {
+		add_spouse = 167647
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+
+
+
+
+167366 = {
+	name = "Erik"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167363
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+
+
+
+167367 = {
+	name = "Ulf"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167363
+	3074.1.1 = {
+		birth = "3074.1.1"
+	}
+	
+	3127.1.1 = {
+		death = "3127.1.1"
+	}
+}	
+
+
+167368 = {
+	name = "BjO_rn"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167365
+	mother = 167647
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	3111.1.1 = {
+		add_spouse = 167648
+	}
+	3147.1.1 = {
+		death = "3147.1.1"
+	}
+}
+
+
+
+167369 = {
+	name = "Johan"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167365
+	mother = 167647
+	3091.1.1 = {
+		birth = "3091.1.1"
+	}
+	
+	3142.1.1 = {
+		death = "3142.1.1"
+	}
+}
+
+
+167370 = {
+	name = "Knut"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167368
+	mother = 167648
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+
+
+167371 = {
+	name = "Folke"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167368
+	mother = 167648
+	3117.1.1 = {
+		birth = "3117.1.1"
+	}
+	
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+	
+
+
+167372 = {
+	name = "Ragnvald"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167368
+	mother = 167648
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3160.1.1 = {
+		add_spouse = 167377
+	}
+	3195.1.1 = {
+		death = "3195.1.1"
+	}
+}
+
+
+167373 = {
+	name = "Knut"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167372
+	mother = 167377
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}		
+	
+
+
+167374 = {
+	name = "Folke"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167372
+	mother = 167377
+	3163.1.1 = {
+		birth = "3163.1.1"
+	}
+	
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+
+
+167375 = {
+	name = "BjO_rn"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	trait = twin
+	father = 167372
+	mother = 167377
+	3164.1.1 = {
+		birth = "3164.1.1"
+	}
+	
+	3214.1.1 = {
+		death = "3214.1.1"
+	}
+}
+
+
+
+167376 = {
+	name = "Johan"
+	#placeholder
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	trait = twin
+	father = 167372
+	mother = 167377
+	3164.1.1 = {
+		birth = "3164.1.1"
+	}
+	
+	3217.1.1 = {
+		death = "3217.1.1"
+	}
+}
+
+
+
+
+167377 = {
+	name = "Sigrid"
+	#placeholder
+	female = yes
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167323
+	mother = 167639
+	3144.1.1 = {
+		birth = "3144.1.1"
+	}
+	
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+102542 = {
+	name = "Ulf"
+	dynasty = 500
+	martial = 6
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 8
+	religion = "norse_pagan"
+	culture = "swedish"
+	trait = just
+	trait = education_diplomacy_3
+	father = 100521
+	mother = 102545
+	3003.1.2 = {
+		birth = "3003.1.2"
+	}
+	3042.1.1 = {
+		death = "3042.1.1"
+	}
+}
+
+170036 = {
+	name = "Johan"
+	dynasty = 496
+	religion = "catholic"
+	culture = "swedish"
+		trait = callous
+	father = 200600
+	mother = 200601
+	3137.1.1 = {
+		birth = "3137.1.1"
+	}
+	3156.1.1 = {
+		death = "3156.1.1"
+	}
+}
+
+170037 = {
+	name = "Burislev"
+	dynasty = 496
+	religion = "catholic"
+	culture = "swedish"
+	father = 200600
+	mother = 221511
+	3154.1.1 = {
+		birth = "3154.1.1"
+	}
+	3204.1.1 = {
+		death = "3204.1.1"
+	}
+}
+
+170038 = {
+	name = "Helena"
+	female = yes
+	dynasty = 496
+	religion = "catholic"
+	culture = "swedish"
+	father = 200600
+	mother = 200601
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3159.8.9 = {
+		trait = devoted
+		employer = 200490
+	}
+	3174.1.1 = {
+		death = "3174.1.1"
+	}
+}
+
+170039 = {
+	name = "IngegA_rd"
+	female = yes
+	dynasty = 496
+	religion = "catholic"
+	culture = "swedish"
+	father = 200600
+	mother = 200601
+	3140.1.1 = {
+		birth = "3140.1.1"
+	}
+	3206.1.1 = {
+		death = "3206.1.1"
+	}
+}
+
+170020 = {
+	name = "Karl"
+	dynasty = 496
+	religion = "catholic"
+	culture = "swedish"
+	father = 200604 # Sverker den Yngre
+	mother = 200605 # Benedicta Ebbesdotter
+	3188.1.3 = {
+		birth = "3188.1.3"
+	}
+	3201.1.1 = {
+		death = "3201.1.1"
+	}
+}
+
+170021 = {
+	name = "Katarina" # Katarina Sunadotter
+	female = yes
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	trait = education_learning_3
+	father = 200534 # Sune Folkesson
+	mother = 200610 # Helena Sverkersdotter
+	3214.1.1 = {
+		birth = "3214.1.1"
+	}
+	3255.1.1 = {
+		death = "3255.1.1"
+	}
+}
+
+170024 = {
+	name = "Holmger" # Holmger Knutsson
+	dynasty = 381
+	religion = "catholic"
+	culture = "swedish"
+	father = 200508 # Knut Holmgersson
+	mother = 170023 # Helena Pedersdatter
+	3228.1.1 = {
+		birth = yes
+	}
+	3251.1.1 = {
+		death = "3251.1.1"
+	}
+}
+
+170025 = {
+	name = "Filip" # Filip Knutsson
+	dynasty = 381
+	religion = "catholic"
+	culture = "swedish"
+	father = 200508 # Knut Holmgersson
+	mother = 170023 # Helena Pedersdatter
+	3228.1.1 = {
+		birth = yes
+	}
+	3254.1.1 = {
+		death = "3254.1.1"
+	}
+}
+
+170000 = {
+	name = "Karl" #Bishop of Linköping
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	trait = brave
+	trait = education_learning_3
+	father = 200540 # Magnus Minnisköld
+	mother = 200607 # Ingrid Ylva
+	3198.1.1 = {
+		birth = "3198.1.1"
+	}
+	3222.8.8 = {
+		death = "3222.8.8" # battle of Lihuna
+	}
+}
+
+170001 = {
+	name = "Christina"
+	female = yes
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	father = 450510 #Birger Jarl
+	mother = 450511
+	3250.1.1 = {
+		birth = "3250.1.1"
+	}
+	3290.2.28 = {
+		death = "3290.2.28"
+	}
+}
+
+170002 = {
+	name = "Magnus"
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	father = 450504
+	mother = 451516
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3321.7.8 = {
+		add_pressed_claim = title:k_sweden
+	}
+	3322.1.1 = {
+		death = "3322.1.1"
+	}
+}
+
+170003 = {
+	name = "Eric"
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	father = 450504
+	mother = 451516
+	3302.1.1 = {
+		birth = "3303.1.1"
+	}
+	3321.1.1 = {
+		death = "3321.1.1"
+	}
+}
+
+170004 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	father = 450504
+	mother = 451516
+	3302.1.1 = {
+		birth = "3304.1.1"
+	}
+	3346.1.1 = {
+		death = "3346.1.1"
+	}
+}
+
+170005 = {
+	name = "Katarina"
+	female = yes
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	father = 450504
+	mother = 451516
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3323.1.1 = {
+		death = "3323.1.1"
+	}
+}
+
+170006 = {
+	name = "Erik"
+	dynasty = 155
+	religion = "catholic"
+	culture = "swedish"
+	father = 450506
+	mother = 451511
+	3274.1.1 = {
+		birth = "3274.1.1"
+	}
+	3332.1.1 = {
+		death = "3332.1.1"
+	}
+}
+
+167630 = {
+	name = "Ylva"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3050.1.1 = {
+		birth = "3050.1.1"
+	}
+	3100.1.1 = {
+		death = "3100.1.1"
+	}
+}
+
+167631 = {
+	name = "Sara"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3067.1.1 = {
+		birth = "3067.1.1"
+	}
+	3117.1.1 = {
+		death = "3117.1.1"
+	}
+}
+
+
+167632 = {
+	name = "Inga"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3094.1.1 = {
+		birth = "3094.1.1"
+	}
+	3144.1.1 = {
+		death = "3144.1.1"
+	}
+}
+
+
+
+167633 = {
+	name = "Bothild"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+
+
+167634 = {
+	name = "Holmfrid"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+
+
+167635 = {
+	name = "Aleta"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+
+
+167636 = {
+	name = "Asa"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3007.1.1 = {
+		birth = "3007.1.1"
+	}
+	3057.1.1 = {
+		death = "3057.1.1"
+	}
+}
+
+
+
+167637 = {
+	name = "Gunhild"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3082.1.1 = {
+		death = "3082.1.1"
+	}
+}
+
+
+167638 = {
+	name = "Kristina"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+
+
+167639 = {
+	name = "Rikissa"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3174.1.1 = {
+		death = "3174.1.1"
+	}
+}
+
+
+
+167640 = {
+	name = "Ragnfrid"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+
+167641 = {
+	name = "Ulvhilde"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3012.1.1 = {
+		birth = "3012.1.1"
+	}
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+}
+
+
+
+
+167642 = {
+	name = "Ingegerd"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+
+
+167643 = {
+	name = "Beata"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3142.1.1 = {
+		death = "3142.1.1"
+	}
+}
+
+
+
+167644 = {
+	name = "Helena"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3197.1.1 = {
+		death = "3197.1.1"
+	}
+}
+
+
+
+167645 = {
+	name = "Birgitta"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3027.1.1 = {
+		birth = "3027.1.1"
+	}
+	3082.1.1 = {
+		death = "3082.1.1"
+	}
+}
+
+
+
+167646 = {
+	name = "Alfhild"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3047.1.1 = {
+		birth = "3047.1.1"
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+
+
+167647 = {
+	name = "Elisabet"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3068.1.1 = {
+		birth = "3068.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+
+
+167648 = {
+	name = "Hafrid"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3152.1.1 = {
+		death = "3152.1.1"
+	}
+}
+
+167650 = {
+	name = "Gurli"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3022.1.1 = {
+		birth = "3022.1.1"
+	}
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+}
+
+
+
+167651 = {
+	name = "Ylva"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3087.1.1 = {
+		death = "3087.1.1"
+	}
+}
+
+
+167652 = {
+	name = "Astrid"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3077.1.1 = {
+		birth = "3077.1.1"
+	}
+	3127.1.1 = {
+		death = "3127.1.1"
+	}
+}
+
+
+
+167653 = {
+	name = "Karin"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+
+
+167654 = {
+	name = "Alfridh"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3142.1.1 = {
+		death = "3142.1.1"
+	}
+}
+
+
+
+167655 = {
+	name = "Sofia"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3107.1.1 = {
+		birth = "3107.1.1"
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+
+
+167656 = {
+	name = "Katarina"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+
+
+167657 = {
+	name = "Linda"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+
+167658 = {
+	name = "Inga"
+	#placeholder
+	female = yes
+	religion = "catholic"
+	culture = "swedish"
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+183000 = {
+	name = "Holmfrid"
+	female = yes
+	dynasty_house = house_munso
+	martial = 3
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "swedish"
+	trait = legitimized_bastard
+	trait = education_diplomacy_2
+	father = 100506
+	mother = 100507
+	3011.1.2 = {
+		birth = "3011.1.2"
+	}
+	3073.1.2 = {
+		death = "3073.1.2"
+	}
+}
+
+194223 = {
+	name = Lars
+	dynasty = 121 # Grip
+	religion = catholic
+	culture = swedish
+	3152.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+194224 = {
+	name = Anders
+	dynasty = 121 # Grip
+	religion = catholic
+	culture = swedish
+	father = 194223
+	3182.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194225 = {
+	name = Anders
+	dynasty = 121 # Grip
+	religion = catholic
+	culture = swedish
+	father = 194224
+	3217.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+194226 = {
+	name = Magnus
+	dynasty = 121 # Grip
+	religion = catholic
+	culture = swedish
+	father = 194225
+	3252.1.1 = {
+		birth = yes
+	}
+	3317.1.1 = {
+		death = yes
+	}
+}
+194227 = {
+	name = Kristina
+	dynasty = 121 # Grip
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194224
+	3202.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194228 = {
+	name = Ingrid
+	dynasty = 121 # Grip
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194224
+	3207.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194229 = {
+	name = Dag
+	dynasty = 497 # Horn
+	religion = catholic
+	culture = swedish
+	3152.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+194230 = {
+	name = Erik
+	dynasty = 497 # Horn
+	religion = catholic
+	culture = swedish
+	father = 194229
+	3182.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194231 = {
+	name = Torsten
+	dynasty = 497 # Horn
+	religion = catholic
+	culture = swedish
+	father = 194230
+	3217.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+194232 = {
+	name = Magnus
+	dynasty = 497 # Horn
+	religion = catholic
+	culture = swedish
+	father = 194231
+	3252.1.1 = {
+		birth = yes
+	}
+	3317.1.1 = {
+		death = yes
+	}
+}
+194233 = {
+	name = Margareta
+	dynasty = 497 # Horn
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194230
+	3204.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194234 = {
+	name = Sara
+	dynasty = 497 # Horn
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194230
+	3209.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194235 = {
+	name = Knut
+	dynasty = 3811 # Bonde
+	religion = catholic
+	culture = swedish
+	3152.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+194236 = {
+	name = Erik
+	dynasty = 3811 # Bonde
+	religion = catholic
+	culture = swedish
+	father = 194241
+	3181.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194237 = {
+	name = Knut
+	dynasty = 3811 # Bonde
+	religion = catholic
+	culture = swedish
+	father = 194242
+	3216.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+194238 = {
+	name = Eskild
+	dynasty = 3811 # Bonde
+	religion = catholic
+	culture = swedish
+	father = 194243
+	3252.1.1 = {
+		birth = yes
+	}
+	3317.1.1 = {
+		death = yes
+	}
+}
+194239 = {
+	name = Anna
+	dynasty = 3811 # Bonde
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194242
+	3203.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194240 = {
+	name = Sofia
+	dynasty = 3811 # Bonde
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194242
+	3210.1.1 = {
+		birth = yes
+	}
+	3262.1.1 = {
+		death = yes
+	}
+}
+194241 = {
+	name = Klas
+	dynasty = 137 # Sparre
+	religion = catholic
+	culture = swedish
+	3152.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+194242 = {
+	name = Knut
+	dynasty = 137 # Sparre
+	religion = catholic
+	culture = swedish
+	father = 194241
+	3182.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194243 = {
+	name = Hans
+	dynasty = 137 # Sparre
+	religion = catholic
+	culture = swedish
+	father = 194242
+	3217.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+194244 = {
+	name = Folke
+	dynasty = 137 # Sparre
+	religion = catholic
+	culture = swedish
+	father = 194243
+	3252.1.1 = {
+		birth = yes
+	}
+	3317.1.1 = {
+		death = yes
+	}
+}
+194245 = {
+	name = Sigrid
+	dynasty = 137 # Sparre
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194242
+	3203.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194246 = {
+	name = A_sa
+	dynasty = 137 # Sparre
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194242
+	3210.1.1 = {
+		birth = yes
+	}
+	3262.1.1 = {
+		death = yes
+	}
+}
+194247 = {
+	name = Johan
+	dynasty = 100297 # Lilliehöök
+	religion = catholic
+	culture = swedish
+	3152.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+194248 = {
+	name = MA_ns
+	dynasty = 100297 # Lilliehöök
+	religion = catholic
+	culture = swedish
+	father = 194247
+	3181.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194249 = {
+	name = Karl
+	dynasty = 100297 # Lilliehöök
+	religion = catholic
+	culture = swedish
+	father = 194248
+	3216.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+194250 = {
+	name = Johan
+	dynasty = 100297 # Lilliehöök
+	religion = catholic
+	culture = swedish
+	father = 194249
+	3252.1.1 = {
+		birth = yes
+	}
+	3317.1.1 = {
+		death = yes
+	}
+}
+194251 = {
+	name = Ebba
+	dynasty = 100297 # Lilliehöök
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194248
+	3207.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194252 = {
+	name = Anna
+	dynasty = 100297 # Lilliehöök
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194248
+	3217.1.1 = {
+		birth = yes
+	}
+	3262.1.1 = {
+		death = yes
+	}
+}
+194253 = {
+	name = Anund
+	dynasty = 148 # Natt och Dag
+	religion = catholic
+	culture = swedish
+	3152.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+194254 = {
+	name = Sten
+	dynasty = 148 # Natt och Dag
+	religion = catholic
+	culture = swedish
+	father = 194253
+	3181.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194255 = {
+	name = Karl
+	dynasty = 148 # Natt och Dag
+	religion = catholic
+	culture = swedish
+	father = 194254
+	3216.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+194256 = {
+	name = Johan
+	dynasty = 148 # Natt och Dag
+	religion = catholic
+	culture = swedish
+	father = 194255
+	3252.1.1 = {
+		birth = yes
+	}
+	3317.1.1 = {
+		death = yes
+	}
+}
+194257 = {
+	name = Astrid
+	dynasty = 148 # Natt och Dag
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194254
+	3207.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194258 = {
+	name = Birgitta
+	dynasty = 148 # Natt och Dag
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194254
+	3217.1.1 = {
+		birth = yes
+	}
+	3262.1.1 = {
+		death = yes
+	}
+}
+194259 = {
+	name = Axel
+	dynasty = 100006 # Posse
+	religion = catholic
+	culture = swedish
+	3152.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+194260 = {
+	name = Nils
+	dynasty = 100006 # Posse
+	religion = catholic
+	culture = swedish
+	father = 194259
+	3181.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194261 = {
+	name = Axel
+	dynasty = 100006 # Posse
+	religion = catholic
+	culture = swedish
+	father = 194260
+	3216.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+194262 = {
+	name = Arvid
+	dynasty = 100006 # Posse
+	religion = catholic
+	culture = swedish
+	father = 194261
+	3252.1.1 = {
+		birth = yes
+	}
+	3317.1.1 = {
+		death = yes
+	}
+}
+194263 = {
+	name = Anna
+	dynasty = 100006 # Posse
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194260
+	3206.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194264 = {
+	name = Axel
+	dynasty = 1037 # Tre Rosor
+	religion = catholic
+	culture = swedish
+	3152.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+194265 = {
+	name = Nils
+	dynasty = 1037 # Tre Rosor
+	religion = catholic
+	culture = swedish
+	father = 194264
+	3181.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194266 = {
+	name = Axel
+	dynasty = 1037 # Tre Rosor
+	religion = catholic
+	culture = swedish
+	father = 194265
+	3216.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+194267 = {
+	name = Arvid
+	dynasty = 1037 # Tre Rosor
+	religion = catholic
+	culture = swedish
+	father = 194266
+	3252.1.1 = {
+		birth = yes
+	}
+	3322.1.1 = {
+		death = yes
+	}
+}
+194268 = {
+	name = MAErta
+	dynasty = 1037 # Tre Rosor
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194265
+	3205.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194269 = {
+	name = Nils
+	dynasty = 1040 # Trolle
+	religion = catholic
+	culture = swedish
+	3152.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+194270 = {
+	name = Erik
+	dynasty = 1040 # Trolle
+	religion = catholic
+	culture = swedish
+	father = 194269
+	3181.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194271 = {
+	name = Gustav
+	dynasty = 1040 # Trolle
+	religion = catholic
+	culture = swedish
+	father = 194270
+	3216.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+194272 = {
+	name = Erik
+	dynasty = 1040 # Trolle
+	religion = catholic
+	culture = swedish
+	father = 194271
+	3252.1.1 = {
+		birth = yes
+	}
+	3322.1.1 = {
+		death = yes
+	}
+}
+194273 = {
+	name = Ingeborg
+	dynasty = 1040 # Trolle
+	religion = catholic
+	culture = swedish
+	female = yes
+	father = 194270
+	3205.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+194274 = {
+	name = "Anund"
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 167358
+	3190.1.1 = {
+		birth = yes
+	}
+	3262.1.1 = {
+		death = yes
+	}
+}
+194275 = {
+	name = "Olaf"
+	dynasty = 9519
+	religion = "catholic"
+	culture = "swedish"
+	father = 194274
+	mother = 194276
+	3222.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+194276 = {
+	name = Anna
+	religion = "catholic"
+	culture = "swedish"
+	female = yes
+	3197.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+
+194277 = {
+	name = Anders
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 167325
+	3192.1.1 = {
+		birth = yes
+	}
+	3257.1.1 = {
+		death = yes
+	}
+}
+194278 = {
+	name = Eskil
+	dynasty = 9517
+	religion = "catholic"
+	culture = "swedish"
+	father = 194277
+	3222.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+194279 = {
+	name = "Faste"
+	dynasty = 9518
+	religion = "catholic"
+	culture = "swedish"
+	father = 167378
+	3206.1.1 = {
+		birth = yes
+	}
+	
+	3290.1.1 = {
+		death = yes
+	}
+}
+194280 = {
+	name = "Folke"
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 167310
+	3182.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}
+194281 = {
+	name = "Johan"
+	dynasty = 495
+	religion = "catholic"
+	culture = "swedish"
+	father = 194280
+	3242.1.1 = {
+		birth = yes
+	}
+	3301.1.1 = {
+		death = yes
+	}
+}
+194282 = {
+	name = "Gunnar"
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 167373
+	3192.1.1 = {
+		birth = yes
+	}
+	3257.1.1 = {
+		death = yes
+	}
+}	
+194283 = {
+	name = "Folke"
+	dynasty = 9520
+	religion = "catholic"
+	culture = "swedish"
+	father = 194282
+	3232.1.1 = {
+		birth = yes
+	}
+	3301.1.1 = {
+		death = yes
+	}
+}
+
+
+
+# Bishops of Skara
+242500 = {
+	name="Thurgot"
+	religion="catholic"
+	culture="saxon"
+	
+	2962.1.1 = {
+		birth = yes
+	}
+	3032.1.1 = {
+		death = yes
+	}
+}
+242501 = {
+	name="Sigfrid"
+	religion="catholic"
+	culture="anglo_saxon"
+	
+	trait = education_learning_4
+	
+	2987.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		give_nickname=nick_the_saint
+		death = yes
+	}
+}
+242502 = {
+	name="Osmund"
+	religion="catholic"
+	culture="swedish"
+	
+	3002.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+242503 = {
+	name="Adalvard"
+	religion="catholic"
+	culture="swedish"
+	
+	trait = education_learning_4
+	
+	2983.1.1 = {
+		birth = yes
+	}
+	3066.1.1 = {
+		death = yes
+		give_nickname=nick_the_old
+	}
+}
+242505 = {
+	name="Adalvard"
+	religion="catholic"
+	culture="swedish"
+	
+	trait = education_learning_4
+	
+	3016.1.1 = {
+		birth = yes
+		give_nickname=nick_the_young
+	}
+	3070.1.1 = {
+		death = yes
+	}
+}
+242506 = {
+	name="Rodulvard"
+	religion="catholic"
+	culture="swedish"
+	
+	trait = education_learning_3
+	
+	3020.1.1 = {
+		birth = yes
+	}
+	3095.1.1 = {
+		death = yes
+	}
+}
+242507 = {
+	name="Rikulf"
+	religion="catholic"
+	culture="anglo_saxon"
+	
+	trait = education_learning_4
+	
+	3033.1.1 = {
+		birth = yes
+	}
+	3103.1.1 = {
+		death = yes
+	}
+}
+242508 = {
+	name="Hervard"
+	religion="catholic"
+	culture="anglo_saxon"
+	
+	trait = education_learning_4
+	
+	3041.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+242509 = {
+	name="StyrbjO_rn"
+	religion="catholic"
+	culture="swedish"
+	
+	trait = education_learning_3
+	
+	3046.1.1 = {
+		birth = yes
+	}
+	3132.1.1 = {
+		death = yes
+	}
+}
+242510 = {
+	name="_Odgrim"
+	religion="catholic"
+	culture="swedish"
+	
+	trait = education_learning_4
+	
+	3060.1.1 = {
+		birth = yes
+	}
+	3152.1.1 = {
+		death = yes
+	}
+}
+242511 = {
+	name="Bengt"
+	religion="catholic"
+	culture="swedish"
+	
+	3094.1.1 = {
+		birth = yes
+		give_nickname=nick_the_good	
+	}
+	3192.1.1 = {
+		death = yes
+	}
+}
+242512 = {
+	name="Jaerpulf"
+	religion="catholic"
+	culture="swedish"
+	
+	3132.1.1 = {
+		birth = yes
+	}
+	3203.1.1 = {
+		death = yes
+	}
+}
+242513 = {
+	name="Jon" # Hyrne
+	religion="catholic"
+	culture="swedish"
+	
+	3146.1.1 = {
+		birth = yes
+	}
+	3208.1.1 = {
+		death = yes
+	}
+}
+242514 = {
+	name="Bernhard"
+	religion="catholic"
+	culture="swedish"
+	
+	3165.1.1 = {
+		birth = yes
+	}
+	3221.1.1 = {
+		death = yes
+	}
+}
+242515 = {
+	name="Bengt"
+	religion="catholic"
+	culture="swedish"
+	
+	3173.1.1 = {
+		birth = yes
+	}
+	3230.1.1 = {
+		death = yes
+	}
+}
+242516 = {
+	name="Stenar"
+	religion="catholic"
+	culture="swedish"
+	
+	3181.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = yes
+	}
+}
+242517 = {
+	name="Lars"
+	religion="catholic"
+	culture="swedish"
+	
+	3183.1.1 = {
+		birth = yes
+	}
+	3259.1.1 = {
+		death = yes
+	}
+}
+242518 = {
+	name="Valdemar"
+	religion="catholic"
+	culture="swedish"
+	
+	3188.1.1 = {
+		birth = yes
+	}
+	3260.1.1 = {
+		death = yes
+	}
+}
+242519 = {
+	name="Ragvald"
+	religion="catholic"
+	culture="swedish"
+	
+	3191.1.1 = {
+		birth = yes
+	}
+	3265.1.1 = {
+		death = yes
+	}
+}
+242520 = {
+	name="Ulf"
+	religion="catholic"
+	culture="swedish"
+	
+	3209.1.1 = {
+		birth = yes
+	}
+	3269.1.1 = {
+		death = yes
+	}
+}
+242521 = {
+	name="Erik"
+	religion="catholic"
+	culture="swedish"
+	
+	3230.1.1 = {
+		birth = yes
+	}
+	3280.1.1 = {
+		death = yes
+	}
+}
+242522 = {
+	name="Brynolf"
+	religion="catholic"
+	culture="swedish"
+	
+	3259.1.1 = {
+		birth = yes
+	}
+	3319.1.1 = {
+		death = yes
+	}
+}
+242523 = {
+	name="Bengt"
+	religion="catholic"
+	culture="swedish"
+	
+	3273.1.1 = {
+		birth = yes
+	}
+	3323.1.1 = {
+		death = yes
+	}
+}
+242524 = {
+	name="Erik"
+	religion="catholic"
+	culture="swedish"
+	
+	3259.1.1 = {
+		birth = yes
+	}
+	3324.1.1 = {
+		death = yes
+	}
+}
+242525 = {
+	name="Peder" #Larsson
+	religion="catholic"
+	culture="swedish"
+	
+	3278.1.1 = {
+		birth = yes
+	}
+	3338.1.1 = {
+		death = yes
+	}
+}
+242526 = {
+	name="Gunnar" #Tynneson
+	religion="catholic"
+	culture="swedish"
+	
+	3284.1.1 = {
+		birth = yes
+	}
+	3342.1.1 = {
+		death = yes
+	}
+}

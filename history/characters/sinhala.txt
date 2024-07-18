@@ -1,0 +1,1141 @@
+﻿175010 = {
+	name = "Sena" # Sena II
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189011
+	2832.1.1 = {
+		birth = yes
+	}
+	2903.1.1 = {
+		death = yes
+	}
+}
+
+189000 = {
+	name = "Manavanna" #
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	2652.1.1 = {
+		birth = "2652.1.1"
+	}
+	2728.1.1 = {
+		death = "2728.1.1"
+	}
+}
+
+189001 = {
+	name = "Aggabodhi" #V
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189000
+	2672.1.1 = {
+		birth = "2672.1.1"
+	}
+	2734.1.1 = {
+		death = "2734.1.1"
+	}
+}
+
+189002 = {
+	name = "Kassapa" #III
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189000
+	2677.1.1 = {
+		birth = "2677.1.1"
+	}
+	2740.1.1 = {
+		death = "2740.1.1"
+	}
+}
+
+189003 = {
+	name = "Mahinda" #I
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189000
+	2682.1.1 = {
+		birth = "2682.1.1"
+	}
+	2743.1.1 = {
+		death = "2743.1.1"
+	}
+}
+
+189004 = {
+	name = "Aggabodhi" #VII
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189003
+	2712.1.1 = {
+		birth = "2712.1.1"
+	}
+	2789.1.1 = {
+		death = "2789.1.1"
+	}
+}
+
+189005 = {
+	name = "Aggabodhi" #VI
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189002
+	2707.1.1 = {
+		birth = "2707.1.1"
+	}
+	2783.1.1 = {
+		death = "2783.1.1"
+	}
+}
+
+189006 = {
+	name = "Mahinda" #II
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189005
+	2732.1.1 = {
+		birth = "2732.1.1"
+	}
+	2809.1.1 = {
+		death = "2809.1.1"
+	}
+}
+
+189007 = {
+	name = "Dappula" #II
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189006
+	2752.1.1 = {
+		birth = "2752.1.1"
+	}
+	2814.1.1 = {
+		death = "2814.1.1"
+	}
+}
+
+189008 = {
+	name = "Mahinda" #III
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189007
+	2772.1.1 = {
+		birth = "2772.1.1"
+	}
+	2818.1.1 = {
+		death = "2818.1.1"
+	}
+}
+
+189009 = {
+	name = "Aggabodhi" #VIII
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189007
+	2777.1.1 = {
+		birth = "2777.1.1"
+	}
+	2829.1.1 = {
+		death = "2829.1.1"
+	}
+}
+
+189010 = {
+	name = "Dappula" #III
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189007
+	2782.1.1 = {
+		birth = "2782.1.1"
+	}
+	2845.1.1 = {
+		death = "2845.1.1"
+	}
+}
+
+189011 = {
+	name = "Kassapa" #
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189007
+	2792.1.1 = {
+		birth = "2792.1.1"
+	}
+	2842.1.1 = {
+		death = "2842.1.1"
+	}
+}
+
+189012 = {
+	name = "Aggabodhi" #IX
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189010
+	2802.1.1 = {
+		birth = "2802.1.1"
+	}
+	2848.1.1 = {
+		death = "2848.1.1"
+	}
+}
+
+189013 = {
+	name = "Sena" #I
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189010
+	2807.1.1 = {
+		birth = "2807.1.1"
+	}
+	2868.1.1 = {
+		death = "2868.1.1"
+	}
+}
+
+189014 = {
+	name = "Udaya" # I
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189011
+	2837.1.1 = {
+		birth = "2837.1.1"
+	}
+	2914.1.1 = {
+		death = "2914.1.1"
+	}
+}
+189015 = {
+	name = "Kassapa" # IV
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 175010
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2931.1.1 = {
+		death = "2931.1.1"
+	}
+}
+
+189016 = {
+	name = "Udaya" # II
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189014
+	2882.1.1 = {
+		birth = "2882.1.1"
+	}
+	2957.1.1 = {
+		death = "2957.1.1"
+	}
+}
+189017 = {
+	name = "Sena" # III
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189014
+	2887.1.1 = {
+		birth = "2887.1.1"
+	}
+	2966.1.1 = {
+		death = "2966.1.1"
+	}
+}
+189018 = {
+	name = "Sena" # III
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189014
+	2892.1.1 = {
+		birth = "2892.1.1"
+	}
+	2974.1.1 = {
+		death = "2974.1.1"
+	}
+}
+189019 = {
+	name = "Kassapa" # V
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189015
+	2868.1.1 = {
+		birth = "2868.1.1"
+	}
+	2941.1.1 = {
+		death = "2941.1.1"
+	}
+}
+
+189020 = {
+	name = "Dappula" # IV
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189019
+	2887.1.1 = {
+		birth = "2887.1.1"
+	}
+	2942.1.1 = {
+		death = "2942.1.1"
+	}
+}
+
+189021 = {
+	name = "Dappula" # V
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189019
+	2892.1.1 = {
+		birth = "2892.1.1"
+	}
+	2954.1.1 = {
+		death = "2954.1.1"
+	}
+}
+
+189022 = {
+	name = "Sena" # IV
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189019
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	2977.1.1 = {
+		death = "2977.1.1"
+	}
+}
+
+189023 = {
+	name = "Mahinda" # IV
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189019
+	2912.1.1 = {
+		birth = "2912.1.1"
+	}
+	2993.1.1 = {
+		death = "2993.1.1"
+	}
+}
+
+189024 = {
+	name = "Sena" # V
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189023
+	2942.1.1 = {
+		birth = "2942.1.1"
+	}
+	3003.1.1 = {
+		death = "3003.1.1"
+	}
+}
+
+189025 = {
+	name = "Mahinda" # V
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189023
+	2952.1.1 = {
+		birth = "2952.1.1"
+	}
+	3031.1.1 = {
+		death = "3031.1.1"
+	}
+}
+
+189026 = {
+	name = "Vikramabahu" #
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189025
+	2982.1.1 = {
+		birth = "2982.1.1"
+	}
+	3037.1.1 = {
+		death = "3037.1.1"
+		name = "Kassapa" # VI
+	}
+}
+
+189027 = {
+	name = "Moggallanna" # III
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189026
+	3002.1.1 = {
+		birth = "3002.1.1"
+	}
+	3047.1.1 = {
+		death = "3047.1.1"
+	}
+}
+
+189028 = {
+	name = "Kassapa" # VII
+	dynasty = 1043001
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189026
+	3007.1.1 = {
+		birth = "3007.1.1"
+	}
+	3058.1.1 = {
+		death = "3058.1.1"
+	}
+}
+
+189029 = {
+	name = "Kitti" # Kirti
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189027
+	#mother = daughter of Jagatipala
+	trait = just
+	trait = education_martial_4
+	
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3058.1.1 = {
+		name = "Vijayabahu"
+		trait = zealous
+		trait = ambitious
+		trait = strong
+	}
+	3068.9.15 = {
+		add_pressed_claim = title:c_kotte
+		add_pressed_claim = title:c_kandy
+		add_pressed_claim = title:c_dakhina_desa
+		add_pressed_claim = title:c_phiti
+		add_pressed_claim = title:c_trincomalee
+		add_pressed_claim = title:c_jaffna
+		effect = {
+			random_character_war = {
+				save_scope_as = starting_sinhalese_war
+			}
+			spawn_army = {
+				name = event_troop_default_name
+				levies = 1075‬
+				location = province:3267
+				origin = province:3267
+				war = scope:starting_sinhalese_war
+			}
+			spawn_army = {
+				name = event_troop_default_name
+				levies = 1075
+				location = province:3280
+				origin = province:3267
+				war = scope:starting_sinhalese_war
+			}
+			spawn_army = {
+				name = event_troop_default_name
+				levies = 1075
+				location = province:3267
+				origin = province:3267
+				war = scope:starting_sinhalese_war
+			}
+			spawn_army = {
+				name = event_troop_default_name
+				levies = 1075
+				location = province:3280
+				origin = province:3267
+				war = scope:starting_sinhalese_war
+			}
+			add_gold = 2000 # Need enough gold to pay for army + duchy + kingdom creation.
+			add_prestige = 1000
+		}
+	}
+	3113.1.1 = {
+		death = "3113.1.1"
+	}
+}
+
+189030 = {
+	name = "Vikramabahu" # I
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189029
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3134.1.1 = {
+		death = "3134.1.1"
+	}
+}
+
+189031 = {
+	name = "Jayabahu" # II
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189027
+	#mother = daughter of Jagatipala
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	3113.1.1 = {
+		death = "3113.1.1"
+	}
+}
+
+189032 = {
+	name = "Atitta" #Aditya
+	dynasty = 1043008
+	religion = "krishnaism"
+	culture = "tamil"
+	father = 175080
+	2852.1.1 = {
+		birth = yes
+	}
+	2879.1.1 = {
+		add_spouse = 74419
+	}
+	2909.1.1 = {
+		death = yes
+	}
+}
+
+189151 = {
+	name = "Dharmavantha" #
+	dynasty = 1029192
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189156
+	2832.1.1 = {
+		birth = "2832.1.1"
+	}
+	2902.1.1 = {
+		death = "2902.1.1"
+	}
+}
+189152 = {
+	name = "Vijaya" #
+	dynasty = 1029192
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189151
+	mother = 175105
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2907.1.1 = {
+		death = "2907.1.1"
+	}
+}
+189166 = {
+	name = "Aditya" #
+	dynasty = 1029192
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189151
+	mother = 175105
+	2853.1.1 = {
+		birth = "2853.1.1"
+	}
+	2912.1.1 = {
+		death = "2912.1.1"
+	}
+}
+189165 = {
+	name = "Ananda" #
+	dynasty = 1029192
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189151
+	mother = 175105
+	2854.1.1 = {
+		birth = "2854.1.1"
+	}
+	2917.1.1 = {
+		death = "2917.1.1"
+	}
+}
+189153 = {
+	name = "Kitti" #
+	dynasty = 1029192
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189151
+	mother = 175105
+	2855.1.1 = {
+		birth = "2855.1.1"
+	}
+	2927.1.1 = {
+		death = "2927.1.1"
+	}
+}
+189154 = {
+	name = "Aditya" #Sorudasaruna Aditya
+	dynasty = 1029192
+	religion = "theravada"
+	culture = "sinhala"
+	2762.1.1 = {
+		birth = "2762.1.1"
+	}
+	2822.1.1 = {
+		death = "2822.1.1"
+	}
+}
+189155 = {
+	name = "Dappula" #
+	dynasty = 1029192
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189154
+	2782.1.1 = {
+		birth = "2782.1.1"
+	}
+	2835.1.1 = {
+		death = "2835.1.1"
+	}
+}
+189156 = {
+	name = "Mahanaga" #
+	dynasty = 1029192
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189155
+	2802.1.1 = {
+		birth = "2802.1.1"
+	}
+	2868.1.1 = {
+		death = "2868.1.1"
+	}
+}
+189157 = {
+	name = "Mahasena" #
+	dynasty = 1029192
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189153
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	2956.1.1 = {
+		death = "2956.1.1"
+	}
+}
+189158 = {
+	name = "Dharmavantha" #
+	dynasty = 1029192
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189157
+	2942.1.1 = {
+		birth = "2942.1.1"
+	}
+	2992.1.1 = {
+		death = "2992.1.1"
+	}
+}
+189159 = {
+	name = "Damanhar" #
+	dynasty = 1029192
+	female = yes
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189158
+	2966.1.1 = {
+		birth = "2966.1.1"
+	}
+	2992.1.1 = {
+		add_spouse = 189160
+	}
+	3025.1.1 = {
+		death = "3025.1.1"
+	}
+}
+
+175105 = {
+	name = "Sivali" #
+	dynasty = 1043015
+	female = yes
+	religion = "theravada"
+	culture = "sinhala"
+	2836.1.1 = {
+		birth = "2836.1.1"
+	}
+	2885.1.1 = {
+		death = "2885.1.1"
+	}
+}
+
+189160 = {
+	name = "Baladitya" #
+	dynasty = 1029191
+	religion = "theravada"
+	culture = "sinhala"
+	#father = Kalinga descent; Eastern Ganga dynasty?
+	2962.1.1 = {
+		birth = "2962.1.1"
+	}
+	2992.1.1 = {
+		add_spouse = 189159
+	}
+	3023.1.1 = {
+		death = "3023.1.1"
+	}
+}
+189161 = {
+	name = "Lokabarana" #
+	dynasty = 1029191
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189160
+	mother = 189159
+	2992.1.1 = {
+		birth = "2992.1.1"
+	}
+	3057.1.1 = {
+		death = "3057.1.1"
+	}
+}
+189162 = {
+	name = "Mahasandura" #
+	dynasty = 1029191
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189161
+	3022.1.1 = {
+		birth = "3022.1.1"
+	}
+	3086.1.1 = {
+		death = "3086.1.1"
+	}
+}
+189163 = {
+	name = "Ananda" # Bovana Ananda
+	dynasty = 1029191
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189162
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3119.1.1 = {
+		death = "3119.1.1"
+	}
+}
+189164 = {
+	name = "Koimala" #
+	dynasty = 1029191
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189163
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	3143.1.1 = {
+		death = "3143.1.1"
+	}
+}
+
+217365 = {
+	name = Gajabahu
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189030
+	3092.1.1 = {
+		birth = yes
+	}
+	3162.1.1 = {
+		death = "3134.1.1"
+	}
+}
+217366 = {
+	name = Parakramabahu
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217367
+	mother = 217372
+	trait = ambitious
+	trait = education_intrigue_3
+	trait = architect
+	
+	martial = 8
+	stewardship = 7
+	intrigue = 7
+	
+	3125.1.1 = {
+		birth = yes
+	}
+	3188.1.1 = {
+		death = yes
+	}
+}
+217367 = {
+	name = Manabharana
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	mother = 217369
+	
+	3082.1.1 = { birth = yes }
+	3115.1.1 = { add_spouse = 217372 }
+	3127.1.1 = { death = yes }
+}
+217368 = {
+	name = Kittisrimegha
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	mother = 217369
+	
+	3085.1.1 = { birth = yes }
+	3142.1.1 = { death = yes }
+}
+217369 = {
+	name = Mitta
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	father = 189027
+	female = yes
+	3042.1.1 = { birth = yes }
+	3092.1.1 = { death = yes }
+}
+217370 = {
+	name = Srivallabha
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	mother = 217369
+	
+	3087.1.1 = { birth = yes }
+	3140.1.1 = { death = yes }
+}
+217371 = {
+	name = Lilavati
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217370
+	female = yes
+	
+	3128.1.1 = { birth = yes }
+	3217.1.1 = { death = yes }
+}
+217372 = {
+	name = Ratnavali
+	dynasty = 1029173
+	religion = "theravada"
+	culture = "sinhala"
+	#father =
+	female = yes
+	
+	3098.1.1 = { birth = yes }
+	3158.1.1 = { death = yes }
+}
+217373 = {
+	name = Mitta
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217367
+	mother = 217372
+	female = yes
+	3117.1.1 = { birth = yes }
+	3156.1.1 = { death = yes }
+}
+217374 = {
+	name = Manabharana
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217370
+	
+	3112.1.1 = { birth = yes }
+	3134.1.1 = { add_spouse = 217373 }
+	3164.1.1 = { death = yes }	
+}
+217375 = {
+	name = Vijayabahu
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	mother = 217373 # Unknown which sister of Parakramabahu
+	
+	3144.1.1 = { birth = yes }
+	3189.6.1 = { death = { death_reason = death_murder } }
+}
+217376 = {
+	name = Mahinda
+	dynasty = 1051149
+	religion = "theravada"
+	culture = "sinhala"
+	#father =
+	
+	3137.1.1 = { birth = yes }
+	3189.6.6 = { death = { death_reason = death_execution killer = 217377 } }
+}
+217377 = {
+	name = Nissanka
+	dynasty = 1029195
+	religion = "theravada"
+	culture = "sinhala"
+	father = 191209 # Presumed Kalinga father
+	mother = 217378
+	
+	3160.1.1 = { birth = yes }
+	3177.1.1 = { add_spouse = 217382 }
+	3198.1.1 = { death = yes }
+}
+217378 = {
+	name = Parvati
+	dynasty = 1029172
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217367
+	mother = 217372
+	female = yes
+	
+	3126.1.1 = { birth = yes }
+	3187.1.1 = { death = yes }
+}
+217379 = {
+	name = Virabahu
+	dynasty = 1029195
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217377
+	
+	3179.1.1 = { birth = yes }
+	3198.4.4 = { death = { death_reason = death_execution } }
+}
+217391 = {
+	name = Vikramabahu
+	dynasty = 1029195
+	religion = "theravada"
+	culture = "sinhala"
+	father = 191209 # Presumed Kalinga father
+	mother = 217378
+	
+	3163.1.1 = { birth = yes }
+	3198.7.1 = { death = { death_reason = death_murder } }
+}
+217380 = {
+	name = Chodaganga
+	dynasty = 1029195
+	religion = "theravada"
+	culture = "sinhala"
+	mother = 217381
+	
+	3179.1.1 = { birth = yes }
+	3199.4.1 = { trait = blind }
+	3211.1.1 = { death = yes }
+}
+217381 = {
+	name = Kanatissa # fictional name
+	dynasty = 1029195
+	religion = "theravada"
+	culture = "sinhala"
+	father = 191209 # Presumed Kalinga father
+	mother = 217378
+	female = yes
+	
+	3161.1.1 = { birth = yes }
+	3195.1.1 = { death = yes }
+}
+217382 = {
+	name = Kalyanavati
+	dynasty = 1029171 # Fictitious dynasty assignment, Queen of Nissanka Malla
+	religion = "theravada"
+	culture = "sinhala"
+	female = yes
+	3159.1.1 = { birth = yes }
+	3210.1.1 = { death = yes }
+}
+217383 = {
+	name = Sahassamalla
+	dynasty = 1029195
+	religion = "theravada"
+	culture = "sinhala"
+	father = 191209 # Presumed Kalinga father
+	mother = 217378
+	3166.1.1 = { birth = yes }
+	3204.1.1 = { death = yes }
+}
+217384 = {
+	name = Dharmasoka
+	dynasty = 1029194 # Fictitious dynasty assignment, son of Governor of Maya Rata
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217385
+	3209.9.1 = { birth = yes }
+	3211.4.5 = { death = { death_reason = death_execution killer = 217385 } }
+}
+217385 = {
+	name = Anikanga
+	dynasty = 1029194 # Fictitious dynasty assignment, Governor of Maya Rata
+	religion = "theravada"
+	culture = "sinhala"
+	3191.1.1 = { birth = yes }
+	3211.4.5 = { trait = kinslayer_3 }
+	3211.4.22 = { death = yes }
+}
+217386 = {
+	name = Parakramabahu
+	dynasty = 1029174
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217387
+	
+	3220.1.1 = { birth = yes }
+	3271.1.1 = { death = yes }
+}
+217387 = {
+	name = Vijayabahu # III
+	dynasty = 1029174
+	religion = "theravada"
+	culture = "sinhala"
+	
+	3199.1.1 = { birth = yes }
+	3226.1.1 = { death = yes }
+}
+217388 = {
+	name = Vijayabahu # IV
+	dynasty = 1029174
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217386
+	
+	3241.1.1 = { birth = yes }
+	3272.10.1 = { death = yes }
+}
+217389 = {
+	name = Bhuvanaikabahu
+	dynasty = 1029174
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217386
+	
+	3243.1.1 = { birth = yes }
+	3285.1.1 = { death = yes }
+}
+217392 = {
+	name = Parakkamabahu # III
+	dynasty = 1029174
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217388
+	
+	3264.1.1 = { birth = yes }
+	3312.1.1 = { death = yes }
+}
+217393 = {
+	name = Bhuvanaikabahu # II
+	dynasty = 1029174
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217389
+	
+	3278.1.1 = { birth = yes }
+	3327.1.1 = { death = yes }
+}
+217394 = {
+	name = Parakkamabahu # IV
+	dynasty = 1029174
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217393
+	
+	3300.1.1 = { birth = yes }
+	3331.1.1 = { death = yes }
+}
+217395 = {
+	name = Bhuvanaikabaahu # III
+	dynasty = 1029174
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217393 # Unknown relation
+	
+	3303.1.1 = { birth = yes }
+	3337.1.1 = { death = yes }
+}
+217396 = {
+	name = Vijayabahu # V
+	dynasty = 1029174
+	religion = "theravada"
+	culture = "sinhala"
+	father = 217394 # Unknown relation
+	
+	3323.1.1 = { birth = yes }
+	3346.1.1 = { death = yes }
+}
+
+sinhalese_general_ravideva = {
+	name = Ravideva
+	dynasty = sinhalese_general_ravideva_dynasty  #Dynasty name unknown - fictional name
+	religion = "theravada"
+	culture = "sinhala"
+	
+	3027.1.1 = { birth = yes }
+	3052.1.1 = {
+		trait = education_martial_3
+	}
+	3072.1.1 = { death = yes }
+}
+
+sinhalese_general_chala = {
+	name = Chala
+	dynasty = sinhalese_general_chala_dynasty  #Dynasty name unknown - fictional name
+	religion = "theravada"
+	culture = "sinhala"
+	
+	3029.1.1 = { birth = yes }
+	3068.1.1 = {
+		trait = education_martial_3
+		employer = 189029
+	}
+	3075.1.1 = { death = yes }
+}
+
+sinhalese_ruhuna_monarch_kassapa = {
+	name = Kassapa #True heir to Ruhunu, displaced by Vijayabahu
+	dynasty = sinhala_rohana_samantha #Dynasty name unknown - fictional name
+	religion = "theravada"
+	culture = "sinhala"
+	trait = vengeful
+
+	3012.1.1 = { birth = yes }
+	3062.1.1 = {
+		effect = {
+			add_pressed_claim = title:d_ruhunu
+		}
+	}
+	3082.1.1 = { death = yes }
+}

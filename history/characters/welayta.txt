@@ -1,0 +1,1183 @@
+﻿#Welayta characters
+
+#Orma clans placeholders for c_lag_dera
+
+welayta0001 = {
+	name = "Wuro" #fictional
+	dynasty = welaytadyn001
+	religion = waaqism_pagan
+	culture = welayta
+	2837.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+welayta0002 = {
+	name = "Dwo" #fictional
+	dynasty = welaytadyn001
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0001
+	2872.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+welayta0003 = {
+	name = "Dwo" #fictional
+	dynasty = welaytadyn001
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0002
+	2917.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+welayta0004 = {
+	name = "Wule" #fictional
+	dynasty = welaytadyn001
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0003
+	2975.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+welayta0005 = {
+	name = "Kouka" #fictional
+	dynasty = welaytadyn001
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0004
+	3024.1.1 = {
+		birth = yes
+	}
+	3083.1.1 = {
+		death = yes
+	}
+}
+welayta0006 = {
+	name = "Wuro" #fictional
+	dynasty = welaytadyn001
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0005
+	3064.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+welayta0007 = {
+	name = "Kouka" #fictional
+	dynasty = welaytadyn001
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0006
+	3102.1.1 = {
+		birth = yes
+	}
+	3161.1.1 = {
+		death = yes
+	}
+}
+welayta0008 = {
+	name = "Dwo" #fictional
+	dynasty = welaytadyn001
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0007
+	3144.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+welayta0009 = {
+	name = "Mensah" #fictional
+	dynasty = welaytadyn001
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0008
+	3182.1.1 = {
+		birth = yes
+	}
+	3237.1.1 = {
+		death = yes
+	}
+}
+welayta0010 = {
+	name = "Wule" #fictional
+	dynasty = welaytadyn001
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0009
+	3217.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}
+
+#Samalo clan leaders in c_marsabit and c_fudalhi
+welayta0011 = {
+	name = "Setriakor" #fictional
+	dynasty = welaytadyn002
+	religion = waaqism_pagan
+	culture = welayta
+	2832.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+welayta0012 = {
+	name = "Nusetor" #fictional
+	dynasty = welaytadyn002
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0011
+	2867.1.1 = {
+		birth = yes
+	}
+	2932.1.1 = {
+		death = yes
+	}
+}
+welayta0013 = {
+	name = "Nusesi" #fictional
+	dynasty = welaytadyn002
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0012
+	2912.1.1 = {
+		birth = yes
+	}
+	2985.1.1 = {
+		death = yes
+	}
+}
+welayta0014 = {
+	name = "Coblah" #fictional
+	dynasty = welaytadyn002
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0013
+	2962.1.1 = {
+		birth = yes
+	}
+	3037.1.1 = {
+		death = yes
+	}
+}
+welayta0015 = {
+	name = "Nusesi" #fictional
+	dynasty = welaytadyn002
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0014
+	3020.1.1 = {
+		birth = yes
+	}
+	3077.1.1 = {
+		death = yes
+	}
+}
+welayta0016 = {
+	name = "Nusetor" #fictional
+	dynasty = welaytadyn002
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0015
+	3060.1.1 = {
+		birth = yes
+	}
+	3117.1.1 = {
+		death = yes
+	}
+}
+welayta0017 = {
+	name = "Setriakor" #fictional
+	dynasty = welaytadyn002
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0016
+	3097.1.1 = {
+		birth = yes
+	}
+	3151.1.1 = {
+		death = yes
+	}
+}
+welayta0018 = {
+	name = "Commie" #fictional
+	dynasty = welaytadyn002
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0017
+	3134.1.1 = {
+		birth = yes
+	}
+	3197.1.1 = {
+		death = yes
+	}
+}
+welayta0019 = {
+	name = "Akorli" #fictional
+	dynasty = welaytadyn002
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0018
+	3179.1.1 = {
+		birth = yes
+	}
+	3232.1.1 = {
+		death = yes
+	}
+}
+welayta0020 = {
+	name = "Nusetor" #fictional
+	dynasty = welaytadyn002
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0019
+	3212.1.1 = {
+		birth = yes
+	}
+	3266.1.1 = {
+		death = yes
+	}
+}
+
+#fictional Sidamo confederation leaders in c_sidamo
+welayta0021 = {
+	name = "Atsu" #fictional
+	dynasty = welaytadyn003
+	religion = waaqism_pagan
+	culture = welayta
+	2837.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+welayta0022 = {
+	name = "Adika" #fictional
+	dynasty = welaytadyn003
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0021
+	2872.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+welayta0023 = {
+	name = "Kwakou" #fictional
+	dynasty = welaytadyn003
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0022
+	2917.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+welayta0024 = {
+	name = "Kpodo" #fictional
+	dynasty = welaytadyn003
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0023
+	2975.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+welayta0025 = {
+	name = "Mawuli" #fictional
+	dynasty = welaytadyn003
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0024
+	3024.1.1 = {
+		birth = yes
+	}
+	3083.1.1 = {
+		death = yes
+	}
+}
+welayta0026 = {
+	name = "Agor" #fictional
+	dynasty = welaytadyn003
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0025
+	3064.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+welayta0027 = {
+	name = "Tse" #fictional
+	dynasty = welaytadyn003
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0026
+	3102.1.1 = {
+		birth = yes
+	}
+	3161.1.1 = {
+		death = yes
+	}
+}
+welayta0028 = {
+	name = "Mawuli" #fictional
+	dynasty = welaytadyn003
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0027
+	3144.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+welayta0029 = {
+	name = "Mawulawde" #fictional
+	dynasty = welaytadyn003
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0028
+	3182.1.1 = {
+		birth = yes
+	}
+	3237.1.1 = {
+		death = yes
+	}
+}
+welayta0030 = {
+	name = "Mawuli" #fictional
+	dynasty = welaytadyn003
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0029
+	3217.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_dara and c_burji
+
+welayta0031 = {
+	name = "Egya" #fictional
+	dynasty = welaytadyn004
+	religion = waaqism_pagan
+	culture = welayta
+	2845.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		death = yes
+	}
+}
+welayta0032 = {
+	name = "Wofa" #fictional
+	dynasty = welaytadyn004
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0031
+	2882.1.1 = {
+		birth = yes
+	}
+	2952.1.1 = {
+		death = yes
+	}
+}
+welayta0033 = {
+	name = "Fenuku" #fictional
+	dynasty = welaytadyn004
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0032
+	2932.1.1 = {
+		birth = yes
+	}
+	3007.1.1 = {
+		death = yes
+	}
+}
+welayta0034 = {
+	name = "Bla" #fictional
+	dynasty = welaytadyn004
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0033
+	2992.1.1 = {
+		birth = yes
+	}
+	3060.1.1 = {
+		death = yes
+	}
+}
+welayta0035 = {
+	name = "Bla" #fictional
+	dynasty = welaytadyn004
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0034
+	3042.1.1 = {
+		birth = yes
+	}
+	3104.1.1 = {
+		death = yes
+	}
+}
+welayta0036 = {
+	name = "Wofa" #fictional
+	dynasty = welaytadyn004
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0035
+	3080.1.1 = {
+		birth = yes
+	}
+	3138.1.1 = {
+		death = yes
+	}
+}
+welayta0037 = {
+	name = "Egya" #fictional
+	dynasty = welaytadyn004
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0036
+	3119.1.1 = {
+		birth = yes
+	}
+	3180.1.1 = {
+		death = yes
+	}
+}
+welayta0038 = {
+	name = "Wofa" #fictional
+	dynasty = welaytadyn004
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0037
+	3161.1.1 = {
+		birth = yes
+	}
+	3223.1.1 = {
+		death = yes
+	}
+}
+welayta0039 = {
+	name = "Egya" #fictional
+	dynasty = welaytadyn004
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0038
+	3204.1.1 = {
+		birth = yes
+	}
+	3265.1.1 = {
+		death = yes
+	}
+}
+welayta0040 = {
+	name = "Fenuku" #fictional
+	dynasty = welaytadyn004
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0039
+	3242.1.1 = {
+		birth = yes
+	}
+	3307.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_gamo and c_welamo
+
+welayta0041 = {
+	name = "Sakho" #fictional
+	dynasty = welaytadyn005
+	religion = waaqism_pagan
+	culture = welayta
+	2832.1.1 = {
+		birth = yes
+	}
+	2895.1.1 = {
+		death = yes
+	}
+}
+welayta0042 = {
+	name = "Sorogoye" #fictional
+	dynasty = welaytadyn005
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0041
+	2864.1.1 = {
+		birth = yes
+	}
+	2920.1.1 = {
+		death = yes
+	}
+}
+welayta0043 = {
+	name = "Hain" #fictional
+	dynasty = welaytadyn005
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0042
+	2897.1.1 = {
+		birth = yes
+	}
+	2970.1.1 = {
+		death = yes
+	}
+}
+welayta0044 = {
+	name = "Sorogoye" #fictional
+	dynasty = welaytadyn005
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0043
+	2952.1.1 = {
+		birth = yes
+	}
+	3027.1.1 = {
+		death = yes
+	}
+}
+welayta0045 = {
+	name = "Mawuli" #fictional
+	dynasty = welaytadyn005
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0044
+	3007.1.1 = {
+		birth = yes
+	}
+	3068.1.1 = {
+		death = yes
+	}
+}
+welayta0046 = {
+	name = "Sorogoye" #fictional
+	dynasty = welaytadyn005
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0045
+	3044.1.1 = {
+		birth = yes
+	}
+	3099.1.1 = {
+		death = yes
+	}
+}
+welayta0047 = {
+	name = "Sorogoye" #fictional
+	dynasty = welaytadyn005
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0046
+	3082.1.1 = {
+		birth = yes
+	}
+	3148.1.1 = {
+		death = yes
+	}
+}
+welayta0048 = {
+	name = "Mawuli" #fictional
+	dynasty = welaytadyn005
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0047
+	3117.1.1 = {
+		birth = yes
+	}
+	3175.1.1 = {
+		death = yes
+	}
+}
+welayta0049 = {
+	name = "Sakho" #fictional
+	dynasty = welaytadyn005
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0048
+	3156.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+welayta0050 = {
+	name = "Sakho" #fictional
+	dynasty = welaytadyn005
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0049
+	3188.1.1 = {
+		birth = yes
+	}
+	3246.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of c_gumuz
+welayta0051 = {
+	name = "Faro" #fictional
+	dynasty = welaytadyn006
+	religion = kushitism_pagan
+	culture = welayta
+	2817.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+welayta0052 = {
+	name = "Hainyaho" #fictional
+	dynasty = welaytadyn006
+	religion = kushitism_pagan
+	culture = welayta
+	father = welayta0051
+	2843.1.1 = {
+		birth = yes
+	}
+	2904.1.1 = {
+		death = yes
+	}
+}
+welayta0053 = {
+	name = "Jenaama" #fictional
+	dynasty = welaytadyn006
+	religion = kushitism_pagan
+	culture = welayta
+	father = welayta0052
+	2886.1.1 = {
+		birth = yes
+	}
+	2955.1.1 = {
+		death = yes
+	}
+}
+welayta0054 = {
+	name = "Sorogoye" #fictional
+	dynasty = welaytadyn006
+	religion = kushitism_pagan
+	culture = welayta
+	father = welayta0053
+	2932.1.1 = {
+		birth = yes
+	}
+	3010.1.1 = {
+		death = yes
+	}
+}
+welayta0055 = {
+	name = "Jenaama" #fictional
+	dynasty = welaytadyn006
+	religion = kushitism_pagan
+	culture = welayta
+	father = welayta0054
+	2992.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+welayta0056 = {
+	name = "Faro" #fictional
+	dynasty = welaytadyn006
+	religion = kushitism_pagan
+	culture = welayta
+	father = welayta0055
+	3035.1.1 = {
+		birth = yes
+	}
+	3096.1.1 = {
+		death = yes
+	}
+}
+welayta0057 = {
+	name = "Kotya" #fictional
+	dynasty = welaytadyn006
+	religion = kushitism_pagan
+	culture = welayta
+	father = welayta0056
+	3079.1.1 = {
+		birth = yes
+	}
+	3142.1.1 = {
+		death = yes
+	}
+}
+welayta0058 = {
+	name = "Hainyaho" #fictional
+	dynasty = welaytadyn006
+	religion = kushitism_pagan
+	culture = welayta
+	father = welayta0057
+	3122.1.1 = {
+		birth = yes
+	}
+	3183.1.1 = {
+		death = yes
+	}
+}
+welayta0059 = {
+	name = "Kotya" #fictional
+	dynasty = welaytadyn006
+	religion = kushitism_pagan
+	culture = welayta
+	father = welayta0058
+	3161.1.1 = {
+		birth = yes
+	}
+	3218.1.1 = {
+		death = yes
+	}
+}
+welayta0060 = {
+	name = "Faro" #fictional
+	dynasty = welaytadyn006
+	religion = kushitism_pagan
+	culture = welayta
+	father = welayta0059
+	3195.1.1 = {
+		birth = yes
+	}
+	3256.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_berta
+welayta0061 = {
+	name = "Kotya" #fictional
+	dynasty = welaytadyn007
+	religion = waaqism_pagan
+	culture = welayta
+	2837.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+welayta0062 = {
+	name = "Faro" #fictional
+	dynasty = welaytadyn007
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0061
+	2872.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+welayta0063 = {
+	name = "Kotya" #fictional
+	dynasty = welaytadyn007
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0062
+	2917.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+welayta0064 = {
+	name = "Hain" #fictional
+	dynasty = welaytadyn007
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0063
+	2975.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+welayta0065 = {
+	name = "Sorogoye" #fictional
+	dynasty = welaytadyn007
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0064
+	3024.1.1 = {
+		birth = yes
+	}
+	3083.1.1 = {
+		death = yes
+	}
+}
+welayta0066 = {
+	name = "Kotya" #fictional
+	dynasty = welaytadyn007
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0065
+	3064.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+welayta0067 = {
+	name = "Kotya" #fictional
+	dynasty = welaytadyn007
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0066
+	3102.1.1 = {
+		birth = yes
+	}
+	3161.1.1 = {
+		death = yes
+	}
+}
+welayta0068 = {
+	name = "Sorogoye" #fictional
+	dynasty = welaytadyn007
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0067
+	3144.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+welayta0069 = {
+	name = "Hain" #fictional
+	dynasty = welaytadyn007
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0068
+	3182.1.1 = {
+		birth = yes
+	}
+	3237.1.1 = {
+		death = yes
+	}
+}
+welayta0070 = {
+	name = "Sorogoye" #fictional
+	dynasty = welaytadyn007
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0069
+	3217.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}
+
+#Kaffa - Manjo people of Kaffa and Wellega
+welayta0071 = {
+	name = "Dwo" #fictional
+	dynasty = welaytadyn008
+	religion = waaqism_pagan
+	culture = welayta
+	2844.1.1 = {
+		birth = yes
+	}
+	2900.1.1 = {
+		death = yes
+	}
+}
+welayta0072 = {
+	name = "Wuro" #fictional
+	dynasty = welaytadyn008
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0071
+	2882.1.1 = {
+		birth = yes
+	}
+	2952.1.1 = {
+		death = yes
+	}
+}
+welayta0073 = {
+	name = "welayta" #fictional
+	dynasty = welaytadyn008
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0072
+	2927.1.1 = {
+		birth = yes
+	}
+	3002.1.1 = {
+		death = yes
+	}
+}
+welayta0074 = {
+	name = "Wule" #fictional
+	dynasty = welaytadyn008
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0073
+	2982.1.1 = {
+		birth = yes
+	}
+	3037.1.1 = {
+		death = yes
+	}
+}
+welayta0075 = {
+	name = "Wuro" #fictional
+	dynasty = welaytadyn008
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0074
+	3017.1.1 = {
+		birth = yes
+	}
+	3072.1.1 = {
+		death = yes
+	}
+}
+welayta0076 = {
+	name = "Wuro" #fictional
+	dynasty = welaytadyn008
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0075
+	3047.1.1 = {
+		birth = yes
+	}
+	3100.1.1 = {
+		death = yes
+	}
+}
+welayta0077 = {
+	name = "Wuro" #fictional
+	dynasty = welaytadyn008
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0076
+	3074.1.1 = {
+		birth = yes
+	}
+	3135.1.1 = {
+		death = yes
+	}
+}
+welayta0078 = {
+	name = "Wuro" #fictional
+	dynasty = welaytadyn008
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0077
+	3101.1.1 = {
+		birth = yes
+	}
+	3165.1.1 = {
+		death = yes
+	}
+}
+welayta0079 = {
+	name = "Wuro" #fictional
+	dynasty = welaytadyn008
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0078
+	3134.1.1 = {
+		birth = yes
+	}
+	3197.1.1 = {
+		death = yes
+	}
+}
+welayta0080 = {
+	name = "Wuro" #fictional
+	dynasty = welaytadyn008
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0079
+	3170.1.1 = {
+		birth = yes
+	}
+	3223.1.1 = {
+		death = yes
+	}
+}
+
+#not used yet - templates in c_worodugu
+welayta0081 = {
+	name = "Mawuli" #fictional
+	dynasty = welaytadyn009
+	religion = waaqism_pagan
+	culture = welayta
+	2852.1.1 = {
+		birth = yes
+	}
+	2914.1.1 = {
+		death = yes
+	}
+}
+welayta0082 = {
+	name = "Kwakou" #fictional
+	dynasty = welaytadyn009
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0081
+	2897.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+welayta0083 = {
+	name = "Kwakou" #fictional
+	dynasty = welaytadyn009
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0082
+	2954.1.1 = {
+		birth = yes
+	}
+	3027.1.1 = {
+		death = yes
+	}
+}
+welayta0084 = {
+	name = "Coblah" #fictional
+	dynasty = welaytadyn009
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0083
+	3002.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+welayta0085 = {
+	name = "Egya" #fictional
+	dynasty = welaytadyn009
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0084
+	3040.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+welayta0086 = {
+	name = "Mawuli" #fictional
+	dynasty = welaytadyn009
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0085
+	3067.1.1 = {
+		birth = yes
+	}
+	3129.1.1 = {
+		death = yes
+	}
+}
+welayta0087 = {
+	name = "Wofa" #fictional
+	dynasty = welaytadyn009
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0086
+	3100.1.1 = {
+		birth = yes
+	}
+	3160.1.1 = {
+		death = yes
+	}
+}
+welayta0088 = {
+	name = "Atsu" #fictional
+	dynasty = welaytadyn009
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0087
+	3137.1.1 = {
+		birth = yes
+	}
+	3191.1.1 = {
+		death = yes
+	}
+}
+welayta0089 = {
+	name = "Kwakou" #fictional
+	dynasty = welaytadyn009
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0088
+	3175.1.1 = {
+		birth = yes
+	}
+	3230.1.1 = {
+		death = yes
+	}
+}
+welayta0090 = {
+	name = "Wofa" #fictional
+	dynasty = welaytadyn009
+	religion = waaqism_pagan
+	culture = welayta
+	father = welayta0089
+	3209.1.1 = {
+		birth = yes
+	}
+	3271.1.1 = {
+		death = yes
+	}
+}

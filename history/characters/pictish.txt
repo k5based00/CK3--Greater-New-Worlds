@@ -1,0 +1,1966 @@
+﻿166513 = {
+	name = "Argentocoxos"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	2189.1.1 = {
+		birth = yes
+	}
+	2250.1.1 = {
+		death = yes
+	}
+}
+
+166514 = {
+	name = "Ru"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166513
+	2214.1.1 = {
+		birth = yes
+	}
+	2273.1.1 = {
+		death = yes
+	}
+}
+
+166515 = {
+	name = "Buthut"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166514
+	2238.1.1 = {
+		birth = yes
+	}
+	2297.1.1 = {
+		death = yes
+	}
+}
+
+166516 = {
+	name = "Ganant" #Gartnait Ioc
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166514
+	2244.1.1 = {
+		birth = yes
+	}
+	2306.1.1 = {
+		death = yes
+	}
+}
+
+166517 = {
+	name = "Breth"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166515
+	2262.1.1 = {
+		birth = yes
+	}
+	2313.1.1 = {
+		death = yes
+	}
+}
+
+166518 = {
+	name = "Uipoig"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166516
+	2270.1.1 = {
+		birth = yes
+	}
+	2343.1.1 = {
+		death = yes
+	}
+}
+
+166519 = {
+	name = "Canutulachama"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166516
+	2277.1.1 = {
+		birth = yes
+	}
+	2347.1.1 = {
+		death = yes
+	}
+}
+
+166520 = {
+	name = "Uuredach"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166518
+	2288.1.1 = {
+		birth = yes
+	}
+	2349.1.1 = {
+		death = yes
+	}
+}
+
+166521 = {
+	name = "Ganant"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166520
+	2307.1.1 = {
+		birth = yes
+	}
+	2389.1.1 = {
+		death = yes
+	}
+}
+
+166522 = {
+	name = "Ceother"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166520
+	2310.1.1 = {
+		birth = yes
+	}
+	2390.1.1 = {
+		death = yes
+	}
+}
+
+166523 = {
+	name = "Aniel"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166519
+	2300.1.1 = {
+		birth = yes
+	}
+	2391.1.1 = {
+		death = yes
+	}
+}
+
+166524 = {
+	name = "Telurg"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166523
+	2375.1.1 = {
+		birth = yes
+	}
+	2458.1.1 = {
+		death = yes
+	}
+}
+
+166525 = {
+	name = "Telurg"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166522
+	2339.1.1 = {
+		birth = yes
+	}
+	2414.1.1 = {
+		death = yes
+	}
+}
+
+166526 = {
+	name = "Uuirp"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166521
+	2349.1.1 = {
+		birth = yes
+	}
+	2417.1.1 = {
+		death = yes
+	}
+}
+
+166527 = {
+	name = "Drest"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166526
+	2379.1.1 = {
+		birth = yes
+	}
+	2454.1.1 = {
+		death = yes
+	}
+}
+
+166528 = {
+	name = "Naiton"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166526
+	2412.1.1 = {
+		birth = yes
+	}
+	2482.1.1 = {
+		death = yes
+	}
+}
+
+166529 = {
+	name = "Brude"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166525
+	2377.1.1 = {
+		birth = yes
+	}
+	2444.1.1 = {
+		death = yes
+	}
+}
+
+166530 = {
+	name = "Drest"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166529
+	2440.1.1 = {
+		birth = yes
+	}
+	2512.1.1 = {
+		death = yes
+	}
+}
+
+166531 = {
+	name = "Galam"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166529
+	2442.1.1 = {
+		birth = yes
+	}
+	2524.1.1 = {
+		death = yes
+	}
+}
+
+166532 = {
+	name = "Uudrost"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166530
+	2464.1.1 = {
+		birth = yes
+	}
+	2522.1.1 = {
+		death = yes
+	}
+}
+
+166533 = {
+	name = "Drest"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166532
+	2482.1.1 = {
+		birth = yes
+	}
+	2532.1.1 = {
+		death = yes
+	}
+}
+
+166534 = {
+	name = "Girom"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166531
+	2464.1.1 = {
+		birth = yes
+	}
+	2516.1.1 = {
+		death = yes
+	}
+}
+
+166535 = {
+	name = "Drest"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166534
+	2486.1.1 = {
+		birth = yes
+	}
+	2533.1.1 = {
+		death = yes
+	}
+}
+
+166536 = {
+	name = "Ganant"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166534
+	2489.1.1 = {
+		birth = yes
+	}
+	2539.1.1 = {
+		death = yes
+	}
+}
+
+166537 = {
+	name = "Caltram"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166534
+	2489.1.1 = {
+		birth = yes
+	}
+	2540.1.1 = {
+		death = yes
+	}
+}
+
+166538 = {
+	name = "Murtolic"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166534
+	2488.1.1 = {
+		birth = yes
+	}
+	2532.1.1 = {
+		death = yes
+	}
+}
+
+166539 = {
+	name = "Manath"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166534
+	2491.1.1 = {
+		birth = yes
+	}
+	2530.1.1 = {
+		death = yes
+	}
+}
+
+166540 = {
+	name = "Telurg"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166538
+	2504.1.1 = {
+		birth = yes
+	}
+	2551.1.1 = {
+		death = yes
+	}
+}
+
+166541 = {
+	name = "Drest"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166539
+	2507.1.1 = {
+		birth = yes
+	}
+	2552.1.1 = {
+		death = yes
+	}
+}
+
+166542 = {
+	name = "Galam" #Galam Cennalath
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166541
+	2528.1.1 = {
+		birth = yes
+	}
+	2582.1.1 = {
+		death = yes
+	}
+}
+
+166543 = {
+	name = "Uuirp"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	2477.1.1 = {
+		birth = yes
+	}
+	2533.1.1 = {
+		death = yes
+	}
+}
+
+166544 = {
+	name = "Maelchon"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166543
+	2500.1.1 = {
+		birth = yes
+	}
+	2554.1.1 = {
+		death = yes
+	}
+}
+
+166545 = {
+	name = "Bridei"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166544
+	2530.1.1 = {
+		birth = yes
+	}
+	2586.1.1 = {
+		death = yes
+	}
+}
+
+166546 = {
+	name = "Domelch"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166543
+	2502.1.1 = {
+		birth = yes
+	}
+	2545.1.1 = {
+		death = yes
+	}
+}
+
+166547 = {
+	name = "Ganant"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166546
+	2540.1.1 = {
+		birth = yes
+	}
+	2597.1.1 = {
+		death = yes
+	}
+}
+
+166548 = {
+	name = "Canu"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "pagan"
+	culture = "pictish"
+	father = 166543
+	2505.1.1 = {
+		birth = yes
+	}
+	2554.1.1 = {
+		death = yes
+	}
+}
+
+166549 = {
+	name = "Naiton"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166548
+	2546.1.1 = {
+		birth = yes
+	}
+	2618.1.1 = {
+		death = yes
+	}
+}
+
+166550 = {
+	name = "Lutrin"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166545
+	2552.1.1 = {
+		birth = yes
+	}
+	2595.1.1 = {
+		death = yes
+	}
+}
+
+166551 = {
+	name = "Ciniod"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166550
+	2579.1.1 = {
+		birth = yes
+	}
+	2633.1.1 = {
+		death = yes
+	}
+}
+
+166552 = {
+	name = "Uuid"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166548
+	2551.1.1 = {
+		birth = yes
+	}
+	2602.1.1 = {
+		death = yes
+	}
+}
+
+166553 = {
+	name = "Aniel"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166542
+	2555.1.1 = {
+		birth = yes
+	}
+	2629.1.1 = {
+		death = yes
+	}
+}
+
+166554 = {
+	name = "Telurg"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166553
+	2583.1.1 = {
+		birth = yes
+	}
+	2670.1.1 = {
+		death = yes
+	}
+}
+
+166555 = {
+	name = "Ganant"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166552
+	2579.1.1 = {
+		birth = yes
+	}
+	2637.1.1 = {
+		death = yes
+	}
+}
+
+166556 = {
+	name = "Bridei"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166552
+	2586.1.1 = {
+		birth = yes
+	}
+	2643.1.1 = {
+		death = yes
+	}
+}
+
+166557 = {
+	name = "Telurg"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166552
+	2590.1.1 = {
+		birth = yes
+	}
+	2655.1.1 = {
+		death = yes
+	}
+}
+
+166558 = {
+	name = "Bride"
+	female = yes
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166556
+	2602.1.1 = {
+		birth = yes
+	}
+	2657.1.1 = {
+		death = yes
+	}
+}
+
+166559 = {
+	name = "Telurgan"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 205211# son of Eanfrith of Bernicia
+	mother = 166558
+	2620.1.1 = {
+		birth = yes
+	}
+	2659.1.1 = {
+		death = yes
+	}
+}
+
+166560 = {
+	name = "Domelch"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166555
+	2602.1.1 = {
+		birth = yes
+	}
+	2623.1.1 = {
+		add_spouse = 166567
+	}
+	2650.1.1 = {
+		death = yes
+	}
+}
+
+166561 = {
+	name = "Ganant"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166560
+	mother = 166567
+	2624.1.1 = {
+		birth = yes
+	}
+	2665.1.1 = {
+		death = yes
+	}
+}
+
+166562 = {
+	name = "Drest"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166560
+	mother = 166567
+	2626.1.1 = {
+		birth = yes
+	}
+	2674.1.1 = {
+		death = yes
+	}
+}
+
+166563 = {
+	name = "E_thelthryth"
+	female = yes
+	dynasty = 1047009
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	#father = #Edwin of Northumbria
+	#mother = #Æthelburg of Kent
+	2622.1.1 = {
+		birth = yes
+	}
+	2677.1.1 = {
+		death = yes
+	}
+}
+
+166564 = {
+	name = "Uist"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166551
+	2613.1.1 = {
+		birth = yes
+	}
+	2669.1.1 = {
+		death = yes
+	}
+}
+
+166565 = {
+	name = "Bili"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166549
+	2617.1.1 = {
+		birth = yes
+	}
+	2639.1.1 = {
+		add_spouse = 166563
+	}
+	2671.1.1 = {
+		death = yes
+	}
+}
+
+166566 = {
+	name = "Bridei"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166565
+	mother = 166563
+	2640.1.1 = {
+		birth = yes
+	}
+	2658.1.1 = {
+		add_spouse = 166569
+	}
+	2695.1.1 = {
+		death = yes
+	}
+}
+
+166567 = {
+	name = "Mor"
+	female = yes
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166554
+	2607.1.1 = {
+		birth = yes
+	}
+	2662.1.1 = {
+		death = yes
+	}
+}
+
+166568 = {
+	name = "Enuidaig"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166564
+	2657.1.1 = {
+		birth = yes
+	}
+	2675.1.1 = {
+		add_spouse = 166570
+	}
+	2677.1.1 = {
+		death = yes
+	}
+}
+
+166569 = {
+	name = "Uunis"
+	female = yes
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166562
+	2642.1.1 = {
+		birth = yes
+	}
+	2701.1.1 = {
+		death = yes
+	}
+}
+
+166570 = {
+	name = "Der-Ilei"
+	female = yes
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166566
+	mother = 166569
+	2659.1.1 = {
+		birth = yes
+	}
+	2678.1.1 = {
+		add_spouse = 166572
+	}
+	2724.1.1 = {
+		death = yes
+	}
+}
+
+166571 = {
+	name = "Taran"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166568
+	mother = 166570
+	2676.1.1 = {
+		birth = yes
+	}
+	2699.1.1 = {
+		death = yes
+	}
+}
+
+
+
+166573 = {
+	name = "Bridei"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166572
+	mother = 166570
+	2679.1.1 = {
+		birth = yes
+	}
+	2708.1.1 = {
+		death = yes
+	}
+}
+
+166574 = {
+	name = "Naiton"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166572
+	mother = 166570
+	2682.1.1 = {
+		birth = yes
+	}
+	2736.1.1 = {
+		death = yes
+	}
+}
+
+166575 = {
+	name = "Drest"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166561
+	2693.1.1 = {
+		birth = yes
+	}
+	2734.1.1 = {
+		death = yes
+	}
+}
+
+166576 = {
+	name = "Elpin"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166571
+	2696.1.1 = {
+		birth = yes
+	}
+	2744.1.1 = {
+		death = yes
+	}
+}
+
+166577 = {
+	name = "Drosten"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166554
+	2614.1.1 = {
+		birth = yes
+	}
+	2675.1.1 = {
+		death = yes
+	}
+}
+
+166578 = {
+	name = "Lutrin"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166577
+	2646.1.1 = {
+		birth = yes
+	}
+	2689.1.1 = {
+		death = yes
+	}
+}
+
+166579 = {
+	name = "Galam"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166578
+	2670.1.1 = {
+		birth = yes
+	}
+	2714.1.1 = {
+		death = yes
+	}
+}
+
+166580 = {
+	name = "Uuredach"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166579
+	2696.1.1 = {
+		birth = yes
+	}
+	2719.1.1 = {
+		add_spouse = 166582
+	}
+	2739.1.1 = {
+		death = yes
+	}
+}
+
+166581 = {
+	name = "Uuroid"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166579
+	2699.1.1 = {
+		birth = yes
+	}
+	2744.1.1 = {
+		death = yes
+	}
+}
+
+
+
+166583 = {
+	name = "Ciniod"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166580
+	mother = 166582
+	2725.1.1 = {
+		birth = yes
+	}
+	2777.1.1 = {
+		death = yes
+	}
+}
+
+166584 = {
+	name = "Elpin"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166581
+	2722.1.1 = {
+		birth = yes
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+
+166585 = {
+	name = "Tarla"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166583
+	2746.1.1 = {
+		birth = yes
+	}
+	2787.1.1 = {
+		death = yes
+	}
+}
+
+166586 = {
+	name = "Canuall"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166585
+	2762.1.1 = {
+		birth = yes
+	}
+	2809.1.1 = {
+		death = yes
+	}
+}
+
+166587 = {
+	name = "Uthoil"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166584
+	2739.1.1 = {
+		birth = yes
+	}
+	2812.1.1 = {
+		death = yes
+	}
+}
+
+166588 = {
+	name = "Telurg"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166587
+	2767.1.1 = {
+		birth = yes
+	}
+	2839.7.1 = {
+		death = yes
+	}
+}
+
+166589 = {
+	name = "Bargoit"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166586
+	2786.1.1 = {
+		birth = yes
+	}
+	2841.1.1 = {
+		death = yes
+	}
+}
+
+166590 = {
+	name = "Uurad"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166589
+	2804.1.1 = {
+		birth = yes
+	}
+	2844.1.1 = {
+		death = yes
+	}
+}
+
+166591 = {
+	name = "Bridei"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166587
+	2775.1.1 = {
+		birth = yes
+	}
+	2847.1.1 = {
+		death = yes
+	}
+}
+
+166592 = {
+	name = "Bridei"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166590
+	2820.1.1 = {
+		birth = yes
+	}
+	2845.7.1 = {
+		death = yes
+	}
+}
+
+166593 = {
+	name = "Ciniod"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166590
+	2822.1.1 = {
+		birth = yes
+	}
+	2846.1.1 = {
+		death = yes
+	}
+}
+
+166594 = {
+	name = "Drest"
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166590
+	2824.1.1 = {
+		birth = yes
+	}
+	2850.1.1 = {
+		death = yes
+	}
+}
+
+166595 = {
+	name = "Urguist"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	2667.1.1 = {
+		birth = yes
+	}
+	2692.1.1 = {
+		add_spouse = 166596
+	}
+	2731.1.1 = {
+		death = yes
+	}
+}
+
+166596 = {
+	name = "Brethoc"
+	female = yes
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166562
+	2672.1.1 = {
+		birth = yes
+	}
+	2717.1.1 = {
+		death = yes
+	}
+}
+
+166597 = {
+	name = "Unuist"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166595
+	mother = 166596
+	2694.1.1 = {
+		birth = yes
+	}
+	2730.1.1 = {
+		add_spouse = 166611
+	}
+	2763.1.1 = {
+		death = yes
+	}
+}
+
+166598 = {
+	name = "Telurgan"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166595
+	mother = 166596
+	2697.1.1 = {
+		birth = yes
+	}
+	2752.1.1 = {
+		death = yes
+	}
+}
+
+166599 = {
+	name = "Bridei"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166595
+	mother = 166596
+	2702.1.1 = {
+		birth = yes
+	}
+	2765.1.1 = {
+		death = yes
+	}
+}
+
+166600 = {
+	name = "Drest"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166598
+	2724.1.1 = {
+		birth = yes
+	}
+	2785.1.1 = {
+		death = yes
+	}
+}
+
+166601 = {
+	name = "Telurg"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166600
+	2752.1.1 = {
+		birth = yes
+	}
+	2784.1.1 = {
+		death = yes
+	}
+}
+
+166602 = {
+	name = "Telurg"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166597
+	mother = 166611
+	2736.1.1 = {
+		birth = yes
+	}
+	2787.1.1 = {
+		death = yes
+	}
+}
+
+166603 = {
+	name = "Urguist"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166597
+	mother = 166611
+	2732.1.1 = {
+		birth = yes
+	}
+	2772.1.1 = {
+		death = yes
+	}
+}
+
+166604 = {
+	name = "Castantin"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166603
+	2757.1.1 = {
+		birth = yes
+	}
+	2822.1.1 = {
+		death = yes
+	}
+}
+
+166605 = {
+	name = "Unuist"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166603
+	2770.1.1 = {
+		birth = yes
+	}
+	2836.1.1 = {
+		death = yes
+	}
+}
+
+166606 = {
+	name = "Drest"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166604
+	2779.1.1 = {
+		birth = yes
+	}
+	2839.1.1 = {
+		death = yes
+	}
+}
+
+166607 = {
+	name = "Uuen"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166605
+	2794.1.1 = {
+		birth = yes
+	}
+	2841.1.1 = {
+		death = yes
+	}
+}
+
+166608 = {
+	name = "Bran"
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166605
+	2802.1.1 = {
+		birth = yes
+	}
+	2841.1.1 = {
+		death = yes
+	}
+}
+
+166609 = {
+	name = "Uunis"
+	female = yes
+	dynasty = 1040018
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166605
+	2792.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+
+166610 = {
+	name = "Muriel"
+	female = yes
+	dynasty = 1040011
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166589
+	2813.1.1 = {
+		birth = yes
+	}
+	2862.1.1 = {
+		death = yes
+	}
+}
+
+166611 = {
+	name = "Caitrion"
+	female = yes
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166574
+	2705.1.1 = {
+		birth = yes
+	}
+	2762.1.1 = {
+		death = yes
+	}
+}
+
+# Ce - Buchan
+
+166612 = {
+	name = "Broichan"
+	dynasty = 1040017
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	2744.1.1 = {
+		birth = yes
+	}
+	2795.1.1 = {
+		death = yes
+	}
+}
+
+# Cait - Shetland
+
+166613 = {
+	name = "Uipoig"
+	dynasty = 1040014
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166614
+	2752.1.1 = {
+		birth = yes
+	}
+	2796.1.1 = {
+		death = yes
+	}
+}
+
+# Cait - Caithness
+
+166614 = {
+	name = "Caruorst"
+	dynasty = 1040014
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	2730.1.1 = {
+		birth = yes
+	}
+	2777.1.1 = {
+		death = yes
+	}
+}
+
+# Orkney
+
+166615 = {
+	name = "Ru"
+	dynasty = 1040019
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	2746.1.1 = {
+		birth = yes
+	}
+	2791.1.1 = {
+		death = yes
+	}
+}
+
+# Faroes
+
+166616 = {
+	name = "Allcallorred"
+	dynasty = 1040020
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	2702.1.1 = {
+		birth = yes
+	}
+	2774.1.1 = {
+		death = yes
+	}
+}
+
+# Fidach - Ross
+
+166617 = {
+	name = "Ganant"
+	dynasty = 1040016
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	2744.1.1 = {
+		birth = yes
+	}
+	2803.1.1 = {
+		death = yes
+	}
+}
+
+# Fotla - Atholl
+
+166618 = {
+	name = "Pidarnoin"
+	dynasty = 1040015
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	2732.1.1 = {
+		birth = yes
+	}
+	2796.1.1 = {
+		death = yes
+	}
+}
+
+# Fortriu
+
+166619 = {
+	name = "Gede"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166574
+	2707.1.1 = {
+		birth = yes
+	}
+	2751.1.1 = {
+		death = yes
+	}
+}
+
+166620 = {
+	name = "Bran"
+	dynasty = 1040012
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "pictish"
+	father = 166619
+	2735.1.1 = {
+		birth = yes
+	}
+	2792.1.1 = {
+		death = yes
+	}
+}

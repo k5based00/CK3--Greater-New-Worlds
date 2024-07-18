@@ -1,0 +1,7937 @@
+﻿986 = {  	
+	name = "Donald"
+	# AKA: Domnall 'Ban'
+	dna = 986_donald
+	dynasty = 1687
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = cynical
+	trait = ambitious
+	trait = beauty_good_2
+	trait = education_martial_3
+	father = 982
+	mother = 193
+	3034.12.2 = {
+		birth = "3034.12.2"
+	}
+	3068.1.1 = {
+		give_nickname = nick_the_fair
+		add_pressed_claim = title:k_scotland
+	}
+	3101.2.2 = {
+		trait = blind
+		death = "3101.2.2"
+	}
+}
+
+988 = {  	
+	name = "Duncan"
+	# AKA: Donnchad
+	dna = 988_duncan
+	dynasty = 1687
+	martial = 8
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_learning_2
+	father = 984
+	mother = 102505
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3096.11.12 = {
+		death = "3096.11.12"
+	}
+}
+
+992 = {  	
+	name = "Donald"
+	dynasty = 1687
+	martial = 8
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = arbitrary
+	father = 984
+	mother = 102505
+	3063.1.1 = {
+		birth = "3063.1.1"
+	}
+	3087.1.1 = {
+		death = "3087.1.1"
+	}
+}
+
+994 = {  	
+	name = "Malmure"
+	# AKA: Mael Muire
+	dynasty = 1687
+	martial = 8
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = content
+	trait = education_learning_3
+	trait = legitimized_bastard
+	father = 982
+	3043.1.1 = {
+		birth = "3043.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+6005 = {  	
+	name = "Dubacan"
+	dynasty = 20083
+	martial = 8
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	3002.1.2 = {
+		birth = "3002.1.2"
+	}
+	3052.1.2 = {
+		death = "3052.1.2"
+	}
+}
+
+6007 = {  	
+	name = "Fenella"
+	female = yes
+	dynasty = 20083
+	martial = 8
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 6005
+	3032.1.2 = {
+		birth = "3032.1.2"
+	}
+	3066.1.2 = {
+		death = "3066.1.2"
+	}
+}
+
+6012 = {  	
+	name = "Angus"
+	dynasty = 3104
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 6010
+	mother = 6009
+	3080.1.1 = {
+		birth = "3080.1.1"
+	}
+	3132.4.16 = {
+		death = "3132.4.16"
+	}
+}
+
+6014 = {  	
+	name = "Malcolm"
+	dynasty = 3104
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	father = 6010
+	mother = 6009
+	3081.7.1 = {
+		birth = "3081.7.1"
+	}
+	3118.7.1 = {
+		death = "3118.7.1"
+	}
+}
+
+7388 = {  	
+	name = "Bethoc"
+	female = yes
+	dynasty = 1687
+	religion = "catholic"
+	culture = "scottish"
+	father = 986
+	3081.1.1 = {
+		birth = "3081.1.1"
+	}
+	3152.1.1 = {
+		death = "3152.1.1"
+	}
+}
+
+7389 = {
+	name = "Malcolm"
+	dynasty_house = house_british_isles_atholl
+	religion = "catholic"
+	culture = "scottish"
+	father = 7390
+	mother = 220037
+	3125.1.1 = {
+		birth = "3125.1.1"
+	}
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+7390 = {  	
+	name = "Matad"
+	dynasty = 1687
+	religion = "catholic"
+	culture = "scottish"
+	father = 994
+	3098.1.1 = {
+		birth = "3098.1.1"
+	}
+	3155.1.1 = {
+		death = "3155.1.1"
+	}
+}
+
+7391 = {  	
+	name = "Angus"
+	dynasty = 25046
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 220031
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3298.1.1 = {
+		death = "3298.1.1"
+	}
+}
+
+20071 = {  	
+	name = "Malpeder"
+	dynasty = 20083
+	martial = 8
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = craven
+	trait = education_intrigue_2
+	father = 6005
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3064.1.1 = {
+		add_spouse = 4071
+	}
+	3099.7.1 = {
+		death = "3099.7.1"
+	}
+}
+
+20075 = {  	
+	name = "Martachus" #'Martachus'
+	dynasty = 100042
+	martial = 5
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	mother = 4071
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+131003 = {  	
+	name = "Der-Ilei"
+	# AKA: Der
+	female = yes
+	dynasty = 100046
+	martial = 3
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = cynical
+	trait = education_diplomacy_2
+	3032.1.2 = {
+		birth = "3032.1.2"
+	}
+	3082.1.2 = {
+		death = "3082.1.2"
+	}
+}
+
+131101 = {  	
+	name = "Suibne"
+	dynasty_house = house_british_isles_argyll
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	father = 976
+	2972.1.2 = {
+		birth = "2972.1.2"
+	}
+	3036.1.2 = {
+		death = "3036.1.2"
+	}
+}
+
+131102 = {  	
+	name = "Solam"
+	dynasty_house = house_british_isles_argyll
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = arbitrary
+	father = 131101
+	3002.1.2 = {
+		birth = "3002.1.2"
+	}
+	3047.1.2 = {
+		death = "3047.1.2"
+	}
+}
+
+131103 = {  	
+	name = "Giladuenan"
+	# AKA: Gilla Adamnain
+	dynasty_house = house_british_isles_argyll
+	martial = 4
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = just
+	father = 131102
+	3022.1.2 = {
+		birth = yes
+	}
+	3047.1.2 = {
+		death = "3047.1.2"
+	}
+}
+
+202968 = {  	
+	name = "Edgar"
+	# AKA: Donnchad
+	dynasty = 1687
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 984
+	mother = 113
+	3076.1.1 = {
+		birth = "3076.1.1"
+	}
+	3109.1.8 = {
+		death = "3109.1.8"
+	}
+}
+
+202998 = {  	
+	name = "David"
+	# AKA: Dabid
+	dynasty = 1687
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 984
+	mother = 113
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3115.1.1 = {
+		add_spouse = 199
+	}
+	3155.1.25 = {
+		death = "3155.1.25"
+	}
+}
+
+202969 = {  	
+	name = "William"
+	dynasty = 101901
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_3
+	father = 988
+	3093.1.1 = {
+		birth = "3093.1.1"
+	}
+	3156.1.13 = {
+		death = "3156.1.13"
+	}
+}
+
+202971 = {  	
+	name = "Donald" #Domnall Mac Uilleim
+	dynasty = 101901
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = arrogant
+	trait = diligent
+	trait = education_martial_2
+	father = 202969
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3176.1.1 = {
+		add_spouse = 202972
+	}
+	3189.7.1 = {
+		death = "3189.7.1"
+	}
+}
+
+
+202972 = {  	
+	name = "Gruoch"
+	female = yes
+	dynasty = 100040
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = temperate
+	trait = education_learning_2
+	3157.1.1 = {
+		birth = "3157.1.1"
+	}
+	3207.1.1 = {
+		death = "3207.1.1"
+	}
+}
+
+202973 = {  	
+	name = "Godfrey"
+	dynasty = 101901
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = generous
+	trait = arrogant
+	trait = wrathful
+	trait = education_martial_2
+	father = 202971
+	mother = 202972
+	3177.1.1 = {
+		birth = "3177.1.1"
+	}
+	3215.1.1 = {
+		death = "3215.1.1"
+	}
+}
+
+202974 = {  	
+	name = "Donald" #Domnall Bán
+	dynasty = 101901
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = temperate
+	trait = education_martial_2
+	father = 202971
+	mother = 202972
+	3178.1.1 = {
+		birth = "3178.1.1"
+	}
+	3217.7.1 = {
+		death = "3217.7.1"
+	}
+}
+
+202975 = {  	
+	name = "Gillespic"
+	dynasty = 101901
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 202971
+	mother = 202972
+	3179.1.1 = {
+		birth = "3179.1.1"
+	}
+	3233.1.1 = {
+		death = "3233.1.1"
+	}
+}
+
+202976 = {  	
+	name = "Alice"
+	female = yes
+	dynasty = 101901
+	martial = 6
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	father = 202971
+	mother = 202972
+	3180.1.1 = {
+		birth = "3180.1.1"
+	}
+	3237.1.1 = {
+		death = "3237.1.1"
+	}
+}
+
+202977 = {  	
+	name = "Duncan"
+	dynasty_house = house_british_isles_duib
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 202978
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3156.1.1 = {
+		death = "3156.1.1"
+	}
+}
+
+202978 = {  	
+	name = "Gilmichael"
+	dynasty_house = house_british_isles_duib
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 131004
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3135.1.1 = {
+		death = "3135.1.1"
+	}
+}
+
+202999 = {  	
+	name = "William"
+	# AKA: William 'the Lion'
+	dynasty = 1687
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	trait = lustful
+	father = 203511
+	mother = 203515
+	3145.1.1 = {
+		birth = "3145.1.1"
+	}
+	3188.1.1 = {
+		add_spouse = 202987
+		give_nickname = nick_the_lion
+	}
+	3216.12.4 = {
+		death = "3216.12.4"
+	}
+}
+
+203000 = {  	
+	name = "Malcolm"
+	# AKA: Mael Coluim 'Virgo'
+	dynasty = 1687
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_learning_2
+	trait = chaste
+	father = 203511
+	mother = 203515
+	3144.1.21 = {
+		birth = "3144.1.21"
+	}
+	3167.1.10 = {
+		death = "3167.1.10"
+	}
+}
+
+203002 = {  	
+	name = "Ben-Rois"
+	female = yes
+	dynasty = 3104
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	father = 83591
+	3201.1.1 = {
+		birth = "3201.1.1"
+	}
+	3253.1.1 = {
+		death = "3253.1.1"
+	}
+}
+
+203003 = {
+	name = "Donald"
+	dynasty = 9224
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = chaste
+	trait = lazy
+	trait = honest
+	trait = education_martial_3
+	father = 232679 #Mael-Coluim mac Alaxandair
+	3129.1.1 = {
+		birth = "3129.1.1"
+	}
+	3158.7.1 = {
+		death = "3158.7.1"
+	}
+}
+
+203006 = {  	
+	name = "Gilbert"
+	dynasty = 100042
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = gluttonous
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 203060
+	3165.1.1 = {
+		birth = "3165.1.1"
+	}
+	3215.1.1 = {
+		death = "3215.1.1"
+	}
+}
+
+203007 = {  	
+	name = "Gilbride"
+	dynasty = 20083
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = greedy
+	trait = temperate
+	trait = education_intrigue_2
+	father = 203021
+	mother = 203020
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3182.1.2 = {
+		add_spouse = 203077 #Ingibjørg no dynasty
+	}
+	3197.1.1 = {
+		death = "3197.1.1"
+	}
+}
+
+203008 = {  	
+	name = "Henry"
+	# AKA: einri
+	dynasty = 689
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = education_martial_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+203009 = {  	
+	name = "Angus"
+	dynasty = 25046
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = just
+	trait = brave
+	trait = education_martial_3
+	father = 220027
+	mother = 220026
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+203010 = {  	
+	name = "Duncan"
+	dynasty_house = house_british_isles_duib
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_stewardship_2
+	father = 202977
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3172.1.1 = {
+		add_spouse = 203032
+	}
+	3206.1.1 = {
+		death = "3206.1.1"
+	}
+}
+
+203012 = {  	
+	name = "Alesta"
+	female = yes
+	dynasty = 100042
+	religion = "catholic"
+	culture = "scottish"
+	father = 203060 # Morgann of Mar
+	mother = 203061
+	3164.1.1 = {
+		birth = yes
+	}
+	3207.1.1 = {
+		death = yes
+	}
+}
+
+203014 = {  	
+	name = "Patrick"
+	dynasty_house = house_british_isles_dunbar
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = chaste
+	trait = education_martial_3
+	father = 203017
+	3154.1.1 = {
+		birth = "3154.1.1"
+	}
+	3186.1.1 = {
+		add_spouse = 203015
+	}
+	3234.1.1 = {
+		death = "3234.1.1"
+	}
+}
+
+203015 = {  	
+	name = "Ada"
+	female = yes
+	dynasty = 1687
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = bastard
+	trait = education_diplomacy_1
+	father = 202999
+	3166.1.1 = {
+		birth = "3166.1.1"
+	}
+	3216.1.1 = {
+		death = "3216.1.1"
+	}
+}
+
+203016 = {  	
+	name = "Patrick"
+	dynasty_house = house_british_isles_dunbar
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	father = 203014
+	mother = 203015
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3251.1.1 = {
+		death = "3251.1.1"
+	}
+}
+
+203021 = {  	
+	name = "Gilbride"
+	dynasty = 20083
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = lustful
+	trait = pneumonic
+	trait = education_martial_2
+	father = 203070
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3137.1.1 = {
+		add_spouse = 203020 #Agnes Dunbar
+	}
+	3189.7.1 = {
+		death = "3189.7.1"
+	}
+}
+
+203022 = {  	
+	name = "Duncan"
+	dynasty = 20083
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 203072
+	3174.1.1 = {
+		birth = "3174.1.1"
+	}
+	3224.7.1 = {
+		death = "3224.7.1"
+	}
+}
+
+203023 = {  	
+	name = "Bethoc"
+	female = yes
+	dynasty = 20083
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	father = 203072
+	3185.1.1 = {
+		birth = "3185.1.1"
+	}
+	3235.1.1 = {
+		death = "3235.1.1"
+	}
+}
+
+203032 = {  	
+	name = "Ela"
+	female = yes
+	dynasty = 100046
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = bastard
+	trait = education_intrigue_2
+	father = 202999
+	3161.1.1 = {
+		birth = "3161.1.1"
+	}
+	3211.1.1 = {
+		death = "3211.1.1"
+	}
+}
+
+203033 = {  	
+	name = "Malcolm"
+	# AKA: Mael Coluim
+	dynasty_house = house_british_isles_duib
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_stewardship_2
+	father = 203010
+	mother = 203032
+	3178.1.1 = {
+		birth = "3178.1.1"
+	}
+	3230.1.1 = {
+		death = "3230.1.1"
+	}
+}
+
+203034 = {  	
+	name = "Duncan"
+	dynasty_house = house_british_isles_duib
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 203010
+	mother = 203032
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+
+203059 = {  	
+	name = "Gillocher"
+	dynasty = 100042
+	religion = "catholic"
+	culture = "scottish"
+	trait = honest
+	trait = education_martial_2
+	father = 20075
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3149.1.1 = {
+		death = "3149.1.1"
+	}
+}
+
+203060 = {  	
+	name = "Morgan" # AKA: Morggan
+	dynasty = 100042
+	religion = "catholic"
+	culture = "scottish"
+	trait = honest
+	trait = education_martial_2
+	father = 203059
+	3132.1.1 = {
+		birth = yes
+	}
+	3163.1.1 = {
+		add_spouse = 203061
+	}
+	3185.3.1 = {
+		death = yes
+	}
+}
+
+203061 = {  	
+	name = "Ada-Agnes"
+	# AKA: Ada
+	female = yes
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = greedy
+	trait = calm
+	trait = arbitrary
+	trait = deceitful
+	trait = education_intrigue_3
+	3146.1.1 = {
+		birth = "3146.1.1"
+	}
+	3196.1.1 = {
+		death = "3196.1.1"
+	}
+}
+
+203062 = {  	
+	name = "Duncan"
+	dynasty = 100042
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = greedy
+	trait = honest
+	trait = education_martial_2
+	father = 203060
+	mother = 203061
+	3167.1.1 = {
+		birth = "3167.1.1"
+	}
+	3246.2.1 = {
+		death = "3246.2.1"
+	}
+}
+
+203063 = {  	
+	name = "Malcolm"
+	# AKA: Mael Coluim
+	dynasty = 100042
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = wrathful
+	trait = arrogant
+	trait = lustful
+	trait = education_martial_2
+	father = 203060
+	mother = 203061
+	3170.1.1 = {
+		birth = "3170.1.1"
+	}
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+203064 = {  	
+	name = "John"
+	# AKA: Eoin
+	dynasty = 100042
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = wrathful
+	trait = greedy
+	trait = lustful
+	trait = education_martial_3
+	father = 203060
+	mother = 203061
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3222.1.1 = {
+		death = "3222.1.1"
+	}
+}
+
+203065 = {  	
+	name = "Duncan"
+	dynasty = 100042
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = generous
+	trait = calm
+	trait = lazy
+	trait = education_learning_2
+	father = 203060
+	mother = 203061
+	3177.1.1 = {
+		birth = "3177.1.1"
+	}
+	3227.1.1 = {
+		death = "3227.1.1"
+	}
+}
+
+203066 = {  	
+	name = "James"
+	dynasty = 100042
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = generous
+	trait = education_martial_2
+	father = 203060
+	mother = 203061
+	3183.1.1 = {
+		birth = "3183.1.1"
+	}
+	3233.1.1 = {
+		death = "3233.1.1"
+	}
+}
+
+203070 = {  	
+	name = "Dubacan"
+	dynasty = 20083
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_1
+	father = 20071
+	3090.1.1 = {
+		birth = "3090.1.1"
+	}
+	3152.7.1 = {
+		death = "3152.7.1"
+	}
+}
+
+203071 = {  	
+	name = "Adam"
+	dynasty = 20083
+	martial = 5
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = generous
+	trait = chaste
+	trait = wrathful
+	trait = education_learning_2
+	father = 203021
+	mother = 203020
+	3138.1.1 = {
+		birth = "3138.1.1"
+	}
+	3199.7.1 = {
+		death = "3199.7.1"
+	}
+}
+
+203072 = {  	
+	name = "Gilchrist"
+	dynasty = 20083
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = arrogant
+	trait = calm
+	trait = education_martial_3
+	father = 203021
+	mother = 203020
+	3141.1.1 = {
+		birth = "3141.1.1"
+	}
+	3209.7.1 = {
+		death = "3209.7.1"
+	}
+}
+
+203073 = {  	
+	name = "William"
+	dynasty = 20083
+	martial = 7
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = arrogant
+	trait = greedy
+	trait = brave
+	trait = education_diplomacy_3
+	father = 203021
+	mother = 203020
+	3144.1.1 = {
+		birth = "3144.1.1"
+	}
+	3203.7.1 = {
+		death = "3203.7.1"
+	}
+}
+
+203074 = {  	
+	name = "Angus"
+	dynasty = 20083
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = honest
+	trait = lustful
+	trait = lazy
+	trait = education_stewardship_2
+	father = 203021
+	mother = 203020
+	3146.1.1 = {
+		birth = "3146.1.1"
+	}
+	3204.7.1 = {
+		death = "3204.7.1"
+	}
+}
+
+203076 = {  	
+	name = "Isabel"
+	female = yes
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_learning_3
+	3152.1.2 = {
+		birth = "3152.1.2"
+	}
+	3181.1.2 = {
+		death = "3181.1.2"
+	}
+}
+
+203078 = {  	
+	name = "Mary"
+	# AKA: Maire
+	female = yes
+	dynasty_house = house_british_isles_atholl
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = chaste
+	trait = temperate
+	trait = humble
+	trait = education_intrigue_1
+	father = 220020
+	mother = 220038
+	3170.1.1 = {
+		birth = "3170.1.1"
+	}
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+203079 = {  	
+	name = "Hugh"
+	dynasty = 20083
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = lazy
+	trait = education_martial_2
+	father = 203072
+	3176.1.1 = {
+		birth = "3176.1.1"
+	}
+	3226.1.1 = {
+		death = "3226.1.1"
+	}
+}
+
+203510 = {  	
+	name = "Margaret"
+	female = yes
+	dynasty = 1687
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_1
+	father = 203511
+	mother = 203515
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3203.1.1 = {
+		death = "3203.1.1"
+	}
+}
+
+203511 = {  	
+	name = "Henry"
+	dynasty = 1687
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = calm
+	trait = education_martial_3
+	father = 202998
+	mother = 199
+	3116.1.2 = {
+		birth = "3116.1.2"
+	}
+	3140.1.1 = {
+		add_spouse = 203515
+	}
+	3154.1.7 = {
+		death = "3154.1.7"
+	}
+}
+
+203512 = {  	
+	name = "Ada"
+	female = yes
+	dynasty = 1687
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_learning_2
+	father = 203511
+	mother = 203515
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3206.1.11 = {
+		death = "3206.1.11"
+	}
+}
+
+203520 = {  	
+	name = "David"
+	dynasty = 1687
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_3
+	father = 203511
+	mother = 203515
+	3146.1.2 = {
+		birth = "3146.1.2"
+	}
+	3192.8.26 = {
+		add_spouse = 204681
+	}
+	3221.7.17 = {
+		death = "3221.7.17"
+	}
+}
+
+203543 = {  	
+	name = "Marjory"
+	female = yes
+	dynasty = 371
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 203542
+	3255.1.2 = {
+		birth = "3255.1.2"
+	}
+	3294.11.9 = {
+		death = "3294.11.9"
+	}
+}
+
+203546 = {  	
+	name = "Robert"
+	dynasty = 3123
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_3
+	father = 203547
+	mother = 203548
+	3212.3.31 = {
+		birth = "3212.3.31"
+	}
+	3242.5.11 = {
+		add_spouse = 203545
+	}
+	3297.5.3 = {
+		death = "3297.5.3"
+	}
+}
+
+203547 = {  	
+	name = "Robert"
+	dynasty = 3123
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_3
+	father = 144947
+	3197.1.1 = {
+		birth = "3197.1.1"
+	}
+	3221.1.1 = {
+		add_spouse = 203548
+	}
+	3235.1.1 = {
+		death = "3235.1.1"
+	}
+}
+
+203548 = {  	
+	name = "Isabel"
+	female = yes
+	dynasty = 1687
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_3
+	father = 203520
+	mother = 204681
+	3196.1.2 = {
+		birth = "3196.1.2"
+	}
+	3253.1.1 = {
+		death = "3253.1.1"
+	}
+}
+
+220019 = {  	
+	name = "Ranald"
+	# AKA: Ragnall mac Somhairlidh
+	dynasty = 25046
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = zealous
+	trait = education_learning_2
+	father = 220027
+	mother = 220026
+	3150.1.1 = {
+		birth = "3150.1.1"
+	}
+	3174.1.13 = {
+		add_spouse = 220028
+	}
+	3200.1.1 = {
+		death = "3200.1.1"
+	}
+}
+
+220024 = {  	
+	name = "Affraic"
+	female = yes
+	dynasty = 371
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	father = 203560
+	mother = 203561
+	3121.1.1 = {
+		birth = "3121.1.1"
+	}
+	3155.1.1 = {
+		death = "3155.1.1"
+	}
+}
+
+220027 = {  	
+	name = "Somerled"
+	dynasty = 25046
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	3115.1.1 = {
+		birth = "3115.1.1"
+	}
+	3135.1.11 = {
+		add_spouse = 220026
+	}
+	3166.1.1 = {
+		death = "3166.1.1"
+	}
+}
+
+220028 = {  	
+	name = "Fiona"
+	female = yes
+	dynasty = 100040
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = gluttonous
+	trait = education_learning_3
+	3157.1.13 = {
+		birth = "3157.1.13"
+	}
+	3207.1.13 = {
+		death = "3207.1.13"
+	}
+}
+
+220030 = {  	
+	name = "Ruairi"
+	dynasty = 25024
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 220019
+	mother = 220028
+	3171.1.1 = {
+		birth = "3171.1.1"
+	}
+	3221.1.1 = {
+		death = "3221.1.1"
+	}
+}
+
+220031 = {  	
+	name = "Donald"
+	dynasty = 25046
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 220019
+	mother = 220028
+	3174.1.1 = {
+		birth = "3174.1.1"
+	}
+	3251.1.1 = {
+		death = "3251.1.1"
+	}
+}
+
+220032 = {  	
+	name = "Dugald"
+	dynasty = 25046
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 220019
+	mother = 220028
+	3177.1.1 = {
+		birth = "3177.1.1"
+	}
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+
+220038 = {  	
+	name = "Gormelia"
+	female = yes
+	dynasty = 3114
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_stewardship_2
+	trait = wrathful
+	father = 83589 #'Malcolm Macheth'
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3217.7.1 = {
+		death = "3217.7.1"
+	}
+}
+
+220039 = {  	
+	name = "Affraic"
+	female = yes
+	dynasty_house = house_british_isles_duib
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_1
+	father = 202977
+	3139.1.1 = {
+		birth = "3139.1.1"
+	}
+	3176.1.1 = {
+		death = "3176.1.1"
+	}
+}
+
+220042 = {  	
+	name = "David"
+	dynasty_house = house_british_isles_atholl
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_stewardship_2
+	father = 220020
+	mother = 220038
+	3177.1.1 = {
+		birth = "3177.1.1"
+	}
+	3227.1.1 = {
+		death = "3227.1.1"
+	}
+}
+
+220043 = {  	
+	name = "John"
+	# AKA: Eoin
+	dynasty_house = house_british_isles_atholl
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 220020
+	mother = 220038
+	3178.1.1 = {
+		birth = "3178.1.1"
+	}
+	3233.1.1 = {
+		death = "3233.1.1"
+	}
+}
+
+220044 = {  	
+	name = "Gunnhild"
+	female = yes
+	dynasty_house = house_british_isles_atholl
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_stewardship_2
+	father = 220020
+	mother = 220038
+	3174.1.1 = {
+		birth = "3174.1.1"
+	}
+	3224.1.1 = {
+		death = "3224.1.1"
+	}
+}
+
+220047 = {  	
+	name = "Fiona"
+	female = yes
+	dynasty = 101707
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = arrogant
+	trait = education_diplomacy_3
+	3162.1.11 = {
+		birth = "3162.1.11"
+	}
+	3212.1.11 = {
+		death = "3212.1.11"
+	}
+}
+
+230521 = {  	
+	name = "Margaret"
+	female = yes
+	dynasty = 1687
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_3
+	father = 203520
+	mother = 204681
+	3196.1.2 = {
+		birth = "3196.1.2"
+	}
+	3235.6.1 = {
+		death = "3235.6.1"
+	}
+}
+
+230522 = {  	
+	name = "Dervorgilla"
+	female = yes
+	dynasty = 371
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 203572
+	mother = 230521
+	3212.1.2 = {
+		birth = "3212.1.2"
+	}
+	3292.1.28 = {
+		death = "3292.1.28"
+	}
+}
+
+
+230524 = {  	
+	name = "John"
+	dynasty = 103
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 230523
+	mother = 230522
+	3251.1.2 = {
+		birth = "3251.1.2"
+	}
+	3283.2.9 = {  	
+		add_spouse = 230529
+	}
+	3316.11.25 = {
+		death = "3316.11.25"
+	}
+}
+
+230530 = {  	
+	name = "Edward"
+	dynasty = 103
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 230524
+	mother = 230529
+	3285.1.2 = {
+		birth = "3285.1.2"
+	}
+	3369.1.2 = {
+		death = "3369.1.2"
+	}
+}
+
+232678 = {  	
+	name = "Alexander"
+	# AKA: Alaxandair mac Mail Coluim
+	dynasty = 1687
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = arbitrary
+	trait = greedy
+	trait = education_martial_2
+	father = 984
+	mother = 113
+	3079.1.1 = {
+		birth = "3079.1.1"
+	}
+	3110.1.1 = {
+		add_spouse = 161256
+	}
+	3126.1.14 = {
+		death = "3126.1.14"
+	}
+}
+30912 = {  	
+	name = "Mary"
+	female = yes
+	dynasty = 1687
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 984
+	mother = 113
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	3118.5.13 = {
+		death = "3118.5.13"
+	}
+}
+
+332008 = {  	
+	name = "Henry"
+	dynasty = 25048
+	martial = 11
+	diplomacy = 2
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	3171.1.2 = {
+		birth = "3171.1.2"
+	}
+	3221.1.2 = {
+		death = "3221.1.2"
+	}
+}
+
+332009 = {  	
+	name = "Adam"
+	dynasty = 25049
+	martial = 2
+	diplomacy = 9
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = honest
+	trait = education_learning_2
+	3168.1.2 = {
+		birth = "3168.1.2"
+	}
+	3218.1.2 = {
+		death = "3218.1.2"
+	}
+}
+
+332017 = {  	
+	name = "Robert"
+	dynasty = 25052
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 9
+	religion = "catholic"
+	culture = "scottish"
+	trait = bastard
+	trait = lazy
+	father = 202999
+	3161.1.1 = {
+		birth = "3161.1.1"
+	}
+	3207.1.1 = {
+		death = "3207.1.1"
+	}
+}
+
+332020 = {  	
+	name = "David"
+	dynasty = 25054
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 332019
+	mother = 332018
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3207.1.1 = {
+		add_spouse = 82029 #Eithne of Strathearn
+	}
+	3222.1.1 = {
+		death = "3222.1.1"
+	}
+}
+
+332022 = {  	
+	name = "Thomas"
+	dynasty = 25054
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_learning_2
+	father = 332019
+	mother = 332018
+	3174.1.1 = {
+		birth = "3174.1.1"
+	}
+	3224.1.1 = {
+		death = "3224.1.1"
+	}
+}
+
+332023 = {  	
+	name = "William"
+	dynasty = 25054
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = diligent
+	father = 332019
+	mother = 332018
+	3180.1.1 = {
+		birth = "3180.1.1"
+	}
+	3230.1.1 = {
+		death = "3230.1.1"
+	}
+}
+
+332024 = {  	
+	name = "Robert"
+	dynasty = 25054
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = cynical
+	father = 332019
+	mother = 332018
+	3181.1.1 = {
+		birth = "3181.1.1"
+	}
+	3231.1.1 = {
+		death = "3231.1.1"
+	}
+}
+
+332025 = {  	
+	name = "Walter"
+	dynasty = 4024
+	martial = 4
+	diplomacy = 5
+	intrigue = 9
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = cynical
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3197.1.1 = {
+		death = "3197.1.1"
+	}
+}
+
+332032 = {  	
+	name = "Philip"
+	dynasty = 25057
+	martial = 5
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = diligent
+	trait = honest
+	trait = education_stewardship_4
+	3167.1.1 = {
+		birth = "3167.1.1"
+	}
+	3217.1.1 = {
+		death = "3217.1.1"
+	}
+}
+
+332035 = {  	
+	name = "William"
+	dynasty = 3122
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = deceitful
+	trait = greedy
+	father = 161378
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3260.1.1 = {
+		add_spouse = 161374
+	}
+	3285.5.28 = {
+		death = "3285.5.28"
+	}
+}
+
+332036 = {  	
+	name = "Walter"
+	dynasty = 25059
+	martial = 3
+	diplomacy = 8
+	intrigue = 3
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = humble
+	3165.1.1 = {
+		birth = "3165.1.1"
+	}
+	3215.1.1 = {
+		death = "3215.1.1"
+	}
+}
+
+420019 = {  	
+	name = "John"
+	dynasty = 25046
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453055
+	3328.1.1 = {
+		birth = "3328.1.1"
+	}
+	3378.1.1 = {
+		death = "3378.1.1"
+	}
+}
+
+450820 = {  	
+	name = "Malise" # the V, 8th Earl of Strathearn
+	dynasty = 9101
+	religion = "catholic"
+	culture = "scottish"
+	trait = generous
+	trait = cynical
+	trait = education_stewardship_3
+	father = 450821
+	mother = 188933
+	3296.1.1 = {
+		birth = yes
+	}
+	3324.1.1 = {
+		add_spouse = 450825
+	}
+	3348.10.17 = {
+		death = yes
+	}
+}
+
+450821 = {  	
+	name = "Malise" # the IV, 7th Earl of Strathearn
+	dynasty = 9101
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_3
+	father = 82033
+	mother = 161655
+	3278.1.1 = {
+		birth = yes
+	}
+	3295.1.1 = {
+		add_spouse = 188933
+	}
+	3325.1.1 = {
+		add_spouse = 450823
+	}
+	3331.1.1 = {
+		death = yes
+	}
+}
+
+450822 = {  	
+	name = "Isabel"
+	female = yes
+	dynasty = 124
+	martial = 5
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_learning_2
+	3252.1.2 = {
+		birth = "3252.1.2"
+	}
+	3307.1.2 = {
+		death = "3307.1.2"
+	}
+}
+
+450823 = {  	
+	name = "Joan" # or Johanna
+	female = yes
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	father = 188926
+	3309.1.1 = {
+		birth = yes
+	}
+	3372.1.1 = {
+		death = yes
+	}
+}
+
+450824 = {  	
+	name = "Maud"
+	female = yes
+	dynasty = 9101
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = arrogant
+	trait = education_learning_2
+	father = 450820
+	mother = 450825
+	3326.1.2 = {
+		birth = "3326.1.2"
+	}
+	3376.1.2 = {
+		death = "3376.1.2"
+	}
+}
+
+450825 = {  	
+	name = "Marjory"
+	female = yes
+	dynasty = 100039
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = lazy
+	trait = education_learning_3
+	father = 453052
+	mother = 453514
+	3308.1.2 = {
+		birth = "3308.1.2"
+	}
+	3358.1.2 = {
+		death = "3358.1.2"
+	}
+}
+
+450826 = {  	
+	name = "Mary"
+	female = yes
+	dynasty = 9101
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = gluttonous
+	trait = education_stewardship_2
+	father = 450820
+	mother = 450825
+	3332.1.2 = {
+		birth = "3332.1.2"
+	}
+	3382.1.2 = {
+		death = "3382.1.2"
+	}
+}
+
+450827 = {  	
+	name = "Agnes"
+	female = yes
+	dynasty = 9101
+	martial = 5
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = just
+	trait = education_stewardship_2
+	father = 450820
+	mother = 450825
+	3329.1.2 = {
+		birth = "3329.1.2"
+	}
+	3379.1.2 = {
+		death = "3379.1.2"
+	}
+}
+
+450828 = {  	
+	name = "Isabel"
+	female = yes
+	dynasty = 9101
+	martial = 8
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = greedy
+	trait = education_stewardship_2
+	father = 450820
+	mother = 450825
+	3327.1.2 = {
+		birth = "3327.1.2"
+	}
+	3377.1.2 = {
+		death = "3377.1.2"
+	}
+}
+
+453002 = {  	
+	name = "William"
+	dynasty = 3145
+	martial = 7
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453037
+	mother = 453025
+	3312.1.1 = {
+		birth = "3312.1.1"
+	}
+	3362.1.1 = {
+		death = "3362.1.1"
+	}
+}
+
+453003 = {  	
+	name = "William"
+	dynasty = 100039
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = wrathful
+	trait = education_martial_2
+	father = 453052
+	mother = 453514
+	3313.1.1 = {
+		birth = "3313.1.1"
+	}
+	3338.1.2 = {
+		add_spouse = 453054
+	}
+	3374.2.9 = {
+		death = "3374.2.9"
+	}
+}
+
+453004 = {  	
+	name = "John"
+	dynasty = 3146
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = honest
+	trait = stuttering
+	trait = education_learning_2
+	father = 453058
+	mother = 453059
+	3311.1.1 = {
+		birth = "3311.1.1"
+	}
+	3338.1.2 = {
+		add_spouse = 453057
+	}
+	3361.1.1 = {
+		death = "3361.1.1"
+	}
+}
+
+453006 = {  	
+	name = "Thomas"
+	dynasty = 100042
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453020
+	mother = 453021
+	3332.1.1 = {
+		birth = "3332.1.1"
+	}
+	3382.1.1 = {
+		death = "3382.1.1"
+	}
+}
+
+453007 = {  	
+	name = "Thomas"
+	dynasty = 3134
+	martial = 8
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453027
+	mother = 453031
+	3330.1.1 = {
+		birth = "3330.1.1"
+	}
+	3380.1.1 = {
+		death = "3380.1.1"
+	}
+}
+
+453008 = {  	
+	name = "David"
+	dynasty_house = house_british_isles_duib
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453041
+	mother = 453042
+	3334.1.1 = {
+		birth = "3334.1.1"
+	}
+	3384.1.1 = {
+		death = "3384.1.1"
+	}
+}
+
+453009 = {  	
+	name = "Colin" # Colin Og (the Young)
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	trait = brave
+	trait = wrathful
+	father = 453071
+	mother = 453072
+	3303.1.1 = {
+		birth = yes
+		give_nickname = nick_the_young
+	}
+	3322.1.2 = {
+		add_spouse = 453076
+	}
+	3345.1.1 = {
+		death = yes
+	}
+}
+
+453010 = {  	
+	name = "Duncan"
+	dynasty_house = house_british_isles_duib
+	martial = 8
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = diligent
+	trait = generous
+	trait = honest
+	trait = education_martial_2
+	father = 453065
+	mother = 453066
+	3287.1.1 = {
+		birth = "3287.1.1"
+	}
+	3312.1.2 = {
+		add_spouse = 453067
+	}
+	3355.1.1 = {
+		death = "3355.1.1"
+	}
+}
+
+453014 = {  	
+	name = "Patrick"
+	dynasty_house = house_british_isles_dunbar
+	martial = 5
+	diplomacy = 4
+	intrigue = 9
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = cynical
+	trait = education_martial_2
+	father = 453063
+	mother = 453064
+	3287.1.1 = {
+		birth = "3287.1.1"
+	}
+	3332.1.2 = {
+		add_spouse = 453062
+	}
+	3371.1.1 = {
+		death = "3371.1.1"
+	}
+}
+
+453020 = {  	
+	name = "Donald"
+	dynasty = 100042
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453022
+	mother = 453513
+	3304.1.1 = {
+		birth = "3304.1.1"
+	}
+	3331.1.2 = {
+		add_spouse = 453021
+	}
+	3334.1.2 = {
+		death = "3334.1.2"
+	}
+}
+
+453021 = {  	
+	name = "Isabel"
+	female = yes
+	dynasty = 3134
+	martial = 4
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = arbitrary
+	trait = education_learning_2
+	father = 453028
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3352.1.2 = {
+		death = "3352.1.2"
+	}
+}
+
+453022 = {  	
+	name = "Gartnait"
+	dynasty = 100042
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453023
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3307.1.2 = {
+		death = "3307.1.2"
+	}
+}
+
+453023 = {  	
+	name = "Donald"
+	dynasty = 100042
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 7367
+	mother = 7364
+	3247.1.1 = {
+		birth = "3247.1.1"
+	}
+	3299.1.2 = {
+		death = "3299.1.2"
+	}
+}
+
+453024 = {  	
+	name = "Isabel"
+	female = yes
+	dynasty = 100042
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_1
+	father = 453023
+	3265.1.1 = {
+		birth = "3265.1.1"
+	}
+	3304.1.2 = {
+		death = "3304.1.2"
+	}
+}
+
+453025 = {  	
+	name = "Margaret"
+	female = yes
+	dynasty = 100042
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_1
+	father = 453023
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	3332.1.2 = {
+		death = "3332.1.2"
+	}
+}
+
+453026 = {  	
+	name = "Margaret"
+	female = yes
+	dynasty = 100042
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_stewardship_2
+	father = 453020
+	mother = 453021
+	3329.1.1 = {
+		birth = "3329.1.1"
+	}
+	3379.1.1 = {
+		death = "3379.1.1"
+	}
+}
+
+453027 = {  	
+	name = "John"
+	dynasty = 3134
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453028
+	3307.1.1 = {
+		birth = "3307.1.1"
+	}
+	3328.1.1 = {
+		add_spouse = 453031
+	}
+	3333.1.25 = {
+		death = "3333.1.25"
+	}
+}
+
+453028 = {  	
+	name = "Alexander"
+	dynasty = 3134
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453029
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3321.1.2 = {
+		death = "3321.1.2"
+	}
+}
+
+453029 = {  	
+	name = "John"
+	dynasty = 3134
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453030
+	mother = 453602
+	3247.1.1 = {
+		birth = "3247.1.1"
+	}
+	3300.1.2 = {
+		death = "3300.1.2"
+	}
+}
+
+453030 = {  	
+	name = "Alexander"
+	dynasty = 3134
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 203013
+	3216.1.1 = {
+		birth = "3216.1.1"
+	}
+	3285.1.2 = {
+		death = "3285.1.2"
+	}
+}
+
+453031 = {  	
+	name = "Margaret"
+	# wife of John Stewart, 1st Earl of Angus
+	dynasty = 25014
+	female = yes
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = calm
+	trait = education_intrigue_2
+	3312.1.1 = {
+		birth = yes
+	}
+	3362.1.1 = {
+		death = yes
+	}
+}
+
+453032 = {  	
+	name = "James"
+	dynasty = 3134
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453030
+	mother = 453602
+	3245.1.1 = {
+		birth = "3245.1.1"
+	}
+	3311.7.16 = {
+		death = "3311.7.16"
+	}
+}
+
+453033 = {  	
+	name = "Walter"
+	dynasty = 3134
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453032
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3317.1.1 = {
+		add_spouse = 453504
+	}
+	3328.4.9 = {
+		death = "3328.4.9"
+	}
+}
+
+453034 = {  	
+	name = "Robert"
+	dynasty = 3134
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 9
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = education_martial_2
+	father = 453033
+	mother = 453504
+	3312.1.1 = {
+		birth = "3312.1.1"
+	}
+	3328.1.1 = {
+		add_spouse = 453035
+	}
+	3392.4.19 = {
+		death = "3392.4.19"
+	}
+}
+
+453035 = {  	
+	name = "Margaret"
+	# AKA: Margaret Mure
+	female = yes
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = just
+	trait = education_intrigue_2
+	3312.1.1 = {
+		birth = "3312.1.1"
+	}
+	3362.1.1 = {
+		death = "3362.1.1"
+	}
+}
+
+453036 = {  	
+	name = "Margaret"
+	female = yes
+	dynasty = 3134
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_stewardship_2
+	father = 453034
+	mother = 453035
+	3332.1.1 = {
+		birth = "3332.1.1"
+	}
+	3382.1.1 = {
+		death = "3382.1.1"
+	}
+}
+
+453037 = {  	
+	name = "Kenneth"
+	dynasty = 3145
+	martial = 7
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3317.1.25 = {
+		add_spouse = 453025
+	}
+	3335.1.2 = {
+		death = "3335.1.2"
+	}
+}
+
+453038 = {  	
+	name = "John"
+	dynasty_house = house_british_isles_duib
+	martial = 7
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 7366
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3283.1.1 = {
+		add_spouse = 453025
+	}
+	3308.11.7 = {
+		death = "3308.11.7"
+	}
+}
+
+453039 = {  	
+	name = "David"
+	dynasty_house = house_british_isles_duib
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453038
+	mother = 453025
+	3292.1.3 = {
+		birth = "3292.1.3"
+	}
+	3328.12.8 = {
+		death = "3328.12.8"
+	}
+}
+
+453040 = {  	
+	name = "Joan"
+	dynasty = 101600
+	female = yes
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_2
+	father = 7359
+	mother = 7365
+	3295.1.3 = {
+		birth = "3295.1.3"
+	}
+	3328.1.2 = {
+		death = "3328.1.2"
+	}
+}
+
+453041 = {  	
+	name = "David"
+	dynasty_house = house_british_isles_duib
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453039
+	mother = 453040
+	3310.1.3 = {
+		birth = "3310.1.3"
+	}
+	3326.1.3 = {
+		add_spouse = 453042
+	}
+	3337.1.2 = {
+		death = "3337.1.2"
+	}
+}
+
+453043 = {
+	name = "Alice"
+	female = yes
+	dynasty = 101600
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_1
+	father = 7294
+	3291.1.3 = {
+		birth = "3291.1.3"
+	}
+	3351.1.3 = {
+		death = "3351.1.3"
+	}
+}
+
+453052 = {  	
+	name = "Hugh"
+	dynasty = 100039
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 7298
+	trait = arrogant
+	trait = education_martial_2
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3310.1.2 = {
+		add_spouse = 453514
+	}
+	3332.1.1 = {
+		add_spouse = 453070
+	}
+	3335.7.19 = {
+		death = "3335.7.19"
+	}
+}
+
+453053 = {  	
+	name = "Maud"
+	female = yes
+	dynasty = 100039
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = education_intrigue_1
+	father = 453052
+	mother = 453514
+	3317.1.1 = {
+		birth = "3317.1.1"
+	}
+	3367.1.1 = {
+		death = "3367.1.1"
+	}
+}
+
+453054 = {  	
+	name = "Fiona"
+	# AKA: Mary Og
+	female = yes
+	dynasty = 25046
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = education_intrigue_1
+	father = 453055
+	3318.1.1 = {
+		birth = "3318.1.1"
+	}
+	3368.1.1 = {
+		death = "3368.1.1"
+	}
+}
+
+453055 = {  	
+	name = "Angus"
+	# AKA: Aongas Og
+	dynasty = 25046
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = education_martial_2
+	father = 7391
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3332.1.1 = {
+		death = "3332.1.1"
+	}
+}
+
+453056 = {  	
+	name = "John"
+	# AKA: Iain Og
+	dynasty = 25046
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = legitimized_bastard
+	trait = education_martial_2
+	father = 453055
+	3331.1.1 = {
+		birth = "3331.1.1"
+	}
+	3381.1.1 = {
+		death = "3381.1.1"
+	}
+}
+
+453057 = {  	
+	name = "Affraic"
+	female = yes
+	dynasty = 100039
+	martial = 2
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = education_intrigue_1
+	father = 453052
+	mother = 453070
+	3321.1.1 = {
+		birth = "3321.1.1"
+	}
+	3371.1.1 = {
+		death = "3371.1.1"
+	}
+}
+
+453058 = {  	
+	name = "Thomas"
+	dynasty = 3146
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = education_martial_2
+	father = 453060
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3313.1.1 = {
+		add_spouse = 453059
+	}
+	3334.7.20 = {
+		death = "3334.7.20"
+	}
+}
+
+453059 = {  	
+	name = "Isabel"
+	female = yes
+	dynasty = 3134
+	martial = 6
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 3
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = calm
+	trait = education_martial_2
+	father = 453029
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3347.1.1 = {
+		death = "3347.1.1"
+	}
+}
+
+453060 = {  	
+	name = "Thomas"
+	dynasty = 3146
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	3257.1.1 = {
+		birth = "3257.1.1"
+	}
+	3308.1.2 = {
+		death = "3308.1.2"
+	}
+}
+
+453061 = {  	
+	name = "Isabel"
+	female = yes
+	dynasty = 3123
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = temperate
+	trait = education_intrigue_2
+	father = 453512
+	mother = 203543
+	3274.1.1 = {
+		birth = "3274.1.1"
+	}
+	3360.1.1 = {
+		death = "3360.1.1"
+	}
+}
+
+453062 = {  	
+	name = "Agnes"
+	female = yes
+	dynasty = 3146
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = diligent
+	trait = education_martial_2
+	father = 453058
+	mother = 453059
+	3312.1.1 = {
+		birth = "3312.1.1"
+	}
+	3362.1.1 = {
+		death = "3362.1.1"
+	}
+}
+
+453063 = {  	
+	name = "Patrick"
+	# AKA: Patrick Blackbeard
+	dynasty_house = house_british_isles_dunbar
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = education_martial_2
+	father = 7616
+	mother = 7617
+	3244.1.1 = {
+		birth = "3244.1.1"
+	}
+	3260.1.1 = {
+		add_spouse = 453064
+	}
+	3310.10.10 = {
+		death = "3310.10.10"
+	}
+}
+
+453064 = {  	
+	name = "Bride"
+	# AKA: Bridget Comyn
+	female = yes
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = education_martial_2
+	3244.1.1 = {
+		birth = "3244.1.1"
+	}
+	3310.1.2 = {
+		death = "3310.1.2"
+	}
+}
+
+453065 = {  	
+	name = "Duncan"
+	dynasty_house = house_british_isles_duib
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = honest
+	trait = education_martial_2
+	father = 7399
+	3265.1.1 = {
+		birth = "3265.1.1"
+	}
+	3290.1.1 = {
+		death = "3290.1.1"
+	}
+}
+
+453070 = {  	
+	name = "Margaret"
+	# AKA: Margaret Graham
+	female = yes
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = arrogant
+	trait = education_intrigue_1
+	3307.1.1 = {
+		birth = "3307.1.1"
+	}
+	3357.1.1 = {
+		death = "3357.1.1"
+	}
+}
+
+453071 = {  	
+	name = "Neil" # Sir Neil
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = education_martial_2
+	father = 7279
+	mother = 188922
+	3270.1.1 = {
+		birth = yes
+	}
+	3302.1.1 = {
+		add_spouse = 453072
+	}
+	3317.1.1 = {
+		add_spouse = 453073
+	}
+	3318.4.26 = {
+		death = yes
+	}
+}
+
+453072 = {  	
+	name = "Alice" # Alyse de Crawford
+	female = yes
+	dynasty = 101601
+	religion = "catholic"
+	culture = "scottish"
+	father = 188951
+	3286.1.1 = {
+		birth = yes
+	}
+	3314.1.2 = {
+		death = yes
+	}
+}
+
+453073 = {  	
+	name = "Mary"
+	female = yes
+	dynasty = 3123
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = education_intrigue_1
+	father = 453512
+	mother = 203543
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3325.1.2 = {
+		death = "3325.1.2"
+	}
+}
+
+453074 = {  	
+	name = "Dugald"
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 453071
+	mother = 453072
+	3305.1.1 = {
+		birth = yes
+	}
+	3366.1.1 = {
+		death = yes
+	}
+}
+
+453075 = {  	
+	name = "John" # Earl of Atholl
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	trait = humble
+	trait = zealous
+	trait = education_learning_2
+	father = 453071
+	mother = 453073
+	3318.1.1 = {
+		birth = yes
+	}
+	3334.1.1 = {
+		add_spouse = 450823 # Joan de Menteith
+	}
+	3335.7.19 = {
+		death = yes
+	}
+}
+
+453076 = {  	
+	name = "Helena"
+	# AKA: Helena Mor
+	female = yes
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	father = 188926
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+453077 = {  	
+	name = "Dugald"
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453009
+	mother = 453076
+	3330.1.1 = {
+		birth = yes
+	}
+	3378.1.1 = {
+		death = yes
+	}
+}
+
+453078 = {  	
+	name = "Archibald"
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	trait = arrogant
+	trait = education_martial_2
+	father = 453009
+	mother = 453076
+	3328.1.1 = {
+		birth = yes
+	}
+	3380.1.1 = {
+		death = yes
+	}
+}
+
+453079 = {  	
+	name = "John"
+	dynasty = 3128
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 2
+	religion = "catholic"
+	culture = "scottish"
+	trait = arrogant
+	trait = education_martial_2
+	father = 453009
+	mother = 453076
+	3333.1.1 = {
+		birth = "3333.1.1"
+	}
+	3383.1.1 = {
+		death = "3383.1.1"
+	}
+}
+
+453080 = {  	
+	name = "Neil"
+	dynasty = 3128
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = bastard
+	trait = honest
+	trait = arrogant
+	trait = education_martial_2
+	father = 453009
+	3323.1.1 = {
+		birth = "3323.1.1"
+	}
+	3371.1.1 = {
+		death = "3371.1.1"
+	}
+}
+
+453500 = {  	
+	name = "David"
+	dynasty = 3123
+	martial = 4
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = arbitrary
+	trait = education_learning_2
+	father = 453501
+	mother = 453502
+	3326.1.2 = {
+		birth = "3326.1.2"
+	}
+	3376.1.2 = {
+		death = "3376.1.2"
+	}
+}
+
+453501 = {  	
+	name = "Robert"
+	dynasty = 3123
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = brave
+	trait = education_martial_3
+	father = 453512
+	mother = 203543
+	3276.1.2 = {
+		birth = "3276.1.2"
+	}
+	3297.1.2 = {
+		add_spouse = 453024
+	}
+	3304.1.2 = {
+		add_spouse = 453502
+	}
+	3331.6.7 = {
+		death = "3331.6.7"
+	}
+}
+
+453502 = {  	
+	name = "Elspeth"
+	female = yes
+	dynasty = 4034
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_1
+	father = 454106
+	mother = 454108
+	3282.1.2 = {
+		birth = "3282.1.2"
+	}
+	3329.1.2 = {
+		death = "3329.1.2"
+	}
+}
+
+453503 = {  	
+	name = "Maud"
+	female = yes
+	dynasty = 3123
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = humble
+	trait = education_intrigue_1
+	father = 453501
+	mother = 453024
+	3298.1.2 = {
+		birth = "3298.1.2"
+	}
+	3348.1.2 = {
+		death = "3348.1.2"
+	}
+}
+
+453504 = {  	
+	name = "Marjory"
+	female = yes
+	dynasty = 3123
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = lazy
+	trait = education_learning_1
+	father = 453501
+	mother = 453024
+	3298.12.2 = {
+		birth = "3298.12.2"
+	}
+	3318.3.2 = {
+		death = "3318.3.2"
+	}
+}
+
+453505 = {  	
+	name = "Margaret"
+	female = yes
+	dynasty = 3123
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = arbitrary
+	trait = education_stewardship_2
+	father = 453501
+	mother = 453502
+	3324.1.2 = {
+		birth = "3324.1.2"
+	}
+	3374.1.2 = {
+		death = "3374.1.2"
+	}
+}
+
+453506 = {  	
+	name = "Margaret"
+	female = yes
+	dynasty = 3123
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = calm
+	trait = education_learning_2
+	father = 453501
+	mother = 453502
+	3325.1.2 = {
+		birth = "3325.1.2"
+	}
+	3375.1.2 = {
+		death = "3375.1.2"
+	}
+}
+
+453507 = {  	
+	name = "Neil"
+	# AKA: Niall of Carrick
+	dynasty = 3123
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = bastard
+	trait = chaste
+	trait = brave
+	trait = education_martial_2
+	father = 453501
+	3320.1.2 = {
+		birth = "3320.1.2"
+	}
+	3370.1.2 = {
+		death = "3370.1.2"
+	}
+}
+
+453508 = {  	
+	name = "Christina"
+	# AKA: Christina of Carrick
+	female = yes
+	dynasty = 3123
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = bastard
+	trait = arrogant
+	trait = education_intrigue_1
+	father = 453501
+	3321.1.2 = {
+		birth = "3321.1.2"
+	}
+	3371.1.2 = {
+		death = "3371.1.2"
+	}
+}
+
+453509 = {  	
+	name = "Margaret"
+	female = yes
+	dynasty = 3123
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = bastard
+	trait = humble
+	trait = education_intrigue_2
+	father = 453501
+	3323.1.2 = {
+		birth = "3323.1.2"
+	}
+	3373.1.2 = {
+		death = "3373.1.2"
+	}
+}
+
+453510 = {  	
+	name = "Elspeth"
+	female = yes
+	dynasty = 3123
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = bastard
+	trait = education_stewardship_2
+	father = 453501
+	3327.1.2 = {
+		birth = "3327.1.2"
+	}
+	3377.1.2 = {
+		death = "3377.1.2"
+	}
+}
+
+453511 = {  	
+	name = "Neil"
+	dynasty = 3123
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = brave
+	trait = education_martial_2
+	father = 453512
+	mother = 203543
+	3278.1.2 = {
+		birth = "3278.1.2"
+	}
+	3308.1.2 = {
+		death = "3308.1.2"
+	}
+}
+
+453512 = {  	
+	name = "Robert"
+	dynasty = 3123
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_3
+	father = 203546
+	mother = 203545
+	3245.1.2 = {
+		birth = "3245.1.2"
+	}
+	3273.1.1 = {
+		add_spouse = 203543
+	}
+	3306.3.4 = {
+		death = "3306.3.4"
+	}
+}
+
+453513 = {  	
+	name = "Christina"
+	female = yes
+	dynasty = 3123
+	martial = 5
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = calm
+	trait = education_intrigue_1
+	father = 453512
+	mother = 203543
+	3277.1.2 = {
+		birth = "3277.1.2"
+	}
+	3287.1.1 = {
+		add_spouse = 453022
+	}
+	3327.1.2 = {
+		death = "3327.1.2"
+	}
+}
+
+453514 = {  	
+	name = "Maud"
+	female = yes
+	dynasty = 3123
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_1
+	father = 453512
+	mother = 203543
+	3292.1.2 = {
+		birth = "3292.1.2"
+	}
+	3331.1.2 = {
+		death = "3331.1.2"
+	}
+}
+
+453515 = {  	
+	name = "Edward"
+	dynasty = 3123
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = education_martial_2
+	father = 453512
+	mother = 203543
+	3280.1.2 = {
+		birth = "3280.1.2"
+	}
+	3300.1.2 = {
+		add_spouse = 453516
+	}
+	3320.1.2 = {
+		death = "3320.1.2"
+	}
+}
+
+453516 = {  	
+	name = "Isabel"
+	female = yes
+	dynasty_house = house_british_isles_duib
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453038
+	mother = 453025
+	3291.1.3 = {
+		birth = "3291.1.3"
+	}
+	3318.1.2 = {
+		death = "3318.1.2"
+	}
+}
+
+453517 = {  	
+	name = "Alexander"
+	dynasty = 3123
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 453515
+	mother = 453516
+	3307.1.2 = {
+		birth = "3307.1.2"
+	}
+	3333.1.2 = {
+		add_spouse = 453518
+	}
+	3335.1.2 = {
+		death = "3335.1.2"
+	}
+}
+
+453518 = {  	
+	name = "Eleanor"
+	female = yes
+	dynasty = 3125
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = generous
+	trait = arrogant
+	trait = education_intrigue_2
+	father = 453608
+	mother = 453609
+	3317.1.2 = {
+		birth = "3317.1.2"
+	}
+	3367.1.2 = {
+		death = "3367.1.2"
+	}
+}
+
+453519 = {  	
+	name = "Eleanor"
+	female = yes
+	dynasty = 3125
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_stewardship_2
+	father = 453517
+	mother = 453518
+	3334.1.2 = {
+		birth = "3334.1.2"
+	}
+	3384.1.2 = {
+		death = "3384.1.2"
+	}
+}
+
+453520 = {  	
+	name = "Thomas"
+	dynasty = 3123
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = bastard
+	trait = education_martial_2
+	father = 453515
+	3308.1.2 = {
+		birth = "3308.1.2"
+	}
+	3325.1.2 = {
+		add_spouse = 453521
+	}
+	3358.1.2 = {
+		death = "3358.1.2"
+	}
+}
+
+453521 = {  	
+	name = "Marjory"
+	# AKA: Marjorie Charteris
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = greedy
+	trait = temperate
+	trait = education_stewardship_2
+	3309.1.2 = {
+		birth = "3309.1.2"
+	}
+	3359.1.2 = {
+		death = "3359.1.2"
+	}
+}
+
+453522 = {  	
+	name = "Thomas"
+	dynasty = 3123
+	martial = 6
+	diplomacy = 2
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = "scottish"
+	trait = temperate
+	trait = brave
+	trait = lazy
+	trait = education_martial_2
+	father = 453520
+	mother = 453521
+	3324.1.2 = {
+		birth = "3324.1.2"
+	}
+	3374.1.2 = {
+		death = "3374.1.2"
+	}
+}
+
+453600 = {  	
+	name = "William"
+	dynasty = 3125
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = education_intrigue_2
+	father = 7289
+	3261.1.1 = {
+		birth = "3261.1.1"
+	}
+	3277.1.2 = {
+		add_spouse = 453601
+	}
+	3290.5.6 = {
+		add_spouse = 453604
+	}
+	3300.1.1 = {
+		death = "3300.1.1"
+	}
+}
+
+453601 = {  	
+	name = "Elspeth"
+	female = yes
+	dynasty = 3134
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_1
+	father = 453030
+	mother = 453602
+	3247.1.1 = {
+		birth = "3247.1.1"
+	}
+	3290.1.2 = {
+		death = "3290.1.2"
+	}
+}
+
+453602 = {  	
+	name = "Jean"
+	# AKA: Jean Macrory
+	female = yes
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_2
+	3225.1.1 = {
+		birth = "3225.1.1"
+	}
+	3277.1.2 = {
+		death = "3277.1.2"
+	}
+}
+
+453603 = {  	
+	name = "James"
+	dynasty = 3125
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = honest
+	trait = education_martial_2
+	father = 453600
+	mother = 453601
+	3279.1.1 = {
+		birth = "3279.1.1"
+	}
+	3332.8.25 = {
+		death = "3332.8.25"
+	}
+}
+
+453605 = {  	
+	name = "William"
+	dynasty = 3125
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = arrogant
+	trait = education_martial_2
+	father = 453603
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3335.1.1 = {
+		death = "3335.1.1"
+	}
+}
+
+453606 = {  	
+	name = "Archibald"
+	dynasty = 3125
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_stewardship_2
+	father = 453603
+	3329.1.1 = {
+		birth = "3329.1.1"
+	}
+	3379.1.1 = {
+		death = "3379.1.1"
+	}
+}
+
+453607 = {  	
+	name = "Hugh"
+	dynasty = 3125
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = honest
+	trait = education_martial_2
+	father = 453600
+	mother = 453604
+	3294.1.1 = {
+		birth = "3294.1.1"
+	}
+	3344.1.1 = {
+		death = "3344.1.1"
+	}
+}
+
+453608 = {  	
+	name = "Archibald"
+	dynasty = 3125
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = education_martial_2
+	father = 453600
+	mother = 453604
+	3299.1.1 = {
+		birth = "3299.1.1"
+	}
+	3317.1.1 = {
+		add_spouse = 453609
+	}
+	3335.1.20 = {
+		death = "3335.1.20"
+	}
+}
+
+453610 = {  	
+	name = "John"
+	dynasty = 3125
+	martial = 7
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 3
+	religion = "catholic"
+	culture = "scottish"
+	trait = stuttering
+	trait = education_martial_2
+	father = 453608
+	mother = 453609
+	3317.1.1 = {
+		birth = "3317.1.1"
+	}
+	3367.1.1 = {
+		death = "3367.1.1"
+	}
+}
+
+453611 = {  	
+	name = "William"
+	dynasty = 3125
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = just
+	trait = greedy
+	trait = education_martial_2
+	father = 453608
+	mother = 453609
+	3319.1.1 = {
+		birth = "3319.1.1"
+	}
+	3369.1.1 = {
+		death = "3369.1.1"
+	}
+}
+
+454992 = {  	
+	name = "Christina"
+	female = yes
+	dynasty = 3122
+	martial = 8
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = wrathful
+	trait = education_intrigue_2
+	father = 332035
+	mother = 161374
+	3260.1.1 = {
+		birth = "3260.1.1"
+	}
+	3322.1.1 = {
+		death = "3322.1.1"
+	}
+}
+
+487060 = {  	
+	name = "Hugh"
+	dynasty = 100039
+	martial = 3
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = education_martial_2
+	father = 453052
+	mother = 453070
+	3324.1.1 = {
+		birth = "3324.1.1"
+	}
+	3374.1.1 = {
+		death = "3374.1.1"
+	}
+}
+
+487061 = {  	
+	name = "Janet"
+	female = yes
+	dynasty = 100039
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = generous
+	trait = education_learning_2
+	father = 453052
+	mother = 453070
+	3331.1.1 = {
+		birth = "3331.1.1"
+	}
+	3381.1.1 = {
+		death = "3381.1.1"
+	}
+}
+
+6900 = {  	
+	name = "Alexander"
+	dynasty = 1687
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	trait = lustful
+	father = 202999
+	mother = 202987
+	3200.8.24 = {
+		birth = "3200.8.24"
+	}
+	3223.6.21 = {
+		add_spouse = 183030
+	}
+	3241.1.1 = {
+		add_spouse = 6901
+	}
+	3251.7.8 = {
+		death = "3251.7.8"
+	}
+}
+
+6902 = {  	
+	name = "Alexander"
+	dynasty = 1687
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	trait = lustful
+	father = 6900
+	mother = 6901
+	3243.9.4 = {
+		birth = "3243.9.4"
+	}
+	3253.12.26 = {
+		add_spouse = 455792
+	}
+	3288.3.19 = {
+		death = "3288.3.19"
+	}
+}
+
+6903 = {  	
+	name = "Margaret"
+	female = yes
+	dynasty = 1687
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_stewardship_3
+	father = 6902
+	mother = 455792
+	3262.2.28 = {
+		birth = "3262.2.28"
+	}
+	3285.4.9 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+
+7289 = {  	
+	name = "William"
+	dynasty = 3125
+	religion = "catholic"
+	culture = "scottish"
+	father = 7290
+	3222.1.1 = {
+		birth = "3222.1.1"
+	}
+	3276.1.1 = {
+		death = "3276.1.1"
+	}
+}
+
+7279 = {  	
+	name = "Colin" # Cailean Mór
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 188920
+	mother = 188921
+	trait = strong
+	3242.1.1 = {
+		birth = yes
+	}
+	3267.1.1 = {
+		add_spouse = 188922
+	}
+	3298.10.1 = {
+		give_nickname = nick_the_great
+		death = yes
+	}
+}
+
+7290 = {  	
+	name = "Archibald"
+	dynasty = 3125
+	religion = "catholic"
+	culture = "scottish"
+	father = 7291
+	3200.1.1 = {
+		birth = "3200.1.1"
+	}
+	3242.1.1 = {
+		death = "3242.1.1"
+	}
+}
+
+
+7291 = {  	
+	name = "William"
+	dynasty = 3125
+	religion = "catholic"
+	culture = "scottish"
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3216.1.1 = {
+		death = "3216.1.1"
+	}
+}
+
+7294 = {  	
+	name = "Alexander"
+	dynasty = 101600
+	religion = "catholic"
+	culture = "scottish"
+	father = 7363
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3307.1.1 = {
+		death = "3307.1.1"
+	}
+}
+
+7295 = {  	
+	name = "John"
+	dynasty = 101600
+	religion = "catholic"
+	culture = "scottish"
+	father = 7363
+	3261.1.1 = {
+		birth = "3261.1.1"
+	}
+	3310.12.1 = {
+		death = "3310.12.1"
+	}
+}
+
+
+7296 = {  	
+	name = "Jean"
+	female = yes
+	dynasty = 101600
+	religion = "catholic"
+	culture = "scottish"
+	father = 203005
+	3194.1.1 = {
+		birth = "3194.1.1"
+	}
+	
+	3276.1.1 = {
+		death = "3276.1.1"
+	}
+}
+
+7297 = {  	
+	name = "William"
+	dynasty = 100039
+	religion = "catholic"
+	culture = "scottish"
+	father = 83593
+	mother = 203002
+	3218.1.1 = {
+		birth = "3218.1.1"
+	}
+	3234.1.1 = {
+		add_spouse = 7296
+	}
+	3276.5.1 = {
+		death = "3276.5.1"
+	}
+}
+
+7298 = {  	
+	name = "William"
+	dynasty = 100039
+	religion = "catholic"
+	culture = "scottish"
+	father = 7297
+	mother = 7296
+	3235.1.1 = {
+		birth = "3235.1.1"
+	}
+	3325.1.28 = {
+		death = "3325.1.28"
+	}
+}
+
+7342 = {  	
+	name = "John"
+	dynasty = 101600
+	religion = "catholic"
+	culture = "scottish"
+	father = 7359
+	mother = 7365
+	3299.1.1 = {
+		birth = "3299.1.1"
+	}
+	3316.6.24 = {
+		death = "3316.6.24"
+	}
+}
+
+7343 = {  	
+	name = "Magnus"
+	dynasty = 20083
+	religion = "catholic"
+	culture = "scottish"
+	father = 7344
+	3287.1.1 = {
+		birth = "3287.1.1"
+	}
+	3323.1.1 = {
+		death = "3323.1.1"
+	}
+}
+
+7344 = {  	
+	name = "John"
+	dynasty = 20083
+	religion = "catholic"
+	culture = "scottish"
+	father = 7346
+	3257.1.1 = {
+		birth = "3257.1.1"
+	}
+	3314.10.28 = {
+		death = "3314.10.28"
+	}
+}
+
+7345 = {  	
+	name = "Maud"
+	female = yes
+	dynasty = 20083
+	religion = "catholic"
+	culture = "scottish"
+	father = 7347
+	3228.1.1 = {
+		birth = "3228.1.1"
+	}
+	3263.1.1 = {
+		death = "3263.1.1"
+	}
+}
+
+7346 = {  	
+	name = "Magnus"
+	dynasty = 20083
+	religion = "catholic"
+	culture = "scottish"
+	father = 7347
+	3227.1.1 = {
+		birth = "3227.1.1"
+	}
+	3275.1.1 = {
+		death = "3275.1.1"
+	}
+}
+
+7347 = {  	
+	name = "Gilbride"
+	dynasty = 20083
+	religion = "catholic"
+	culture = "scottish"
+	father = 203080
+	3200.1.1 = {
+		birth = "3200.1.1"
+	}
+	3258.1.1 = {
+		death = "3258.1.1"
+	}
+}
+
+7359 = {  	
+	name = "John"
+	dynasty = 101600
+	religion = "catholic"
+	culture = "scottish"
+	father = 7361
+	mother = 7360
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3298.1.1 = {
+		add_spouse = 7365
+	}
+	3308.2.10 = {
+		death = "3308.2.10"
+	}
+}
+
+7360 = {  	
+	name = "Eleanor"
+	female = yes
+	dynasty = 103
+	religion = "catholic"
+	culture = "scottish"
+	father = 230523
+	mother = 230522
+	3261.1.1 = {
+		birth = "3261.1.1"
+	}
+	3316.11.25 = {
+		death = "3316.11.25"
+	}
+}
+
+7361 = {  	
+	name = "John"
+	dynasty = 101600
+	religion = "catholic"
+	culture = "scottish"
+	father = 7362
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3281.1.1 = {
+		add_spouse = 7360
+	}
+	3304.1.1 = {
+		death = "3304.1.1"
+	}
+}
+
+7362 = {  	
+	name = "John"
+	dynasty = 101600
+	religion = "catholic"
+	culture = "scottish"
+	father = 7358
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3279.1.1 = {
+		death = "3279.1.1"
+	}
+}
+
+7363 = {  	
+	name = "Alexander"
+	dynasty = 101600
+	religion = "catholic"
+	culture = "scottish"
+	father = 203005
+	mother = 332001
+	3214.1.1 = {
+		birth = "3214.1.1"
+	}
+	3292.4.5 = {
+		death = "3292.4.5"
+	}
+}
+
+7364 = {  	
+	name = "Elspeth"
+	female = yes
+	dynasty = 101600
+	religion = "catholic"
+	culture = "scottish"
+	father = 203005
+	mother = 332001
+	3215.1.1 = {
+		birth = "3215.1.1"
+	}
+	
+	3268.1.1 = {
+		death = "3268.1.1"
+	}
+}
+
+
+7366 = {  	
+	name = "David"
+	dynasty_house = house_british_isles_duib
+	religion = "catholic"
+	culture = "scottish"
+	father = 7369
+	mother = 7370
+	3214.1.1 = {
+		birth = "3214.1.1"
+	}
+	3272.8.6 = {
+		death = "3272.8.6"
+	}
+}
+
+7367 = {  	
+	name = "William"
+	dynasty = 100042
+	religion = "catholic"
+	culture = "scottish"
+	father = 203062
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3231.1.1 = {
+		add_spouse = 7364
+	}
+	3283.2.7 = {
+		death = "3283.2.7"
+	}
+}
+
+7369 = {  	
+	name = "John"
+	dynasty_house = house_british_isles_duib
+	religion = "catholic"
+	culture = "scottish"
+	father = 7386
+	3198.1.1 = {
+		birth = "3198.1.1"
+	}
+	3204.1.1 = {
+		add_spouse = 7370
+	}
+	3262.1.1 = {
+		death = "3262.1.1"
+	}
+}
+
+7379 = {  	
+	name = "Ada"
+	female = yes
+	dynasty = 1687
+	religion = "catholic"
+	culture = "scottish"
+	father = 203520
+	mother = 204681
+	3220.1.1 = {
+		birth = "3220.1.1"
+	}
+	3243.1.1 = {
+		death = "3243.1.1"
+	}
+}
+
+7383 = {  	
+	name = "Patrick"
+	dynasty = 371
+	religion = "catholic"
+	culture = "scottish"
+	father = 203573
+	mother = 7384
+	3214.1.1 = {
+		birth = "3214.1.1"
+	}
+	3244.1.1 = {
+		death = "3244.1.1"
+	}
+}
+
+7384 = {  	
+	name = "Isabel"
+	female = yes
+	dynasty_house = house_british_isles_atholl
+	religion = "catholic"
+	culture = "scottish"
+	father = 7411
+	3165.1.1 = {
+		birth = "3165.1.1"
+	}
+	3237.1.1 = {
+		death = "3237.1.1"
+	}
+}
+
+7385 = {  	
+	name = "Forflissa"
+	female = yes
+	dynasty_house = house_british_isles_atholl
+	religion = "catholic"
+	culture = "scottish"
+	father = 7411
+	3166.1.1 = {
+		birth = "3166.1.1"
+	}
+	3256.1.1 = {
+		death = "3256.1.1"
+	}
+}
+
+7386 = {  	
+	name = "David"
+	dynasty_house = house_british_isles_duib
+	religion = "catholic"
+	culture = "scottish"
+	father = 203010
+	mother = 203032
+	3183.1.1 = {
+		birth = "3183.1.1"
+	}
+	3238.2.12 = {
+		death = "3238.2.12"
+	}
+}
+
+7411 = {  	
+	name = "Henry"
+	dynasty_house = house_british_isles_atholl
+	religion = "catholic"
+	culture = "scottish"
+	father = 7389
+	3145.1.1 = {
+		birth = "3145.1.1"
+	}
+	3213.1.1 = {
+		death = "3213.1.1"
+	}
+}
+
+7397 = {  	
+	name = "Thomas"
+	dynasty = 3146
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = education_martial_2
+	father = 453058
+	mother = 453059
+	3310.1.1 = {
+		birth = "3310.1.1"
+	}
+	3334.8.11 = {
+		death = "3334.8.11"
+	}
+}
+
+7398 = {  	
+	name = "Malcolm"
+	dynasty_house = house_british_isles_duib
+	religion = "catholic"
+	culture = "scottish"
+	father = 203034
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3268.1.1 = {
+		death = "3268.1.1"
+	}
+}
+
+
+7399 = {  	
+	name = "Colban"
+	dynasty_house = house_british_isles_duib
+	religion = "catholic"
+	culture = "scottish"
+	father = 7398
+	3246.1.1 = {
+		birth = "3246.1.1"
+	}
+	3272.1.1 = {
+		death = "3272.1.1"
+	}
+}
+
+7459 = {  	
+	name = "John"
+	dynasty = 1687
+	religion = "catholic"
+	culture = "scottish"
+	father = 203520
+	mother = 204681
+	3209.1.1 = {
+		birth = "3209.1.1"
+	}
+	3239.6.6 = {
+		death = "3239.6.6"
+	}
+}
+
+7616 = {  	
+	name = "Patrick"
+	# AKA: Patrik
+	dynasty_house = house_british_isles_dunbar
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = brave
+	trait = education_martial_2
+	father = 203016
+	3215.1.1 = {
+		birth = "3215.1.1"
+	}
+	3243.1.1 = {
+		add_spouse = 7617
+	}
+	3291.8.24 = {
+		death = "3291.8.24"
+	}
+}
+
+7617 = {  	
+	name = "Christiana"
+	female = yes
+	dynasty = 3123
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_3
+	father = 203546
+	#mother = 203545
+	3228.1.1 = {
+		birth = "3228.1.1"
+	}
+	3306.1.2 = {
+		death = "3306.1.2"
+	}
+}
+
+
+82013 = {  	
+	name = "Malise"
+	# AKA: Mael
+	dynasty = 9101
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 82012
+	trait = brave
+	trait = education_martial_2
+	3097.1.2 = {
+		birth = "3097.1.2"
+	}
+	3152.1.2 = {
+		death = "3152.1.2"
+	}
+}
+
+82014 = {  	
+	name = "Farquhar"
+	dynasty = 9101
+	martial = 5
+	diplomacy = 5
+	intrigue = 9
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 82013
+	3132.1.2 = {
+		birth = "3132.1.2"
+	}
+	3149.1.2 = {
+		add_spouse = 82015
+	}
+	3173.1.2 = {
+		death = "3173.1.2"
+	}
+}
+
+82015 = {  	
+	name = "Eithne"
+	female = yes
+	dynasty = 9102
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	3133.1.2 = {
+		birth = "3133.1.2"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+82016 = {  	
+	name = "Gilbride"
+	dynasty = 9101
+	martial = 5
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_learning_2
+	father = 82014
+	mother = 82015
+	3150.1.1 = {
+		birth = "3150.1.1"
+	}
+	3174.1.2 = {
+		add_spouse = 82019
+	}
+	3225.1.1 = {
+		death = "3225.1.1"
+	}
+}
+
+82017 = {  	
+	name = "Malise"
+	dynasty = 9101
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	father = 82014
+	mother = 82015
+	3153.1.1 = {
+		birth = "3153.1.1"
+	}
+	3217.1.1 = {
+		death = "3217.1.1"
+	}
+}
+
+82018 = {  	
+	name = "Gilchrist"
+	dynasty = 9101
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 82014
+	mother = 82015
+	3155.1.1 = {
+		birth = "3155.1.1"
+	}
+	3223.1.1 = {
+		death = "3223.1.1"
+	}
+}
+
+82020 = {  	
+	name = "Gilchrist"
+	# AKA: Gille
+	dynasty = 9101
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 82016
+	mother = 82019
+	3176.1.1 = {
+		birth = "3176.1.1"
+	}
+	3200.5.1 = {
+		death = "3200.5.1"
+	}
+}
+
+82021 = {  	
+	name = "William"
+	dynasty = 9101
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 82016
+	mother = 82019
+	3178.1.1 = {
+		birth = "3178.1.1"
+	}
+	3203.1.1 = {
+		death = "3203.1.1"
+	}
+}
+
+82022 = {  	
+	name = "Farquhar"
+	dynasty = 9101
+	martial = 5
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	father = 82016
+	mother = 82019
+	3180.1.1 = {
+		birth = "3180.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+82023 = {  	
+	name = "Robert"
+	dynasty = 9101
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 82016
+	mother = 82019
+	3183.10.1 = {
+		birth = "3183.10.1"
+	}
+	3247.7.1 = {
+		death = "3247.7.1"
+	}
+}
+
+82024 = {  	
+	name = "Fergus"
+	dynasty = 9101
+	martial = 5
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	father = 82016
+	mother = 82019
+	3186.1.1 = {
+		birth = "3186.1.1"
+	}
+	3252.1.1 = {
+		death = "3252.1.1"
+	}
+}
+
+82025 = {  	
+	name = "Malise"
+	dynasty = 9101
+	martial = 6
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 82016
+	mother = 82019
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3237.1.1 = {
+		death = "3237.1.1"
+	}
+}
+
+82026 = {  	
+	name = "Gilbride"
+	# AKA: Gille
+	dynasty = 9101
+	martial = 9
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 82016
+	mother = 82019
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3247.7.1 = {
+		death = "3247.7.1"
+	}
+}
+
+82027 = {  	
+	name = "Maud"
+	female = yes
+	dynasty = 9101
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 82016
+	mother = 82019
+	3182.1.2 = {
+		birth = "3182.1.2"
+	}
+	3241.1.1 = {
+		death = "3241.1.1"
+	}
+}
+
+82028 = {  	
+	name = "Cecilia"
+	female = yes
+	dynasty = 9101
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	father = 82016
+	mother = 82019
+	3184.1.2 = {
+		birth = "3184.1.2"
+	}
+	3252.1.1 = {
+		death = "3252.1.1"
+	}
+}
+
+82029 = {  	
+	name = "Eithne"
+	female = yes
+	dynasty = 9101
+	martial = 4
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 82016
+	mother = 82019
+	3189.1.2 = {
+		birth = "3189.1.2"
+	}
+	3254.1.1 = {
+		death = "3254.1.1"
+	}
+}
+
+82030 = {  	
+	name = "Malise"
+	# AKA: Mael
+	dynasty = 9101
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	father = 82023
+	3223.5.1 = {
+		birth = "3223.5.1"
+	}
+	3246.1.1 = {
+		add_spouse = 7345
+	}
+	3273.9.1 = {
+		death = "3273.9.1"
+	}
+}
+
+82031 = {  	
+	name = "Hugh"
+	dynasty = 9101
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 82023
+	3226.1.1 = {
+		birth = "3226.1.1"
+	}
+	3280.1.1 = {
+		death = "3280.1.1"
+	}
+}
+
+82032 = {  	
+	name = "Gilbride"
+	# AKA: Gille
+	dynasty = 9101
+	martial = 7
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	father = 82023
+	3229.1.1 = {
+		birth = "3229.1.1"
+	}
+	3281.1.1 = {
+		death = "3281.1.1"
+	}
+}
+
+82033 = {  	
+	name = "Malise"
+	dynasty = 9101
+	martial = 4
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 82030
+	mother = 7345
+	3259.1.1 = {
+		birth = "3259.1.1"
+	}
+	3277.1.1 = {
+		add_spouse = 161655
+	}
+	3315.1.28 = {
+		death = "3315.1.28"
+	}
+}
+
+82036 = {  	
+	name = "Maurice"
+	dynasty = 9104
+	martial = 8
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	3299.1.1 = {
+		birth = "3299.1.1"
+	}
+	3348.10.17 = {
+		death = "3348.10.17"
+	}
+}
+
+82050 = {  	
+	name = "Gilmichael" #Domesday book landowner of Westmorland, captain of Gospatric who harassed Durham monks
+	# AKA: Gille
+	dynasty = 9108
+	martial = 7
+	diplomacy = 3
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_diplomacy_2
+	trait = drunkard
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	3094.12.31 = {
+		death = "3094.12.31"
+	}
+}
+
+984 = {
+	name = "Malcolm"
+	# AKA: Mael Coluim 'Canmore'
+	dna = 984_king_malcom
+	dynasty = 1687
+	martial = 8
+	diplomacy = 10
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish" # was born to Gaelic family, but raised speaking English
+	trait = wrathful
+	trait = cynical
+	trait = arrogant
+	trait = intellect_good_1
+	trait = education_diplomacy_3
+	father = 982
+	mother = 193
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	3033.1.2 = {
+		birth = "3033.1.2"
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+	}
+	3060.1.1 = {
+		give_nickname = nick_canmore
+		effect = {
+			set_relation_rival = { target = character:6008 reason = rival_historical }	#Took Malsnectan's kingdom from him.
+			set_relation_friend = { reason = friend_generic_history target = character:124 } #Tostig, King Harold's brother in exile
+		}
+	}
+	3062.1.2 = {
+		add_spouse = 102505
+	}
+	3072.1.1 = {
+		add_spouse = 113
+	}
+	3095.11.13 = {
+		death = "3095.11.13"
+	}
+}
+
+
+
+83300 = {
+	name = "Malcolm"
+	dynasty = 20083
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = "scottish"
+	father = 203022
+	3195.1.1 = {
+		birth = "3195.1.1"
+	}
+	3243.7.1 = {
+		death = "3243.7.1"
+	}
+}
+
+83301 = {
+	name = "Hugh"
+	dynasty = 20083
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	trait = bastard
+	trait = education_learning_3
+	culture = "scottish"
+	father = 203022
+	3197.1.1 = {
+		birth = "3197.1.1"
+	}
+	3247.7.1 = {
+		death = "3247.7.1"
+	}
+}
+
+83302 = {
+	name = "Maud"
+	female = yes
+	dynasty = 20083
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	father = 83300
+	3226.1.1 = {
+		birth = "3226.1.1"
+	}
+	3248.7.1 = {
+		death = "3248.7.1"
+	}
+}
+
+232679 = {
+	name = "Malcolm"
+	# AKA: Mael Coluim mac Alaxandair
+	dynasty = 9224
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = arbitrary
+	trait = bastard
+	trait = wrathful
+	trait = education_martial_2
+	father = 232678
+	3110.1.1 = {
+		birth = "3110.1.1"
+	}
+	3137.5.1 = {
+		death = "3137.5.1"
+	}
+}
+
+83588 = {
+	name = "Hugh"
+	dynasty = 3104
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	father = 6014
+	3099.1.1 = {
+		birth = "3099.1.1"
+	}
+	3131.7.1 = {
+		death = "3131.7.1"
+	}
+}
+
+83589 = {
+	name = "Malcolm" #Máel-Coluim 'Macheth'
+	dynasty = 3104
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	father = 83588
+	3117.1.1 = {
+		birth = "3117.1.1"
+	}
+	3170.10.23 = {
+		death = "3170.10.23"
+	}
+}
+
+83590 = {
+	name = "Adam"
+	dynasty = 3104
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 83589
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3188.7.1 = {
+		death = "3188.7.1"
+	}
+}
+
+83591 = {
+	name = "Kenneth"
+	dynasty = 3104
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 83590
+	3166.1.1 = {
+		birth = "3166.1.1"
+	}
+	3217.7.1 = {
+		death = "3217.7.1"
+	}
+}
+
+83593 = {
+	name = "Farquhar"
+	dynasty = 100039
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3217.1.1 = {
+		add_spouse = 203002
+	}
+	3253.7.1 = {
+		death = "3253.7.1"
+	}
+}
+
+144947 = {  	
+	name = "William"
+	dynasty = 3123
+	religion = "catholic"
+	culture = "scottish"
+	father = 144948
+	3170.1.1 = {
+		birth = "3170.1.1"
+	}
+	3214.6.16 = {
+		death = "3214.6.16"
+	}
+}
+
+144948 = {  	
+	name = "Robert"
+	dynasty = 3123
+	religion = "catholic"
+	culture = "scottish"
+	father = 144949
+	3140.1.1 = {
+		birth = "3140.1.1"
+	}
+	3196.1.1 = {
+		death = "3196.1.1"
+	}
+}
+
+202995 = {
+	name = "Edith"
+	# AKA: Edith-Matilda
+	female = yes
+	dynasty = 1687
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 984
+	mother = 113
+	3081.1.1 = {
+		birth = "3081.1.1"
+	}
+	3102.11.11 = {
+		name = "Matilda"
+	}
+	3120.5.1 = {
+		death = "3120.5.1"
+	}
+}
+
+220029 = {
+	name = "Rachel"
+	female = yes
+	dynasty = 25046
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_stewardship_2
+	father = 220019
+	mother = 220028
+	3176.1.1 = {
+		birth = "3176.1.1"
+	}
+	3226.1.1 = {
+		death = "3226.1.1"
+	}
+}
+
+453068 = {
+	name = "Isabel"
+	female = yes
+	dynasty_house = house_british_isles_duib
+	martial = 3
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = honest
+	trait = greedy
+	trait = education_stewardship_2
+	father = 453010
+	mother = 453067
+	3320.1.1 = {
+		birth = "3320.1.1"
+	}
+	3370.1.1 = {
+		death = "3370.1.1"
+	}
+}
+
+453069 = {
+	name = "Elspeth"
+	female = yes
+	dynasty_house = house_british_isles_duib
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 2
+	religion = "catholic"
+	culture = "scottish"
+	trait = cynical
+	trait = greedy
+	trait = education_diplomacy_1
+	father = 453010
+	mother = 453067
+	3322.1.1 = {
+		birth = "3322.1.1"
+	}
+	3372.1.1 = {
+		death = "3372.1.1"
+	}
+}
+
+203011 = {
+	name = "Alan"
+	dynasty = 3134
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = education_martial_3
+	father = 203027
+	mother = 203028
+	3139.1.1 = {
+		birth = yes
+	}
+	3180.1.1 = {
+		add_spouse = 203012
+	}
+	3206.1.1 = {
+		death = yes
+	}
+}
+
+203013 = {
+	name = "Walter"
+	dynasty = 3134
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_stewardship_2
+	father = 203011
+	mother = 203012
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3248.1.1 = {
+		death = "3248.1.1"
+	}
+}
+
+203040 = {
+	name = "David"
+	dynasty = 3134
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 203011
+	mother = 203012
+	3183.1.1 = {
+		birth = "3183.1.1"
+	}
+	3233.1.1 = {
+		death = "3233.1.1"
+	}
+}
+
+203541 = {
+	name = "Avelina"
+	female = yes
+	dynasty = 3134
+	martial = 8
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = arbitrary
+	trait = education_stewardship_2
+	father = 203011
+	mother = 203012
+	3181.1.2 = {
+		birth = "3181.1.2"
+	}
+	3231.1.2 = {
+		death = "3231.1.2"
+	}
+}
+
+203027 = {
+	name = "Walter"
+	dynasty = 3134
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 203041
+	3107.1.1 = {
+		birth = "3107.1.1"
+	}
+	3138.1.1 = {
+		add_spouse = 203028
+	}
+	3179.1.1 = {
+		death = "3179.1.1"
+	}
+}
+
+230523 = {
+	name = "John"
+	dynasty = 103
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	3210.1.1 = {
+		birth = "3210.1.1"
+	}
+	3235.1.1 = {
+		add_spouse = 230522
+	}
+	3270.10.25 = {
+		death = "3270.10.25"
+	}
+}
+
+453609 = {
+	name = "Bethoc"
+	female = yes
+	dynasty = 3122
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = temperate
+	trait = arrogant
+	trait = chaste
+	trait = education_intrigue_1
+	father = 161382
+	3301.1.1 = {
+		birth = "3301.1.1"
+	}
+	3351.1.1 = {
+		death = "3351.1.1"
+	}
+}
+
+161374 = {  	
+	name = "Ada"
+	female = yes
+	dynasty = 103
+	religion = "catholic"
+	culture = "scottish"
+	father = 230523
+	mother = 230522
+	3244.1.1 = {
+		birth = "3244.1.1"
+	}
+	3285.12.27 = {
+		death = "3285.12.27"
+	}
+}
+
+
+
+
+161375 = {  	
+	name = "William"
+	dynasty = 3122
+	religion = "catholic"
+	culture = "scottish"
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+
+
+161376 = {  	
+	name = "Walter"
+	dynasty = 3122
+	religion = "catholic"
+	culture = "scottish"
+	father = 161375
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3223.1.1 = {
+		death = "3223.1.1"
+	}
+}
+
+
+
+161377 = {  	
+	name = "William"
+	dynasty = 3122
+	religion = "catholic"
+	culture = "scottish"
+	father = 161376
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3249.1.1 = {
+		death = "3249.1.1"
+	}
+}
+
+
+
+
+161378 = {  	
+	name = "Walter"
+	dynasty = 3122
+	religion = "catholic"
+	culture = "scottish"
+	father = 161377
+	3223.1.1 = {
+		birth = "3223.1.1"
+	}
+	3273.11.2 = {
+		death = "3273.11.2"
+	}
+}
+
+
+
+161379 = {  	
+	name = "William"
+	dynasty = 3122
+	religion = "catholic"
+	culture = "scottish"
+	father = 161375
+	3177.1.1 = {
+		birth = "3177.1.1"
+	}
+	3238.8.25 = {
+		death = "3238.8.25"
+	}
+}
+
+161380 = {  	
+	name = "David"
+	dynasty = 3122
+	religion = "catholic"
+	culture = "scottish"
+	father = 161379
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3251.1.1 = {
+		death = "3251.1.1"
+	}
+}
+
+
+
+161381 = {  	
+	name = "David"
+	dynasty = 3122
+	religion = "catholic"
+	culture = "scottish"
+	father = 161380
+	3227.1.1 = {
+		birth = "3227.1.1"
+	}
+	3273.1.1 = {
+		death = "3273.1.1"
+	}
+}
+
+
+
+161382 = {  	
+	name = "Alexander"
+	dynasty = 3122
+	religion = "catholic"
+	culture = "scottish"
+	father = 161381
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3310.1.1 = {
+		death = "3310.1.1"
+	}
+}
+
+
+161383 = {  	
+	name = "Hugh"
+	dynasty = 103
+	religion = "catholic"
+	culture = "scottish"
+	father = 230523
+	mother = 230522
+	3239.1.1 = {
+		birth = "3239.1.1"
+	}
+	3273.4.10 = {
+		death = "3273.4.10"
+	}
+}
+
+161384 = {  	
+	name = "Alexander"
+	dynasty = 103
+	religion = "catholic"
+	culture = "scottish"
+	father = 230523
+	mother = 230522
+	3245.1.1 = {
+		birth = "3245.1.1"
+	}
+	3280.11.13 = {
+		death = "3280.11.13"
+	}
+}
+
+202962 = {
+	name = "William"
+	dynasty = 100040
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = diligent
+	trait = brave
+	trait = greedy
+	trait = education_martial_2
+	father = 202960
+	3169.1.1 = {
+		birth = "3169.1.1"
+	}
+	3219.1.1 = {
+		death = "3219.1.1"
+	}
+}
+
+202963 = {
+	name = "Andrew"
+	dynasty = 100040
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = humble
+	trait = zealous
+	trait = education_learning_2
+	father = 202960
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3227.1.1 = {
+		death = "3227.1.1"
+	}
+}
+
+202961 = {
+	name = "Hugh"
+	dynasty = 100040
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = humble
+	trait = greedy
+	trait = education_martial_2
+	father = 202960
+	3167.1.1 = {
+		birth = "3167.1.1"
+	}
+	3217.1.1 = {
+		death = "3217.1.1"
+	}
+}
+
+232600 = {
+	name = "Colban"
+	# AKA: Colban
+	dynasty = 100041
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	3119.1.1 = {
+		birth = "3119.1.1"
+	}
+	3136.1.1 = {
+		add_spouse = 232599
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+232601 = {
+	name = "Ruairi"
+	# AKA: Ruaidhri mac Cholbain
+	dynasty = 100041
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 232600
+	mother = 232599
+	3149.1.1 = {
+		birth = "3149.1.1"
+	}
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+232602 = {
+	name = "Fergus"
+	# AKA: Fearghus mac Cholbain
+	dynasty = 100041
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = diligent
+	trait = education_diplomacy_2
+	father = 232600
+	mother = 232599
+	3153.1.1 = {
+		birth = "3153.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+332001 = {
+	name = "Marjory"
+	female = yes
+	dynasty = 100041
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = temperate
+	father = 232602
+	3188.1.1 = {
+		birth = "3188.1.1"
+	}
+	3246.1.1 = {
+		death = "3246.1.1"
+	}
+}
+
+332002 = {
+	name = "Merleswain"
+	# AKA: Merleswain mac Cholbain
+	dynasty = 100041
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 9
+	religion = "catholic"
+	culture = "scottish"
+	trait = bastard
+	father = 232600
+	3149.1.2 = {
+		birth = "3149.1.2"
+	}
+	3199.1.2 = {
+		death = "3199.1.2"
+	}
+}
+
+332003 = {
+	name = "Merleswain"
+	# AKA: Merleswain mac Merleswain
+	dynasty = 100041
+	martial = 9
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 332002
+	3168.1.2 = {
+		birth = "3168.1.2"
+	}
+	3218.1.2 = {
+		death = "3218.1.2"
+	}
+}
+
+332004 = {
+	name = "Adam"
+	# AKA: Adhamh mac Cholbain
+	dynasty = 100041
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = bastard
+	father = 232600
+	3180.1.2 = {
+		birth = "3180.1.2"
+	}
+	3230.1.2 = {
+		death = "3230.1.2"
+	}
+}
+
+332005 = {
+	name = "Magnus"
+	# AKA: Maghnus mac Cholbain
+	dynasty = 100041
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = bastard
+	father = 232600
+	3179.1.2 = {
+		birth = "3179.1.2"
+	}
+	3229.1.2 = {
+		death = "3229.1.2"
+	}
+}
+
+203005 = {
+	name = "William"
+	dynasty = 101600
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_learning_3
+	father = 203029
+	mother = 7387
+	3173.1.1 = {
+		birth = "3173.1.1"
+	}
+	3212.1.1 = {
+		add_spouse = 332001
+	}
+	3223.1.1 = {
+		death = "3223.1.1"
+	}
+}
+
+203029 = {
+	name = "Richard"
+	dynasty = 101600
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3148.1.1 = {
+		add_spouse = 7387
+	}
+	3184.1.1 = {
+		death = "3184.1.1"
+	}
+}
+
+7358 = {
+	name = "Richard"
+	dynasty = 101600
+	religion = "catholic"
+	culture = "scottish"
+	father = 203005
+	3193.1.1 = {
+		birth = "3193.1.1"
+	}
+	3251.1.1 = {
+		death = "3251.1.1"
+	}
+}
+
+203550 = {
+	name = "Gilbert"
+	# AKA: Giolla-Bhrighde
+	dynasty = 371
+	religion = "catholic"
+	culture = "scottish"
+	trait = cynical
+	trait = education_learning_3
+	father = 203560
+	mother = 203561
+	3128.1.2 = {
+		birth = "3128.1.2"
+	}
+	#3152.1.2 = {
+	#	dynasty = 373
+	#}
+	3175.1.1 = {
+		add_spouse = 188924 # possibly
+	}
+	3187.1.2 = {
+		death = "3187.1.2"
+	}
+}
+
+203540 = {
+	name = "Duncan" # Donnchadh of Carrick
+	dynasty = 371
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 203550
+	mother = 188924
+	3176.1.2 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		add_spouse = 203541
+	}
+	3252.6.13 = {
+		death = yes
+	}
+}
+
+83122 = {
+	name = "Colin"
+	dynasty = 371
+	religion = "catholic"
+	culture = "scottish"
+	father = 203540
+	mother = 203541
+	3202.1.2 = {
+		birth = yes
+	}
+	3219.1.2 = {
+		add_spouse = 83086
+	}
+	3248.1.2 = {
+		death = yes
+	}
+}
+
+83123 = {
+	name = "Malcolm"
+	dynasty = 371
+	martial = 8
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 203550
+	3153.1.2 = {
+		birth = "3153.1.2"
+	}
+	3176.7.1 = {
+		death = "3176.7.1"
+	}
+}
+
+83124 = {
+	name = "Gilconnell"
+	dynasty = 371
+	martial = 3
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = lisping
+	trait = education_learning_1
+	father = 203550
+	3183.1.2 = {
+		birth = "3183.1.2"
+	}
+	3243.1.2 = {
+		death = "3243.1.2"
+	}
+}
+
+203542 = {
+	name = "Neil"
+	dynasty = 371
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 83122
+	mother = 83086
+	3223.1.2 = {
+		birth = "3223.1.2"
+	}
+	3258.1.2 = {
+		death = "3258.1.2"
+	}
+}
+
+203555 = {
+	name = "Uhtred"
+	dynasty = 371
+	martial = 8
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_2
+	father = 203560
+	mother = 203561
+	3130.1.2 = {
+		birth = "3130.1.2"
+	}
+	3152.1.2 = {
+		add_spouse = 203556
+	}
+	#3152.1.2 = {
+	#	dynasty = 25006
+	#}
+	3176.1.23 = {
+		death = "3176.1.23"
+	}
+}
+
+203560 = {
+	name = "Fergus"
+	dynasty = 371
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = just
+	trait = honest
+	trait = education_learning_2
+	3090.1.1 = {
+		birth = "3090.1.1"
+	}
+	3120.1.1 = {
+		add_spouse = 203561 #Elizabeth FitzRoy
+	}
+	3163.1.13 = {
+		death = "3163.1.13"
+	}
+}
+
+203570 = {
+	name = "Lachlan"
+	dynasty = 371
+	martial = 4
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = gluttonous
+	trait = education_intrigue_2
+	father = 203555
+	mother = 203556
+	3166.1.2 = {
+		birth = "3166.1.2"
+	}
+	3187.1.2 = {
+		add_spouse = 203571
+	}
+	3216.1.2 = {
+		death = "3216.1.2"
+	}
+}
+
+203572 = {
+	name = "Alan"
+	dynasty = 371
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	father = 203570
+	mother = 203571
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3210.1.1 = {
+		add_spouse = 7428
+	}
+	3210.12.31 = {
+		remove_spouse = 7428
+	}
+	3211.1.1 = {
+		add_spouse = 230521
+	}
+	3238.1.2 = {
+		death = "3238.1.2"
+	}
+}
+
+203573 = {
+	name = "Thomas"
+	# AKA: Tomas
+	dynasty = 371
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	father = 203570
+	mother = 203571
+	3189.1.1 = {
+		birth = "3189.1.1"
+	}
+	3213.1.1 = {
+		add_spouse = 7384
+	}
+	3233.1.1 = {
+		death = "3233.1.1"
+	}
+}
+
+7427 = {
+	name = "Helen"
+	female = yes
+	dynasty = 371
+	religion = "catholic"
+	culture = "scottish"
+	father = 203572
+	mother = 7428
+	3210.10.1 = {
+		birth = "3210.10.1"
+	}
+	3247.11.21 = {
+		death = "3247.11.21"
+	}
+}
+
+232683 = {
+	name = "Dugald"
+	dynasty = 25046
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 220027
+	mother = 220026
+	3151.1.1 = {
+		birth = "3151.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+232684 = {
+	name = "Duncan"
+	dynasty = 25046
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 2
+	religion = "catholic"
+	culture = "scottish"
+	trait = generous
+	trait = education_stewardship_2
+	father = 232683
+	3174.1.1 = {
+		birth = "3174.1.1"
+	}
+	3239.1.1 = {
+		death = "3239.1.1"
+	}
+}
+
+232685 = {
+	name = "Dugald"
+	# AKA: Dubhghall 'Screech'
+	dynasty = 25046
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = lisping
+	trait = education_martial_2
+	father = 232683
+	3175.1.1 = {
+		birth = "3175.1.1"
+	}
+	3227.1.1 = {
+		death = "3227.1.1"
+	}
+}
+
+332014 = {
+	name = "Bethoc"
+	# AKA: Bethoc
+	female = yes
+	dynasty = 25046
+	martial = 7
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 9
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_learning_2
+	father = 220027
+	mother = 220026
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+332015 = {
+	name = "Aulay"
+	dynasty = 25046
+	martial = 5
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 220027
+	mother = 220026
+	3161.1.1 = {
+		birth = "3161.1.1"
+	}
+	3211.1.1 = {
+		death = "3211.1.1"
+	}
+}
+
+7278 = {
+	name = "Ewan"
+	dynasty = 25046
+	religion = "catholic"
+	culture = "scottish"
+	trait = generous
+	trait = education_stewardship_2
+	father = 232684
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3268.1.1 = {
+		death = "3268.1.1"
+	}
+}
+
+161655 = {  	
+	name = "Agnes"
+	female = yes
+	dynasty = 101600
+	religion = "catholic"
+	culture = "scottish"
+	father = 7363
+	3261.1.1 = {
+		birth = "3261.1.1"
+	}
+	3315.3.25 = {
+		death = "3315.3.25"
+	}
+}
+
+161656 = {  	
+	name = "Mary"
+	female = yes
+	dynasty = 9101
+	religion = "catholic"
+	culture = "scottish"
+	father = 450821
+	mother = 188933
+	3311.1.1 = {
+		birth = yes
+	}
+	3352.1.1 = {
+		death = yes
+	}
+}
+
+161657 = {  	
+	name = "Maud"
+	female = yes
+	dynasty = 9101
+	religion = "catholic"
+	culture = "scottish"
+	father = 82033
+	mother = 161655
+	3279.1.1 = {
+		birth = "3279.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+161658 = {  	
+	name = "Gilbride"
+	dynasty = 9101
+	religion = "catholic"
+	culture = "scottish"
+	father = 82033
+	mother = 161655
+	3280.1.1 = {
+		birth = "3280.1.1"
+	}
+	3298.8.13 = {
+		death = "3298.8.13"
+	}
+}
+
+161659 = {  	
+	name = "Robert"
+	dynasty = 9101
+	religion = "catholic"
+	culture = "scottish"
+	father = 82033
+	mother = 161655
+	3281.1.1 = {
+		birth = "3281.1.1"
+	}
+	3298.7.17 = {
+		death = "3298.7.17"
+	}
+}
+
+85018 = {
+	name = "Gospatric"
+	dynasty_house = house_british_isles_dunbar
+	martial = 4
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	trait = lustful
+	trait = education_diplomacy_2
+	father = 964
+	mother = 189
+	3042.1.2 = {
+		birth = "3042.1.2"
+	}
+	3061.1.2 = {
+		add_spouse = 967
+	}
+	3063.1.1 = {
+		effect = {
+			set_relation_rival = { target = character:124 reason = rival_historical }	#Taken by Tostig as a hostage on a trip to Rome some time in this year.
+		}
+	}
+	3075.1.1 = {
+		death = "3075.1.1"
+	}
+}
+
+85019 = {
+	name = "Gospatric"
+	dynasty_house = house_british_isles_dunbar
+	martial = 8
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = arrogant
+	trait = cynical
+	trait = education_martial_2
+	father = 85018
+	mother = 967
+	3065.1.2 = {
+		birth = "3042.1.2"
+	}
+	3140.8.22 = {
+		death = "3075.1.1"	#Battle of the Standard
+	}
+}
+
+232598 = {
+	name = "Gartnait"
+	dynasty = 20085
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_learning_2
+	father = 131006
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3137.1.1 = {
+		death = "3137.1.1"
+	}
+}
+
+232599 = {
+	name = "Eva"
+	female = yes
+	dynasty = 20085
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = arbitrary
+	trait = calm
+	trait = education_stewardship_2
+	father = 232598
+	3120.1.1 = {
+		birth = "3120.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+167014 = {  	
+	name = "Edward"
+	dynasty = 1687
+	religion = "catholic"
+	culture = "scottish"
+	father = 984
+	mother = 113
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3095.11.13 = {
+		death = "3095.11.13"
+	}
+}
+
+167015 = {  	
+	name = "Edmund"
+	dynasty = 1687
+	religion = "catholic"
+	culture = "scottish"
+	father = 984
+	mother = 113
+	3073.1.1 = {
+		birth = "3073.1.1"
+	}
+	3101.1.1 = {
+		death = "3101.1.1"
+	}
+}
+
+167016 = {  	
+	name = "Ethelred"
+	dynasty = 1687
+	religion = "catholic"
+	culture = "scottish"
+	trait = clubfooted
+	trait = celibate
+	trait = education_learning_1
+	father = 984
+	mother = 113
+	3075.1.1 = {
+		birth = "3075.1.1"
+	}
+	3106.1.1 = {
+		death = "3106.1.1"
+	}
+}
+
+167017 = {  	
+	name = "Malcolm"
+	dynasty = 1687
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_1
+	father = 984
+	mother = 102505
+	3064.1.1 = {
+		birth = "3064.1.1"
+	}
+	3096.1.1 = {
+		death = "3096.1.1"
+	}
+}
+
+167018 = {  	
+	name = "Ladhmann"
+	dynasty = 1687
+	religion = "catholic"
+	culture = "scottish"
+	father = 992
+	3085.1.1 = {
+		birth = "3085.1.1"
+	}
+	3118.1.1 = {
+		death = "3118.1.1"
+	}
+}
+
+967 = {
+	name = "Etheldreda"
+	# AKA: Æthelreda
+	female = yes
+	dynasty = 3108
+	martial = 8
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_intrigue_2
+	3044.1.2 = {
+		birth = "3044.1.2"
+	}
+	3094.1.2 = {
+		death = "3094.1.2"
+	}
+}
+
+963 = {
+	name = "Dolfin"
+	dynasty_house = house_british_isles_dunbar
+	martial = 8
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	father = 85018
+	mother = 967
+	3062.6.1 = {
+		birth = "3062.6.1"
+	}
+	3106.1.2 = {
+		death = "3106.1.2"
+	}
+}
+
+203026 = {
+	name = "Waldeve"
+	dynasty_house = house_british_isles_dunbar
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = zealous
+	trait = education_learning_2
+	father = 85018
+	mother = 967
+	3068.1.1 = {
+		birth = "3068.1.1"
+	}
+	3142.1.1 = {
+		death = "3142.1.1"
+	}
+}
+
+969 = {
+	name = "Etheldreda"
+	female = yes
+	dynasty_house = house_british_isles_dunbar
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_learning_2
+	father = 85018
+	mother = 967
+	3064.1.2 = {
+		birth = "3064.1.2"
+	}
+	3113.1.2 = {
+		death = "3113.1.2"
+	}
+}
+
+971 = {
+	name = "Octreda"
+	female = yes
+	dynasty_house = house_british_isles_dunbar
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "scottish"
+	trait = deceitful
+	trait = arbitrary
+	father = 85018
+	mother = 967
+	3065.1.2 = {
+		birth = "3065.1.2"
+	}
+	3115.1.2 = {
+		death = "3115.1.2"
+	}
+}
+
+203019 = {
+	name = "Gospatric"
+	dynasty_house = house_british_isles_dunbar
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	father = 85018
+	mother = 967
+	3075.1.1 = {
+		birth = "3075.1.1"
+	}
+	3140.1.1 = {
+		death = "3140.1.1"
+	}
+}
+203017 = {
+	name = "Waldeve"
+	dynasty_house = house_british_isles_dunbar
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	father = 203018
+	3131.1.1 = {
+		birth = "3131.1.1"
+	}
+	3184.1.1 = {
+		death = "3184.1.1"
+	}
+}
+
+203018 = {
+	name = "Gospatric"
+	dynasty_house = house_british_isles_dunbar
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	father = 203019
+	3108.1.1 = {
+		birth = "3108.1.1"
+	}
+	3168.1.1 = {
+		death = "3168.1.1"
+	}
+}
+
+203020 = {
+	name = "Agnes"
+	female = yes
+	dynasty_house = house_british_isles_dunbar
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "scottish"
+	father = 203019
+	3120.1.1 = {
+		birth = "3120.1.1"
+	}
+	3148.1.1 = {
+		death = "3148.1.1"
+	}
+}
+
+332021 = {
+	name = "Malcolm"
+	# AKA: Mael Coluim
+	dynasty = 25054
+	martial = 3
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_learning_2
+	father = 332019
+	mother = 332018
+	3173.1.1 = {
+		birth = "3173.1.1"
+	}
+	3223.1.1 = {
+		death = "3223.1.1"
+	}
+}
+
+183531 = {
+	name = "John"
+	dynasty = 25054
+	martial = 4
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = education_martial_2
+	father = 332019
+	mother = 332018
+	3178.1.1 = {
+		birth = "3178.1.1"
+	}
+	3250.1.1 = {
+		death = "3250.1.1"
+	}
+}
+
+183532 = {
+	name = "William"
+	dynasty = 25054
+	religion = "catholic"
+	culture = "scottish"
+	father = 183531
+	3216.1.1 = {
+		birth = "3216.1.1"
+	}
+	3264.1.1 = {
+		death = "3264.1.1"
+	}
+}
+
+183533 = {
+	name = "Peter"
+	dynasty = 25054
+	religion = "catholic"
+	culture = "scottish"
+	father = 183531
+	3219.1.1 = {
+		birth = "3219.1.1"
+	}
+	3291.1.1 = {
+		death = "3291.1.1"
+	}
+}
+
+180716 = {
+	name = "Simon"
+	dynasty = 3134
+	religion = "catholic"
+	culture = "scottish"
+	father = 203041
+	mother = 180782
+	3115.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = yes
+	}
+}
+180717 = {
+	name = "Robert"
+	dynasty = 3134
+	religion = "catholic"
+	culture = "scottish"
+	father = 180716
+	3152.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+
+188920 = {
+	name = "Archibald" # Gilleasbaig of Menstrie
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 188934
+	3217.1.1 = {
+		birth = yes
+	}
+	3241.1.1 = {
+		add_spouse = 188921
+	}
+	3282.1.1 = {
+		death = yes
+	}
+}
+
+188921 = {
+	name = "Affraic" # or Efrica, Afraig, Afraica, Efferick
+	female = yes
+	dynasty = 371
+	religion = "catholic"
+	culture = "scottish"
+	father = 83122 # he was possibly her brother
+	mother = 83086
+	3222.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}
+
+188922 = {
+	name = "Janet"
+	female = yes
+	dynasty = 214012 # Saint-Clair
+	religion = "catholic"
+	culture = "scottish"
+	father = 188923
+	3247.1.1 = {
+		birth = yes
+	}
+	3295.1.1 = {
+		death = yes
+	}
+}
+
+188923 = {
+	name = "John"
+	dynasty = 214012 # Saint-Clair
+	religion = "catholic"
+	culture = "scottish"
+	3220.1.1 = {
+		birth = yes
+	}
+	3266.1.1 = {
+		death = yes
+	}
+}
+
+188924 = {  	
+	name = "Maura" # name made up, possibly didn't exist
+	female = yes
+	dynasty_house = house_british_isles_duib
+	religion = "catholic"
+	culture = "scottish"
+	father = 202977
+	3154.1.1 = {
+		birth = yes
+	}
+	3206.1.1 = {
+		death = yes
+	}
+}
+
+188925 = {  	
+	name = "Walter" # Walter Ballioch
+	dynasty = 3134
+	religion = "catholic"
+	culture = "scottish"
+	father = 203013
+	# mother = Beatrix of Angus
+	3227.1.1 = {
+		birth = yes
+	}
+	3296.1.1 = {
+		death = yes
+	}
+}
+
+188926 = {  	
+	name = "John"
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	father = 188925
+	mother = 188928
+	3266.1.1 = {
+		birth = yes
+	}
+	3325.1.1 = {
+		death = yes
+	}
+}
+
+188927 = {  	
+	name = "Alexander"
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	father = 188925
+	mother = 188928
+	3256.1.1 = {
+		birth = yes
+	}
+	3282.1.1 = {
+		add_spouse = 188947
+	}
+	3307.1.1 = {
+		death = yes
+	}
+}
+
+188928 = {  	
+	name = "Mary"
+	female = yes
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	father = 188930
+	3228.1.1 = {
+		birth = yes
+	}
+	3255.1.1 = {
+		add_spouse = 188925
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+
+188929 = {  	
+	name = "Isabel"
+	female = yes
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	father = 188930
+	3224.1.1 = {
+		birth = yes
+	}
+	3267.1.1 = {
+		death = yes
+	}
+}
+
+188930 = {  	
+	name = "Murdoch" # II (the younger)
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	father = 188932
+	3191.1.1 = {
+		birth = yes
+	}
+	3236.1.1 = {
+		death = yes
+	}
+}
+
+188931 = {  	
+	name = "Murdoch" # I (the elder)
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	father = 188932
+	3186.1.1 = {
+		birth = yes
+	}
+	3222.1.1 = {
+		death = yes
+	}
+}
+
+188932 = {  	
+	name = "Gilchrist"
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	3146.1.1 = {
+		birth = yes
+	}
+	3191.1.1 = {
+		death = yes
+	}
+}
+
+188933 = {  	
+	name = "Agnes" # first wife of Malise IV of Strathearn
+	female = yes
+	religion = "catholic"
+	culture = "scottish"
+	3275.1.1 = {
+		birth = yes
+	}
+	3317.1.1 = {
+		death = yes
+	}
+}
+
+188934 = {
+	name = "Dugald" # Campbell progenitor
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	3187.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = yes
+	}
+}
+
+188935 = {
+	name = "Duncan" # Duncan Dubh
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 188934
+	3215.1.1 = {
+		birth = yes
+		give_nickname = nick_the_black
+	}
+	3269.1.1 = {
+		death = yes
+	}
+}
+
+188936 = {
+	name = "Arthur" # founder of Arthur Campbells of Strachur
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 188935
+	3250.1.1 = {
+		birth = yes
+	}
+	3305.1.1 = {
+		death = yes
+	}
+}
+
+188937 = {
+	name = "Arthur"
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 188936
+	3287.1.1 = {
+		birth = yes
+	}
+	3347.1.1 = {
+		death = yes
+	}
+}
+
+188938 = {
+	name = "Iver"
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 188936
+	3293.1.1 = {
+		birth = yes
+	}
+	3366.1.1 = {
+		death = yes
+	}
+}
+
+188939 = {
+	name = "Arthur"
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 188938
+	3322.1.1 = {
+		birth = yes
+	}
+	3382.1.1 = {
+		death = yes
+	}
+}
+
+188940 = {  	
+	name = "Donald" # progenitor of Campbells of Loudon
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 7279
+	mother = 188922
+	3276.1.1 = {
+		birth = yes
+	}
+	3302.1.1 = {
+		add_spouse = 188952
+	}
+	3331.1.1 = {
+		death = yes
+	}
+}
+
+188941 = {  	
+	name = "Duncan"
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 188940
+	mother = 188952 # possibly his spouse instead of mother
+	3303.1.1 = {
+		birth = yes
+	}
+	3350.1.1 = {
+		death = yes
+	}
+}
+
+188942 = {  	
+	name = "Andrew"
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 188941
+	3329.1.1 = {
+		birth = yes
+	}
+	3371.1.1 = {
+		death = yes
+	}
+}
+
+188943 = {  	
+	name = "Dugald" # Laird of Menstrie in Clackmannanshire
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 7279
+	mother = 188922
+	3286.1.1 = {
+		birth = yes
+	}
+	3348.1.1 = {
+		death = yes
+	}
+}
+
+188944 = {  	
+	name = "John"
+	dynasty = 3128
+	religion = "catholic"
+	culture = "scottish"
+	father = 188943
+	3329.1.1 = {
+		birth = yes
+	}
+	3380.1.1 = {
+		death = yes
+	}
+}
+
+188945 = {  	
+	name = "Alan"
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	father = 188927
+	mother = 188947
+	3283.1.1 = {
+		birth = yes
+	}
+	3307.1.1 = {
+		death = yes
+	}
+}
+
+188946 = {  	
+	name = "Murdoch"
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	father = 188927
+	mother = 188947
+	3285.1.1 = {
+		birth = yes
+	}
+	3334.1.1 = {
+		death = yes
+	}
+}
+
+188947 = {  	
+	name = "Maud" # or Matilda
+	female = yes
+	dynasty = 9101 # of Strathearn
+	religion = "catholic"
+	culture = "scottish"
+	father = 82023
+	3247.1.1 = {
+		birth = yes
+	}
+	3306.1.1 = {
+		death = yes
+	}
+}
+
+188948 = {  	
+	name = "Mary" # the II
+	female = yes
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	father = 188953
+	3319.1.1 = {
+		birth = yes
+	}
+	3361.1.1 = {
+		death = yes
+	}
+}
+
+188949 = {  	
+	name = "Margaret"
+	female = yes
+	dynasty = 214013 # Graham
+	religion = "catholic"
+	culture = "scottish"
+	father = 188950
+	mother = 188948
+	3336.1.1 = {
+		birth = yes
+	}
+	3382.1.1 = {
+		death = yes
+	}
+}
+
+188950 = {  	
+	name = "John"
+	dynasty = 214013 # Graham
+	religion = "catholic"
+	culture = "scottish"
+	3308.1.1 = {
+		birth = yes
+	}
+	3335.1.1 = {
+		add_spouse = 188948
+	}
+	3349.2.28 = {
+		death = yes
+	}
+}
+
+188951 = {  	
+	name = "Andrew"
+	dynasty = 101601 # Crawford
+	religion = "catholic"
+	culture = "scottish"
+	father = 188955 # possibly
+	3262.1.1 = {
+		birth = yes
+	}
+	3299.1.1 = {
+		death = yes
+	}
+}
+
+188952 = {  	
+	name = "Susanna"
+	female = yes
+	dynasty = 101601 # Crawford
+	religion = "catholic"
+	culture = "scottish"
+	father = 188951
+	3284.1.1 = {
+		birth = yes
+	}
+	3330.1.2 = {
+		death = yes
+	}
+}
+
+188953 = {  	
+	name = "Alan" # the II
+	dynasty = 123 # de Menteith
+	religion = "catholic"
+	culture = "scottish"
+	father = 188945
+	3301.1.1 = {
+		birth = yes
+	}
+	3325.1.1 = {
+		death = yes
+	}
+}
+
+188954 = {  	
+	name = "Reginald"
+	dynasty = 101601 # Crawford
+	religion = "catholic"
+	culture = "scottish"
+	father = 188955
+	3258.1.1 = {
+		birth = yes
+	}
+	3309.1.1 = {
+		death = yes
+	}
+}
+
+188955 = {  	
+	name = "Hugh" # Sheriff of Ayr
+	dynasty = 101601 # Crawford
+	religion = "catholic"
+	culture = "scottish"
+	father = 188961
+	3229.1.1 = {
+		birth = yes
+	}
+	3286.1.1 = {
+		death = yes
+	}
+}
+
+188956 = {  	
+	name = "Margaret"
+	female = yes
+	dynasty = 101601 # Crawford
+	religion = "catholic"
+	culture = "scottish"
+	father = 188955
+	3252.1.1 = {
+		birth = yes
+	}
+	3308.1.1 = {
+		death = yes
+	}
+}
+
+188957 = {  	
+	name = "Alan"
+	dynasty = 3133 # Wallace
+	religion = "catholic"
+	culture = "scottish"
+	3248.1.1 = {
+		birth = yes
+	}
+	3270.1.1 = {
+		add_spouse = 188956
+	}
+	3299.1.1 = {
+		death = yes
+	}
+}
+
+188958 = {  	
+	name = "William"
+	dynasty = 3133 # Wallace
+	religion = "catholic"
+	culture = "scottish"
+	father = 188957
+	mother = 188956
+	trait = education_martial_4
+	trait = intellect_good_1
+	trait = ambitious
+	trait = gregarious
+	trait = diligent
+	3273.1.1 = {
+		birth = yes
+	}
+	3307.8.23 = {
+		death = yes
+	}
+}
+
+188959 = {  	
+	name = "Malcolm"
+	dynasty = 3133 # Wallace
+	religion = "catholic"
+	culture = "scottish"
+	father = 188957
+	mother = 188956
+	3271.1.1 = {
+		birth = yes
+	}
+	3314.1.1 = {
+		death = yes
+	}
+}
+
+188960 = {  	
+	name = "John"
+	dynasty = 3133 # Wallace
+	religion = "catholic"
+	culture = "scottish"
+	father = 188957
+	mother = 188956
+	3276.1.1 = {
+		birth = yes
+	}
+	3325.1.1 = {
+		death = yes
+	}
+}
+
+188961 = {  	
+	name = "Hugh" # Sheriff of Ayr
+	dynasty = 101601 # Crawford
+	religion = "catholic"
+	culture = "scottish"
+	father = 188962
+	mother = 188963
+	3202.1.1 = {
+		birth = yes
+	}
+	3250.1.1 = {
+		death = yes
+	}
+}
+
+188962 = {  	
+	name = "Reginald" # Sheriff of Ayr
+	dynasty = 101601 # Crawford
+	religion = "catholic"
+	culture = "scottish"
+	father = 188964
+	3175.1.1 = {
+		birth = yes
+	}
+	3200.1.1 = {
+		add_spouse = 188963
+	}
+	3226.1.1 = {
+		death = yes
+	}
+}
+
+188963 = {  	
+	name = "Margaret"
+	female = yes
+	dynasty = 214014 # de Loudoun
+	religion = "catholic"
+	culture = "scottish"
+	father = 188965
+	3178.1.1 = {
+		birth = yes
+	}
+	3222.1.1 = {
+		death = yes
+	}
+}
+
+188964 = {  	
+	name = "Gaulterus"
+	dynasty = 101601 # Crawford
+	religion = "catholic"
+	culture = "scottish"
+	3142.1.1 = {
+		birth = yes
+	}
+	3210.1.1 = {
+		death = yes
+	}
+}
+
+188965 = {  	
+	name = "James"
+	dynasty = 214014 # de Loudoun
+	religion = "catholic"
+	culture = "scottish"
+	father = 188966
+	3152.1.1 = {
+		birth = yes
+	}
+	3205.1.1 = {
+		death = yes
+	}
+}
+
+188966 = {  	
+	name = "Lambinus"
+	dynasty = 214014 # de Loudoun
+	religion = "catholic"
+	culture = "scottish"
+	3125.1.1 = {
+		birth = yes
+	}
+	3180.1.1 = {
+		death = yes
+	}
+}

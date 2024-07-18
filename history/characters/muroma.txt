@@ -1,0 +1,172 @@
+﻿#Early Muroma
+194159 = {
+	name = "Varaka"
+	dynasty = 1029104
+	religion = finnish_pagan
+	culture = muroma
+	2735.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194160 = {
+	name = "Pivtsay"
+	dynasty = 1029104
+	religion = finnish_pagan
+	culture = muroma
+	father = 194159
+	2772.1.1 = {
+		birth = yes
+	}
+	2824.1.1 = {
+		death = yes
+	}
+}
+194161 = {
+	name = "Kinyak"
+	dynasty = 1029104
+	religion = finnish_pagan
+	culture = muroma
+	father = 194160
+	2812.1.1 = {
+		birth = yes
+	}
+	2868.1.1 = {
+		death = yes
+	}
+}
+159708 = {
+	name = "Varaka"
+	religion = "finnish_pagan"
+	culture = muroma
+	dynasty = 1029104
+	father = 194161
+	2841.1.1 = {
+		birth = yes
+	}
+	2899.1.1 = {
+		death = yes
+	}
+}
+160124 = {
+	name = "Shkay"
+	religion = "finnish_pagan"
+	culture = muroma
+	dynasty = 1029104
+	father = 159708
+	2863.1.1 = {
+		birth = "2863.1.1"
+	}
+	2914.1.2 = {
+		death = "2907.1.2"
+	}
+}
+160125 = {
+	name = "Uchva"
+	religion = "finnish_pagan"
+	culture = muroma
+	dynasty = 1029104
+	father = 159708
+	2864.1.1 = {
+		birth = "2864.1.1"
+	}
+	2907.1.1 = {
+		death = "2907.1.1"
+	}
+}
+160126 = {
+	name = "Nalka"
+	religion = "finnish_pagan"
+	culture = muroma
+	dynasty = 1029104
+	father = 159708
+	2865.1.1 = {
+		birth = "2865.1.1"
+	}
+	2907.1.1 = {
+		death = "2907.1.1"
+	}
+}
+#
+#Post Kievan Rus Muroma
+#
+302248 = {
+	name = "Lapkas"
+	religion = "finnish_pagan"
+	culture = muroma
+	dynasty = 2001045	#Volagas
+	2986.3.16 = {
+		birth = yes
+	}
+	3041.8.13 = {
+		death = yes
+	}
+}
+302249 = {
+	name = "VO_dyr"
+	religion = "finnish_pagan"
+	culture = muroma
+	dynasty = 2001045	#Volagas
+	father = 302248
+	3003.1.11 = {
+		birth = yes
+	}
+	3063.12.22 = {
+		death = yes
+	}
+}
+302250 = {
+	name = "Mikal"
+	religion = "finnish_pagan"
+	culture = muroma
+	dynasty = 2001045	#Volagas
+	father = 302249
+	3029.7.21 = {
+		birth = yes
+	}
+	3082.4.14 = {
+		death = yes
+	}
+}
+302251 = {
+	name = "Kachyrii"
+	female = yes
+	religion = "finnish_pagan"
+	culture = muroma
+	dynasty = 2001045	#Volagas
+	father = 302249
+	3032.5.16 = {
+		birth = yes
+	}
+	3102.12.2 = {
+		death = yes
+	}
+}
+302252 = {
+	name = "Kavri"
+	religion = "finnish_pagan"
+	culture = muroma
+	dynasty = 2001045	#Volagas
+	father = 302250
+	3052.9.1 = {
+		birth = yes
+	}
+	3101.11.4 = {
+		death = yes
+	}
+}
+302253 = {
+	name = "YU_shterge"
+	religion = "finnish_pagan"
+	culture = muroma
+	dynasty = 2001045	#Volagas
+	father = 302250
+	3054.1.3 = {
+		birth = yes
+	}
+	3114.5.14 = {
+		death = yes
+	}
+}

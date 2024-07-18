@@ -1,0 +1,1274 @@
+﻿gur0106 = {
+	name = "Sisabge" #daughter of master of Biun
+	female = yes
+	dynasty = gurdyn001 #masters of Biun
+	religion = west_african_pagan
+	culture = gur
+	father = gur0001
+	3318.1.1 = {
+		birth = yes
+	}
+	3335.1.1 = {
+		add_spouse = 273102 #Kpogonumbo from Mossi
+	}
+	3390.1.1 = {
+		death = yes
+	}
+}
+gur0001 = {
+	name = "Dawuni" #master of Biun
+	dynasty = gurdyn001 #masters of Biun
+	religion = west_african_pagan
+	culture = gur
+	father = gur0015
+	3292.1.1 = {
+		birth = yes
+	}
+	3359.1.1 = {
+		death = yes
+	}
+}
+gur0107 = {
+	name = "Solyini" #princess of Gurma
+	female = yes
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0002
+	3332.1.1 = {
+		birth = yes
+	}
+	3352.1.1 = {
+		add_spouse = 273102 #Kpogonumbo from the Mossi
+	}
+	3393.1.1 = {
+		death = yes
+	}
+}
+gur0002 = {
+	name = "Daramani" #king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0003
+	3302.1.1 = {
+		birth = yes
+	}
+	3365.1.1 = {
+		death = yes
+	}
+}
+gur0003 = {
+	name = "Kalinkuma" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0004
+	3274.1.1 = {
+		birth = yes
+	}
+	3328.1.1 = {
+		death = yes
+	}
+}
+gur0004 = {
+	name = "Yenkuaga" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0005
+	3248.1.1 = {
+		birth = yes
+	}
+	3307.1.1 = {
+		death = yes
+	}
+}
+gur0005 = {
+	name = "Yempaabu" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0006
+	3221.1.1 = {
+		birth = yes
+	}
+	3274.1.1 = {
+		death = yes
+	}
+}
+gur0006 = {
+	name = "Lansongi" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0007
+	3190.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+gur0007 = {
+	name = "Kora" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0008
+	3158.1.1 = {
+		birth = yes
+	}
+	3209.1.1 = {
+		death = yes
+	}
+}
+gur0008 = {
+	name = "Daramani"  #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0009
+	3123.1.1 = {
+		birth = yes
+	}
+	3171.1.1 = {
+		death = yes
+	}
+}
+gur0009 = {
+	name = "Baadindiye" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0010
+	3096.1.1 = {
+		birth = yes
+	}
+	3162.1.1 = {
+		death = yes
+	}
+}
+gur0010 = {
+	name = "Baguiri" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0011
+	3066.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+gur0011 = {
+	name = "Bokari" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0012
+	3042.1.1 = {
+		birth = yes
+	}
+	3099.1.1 = {
+		death = yes
+	}
+}
+gur0012 = {
+	name = "Labidiedo" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0013
+	3011.1.1 = {
+		birth = yes
+	}
+	3070.1.1 = {
+		death = yes
+	}
+}
+gur0013 = {
+	name = "Daramani" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0014
+	2986.1.1 = {
+		birth = yes
+	}
+	3035.1.1 = {
+		death = yes
+	}
+}
+gur0014 = {
+	name = "Bokari" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0064
+	2952.1.1 = {
+		birth = yes
+	}
+	3008.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of Biun
+gur0015 = {
+	name = "Aliu"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	father = gur0016
+	3262.1.1 = {
+		birth = yes
+	}
+	3320.1.1 = {
+		death = yes
+	}
+}
+gur0016 = {
+	name = "Dawuni"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	father = gur0017
+	3235.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+gur0017 = {
+	name = "Waris"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	father = gur0018
+	3210.1.1 = {
+		birth = yes
+	}
+	3257.1.1 = {
+		death = yes
+	}
+}
+gur0018 = {
+	name = "Aliu"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	father = gur0019
+	3191.1.1 = {
+		birth = yes
+	}
+	3241.1.1 = {
+		death = yes
+	}
+}
+gur0019 = {
+	name = "Dawuni"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	father = gur0020
+	3164.1.1 = {
+		birth = yes
+	}
+	3234.1.1 = {
+		death = yes
+	}
+}
+gur0020 = {
+	name = "Gounon"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	father = gur0021
+	3139.1.1 = {
+		birth = yes
+	}
+	3190.1.1 = {
+		death = yes
+	}
+}
+gur0021 = {
+	name = "Gounon"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	father = gur0022
+	3112.1.1 = {
+		birth = yes
+	}
+	3151.1.1 = {
+		death = yes
+	}
+}
+gur0022 = {
+	name = "Aliu"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	father = gur0023
+	3086.1.1 = {
+		birth = yes
+	}
+	3140.1.1 = {
+		death = yes
+	}
+}
+gur0023 = {
+	name = "Dawuni"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	father = gur0025
+	3054.1.1 = {
+		birth = yes
+	}
+	3125.1.1 = {
+		death = yes
+	}
+}
+gur0024 = {
+	name = "Afa_Ajuri"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	father = gur0025
+	3055.1.1 = {
+		birth = yes
+	}
+	3117.1.1 = {
+		death = yes
+	}
+}
+gur0025 = {
+	name = "Mahama"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	father = gur0026
+	3022.1.1 = {
+		birth = yes
+	}
+	3081.1.1 = {
+		death = yes
+	}
+}
+gur0026 = {
+	name = "Dawuni"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	3002.1.1 = {
+		birth = yes
+	}
+	3066.1.1 = {
+		death = yes
+	}
+}
+gur0027 = {
+	name = "Ajuri"
+	dynasty = gurdyn001
+	religion = west_african_pagan
+	culture = gur
+	2842.1.1 = {
+		birth = yes
+	}
+	2898.1.1 = {
+		death = yes
+	}
+}
+
+#characters gur0030-0039 of c_bura moved to sorko culture
+
+#fictional rulers of Oudalan
+gur0040 = {
+	name = "Nambare"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0068
+	3007.1.1 = {
+		birth = yes
+	}
+	3055.1.1 = {
+		death = yes
+	}
+}
+gur0041 = {
+	name = "Tanamwir"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0040
+	3036.1.1 = {
+		birth = yes
+	}
+	3067.1.1 = {
+		death = yes
+	}
+}
+gur0042 = {
+	name = "Kwiimba"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0041
+	3053.1.1 = {
+		birth = yes
+	}
+	3125.1.1 = {
+		death = yes
+	}
+}
+gur0043 = {
+	name = "Kisra"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0042
+	3089.1.1 = {
+		birth = yes
+	}
+	3148.1.1 = {
+		death = yes
+	}
+}
+gur0044 = {
+	name = "Wumborja"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0043
+	3117.1.1 = {
+		birth = yes
+	}
+	3172.1.1 = {
+		death = yes
+	}
+}
+gur0045 = {
+	name = "Bindan"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0044
+	3146.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+gur0046 = {
+	name = "Barkei"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0045
+	3178.1.1 = {
+		birth = yes
+	}
+	3235.1.1 = {
+		death = yes
+	}
+}
+gur0047 = {
+	name = "Nignan"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0046
+	3212.1.1 = {
+		birth = yes
+	}
+	3269.1.1 = {
+		death = yes
+	}
+}
+gur0048 = {
+	name = "Nere"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0047
+	3244.1.1 = {
+		birth = yes
+	}
+	3310.1.1 = {
+		death = yes
+	}
+}
+gur0049 = {
+	name = "Nsanyaan"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0048
+	3272.1.1 = {
+		birth = yes
+	}
+	3330.1.1 = {
+		death = yes
+	}
+}
+gur0050 = {
+	name = "Wumborgnan"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0049
+	3303.1.1 = {
+		birth = yes
+	}
+	3362.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of c_upper_gurma
+gur0051 = {
+	name = "Nsimbaan"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	3014.1.1 = {
+		birth = yes
+	}
+	3066.1.1 = {
+		death = yes
+	}
+}
+gur0052 = {
+	name = "Wumborkan"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	father = gur0051
+	3043.1.1 = {
+		birth = yes
+	}
+	3094.1.1 = {
+		death = yes
+	}
+}
+gur0053 = {
+	name = "Wumborbe"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	father = gur0052
+	3068.1.1 = {
+		birth = yes
+	}
+	3115.1.1 = {
+		death = yes
+	}
+}
+gur0054 = {
+	name = "Wumborti"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	father = gur0053
+	3099.1.1 = {
+		birth = yes
+	}
+	3156.1.1 = {
+		death = yes
+	}
+}
+gur0055 = {
+	name = "Banyubala"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	father = gur0054
+	3132.1.1 = {
+		birth = yes
+	}
+	3176.1.1 = {
+		death = yes
+	}
+}
+gur0056 = {
+	name = "Bilinsun"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	father = gur0055
+	3160.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = yes
+	}
+}
+gur0057 = {
+	name = "Ujakpa"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	father = gur0056
+	3183.1.1 = {
+		birth = yes
+	}
+	3236.1.1 = {
+		death = yes
+	}
+}
+gur0058 = {
+	name = "Iwunliin"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	2850.1.1 = {
+		birth = yes
+	}
+	2904.1.1 = {
+		death = yes
+	}
+}
+gur0059 = {
+	name = "Nkumpoi"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	father = gur0058
+	2883.1.1 = {
+		birth = yes
+	}
+	2940.1.1 = {
+		death = yes
+	}
+}
+gur0060 = {
+	name = "Tabime"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	father = gur0059
+	2911.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+gur0061 = {
+	name = "Ulanja"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	father = gur0060
+	2948.1.1 = {
+		birth = yes
+	}
+	3011.1.1 = {
+		death = yes
+	}
+}
+gur0062 = {
+	name = "Biyakakumi"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	father = gur0061
+	2987.1.1 = {
+		birth = yes
+	}
+	3032.1.1 = {
+		death = yes
+	}
+}
+gur0063 = {
+	name = "Tabime"
+	dynasty = gurdyn005
+	religion = west_african_pagan
+	culture = gur
+	father = gur0057
+	3206.1.1 = {
+		birth = yes
+	}
+	3262.1.1 = {
+		death = yes
+	}
+}
+
+gur0064 = {
+	name = "Yempaabu" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0065
+	2918.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+gur0065 = {
+	name = "Yenkuaga" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0066
+	2884.1.1 = {
+		birth = yes
+	}
+	2932.1.1 = {
+		death = yes
+	}
+}
+gur0066 = {
+	name = "Mahama" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	father = gur0067
+	2860.1.1 = {
+		birth = yes
+	}
+	2914.1.1 = {
+		death = yes
+	}
+}
+gur0067 = {
+	name = "Labidiedo" #fictional king of Gurma
+	dynasty = gurdyn002 #kings of Gurma
+	religion = west_african_pagan
+	culture = gur
+	2838.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+#few more fictional rulers of Oudalan
+gur0068 = {
+	name = "Kwiimba"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0069
+	2972.1.1 = {
+		birth = yes
+	}
+	3025.1.1 = {
+		death = yes
+	}
+}
+gur0069 = {
+	name = "Wumborbe"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0070
+	2937.1.1 = {
+		birth = yes
+	}
+	2989.1.1 = {
+		death = yes
+	}
+}
+gur0070 = {
+	name = "Kisra"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0071
+	2902.1.1 = {
+		birth = yes
+	}
+	2962.1.1 = {
+		death = yes
+	}
+}
+gur0071 = {
+	name = "Nambare"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	father = gur0072
+	2868.1.1 = {
+		birth = yes
+	}
+	2920.1.1 = {
+		death = yes
+	}
+}
+gur0072 = {
+	name = "Wumborbe"
+	dynasty = gurdyn004
+	religion = west_african_pagan
+	culture = gur
+	2845.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of c_po
+gur0073 = {
+	name = "Yempaabu" #fictional
+	dynasty = gurdyn006
+	religion = west_african_pagan
+	culture = gur
+	3035.1.1 = {
+		birth = yes
+	}
+	3092.1.1 = {
+		death = yes
+	}
+}
+gur0074 = {
+	name = "Kwiimba" #fictional
+	dynasty = gurdyn006
+	religion = west_african_pagan
+	culture = gur
+	father = gur0073
+	3062.1.1 = {
+		birth = yes
+	}
+	3118.1.1 = {
+		death = yes
+	}
+}
+gur0075 = {
+	name = "Labidiedo" #fictional
+	dynasty = gurdyn006
+	religion = west_african_pagan
+	culture = gur
+	father = gur0074
+	3092.1.1 = {
+		birth = yes
+	}
+	3150.1.1 = {
+		death = yes
+	}
+}
+gur0076 = {
+	name = "Kisra" #fictional
+	dynasty = gurdyn006
+	religion = west_african_pagan
+	culture = gur
+	father = gur0075
+	3124.1.1 = {
+		birth = yes
+	}
+	3178.1.1 = {
+		death = yes
+	}
+}
+gur0077 = {
+	name = "Yempaabu" #fictional
+	dynasty = gurdyn006
+	religion = west_african_pagan
+	culture = gur
+	father = gur0076
+	3159.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+gur0078 = {
+	name = "Kisra" #fictional
+	dynasty = gurdyn006
+	religion = west_african_pagan
+	culture = gur
+	father = gur0077
+	3192.1.1 = {
+		birth = yes
+	}
+	3248.1.1 = {
+		death = yes
+	}
+}
+gur0079 = {
+	name = "Kwiimba" #fictional
+	dynasty = gurdyn006
+	religion = west_african_pagan
+	culture = gur
+	father = gur0078
+	3223.1.1 = {
+		birth = yes
+	}
+	3279.1.1 = {
+		death = yes
+	}
+}
+gur0080 = {
+	name = "Labidiedo" #fictional
+	dynasty = gurdyn006
+	religion = west_african_pagan
+	culture = gur
+	father = gur0079
+	3252.1.1 = {
+		birth = yes
+	}
+	3311.1.1 = {
+		death = yes
+	}
+}
+
+942069 = {
+	name = "Baadindiye"
+	dynasty = gurdyn007
+	religion = west_african_orisha_pagan
+	culture = gur
+	2852.1.1 = {
+		birth = yes
+	}
+	2952.1.1 = {
+		death = yes
+	}
+}
+gur0081 = {
+	name = "Daramani" #fictional
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	father = 942069
+	2882.1.1 = {
+		birth = yes
+	}
+	2938.1.1 = {
+		death = yes
+	}
+}
+gur0082 = {
+	name = "Labidiedo" #fictional
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	father = gur0081
+	2904.1.1 = {
+		birth = yes
+	}
+	2955.1.1 = {
+		death = yes
+	}
+}
+gur0083 = {
+	name = "Rigau" #fictional
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	father = gur0082
+	2932.1.1 = {
+		birth = yes
+	}
+	2986.1.1 = {
+		death = yes
+	}
+}
+gur0084 = {
+	name = "Tanamwir" #fictional
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	father = gur0083
+	2957.1.1 = {
+		birth = yes
+	}
+	3005.1.1 = {
+		death = yes
+	}
+}
+gur0085 = {
+	name = "Rigau" #fictional
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	father = gur0084
+	2985.1.1 = {
+		birth = yes
+	}
+	3041.1.1 = {
+		death = yes
+	}
+}
+gur0086 = {
+	name = "Lubatko" #fictional
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	father = gur0085
+	3007.1.1 = {
+		birth = yes
+	}
+	3050.1.1 = {
+		death = yes
+	}
+}
+gur0087 = {
+	name = "Tanamwir" #fictional
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	father = gur0086
+	3029.1.1 = {
+		birth = yes
+	}
+	3068.1.1 = {
+		death = yes
+	}
+}
+969420 = {
+	name = Yamba_Sorgo
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	3052.1.1 = {
+		birth = yes
+	}
+	3112.1.1 = {
+		death = yes
+	}
+}
+gur0088 = {
+	name = "Rigau" #fictional
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	father = 969420
+	3078.1.1 = {
+		birth = yes
+	}
+	3117.1.1 = {
+		death = yes
+	}
+}
+gur0089 = {
+	name = "Daramani" #fictional
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	father = gur0088
+	3109.1.1 = {
+		birth = yes
+	}
+	3164.1.1 = {
+		death = yes
+	}
+}
+gur0090 = {
+	name = "Rigau" #fictional
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	father = gur0089
+	3137.1.1 = {
+		birth = yes
+	}
+	3191.1.1 = {
+		death = yes
+	}
+}
+gur0091 = {
+	name = "Tanamwir" #fictional
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	father = gur0090
+	3166.1.1 = {
+		birth = yes
+	}
+	3223.1.1 = {
+		death = yes
+	}
+}
+gur0092 = {
+	name = "Lubatko" #fictional
+	dynasty = gurdyn007
+	religion = west_african_pagan
+	culture = gur
+	father = gur0091
+	3193.1.1 = {
+		birth = yes
+	}
+	3250.1.1 = {
+		death = yes
+	}
+}
+
+# rulers of Kuisugu and Mamprusi
+gur0093 = {
+	name = "Wumborja" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	2847.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		death = yes
+	}
+}
+gur0094 = {
+	name = "Gawrang" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	father = gur0093
+	2880.1.1 = {
+		birth = yes
+	}
+	2932.1.1 = {
+		death = yes
+	}
+}
+gur0095 = {
+	name = "Wumborja" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	father = gur0094
+	2909.1.1 = {
+		birth = yes
+	}
+	2965.1.1 = {
+		death = yes
+	}
+}
+gur0096 = {
+	name = "Begli" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	father = gur0095
+	2940.1.1 = {
+		birth = yes
+	}
+	2994.1.1 = {
+		death = yes
+	}
+}
+gur0097 = {
+	name = "Gawrang" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	father = gur0096
+	2964.1.1 = {
+		birth = yes
+	}
+	3008.1.1 = {
+		death = yes
+	}
+}
+gur0098 = {
+	name = "Bokari" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	father = gur0097
+	2992.1.1 = {
+		birth = yes
+	}
+	3038.1.1 = {
+		death = yes
+	}
+}
+gur0099 = {
+	name = "Dwiyongi" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	father = gur0098
+	3014.1.1 = {
+		birth = yes
+	}
+	3068.1.1 = {
+		death = yes
+	}
+}
+gur0100 = {
+	name = "Gawrang" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	father = gur0099
+	3042.1.1 = {
+		birth = yes
+	}
+	3100.1.1 = {
+		death = yes
+	}
+}
+gur0101 = {
+	name = "Bokari" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	father = gur0100
+	3065.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+gur0102 = {
+	name = "Dwiyongi" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	father = gur0101
+	3100.1.1 = {
+		birth = yes
+	}
+	3155.1.1 = {
+		death = yes
+	}
+}
+gur0103 = {
+	name = "Bokari" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	father = gur0102
+	3132.1.1 = {
+		birth = yes
+	}
+	3186.1.1 = {
+		death = yes
+	}
+}
+gur0104 = {
+	name = "Gawrang" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	father = gur0103
+	3160.1.1 = {
+		birth = yes
+	}
+	3205.1.1 = {
+		death = yes
+	}
+}
+gur0105 = {
+	name = "Begli" #fictional
+	dynasty = gurdyn008
+	religion = west_african_pagan
+	culture = gur
+	father = gur0104
+	3187.1.1 = {
+		birth = yes
+	}
+	3232.1.1 = {
+		death = yes
+	}
+}

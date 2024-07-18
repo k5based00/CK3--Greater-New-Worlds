@@ -1,0 +1,854 @@
+﻿#Yughur Kingdom (Ganzhou Uyghurs)
+166766 = {
+	name = "BO_gU_"
+	dynasty = 1045083 # Ediz
+	religion = "manichean"
+	culture = "uyghur"
+	father = 166765
+	2830.1.1 = {
+		birth = yes
+	}
+	2850.1.1 = {
+		dynasty = 1040064 # Yughur
+		culture = "yughur"
+	}
+	2881.1.1 = {
+		death = yes
+	}
+}
+166767 = {
+	name = "Qutlugh"
+	dynasty = 1040064 # Yughur
+	religion = "manichean"
+	culture = "yughur"
+	father = 166766
+	2852.1.1 = {
+		birth = yes
+	}
+	2884.1.1 = {
+		death = yes
+	}
+}
+194384 = {
+	name = "Akgul"
+	female = yes
+	dynasty = 1040064 # Yughur
+	religion = "manichean"
+	culture = "yughur"
+	father = 166766
+	2850.1.1 = {
+		birth = yes
+	}
+	2867.1.1 = {
+		religion = "vajrayana"
+	}
+	2895.1.1 = {
+		death = yes
+	}
+}
+166768 = {
+	name = "Huaijian"
+	dynasty = 1040064 # Yughur
+	religion = "manichean"
+	culture = "yughur"
+	father = 166767
+	2868.1.1 = {
+		birth = yes
+	}
+	2926.1.1 = {
+		death = yes
+	}
+}
+304194 = {
+	name = "Jinzhu" #unnamed Yughur princess
+	female=yes
+	dynasty = 1040064 # Yughur
+	religion = "vajrayana"
+	culture = "yughur"
+	father = 166767
+	2898.1.1 = {
+		birth = yes
+	}
+	2942.1.1 = {
+		death = yes
+	}
+}
+166769 = {
+	name = "Diyin"
+	dynasty = 1040064 # Yughur
+	religion = "manichean"
+	culture = "yughur"
+	father = 166768
+	2884.1.1 = {
+		birth = yes
+	}
+	2928.1.1 = {
+		death = yes
+	}
+}
+166770 = {
+	name = "Renmei"
+	dynasty = 1040064 # Yughur
+	religion = "manichean"
+	culture = "yughur"
+	father = 166768
+	2887.1.1 = {
+		birth = yes
+	}
+	2927.1.1 = {
+		death = yes
+	}
+}
+166771 = {
+	name = "Aduoyu"
+	dynasty = 1040064 # Yughur
+	religion = "vajrayana"
+	culture = "yughur"
+	father = 166769
+	2899.1.1 = {
+		birth = yes
+	}
+	2928.1.1={
+		name = "Shunhua"
+		add_spouse=1059715 #Cao Yijin's daughter
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+166772 = {
+	name = "Jingqiong"
+	dynasty = 1040064 # Yughur
+	religion = "vajrayana"
+	culture = "yughur"
+	father = 166771
+	mother = 1059715
+	2929.1.1 = {
+		birth = yes
+	}
+	2977.1.1 = {
+		death = yes
+	}
+}
+166773 = {
+	name = "Yeluohe_Mili_e"
+	dynasty = 1040064 # Yughur
+	religion = "vajrayana"
+	culture = "yughur"
+	father = 166772
+	2945.1.1 = {
+		birth = yes
+	}
+	2985.1.1 = {
+		death = yes
+	}
+}
+304180 = {
+	name = "Lusheng"
+	dynasty = 1040064 # Yughur
+	religion = "vajrayana"
+	culture = "yughur"
+	father = 166773
+	2962.1.1 = {
+		birth = yes
+	}
+	3005.1.1 = {
+		death = yes
+	}
+}
+304181 = {
+	name = "Zhongshun_Baode"
+	dynasty = 1040064 # Yughur
+	religion = "vajrayana"
+	culture = "yughur"
+	father = 304180
+	2978.1.1 = {
+		birth = yes
+	}
+	3018.1.1 = {
+		death = yes
+	}
+}
+304182 = {
+	name = "Huaining_Shunhua"
+	dynasty = 1040064 # Yughur
+	religion = "vajrayana"
+	culture = "yughur"
+	father = 304181
+	2994.1.1 = {
+		birth = yes
+	}
+	3025.1.1 = {
+		death = yes
+	}
+}
+304183 = {
+	name = "Guizhong_Baoshun"
+	dynasty = 1040064 # Yughur
+	religion = "vajrayana"
+	culture = "yughur"
+	father = 304181
+	2996.1.1 = {
+		birth = yes
+	}
+	3030.1.1 = {
+		death = yes
+	}
+}
+304184 = {
+	name = "Baoguo"
+	dynasty = 1040064 # Yughur
+	religion = "vajrayana"
+	culture = "yughur"
+	father = 304182
+	3010.1.1 = {
+		birth = yes
+	}
+	3038.1.1 = {
+		death = yes
+	}
+}
+
+#Yughur Vassal of Liangzhou - fictional placeholder
+yughur0001 = {
+	name="Qasar"
+	dynasty=2003099 #Sarïg
+	religion="vajrayana"
+	culture="yughur"
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+#Qilian Yughur Vassals - fictional placeholders
+yughur0002 = {
+	name="Tohti"
+	dynasty=2003106 #Yogïr
+	religion="manichean"
+	culture="yughur"
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+yughur0003 = {
+	name="OrmI_zt"
+	dynasty=2003106 #Yogïr
+	religion="manichean"
+	culture="yughur"
+	father=yughur0002
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+yughur0004 = {
+	name="Tutuk"
+	dynasty=2003106 #Yogïr
+	religion="manichean"
+	culture="yughur"
+	father=yughur0003
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+yughur0005 = {
+	name="Hoshur"
+	dynasty=2003106 #Yogïr
+	religion="manichean"
+	culture="yughur"
+	father=yughur0004
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+yughur0006 = {
+	name="Kerman"
+	dynasty=2003106 #Yogïr
+	religion="manichean"
+	culture="yughur"
+	father=yughur0005
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+yughur0007 = {
+	name="Erkin"
+	dynasty=2003106 #Yogïr
+	religion="manichean"
+	culture="yughur"
+	father=yughur0006
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+yughur0008 = {
+	name="Askar"
+	dynasty=2003106 #Yogïr
+	religion="manichean"
+	culture="yughur"
+	father=yughur0007
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+yughur0009 = {
+	name="Askar"
+	dynasty=2003106 #Yogïr
+	religion="manichean"
+	culture="yughur"
+	father=yughur0008
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+yughur0010 = {
+	name="Boyla"
+	dynasty=2003106 #Yogïr
+	religion="manichean"
+	culture="yughur"
+	father=yughur0009
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+yughur0011 = {
+	name="Tunga"
+	dynasty=2003106 #Yogïr
+	religion="manichean"
+	culture="yughur"
+	father=yughur0010
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+yughur0012 = {
+	name="Peilo"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0011
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+yughur0013 = {
+	name="Tutuk"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0012
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+yughur0014 = {
+	name="Elterish"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0013
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+yughur0015 = {
+	name="Zordun"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0014
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+yughur0016 = {
+	name="SU_pU_rga"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0015
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+yughur0017 = {
+	name="Isa"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0016
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+yughur0018 = {
+	name="TO_mU_r"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0017
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+yughur0019 = {
+	name="Yabgu"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0018
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+yughur0020 = {
+	name="Chawar"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0019
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+yughur0021 = {
+	name="Omerjan"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0020
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+yughur0022 = {
+	name="Sabit"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0021
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+yughur0023 = {
+	name="Qaplan"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0022
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+yughur0024 = {
+	name="O_ge"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0023
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+yughur0025 = {
+	name="Bilge"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0024
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+yughur0026 = {
+	name="Tekin"
+	dynasty=2003106 #Yogïr
+	religion="lamaism"
+	culture="yughur"
+	father=yughur0025
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Suzhou Yughur Vassals - fictional placeholders
+yughur0027 = {
+	name="Tuchiachi"
+	dynasty=2003109 #Uzur
+	religion="manichean"
+	culture="yughur"
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+yughur0028 = {
+	name="Palta"
+	dynasty=2003109 #Uzur
+	religion="manichean"
+	culture="yughur"
+	father=yughur0027
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+yughur0029 = {
+	name="Gheni"
+	dynasty=2003109 #Uzur
+	religion="manichean"
+	culture="yughur"
+	father=yughur0028
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+yughur0030 = {
+	name="Buqa"
+	dynasty=2003109 #Uzur
+	religion="manichean"
+	culture="yughur"
+	father=yughur0029
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+yughur0031 = {
+	name="Zordun"
+	dynasty=2003109 #Uzur
+	religion="mahayana"
+	culture="yughur"
+	father=yughur0030
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+yughur0032 = {
+	name="Arslan"
+	dynasty=2003109 #Uzur
+	religion="mahayana"
+	culture="yughur"
+	father=yughur0031
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+yughur0033 = {
+	name="Orkesh"
+	dynasty=2003109 #Uzur
+	religion="mahayana"
+	culture="yughur"
+	father=yughur0032
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+yughur0034 = {
+	name="Timur"
+	dynasty=2003109 #Uzur
+	religion="mahayana"
+	culture="yughur"
+	father=yughur0033
+	2982.1.1={
+		birth=yes
+	}
+	3038.1.1={
+		death=yes
+	}
+}
+
+yughur0035 = {
+	name="Ziya"
+	dynasty=2003109 #Uzur
+	religion="mahayana"
+	culture="yughur"
+	father=yughur0034
+	3002.1.1={
+		birth=yes
+	}
+	3038.1.1={
+		death=yes
+	}
+}
+
+yughur0036 = {
+	name="Erkin"
+	dynasty=2003109 #Uzur
+	religion="mahayana"
+	culture="yughur"
+	father=yughur0035
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+#Suzhou Yughur Vassals - fictional placeholders
+yughur0037 = {
+	name="Askar"
+	dynasty=2003112 #Eçina
+	religion="manichean"
+	culture="yughur"
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+yughur0038 = {
+	name="PankU_l"
+	dynasty=2003112 #Eçina
+	religion="manichean"
+	culture="yughur"
+	father=yughur0037
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+yughur0039 = {
+	name="Shingqur"
+	dynasty=2003112 #Eçina
+	religion="manichean"
+	culture="yughur"
+	father=yughur0038
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+yughur0040 = {
+	name="Elihan"
+	dynasty=2003112 #Eçina
+	religion="manichean"
+	culture="yughur"
+	father=yughur0039
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+yughur0041 = {
+	name="Yusup"
+	dynasty=2003112 #Eçina
+	religion="manichean"
+	culture="yughur"
+	father=yughur0040
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+yughur0042 = {
+	name="Buzurb"
+	dynasty=2003112 #Eçina
+	religion="manichean"
+	culture="yughur"
+	father=yughur0041
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+yughur0043 = {
+	name="Tursun"
+	dynasty=2003112 #Eçina
+	religion="manichean"
+	culture="yughur"
+	father=yughur0042
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+yughur0044 = {
+	name="Bazh"
+	dynasty=2003112 #Eçina
+	religion="manichean"
+	culture="yughur"
+	father=yughur0043
+	2982.1.1={
+		birth=yes
+	}
+	3038.1.1={
+		death=yes
+	}
+}
+
+yughur0045 = {
+	name="Sheto"
+	dynasty=2003112 #Eçina
+	religion="manichean"
+	culture="yughur"
+	father=yughur0044
+	3002.1.1={
+		birth=yes
+	}
+	3038.1.1={
+		death=yes
+	}
+}
+
+yughur0046 = {
+	name="Aduoyu"
+	dynasty=2003112 #Eçina
+	religion="manichean"
+	culture="yughur"
+	father=yughur0045
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}

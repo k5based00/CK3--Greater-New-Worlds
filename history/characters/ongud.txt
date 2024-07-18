@@ -1,0 +1,433 @@
+﻿#Nestorian Priest and Yuan Diplomat to Europe
+305795 = {
+	name = "Rabban_Bar_C_auma"
+	religion = "nestorian"
+	culture = "ongud"
+	trait = education_learning_3
+	3222.1.1 = {
+		birth = yes
+	}
+	3296.1.1 = {
+		death = yes
+	}
+}
+
+#Ongud Vassals Wuluhai - fictional placeholders
+ongud0001 = {
+	name="Otrok"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+ongud0002 = {
+	name="Ituk"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0001
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+ongud0003 = {
+	name="Saru"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0002
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+ongud0004 = {
+	name="Sotan"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0003
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+ongud0005 = {
+	name="Kolo"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0004
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+ongud0006 = {
+	name="C_ur"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0005
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+ongud0007 = {
+	name="Ele"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0006
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+ongud0008 = {
+	name="Beka"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0007
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+ongud0009 = {
+	name="Arbuz"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0008
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+ongud0010 = {
+	name="Sugr"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0009
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+ongud0011 = {
+	name="Zeyhan"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0010
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+ongud0012 = {
+	name="Gzak"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0011
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+ongud0013 = {
+	name="Kozel"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0012
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+ongud0014 = {
+	name="Togli"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0013
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+ongud0015 = {
+	name="Kobyak"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0014
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+ongud0016 = {
+	name="Asep"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0015
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+ongud0017 = {
+	name="Eltut"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0016
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+ongud0018 = {
+	name="Blush"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0017
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+ongud0019 = {
+	name="Chilbuk"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0018
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+ongud0020 = {
+	name="Kutesk"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0019
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+ongud0021 = {
+	name="C_auma"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0020
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+ongud0022 = {
+	name="Sharaga"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0021
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+ongud0023 = {
+	name="Menk"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0022
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+ongud0024 = {
+	name="Menk"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0023
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+ongud0025 = {
+	name="Kopti"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0024
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+ongud0026 = {
+	name="Itlar"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0025
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+ongud0027 = {
+	name="Bilge"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0026
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+ongud0028 = {
+	name="Jamuqa"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0027
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+ongud0029 = {
+	name="Inanch"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0028
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+ongud0030 = {
+	name="Gur"
+	dynasty=2003102 #Uraqai
+	religion="nestorian"
+	culture="ongud"
+	father=ongud0029
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}

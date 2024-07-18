@@ -1,0 +1,360 @@
+﻿#Laktanid
+302425 = {
+	name = "Aepak"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	2799.4.21 = {
+		birth = yes
+	}
+	2846.1.22 = {
+		death = yes
+	}
+}
+
+302426 = {
+	name = "Kozel"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302425
+	2826.6.23 = {
+		birth = yes
+	}
+	2846.6.29 = {
+		add_spouse = 302428
+	}
+	2885.6.12 = {
+		death = yes
+	}
+}
+302427 = {
+	name = "Kobyak"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302425
+	2828.4.30 = {
+		birth = yes
+	}
+	2852.12.3 = {
+		add_spouse = 302429
+	}
+	2888.11.21 = {
+		death = yes
+	}
+}
+302428 = {
+	name = "Gunes"
+	female = yes
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	2827.2.12 = {
+		birth = yes
+	}
+	2891.3.20 = {
+		death = yes
+	}
+}
+302429 = {
+	name = "Sirin"
+	female = yes
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	2830.7.16 = {
+		birth = yes
+	}
+	2896.10.2 = {
+		death = yes
+	}
+}
+
+302430 = {
+	name = "Aepak"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302426
+	mother = 302428
+	2854.4.24 = {
+		birth = yes
+	}
+	2915.9.11 = {
+		death = yes
+	}
+}
+302431 = {
+	name = "Bonyak"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302426
+	mother = 302428
+	2857.8.24 = {
+		birth = yes
+	}
+	2914.8.30 = {
+		death = yes
+	}
+}
+302432 = {
+	name = "Sotan"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302427
+	mother = 302429
+	2854.3.16 = {
+		birth = yes
+	}
+	2914.12.9 = {
+		death = yes
+	}
+}
+302433 = {
+	name = "Sibel"
+	female = yes
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302427
+	mother = 302429
+	2858.1.12 = {
+		birth = yes
+	}
+	2917.3.22 = {
+		death = yes
+	}
+}
+
+302434 = {
+	name = "Gzi"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	3047.5.16 = {
+		birth = yes
+	}
+	3064.5.16 = {
+		add_spouse = 302435
+	}
+	3104.3.19 = {
+		death = yes
+	}
+}
+302435 = {
+	name = "Yildiz"
+	female = yes
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	3049.7.20 = {
+		birth = yes
+	}
+	3130.8.12 = {
+		death = yes
+	}
+}
+302436 = {
+	name = "Sokal"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302434
+	mother = 302435
+	3065.6.13 = {
+		birth = yes
+	}
+	3123.7.24 = {
+		death = yes
+	}
+}
+302437 = {
+	name = "Sotan"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302434
+	mother = 302435
+	3065.6.13 = {
+		birth = yes
+	}
+	3130.4.30 = {
+		death = yes
+	}
+}
+302438 = {
+	name = "Umay"
+	female = yes
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302434
+	mother = 302435
+	3068.1.3 = {
+		birth = yes
+	}
+	3138.3.9 = {
+		death = yes
+	}
+}
+302439 = {
+	name = "Etrek"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302436
+	3092.5.10 = {
+		birth = yes
+	}
+	3151.10.7 = {
+		death = yes
+	}
+}
+302440 = {
+	name = "Blush"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302439
+	3118.8.8 = {
+		birth = yes
+	}
+	3160.1.17 = {
+		death = yes
+	}
+}
+302441 = {
+	name = "Girgen"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302440
+	3148.4.21 = {
+		birth = yes
+	}
+	3208.12.18 = {
+		death = yes
+	}
+}
+302442 = {
+	name = "Gzi"
+	dynasty = 2001077	#Laktanid
+	religion = tengri_pagan
+	culture = laktan
+	father = 302441
+	3171.9.19 = {
+		birth = yes
+	}
+	3226.11.4 = {
+		death = yes
+	}
+}
+
+#Taiket
+302608 = {
+	name = "Begluk"
+	dynasty = 2001093	#Taiket
+	religion = tengri_pagan
+	culture = laktan
+	2832.6.16 = {
+		birth = yes
+	}
+	2886.4.12 = {
+		death = yes
+	}
+}
+302609 = {
+	name = "Koza"
+	dynasty = 2001093	#Taiket
+	religion = tengri_pagan
+	culture = laktan
+	father = 302608
+	2853.9.23 = {
+		birth = yes
+	}
+	2909.1.12 = {
+		death = yes
+	}
+}
+302610 = {
+	name = "Pulad"
+	dynasty = 2001093	#Taiket
+	religion = tengri_pagan
+	culture = laktan
+	3044.8.13 = {
+		birth = yes
+	}
+	3099.1.14 = {
+		death = yes
+	}
+}
+302611 = {
+	name = "Koza"
+	dynasty = 2001093	#Taiket
+	religion = tengri_pagan
+	culture = laktan
+	father = 302610
+	3068.3.25 = {
+		birth = yes
+	}
+	3120.6.16 = {
+		death = yes
+	}
+}
+302612 = {
+	name = "Pulad"
+	dynasty = 2001093	#Taiket
+	religion = tengri_pagan
+	culture = laktan
+	father = 302611
+	3095.11.4 = {
+		birth = yes
+	}
+	3144.8.19 = {
+		death = yes
+	}
+}
+302613 = {
+	name = "SevenC_"
+	dynasty = 2001093	#Taiket
+	religion = tengri_pagan
+	culture = laktan
+	father = 302612
+	3120.6.29 = {
+		birth = yes
+	}
+	3170.7.15 = {
+		death = yes
+	}
+}
+302614 = {
+	name = "TO_rtogul"
+	dynasty = 2001093	#Taiket
+	religion = tengri_pagan
+	culture = laktan
+	father = 302613
+	3146.3.6 = {
+		birth = yes
+	}
+	3206.11.18 = {
+		death = yes
+	}
+}
+302615 = {
+	name = "SevenC_"
+	dynasty = 2001093	#Taiket
+	religion = tengri_pagan
+	culture = laktan
+	father = 302614
+	3169.12.27 = {
+		birth = yes
+	}
+	3213.7.30 = {
+		death = yes
+	}
+}
+
+#

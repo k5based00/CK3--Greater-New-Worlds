@@ -1,0 +1,395 @@
+﻿#Ewe characters
+
+#placeholders for c_ewe
+
+ewe0001 = {
+	name = "Ewale" #fictional
+	dynasty = ewedyn001
+	religion = west_african_orisha_pagan
+	culture = ewe
+	2837.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+ewe0002 = {
+	name = "Kginginfra" #fictional
+	dynasty = ewedyn001
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0001
+	2872.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+ewe0003 = {
+	name = "Sha_moye" #fictional
+	dynasty = ewedyn001
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0002
+	2917.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+ewe0004 = {
+	name = "Ewale" #fictional
+	dynasty = ewedyn001
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0003
+	2975.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+ewe0005 = {
+	name = "Sha_moye" #fictional
+	dynasty = ewedyn001
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0004
+	3024.1.1 = {
+		birth = yes
+	}
+	3083.1.1 = {
+		death = yes
+	}
+}
+ewe0006 = {
+	name = "Aso_wura" #fictional
+	dynasty = ewedyn001
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0005
+	3064.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+ewe0007 = {
+	name = "Ewale" #fictional
+	dynasty = ewedyn001
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0006
+	3102.1.1 = {
+		birth = yes
+	}
+	3161.1.1 = {
+		death = yes
+	}
+}
+ewe0008 = {
+	name = "Yomba" #fictional
+	dynasty = ewedyn001
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0007
+	3144.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+ewe0009 = {
+	name = "Boreginkpr" #fictional
+	dynasty = ewedyn001
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0008
+	3182.1.1 = {
+		birth = yes
+	}
+	3237.1.1 = {
+		death = yes
+	}
+}
+ewe0010 = {
+	name = "Aso_wura" #fictional
+	dynasty = ewedyn001
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0009
+	3217.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}
+
+#rulers in c_todo
+ewe0011 = {
+	name = "Obosu" #fictional
+	dynasty = ewedyn002
+	religion = west_african_orisha_pagan
+	culture = ewe
+	2832.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+ewe0012 = {
+	name = "Nefa" #fictional
+	dynasty = ewedyn002
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0011
+	2867.1.1 = {
+		birth = yes
+	}
+	2932.1.1 = {
+		death = yes
+	}
+}
+ewe0013 = {
+	name = "Lomashie" #fictional
+	dynasty = ewedyn002
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0012
+	2912.1.1 = {
+		birth = yes
+	}
+	2985.1.1 = {
+		death = yes
+	}
+}
+ewe0014 = {
+	name = "Amankwa" #fictional
+	dynasty = ewedyn002
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0013
+	2962.1.1 = {
+		birth = yes
+	}
+	3037.1.1 = {
+		death = yes
+	}
+}
+ewe0015 = {
+	name = "Lomashie" #fictional
+	dynasty = ewedyn002
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0014
+	3020.1.1 = {
+		birth = yes
+	}
+	3077.1.1 = {
+		death = yes
+	}
+}
+ewe0016 = {
+	name = "Nefa" #fictional
+	dynasty = ewedyn002
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0015
+	3060.1.1 = {
+		birth = yes
+	}
+	3117.1.1 = {
+		death = yes
+	}
+}
+ewe0017 = {
+	name = "Obosu" #fictional
+	dynasty = ewedyn002
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0016
+	3097.1.1 = {
+		birth = yes
+	}
+	3151.1.1 = {
+		death = yes
+	}
+}
+ewe0018 = {
+	name = "Mankre" #fictional
+	dynasty = ewedyn002
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0017
+	3134.1.1 = {
+		birth = yes
+	}
+	3197.1.1 = {
+		death = yes
+	}
+}
+ewe0019 = {
+	name = "Aso_wura" #fictional
+	dynasty = ewedyn002
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0018
+	3179.1.1 = {
+		birth = yes
+	}
+	3232.1.1 = {
+		death = yes
+	}
+}
+ewe0020 = {
+	name = "Nefa" #fictional
+	dynasty = ewedyn002
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0019
+	3212.1.1 = {
+		birth = yes
+	}
+	3266.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_sokode and c_savalu
+ewe0021 = {
+	name = "Samafon" #fictional
+	dynasty = ewedyn003
+	religion = west_african_orisha_pagan
+	culture = ewe
+	2837.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+ewe0022 = {
+	name = "Ataawa" #fictional
+	dynasty = ewedyn003
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0021
+	2872.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+ewe0023 = {
+	name = "Sorkowule" #fictional
+	dynasty = ewedyn003
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0022
+	2917.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+ewe0024 = {
+	name = "Awale" #fictional
+	dynasty = ewedyn003
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0023
+	2975.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+ewe0025 = {
+	name = "Afiso" #fictional
+	dynasty = ewedyn003
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0024
+	3024.1.1 = {
+		birth = yes
+	}
+	3083.1.1 = {
+		death = yes
+	}
+}
+ewe0026 = {
+	name = "Dambatu" #fictional
+	dynasty = ewedyn003
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0025
+	3064.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+ewe0027 = {
+	name = "Dambatu" #fictional
+	dynasty = ewedyn003
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0026
+	3102.1.1 = {
+		birth = yes
+	}
+	3161.1.1 = {
+		death = yes
+	}
+}
+ewe0028 = {
+	name = "Afiso" #fictional
+	dynasty = ewedyn003
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0027
+	3144.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+ewe0029 = {
+	name = "Mantenso" #fictional
+	dynasty = ewedyn003
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0028
+	3182.1.1 = {
+		birth = yes
+	}
+	3237.1.1 = {
+		death = yes
+	}
+}
+ewe0030 = {
+	name = "Afiso" #fictional
+	dynasty = ewedyn003
+	religion = west_african_orisha_pagan
+	culture = ewe
+	father = ewe0029
+	3217.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}

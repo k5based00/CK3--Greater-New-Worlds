@@ -1,0 +1,105 @@
+﻿#
+#Meryas in 867
+194150 = {
+	name = "Surt"
+	dynasty = 1029107
+	religion = finnish_pagan
+	culture = merya
+	2735.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194151 = {
+	name = "Kardaz"
+	dynasty = 1029107
+	religion = finnish_pagan
+	culture = merya
+	father = 194150
+	2772.1.1 = {
+		birth = yes
+	}
+	2824.1.1 = {
+		death = yes
+	}
+}
+159711 = {
+	name = "Nishkepaz"
+	religion = "finnish_pagan"
+	culture = merya
+	dynasty = 1029107
+	father = 194151
+	2790.1.1 = {
+		birth = yes
+	}
+	2862.1.1 = {
+		death = yes
+	}
+}
+159713 = {
+	name = "Kezhevat"
+	religion = "finnish_pagan"
+	culture = merya
+	dynasty = 1029107
+	father = 159711
+	2840.1.1 = {
+		birth = yes
+	}
+	2908.1.1 = {
+		death = yes
+	}
+}
+159714 = {
+	name = "Tyueykezhut"
+	religion = "finnish_pagan"
+	culture = merya
+	dynasty = 1029107
+	father = 159711
+	2841.1.1 = {
+		birth = yes
+	}
+	2911.1.1 = {
+		death = yes
+	}
+}
+#
+302224 = {
+	name = "Alyok"
+	religion = "finnish_pagan"
+	culture = merya
+	dynasty = 2001043	#Goliad
+	2845.5.12 = {
+		birth = yes
+	}
+	2904.6.1 = {
+		death = yes
+	}
+}
+#
+302225 = {
+	name = "Ovtay"
+	religion = "finnish_pagan"
+	culture = merya
+	dynasty = 2001044	#Roavve
+	2834.7.23 = {
+		birth = yes
+	}
+	2898.2.21 = {
+		death = yes
+	}
+}
+302226 = {
+	name = "Obran"
+	religion = "finnish_pagan"
+	culture = merya
+	dynasty = 2001044	#Roavve
+	father = 302225
+	2859.11.15 = {
+		birth = yes
+	}
+	2906.1.1 = {
+		death = yes
+	}
+}

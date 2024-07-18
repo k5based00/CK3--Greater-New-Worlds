@@ -1,0 +1,1108 @@
+﻿188062 = {
+	name = "Jayasekhara"
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	2702.1.1 = {
+		birth = yes
+	}
+	2748.1.1 = {
+		death = yes
+	}
+}
+
+188063 = {
+	name = "Vanaraja"
+	dynasty = 1042068 #Capa
+	religion = "svetambara"
+	culture = "gujarati"
+	father = 188062
+	2722.1.1 = {
+		birth = yes
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+
+188064 = {
+	name = "Yogaraja"
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188063
+	2762.1.1 = {
+		birth = yes
+	}
+	2788.1.1 = {
+		add_spouse = 188065
+	}
+	2822.1.1 = {
+		death = yes
+	}
+}
+
+188065 = {
+	name = "Bhuyika"
+	female = yes
+	religion = "smartism"
+	culture = "gujarati"
+	2767.1.1 = {
+		birth = yes
+	}
+	2822.1.1 = {
+		death = yes
+	}
+}
+
+188066 = {
+	name = "Ratnaditya"
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188064
+	mother = 188065
+	2792.1.1 = {
+		birth = yes
+	}
+	2827.1.1 = {
+		death = yes
+	}
+}
+
+188067 = {
+	name = "Vairisimha"
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188064
+	mother = 188065
+	2797.1.1 = {
+		birth = yes
+	}
+	2837.1.1 = {
+		death = yes
+	}
+}
+
+188068 = {
+	name = "Ksemaraja"
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188064
+	mother = 188065
+	2802.1.1 = {
+		birth = yes
+	}
+	2822.1.1 = {
+		add_spouse = 188069
+	}
+	2862.1.1 = {
+		death = yes
+	}
+}
+
+188069 = {
+	name = "Delhana"
+	female = yes
+	religion = "smartism"
+	culture = "gujarati"
+	2805.1.1 = {
+		birth = yes
+	}
+	2870.1.1 = {
+		death = yes
+	}
+}
+
+188070 = {
+	name = "Akadadeva"
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188068
+	mother = 188069
+	2834.6.3 = {
+		birth = yes
+	}
+	2852.1.1 = {
+		add_spouse = 188071
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+
+188071 = {
+	name = "Desala"
+	female = yes
+	religion = "smartism"
+	culture = "gujarati"
+	2836.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+
+188072 = {
+	name = "Bhuyadadeva"
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188070
+	mother = 188071
+	2862.1.1 = {
+		birth = yes
+	}
+	2922.1.1 = {
+		death = yes
+	}
+}
+
+188073 = {
+	name = "Bhubhatadeva"
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188072
+	2882.1.1 = {
+		birth = yes
+	}
+	2944.1.1 = {
+		death = yes
+	}
+}
+
+188167 = {
+	name = "Asha" # ruler of Ashaval
+	dynasty = 1042073 # Bhil
+	religion = "smartism"
+	culture = "gujarati"
+	3027.1.1 = {
+		birth = yes
+	}
+	3070.1.1 = {
+		death = yes
+	}
+}
+
+188306 = {
+	name = "Ratnaditya" # made up
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188073
+	2912.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+
+188307 = {
+	name = "Vairisimha" # made up
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188306
+	2942.1.1 = {
+		birth = yes
+	}
+	3002.1.1 = {
+		death = yes
+	}
+}
+
+188308 = {
+	name = "Ksema" # made up
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188307
+	2972.1.1 = {
+		birth = yes
+	}
+	3032.1.1 = {
+		death = yes
+	}
+}
+
+188309 = {
+	name = "Bhuyada" # made up
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188308
+	3002.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+
+188310 = {
+	name = "Ratnaditya" # made up
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188309
+	3032.1.1 = {
+		birth = yes
+	}
+	3087.1.1 = {
+		death = yes
+	}
+}
+
+188311 = {
+	name = "Bhuyada" # made up
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188310
+	3062.1.1 = {
+		birth = yes
+	}
+	3107.1.1 = {
+		death = yes
+	}
+}
+
+188312 = {
+	name = "Yoga" # made up
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188311
+	3087.1.1 = {
+		birth = yes
+	}
+	3127.1.1 = {
+		death = yes
+	}
+}
+
+188313 = {
+	name = "Whagum"
+	dynasty = 1042068 #Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188312
+	3111.1.1 = {
+		birth = yes
+	}
+	3152.1.1 = {
+		death = yes
+	}
+}
+
+188314 = {
+	name = "Kaushal" # fictitious
+	dynasty = 1042089 #Kathi
+	religion = "smartism"
+	culture = "gujarati"
+	3032.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+188315 = {
+	name = "Dabir" # fictitious
+	dynasty = 1042089 #Kathi
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188314
+	3062.1.1 = {
+		birth = yes
+	}
+	3112.1.1 = {
+		death = yes
+	}
+}
+
+188316 = {
+	name = "Ubdal" # fictitious
+	dynasty = 1042089 #Kathi
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188315
+	3092.1.1 = {
+		birth = yes
+	}
+	3142.1.1 = {
+		death = yes
+	}
+}
+
+188317 = {
+	name = "Magath" # fictitious
+	dynasty = 1042089 #Kathi
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188316
+	3112.1.1 = {
+		birth = yes
+	}
+	3149.1.1 = {
+		death = yes
+	}
+}
+188265 = {
+	name = "Pushyadeva"
+	dynasty = 1042087 # Saindhava
+	religion = "smartism"
+	culture = "gujarati"
+	2702.1.1 = {
+		birth = yes
+	}
+	2752.1.1 = {
+		death = yes
+	}
+}
+
+188266 = {
+	name = "Krishna"
+	dynasty = 1042087 # Saindhava
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188265
+	2726.1.1 = {
+		birth = yes
+	}
+	2777.1.1 = {
+		death = yes
+	}
+}
+
+188267 = {
+	name = "Agguka"
+	dynasty = 1042087 # Saindhava
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188266
+	2742.1.1 = {
+		birth = yes
+	}
+	2802.1.1 = {
+		death = yes
+	}
+}
+
+188268 = {
+	name = "Ranaka"
+	dynasty = 1042087 # Saindhava
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188267
+	2768.1.1 = {
+		birth = yes
+	}
+	2822.1.1 = {
+		death = yes
+	}
+}
+
+188269 = {
+	name = "Krishna" # II
+	dynasty = 1042087 # Saindhava
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188268
+	2802.1.1 = {
+		birth = yes
+	}
+	2832.1.1 = {
+		death = yes
+	}
+}
+
+188270 = {
+	name = "Agguka" # II
+	dynasty = 1042087 # Saindhava
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188269
+	2827.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+
+188271 = {
+	name = "Jaika" #I
+	dynasty = 1042087 # Saindhava
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188268
+	2811.1.1 = {
+		birth = yes
+	}
+	2847.1.1 = {
+		death = yes
+	}
+}
+
+188272 = {
+	name = "Chamunda"
+	dynasty = 1042087 # Saindhava
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188271
+	2832.1.1 = {
+		birth = yes
+	}
+	2862.1.1 = {
+		death = yes
+	}
+}
+
+188273 = {
+	name = "Agguka" # III
+	dynasty = 1042087 # Saindhava
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188271
+	2834.1.1 = {
+		birth = yes
+	}
+	2876.1.1 = {
+		death = yes
+	}
+}
+
+188274 = {
+	name = "Ranaka" # II
+	dynasty = 1042087 # Saindhava
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188273
+	2852.1.1 = {
+		birth = yes
+	}
+	2888.1.1 = {
+		death = yes
+	}
+}
+
+188275 = {
+	name = "Agguka" # IV
+	dynasty = 1042087 # Saindhava
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188272
+	2857.1.1 = {
+		birth = yes
+	}
+	2902.1.1 = {
+		death = yes
+	}
+}
+
+188276 = {
+	name = "Jaika" # II
+	dynasty = 1042087 # Saindhava
+	religion = "smartism"
+	culture = "gujarati"
+	father = 188272
+	2857.1.1 = {
+		birth = yes
+	}
+	2922.1.1 = {
+		death = yes
+	}
+}
+191643 = {
+	name = "Bhatarka"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	2442.1.1 = {
+		birth = yes
+	}
+	2495.1.1 = {
+		death = yes
+	}
+}
+191644 = {
+	name = "Dharasena"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191643
+	2462.1.1 = {
+		birth = yes
+	}
+	2504.1.1 = {
+		death = yes
+	}
+}
+191645 = {
+	name = "Dronasimha"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191643
+	2464.1.1 = {
+		birth = yes
+	}
+	2527.1.1 = {
+		death = yes
+	}
+}
+191646 = {
+	name = "Dhruvasena"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191643
+	2466.1.1 = {
+		birth = yes
+	}
+	2547.1.1 = {
+		death = yes
+	}
+}
+191647 = {
+	name = "Dharapatta"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191643
+	2472.1.1 = {
+		birth = yes
+	}
+	2558.1.1 = {
+		death = yes
+	}
+}
+191648 = {
+	name = "Guhasena"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191647
+	2492.1.1 = {
+		birth = yes
+	}
+	2573.1.1 = {
+		death = yes
+	}
+}
+191649 = {
+	name = "Dharasena"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191648
+	2512.1.1 = {
+		birth = yes
+	}
+	2597.1.1 = {
+		death = yes
+	}
+}
+191650 = {
+	name = "Siladitya"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191649
+	2532.1.1 = {
+		birth = yes
+	}
+	2618.1.1 = {
+		death = yes
+	}
+}
+191651 = {
+	name = "Kharagraha"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191649
+	2537.1.1 = {
+		birth = yes
+	}
+	2625.1.1 = {
+		death = yes
+	}
+}
+191652 = {
+	name = "Dharasena"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191651
+	2557.1.1 = {
+		birth = yes
+	}
+	2631.1.1 = {
+		death = yes
+	}
+}
+191653 = {
+	name = "Dhruvasena"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191651
+	2577.1.1 = {
+		birth = yes
+	}
+	2642.1.1 = {
+		death = yes
+	}
+}
+191654 = {
+	name = "Dharasena"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191653
+	2597.1.1 = {
+		birth = yes
+	}
+	2653.1.1 = {
+		death = yes
+	}
+}
+191655 = {
+	name = "Dherabata"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191650
+	2562.1.1 = {
+		birth = yes
+	}
+	2602.1.1 = {
+		death = yes
+	}
+}
+191656 = {
+	name = "Dhruvasena"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191655
+	2592.1.1 = {
+		birth = yes
+	}
+	2655.1.1 = {
+		death = yes
+	}
+}
+191657 = {
+	name = "Kharagraha"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191656
+	2612.1.1 = {
+		birth = yes
+	}
+	2664.1.1 = {
+		death = yes
+	}
+}
+191658 = {
+	name = "Siladitya"
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191656
+	2613.1.1 = {
+		birth = yes
+	}
+	2652.1.1 = {
+		death = yes
+	}
+}
+191659 = {
+	name = "Siladitya" #II
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191658
+	2632.1.1 = {
+		birth = yes
+	}
+	2693.1.1 = {
+		death = yes
+	}
+}
+191660 = {
+	name = "Siladitya" #III
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191659
+	2652.1.1 = {
+		birth = yes
+	}
+	2724.1.1 = {
+		death = yes
+	}
+}
+191661 = {
+	name = "Siladitya" #IV
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191660
+	2672.1.1 = {
+		birth = yes
+	}
+	2762.1.1 = {
+		death = yes
+	}
+}
+191662 = {
+	name = "Siladitya" #V
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191661
+	2692.1.1 = {
+		birth = yes
+	}
+	2768.1.1 = {
+		death = yes
+	}
+}
+191663 = {
+	name = "Siladitya" #VI
+	dynasty = 1044368	#Maitraka
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191662
+	2712.1.1 = {
+		birth = yes
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+191664 = {
+	name = "Mahavaraha"
+	dynasty = 1044369	#Varaha
+	religion = "smartism"
+	culture = "gujarati"
+	2732.1.1 = {
+		birth = yes
+	}
+	2752.1.1 = {
+		add_spouse = 191671
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+191665 = {
+	name = "Jayavaraha"
+	dynasty = 1044369	#Varaha
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191664
+	mother = 191671
+	2753.1.1 = {
+		birth = yes
+	}
+	2802.1.1 = {
+		death = yes
+	}
+}
+191666 = {
+	name = "Vikramarka"
+	dynasty = 1044370	#Vardhamana Capa
+	religion = "smartism"
+	culture = "gujarati"
+	2782.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+191667 = {
+	name = "Addaka"
+	dynasty = 1044370	#Vardhamana Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191666
+	2802.1.1 = {
+		birth = yes
+	}
+	2862.1.1 = {
+		death = yes
+	}
+}
+191668 = {
+	name = "Pulakesi"
+	dynasty = 1044370	#Vardhamana Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191667
+	2822.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+191669 = {
+	name = "Dhruvabhata"
+	dynasty = 1044370	#Vardhamana Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191668
+	2842.1.1 = {
+		birth = yes
+	}
+	2902.1.1 = {
+		death = yes
+	}
+}
+191670 = {
+	name = "Dharanivaraha"
+	dynasty = 1044370	#Vardhamana Capa
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191668
+	2867.1.1 = {
+		birth = yes
+	}
+	2944.1.1 = {
+		death = yes
+	}
+}
+191671 = {
+	name = "Rasaladevi"	#Fictional wife of Mahavaraha
+	female = yes
+	religion = "smartism"
+	culture = "gujarati"
+	2734.8.1 = {
+		birth = yes
+	}
+	2822.1.1 = {
+		death = yes
+	}
+}
+191672 = {
+	name = "Vahukadhavala"	#Fictional, real name is unkown
+	dynasty = 1044371	#Calukya
+	religion = "smartism"
+	culture = "gujarati"
+	2702.1.1 = {
+		birth = yes
+	}
+	2762.1.1 = {
+		death = yes
+	}
+}
+191673 = {
+	name = "Kalla"
+	dynasty = 1044371	#Calukya
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191672
+	2722.1.1 = {
+		birth = yes
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+191674 = {
+	name = "Mahalla"
+	dynasty = 1044371	#Calukya
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191672
+	2727.1.1 = {
+		birth = yes
+	}
+	2812.1.1 = {
+		death = yes
+	}
+}
+191675 = {
+	name = "Balavarman"	#Fictional, real name unkown
+	dynasty = 1044371	#Calukya
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191674
+	2747.1.1 = {
+		birth = yes
+	}
+	2827.1.1 = {
+		death = yes
+	}
+}
+191676 = {
+	name = "Vahukadhavala"
+	dynasty = 1044371	#Calukya
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191675
+	2767.1.1 = {
+		birth = yes
+	}
+	2852.1.1 = {
+		death = yes
+	}
+}
+191677 = {
+	name = "Avanivarman"
+	dynasty = 1044371	#Calukya
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191676
+	2797.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+191678 = {
+	name = "Balavarman"
+	dynasty = 1044371	#Calukya
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191677
+	2822.1.1 = {
+		birth = yes
+	}
+	2897.1.1 = {
+		death = yes
+	}
+}
+191679 = {
+	name = "Avanivarman"
+	dynasty = 1044371	#Calukya
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191678
+	2842.1.1 = {
+		birth = yes
+	}
+	2917.1.1 = {
+		death = yes
+	}
+}
+191680 = {
+	name = "Barappa"
+	dynasty = 1044372	#Later Chalukyas of Lata
+	religion = "smartism"
+	culture = "gujarati"
+	2922.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+191681 = {
+	name = "Gongiraja"
+	dynasty = 1044372	#Later Chalukyas of Lata
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191680
+	2962.1.1 = {
+		birth = yes
+	}
+	3012.1.1 = {
+		death = yes
+	}
+}
+chalukyas_of_lata_1 = {
+	name = "Kirtiraja"
+	dynasty = 1044372	#Later Chalukyas of Lata
+	religion = "smartism"
+	culture = "gujarati"
+	father = 191681
+	2982.1.1 = {
+		birth = yes
+	}
+	3032.1.1 = {
+		death = yes
+	}
+}
+chalukyas_of_lata_2 = {
+	name = "Vatsaraja"
+	dynasty = 1044372	#Later Chalukyas of Lata
+	religion = "smartism"
+	culture = "gujarati"
+	father = chalukyas_of_lata_1
+	3002.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+chalukyas_of_lata_3 = {
+	name = "Trilochanpala"
+	dynasty = 1044372	#Later Chalukyas of Lata
+	religion = "smartism"
+	culture = "gujarati"
+	father = chalukyas_of_lata_2
+	3032.1.1 = {
+		birth = yes
+	}
+	3072.1.1 = {
+		death = yes
+	}
+}
+191682 = {
+	name = "Barappa"	#Fictional, real rulers unkown
+	dynasty = 1044373	#Sankhyavat
+	religion = "svetambara"
+	culture = "gujarati"
+	2752.1.1 = {
+		birth = yes
+	}
+	2769.1.1 = {
+		add_spouse = 191684
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+191683 = {
+	name = "Dabir"	#Fictional, real rulers unkown
+	dynasty = 1044373	#Sankhyavat
+	religion = "digambara"
+	culture = "gujarati"
+	father = 191682
+	mother = 191684
+	2770.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+191684 = {
+	name = "Rudrani"	#Fictional wife of Barappa Sankhyavat
+	female = yes
+	religion = "digambara"
+	culture = "gujarati"
+	2753.1.1 = {
+		birth = yes
+	}
+	2802.1.1 = {
+		death = yes
+	}
+}

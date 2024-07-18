@@ -1,0 +1,728 @@
+﻿194006 = {
+	name = Dengizikh
+	dynasty = 9570
+	religion = tengri_pagan
+	culture = avar
+	father = 146163
+	2724.1.1 = {
+		birth = 2724.1.1
+	}
+	2778.1.1 = {
+		death = 2778.1.1
+	}
+}
+
+194000 = {
+	name = Alp
+	dynasty = 9570
+	religion = tengri_pagan
+	culture = avar
+	father = 146172
+	2777.1.1 = {
+		birth = 2777.1.1
+	}
+	2832.1.1 = {
+		death = 2832.1.1
+	}
+}
+
+168071 = {
+	name = "Dizeng"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 194000
+	2812.1.1 = {
+		birth = "2812.1.1"
+	}
+	2860.1.1 = {
+		death = "2860.1.1"
+	}
+}
+
+168072 = {
+	name = "Baghatur"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 168071
+	2832.1.1 = {
+		birth = "2832.1.1"
+	}
+	2886.1.1 = {
+		death = "2886.1.1"
+	}
+}
+
+168073 = {
+	name = "Tuzniq"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 168072
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2886.1.1 = {
+		religion = "orthodox"
+	}
+	2893.1.1 = {
+		death = "2893.1.1"
+	}
+}
+
+168074 = {
+	name = "Khudbard"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 168072
+	2854.1.1 = {
+		birth = "2854.1.1"
+	}
+	2886.1.1 = {
+		religion = "orthodox"
+	}
+	2911.1.1 = {
+		death = "2911.1.1"
+	}
+}
+
+168283 = {
+	name = "Umor"
+	#placeholder
+	dynasty = 9577
+	religion = "tengri_pagan"
+	culture = "avar"
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}
+	2897.1.1 = {
+		death = "2897.1.1"
+	}
+}
+
+168284 = {
+	name = "Araslan"
+	#placeholder
+	dynasty = 9578
+	religion = "tengri_pagan"
+	culture = "avar"
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}
+	2897.1.1 = {
+		death = "2897.1.1"
+	}
+}
+
+168285 = {
+	name = "Paval"
+	#placeholder
+	dynasty = 9579
+	religion = "tengri_pagan"
+	culture = "avar"
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}
+	2897.1.1 = {
+		death = "2897.1.1"
+	}
+}
+
+168576 = {
+	name = "Isbul"
+	#placeholder
+	dynasty = 9602
+	religion = "tengri_pagan"
+	culture = "avar"
+	2802.1.1 = {
+		birth = yes
+	}
+	
+	2852.1.1 = {
+		death = yes
+	}
+}
+
+168577 = {
+	name = "Apskhih"
+	#placeholder
+	dynasty = 9602
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 168576
+	2832.1.1 = {
+		birth = yes
+	}
+	
+	2882.1.1 = {
+		death = yes
+	}
+}
+
+
+
+168578 = {
+	name = "SarA_"
+	female = yes
+	#placeholder
+	dynasty = 9602
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 168576
+	2844.1.1 = {
+		birth = yes
+	}
+	
+	2892.1.1 = {
+		death = yes
+	}
+}
+
+
+
+168579 = {
+	name = "Gulay"
+	female = yes
+	#placeholder
+	dynasty = 9602
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 168576
+	2846.1.1 = {
+		birth = yes
+	}
+	
+	2894.1.1 = {
+		death = yes
+	}
+}
+146137 = {
+	name = "Vetam"
+	dynasty = 1022368
+	religion = "tengri_pagan"
+	culture = "avar"
+
+	2713.1.1 = {
+		birth = yes
+	}
+	2772.1.1 = {
+		death = yes
+	}
+}
+
+146138 = {
+	name = "Vakrim"
+	dynasty = 1022368
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146137
+	2731.1.1 = {
+		birth = yes
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+
+146139 = {
+	name = "Almish"
+	dynasty = 1022368
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146137
+	2733.1.1 = {
+		birth = yes
+	}
+	2787.1.1 = {
+		death = yes
+	}
+}
+
+146140 = {
+	name = "Kajd"
+	dynasty = 1022368
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146139
+	2752.1.1 = {
+		birth = yes
+	}
+	2799.1.1 = {
+		religion = "catholic"
+		name = "Theodorus"
+	}
+	2816.1.1 = {
+		death = yes
+	}
+}
+
+146141 = {
+	name = "Anzi"
+	dynasty = 1022368
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146140
+	2772.1.1 = {
+		birth = yes
+	}
+	2799.1.1 = {
+		religion = "catholic"
+		name = "Abraham"
+	}
+	2831.1.1 = {
+		death = yes
+	}
+}
+
+146142 = {
+	name = "Isaac"
+	dynasty = 1022368
+	religion = "catholic"
+	culture = "avar"
+	father = 146141
+	2801.1.1 = {
+		birth = yes
+	}
+	2837.1.1 = {
+		death = yes
+	}
+}
+
+146143 = {
+	name = "Yilig"
+	dynasty = 1022369
+	religion = "tengri_pagan"
+	culture = "avar"
+
+	2667.1.1 = {
+		birth = yes
+	}
+	2727.1.1 = {
+		death = yes
+	}
+}
+
+146144 = {
+	name = "Dukum"
+	dynasty = 1022369
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146143
+	2694.1.1 = {
+		birth = yes
+	}
+	2738.1.1 = {
+		death = yes
+	}
+}
+
+146145 = {
+	name = "Alzek"
+	dynasty = 1022369
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146144
+	2711.1.1 = {
+		birth = yes
+	}
+	2752.1.1 = {
+		death = yes
+	}
+}
+
+146146 = {
+	name = "Zabergan"
+	dynasty = 1022369
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146144
+	2713.1.1 = {
+		birth = yes
+	}
+	2764.1.1 = {
+		death = yes
+	}
+}
+
+146147 = {
+	name = "Yani"
+	dynasty = 1022369
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146146
+	2730.1.1 = {
+		birth = yes
+	}
+	2773.1.1 = {
+		death = yes
+	}
+}
+
+146148 = {
+	name = "Yugurtu"
+	dynasty = 1022369
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146146
+	2732.1.1 = {
+		birth = yes
+	}
+	2762.1.1 = {
+		add_pressed_claim = title:k_hungary
+	}
+	2797.1.1 = {
+		death = yes
+	}
+}
+
+146149 = {
+	name = "Khatir"
+	dynasty = 1022369
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146145
+	2750.1.1 = {
+		birth = yes
+	}
+	2814.1.1 = {
+		death = yes
+	}
+}
+
+146150 = {
+	name = "Ispor"
+	dynasty = 1022369
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146148
+	2749.1.1 = {
+		birth = yes
+	}
+	2802.1.1 = {
+		death = yes
+	}
+}
+
+146151 = {
+	name = "Gostum"
+	dynasty = 1022369
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146148
+	2751.1.1 = {
+		birth = yes
+	}
+	2814.1.1 = {
+		death = yes
+	}
+}
+
+146152 = {
+	name = "Kayghalagh"
+	dynasty = 1022369
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146150
+	2764.1.1 = {
+		birth = yes
+	}
+	2820.1.1 = {
+		death = yes
+	}
+}
+
+146153 = {
+	name = "Yabghu"
+	dynasty = 1022369
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146151
+	2766.1.1 = {
+		birth = yes
+	}
+	2823.1.1 = {
+		death = yes
+	}
+}
+
+146154 = {
+	name = "Khuterkin"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+
+	2632.1.1 = {
+		birth = yes
+	}
+	2703.1.1 = {
+		death = yes
+	}
+}
+
+146155 = {
+	name = "Isperikh"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146154
+	2649.1.1 = {
+		birth = yes
+	}
+	2709.1.1 = {
+		death = yes
+	}
+}
+
+146156 = {
+	name = "Guar"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146154
+	2651.1.1 = {
+		birth = yes
+	}
+	2716.1.1 = {
+		death = yes
+	}
+}
+
+146157 = {
+	name = "Kharaton"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146155
+	2669.1.1 = {
+		birth = yes
+	}
+	2720.1.1 = {
+		death = yes
+	}
+}
+
+146158 = {
+	name = "Vinekh"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146156
+	2671.1.1 = {
+		birth = yes
+	}
+	2723.1.1 = {
+		death = yes
+	}
+}
+
+146159 = {
+	name = "Horpan"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146156
+	2673.1.1 = {
+		birth = yes
+	}
+	2733.1.1 = {
+		death = yes
+	}
+}
+
+146160 = {
+	name = "Bughra"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146156
+	2675.1.1 = {
+		birth = yes
+	}
+	2735.1.1 = {
+		death = yes
+	}
+}
+
+146161 = {
+	name = "Bezmer"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146160
+	2695.1.1 = {
+		birth = yes
+	}
+	2745.1.1 = {
+		death = yes
+	}
+}
+
+146162 = {
+	name = "Goleda"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146160
+	2697.1.1 = {
+		birth = yes
+	}
+	2750.1.1 = {
+		death = yes
+	}
+}
+
+146163 = {
+	name = "Zenti"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146160
+	2699.1.1 = {
+		birth = yes
+	}
+	2758.1.1 = {
+		death = yes
+	}
+}
+
+146164 = {
+	name = "Barsbek"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146161
+	2741.1.1 = {
+		birth = yes
+	}
+	2804.1.1 = {
+		death = yes
+	}
+}
+
+146165 = {
+	name = "Belkermak"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146163
+	2722.1.1 = {
+		birth = yes
+	}
+	2769.1.1 = {
+		death = yes
+	}
+}
+
+146166 = {
+	name = "Ernakh"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146163
+	2726.1.1 = {
+		birth = yes
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+
+146167 = {
+	name = "Odolgan"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146166
+	2744.1.1 = {
+		birth = yes
+	}
+	2787.1.1 = {
+		death = yes
+	}
+}
+
+146168 = {
+	name = "Labertam"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146163
+	2728.1.1 = {
+		birth = yes
+	}
+	2793.1.1 = {
+		death = yes
+	}
+}
+
+146169 = {
+	name = "Tsog"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146168
+	2747.1.1 = {
+		birth = yes
+	}
+	2797.1.1 = {
+		death = yes
+	}
+}
+
+146170 = {
+	name = "Okors"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146165
+	2741.1.1 = {
+		birth = yes
+	}
+	2806.1.1 = {
+		death = yes
+	}
+}
+
+146171 = {
+	name = "Kutrigur"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146165
+	2743.1.1 = {
+		birth = yes
+	}
+	2807.1.1 = {
+		death = yes
+	}
+}
+
+146172 = {
+	name = "Drong"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146165
+	2745.1.1 = {
+		birth = yes
+	}
+	2810.1.1 = {
+		death = yes
+	}
+}
+
+146173 = {
+	name = "Yavantey"
+	dynasty = 9570
+	religion = "tengri_pagan"
+	culture = "avar"
+	father = 146172
+	2763.1.1 = {
+		birth = yes
+	}
+	2815.1.1 = {
+		death = yes
+	}
+}

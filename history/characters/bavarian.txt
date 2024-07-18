@@ -1,0 +1,9979 @@
+﻿167808 = {
+	name = "Ernst"
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	2792.1.1 = {
+		birth = "2792.1.1"
+	}
+	2810.1.1 = {
+		add_spouse = 167809
+	}
+	2842.1.1 = {
+		death = "2842.1.1"
+	}
+}
+167809 = {
+	name = "Wartrun"
+	female = yes
+	religion = "catholic"
+	culture = bavarian
+	2792.1.1 = {
+		birth = "2792.1.1"
+	}	
+	2842.1.1 = {
+		death = "2842.1.1"
+	}
+}
+
+167810 = {
+	name = "Ernst"
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167808
+	mother = 167809
+	2812.1.1 = {
+		birth = "2812.1.1"
+	}
+	
+	2867.11.11 = {
+		death = "2867.11.11"
+	}
+}
+
+167811 = {
+	name = "Gisela" #real name unknown
+	female = yes
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167808
+	mother = 167809
+	2814.1.1 = {
+		birth = "2814.1.1"
+	}
+	
+	2864.1.1 = {
+		death = "2864.1.1"
+	}
+}
+
+167812 = {
+	name = "Ernst"
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167810
+	trait = education_martial_4
+	trait = brave
+	trait = vengeful
+	trait = gregarious
+	2842.1.1 = {
+		birth = "2842.1.1"
+	}
+	
+	2901.1.1 = {
+		death = "2901.1.1"
+	}
+}
+
+167813 = {
+	name = "Liutswind"
+	dna = 167813_liutswind
+	female = yes
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167810
+	2836.1.1 = {
+		birth = "2836.1.1"
+	}
+	2881.7.8 = {
+		death = "2881.7.8"
+	}
+}
+
+167814 = {
+	name = "Ernst"
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167812
+	2862.1.1 = {
+		birth = "2862.1.1"
+	}
+	
+	2922.1.1 = {
+		death = "2922.1.1"
+	}
+}
+
+167815 = {
+	name = "Hartwig"
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167812
+	2863.1.1 = {
+		birth = "2863.1.1"
+	}
+	
+	2909.7.4 = { #battle of Pressburg
+		death = "2909.7.4"
+	}
+}
+
+167816 = {
+	name = "Guntpolt"
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167812
+	2864.1.1 = {
+		birth = "2864.1.1"
+	}
+	
+	2909.7.4 = { #battle of Pressburg
+		death = "2909.7.4"
+	}
+}
+
+167817 = {
+	name = "Ida" #real name unknown
+	female = yes
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167812
+	2865.1.1 = {
+		birth = "2865.1.1"
+	}
+	
+	2925.1.1 = {
+		death = "2925.1.1"
+	}
+}
+
+167818 = {
+	name = "Ernst"
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167814
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	
+	2962.1.1 = {
+		death = "2962.1.1"
+	}
+}
+
+167819 = {
+	name = "Hartwig"
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167814
+	2907.1.1 = {
+		birth = "2907.1.1"
+	}
+	
+	2974.1.1 = {
+		death = "2974.1.1"
+	}
+}
+
+167820 = {
+	name = "Ernst"
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167818
+	2932.1.1 = {
+		birth = "2932.1.1"
+	}
+	
+	3009.1.1 = {
+		death = "3009.1.1"
+	}
+}
+
+167821 = {
+	name = "Hartwig"
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167818
+	2934.1.1 = {
+		birth = "2934.1.1"
+	}
+	
+	3007.1.1 = {
+		death = "3007.1.1"
+	}
+}
+
+167822 = {
+	name = "Guntpert"
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167818
+	2936.1.1 = {
+		birth = "2936.1.1"
+	}	
+	3007.1.1 = {
+		death = "3007.1.1"
+	}
+}
+
+167823 = {
+	name = "Richwara"
+	female = yes
+	dynasty = 9556
+	religion = "catholic"
+	culture = bavarian
+	father = 167818
+	2938.1.1 = {
+		birth = "2938.1.1"
+	}
+	
+	2996.7.8 = {
+		death = "2996.7.8"
+	}
+}
+
+7945 = {
+	name = "Arnulf"
+	dna = 7945_arnulf
+	dynasty = 25061
+	martial = 4
+	diplomacy = 8
+	intrigue = 2
+	stewardship = 4
+	learning = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = ambitious
+	trait = callous
+	trait = just
+	trait = education_martial_3
+	trait = legitimized_bastard
+	father = 42018 #(King Karlmann of Bavaria)
+	mother = 167813
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2868.1.1 = {
+		effect = {
+			set_relation_friend = { reason = friend_generic_history target = character:42018 } # Beloved by his father, and a loyal son
+		}
+	}
+	2892.1.1 = {
+		add_spouse = 7948
+	}
+	2901.8.12 = {
+		death = "2901.8.12"
+	}
+}
+
+7949 = {
+	name = "Ludwig"
+	dynasty = 25061
+	martial = 4
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = ambitious
+	trait = ill
+	father = 7945
+	mother = 7948
+	2895.1.1 = {
+		birth = "2895.1.1"
+	}
+	2913.9.20 = {
+		death = "2913.9.20"
+	}
+}
+
+144997 = {
+	name = "Zwentibold"
+	religion = "catholic"
+	culture = bavarian
+	trait = bastard
+	father = 7945
+	2873.1.1 = {
+		birth = "2873.1.1"
+	}
+	2902.8.13 = {
+		death = "2902.8.13"
+	}
+}
+##Start of dynasty von Wittelsbach
+20257 = {
+	name = "Otto" #Otto I
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = wrathful
+	trait = education_martial_3
+	father = 11061
+	3034.1.1 = {
+		birth = yes
+	}
+	3057.1.1 = {
+		add_spouse = 4257
+	}
+	3074.12.4 = {
+		death = yes
+	}
+}
+
+11060 = {
+	name = "Otto" #Otto II
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 20257
+	mother = 4257
+	3058.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+
+212931 = {
+	name = "Hedwig"
+	# AKA: Hedwig
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 6
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = humble
+	trait = zealous
+	trait = education_intrigue_1
+	father = 212962
+	mother = 212963
+	3132.1.2 = {
+		birth = "3132.1.2"
+	}
+	3176.1.14 = {
+		death = "3176.1.14"
+	}
+}
+
+212950 = {
+	name = "Ludwig"
+	dynasty_house = house_wittelsbach
+	martial = 8
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = education_stewardship_2
+	father = 212960
+	mother = 212970
+	3176.1.24 = {
+		birth = "3176.1.24"
+	}
+	3202.1.1 = {
+		add_spouse = 212854
+	}
+	3233.9.15 = {
+		death = "3233.9.15"
+	}
+}
+
+212951 = {
+	name = "Sophie"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = honest
+	trait = education_intrigue_1
+	father = 212960
+	mother = 212970
+	3172.1.2 = {
+		birth = "3172.1.2"
+	}
+	3222.1.2 = {
+		death = "3222.1.2"
+	}
+}
+
+212952 = {
+	name = "Heilika"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 4
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = cynical
+	trait = education_learning_3
+	father = 212960
+	mother = 212970
+	3173.1.2 = {
+		birth = "3173.1.2"
+	}
+	3223.1.2 = {
+		death = "3223.1.2"
+	}
+}
+
+212953 = {
+	name = "Agnes"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = arbitrary
+	trait = clubfooted
+	trait = education_stewardship_2
+	father = 212960
+	mother = 212970
+	3174.1.2 = {
+		birth = "3174.1.2"
+	}
+	3224.1.2 = {
+		death = "3224.1.2"
+	}
+}
+
+212954 = {
+	name = "Heilika"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = arrogant
+	trait = temperate
+	trait = education_learning_2
+	father = 212960
+	mother = 212970
+	3168.1.2 = {
+		birth = "3168.1.2"
+	}
+	3228.1.2 = {
+		death = "3228.1.2"
+	}
+}
+
+212955 = {
+	name = "Richardis"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 5
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 212960
+	mother = 212970
+	3165.1.2 = {
+		birth = "3165.1.2"
+	}
+	3225.1.2 = {
+		death = "3225.1.2"
+	}
+}
+
+212956 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 212960
+	mother = 212970
+	3180.1.2 = {
+		birth = "3180.1.2"
+	}
+	3230.1.2 = {
+		death = "3230.1.2"
+	}
+}
+
+212957 = {
+	name = "Mechtilde"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	trait = education_stewardship_2
+	father = 212960
+	mother = 212970
+	3182.1.2 = {
+		birth = "3182.1.2"
+	}
+	3232.1.2 = {
+		death = "3232.1.2"
+	}
+}
+
+212960 = {
+	name = "Otto"
+	dynasty_house = house_wittelsbach
+	martial = 6
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = lazy
+	trait = brave
+	trait = education_stewardship_3
+	father = 212962
+	mother = 212963
+	3119.1.2 = {
+		birth = "3119.1.2"
+	}
+	3174.1.2 = {
+		add_spouse = 212970
+	}
+	3185.7.11 = {
+		death = "3185.7.11"
+	}
+}
+
+212962 = {
+	name = "Otto"
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_1
+	father = 40714
+	mother = 7302
+	3086.1.1 = {
+		birth = "3086.1.1"
+	}
+	3129.1.1 = {
+		add_spouse = 212963
+	}
+	3158.1.5 = {
+		death = "3158.1.5"
+	}
+}
+
+30099 = {
+	name = "Willibirg"
+	female = yes
+	dynasty_house = house_wittelsbach
+	religion = "catholic"
+	culture = bavarian
+	father = 33466
+	3105.1.1 = {
+		birth = "3105.1.1"
+	}
+	3160.1.1 = {
+		death = "3160.1.1"
+	}
+}
+
+40714 = {
+	name = "Ekkehard"
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 20257
+	mother = 4257
+	3059.1.1 = {
+		birth = "3059.1.1"
+	}
+	3085.1.1 = {
+		add_spouse = 7302
+	}
+	3090.1.1 = {
+		death = "3090.1.1"
+	}
+}
+
+40715 = {
+	name = "Bernhard"
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 20257
+	mother = 4257
+	3060.1.1 = {
+		birth = "3060.1.1"
+	}
+	3109.1.1 = {
+		death = "3109.1.1"
+	}
+}
+
+462036 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty_house = house_wittelsbach
+	religion = "catholic"
+	culture = bavarian
+	trait = lazy
+	trait = education_stewardship_2
+	father = 462758
+	mother = 125935
+	3308.1.1 = {
+		birth = "3308.1.1"
+	}
+	3332.3.25 = {
+		death = "3332.3.25"
+	}
+}
+
+462712 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = humble
+	trait = education_intrigue_1
+	father = 462756
+	3229.1.3 = {
+		birth = "3229.1.3"
+	}
+	3275.1.10 = {
+		death = "3275.1.10"
+	}
+}
+
+462730 = {
+	name = "Stefan"
+	dynasty_house = house_wittelsbach
+	martial = 6
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = temperate
+	trait = education_intrigue_2
+	father = 462740
+	mother = 161902 # Beatrycza of Schweidnitz
+	3321.8.1 = {
+		birth = "3321.8.1"
+	}
+	3377.5.19 = {
+		death = "3377.5.19"
+	}
+}
+
+462731 = {
+	name = "Ludwig"
+	dynasty_house = house_wittelsbach
+	martial = 6
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = generous
+	trait = education_martial_2
+	father = 462740
+	mother = 161902 # Beatrycza of Schweidnitz
+	3318.7.1 = {
+		birth = "3318.7.1"
+	}
+	3326.1.2 = {
+		add_spouse = 451522
+	}
+	3363.9.18 = {
+		death = "3363.9.18"
+	}
+}
+
+462732 = {
+	name = "Mathilde"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = generous
+	trait = education_intrigue_1
+	father = 462740
+	mother = 161902 # Beatrycza of Schweidnitz
+	3316.1.2 = {
+		birth = "3316.1.2"
+	}
+	3348.7.2 = {
+		death = "3348.7.2"
+	}
+}
+
+462733 = {
+	name = "Margarete"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 462740
+	mother = 462741
+	3327.1.2 = {
+		birth = "3327.1.2"
+	}
+	3377.1.2 = {
+		death = "3377.1.2"
+	}
+}
+
+462734 = {
+	name = "Anna"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 462740
+	mother = 462741
+	3328.1.2 = {
+		birth = "3328.1.2"
+	}
+	3363.6.3 = {
+		death = "3363.6.3"
+	}
+}
+
+462735 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 462740
+	mother = 462741
+	3331.1.2 = {
+		birth = "3331.1.2"
+	}
+	3404.8.2 = {
+		death = "3404.8.2"
+	}
+}
+
+462736 = {
+	name = "Rudolf"
+	dynasty_house = house_wittelsbach
+	martial = 8
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = brave
+	trait = education_martial_2
+	father = 462750
+	mother = 462751
+	3276.1.2 = {
+		birth = "3276.1.2"
+	}
+	3296.1.2 = {
+		add_spouse = 462377
+	}
+	3319.1.12 = {
+		death = "3319.1.12"
+	}
+}
+
+462737 = {
+	name = "Adolf"
+	dynasty_house = house_wittelsbach
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = brave
+	trait = education_martial_2
+	father = 462736
+	mother = 462377
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3322.1.2 = {
+		add_spouse = 462738
+	}
+	3329.1.12 = {
+		death = "3329.1.12"
+	}
+}
+
+462739 = {
+	name = "Ruprecht"
+	dynasty_house = house_wittelsbach
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 462737
+	mother = 462738
+	3327.1.2 = {
+		birth = "3327.1.2"
+	}
+	3377.1.2 = {
+		death = "3377.1.2"
+	}
+}
+
+462740 = {
+	name = "Ludwig"
+	dynasty_house = house_wittelsbach
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = temperate
+	trait = arrogant
+	trait = diligent
+	trait = education_intrigue_1
+	father = 462750
+	mother = 462751
+	3284.4.1 = {
+		birth = "3284.4.1"
+	}
+	3311.1.2 = {
+		add_spouse = 161902 # Beatrycza of Schweidnitz
+	}
+	3326.2.25 = {
+		add_spouse = 462741
+	}
+	3349.10.11 = {
+		death = "3349.10.11"
+	}
+}
+
+462744 = {
+	name = "Ludwig"
+	dynasty_house = house_wittelsbach
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = humble
+	trait = craven
+	trait = education_martial_2
+	father = 462740
+	mother = 462741
+	3332.5.12 = {
+		birth = "3332.5.12"
+	}
+	3367.5.14 = {
+		death = "3367.5.14"
+	}
+}
+
+462745 = {
+	name = "Wilhelm"
+	dynasty_house = house_wittelsbach
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = lazy
+	trait = just
+	trait = greedy
+	trait = temperate
+	trait = education_learning_2
+	father = 462740
+	mother = 462741
+	3332.5.12 = {
+		birth = "3332.5.12"
+	}
+	3390.4.15 = {
+		death = "3390.4.15"
+	}
+}
+
+462746 = {
+	name = "Albrecht"
+	dynasty_house = house_wittelsbach
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	father = 462740
+	mother = 462741
+	3338.7.25 = {
+		birth = "3338.7.25"
+	}
+	3406.12.13 = {
+		death = "3406.12.13"
+	}
+}
+
+462747 = {
+	name = "Adolf"
+	dynasty_house = house_wittelsbach
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 462737
+	mother = 462738
+	3328.1.2 = {
+		birth = "3328.1.2"
+	}
+	3378.1.2 = {
+		death = "3378.1.2"
+	}
+}
+
+462748 = {
+	name = "Friedrich"
+	dynasty_house = house_wittelsbach
+	martial = 8
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 462737
+	mother = 462738
+	3329.1.2 = {
+		birth = "3329.1.2"
+	}
+	3379.1.2 = {
+		death = "3379.1.2"
+	}
+}
+
+462749 = {
+	name = "Rudolf"
+	dynasty_house = house_wittelsbach
+	martial = 8
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = temperate
+	trait = education_diplomacy_3
+	father = 462736
+	mother = 462377
+	3308.8.8 = {
+		birth = "3308.8.8"
+	}
+	3330.1.2 = {
+		add_spouse = 462716
+	}
+	3355.10.4 = {
+		death = "3355.10.4"
+	}
+}
+
+462750 = {
+	name = "Ludwig"
+	dynasty_house = house_wittelsbach
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = cynical
+	trait = education_learning_2
+	father = 462756
+	3231.4.13 = {
+		birth = "3231.4.13"
+	}
+	3279.1.2 = {
+		add_spouse = 462751
+	}
+	3296.2.2 = {
+		death = "3296.2.2"
+	}
+}
+
+462752 = {
+	name = "Anna"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 5
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = diligent
+	trait = education_stewardship_2
+	father = 462749
+	mother = 462716
+	3331.1.2 = {
+		birth = "3331.1.2"
+	}
+	3381.1.2 = {
+		death = "3381.1.2"
+	}
+}
+
+462753 = {
+	name = "Rudolf"
+	dynasty_house = house_wittelsbach
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = diligent
+	trait = education_diplomacy_3
+	father = 462736
+	mother = 462377
+	3311.1.2 = {
+		birth = "3311.1.2"
+	}
+	3361.1.2 = {
+		death = "3361.1.2"
+	}
+}
+
+462754 = {
+	name = "Mathilde"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = temperate
+	trait = lustful
+	trait = education_diplomacy_3
+	father = 462736
+	mother = 462377
+	3314.1.2 = {
+		birth = "3314.1.2"
+	}
+	3364.1.2 = {
+		death = "3364.1.2"
+	}
+}
+
+462755 = {
+	name = "Mechthild"
+	female = yes
+	dynasty_house = house_wittelsbach
+	martial = 8
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = temperate
+	trait = arrogant
+	trait = education_intrigue_1
+	father = 462750
+	mother = 462751
+	3277.1.2 = {
+		birth = "3277.1.2"
+	}
+	3321.1.12 = {
+		death = "3321.1.12"
+	}
+}
+
+462756 = {
+	name = "Otto"
+	dynasty_house = house_wittelsbach
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = diligent
+	trait = education_diplomacy_3
+	father = 212950
+	mother = 212854
+	3208.4.7 = {
+		birth = "3208.4.7"
+	}
+	3255.11.29 = {
+		death = "3255.11.29"
+	}
+}
+
+462757 = {
+	name = "Heinrich"
+	dynasty_house = house_wittelsbach
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = cynical
+	trait = education_learning_2
+	father = 462756
+	3237.11.19 = {
+		birth = "3237.11.19"
+	}
+	3252.1.1 = {
+		add_spouse = 98011
+	}
+	3292.2.3 = {
+		death = "3292.2.3"
+	}
+}
+
+462758 = {
+	name = "Stefan"
+	dynasty_house = house_wittelsbach
+	religion = "catholic"
+	culture = bavarian
+	trait = generous
+	trait = education_learning_2
+	father = 462757
+	mother = 98011
+	3273.3.14 = {
+		birth = "3273.3.14"
+	}
+	3289.1.2 = {
+		add_spouse = 125935
+	}
+	3312.12.10 = {
+		death = "3312.12.10"
+	}
+}
+
+462760 = {
+	name = "Heinrich"
+	dynasty_house = house_wittelsbach
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	trait = education_diplomacy_3
+	father = 462758
+	mother = 125935
+	3307.9.29 = {
+		birth = "3307.9.29"
+	}
+	3331.1.9 = {
+		add_spouse = 462612
+	}
+	3341.9.1 = {
+		death = "3341.9.1"
+	}
+}
+
+462761 = {
+	name = "Johann"
+	dynasty_house = house_wittelsbach
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = wrathful
+	trait = education_martial_2
+	father = 462760
+	mother = 462612
+	3331.1.2 = {
+		birth = "3331.1.2"
+	}
+	3381.1.2 = {
+		death = "3381.1.2"
+	}
+}
+
+462762 = {
+	name = "Eberhard"
+	dynasty_house = house_wittelsbach
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = bastard
+	father = 462760
+	3336.1.2 = {
+		birth = "3336.1.2"
+	}
+	3386.1.2 = {
+		death = "3386.1.2"
+	}
+}
+
+462763 = {
+	name = "Beatrix"
+	female = yes
+	dynasty_house = house_wittelsbach
+	religion = "catholic"
+	culture = bavarian
+	trait = lazy
+	trait = education_diplomacy_3
+	father = 462758
+	mother = 125935
+	3305.1.2 = {
+		birth = "3305.1.2"
+	}
+	3362.4.29 = {
+		death = "3362.4.29"
+	}
+}
+
+7557 = {
+	name = "Konrad"
+	dynasty_house = house_wittelsbach
+	religion = "catholic"
+	culture = bavarian
+	father = 212962
+	mother = 212963
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3202.10.25 = {
+		death = "3202.10.25"
+	}
+}
+
+7559 = {
+	name = "Agnes"
+	female = yes
+	dynasty_house = house_wittelsbach
+	religion = "catholic"
+	culture = bavarian
+	father = 462750
+	mother = 462751
+	3269.1.1 = {
+		birth = "3269.1.1"
+	}
+	3347.1.1 = {
+		death = "3347.1.1"
+	}
+}
+
+98009 = {
+	name = "Otto"
+	dynasty_house = house_wittelsbach
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = honest
+	trait = arbitrary
+	trait = education_diplomacy_2
+	father = 462757
+	mother = 98011
+	3263.2.11 = {
+		birth = "3263.2.11"
+	}
+	3281.1.1 = {
+		add_spouse = 98010
+	}
+	3314.11.9 = {
+		death = "3314.11.9"
+	}
+}
+
+33465 = {
+	name = "Arnold"
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
+	religion = "catholic"
+	culture = bavarian
+	father = 20257
+	mother = 4257
+	3061.1.1 = {
+		birth = "3061.1.1"
+	}
+	3125.3.26 = {
+		death = "3125.3.26"
+	}
+}
+
+33466 = {
+	name = "Konrad"
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
+	religion = "catholic"
+	culture = bavarian
+	father = 33465
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+33467 = {
+	name = "Otto"
+	dynasty_house = house_babenberg # house_wittelsbach founded 1119
+	religion = "catholic"
+	culture = bavarian
+	father = 33465
+	3084.1.1 = {
+		birth = "3084.1.1"
+	}
+	3127.1.1 = {
+		death = "3127.1.1"
+	}
+}
+
+33468 = {
+	name = "Adelheid"
+	female = yes
+	dynasty_house = house_wittelsbach
+	religion = "catholic"
+	culture = bavarian
+	father = 33467
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3197.1.1 = {
+		death = "3197.1.1"
+	}
+}
+
+170035 = {
+	name = "Otto"
+	dynasty_house = house_wittelsbach
+	religion = "catholic"
+	culture = bavarian
+	father = 462758
+	mother = 125935
+	3309.1.3 = {
+		birth = "3309.1.3"
+	}
+	3333.1.1 = {
+		add_spouse = 30640 #Richardis von Jülich
+	}
+	3336.12.14 = {
+		death = "3336.12.14"
+	}
+}
+##end of von Wittelsbach
+##start of Welf dynasty
+1144 = {
+	name = "Rudolf"
+	dynasty = 650
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = lazy
+	trait = honest
+	trait = calm
+	trait = education_intrigue_2
+	father = 7984
+	mother = 7983
+	2892.1.1 = {
+		birth = "2892.1.1"
+	}
+	2924.1.1 = {
+		add_spouse = 7958
+	}
+	2939.12.1 = {
+		death = "2939.12.1"
+	}
+}
+
+1146 = {
+	name = "Konrad"
+	dynasty = 650
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = education_martial_2
+	father = 1144
+	mother = 7958
+	2927.1.1 = {
+		birth = "2927.1.1"
+	}
+	2966.1.1 = {
+		add_spouse = 7960
+	}
+	2995.10.19 = {
+		death = "2995.10.19"
+	}
+}
+
+1147 = {
+	name = "Bertha"
+	female = yes
+	dynasty = 650
+	martial = 8
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = lazy
+	trait = arrogant
+	trait = education_intrigue_2
+	father = 1146
+	mother = 7960
+	2968.1.1 = {
+		birth = "2968.1.1"
+	}
+	3012.1.16 = {
+		death = "3012.1.16"
+	}
+}
+
+1148 = {
+	name = "Rudolf"
+	dynasty = 650
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = greedy
+	trait = just
+	trait = education_learning_3
+	father = 1146
+	mother = 7960
+	2970.1.1 = {
+		birth = "2970.1.1"
+	}
+	3034.9.5 = {
+		death = "3034.9.5"
+	}
+}
+
+1149 = {
+	name = "Gisela"
+	female = yes
+	dynasty = 650
+	martial = 6
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = greedy
+	trait = education_intrigue_1
+	father = 1146
+	2962.1.1 = {
+		birth = "2962.1.1"
+	}
+	3009.7.21 = {
+		death = "3009.7.21"
+	}
+}
+
+1159 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 650
+	martial = 4
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = diligent
+	trait = education_intrigue_2
+	father = 1144
+	mother = 7958
+	2929.1.1 = {
+		birth = yes
+	}
+	3001.12.16 = {
+		death = "3001.12.16"
+	}
+}
+
+1524 = {
+	name = "Rudolf"
+	# AKA: Guelph
+	dynasty = 650
+	martial = 4
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = honest
+	trait = temperate
+	trait = education_learning_2
+	father = 7992
+	2948.1.2 = {
+		birth = "2948.1.2"
+	}
+	2992.1.2 = {
+		death = "2992.1.2"
+	}
+}
+1526 = {
+	name = "Rudolf"
+	dynasty = 650
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = hunchbacked
+	trait = education_martial_3
+	father = 1524
+	2974.1.2 = {
+		birth = "2974.1.2"
+	}
+	2999.1.2 = {
+		add_spouse = 1525
+	}
+	3012.1.1 = {
+		death = "3012.1.1"
+	}
+}
+
+1528 = {
+	name = "Welf" # II
+	# AKA: Guelph
+	dynasty = 650
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = zealous
+	trait = education_learning_2
+	father = 1526
+	mother = 1525
+	3000.1.2 = {
+		birth = "3000.1.2"
+	}
+	3022.1.1 = {
+		add_spouse = 1257
+	}
+	3032.3.10 = {
+		death = "3032.3.10"
+	}
+}
+
+1529 = {
+	name = "Kunigunde"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	trait = education_learning_2
+	father = 1528
+	mother = 1257
+	3022.1.2 = {
+		birth = "3022.1.2"
+	}
+	3046.1.28 = {
+		death = "3046.1.28"
+	}
+}
+
+1530 = {
+	name = "Welf" # IV
+	# AKA: Guelph
+	dynasty_house = house_welf
+	martial = 4
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = arrogant
+	trait = zealous
+	trait = disinherited
+	trait = education_martial_3
+	father = 1118
+	mother = 1529
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	3068.1.1 = {
+		add_spouse = 112602
+	}
+	3072.1.1 = {
+		remove_spouse = 112602
+		add_spouse = 363
+	}
+	3103.11.9 = {
+		death = "3103.11.9"
+	}
+}
+
+212498 = {
+	name = "Judith"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_1
+	father = 212604
+	mother = 7638
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3134.1.1 = {
+		death = "3134.1.1"
+	}
+}
+
+212571 = {
+	name = "Gertrude"
+	female = yes
+	dynasty = 650
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = generous
+	trait = arbitrary
+	trait = education_learning_2
+	father = 212600
+	mother = 212601
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3199.7.1 = {
+		death = "3199.7.1"
+	}
+}
+
+212600 = {
+	name = "Heinrich"
+	# AKA: Heinrich der Löwe
+	dynasty = 650
+	martial = 10
+	diplomacy = 9
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = arrogant
+	trait = just
+	trait = diligent
+	trait = education_stewardship_4
+	father = 212602
+	mother = 212603
+	3131.1.2 = {
+		birth = "3131.1.2"
+	}
+	3144.1.1 = {
+		give_nickname = nick_the_lion
+	}
+	3149.1.2 = {
+		add_spouse = 212601
+	}
+	3164.1.1 = {
+		remove_spouse = 212601
+	}
+	3170.1.1 = {
+		add_spouse = 204509
+	}
+	3197.8.6 = {
+		death = "3197.8.6"
+	}
+}
+
+212602 = {
+	name = "Heinrich"
+	dynasty = 650
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = arrogant
+	trait = education_martial_2
+	father = 212604
+	mother = 7638
+	3110.1.2 = {
+		birth = "3110.1.2"
+	}
+	3129.1.1 = {
+		add_spouse = 212603
+	}
+	3129.1.1 = {
+		give_nickname = nick_the_proud
+	}
+	3141.10.20 = {
+		death = "3141.10.20"
+	}
+}
+
+212604 = {
+	name = "Heinrich"
+	dynasty = 650
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 1530
+	mother = 363
+	3076.1.2 = {
+		birth = "3076.1.2"
+	}
+	3093.1.1 = {
+		add_spouse = 7638
+	}
+	3128.1.14 = {
+		death = "3128.1.14"
+	}
+}
+
+212605 = {
+	name = "Heinrich"
+	dynasty = 650
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = arrogant
+	trait = diligent
+	trait = education_stewardship_2
+	father = 212600
+	mother = 204509
+	3175.1.1 = {
+		birth = "3175.1.1"
+	}
+	3195.1.1 = {
+		add_spouse = 212492
+	}
+	3213.1.1 = {
+		add_spouse = 33753
+	}
+	3229.4.28 = {
+		death = "3229.4.28"
+	}
+}
+
+212606 = {
+	name = "Lothar"
+	dynasty = 650
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = wrathful
+	trait = diligent
+	trait = education_martial_2
+	father = 212600
+	mother = 204509
+	3176.1.2 = {
+		birth = "3176.1.2"
+	}
+	3226.1.2 = {
+		death = "3226.1.2"
+	}
+}
+
+212607 = {
+	name = "Otto"
+	dynasty = 650
+	martial = 6
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = just
+	trait = diligent
+	trait = education_stewardship_2
+	father = 212600
+	mother = 204509
+	3177.1.2 = {
+		birth = yes
+	}
+	3216.5.19={
+		add_spouse = 106556
+	}
+	3220.5.19 = {
+		death = yes
+	}
+}
+
+212609 = {
+	name = "Richenza"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 212600
+	mother = 204509
+	3174.1.2 = {
+		birth = "3174.1.2"
+	}
+	3224.1.2 = {
+		death = "3224.1.2"
+	}
+}
+
+212610 = {
+	name = "Matilda"
+	female = yes
+	dynasty = 650
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = bastard
+	trait = education_intrigue_1
+	father = 212600
+	3157.1.1 = {
+		birth = "3157.1.1"
+	}
+	3221.1.1 = {
+		death = "3221.1.1"
+	}
+}
+
+30417 = {
+	name = "Luther"
+	dynasty = 650 #Welf
+	religion = "catholic"
+	culture = bavarian
+	father = 462803
+	mother = 462804
+	3277.1.1 = {
+		birth = "3277.1.1"
+	}
+	3327.1.1 = {
+		capital = c_malbork
+	}
+	3337.4.18 = {
+		death = "3337.4.18"
+	}
+}
+
+30506 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 462802
+	mother = 7574
+	3243.1.1 = {
+		birth = "3243.1.1"
+	}
+	3329.12.1 = {
+		death = "3329.12.1"
+	}
+}
+
+31093 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty = 650	
+	religion = "catholic"
+	culture = bavarian	
+	father = 462802
+	3238.1.1 = {
+		birth = "3238.1.1"
+	}
+	#1252 married Willem II van Holland (94003)	
+	3268.5.27 = {
+		death = "3268.5.27"
+	}
+}
+
+462721 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = education_intrigue_1
+	father = 462805
+	mother = 462806
+	3287.1.3 = {
+		birth = "3287.1.3"
+	}
+	3322.1.19 = {
+		death = "3322.1.19"
+	}
+}
+
+462801 = {
+	name = "Wilhelm"
+	dynasty = 650
+	martial = 8
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 9
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 212600
+	mother = 204509
+	3186.4.11 = {
+		birth = "3186.4.11"
+	}
+	3204.1.1 = {
+		add_spouse = 201507
+	}
+	3215.12.13 = {
+		death = "3215.12.13"
+	}
+}
+
+462802 = {
+	name = "Otto"
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 9
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = education_martial_2
+	father = 462801
+	mother = 201507
+	3206.1.1 = {
+		birth = "3206.1.1"
+	}
+	3215.1.1 = {
+		give_nickname = nick_the_young
+	}
+	3224.1.1 = {
+		add_spouse = 7574
+	}
+	3254.1.1 = {
+		death = "3254.1.1"
+	}
+}
+
+462803 = {
+	name = "Albrecht"
+	dynasty = 650
+	martial = 8
+	diplomacy = 9
+	intrigue = 8
+	stewardship = 9
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = education_diplomacy_4
+	father = 462802
+	mother = 7574
+	3238.1.2 = {
+		birth = "3238.1.2"
+	}
+	3264.1.1 = {
+		give_nickname = nick_the_great
+	}
+	3265.1.2 = {
+		add_spouse = 462804
+	}
+	3281.1.1 = {
+		death = "3281.1.1"
+	}
+}
+
+462805 = {
+	name = "Heinrich"
+	dynasty = 650
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 9
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = education_martial_2
+	father = 462803
+	mother = 462804
+	3269.1.2 = {
+		birth = "3269.1.2"
+	}
+	3284.1.2 = {
+		add_spouse = 462806
+	}
+	3324.9.7 = {
+		death = "3324.9.7"
+	}
+}
+
+462806 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 229
+	martial = 5
+	diplomacy = 4
+	intrigue = 9
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = deceitful
+	trait = education_intrigue_2
+	3268.1.2 = {
+		birth = "3268.1.2"
+	}
+	3337.1.3 = {
+		death = "3337.1.3"
+	}
+}
+
+462807 = {
+	name = "Albrecht"
+	dynasty = 650
+	martial = 2
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = craven
+	trait = education_intrigue_1
+	father = 462805
+	mother = 462806
+	3286.1.2 = {
+		birth = "3286.1.2"
+	}
+	3336.1.2 = {
+		death = "3336.1.2"
+	}
+}
+
+462808 = {
+	name = "Heinrich"
+	dynasty = 650
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 9
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = generous
+	trait = education_martial_2
+	father = 462805
+	mother = 462806
+	3291.1.2 = {
+		birth = "3291.1.2"
+	}
+	3317.1.2 = {
+		add_spouse = 462809
+	}
+	#3328.1.1 = {
+	#	add_spouse = 462814
+	#}
+	3341.1.2 = {
+		death = "3341.1.2"
+	}
+}
+
+462809 = {
+	name = "Jutta"
+	female = yes
+	dynasty = 114
+	martial = 5
+	diplomacy = 4
+	intrigue = 9
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_2
+	3301.1.2 = {
+		birth = "3301.1.2"
+	}
+	3329.1.3 = {
+		death = "3329.1.3"
+	}
+}
+
+462810 = {
+	name = "Otto"
+	dynasty = 650
+	martial = 8
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 3
+	religion = "catholic"
+	culture = bavarian
+	trait = lazy
+	trait = education_martial_2
+	father = 462808
+	mother = 462809
+	3322.1.2 = {
+		birth = "3322.1.2"
+	}
+	3372.1.2 = {
+		death = "3372.1.2"
+	}
+}
+
+462811 = {
+	name = "Johann"
+	dynasty = 650
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = arrogant
+	trait = education_learning_3
+	father = 462808
+	mother = 462809
+	3323.1.2 = {
+		birth = "3323.1.2"
+	}
+	3373.1.2 = {
+		death = "3373.1.2"
+	}
+}
+
+462812 = {
+	name = "Ludwig"
+	dynasty = 650
+	martial = 8
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 3
+	religion = "catholic"
+	culture = bavarian
+	trait = lazy
+	trait = education_martial_2
+	father = 462808
+	mother = 462809
+	3324.1.2 = {
+		birth = "3324.1.2"
+	}
+	3374.1.2 = {
+		death = "3374.1.2"
+	}
+}
+
+462813 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 3
+	religion = "catholic"
+	culture = bavarian
+	trait = just
+	trait = education_intrigue_2
+	father = 462808
+	mother = 462809
+	3320.1.2 = {
+		birth = "3320.1.2"
+	}
+	3370.1.2 = {
+		death = "3370.1.2"
+	}
+}
+
+462815 = {
+	name = "Philipp"
+	dynasty = 650
+	martial = 8
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 462808
+	#mother = 462814
+	3334.1.2 = {
+		birth = "3334.1.2"
+	}
+	3384.1.2 = {
+		death = "3384.1.2"
+	}
+}
+
+462816 = {
+	name = "Ernst"
+	dynasty = 650
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = calm
+	trait = education_martial_2
+	father = 462805
+	mother = 462806
+	3299.1.2 = {
+		birth = "3299.1.2"
+	}
+	3338.1.2 = {
+		add_spouse = 462817
+	}
+	3349.1.2 = {
+		death = "3349.1.2"
+	}
+}
+462817 = {
+	name = "Adelheid"
+	# AKA: Adelheid von Everstein
+	female = yes
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = deceitful
+	trait = education_intrigue_2
+	3319.1.2 = {
+		birth = "3319.1.2"
+	}
+	3369.1.2 = {
+		death = "3369.1.2"
+	}
+}
+
+462818 = {
+	name = "Wilhelm"
+	dynasty = 650
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = calm
+	trait = education_martial_2
+	father = 462805
+	mother = 462806
+	3299.1.2 = {
+		birth = "3299.1.2"
+	}
+	3349.1.2 = {
+		death = "3349.1.2"
+	}
+}
+
+462819 = {
+	name = "Johann"
+	dynasty = 650
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 9
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = stuttering
+	trait = education_learning_3
+	father = 462805
+	mother = 462806
+	3299.1.2 = {
+		birth = "3299.1.2"
+	}
+	3349.1.2 = {
+		death = "3349.1.2"
+	}
+}
+
+462820 = {
+	name = "Mechthild"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 5
+	intrigue = 10
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = education_diplomacy_4
+	father = 462805
+	mother = 462806
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3346.1.1 = {
+		death = "3346.1.1"
+	}
+}
+
+462821 = {
+	name = "Albrecht" #Albrecht II von Braunschweig
+	dynasty = 650
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = arbitrary
+	trait = arrogant
+	trait = education_intrigue_2
+	father = 462803
+	mother = 462804
+	3270.1.2 = {
+		birth = "3270.1.2"
+	}
+	3286.1.2 = {
+		add_spouse = 462822
+		give_nickname = nick_the_fat
+	}
+	3320.9.22 = {
+		death = "3320.9.22"
+	}
+}
+
+462823 = {
+	name = "Otto"
+	dynasty = 650
+	martial = 7
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	trait = chaste
+	trait = education_diplomacy_3
+	father = 462821
+	mother = 462822
+	3292.1.2 = {
+		birth = "3292.1.2"
+	}
+	3342.1.2 = {
+		death = "3342.1.2"
+	}
+}
+
+462824 = {
+	name = "Albrecht"
+	dynasty = 650
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 9
+	religion = "catholic"
+	culture = bavarian
+	trait = humble
+	trait = generous
+	trait = calm
+	trait = chaste
+	trait = education_learning_3
+	father = 462821
+	mother = 462822
+	3295.1.2 = {
+		birth = "3295.1.2"
+	}
+	3345.1.2 = {
+		death = "3345.1.2"
+	}
+}
+
+462825 = {
+	name = "Heinrich"
+	dynasty = 650
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = humble
+	trait = chaste
+	trait = education_learning_3
+	father = 462821
+	mother = 462822
+	3298.1.2 = {
+		birth = "3298.1.2"
+	}
+	3348.1.2 = {
+		death = "3348.1.2"
+	}
+}
+
+462826 = {
+	name = "Magnus"
+	dynasty = 650
+	martial = 9
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = just
+	trait = education_diplomacy_3
+	father = 462821
+	mother = 462822
+	3306.1.2 = {
+		birth = "3306.1.2"
+	}
+	3322.1.2 = {
+		add_spouse = 462827
+	}
+	3356.1.2 = {
+		death = "3356.1.2"
+	}
+}
+
+462828 = {
+	name = "Magnus"
+	dynasty = 650
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 462826
+	mother = 462827
+	3330.1.2 = {
+		birth = "3330.1.2"
+	}
+	3380.1.2 = {
+		death = "3380.1.2"
+	}
+}
+
+462829 = {
+	name = "Ernst"
+	dynasty = 650
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = brave
+	trait = education_intrigue_3
+	father = 462821
+	mother = 462822
+	3307.1.2 = {
+		birth = "3307.1.2"
+	}
+	3357.1.2 = {
+		death = "3357.1.2"
+	}
+}
+
+462830 = {
+	name = "Johann"
+	dynasty = 650
+	martial = 10
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = zealous
+	trait = education_martial_1
+	father = 462821
+	mother = 462822
+	3309.1.2 = {
+		birth = "3309.1.2"
+	}
+	3359.1.2 = {
+		death = "3359.1.2"
+	}
+}
+
+462831 = {
+	name = "Mathilde"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = lazy
+	trait = education_diplomacy_1
+	father = 462821
+	mother = 462822
+	3314.1.2 = {
+		birth = "3314.1.2"
+	}
+	3372.1.2 = {
+		death = "3372.1.2"
+	}
+}
+
+462832 = {
+	name = "Johann"
+	dynasty = 650
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 462802
+	mother = 7574
+	3244.1.1 = {
+		birth = "3244.1.1"
+	}
+	3264.1.1 = {
+		add_spouse = 462833
+	}
+	3279.1.1 = {
+		death = "3279.1.1"
+	}
+}
+
+462834 = {
+	name = "Otto"
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 462832
+	mother = 462833
+	3274.1.2 = {
+		birth = "3274.1.2"
+	}
+	3293.1.2 = {
+		add_spouse = 462755
+	}
+	3332.4.10 = {
+		death = "3332.4.10"
+	}
+}
+
+462835 = {
+	name = "Otto"
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 462834
+	mother = 462755
+	3298.1.2 = {
+		birth = "3298.1.2"
+	}
+	3314.1.2 = {
+		add_spouse = 451984
+	}
+	3348.1.2 = {
+		death = "3348.1.2"
+	}
+}
+
+462836 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = chaste
+	trait = education_learning_2
+	father = 462835
+	mother = 451984
+	3323.1.2 = {
+		birth = "3323.1.2"
+	}
+	3373.1.2 = {
+		death = "3373.1.2"
+	}
+}
+
+462837 = {
+	name = "Matilde"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = honest
+	trait = education_stewardship_2
+	father = 462835
+	mother = 451984
+	3325.1.2 = {
+		birth = "3325.1.2"
+	}
+	3375.1.2 = {
+		death = "3375.1.2"
+	}
+}
+
+462838 = {
+	name = "Wilhelm"
+	dynasty = 650
+	martial = 7
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 9
+	religion = "catholic"
+	culture = bavarian
+	trait = generous
+	trait = brave
+	trait = education_martial_2
+	father = 462834
+	mother = 462755
+	3299.1.2 = {
+		birth = "3299.1.2"
+	}
+	3330.1.2 = {
+		add_spouse = 462839
+	}
+	3349.1.2 = {
+		death = "3349.1.2"
+	}
+}
+
+462840 = {
+	name = "Hedwig"
+	# AKA: Hedwig von Ravensburg
+	female = yes
+	dynasty = 650
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 462838
+	mother = 462839
+	3333.1.2 = {
+		birth = "3333.1.2"
+	}
+	3383.1.2 = {
+		death = "3383.1.2"
+	}
+}
+
+462841 = {
+	name = "Ludwig"
+	dynasty = 650
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = education_learning_2
+	father = 462834
+	mother = 462755
+	3299.1.2 = {
+		birth = "3299.1.2"
+	}
+	3349.1.2 = {
+		death = "3349.1.2"
+	}
+}
+
+462842 = {
+	name = "Matilde"
+	female = yes
+	dynasty = 650
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = education_intrigue_1
+	father = 462834
+	mother = 462755
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3352.1.2 = {
+		death = "3352.1.2"
+	}
+}
+
+462843 = {
+	name = "Luitgard"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_learning_2
+	father = 462834
+	mother = 462755
+	3305.1.2 = {
+		birth = "3305.1.2"
+	}
+	3355.1.2 = {
+		death = "3355.1.2"
+	}
+}
+
+462844 = {
+	name = "Jutta"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_learning_4
+	father = 462834
+	mother = 462755
+	3319.1.2 = {
+		birth = "3319.1.2"
+	}
+	3369.1.2 = {
+		death = "3369.1.2"
+	}
+}
+
+462845 = {
+	name = "Ludolf"
+	dynasty = 650
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = bastard
+	trait = education_learning_2
+	father = 462834
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3352.1.2 = {
+		death = "3352.1.2"
+	}
+}
+
+462846 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_1
+	father = 462832
+	mother = 462833
+	3279.1.2 = {
+		birth = "3279.1.2"
+	}
+	3300.5.29 = {
+		death = "3300.5.29"
+	}
+}
+
+7374 = {
+	name = "Mathilde"
+	female = yes
+	dynasty = 650
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = arrogant
+	trait = education_martial_2
+	father = 212604
+	mother = 7638
+	3113.1.1 = {
+		birth = "3113.1.1"
+	}
+	3185.3.16 = {
+		death = "3185.3.16"
+	}
+}
+
+7401 = {
+	name = "Heinrich"
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 212605
+	mother = 212492
+	3198.1.1 = {
+		birth = "3198.1.1"
+	}
+	3216.4.25 = {
+		death = "3216.4.25"
+	}
+}
+
+7575 = {
+	name = "Helene"
+	female = yes
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 462802
+	mother = 7574
+	3225.3.18 = {
+		birth = "3225.3.18"
+	}
+	3275.9.6 = {
+		death = "3275.9.6"
+	}
+}
+
+7595 = {
+	name = "Welf"
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 212604
+	mother = 7638
+	3117.1.1 = {
+		birth = "3117.1.1"
+	}
+	3135.1.1 = {
+		add_spouse = 7594
+	}
+	3193.12.15 = {
+		death = "3193.12.15"
+	}
+}
+
+7596 = {
+	name = "Welf"
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 7595
+	mother = 7594
+	3137.1.1 = {
+		birth = "3137.1.1"
+	}
+	3169.9.12 = {
+		death = "3169.9.12"
+	}
+}
+
+7637 = {
+	name = "Irmingard"
+	female = yes
+	dynasty = 650
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = arrogant
+	trait = diligent
+	trait = education_stewardship_2
+	father = 212605
+	mother = 212492
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3262.2.24 = {
+		death = "3262.2.24"
+	}
+}
+
+7676 = {
+	name = "Sophie"
+	female = yes
+	dynasty = 650
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = arrogant
+	trait = education_martial_2
+	father = 212604
+	mother = 7638
+	3095.1.1 = {
+		birth = "3095.1.1"
+	}
+	3149.7.10 = {
+		death = "3149.7.10"
+	}
+}
+
+7906 = {
+	name = "Welf"
+	dynasty = 650
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 1530
+	mother = 363
+	3074.1.2 = {
+		birth = "3074.1.2"
+	}
+	3122.9.24 = {
+		death = "3122.9.24"
+	}
+}
+
+7941 = {
+	name = "Welf" # III
+	# AKA: Guelph
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	trait = education_learning_2
+	father = 1528
+	mother = 1257
+	3021.1.1 = {
+		birth = "3021.1.1"
+	}
+	3057.11.13 = {
+		death = "3057.11.13"
+	}
+}
+
+7984 = {
+	name = "Rudolf"
+	# AKA: Rudolph
+	dynasty = 650
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = hunchbacked
+	trait = education_martial_3
+	father = 7989
+	2861.1.1 = {
+		birth = "2861.1.1"
+	}
+	2896.1.2 = {
+		add_spouse = 7983
+	}
+	2914.10.25 = {
+		death = "2914.10.25"
+	}
+}
+
+7985 = {
+	name = "Welf" # founder
+	# AKA: Guelph
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	trait = education_learning_2
+	father = 190362
+	mother = 190363
+	2771.1.1 = {
+		birth = yes
+	}
+	2827.1.1 = {
+		death = "2827.1.1"
+	}
+}
+
+7986 = {
+	name = "Judith"
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	trait = education_learning_2
+	father = 7985
+	2807.1.1 = {
+		birth = "2807.1.1"
+	}
+	2845.4.23 = {
+		death = "2845.4.23"
+	}
+}
+
+7987 = {
+	name = "Hemma"
+	dna = 7987_hemma
+	female = yes
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = arrogant
+	trait = content
+	trait = education_learning_2
+	father = 7985
+	2810.1.1 = {
+		birth = "2810.1.1"
+	}
+	2876.6.1 = {
+		add_trait = incapable #Stroke, became speechless and paralyzed
+	}
+	2878.1.31 = {
+		death = "2878.1.31"
+	}
+}
+
+7988 = {
+	name = "Konrad"
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	trait = education_learning_2
+	father = 7985
+	2817.1.1 = {
+		birth = "2817.1.1"
+	}
+	2838.1.1 = {
+		add_spouse = 161485
+	}
+	2864.1.1 = {
+		death = "2864.1.1"
+	}
+}
+
+7989 = {
+	name = "Konrad"
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	father = 7988
+	mother = 161485
+	2844.1.1 = {
+		birth = "2840.1.1"
+	}
+	2878.1.1 = {
+		death = "2878.1.1"
+	}
+}
+
+7990 = {
+	name = "Welf" # I
+	# AKA: Guelph
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	trait = education_learning_2
+	father = 7988
+	mother = 161485
+	2840.1.1 = {
+		birth = "2837.1.1"
+	}
+	2878.1.1 = {
+		death = "2878.1.1"
+	}
+}
+
+7991 = {
+	name = "Eticho"
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	trait = education_learning_2
+	father = 7990
+	2867.1.1 = {
+		birth = "2867.1.1"
+	}
+	2913.1.1 = {
+		death = "2913.1.1"
+	}
+}
+
+7992 = {
+	name = "Heinrich"
+	dynasty = 650
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	trait = education_learning_2
+	father = 7991
+	2897.1.1 = {
+		birth = "2897.1.1"
+	}
+	2977.1.1 = {
+		death = "2977.1.1"
+	}
+}
+
+7993 = {
+	name = "Adelaide"
+	female = yes
+	dynasty = 650
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = hunchbacked
+	trait = education_martial_3
+	father = 7989
+	2862.1.1 = {
+		birth = "2862.1.1"
+	}
+	2926.7.14 = {
+		death = "2926.7.14"
+	}
+}
+
+125801 = {
+	name = "Adeleide"
+	female = yes
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 462805
+	mother = 462806
+	3295.1.1 = {
+		birth = "3295.1.1"
+	}
+	3320.3.1 = {
+		name = "Eirene"
+		religion = "orthodox"
+	}
+	3326.8.16 = {
+		death = "3326.8.16"
+	}
+}
+
+125998 = {
+	name = "Mathilde"
+	female = yes
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 462803
+	mother = 462804
+	3278.1.1 = {
+		birth = "3278.1.1"
+	}
+	3320.8.31 = {
+		death = "3320.8.31"
+	}
+}
+
+33332 = {
+	name = "Mathilde"
+	female = yes
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 462802
+	mother = 7574
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3299.10.25 = {
+		death = "3299.10.25"
+	}
+}
+
+33333 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 462802
+	mother = 7574
+	3248.1.1 = {
+		birth = "3248.1.1"
+	}
+	3276.1.1 = {
+		death = "3276.1.1"
+	}
+}
+
+33334 = {
+	name = "Otto" #bishop of Hildesheim
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 462802
+	mother = 7574
+	3249.1.1 = {
+		birth = "3249.1.1"
+	}
+	3281.7.4 = {
+		death = "3281.7.4"
+	}
+}
+
+33335 = {
+	name = "Konrad"
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 462802
+	mother = 7574
+	3250.1.1 = {
+		birth = "3250.1.1"
+	}
+	3302.1.1 = {
+		death = "3302.1.1"
+	}
+}
+
+33360 = {
+	name = "Wilhelm"
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 462803
+	mother = 462804
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3294.9.30 = {
+		death = "3294.9.30"
+	}
+}
+
+71900 = {
+	name = "Gerberga"
+	dynasty = 650
+	female = yes
+	religion = "catholic"
+	culture = bavarian
+	father = 1146
+	mother = 7960
+	2969.1.1 = {
+		birth = "2969.1.1"
+	}
+	3020.1.1 = {
+		death = "3020.1.1"
+	}
+}
+
+144973 = {
+	name = "Konrad"
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 144974
+	2848.1.1 = {
+		birth = "2848.1.1"
+	}
+	2884.1.1 = {
+		death = "2884.1.1"
+	}
+}
+
+144974 = {
+	name = "Rudolf"
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 7985
+	2818.1.1 = {
+		birth = "2818.1.1"
+	}
+	2868.1.1 = {
+		death = "2868.1.1"
+	}
+}
+
+91123 = {
+	name = "Emma"
+	# AKA: Emma de Bourgogne
+	female = yes
+	dynasty = 650 #Welf
+	religion = "catholic"
+	culture = bavarian
+	father = 7988 #Conrad I of Burgundy
+	mother = 161485
+	2842.1.1 = {
+		birth = "2834.1.1" #random
+	}
+	2867.1.1 = {
+		death = "2867.1.1" #random
+	}
+}
+
+170010 = {
+	name = "Matilde" # Matilde von Braunschweig-Luneburg
+	female = yes
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_1
+	father = 462832
+	mother = 462833
+	3277.1.1 = {
+		birth = "3277.1.1"
+	}
+	3310.1.1 = {
+		death = "3310.1.1"
+	}
+}
+
+168004 = {
+	name = "Ludwig"
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 7984
+	mother = 7983
+	2895.1.1 = {
+		birth = "2895.1.1"
+	}
+	2931.1.1 = {
+		death = "2931.1.1"
+	}
+}
+
+168005 = {
+	name = "Willa"
+	female = yes
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 7984
+	mother = 7983
+	2897.1.1 = {
+		birth = "2897.1.1"
+	}
+	2938.1.1={
+		employer=1144 #Rudolf of Burgundy
+	}
+	2942.1.1={
+		death="2942.1.1"
+	}
+}
+
+168006 = {
+	name = "Waldrada"
+	female = yes
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 7984
+	mother = 7983
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	2949.10.2 = {
+		death = "2949.2.10"
+	}
+}
+
+163180 = {
+	name = "Judith"
+	female = yes
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 7988
+	mother = 161485
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2892.1.1 = {
+		death = "2892.1.1"
+	}
+}
+
+168244 = {
+	name = "Welf"
+	dynasty = 650
+	trait = education_learning_2
+	trait = celibate
+	religion = "catholic"
+	culture = bavarian
+	father = 144974
+	2849.1.1 = {
+		birth = "2849.1.1"
+	}
+	2883.1.1 = {
+		death = "2883.1.1"
+	}
+}
+
+168245 = {
+	name = "Rudolf"
+	dynasty = 650
+	religion = "catholic"
+	culture = bavarian
+	father = 144974
+	2850.1.1 = {
+		birth = "2850.1.1"
+	}
+	2892.1.1 = {
+		death = "2892.1.1"
+	}
+}
+
+168246 = {
+	name = "Hugo"
+	#AKA Hugo Abbas
+	dynasty = 650
+	trait = education_learning_2
+	religion = "catholic"
+	culture = bavarian
+	father = 7988
+	mother = 161485
+	2839.1.1 = {
+		birth = "2838.1.1"
+	}
+	2888.5.12 = {
+		death = "2888.5.12"
+	}
+}
+
+190361 = {
+	name = "Hadrad" #count of Sundgau and lorraine
+	dynasty = 650 #Welf
+	religion = "catholic"
+	culture = bavarian
+	2714.1.1 = {
+		birth = yes
+	}
+	2762.1.1 = {
+		death = yes
+	}
+}
+190362 = {
+	name = "Rothard" #count of Sundgau and lorraine
+	dynasty = 650 #Welf
+	religion = "catholic"
+	culture = bavarian
+	father = 190361
+	2742.1.1 = {
+		birth = yes
+	}
+	2763.1.1 = {
+		add_spouse = 190363
+	}
+	2772.1.1 = {
+		remove_spouse = 190363
+	}
+	2773.1.1 = {
+		add_spouse = 190364
+	}
+	2798.1.1 = {
+		death = yes
+	}
+}
+263004 = {
+	name = "Evesa"
+	female = yes
+	religion = "catholic"
+	culture = bavarian
+	father = 7988 #Count Konrad of Auxerre
+	mother = 161485
+	dynasty = 650
+	2843.1.1 = {
+		birth = yes
+	}
+	2862.1.1 = {
+		add_spouse = 167775
+	}
+	2887.1.1 = {
+		death = yes
+	}
+}
+
+212570 = {
+	name = "Heinrich"
+	# AKA: Heinrich der LOwe
+	dynasty = 650	#Welf
+	martial = 9
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_2
+	3131.1.2 = {
+		birth = "3131.1.2"
+	}
+	3197.1.2 = {
+		death = "3197.1.2"
+	}
+}
+##End of Welf dynasty
+##Start of Agilolfing dynasty
+190426 = {
+	name = "Suanachildis" #wife of charles the hammer
+	female = yes
+	dynasty = 1044033 #Agilolfing
+	religion = "catholic"
+	culture = bavarian
+	father = 190233
+	2702.1.1 = {
+		birth = yes
+	}
+	2747.1.1 = {
+		death = yes
+	}
+}
+190178 = {
+	name = "Garibald" #Garibald I of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	2542.1.1 = {
+		birth = yes
+	}
+	2593.1.1 = {
+		death = yes
+	}
+}
+190179 = {
+	name = "Tassilo" #Tassilo I of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190178
+	2562.1.1 = {
+		birth = yes
+	}
+	2612.1.1 = {
+		death = yes
+	}
+}
+190336 = {
+	name = "Garibald" #Garibald II of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190179
+	2583.1.1 = {
+		birth = yes
+	}
+	2621.1.1 = {
+		add_spouse = 190132
+	}
+	2632.1.1 = {
+		death = yes
+	}
+}
+190337 = {
+	name = "Theodo" #Theodo I of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190336
+	2621.1.1 = {
+		birth = yes
+	}
+	2682.1.1 = {
+		death = yes
+	}
+}
+190338 = {
+	name = "Lantpert" #Lantpert of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190337
+	2637.1.1 = {
+		birth = yes
+	}
+	2682.6.1 = {
+		death = yes
+	}
+}
+190339 = {
+	name = "Theodo" #Theodo II of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190337
+	2638.1.1 = {
+		birth = yes
+	}
+	2718.1.1 = {
+		death = yes
+	}
+}
+190334 = {
+	name = "Theodbert" #Theodbert of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190339
+	2667.1.1 = {
+		birth = yes
+	}
+	2703.1.1 = {
+		add_spouse = 190190
+	}
+	2721.1.1 = {
+		death = yes
+	}
+}
+190197 = {
+	name = "Guntrud" #wife of Liutprand of Lombardy
+	female = yes
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190334
+	mother = 190190
+	2699.1.1 = {
+		birth = yes
+	}
+	2748.1.1 = {
+		death = yes
+	}
+}
+190226 = {
+	name = "Hugbert" #Hugbert of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190334
+	mother = 190190
+	2709.1.1 = {
+		birth = yes
+	}
+	2738.1.1 = {
+		death = yes
+	}
+}
+190370 = {
+	name = "Theobald" #Theobald of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190339
+	2668.1.1 = {
+		birth = yes
+	}
+	2706.1.1 = {
+		add_spouse = 190224
+	}
+	2721.4.1 = {
+		remove_spouse = 190224
+	}
+	2721.4.1 = {
+		death = yes
+	}
+}
+190224 = {
+	name = "Biltrude" #marries Theobald then Grimoald
+	female = yes
+	dynasty = 1044055 #Lantfriding
+	religion = "catholic"
+	culture = bavarian
+	2689.1.1 = {
+		birth = yes
+	}
+	2753.1.1 = {
+		death = yes
+	}
+}
+190371 = {
+	name = "Tassilo" #Tassilo II of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190339
+	2671.1.1 = {
+		birth = yes
+	}
+	2709.1.1 = {
+		add_spouse = 190225
+	}
+	2721.8.1 = {
+		death = yes
+	}
+}
+190225 = {
+	name = "Waldrada" #marries Tassilo II
+	female = yes
+	dynasty = 1044056 #Theotbalding
+	religion = "catholic"
+	culture = bavarian
+	2691.1.1 = {
+		birth = yes
+	}
+	2753.1.1 = {
+		death = yes
+	}
+}
+190372 = {
+	name = "Grimoald" #Grimoald of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190339
+	2706.1.1 = {
+		birth = yes
+	}
+	2723.1.1 = {
+		add_spouse = 190224
+	}
+	2727.1.1 = {
+		death = yes
+	}
+}
+190223 = {
+	name = "Uta" #marries Gotfrid of Allemania
+	female = yes
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190339
+	2657.1.1 = {
+		birth = yes
+	}
+	2753.1.1 = {
+		death = yes
+	}
+}
+190335 = {
+	name = "Gotfrid" #Gotfrid of Allemania
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190337
+	2664.1.1 = {
+		birth = yes
+	}
+	2699.1.1 = {
+		add_spouse = 190223
+	}
+	2711.1.1 = {
+		death = yes
+	}
+}
+190230 = {
+	name = "Lantfrid" #Lantfrid of Allemania
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190335
+	mother = 190223
+	2691.2.1 = {
+		birth = yes
+	}
+	2732.1.1 = {
+		death = yes
+	}
+}
+190231 = {
+	name = "Lantfrid" #Lantfrid II of Allemania
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190230
+	2710.1.1 = {
+		birth = yes
+	}
+	2753.1.1 = {
+		death = yes
+	}
+}
+190232 = {
+	name = "Theobald" #Theobald of Allemania
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190335
+	mother = 190223
+	2700.1.1 = {
+		birth = yes
+	}
+	2747.1.1 = {
+		death = yes
+	}
+}
+190227 = {
+	name = "Odilo" #Odilo of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190335
+	mother = 190223
+	2702.1.1 = {
+		birth = yes
+	}
+	2743.1.1 = {
+		add_spouse = 190433
+	}
+	2750.1.1 = {
+		death = yes
+	}
+}
+190228 = {
+	name = "Tassilo" #Tassilo III of Bavaria
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190227
+	mother = 190433
+	2743.1.1 = {
+		birth = yes
+	}
+	2768.1.1 = {
+		add_spouse = 190351
+	}
+	2798.8.1 = {
+		death = yes
+	}
+}
+190229 = {
+	name = "Theodo"
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190228
+	mother = 190351
+	2769.1.1 = {
+		birth = yes
+	}
+	2798.8.1 = {
+		death = yes
+	}
+}
+190233 = {
+	name = "Huoching"
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190335
+	mother = 190223
+	2677.1.1 = {
+		birth = yes
+	}
+	2746.1.1 = {
+		death = yes
+	}
+}
+190234 = {
+	name = "Hnabi" #Hnabi of Allemania
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190233
+	2722.1.1 = {
+		birth = yes
+	}
+	2742.1.1 = {
+		add_spouse = 190235
+	}
+	2790.1.1 = {
+		death = yes
+	}
+}
+190235 = {
+	name = "Hereswind" #wife of Hnabi of Allemania
+	female = yes
+	dynasty = 1044057 #Herberting
+	religion = "catholic"
+	culture = bavarian
+	2723.1.1 = {
+		birth = yes
+	}
+	2773.1.1 = {
+		death = yes
+	}
+}
+190236 = {
+	name = "Ruadbert"
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190234
+	mother = 190235
+	2742.1.1 = {
+		birth = yes
+	}
+	2762.1.1 = {
+		add_spouse = 190237
+	}
+	2787.1.1 = {
+		death = yes
+	}
+}
+190237 = {
+	name = "Eugenia" #wife of Ruadbert
+	female = yes
+	dynasty = 1044058 #Lotharing
+	religion = "catholic"
+	culture = bavarian
+	2744.1.1 = {
+		birth = yes
+	}
+	2791.1.1 = {
+		death = yes
+	}
+}
+190238 = {
+	name = "Erbio" #Erbio of Allemania
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190236
+	mother = 190237
+	2765.1.1 = {
+		birth = yes
+	}
+	2796.1.1 = {
+		death = yes
+	}
+}
+190239 = {
+	name = "Udo" #Udo of Allemania
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190238
+	2785.1.1 = {
+		birth = yes
+	}
+	2812.1.1 = {
+		death = yes
+	}
+}
+190240 = {
+	name = "Eugnia"
+	female = yes
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190238
+	2787.1.1 = {
+		birth = yes
+	}
+	2817.1.1 = {
+		death = yes
+	}
+}
+190241 = {
+	name = "Imma" #wife of Gerold Udalrichinger count of Thurgau
+	female = yes
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190234
+	mother = 190235
+	2745.1.1 = {
+		birth = yes
+	}
+	2800.1.1 = {
+		death = yes
+	}
+}
+190242 = {
+	name = "Regarde" #wife of Hildeprand of Spoleto
+	female = yes
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190335
+	mother = 190223
+	2710.1.1 = {
+		birth = yes
+	}
+	2790.1.1 = {
+		death = yes
+	}
+}
+190243 = {
+	name = "Liutfrid"
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190335
+	mother = 190223
+	2711.1.1 = {
+		birth = yes
+	}
+	2772.1.1 = {
+		death = yes
+	}
+}
+190171 = {
+	name = "Theodelinda" #wife of Authari and Agilulf of Lombardy
+	female = yes
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190178
+	2570.1.1 = {
+		birth = yes
+	}
+	2627.1.1 = {
+		death = yes
+	}
+}
+#190180 = {
+#	name = "Gundoald" #descendents become kings of Italy
+#	dynasty = 1044033
+#	religion = "catholic"
+#	culture = bavarian
+#	father = 190178
+#	2573.1.1 = {
+#		birth = yes
+#	}
+#	2614.1.1 = {
+#		death = yes
+#	}
+#}
+190129 = {
+	name = "Ramhilde" #wife of Gisulf II of Friuli
+	female = yes
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190178
+	2580.1.1 = {
+		birth = yes
+	}
+	2631.1.1 = {
+		death = yes
+	}
+}
+190192 = {
+	name = "Theodorata" #daughter of Theodo II of Bavaria
+	female = yes
+	dynasty = 1044033 #Agilolfing (Bavaria)
+	religion = "catholic"
+	culture = bavarian
+	father = 190339
+	2654.1.1 = {
+		birth = yes
+	}
+	2748.1.1 = {
+		death = yes
+	}
+}
+##end of Agilolfing dynasty
+## Wilhelmiden
+167795 = {
+	name = "Wilhelm"
+	dynasty = 9553
+	religion = "catholic"
+	culture = bavarian
+	2802.1.1 = {
+		birth = "2802.1.1"
+	}
+	2855.1.18 = {
+		death = "2855.1.18"
+	}
+}
+
+167796 = {
+	name = "Wilhelm"
+	dynasty = 9553
+	religion = "catholic"
+	culture = bavarian
+	father = 167795
+	2822.1.1 = {
+		birth = "2822.1.1"
+	}
+	2873.1.1 = {
+		death = "2873.1.1"
+	}
+}
+
+167797 = {
+	name = "Megingoz"
+	dynasty = 9553
+	religion = "catholic"
+	culture = bavarian
+	father = 167796
+	2842.1.1 = {
+		birth = "2842.1.1"
+	}
+	2886.1.1 = {
+		death = "2886.1.1"
+	}
+}
+
+167798 = {
+	name = "Engelschalk"
+	dynasty = 9553
+	religion = "catholic"
+	culture = bavarian
+	father = 167795
+	2827.1.1 = {
+		birth = "2827.1.1"
+	}
+	2873.1.1 = {
+		death = "2873.1.1"
+	}
+}
+
+167799 = {
+	name = "Poppo"
+	dynasty = 9553
+	religion = "catholic"
+	culture = bavarian
+	father = 167798
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}
+	2886.1.1 = {
+		death = "2886.1.1"
+	}
+}
+
+167800 = {
+	name = "Wilhelm"
+	dynasty = 9553
+	religion = "catholic"
+	culture = bavarian
+	father = 167798
+	2849.1.1 = {
+		birth = "2849.1.1"
+	}
+	2895.1.1 = {
+		death = "2895.1.1"
+	}
+}
+
+167801 = {
+	name = "Engelschalk"
+	dynasty = 9553
+	religion = "catholic"
+	culture = bavarian
+	father = 167798
+	2851.1.1 = {
+		birth = "2851.1.1"
+	}
+	2897.1.1 = {
+		death = "2897.1.1"
+	}
+}
+
+168311 = {
+	name = "Bertha" #real name unknown
+	female = yes
+	dynasty = 9553
+	religion = "catholic"
+	culture = bavarian
+	father = 167795
+	2837.1.1 = {
+		birth = "2837.1.1"
+	}
+	2887.1.1 = {
+		death = "2887.1.1"
+	}
+}
+## end of Wilhelmiden
+## Start of von Otakeren
+1615 = {
+	name = "Otakar" #VII count of Styria
+	dynasty_house = house_otakeren
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	father = 1620
+	mother = 1617
+	3068.1.2 = {
+		birth = "3068.1.2"
+	}
+	3097.1.1 = {
+		add_spouse = 7675
+	}
+	3124.11.28 = {
+		death = "3124.11.28"
+	}
+}
+
+1620 = {
+	name = "Otakar" #VI count of Styria
+	dynasty_house = house_otakeren
+	martial = 8
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = education_martial_3
+	father = 32005
+	3026.1.2 = {
+		birth = "3026.1.2"
+	}
+	3045.1.2 = {
+		add_spouse = 1617
+	}
+	3077.3.29 = {
+		death = "3077.3.29"
+	}
+}
+
+40719 = {
+	name = "Adalbero" #count of Styria
+	dynasty_house = house_otakeren
+	martial = 4
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 1620
+	mother = 1617
+	3058.1.2 = {
+		birth = "3058.1.2"
+	}
+	3084.11.28 = {
+		death = "3084.11.28"
+	}
+}
+
+7677 = {
+	name = "Leopold" #count of Styria
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 1615
+	mother = 7675
+	3098.1.1 = {
+		birth = "3098.1.1"
+	}
+	3114.1.1 = {
+		add_spouse = 7676
+	}
+	3131.10.24 = {
+		death = "3131.10.24"
+	}
+}
+
+7678 = {
+	name = "Otakar" #VIII count of Styia
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 7677
+	mother = 7676
+	3128.1.1 = {
+		birth = "3128.1.1"
+	}
+	3147.1.1 = {
+		add_spouse = 7679
+	}
+	3166.12.19 = {
+		death = "3166.12.19"
+	}
+}
+
+7679 = {
+	name = "Kunigunde"
+	female = yes
+	dynasty = 101560
+	religion = "catholic"
+	culture = bavarian
+	3130.1.1 = {
+		birth = "3130.1.1"
+	}
+	3186.11.22 = {
+		death = "3186.11.22"
+	}
+}
+
+7680 = {
+	name = "Otakar" #IX count of Styria
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 7678
+	mother = 7679
+	3165.8.19 = {
+		birth = "3165.8.19"
+	}
+	3194.5.9 = {
+		death = "3194.5.9"
+	}
+}
+
+32001 = {
+	name = "Otakar" #II
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 32000
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	2932.1.2 = {
+		death = "2932.1.2"
+	}
+}
+
+
+32002 = {
+	name = "Otakar" #III
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 32001
+	2922.1.1 = {
+		birth = "2922.1.1"
+	}
+	2978.1.2 = {
+		death = "2978.1.2"
+	}
+}
+
+32003 = {
+	name = "Otakar" #IV
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 32002
+	2952.1.2 = {
+		birth = "2952.1.2"
+	}
+	3022.5.3 = {
+		death = "3022.5.3"
+	}
+}
+
+32005 = {
+	name = "Otakar" #V
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 32003
+	2972.1.2 = {
+		birth = "2972.1.2"
+	}
+	3027.5.1 = {
+		death = "3027.5.1"
+	}
+}
+
+32006 = {
+	name = "Willibirg"
+	female = yes
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 1615
+	mother = 7675
+	3098.1.1 = {
+		birth = "3098.1.1"
+	}
+	3147.1.18 = {
+		death = "3147.1.18"
+	}
+}
+
+32007 = {
+	name = "Kunigunde"
+	female = yes
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 1615
+	mother = 7675
+	3099.1.1 = {
+		birth = "3099.1.1"
+	}
+	#married Bernhard von Sponheim
+
+	3163.7.20 = {
+		death = "3163.7.20"
+	}
+}
+
+32008 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 7677
+	mother = 7676
+	3114.1.1 = {
+		birth = "3114.1.1"
+	}
+	3164.1.1 = {
+		death = "3164.1.1"
+	}
+}
+
+32009 = {
+	name = "Margaretha"
+	female = yes
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 7677
+	mother = 7676
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3142.1.2 = {
+		death = "3142.1.2"
+	}
+}
+
+32010 = {
+	name = "Kunigunde"
+	female = yes
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 7677
+	mother = 7676
+	3130.1.1 = {
+		birth = "3130.1.1"
+	}
+	3179.5.4 = {
+		death = "3179.5.4"
+	}
+}
+
+32011 = {
+	name = "Leopold"
+	dynasty_house = house_otakeren
+	religion = "catholic"
+	culture = bavarian
+	father = 7677
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+## Enf of von Otakeren
+## Start of Rapotonen
+212388 = {
+	name = "Konrad" #1137-1143
+	dynasty = 7220
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 33296
+	3066.1.1 = {
+		birth = "3066.1.1"
+	}
+	3145.1.1 = {
+		death = "3145.1.1"
+	}
+}
+
+212390 = {
+	name = "Konrad" #Nurnberg 1160-1192
+	dynasty = 7220
+	martial = 6
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_learning_2
+	father = 212388
+	3130.1.1 = {
+		birth = "3130.1.1"
+	}
+	3165.1.1 = {
+		add_spouse = 212391
+	}
+	3194.1.1 = {
+		death = "3194.1.1"
+	}
+}
+
+212391 = {
+	name = "Hildegarde"
+	# AKA: Hildegarde von Abensberg
+	dynasty = 7283
+	female = yes
+	martial = 5
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = diligent
+	trait = education_stewardship_4
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+212392 = {
+	name = "Sofie"
+	female = yes
+	dynasty = 7220
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_1
+	father = 212390
+	mother = 212391
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+7003 = {
+	name = "Ida"
+	female = yes
+	dynasty = 7220 #Rapotonen
+	martial = 7
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = education_learning_2
+		father = 31514
+		mother = 31523
+	3057.1.2 = {
+		birth = "3057.1.2"
+	}
+	3103.12.31 = {
+		death = "3103.12.31"
+	}
+}
+
+31510 = {
+	name = "Rapoto" #I count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	2952.1.1 = {
+		birth = "2952.1.1"
+	}
+	2986.10.7 = {
+		death = "2986.10.7"
+	}
+}
+31511 = {
+	name = "Rapoto" #II count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31510
+	2982.1.1 = {
+		birth = "2982.1.1"
+	}
+	3022.6.13 = {
+		death = "3022.6.13"
+	}
+}
+31512 = {
+	name = "Rapoto" #III count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31511
+	3002.1.1 = {
+		birth = "3002.1.1"
+	}
+	3018.1.1 = {
+		add_spouse = 31539
+	}
+	3052.6.18 = {
+		death = "3052.6.18"
+	}
+}
+31513 = {
+	name = "Dietpold" #I count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31511
+	3007.1.1 = {
+		birth = "3007.1.1"
+	}
+	3062.5.18 = {
+		death = "3062.5.18"
+	}
+}
+
+31514 = {
+	name = "Rapoto" #IV count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31513
+	3027.1.1 = {
+		birth = "3027.1.1"
+	}
+	3066.1.1 = {
+		add_spouse = 31523
+	}
+	3082.10.15 = {
+		death = "3082.10.15"
+	}
+}
+31515 = {
+	name = "Dietpold" #II count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31513
+	3030.1.1 = {
+		birth = "3030.1.1"
+	}
+	#marries Luitgarde von Zahringen
+	3072.1.1 = {
+		add_spouse = 10088
+	}
+	3080.8.7 = {
+		death = "3080.8.7"
+	}
+}
+31516 = {
+	name = "Dietpold" #III count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31515
+	mother = 10088
+	3074.1.1 = {
+		birth = "3074.1.1"
+	}
+	3111.1.1 = {
+		add_spouse = 125900
+	}
+	3130.1.1 = {
+		add_spouse = 31517
+	}
+	3148.8.4 = {
+		death = "3148.8.4"
+	}
+}
+
+31536 = {
+	name = "Dietpold" #IV count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31516
+	mother = 125900
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	3129.1.1 = {
+		add_spouse = 7374
+	}
+	3130.1.2 = {
+		death = "3130.1.2"
+	}
+}
+31518 = {
+	name = "Dietpold" #V count Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31536
+	mother = 7374
+	3130.1.1 = {
+		birth = "3130.1.1"
+	}
+	3160.11.13 = {
+		death = "3160.11.13"
+	}
+}
+31519 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	trait = chaste
+	father = 31516
+	mother = 125900
+	3128.1.1 = {
+		birth = "3128.1.1"
+	}
+	3182.2.19 = {
+		death = "3182.2.19"
+	}
+}
+31520 = {
+	name = "Berthold" #I count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31516
+	mother = 31517
+	3130.1.1 = {
+		birth = "3130.1.1"
+	}
+	3187.9.15 = {
+		death = "3187.9.15"
+	}
+}
+31521 = {
+	name = "Kunigunde"
+	female = yes
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31516
+	mother = 31517
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3186.11.22 = {
+		death = "3186.11.22"
+	}
+}
+
+31522 = {
+	name = "Dietpold" #VI count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31516
+	3148.1.1 = {
+		birth = "3148.1.1"
+	}
+	3187.10.21 = {
+		death = "3187.10.21"
+	}
+}
+
+31524 = {
+	name = "Rapoto" #V count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31514
+	mother = 31523
+	3068.1.2 = {
+		birth = "3068.1.2"
+	}
+	3101.4.14 = {
+		death = "3101.4.14"
+	}
+}
+
+31666 = {
+	name = "Ulrich"
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31514
+	mother = 31523
+	3069.1.2 = {
+		birth = "3069.1.2"
+	}
+	3086.1.1 = {
+		add_spouse = 31527
+	}
+	3101.2.24 = {
+		death = "3101.2.24"
+	}
+}
+
+31525 = {
+	name = "Hermann" #Bishop of Augsburg
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31514
+	mother = 31523
+	3072.1.2 = {
+		birth = "3072.1.2"
+	}
+	3135.3.18 = {
+		death = "3135.3.18"
+	}
+}
+
+31526 = {
+	name = "Uta"
+	female = yes
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31666
+	mother = 31527
+	3087.1.2 = {
+		birth = "3087.1.2"
+	}
+	#marries Engelbert II von Sponheim d. of Carinthia
+	3152.2.9 = {
+		death = "3152.2.9"
+	}
+}
+
+31529 = {
+	name = "Berthold" #II count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31520
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3196.1.1 = {
+		add_spouse = 212956
+	}
+	3206.5.25 = {
+		death = "3206.5.25"
+	}
+}
+31530 = {
+	name = "Dietpold" #VII count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31520
+	3164.1.1 = {
+		birth = "3164.1.1"
+	}
+	3196.1.1 = {
+		add_spouse = 31531
+	}
+	3227.12.26 = {
+		death = "3227.12.26"
+	}
+}
+31531 = {
+	name = "Mechthild"
+	female = yes
+	dynasty = 211 #von Wasserburg
+	religion = "catholic"
+	culture = bavarian
+	3189.1.2 = {
+		birth = "3189.1.2"
+	}
+	3239.1.2 = {
+		death = "3239.1.2"
+	}
+}
+
+31532 = {
+	name = "Berthold" #III #Regent of Sicily count of Ascoli
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31530
+	mother = 31531
+	3207.1.1 = {
+		birth = "3207.1.1"
+	}
+	3253.1.1 = {
+		add_spouse = 70993 #Isolda Lancia
+	}
+	3258.2.2 = {
+		death = "3258.2.2"
+	}
+}
+
+31533 = {
+	name = "Dietpold" #VIII count of Passau
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31530
+	mother = 31531
+	3208.1.1 = {
+		birth = "3208.1.1"
+	}
+
+	3261.1.2 = {
+		death = "3261.1.2"
+	}
+}
+31534 = {
+	name = "Otto" #count of Chieti
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31530
+	mother = 31531
+	3209.1.1 = {
+		birth = "3209.1.1"
+	}
+	3258.2.2 = {
+		death = "3258.2.2"
+	}
+}
+31535 = {
+	name = "Ludwig" #count of Cotrone
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31530
+	mother = 31531
+	3209.1.1 = {
+		birth = "3209.1.1"
+	}
+	3258.2.2 = {
+		death = "3258.2.2"
+	}
+}
+
+31538 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31515
+	mother = 10088
+	3073.1.1 = {
+		birth = "3073.1.1"
+	}
+	3129.12.1 = {
+		death = "3129.12.1"
+	}
+}
+
+33295 = {
+	name = "Ulrich"
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31513
+	3033.1.1 = {
+		birth = "3033.1.1"
+	}
+	3085.1.1 = {
+		death = "3085.1.1"
+	}
+}
+
+33296 = {
+	name = "Gottfried"
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 33295
+	3049.1.1 = {
+		birth = "3049.1.1"
+	}
+	3086.1.1 = {
+		death = "3086.1.1"
+	}
+}
+
+33297 = {
+	name = "Gottfried" #Nurnberg 1105-1137
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 33296
+	3065.1.1 = {
+		birth = "3065.1.1"
+	}
+	3139.5.14 = {
+		death = "3139.5.14"
+	}
+}
+
+33298 = {
+	name = "Gottfried" #Nurnberg 1143-1160
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 33297
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3162.4.16 = {
+		death = "3162.4.16"
+	}
+}
+
+33310 = {
+	name = "Gebhard" #Regensburg 1089-1105
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 33296
+	3068.1.1 = {
+		birth = "3068.1.1"
+	}
+	3107.7.14 = {
+		death = "3107.7.14"
+	}
+}
+
+33474 = {
+	name = "Luitgard"
+	female = yes
+	dynasty = 7220 #Rapotonen
+	religion = "catholic"
+	culture = bavarian
+	father = 31516
+	mother = 125900
+	3114.1.1 = {
+		birth = "3114.1.1"
+	}
+	3164.1.1 = {
+		death = "3164.1.1"
+	}
+}
+## End of Rapotonen
+## Start of von Eppenstein
+1617 = {
+	name = "Willibrig"
+	female = yes
+	dynasty = 523
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_3
+	father = 1618
+	mother = 1619
+	3027.1.1 = {
+		birth = "3027.1.1"
+	}
+	3077.8.27 = {
+		death = "3077.8.27"
+	}
+}
+
+1618 = {
+	name = "Adalbero"
+	dynasty = 523
+	martial = 8
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	father = 168211
+	mother = 168203
+	2982.1.1 = {
+		birth = "2982.1.1"
+	}
+	3024.1.1 = {
+		add_spouse = 1619
+	}
+	3041.1.2 = {
+		death = "3041.1.2"
+	}
+}
+
+70622 = {
+	name = "Markward"
+	dynasty = 523
+	martial = 8
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = content
+	trait = temperate
+	trait = education_martial_1
+	father = 1618
+	3025.1.1 = {
+		birth = "3025.1.1"
+	}
+	3063.1.1 = {
+		add_pressed_claim = title:d_carinthia
+	}
+	3078.6.16 = {
+		death = "3078.6.16"
+	}
+}
+
+70623 = {
+	name = "Liutold"
+	dynasty = 523
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = temperate
+	trait = education_intrigue_3
+	father = 70622
+	3050.1.1 = {
+		birth = "3050.1.1"
+	}
+	3078.6.16 = {
+		add_pressed_claim = title:d_carinthia
+	}
+	3092.5.12 = {
+		death = "3092.5.12"
+	}
+}
+
+70827 = {
+	name = "Ulrich"
+	dynasty = 523
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = chaste
+	trait = education_learning_3
+	father = 70622
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3123.1.1 = {
+		death = "3123.1.1"
+	}
+}
+
+7674 = {
+	name = "Heinrich"
+	dynasty = 523
+	religion = "catholic"
+	culture = bavarian
+	father = 70622
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3124.12.4 = {
+		death = "3124.12.4"
+	}
+}
+
+7708 = {
+	name = "Ulrich"
+	dynasty = 523
+	martial = 5
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 70623
+	
+	3067.1.1 = {
+		birth = "3067.1.1"
+	}
+	3122.2.3 = {
+		death = "3122.2.3"
+	}
+}
+
+168205 = {
+	name = "Richardis"
+	female = yes
+	dynasty = 523
+	religion = "catholic"
+	culture = bavarian
+	father = 168210
+	2952.1.1 = {
+		birth = "2952.1.1"
+	}
+	3015.1.1 = {
+		death = "3015.1.1"
+	}
+}
+
+168209 = {
+	name = "Markward"
+	dynasty = 523
+	religion = "catholic"
+	culture = bavarian
+	2882.1.1 = {
+		birth = "2882.1.1"
+	}
+	
+	2918.1.1 = {
+		death = "2918.1.1"
+	}
+}
+
+168210 = {
+	name = "Markward"
+	dynasty = 523
+	religion = "catholic"
+	culture = bavarian
+	father = 168209
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	
+	2953.1.1 = {
+		death = "2953.1.1"
+	}
+}
+
+168211 = {
+	name = "Markward"
+	dynasty = 523
+	religion = "catholic"
+	culture = bavarian
+	father = 168210
+	2942.1.1 = {
+		birth = "2942.1.1"
+	}
+	2977.1.1 = {
+		add_spouse = 168203
+	}
+	3002.1.1 = {
+		death = "3002.1.1"
+	}
+}
+## End of von Eppenstein
+## Start of Aribonen
+32000 = {
+	name = "Otakar" #I
+	dynasty = 9554
+	religion = "catholic"
+	culture = bavarian
+	father = 167802
+	mother = 168311
+	2864.1.1 = {
+		birth = "2864.1.1"
+	}
+	2900.1.1 = {
+		add_spouse = 168306
+	}
+	2909.7.4 = { #battle of Pressburg
+		death = "2909.7.4"
+	}
+}
+167802 = {
+	name = "Aribo"
+	dynasty = 9554
+	religion = "catholic"
+	culture = bavarian
+	2842.1.1 = {
+		birth = "2842.1.1"
+	}
+	2860.1.1 = {
+		add_spouse = 168311
+	}
+	2911.1.1 = {
+		death = "2911.1.1"
+	}
+}
+
+167803 = {
+	name = "Isanrich"
+	dynasty = 9554
+	religion = "catholic"
+	culture = bavarian
+	father = 167802
+	mother = 168311
+	2862.1.1 = {
+		birth = "2862.1.1"
+	}
+	2914.3.5 = {
+		death = "2914.3.5"
+	}
+}
+168312 = {
+	name = "Jakob"
+	dynasty = 9554
+	religion = "catholic"
+	culture = bavarian
+	father = 167802
+	mother = 168311
+	2867.1.1 = {
+		birth = "2867.1.1"
+	}
+	2960.1.1 = {
+		death = "2960.1.1"
+	}
+}
+
+168313 = {
+	name = "Aribo"
+	dynasty = 9554
+	religion = "catholic"
+	culture = bavarian
+	father = 167802
+	mother = 168311
+	2872.1.1 = {
+		birth = "2872.1.1"
+	}
+	2906.1.1 = {
+		death = "2906.1.1"
+	}
+}
+## End of Aribonen
+## Innsbruck
+168308 = {
+	name = "Gundakar"
+	dynasty = 100359
+	religion = "catholic"
+	culture = bavarian
+	2841.1.1 = {
+		birth = "2841.1.1"
+	}
+	
+	2871.1.1 = {
+		death = "2871.1.1"
+	}
+}
+## End of Unnsbruck
+## von Formbach dyn
+212909 = {
+	name = "Sophie"
+	female = yes
+	dynasty = 210
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = calm
+	trait = cynical
+	trait = education_intrigue_2
+	father = 33408
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+212967 = {
+	name = "Hedwig"
+	# AKA: Hedwig
+	female = yes
+	dynasty = 210
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = cynical
+	trait = education_learning_3
+	father = 33407
+	3111.1.1 = {
+		birth = "3111.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+30210 = {
+	name = "Thiemo"
+	dynasty = 210
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	2982.1.1 = {
+		birth = "2982.1.1"
+	}
+	3052.3.7 = {
+		death = "3052.3.7"
+	}
+}
+
+30211 = {
+	name = "Heinrich"
+	dynasty = 210
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	father = 30210
+	3009.1.1 = {
+		birth = "3009.1.1"
+	}
+	3052.3.7 = {
+		death = "3052.3.7"
+	}
+}
+
+30212 = {
+	name = "Friedrich"
+	dynasty = 210
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	father = 30210
+	3017.1.1 = {
+		birth = "3017.1.1"
+	}
+	3050.1.1 = {
+		add_spouse = 30214
+	}
+	3062.1.1 = {
+		death = "3062.1.1"
+	}
+}
+
+30213 = {
+	name = "Tuta"
+	female = yes
+	dynasty = 210
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	father = 30211
+	3027.1.1 = {
+		birth = "3027.1.1"
+	}
+	3072.3.14 = {
+		death = "3072.3.14"
+	}
+}
+
+30214 = {
+	name = "Gertrud"
+	female = yes
+	dynasty = 652
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	father = 168532
+	3034.1.1 = {
+		birth = "3034.1.1"
+	}
+	3118.2.21 = {
+		death = "3118.2.21"
+	}
+}
+
+30215 = {
+	name = "Hedwig"
+	female = yes
+	dynasty = 210
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	father = 30212
+	mother = 30214
+	3054.1.1 = {
+		birth = "3054.1.1"
+	}
+	3095.1.1 = {
+		death = "3095.1.1"
+	}
+}
+
+20239 = {
+	name = "Heinrich"
+	dynasty = 210
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = arbitrary
+	trait = arrogant
+	trait = gluttonous
+	trait = cynical
+	trait = education_learning_3
+	father = 33406
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3063.1.1 = {
+		set_primary_title_to = title:c_frontenhausen
+	}
+	3110.1.1 = {
+		death = "3110.1.1"
+	}
+}
+
+33405 = {
+	name = "Meginhard"
+	dynasty = 210
+	religion = "catholic"
+	culture = bavarian
+	father = 30210
+	3007.1.1 = {
+		birth = "3007.1.1"
+	}
+	3068.1.1 = {
+		death = "3068.1.1"
+	}
+}
+
+33406 = {
+	name = "Thiemo"
+	dynasty = 210
+	religion = "catholic"
+	culture = bavarian
+	father = 30210
+	3008.1.1 = {
+		birth = "3008.1.1"
+	}
+	3042.1.1 = {
+		death = "3042.1.1"
+	}
+}
+
+33407 = {
+	name = "Dietrich"
+	dynasty = 210
+	religion = "catholic"
+	culture = bavarian
+	father = 20239
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3146.1.1 = {
+		death = "3146.1.1"
+	}
+}
+
+33408 = {
+	name = "Hermann"
+	dynasty = 210
+	religion = "catholic"
+	culture = bavarian
+	father = 33405
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3124.1.1 = {
+		death = "3124.1.1"
+	}
+}
+
+33409 = {
+	name = "Hermann"
+	dynasty = 210
+	religion = "catholic"
+	culture = bavarian
+	father = 33408
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3154.1.29 = {
+		death = "3154.1.29"
+	}
+}
+
+33410 = {
+	name = "Thiemo" #bishop of Salzburg 1090-1101
+	dynasty = 210
+	religion = "catholic"
+	culture = bavarian
+	father = 33406
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3103.9.28 = {
+		death = "3103.9.28"
+	}
+}
+
+33411 = {
+	name = "Sophia"
+	female = yes
+	dynasty = 210
+	religion = "catholic"
+	culture = bavarian
+	father = 33405
+	3053.1.1 = {
+		birth = "3053.1.1"
+	}
+	3090.1.1 = {
+		death = "3090.1.1"
+	}
+}
+## end of von Formbach
+## Start of von Andechs
+11062 = {
+	name = "Friedrich"
+	dynasty_house = house_andechs
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = chaste
+	trait = education_intrigue_1
+	father = 11066
+	mother = 11065
+	3012.1.1 = {
+		birth = "3012.1.1"
+	}
+	3062.1.1 = {
+		death = "3062.1.1"
+	}
+}
+
+11066 = {
+	name = "Friedrich"
+	dynasty_house = house_andechs
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	father = 11067
+	mother = 11068
+	2977.1.1 = {
+		birth = "2977.1.1"
+	}
+	2997.1.10 = {
+		add_spouse = 11065
+	}
+	3027.1.1 = {
+		death = "3027.1.1"
+	}
+}
+
+144249 = {
+	name = "Heinrich"
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 212932
+	mother = 212937
+	3181.1.1 = {
+		birth = "3181.1.1"
+	}
+	3230.7.18 = {
+		death = "3230.7.18"
+	}
+}
+
+212930 = {
+	name = "Berthold"
+	dynasty_house = house_andechs
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_2
+	father = 212935
+	mother = 212936
+	3127.1.2 = {
+		birth = "3127.1.2"
+	}
+	3137.1.2 = {
+		add_spouse = 212931
+	}
+	3177.1.15 = {
+		add_spouse = 201519
+	}
+	3190.11.14 = {
+		death = "3190.11.14"
+	}
+}
+
+212932 = {
+	name = "Berthold"
+	dynasty_house = house_andechs
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_1
+	father = 212930
+	mother = 212931
+	3148.1.2 = {
+		birth = "3148.1.2"
+	}
+	3168.1.2 = {
+		add_spouse = 212937
+	}
+	3206.8.12 = {
+		death = "3206.8.12"
+	}
+}
+
+212933 = {
+	name = "Sophie"
+	female = yes
+	dynasty_house = house_andechs
+	martial = 8
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = greedy
+	trait = cynical
+	trait = education_stewardship_3
+	father = 212930
+	mother = 212931
+	3149.1.2 = {
+		birth = "3149.1.2"
+	}
+	3199.1.2 = {
+		death = "3199.1.2"
+	}
+}
+
+212934 = {
+	name = "Kunigunde"
+	female = yes
+	dynasty_house = house_andechs
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = arrogant
+	trait = education_learning_2
+	father = 212930
+	mother = 212931
+	3152.1.2 = {
+		birth = "3152.1.2"
+	}
+	3202.1.2 = {
+		death = "3202.1.2"
+	}
+}
+
+212935 = {
+	name = "Berthold"
+	dynasty_house = house_andechs
+	martial = 8
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = education_learning_2
+	father = 40717
+	3075.1.1 = {
+		birth = "3075.1.1"
+	}
+	3105.1.2 = {
+		add_spouse = 212936
+	}
+	3153.1.2 = {
+		death = "3153.1.2"
+	}
+}
+
+212943 = {
+	name = "Hedwig"
+	# AKA: Hedwig
+	female = yes
+	dynasty_house = house_andechs
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_1
+	father = 212932
+	mother = 212937
+	3172.1.2 = {
+		birth = "3172.1.2"
+	}
+	3245.10.13 = {
+		death = "3245.10.13"
+	}
+}
+
+212944 = {
+	name = "Agnes"
+	female = yes
+	dynasty_house = house_andechs
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = arrogant
+	trait = calm
+	trait = craven
+	trait = education_learning_2
+	father = 212932
+	mother = 212937
+	3174.1.2 = {
+		birth = "3174.1.2"
+	}
+	3224.1.2 = {
+		death = "3224.1.2"
+	}
+}
+
+212945 = {
+	name = "Otto"
+	dynasty_house = house_andechs
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = wrathful
+	trait = education_stewardship_2
+	father = 212932
+	mother = 212937
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3210.1.1 = {
+		add_spouse = 7652
+	}
+	3236.1.1 = {
+		death = "3236.1.1"
+	}
+}
+
+212946 = {
+	name = "Gertrud"
+	female = yes
+	dynasty_house = house_andechs
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = chaste
+	trait = gluttonous
+	father = 212932
+	mother = 212937
+	3187.1.2 = {
+		birth = "3187.1.2"
+	}
+	3215.9.24 = {
+		death = "3215.9.24"
+	}
+}
+212964 = {
+	name = "Dietrich"
+	dynasty_house = house_andechs
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_1
+	father = 212966
+	mother = 212967
+	3144.1.1 = {
+		birth = "3144.1.1"
+	}
+	3184.1.1 = {
+		add_spouse = 212954
+	}
+	3208.1.1 = {
+		death = "3208.1.1"
+	}
+}
+
+212966 = {
+	name = "Engelbert"
+	dynasty_house = house_andechs
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = zealous
+	trait = temperate
+	trait = education_intrigue_1
+	father = 33513
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3142.1.1 = {
+		add_spouse = 212967
+	}
+	3163.1.1 = {
+		death = "3163.1.1"
+	}
+}
+
+231050 = {
+	name = "Mathilde"
+	female = yes
+	dynasty_house = house_andechs
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = arrogant
+	trait = education_stewardship_2
+	father = 212930
+	mother = 212931
+	3175.1.2 = {
+		birth = "3175.1.2"
+	}
+	3225.1.2 = {
+		death = "3225.1.2"
+	}
+}
+
+231051 = {
+	name = "Poppo"
+	dynasty_house = house_andechs
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = diligent
+	trait = calm
+	trait = education_learning_2
+	father = 212930
+	mother = 201519
+	3182.1.2 = {
+		birth = "3182.1.2"
+	}
+	3232.1.2 = {
+		death = "3232.1.2"
+	}
+}
+
+231052 = {
+	name = "Berta"
+	female = yes
+	dynasty_house = house_andechs
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = just
+	trait = deceitful
+	trait = education_learning_2
+	father = 212930
+	mother = 201519
+	3183.1.2 = {
+		birth = "3183.1.2"
+	}
+	3233.1.2 = {
+		death = "3233.1.2"
+	}
+}
+
+40703 = {
+	name = "Adelheid"
+	# AKA: Berta
+	female = yes
+	dynasty_house = house_andechs #von Andechs
+	martial = 2
+	diplomacy = 3
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_3
+	father = 40716
+	3059.1.1 = {
+		birth = "3059.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+40716 = {
+	name = "Berthold"
+	dynasty_house = house_andechs
+	martial = 8
+	diplomacy = 7
+	intrigue = 9
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 11066
+	3012.1.2 = {
+		birth = "3012.1.2"
+	}
+	3062.1.2 = {
+		death = "3062.1.2"
+	}
+}
+
+40717 = {
+	name = "Berthold"
+	dynasty_house = house_andechs
+	martial = 8
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 40716
+	3042.1.2 = {
+		birth = "3042.1.2"
+	}
+	3075.1.1 = {
+		add_spouse = 70617
+	}
+	3092.1.2 = {
+		death = "3092.1.2"
+	}
+}
+
+40718 = {
+	name = "Otto"
+	dynasty_house = house_andechs
+	martial = 8
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 40716
+	3062.1.2 = {
+		birth = "3062.1.2"
+	}
+	3082.1.1 = {
+		add_spouse = 7669
+	}
+	3118.1.1 = {
+		death = "3118.1.1"
+	}
+}
+
+4257 = {
+	name = "Haziga"
+	female = yes
+	dynasty_house = house_andechs
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 11062
+	3036.1.1 = {
+		birth = "3036.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+70834 = {
+	name = "Berthold"
+	dynasty_house = house_andechs
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = lifestyle_reveler
+	trait = education_learning_1
+	father = 212932
+	mother = 212937
+	3185.1.1 = {
+		birth = "3185.1.1"
+	}
+	3253.1.1 = {
+		death = "3253.1.1"
+	}
+}
+
+7653 = {
+	name = "Adelaide"
+	female = yes
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 212945
+	mother = 7652
+	3222.1.1 = {
+		birth = "3222.1.1"
+	}
+	3281.3.8 = {
+		death = "3281.3.8"
+	}
+}
+
+7670 = {
+	name = "Adelheid"
+	female = yes
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 40718
+	mother = 7669
+	3083.1.1 = {
+		birth = "3083.1.1"
+	}
+	3128.1.1 = {
+		death = "3128.1.1"
+	}
+}
+
+7684 = {
+	name = "Otto"
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 212945
+	mother = 7652
+	3210.1.1 = {
+		birth = "3210.1.1"
+	}
+	3236.1.1 = {
+		add_spouse = 30106
+	}
+	3250.1.1 = {
+		death = "3250.1.1"
+	}
+}
+
+33416 = {
+	name = "Beatrix"
+	female = yes
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 212945
+	mother = 7652
+	3214.1.1 = {
+		birth = "3214.1.1"
+	}
+	3267.11.14 = {
+		death = "3267.11.14"
+	}
+}
+
+33511 = {
+	name = "Arnold"
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 11062
+	3042.1.1 = {
+		birth = "3042.1.1"
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+33512 = {
+	name = "Friedrich"
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 33511
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+33513 = {
+	name = "Gebhard"
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 33511
+	3064.1.1 = {
+		birth = "3064.1.1"
+	}
+	3104.1.1 = {
+		death = "3104.1.1"
+	}
+}
+
+33514 = {
+	name = "Dietrich"
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 33511
+	3066.1.1 = {
+		birth = "3066.1.1"
+	}
+	3116.1.1 = {
+		death = "3116.1.1"
+	}
+}
+
+33515 = {
+	name = "Otto"
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 33511
+	3068.1.1 = {
+		birth = "3068.1.1"
+	}
+	3111.1.1 = {
+		death = "3111.1.1"
+	}
+}
+
+33516 = {
+	name = "Gebhard"
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 212966
+	mother = 212967
+	3143.1.1 = {
+		birth = "3143.1.1"
+	}
+	3177.1.1 = {
+		death = "3177.1.1"
+	}
+}
+
+33517 = {
+	name = "Kunigunde"
+	female = yes
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 212966
+	mother = 212967
+	3145.1.1 = {
+		birth = "3145.1.1"
+	}
+	3170.9.4 = {
+		death = "3170.9.4"
+	}
+}
+
+33526 = {
+	name = "Otto"
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 212964
+	mother = 212954
+	3188.1.1 = {
+		birth = "3188.1.1"
+	}
+	3198.1.1 = {
+		death = "3198.1.1"
+	}
+}
+
+33527 = {
+	name = "Konrad"
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 212964
+	mother = 212954
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3227.1.1 = {
+		trait = leper
+	}
+	3261.1.29 = {
+		death = "3261.1.29"
+	}
+}
+
+33528 = {
+	name = "Hedwig"
+	female = yes
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 212964
+	mother = 212954
+	3190.1.1 = {
+		birth = "3190.1.1"
+	}
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+161702 = {
+	name = "Agnes"
+	female = yes
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 212945
+	mother = 7652
+	3213.1.1 = {
+		birth = "3213.1.1"
+	}
+	3265.1.7 = {
+		death = "3265.1.7"
+	}
+}
+
+161703 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty_house = house_andechs
+	religion = "catholic"
+	culture = bavarian
+	father = 212945
+	mother = 7652
+	3216.1.1 = {
+		birth = "3216.1.1"
+	}
+	3274.12.18 = {
+		death = "3274.12.18"
+	}
+}
+## End of von Andechs
+## Start of Sulzbach
+10090 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 219
+	martial = 6
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_2
+	father = 20258
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	3087.1.1 = {
+		death = "3087.1.1"
+	}
+}
+20258 = {
+	name = "Berengar"
+	dynasty = 219
+	martial = 6
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = chaste
+	trait = education_intrigue_1
+	3007.1.1 = {
+		birth = "3007.1.1"
+	}
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+}
+## End of sulzbach
+## Start of von Zelking
+260029 = {		# Wernher von Zelking
+	name = "Wernher"
+	dynasty = 1062019
+	religion = "catholic"
+	culture = bavarian
+	3051.1.1 = {
+		birth = yes
+	}
+	3116.1.1 = {
+		death = yes
+	}
+}
+260030 = {		# Wernher II von Zelking (Placeholder)
+	name = "Wernher"
+	dynasty = 1062019
+	religion = "catholic"
+	culture = bavarian
+	father = 260029
+	3103.1.1 = {
+		birth = yes
+	}
+	3184.1.1 = {
+		death = yes
+	}
+}
+260031 = {		# Wernher III von Zelking (Placeholder)
+	name = "Wernher"
+	dynasty = 1062019
+	religion = "catholic"
+	culture = bavarian
+	father = 260030
+	3161.1.1 = {
+		birth = yes
+	}
+	3210.1.1 = {
+		death = yes
+	}
+}
+260032 = {		# Ulrich von Zelking
+	name = "Ulrich"
+	dynasty = 1062019
+	religion = "catholic"
+	culture = bavarian
+	father = 260031
+	3194.1.1 = {
+		birth = yes
+	}
+	3256.1.1 = {
+		death = yes
+	}
+}
+260033 = {		# Alber von Zelking
+	name = "Alber"
+	dynasty = 1062019
+	religion = "catholic"
+	culture = bavarian
+	father = 260032
+	3223.1.1 = {
+		birth = yes
+	}
+	3284.1.1 = {
+		death = yes
+	}
+}
+260034 = {		# Ludwig von Zelking
+	name = "Ludwig"
+	dynasty = 1062019
+	religion = "catholic"
+	culture = bavarian
+	father = 260033
+	3242.1.1 = {
+		birth = yes
+	}
+	3312.1.1 = {
+		death = yes
+	}
+}
+260035 = {		# Alber II von Zelking
+	name = "Alber"
+	dynasty = 1062019
+	religion = "catholic"
+	culture = bavarian
+	father = 260034
+	3295.1.1 = {
+		birth = yes
+	}
+	3360.1.1 = {
+		death = yes
+	}
+}
+## End of von Zelking
+## Various landed in 867
+168309 = {
+	name = "Guntbald"
+	dynasty = 9587
+	religion = "catholic"
+	culture = bavarian
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}	
+	2909.3.19 = {
+		death = "2909.3.19"
+	}
+}
+
+168310 = {
+	name = "Guntbert"
+	dynasty = 100315
+	religion = "catholic"
+	culture = bavarian
+	2849.1.1 = {
+		birth = "2849.1.1"
+	}	
+	2901.2.8 = {
+		death = "2901.2.8"
+	}
+}
+260043 = {		# Azzo von Gobatsburg
+	name = "Azzo"
+	dynasty = 1062026
+	religion = "catholic"
+	culture = bavarian
+	3044.1.1 = {
+		birth = yes
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+260044 = {		# Albero I von Gobatsburg
+	name = "Albero"
+	dynasty = 1062026
+	religion = "catholic"
+	culture = bavarian
+	father = 260043
+	3083.1.1 = {
+		birth = yes
+	}
+	3120.1.1 = {
+		death = yes
+	}
+}
+260045 = {		# Rizzo/Nizzo von Gobatsburg
+	name = "Rizzo"
+	dynasty = 1062026
+	religion = "catholic"
+	culture = bavarian
+	father = 260043
+	3074.1.1 = {
+		birth = yes
+	}
+	3115.1.1 = {
+		death = yes
+	}
+}
+30248 = {
+	name = "Dietrich"
+	dynasty_house = house_katlenburg
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	father = 30247
+	3027.1.1 = {
+		birth = "3027.1.1"
+	}
+	
+	3058.9.10 = {
+		death = "3058.9.10"
+	}
+}
+
+30249 = {
+	name = "Dietrich"
+	dynasty_house = house_katlenburg
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	father = 30248
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3087.1.2 = {
+		add_spouse = 106514
+	}
+	3087.9.10 = {
+		death = "3087.9.10"
+	}
+}
+
+20312 = {
+	name = "Heinrich"
+	dynasty = 100317
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_diplomacy_3
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+20259 = {
+	name = "Gebhard"
+	dynasty = 101695
+	martial = 6
+	diplomacy = 10
+	intrigue = 5
+	stewardship = 14
+	learning = 14
+	religion = "catholic"
+	culture = bavarian
+	trait = just
+	trait = gluttonous
+	trait = stubborn # He just didn't give up
+	trait = education_intrigue_1
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+260038 = {		# Ekbert von Pitten
+	name = "Ekbert"
+	dynasty = 1062022
+	religion = "catholic"
+	culture = bavarian
+	3044.1.1 = {
+		birth = yes
+	}
+	3103.1.1 = {
+		death = yes
+	}
+}
+260039 = {		# Ekbert II von Pitten
+	name = "Ekbert"
+	dynasty = 1062022
+	religion = "catholic"
+	culture = bavarian
+	father = 260038
+	3091.1.1 = {
+		birth = yes
+	}
+	3144.1.1 = {
+		death = yes
+	}
+}
+260040 = {		# Ekbert III von Pitten
+	name = "Ekbert"
+	dynasty = 1062022
+	religion = "catholic"
+	culture = bavarian
+	father = 260039
+	3110.1.1 = {
+		birth = yes
+	}
+	3160.1.1 = {
+		death = yes
+	}
+}
+
+260016 = {		# Richer von Steyr
+	name = "Richer"
+	dynasty = 1062011
+	religion = "catholic"
+	culture = bavarian
+	3051.1.1 = {
+		birth = yes
+	}
+	3120.1.1 = {
+		death = yes
+	}
+}
+260017 = {		# Gundaccer von Steyr
+	name = "Gundaccer"
+	dynasty = 1062011
+	religion = "catholic"
+	culture = bavarian
+	father = 260016
+	3119.1.1 = {
+		birth = yes
+	}
+	3206.1.1 = {
+		death = yes
+	}
+}
+260018 = {		# Gundaccer II von Steyr
+	name = "Gundaccer"
+	dynasty = 1062011
+	religion = "catholic"
+	culture = bavarian
+	father = 260017
+	3153.1.1 = {
+		birth = yes
+	}
+	3221.1.1 = {
+		death = yes
+	}
+}
+260019 = {		# Gundaccer III von Steyr
+	name = "Gundaccer"
+	dynasty = 1062011
+	religion = "catholic"
+	culture = bavarian
+	father = 260018
+	3187.1.1 = {
+		birth = yes
+	}
+	3241.1.1 = {
+		death = yes
+	}
+}
+
+260589 = {
+	name = "Berengar"
+	dynasty = 1062014
+	religion = catholic
+	culture = bavarian
+	father = 260024
+	2869.1.1 = {
+		birth = yes
+	}
+	2942.1.1 = {
+		death = yes
+	}
+}
+## End of various landed in 867
+## Placeholders Freistadt Merchant
+260055 = {		# Placeholder Freistadt Merchant
+	name = "Engelbert"
+	religion = "catholic"
+	culture = bavarian
+	3050.1.1 = {
+		birth = yes
+	}
+	3103.1.1 = {
+		death = yes
+	}
+}
+260056 = {		# Placeholder Freistadt Merchant
+	name = "Ludwig"
+	religion = "catholic"
+	culture = bavarian
+	3086.1.1 = {
+		birth = yes
+	}
+	3164.1.1 = {
+		death = yes
+	}
+}
+260057 = {		# Placeholder Freistadt Merchant
+	name = "Ulrich"
+	religion = "catholic"
+	culture = bavarian
+	3140.1.1 = {
+		birth = yes
+	}
+	3199.1.1 = {
+		death = yes
+	}
+}
+260058 = {		# Placeholder Freistadt Merchant
+	name = "Albert"
+	religion = "catholic"
+	culture = bavarian
+	3182.1.1 = {
+		birth = yes
+	}
+	3258.1.1 = {
+		death = yes
+	}
+}
+260059 = {		# Placeholder Freistadt Merchant
+	name = "Ludwig"
+	religion = "catholic"
+	culture = bavarian
+	3237.1.1 = {
+		birth = yes
+	}
+	3314.1.1 = {
+		death = yes
+	}
+}
+260060 = {		# Placeholder Freistadt Merchant
+	name = "Ulrich"
+	religion = "catholic"
+	culture = bavarian
+	3292.1.1 = {
+		birth = yes
+	}
+	3354.1.1 = {
+		death = yes
+	}
+}
+## End of placeholders Freistadt Merchant
+## Start of von Tyrol
+1612 = {
+	name = "Albrecht" #Albrecht I
+	# AKA: Albert
+	dynasty = 12420
+	martial = 4
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = greedy
+	trait = education_martial_2
+	3022.1.1 = {
+		birth = "3022.1.1"
+	}
+	3080.1.1 = {
+		death = "3080.1.1"
+	}
+}
+
+1614 = {
+	name = "Albrecht" #Albrecht II
+	# AKA: Albert
+	dynasty = 12420
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_3
+	father = 1612
+	3057.1.1 = {
+		birth = "3057.1.1"
+	}
+	3076.1.2 = {
+		add_spouse = 40703 #Adelheid von Andechs
+	}
+	3104.1.1 = {
+		death = "3104.1.1"
+	}
+}
+
+212380 = {
+	name = "Heinrich" #Heinrich I
+	dynasty = 12420	
+	religion = "catholic"
+	culture = bavarian
+	father = 30100 #Berthold I
+	mother = 30101 #Bertha von Ortenburg	
+	3169.1.1 = {
+		birth = "3169.1.1"
+	}
+	3185.1.1 = {
+		add_spouse = 212381 #Agnes von Wangen
+	}
+	3204.6.14 = {
+		death = "3204.6.14"
+	}
+}
+
+212382 = {
+	name = "Albrecht" #Albrecht IV
+	dynasty = 12420
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_learning_2
+	father = 212380 #Heinrich I
+	mother = 212381 #Agnes von Wangen
+	3186.1.1 = {
+		birth = "3186.1.1"
+	}
+	3204.1.1 = {
+		add_spouse = 30103 #Uta von Frontenhausen
+	}
+	3255.7.22 = {
+		death = "3255.7.22"
+	}
+}
+
+212383 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 12420
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	father = 212380
+	mother = 212381
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3263.1.1 = {
+		death = "3263.1.1"
+	}
+}
+
+30097 = {
+	name = "Otto"
+	dynasty = 12420
+	religion = "catholic"
+	culture = bavarian
+	father = 1612
+	3059.1.1 = {
+		birth = "3059.1.1"
+	}
+	3119.1.1 = {
+		death = "3119.1.1"
+	}
+}
+
+30098 = {
+	name = "Albrecht" #Albrecht III
+	dynasty = 12420
+	religion = "catholic"
+	culture = bavarian
+	father = 1614
+	mother = 40703
+	3103.1.1 = {
+		birth = "3103.1.1"
+	}
+	3123.1.1 = {
+		add_spouse = 30099 #Willibirg von Dachau
+	}
+	3167.2.24 = {
+		death = "3167.2.24"
+	}
+}
+
+30100 = {
+	name = "Berthold" #Berthold I
+	dynasty = 12420
+	religion = "catholic"
+	culture = bavarian
+	father = 30098
+	mother = 30099
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3165.1.1 = {
+		add_spouse = 30101 #Bertha von Ortenburg
+	}
+	3182.3.7 = {
+		death = "3182.3.7"
+	}
+}
+
+30101 = {
+	name = "Bertha"
+	female = yes
+	dynasty = 12421 #von Ortenburg
+	religion = "catholic"
+	culture = bavarian
+	3145.1.1 = {
+		birth = "3145.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+30102 = {
+	name = "Berthold" #Berthold iI
+	dynasty = 12420
+	religion = "catholic"
+	culture = bavarian
+	father = 30100 #Berthold I
+	mother = 30101 #Bertha von Ortenburg
+	3168.1.1 = {
+		birth = "3168.1.1"
+	}
+	3183.1.1 = {
+		death = "3183.1.1"
+	}
+}
+
+30104 = {
+	name = "Mathilde"
+	female = yes
+	dynasty = 12420
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	father = 212380
+	mother = 212381
+	3190.1.1 = {
+		birth = "3190.1.1"
+	}
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+30105 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 12420
+	religion = "catholic"
+	culture = bavarian
+	father = 212382
+	mother = 212381
+	3205.1.1 = {
+		birth = "3205.1.1"
+	}
+	3281.5.26 = {
+		death = "3281.5.26"
+	}
+}
+
+30106 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty = 12420
+	religion = "catholic"
+	culture = bavarian
+	father = 212382
+	mother = 212381
+	3206.1.1 = {
+		birth = "3206.1.1"
+	}
+	3262.1.1 = {
+		death = "3262.1.1"
+	}
+}
+
+40704 = {
+	name = "Albrecht"
+	dynasty = 12420
+	martial = 4
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 1614
+	mother = 40703
+	3073.1.2 = {
+		birth = "3073.1.2"
+	}
+	3107.1.2 = {
+		death = "3107.1.2"
+	}
+}
+## End of von Tyrol
+## German "Aquileia" dyn
+7704 = {
+	name = "Heinrich"
+	dynasty = 100358
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	3030.1.2 = {
+		birth = "3030.1.2"
+	}
+	3080.1.2 = {
+		death = "3080.1.2"
+	}
+}
+212070 = {
+	name = "Gottfried"
+	dynasty = 100358
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = just
+	trait = zealous
+	trait = education_learning_3
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3197.1.1 = {
+		death = "3197.1.1"
+	}
+}
+70828 = {
+	name = "Gerhard"
+	dynasty = 100358
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = craven
+	trait = shy
+	trait = education_learning_3
+	3066.1.1 = {
+		birth = "3066.1.1"
+	}
+	3130.1.1 = {
+		death = "3130.1.1"
+	}
+}
+70831 = {
+	name = "Gottfried"
+	dynasty = 100358
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_learning_3
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3196.1.1 = {
+		death = "3196.1.1"
+	}
+}
+
+70832 = {
+	name = "Pilgrim"
+	dynasty = 100358
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = wrathful
+	trait = education_learning_2
+	3150.1.1 = {
+		birth = "3150.1.1"
+	}
+	3206.1.1 = {
+		death = "3206.1.1"
+	}
+}
+## End of german "Aquileia" dyn
+## Start of von Polheim dyn
+260007 = {		# Pilgrim von Polheim
+	name = "Pilgram"
+	dynasty = 1062010
+	religion = "catholic"
+	culture = bavarian
+	3049.1.1 = {
+		birth = yes
+	}
+	3081.1.1 = {
+		death = yes
+	}
+}
+260008 = {		# Weickhard von Polheim
+	name = "Weickhard"
+	dynasty = 1062010
+	religion = "catholic"
+	culture = bavarian
+	father = 260007
+	3067.1.1 = {
+		birth = yes
+	}
+	3101.1.1 = {
+		death = yes
+	}
+}
+260009 = {		# Heinrich von Polheim
+	name = "Heinrich"
+	dynasty = 1062010
+	religion = "catholic"
+	culture = bavarian
+	father = 260008
+	3084.1.1 = {
+		birth = yes
+	}
+	3133.1.1 = {
+		death = yes
+	}
+}
+260010 = { 		# Weickhard II von Polheim
+	name = "Weickhard"
+	dynasty = 1062010
+	religion = "catholic"
+	culture = bavarian
+	father = 260009
+	3109.1.1 = {
+		birth = yes
+	}
+	3173.1.1 = {
+		death = yes
+	}
+}
+260011 = {		# Albero II von Polheim
+	name = "Albero"
+	dynasty = 1062010
+	religion = "catholic"
+	culture = bavarian
+	father = 260010
+	3137.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = yes
+	}
+}
+260012 = {		# Ulrich II von Polheim
+	name = "Ulrich"
+	dynasty = 1062010
+	religion = "catholic"
+	culture = bavarian
+	father = 260011
+	3165.1.1 = {
+		birth = yes
+	}
+	3231.1.1 = {
+		death = yes
+	}
+}
+260013 = {		# Albero III von Polheim
+	name = "Albero"
+	dynasty = 1062010
+	religion = "catholic"
+	culture = bavarian
+	father = 260012
+	3202.1.1 = {
+		birth = yes
+	}
+	3254.1.1 = {
+		death = yes
+	}
+}
+260014 = {		# Albero IV von Polheim
+	name = "Albero"
+	dynasty = 1062010
+	religion = "catholic"
+	culture = bavarian
+	father = 260013
+	3251.1.1 = {
+		birth = yes
+	}
+	3303.1.1 = {
+		death = yes
+	}
+}
+260015 = {		# Albero V von Polheim
+	name = "Albero"
+	dynasty = 1062010
+	religion = "catholic"
+	culture = bavarian
+	father = 260014
+	3283.1.1 = {
+		birth = yes
+	}
+	3343.1.1 = {
+		death = yes
+	}
+}
+## End of von Polheim dyn
+## Start of Meinhardiner
+231053 = {
+	name = "Engelbert"
+	dynasty = 12404
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = wrathful
+	trait = brave
+	trait = lustful
+	trait = arbitrary
+	trait = education_martial_2
+	father = 33484
+	mother = 33468
+	3171.1.1 = {
+		birth = "3171.1.1"
+	}
+	3188.1.1 = {
+		add_spouse = 231050
+	}
+	3221.1.1 = {
+		death = "3221.1.1"
+	}
+}
+412073 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 12404
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = bastard
+	trait = chaste
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 7635
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3347.1.1 = {
+		death = "3347.1.1"
+	}
+}
+
+462710 = {
+	name = "Margarete"
+	female = yes
+	dynasty = 12404
+	martial = 5
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = education_diplomacy_3
+	father = 462720
+	mother = 462721
+	3320.1.3 = {
+		birth = "3320.1.3"
+	}
+	3370.1.3 = {
+		death = "3370.1.3"
+	}
+}
+
+462711 = {
+	name = "Meinhard"
+	dynasty = 12404
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = education_martial_2
+	father = 7633
+	mother = 30105
+	3240.1.1 = {
+		birth = "3240.1.1"
+	}
+	3260.1.16 = {
+		add_spouse = 462712
+	}
+	3297.10.1 = {
+		death = "3297.10.1"
+	}
+}
+
+462713 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty = 12404
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = arrogant
+	trait = education_intrigue_1
+	father = 462711
+	mother = 462712
+	3264.1.3 = {
+		birth = "3264.1.3"
+	}
+	3314.1.29 = {
+		death = "3314.1.29"
+	}
+}
+
+462714 = {
+	name = "Otto"
+	dynasty = 12404
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = education_learning_2
+	father = 462711
+	mother = 462712
+	3265.1.3 = {
+		birth = "3265.1.3"
+	}
+	3300.1.19 = {
+		add_spouse = 471729
+	}
+	3312.1.26 = {
+		death = "3312.1.26"
+	}
+}
+
+462715 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty = 12404
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = honest
+	trait = education_learning_2
+	father = 462714
+	mother = 471729
+	3300.1.2 = {
+		birth = "3300.1.2"
+	}
+	3350.1.2 = {
+		death = "3350.1.2"
+	}
+}
+
+462716 = {
+	name = "Anna"
+	female = yes
+	dynasty = 12404
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = education_intrigue_1
+	father = 462714
+	mother = 471729
+	3303.1.3 = {
+		birth = "3303.1.3"
+	}
+	3337.1.26 = {
+		death = "3337.1.26"
+	}
+}
+
+462717 = {
+	name = "Albrecht"
+	dynasty = 12404
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = temperate
+	trait = education_martial_2
+	father = 462711
+	mother = 462712
+	3267.1.3 = {
+		birth = "3267.1.3"
+	}
+	3288.1.3 = {
+		add_spouse = 462718
+	}
+	3337.1.3 = {
+		death = "3337.1.3"
+	}
+}
+
+462718 = {
+	name = "Agnes"
+	# AKA: Agnes von Hohenberg
+	female = yes
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = education_stewardship_2
+	3272.1.3 = {
+		birth = "3272.1.3"
+	}
+	3322.1.3 = {
+		death = "3322.1.3"
+	}
+}
+
+462719 = {
+	name = "Margarethe"
+	female = yes
+	dynasty = 12404
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = humble
+	trait = education_stewardship_2
+	father = 462717
+	mother = 462718
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3350.1.1 = {
+		death = "3350.1.1"
+	}
+}
+
+462720 = {
+	name = "Heinrich"
+	dynasty = 12404
+	martial = 9
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = temperate
+	trait = education_martial_2
+	father = 462711
+	mother = 462712
+	3267.1.3 = {
+		birth = "3267.1.3"
+	}
+	3308.2.13 = {
+		add_spouse = 96058 #Anna Premyslid
+	}
+	3317.9.18 = {
+		add_spouse = 462721 #Adelheid
+	}
+	3330.1.1 = {
+		add_spouse = 70968 #Beatrix de Savoie
+	}
+	3337.4.2 = {
+		death = "3337.4.2"
+	}
+}
+
+7633 = {
+	name = "Meinhard"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 231053
+	mother = 231050
+	3196.1.1 = {
+		birth = "3196.1.1"
+	}
+	3238.1.1 = {
+		add_spouse = 30105
+	}
+	3260.7.22 = {
+		death = "3260.7.22"
+	}
+}
+
+7634 = {
+	name = "Albrecht"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 7633
+	mother = 30105
+	3241.1.1 = {
+		birth = "3241.1.1"
+	}
+	3306.4.1 = {
+		death = "3306.4.1"
+	}
+}
+
+7635 = {
+	name = "Heinrich"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 7634
+	3257.1.1 = {
+		birth = "3257.1.1"
+	}
+	3324.1.1 = {
+		add_spouse = 462763 # Beatrix von Niederbayern
+	}
+	3325.4.24 = {
+		death = "3325.4.24"
+	}
+}
+
+33480 = {
+	name = "Meinhard"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 168199
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+33481 = {
+	name = "Engelbert"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 33480
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3124.1.1 = {
+		death = "3124.1.1"
+	}
+}
+
+33482 = {
+	name = "Meinhard"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 33480
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3144.1.1 = {
+		death = "3144.1.1"
+	}
+}
+
+33483 = {
+	name = "Heinrich"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 33482
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	3152.4.21 = {
+		death = "3152.4.21"
+	}
+}
+
+33484 = {
+	name = "Engelbert"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 33482
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3162.1.1 = {
+		add_spouse = 33468
+	}	
+	3193.4.1 = {
+		death = "3193.4.1"
+	}
+}
+
+33485 = {
+	name = "Meinhard"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 33484
+	mother = 33468
+	3163.1.1 = {
+		birth = "3163.1.1"
+	}
+	3233.1.1 = {
+		death = "3233.1.1"
+	}
+}
+
+33486 = {
+	name = "Albrecht"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 7634
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3301.1.1 = {
+		add_spouse = 33398
+	}
+	3329.1.1 = {
+		death = "3329.1.1"
+	}
+}
+
+33487 = {
+	name = "Bertha"
+	female = yes
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 7633
+	mother = 30105
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3269.2.8 = {
+		death = "3269.2.8"
+	}
+}
+
+33488 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 7633
+	mother = 30105
+	3243.1.1 = {
+		birth = "3243.1.1"
+	}
+	3293.1.1 = {
+		death = "3293.1.1"
+	}
+}
+
+33489 = {
+	name = "Elizabeth"
+	female = yes
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 33486
+	mother = 33398
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3340.1.1 = {
+		death = "3340.1.1"
+	}
+}
+
+33490 = {
+	name = "Katharina"
+	female = yes
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 33486
+	mother = 33398
+	3303.1.1 = {
+		birth = "3303.1.1"
+	}
+	
+	3344.11.11 = {
+		death = "3344.11.11"
+	}
+}
+
+33491 = {
+	name = "Klara"
+	female = yes
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 33486
+	mother = 33398
+	3304.1.1 = {
+		birth = "3304.1.1"
+	}
+	3321.8.19 = {
+		death = "3321.8.19"
+	}
+}
+
+33492 = {
+	name = "Albrecht"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 33486
+	mother = 33398
+	3306.1.1 = {
+		birth = "3306.1.1"
+	}
+	3367.1.1 = {
+		death = "3367.1.1"
+	}
+}
+
+33493 = {
+	name = "Heinrich"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 33486
+	3312.1.1 = {
+		birth = "3312.1.1"
+	}
+	3364.1.1 = {
+		death = "3364.1.1"
+	}
+}
+
+33494 = {
+	name = "Meinhard"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 33486
+	3314.1.1 = {
+		birth = "3314.1.1"
+	}
+	3387.5.6 = {
+		death = "3387.5.6"
+	}
+}
+
+33495 = {
+	name = "Klara"
+	female = yes
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 7633
+	mother = 30105
+	3244.1.1 = {
+		birth = "3244.1.1"
+	}
+	3306.1.1 = {
+		death = "3306.1.1"
+	}
+}
+
+33496 = {
+	name = "Johann-Heinrich"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 7635
+	mother = 462763
+	3325.1.1 = {
+		birth = "3325.1.1"
+	}
+	3340.3.17 = {
+		death = "3340.3.17"
+	}
+}
+
+33497 = {
+	name = "Meinhard"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 7635
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3320.3.21 = {
+		death = "3320.3.21"
+	}
+}
+
+
+33498 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 462711
+	mother = 462712
+	3268.1.1 = {
+		birth = "3268.1.1"
+	}
+	3295.5.14 = {
+		death = "3295.5.14"
+	}
+}
+
+33504 = {
+	name = "Friedrich"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	trait = bastard
+	father = 462711
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3335.3.13 = {
+		death = "3335.3.13"
+	}
+}
+
+33505 = {
+	name = "Heinrich"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	trait = bastard
+	father = 462711
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3351.1.1 = {
+		death = "3351.1.1"
+	}
+}
+
+33506 = {
+	name = "Albrecht"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	trait = bastard
+	father = 462711
+	3294.1.1 = {
+		birth = "3294.1.1"
+	}
+	3338.1.1 = {
+		death = "3338.1.1"
+	}
+}
+
+33507 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	father = 462720
+	mother = 462721
+	3319.1.1 = {
+		birth = "3319.1.1"
+	}
+	3327.5.25 = {
+		death = "3327.5.25"
+	}
+}
+
+33508 = {
+	name = "MatthA_us"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	trait = bastard
+	trait = education_learning_2
+	father = 462720
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3365.10.27 = {
+		death = "3365.10.27"
+	}
+}
+
+33509 = {
+	name = "Albrecht"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	trait = bastard
+	trait = education_learning_2
+	father = 462720
+	3304.1.1 = {
+		birth = "3304.1.1"
+	}
+	3341.1.1 = {
+		death = "3341.1.1"
+	}
+}
+
+33510 = {
+	name = "Matthias"
+	dynasty = 12404
+	religion = "catholic"
+	culture = bavarian
+	trait = bastard
+	trait = education_learning_2
+	father = 462720
+	3307.1.1 = {
+		birth = "3307.1.1"
+	}
+	3359.1.1 = {
+		death = "3359.1.1"
+	}
+}
+
+## End of Meinhardiner
+## Start of von Plain
+260000 = {		# Werigand von Plain
+	name = "Werigand"
+	dynasty = 207
+	religion = "catholic"
+	culture = bavarian
+	3073.1.1 = {
+		birth = yes
+	}
+	3125.1.1 = {
+		death = yes
+	}
+}
+260001 = {		# Liutold von Plain
+	name = "Liutold"
+	dynasty = 207
+	religion = "catholic"
+	culture = bavarian
+	father = 260000
+	3105.1.1 = {
+		birth = yes
+	}
+	3166.1.1 = {
+		death = yes
+	}
+}
+260002 = {		# Liupolt von Plain
+	name = "Liupolt"
+	dynasty = 207
+	religion = "catholic"
+	culture = bavarian
+	father = 260001
+	3137.1.1 = {
+		birth = yes
+	}
+	3195.1.1 = {
+		death = yes
+	}
+}
+260003 = {		# Henry von Plain
+	name = "Henry"
+	dynasty = 207
+	religion = "catholic"
+	culture = bavarian
+	father = 260001
+	3143.1.1 = {
+		birth = yes
+	}
+	3199.1.1 = {
+		death = yes
+	}
+}
+260004 = {		# Konrad von Plain
+	name = "Konrad"
+	dynasty = 207
+	religion = "catholic"
+	culture = bavarian
+	father = 260003
+	3182.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+260005 = {		# Otto von Plain
+	name = "Otto"
+	dynasty = 207
+	religion = "catholic"
+	culture = bavarian
+	father = 260004
+	3227.1.1 = {
+		birth = yes
+	}
+	3262.1.1 = {
+		death = yes
+	}
+}
+260006 = {		# Conrad III von Plain
+	name = "Conrad"
+	dynasty = 207
+	religion = "catholic"
+	culture = bavarian
+	father = 260004
+	3232.1.1 = {
+		birth = yes
+	}
+	3262.1.1 = {
+		death = yes
+	}
+}
+212980 = {
+	name = "Heinrich"
+	dynasty = 207
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_2
+	3172.1.2 = {
+		birth = "3172.1.2"
+	}
+	3222.1.2 = {
+		death = "3222.1.2"
+	}
+}
+## End of von Plain
+## Start of von Eberstein
+212940 = {
+	name = "Eberhard"
+	dynasty = 213
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = greedy
+	trait = education_learning_3
+	3152.1.2 = {
+		birth = "3152.1.2"
+	}
+	3158.1.2 = {
+		add_spouse = 212934
+	}
+	3202.1.2 = {
+		death = "3202.1.2"
+	}
+}
+
+212941 = {
+	name = "Otto"
+	dynasty = 213
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = calm
+	trait = brave
+	father = 212940
+	mother = 212934
+	3187.1.2 = {
+		birth = "3187.1.2"
+	}
+	3237.1.2 = {
+		death = "3237.1.2"
+	}
+}
+
+212942 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 213
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 212940
+	mother = 212934
+	3182.1.2 = {
+		birth = "3182.1.2"
+	}
+	3232.1.2 = {
+		death = "3232.1.2"
+	}
+}
+
+183256 = {
+	name = "Eberhard"
+	dynasty = 213 #von Eberstein
+	religion = "catholic"
+	culture = bavarian
+	father = 212940
+	mother = 212934
+	3185.1.1 = {
+		birth = "3185.1.1"
+	}
+	3226.1.1 = {
+		add_spouse = 183253
+	}
+	3265.5.18 = {
+		death = "3265.5.18"
+	}
+}
+
+183257 = {
+	name = "Eberhard"
+	dynasty = 213 #von Eberstein
+	religion = "catholic"
+	culture = bavarian
+	father = 183256
+	mother = 183253
+	3227.1.1 = {
+		birth = "3227.1.1"
+	}
+	3250.1.1 = {
+		add_spouse = 33717 #Elisabeth von Zähringen
+	}
+	3255.9.20 = {
+		death = "3255.9.20"
+	}
+}
+## End of von Eberstein
+## End of von Kuenring
+260046 = {		# Hadmar von Kuenring
+	name = "Hadmar"
+	dynasty = 1062025
+	religion = "catholic"
+	culture = bavarian
+	father = 260045
+	3094.1.1 = {
+		birth = yes
+	}
+	3140.1.1 = {
+		death = yes
+	}
+}
+260047 = {		# Albero III von Kuenring
+	name = "Albero"
+	dynasty = 1062025
+	religion = "catholic"
+	culture = bavarian
+	father = 260044
+	3117.1.1 = {
+		birth = yes
+	}
+	3184.1.1 = {
+		death = yes
+	}
+}
+260048 = {		# Hadmar II von Kuenring
+	name = "Hadmar"
+	dynasty = 1062025
+	religion = "catholic"
+	culture = bavarian
+	father = 260047
+	3137.1.1 = {
+		birth = yes
+	}
+	3219.1.1 = {
+		death = yes
+	}
+}
+260049 = {		# Hadmar III von Kuenring
+	name = "Hadmar"
+	dynasty = 1062025
+	religion = "catholic"
+	culture = bavarian
+	father = 260048
+	3182.1.1 = {
+		birth = yes
+	}
+	3233.1.1 = {
+		death = yes
+	}
+}
+260050 = {		# Albero V von Kuenring
+	name = "Albero"
+	dynasty = 1062025
+	religion = "catholic"
+	culture = bavarian
+	father = 260049
+	3217.1.1 = {
+		birth = yes
+	}
+	3262.1.1 = {
+		death = yes
+	}
+}
+260051 = {		# Leutold von Kuenring
+	name = "Leutold"
+	dynasty = 1062025
+	religion = "catholic"
+	culture = bavarian
+	father = 260050
+	3245.1.1 = {
+		birth = yes
+	}
+	3314.1.1 = {
+		death = yes
+	}
+}
+260052 = {		# Johann von Kuenring
+	name = "Johann"
+	dynasty = 1062025
+	religion = "catholic"
+	culture = bavarian
+	father = 260051
+	3304.1.1 = {
+		birth = yes
+	}
+	3350.1.1 = {
+		death = yes
+	}
+}
+## End of von Kuenring
+## End of von Pettau
+260063 = {		# Ulrich von Pettau (Placeholder)
+	name = "Ulrich"
+	dynasty = 1062031
+	religion = "catholic"
+	culture = bavarian
+	3044.1.1 = {
+		birth = yes
+	}
+	3112.1.1 = {
+		death = yes
+	}
+}
+260064 = {		# Ludwig von Pettau (Placeholder)
+	name = "Ludwig"
+	dynasty = 1062031
+	religion = "catholic"
+	culture = bavarian
+	father = 260063
+	3092.1.1 = {
+		birth = yes
+	}
+	3132.1.1 = {
+		death = yes
+	}
+}
+260065 = {		# Frederick von Pettau
+	name = "Frederick"
+	dynasty = 1062031
+	religion = "catholic"
+	culture = bavarian
+	father = 260064
+	3102.1.1 = {
+		birth = yes
+	}
+	3146.1.1 = {
+		death = yes
+	}
+}
+260066 = {		# Frederick II von Pettau
+	name = "Frederick"
+	dynasty = 1062031
+	religion = "catholic"
+	culture = bavarian
+	father = 260065
+	3123.1.1 = {
+		birth = yes
+	}
+	3175.1.1 = {
+		death = yes
+	}
+}
+260067 = {		# Ludwig II von Pettau (Placeholder)
+	name = "Ludwig"
+	dynasty = 1062031
+	religion = "catholic"
+	culture = bavarian
+	father = 260066
+	3140.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = yes
+	}
+}
+260068 = {		# Frederick III von Pettau
+	name = "Frederick"
+	dynasty = 1062031
+	religion = "catholic"
+	culture = bavarian
+	father = 260067
+	3182.1.1 = {
+		birth = yes
+	}
+	3223.1.1 = {
+		death = yes
+	}
+}
+260069 = {		# Hartnid von Pettau
+	name = "Hartnid"
+	dynasty = 1062031
+	religion = "catholic"
+	culture = bavarian
+	father = 260068
+	3207.1.1 = {
+		birth = yes
+	}
+	3267.1.1 = {
+		death = yes
+	}
+}
+260070 = {		# Frederick V von Pettau
+	name = "Frederick"
+	dynasty = 1062031
+	religion = "catholic"
+	culture = bavarian
+	father = 260069
+	3247.1.1 = {
+		birth = yes
+	}
+	3303.1.1 = {
+		death = yes
+	}
+}
+260071 = {		# Frederick VI von Pettau
+	name = "Frederick"
+	dynasty = 1062031
+	religion = "catholic"
+	culture = bavarian
+	father = 260070
+	3282.1.1 = {
+		birth = yes
+	}
+	3326.1.1 = {
+		death = yes
+	}
+}
+260072 = {		# Amelrich von Pettau
+	name = "Amelrich"
+	dynasty = 1062031
+	religion = "catholic"
+	culture = bavarian
+	father = 260071
+	3303.1.1 = {
+		birth = yes
+	}
+	3340.1.1 = {
+		death = yes
+	}
+}
+## End of von Pettau
+## Start of various
+212020 = {
+	name = "Kuno"
+	#dynasty = 211
+	martial = 10
+	diplomacy = 10
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = education_learning_2
+	3123.1.1 = {
+		birth = "3123.1.1"
+	}
+	3189.1.1 = {
+		death = "3189.1.1"
+	}
+}
+
+212963 = {
+	name = "Heilika"
+	female = yes
+	dynasty = 212
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = cynical
+	trait = education_intrigue_1
+	3102.1.2 = {
+		birth = "3102.1.2"
+	}
+	3172.1.2 = {
+		death = "3172.1.2"
+	}
+}
+
+231027 = {
+	name = "Adalbert"
+	dynasty = 228
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = arbitrary
+	trait = cynical
+	trait = education_intrigue_2
+	father = 231028
+	3161.1.2 = {
+		birth = "3161.1.2"
+	}
+	3211.1.2 = {
+		death = "3211.1.2"
+	}
+}
+
+231028 = {
+	name = "Berthold"
+	dynasty = 228
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_2
+	father = 231029
+	3102.1.2 = {
+		birth = "3102.1.2"
+	}
+	3169.1.2 = {
+		death = "3169.1.2"
+	}
+}
+
+231029 = {
+	name = "Adalbert"
+	dynasty = 228
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = education_martial_2
+	father = 231030
+	3085.1.2 = {
+		birth = "3085.1.2"
+	}
+	3148.1.2 = {
+		death = "3148.1.2"
+	}
+}
+
+70833 = {
+	name = "Wolfgang"
+	dynasty = 8730
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = greedy
+	trait = chaste
+	trait = education_learning_2
+	3153.1.1 = {
+		birth = "3153.1.1"
+	}
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+70830 = {
+	name = "Ulrich"
+	dynasty = 8732
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = greedy
+	trait = lustful
+	trait = education_learning_1
+	3130.1.1 = {
+		birth = "3130.1.1"
+	}
+	3183.1.1 = {
+		death = "3183.1.1"
+	}
+}
+
+73405 = {
+	name = "Ulrich"
+	dynasty = 12247
+	religion = "catholic"
+	culture = bavarian
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3154.1.1 = {
+		death = "3154.1.1"
+	}
+}
+
+73469 = {
+	name = "Dietpold"
+	dynasty = 12251
+	religion = "catholic"
+	culture = bavarian
+	3168.1.1 = {
+		birth = "3168.1.1"
+	}
+	3225.1.1 = {
+		death = "3225.1.1"
+	}
+}
+260583 = {
+	name = "Erich"
+	dynasty = 1062252
+	religion = catholic
+	culture = bavarian
+	2906.1.1 = {
+		birth = yes
+	}
+	2951.1.1 = {
+		death = yes
+	}
+}
+
+260587 = {
+	name = "Dietwin"
+	dynasty = 1062253
+	religion = catholic
+	culture = bavarian
+	2903.1.1 = {
+		birth = yes
+	}
+	2958.1.1 = {
+		death = yes
+	}
+}
+
+260020 = {		# Dietmar I von Losenstein
+	name = "Dietmar"
+	dynasty = 1062012
+	religion = "catholic"
+	culture = bavarian
+	father = 260019
+	3232.1.1 = {
+		birth = yes
+	}
+	3262.1.1 = {
+		death = yes
+	}
+}
+260021 = {		# Dietmar II von Losenstein
+	name = "Dietmar"
+	dynasty = 1062012
+	religion = "catholic"
+	culture = bavarian
+	father = 260020
+	3252.1.1 = {
+		birth = yes
+	}
+	3307.1.1 ={
+		death = yes
+	}
+}
+260022 = {		# Hartneid von Losenstein
+	name = "Hartneid"
+	dynasty = 1062012
+	religion = "catholic"
+	culture = bavarian
+	father = 260021
+	3302.1.1 = {
+		birth = yes
+	}
+	3346.1.1 = {
+		death = yes
+	}
+}
+
+4262 = {
+	name = "Hedwig"
+	female = yes
+	dynasty = 416
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = education_intrigue_2
+	3042.1.2 = {
+		birth = "3042.1.2"
+	}
+	3094.1.2 = {
+		death = "3094.1.2"
+	}
+}
+
+70620 = {
+	name = "Friedrich"
+	dynasty = 8667
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = brave
+	trait = education_martial_2
+	3067.1.1 = {
+		birth = "3067.1.1"
+	}
+	3067.1.2 = {
+		employer = 20257
+	}
+	3083.1.1 = {
+		add_trait = lifestyle_blademaster	#Add adult trait
+		effect = {
+			add_trait = lifestyle_blademaster
+			add_trait_xp = {
+				trait = lifestyle_blademaster
+				value = {
+					integer_range = {
+						min = small_lifestyle_random_xp_low
+						max = small_lifestyle_random_xp_high
+					}
+				}
+			}
+		}
+	}
+	3098.1.1 = {
+		death = "3098.1.1"
+	}
+}
+
+70621 = {
+	name = "Udalschalk"
+	dynasty = 8668
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = beauty_bad_2
+	trait = education_martial_3
+	3068.1.1 = {
+		birth = "3068.1.1"
+	}
+	3068.1.1 = {
+		employer = 70622
+	}
+	3084.1.1 = {
+		add_trait = lifestyle_hunter	#Add adult trait
+	}
+	3117.11.20 = {
+		death = "3117.11.20"
+	}
+}
+
+190367 = {
+	name="Anniulf" #count of Passau and Znojmo
+	dynasty=1044092 #Anniona
+	religion="catholic"
+	culture=bavarian
+	2732.1.1={
+		birth=yes
+	}
+	2789.1.1={
+		death=yes
+	}
+}
+
+190368 = {
+	name="Fagulf" #count of Salzburg
+	dynasty=1044093 #Fagana
+	religion="catholic"
+	culture=bavarian
+	2743.1.1={
+		birth=yes
+	}
+	2792.1.1={
+		death=yes
+	}
+}
+
+190369 = {
+	name="Hahilingis" #count of Tirol and Kempten
+	dynasty=1044094 #Hahilinga
+	religion="catholic"
+	culture=bavarian
+	2727.1.1={
+		birth=yes
+	}
+	2777.1.1={
+		death=yes
+	}
+}
+
+190373 = {
+	name="Huosi" #count of Insbruck and Steirmark
+	dynasty=1044095 #Huosi
+	religion="catholic"
+	culture=bavarian
+	2740.1.1={
+		birth=yes
+	}
+	2778.1.1={
+		death=yes
+	}
+}
+190374 = {
+	name="Trozza" #count of Osterreich
+	dynasty=1044096 #Trozza
+	religion="catholic"
+	culture=bavarian
+	2741.1.1={
+		birth=yes
+	}
+	2780.1.1={
+		death=yes
+	}
+}
+
+260023 = {		# Placeholder Traungau 769
+	name = "Weickhard"
+	dynasty = 1062013
+	religion = "catholic"
+	culture = bavarian
+	2744.1.1 = {
+		birth = yes
+	}
+	2791.1.1 = {
+		death = yes
+	}
+}
+260024 = {		# Placeholder Traungau 867
+	name = "Dietmar"
+	dynasty = 1062014
+	religion = "catholic"
+	culture = bavarian
+	2836.1.1 = {
+		birth = yes
+	}
+	2893.1.1 = {
+		death = yes
+	}
+}
+260025 = {		# Placeholder Steyr 769
+	name = "Hartneid"
+	dynasty = 1062015
+	religion = "catholic"
+	culture = bavarian
+	2731.1.1 = {
+		birth = yes
+	}
+	2773.1.1 = {
+		death = yes
+	}
+}
+260026 = {		# Placeholder Steyr 867
+	name = "Ulrich"
+	dynasty = 1062016
+	religion = "catholic"
+	culture = bavarian
+	2849.1.1 = {
+		birth = yes
+	}
+	2893.1.1 = {
+		death = yes
+	}
+}
+260027 = {		# Placeholder Medelike 769
+	name = "Adelbert"
+	dynasty = 1062017
+	religion = "catholic"
+	culture = bavarian
+	2733.1.1 = {
+		birth = yes
+	}
+	2776.1.1 = {
+		death = yes
+	}
+}
+260028 = {		# Placeholder Medelike 867
+	name = "Weickhard"
+	dynasty = 1062018
+	religion = "catholic"
+	culture = bavarian
+	2843.1.1 = {
+		birth = yes
+	}
+	2896.1.1 = {
+		death = yes
+	}
+}
+260036 = {		# Placeholder Pitten 769
+	name = "Ludwig"
+	dynasty = 1062020
+	religion = "catholic"
+	culture = bavarian
+	2744.1.1 = {
+		birth = yes
+	}
+	2797.1.1 = {
+		death = yes
+	}
+}
+
+93764 = {
+	name = "Wolfer"
+	dynasty = 19032
+	religion = "catholic"
+	culture = bavarian
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3159.1.1 = {
+		death = "3159.1.1"
+	}
+}
+
+1422 = {
+	name = "Albert"
+	dynasty = 654
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = wrathful
+	trait = education_intrigue_1
+	3004.1.2 = {
+		birth = "3004.1.2"
+	}
+	3060.1.2 = {
+		death = "3060.1.2"
+	}
+}
+
+1423 = {
+	name = "Matilda"
+	female = yes
+	dynasty = 654
+	martial = 8
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = wrathful
+	trait = zealous
+	trait = honest
+	trait = education_learning_2
+	father = 1422
+	3030.1.2 = {
+		birth = "3030.1.2"
+	}
+	3080.1.2 = {
+		death = "3080.1.2"
+	}
+}
+## End of various
+## Start of bishops of Freising
+260073 = {		# Arbeo, Bishop of Freising
+	name = "Arbeo"
+	religion = "catholic"
+	culture = bavarian
+	2725.1.1 = {
+		birth = yes
+	}
+	2786.5.4 = {
+		death = yes
+	}
+}
+260074 = {		# Anno, Bishop of Freising
+	name = "Anno"
+	religion = "catholic"
+	culture = bavarian
+	2817.1.1 = {
+		birth = yes
+	}
+	2877.1.1 = {
+		death = yes
+	}
+}
+260075 = {		# Ellenhard, Bishop of Freising
+	name = "Ellenhard"
+	religion = "catholic"
+	culture = bavarian
+	3034.1.1 = {
+		birth = yes
+	}
+	3080.1.1 = {
+		death = yes
+	}
+}
+260076 = {		# Meginward, Bishop of Freising
+	name = "Meginward"
+	religion = "catholic"
+	culture = bavarian
+	3043.1.1 = {
+		birth = yes
+	}
+	3100.1.1 = {
+		death = yes
+	}
+}
+260077 = {		# Henry, Bishop of Freising
+	name = "Henry"
+	religion = "catholic"
+	culture = bavarian
+	3064.1.1 = {
+		birth = yes
+	}
+	3139.1.1 = {
+		death = yes
+	}
+}
+260078 = {		# Otto I, Bishop of Freising
+	name = "Otto"
+	religion = "catholic"
+	culture = bavarian
+	3116.1.1 = {
+		birth = yes
+	}
+	3160.1.1 = {
+		death = yes
+	}
+}
+260079 = {		# Albert I, Bishop of Freising
+	name = "Albert"
+	religion = "catholic"
+	culture = bavarian
+	3122.1.1 = {
+		birth = yes
+	}
+	3186.1.1 = {
+		death = yes
+	}
+}
+260080 = {		# Otto II, Bishop of Freising
+	name = "Otto"
+	religion = "catholic"
+	culture = bavarian
+	3160.1.1 = {
+		birth = yes
+	}
+	3222.1.1 = {
+		death = yes
+	}
+}
+260081 = {		# Gerold, Bishop of Freising
+	name = "Gerold"
+	religion = "catholic"
+	culture = bavarian
+	3170.1.1 = {
+		birth = yes
+	}
+	3232.1.1 = {
+		death = yes
+	}
+}
+260082 = {		# Conrad I, Bishop of Freising
+	name = "Conrad"
+	religion = "catholic"
+	culture = bavarian
+	3205.1.1 = {
+		birth = yes
+	}
+	3260.1.1 = {
+		death = yes
+	}
+}
+260083 = {		# Conrad II, bishop of Freising
+	name = "Conrad"
+	religion = "catholic"
+	culture = bavarian
+	3227.1.1 = {
+		birth = yes
+	}
+	3281.1.1 = {
+		death = yes
+	}
+}
+260084 = {		# Frederick, Bishop of Freising
+	name = "Frederick"
+	religion = "catholic"
+	culture = bavarian
+	3240.1.1 = {
+		birth = yes
+	}
+	3284.1.1 = {
+		death = yes
+	}
+}
+260085 = {		# Waldgrave, Bishop of Freising
+	name = "Waldgrave"
+	religion = "catholic"
+	culture = bavarian
+	3244.1.1 = {
+		birth = yes
+	}
+	3313.1.1 = {
+		death = yes
+	}
+}
+260086 = {		# Gottfried, Bishop of Freising
+	name = "Gottfried"
+	religion = "catholic"
+	culture = bavarian
+	3266.1.1 = {
+		birth = yes
+	}
+	3316.1.1 = {
+		death = yes
+	}
+}
+260087 = {		# Conrad III, Bishop of Freising
+	name = "Conrad"
+	religion = "catholic"
+	culture = bavarian
+	3283.1.1 = {
+		birth = yes
+	}
+	3324.1.1 = {
+		death = yes
+	}
+}
+260088 = {		# John I, Bishop of Freising
+	name = "John"
+	religion = "catholic"
+	culture = bavarian
+	3280.1.1 = {
+		birth = yes
+	}
+	3326.1.1 = {
+		death = yes
+	}
+}
+260089 = {		# Conrad IV, Bishop of Freising
+	name = "Conrad"
+	religion = "catholic"
+	culture = bavarian
+	3294.1.1 = {
+		birth = yes
+	}	
+	3342.1.1 = {
+		death = yes
+	}
+}
+## End of bishops of Freising
+## German characters of Hungarian dynasties
+20357 = {
+	name = "Lothar"
+	dynasty = 19052
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = ill
+	trait = education_martial_3
+	2986.1.1 = {
+		birth = "2986.1.1"
+	}
+	3034.1.1 = {
+		death = "3034.1.1"
+	}
+}
+
+4399 = {
+	name = "Altmann"
+	dynasty = 101569
+	martial = 8
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = wrathful
+	trait = clubfooted
+	trait = education_martial_2
+	3021.1.1 = {
+		birth = "3021.1.1"
+	}
+	3063.1.1 = {
+		death = "3063.1.1"
+	}
+}
+
+4407 = {
+	name = "Vecelin"
+	dynasty = 101570
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = chaste
+	trait = diligent
+	trait = just
+	trait = education_martial_4
+	2962.1.1 = {
+		birth = "2962.1.1"
+	}
+	3014.1.1 = {
+		death = "3014.1.1"
+	}
+}
+
+4408 = {
+	name = "RA_d"
+	# AKA: Rad
+	dynasty = 101570
+	martial = 6
+	diplomacy = 3
+	intrigue = 7
+	stewardship = 9
+	religion = "catholic"
+	culture = bavarian
+	trait = lustful
+	trait = diligent
+	trait = education_martial_3
+	father = 4407
+	2984.1.1 = {
+		birth = "2984.1.1"
+	}
+	3026.1.1 = {
+		death = "3026.1.1"
+	}
+}
+
+4426 = {
+	name = "Hont"
+	dynasty = 19053
+	martial = 6
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = bavarian
+	trait = diligent
+	trait = arrogant
+	trait = education_martial_3
+	2979.1.1 = {
+		birth = "2979.1.1"
+	}
+	3032.1.1 = {
+		death = "3032.1.1"
+	}
+}
+
+4427 = {
+	name = "BE_ny"
+	# AKA: Beny
+	dynasty = 19053
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = bavarian
+	trait = wrathful
+	trait = education_martial_2
+	father = 4426
+	3000.1.1 = {
+		birth = "3000.1.1"
+	}
+	3044.1.1 = {
+		death = "3044.1.1"
+	}
+}
+
+4428 = {
+	name = "Lampert"
+	dynasty = 19053
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = cynical
+	trait = education_diplomacy_2
+	father = 4426
+	3004.1.1 = {
+		birth = "3004.1.1"
+	}
+	3041.1.1 = {
+		death = "3041.1.1"
+	}
+}
+
+4429 = {
+	name = "Hont"
+	dynasty = 19053
+	martial = 7
+	diplomacy = 3
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = bavarian
+	trait = gluttonous
+	trait = education_intrigue_2
+	father = 4428
+	3024.1.1 = {
+		birth = "3024.1.1"
+	}
+	3066.1.1 = {
+		death = "3066.1.1"
+	}
+}
+
+4430 = {
+	name = "Ipoly"
+	dynasty = 19053
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = bavarian
+	trait = education_stewardship_2
+	father = 4429
+	3059.1.1 = {
+		birth = "3059.1.1"
+	}
+	3114.1.1 = {
+		death = "3114.1.1"
+	}
+}
+## German characters of Hungarian dynasties
+## Start of Lowborns
+163056 = {
+	name = "Adalwin"
+	culture = bavarian
+	religion = "catholic"
+	2811.1.1 = {
+		birth = "2811.1.1"
+	}
+	2876.5.14 = {
+		death = "2876.5.14"
+	}
+}
+190532 = {
+	name="Hilda" #wife of Hugh of Italy
+	female=yes
+	religion="catholic"
+	culture= bavarian #random guess, she was "german"
+	2909.1.1={
+		birth=yes
+	}
+	2933.1.1={
+		death=yes
+	}
+}
+302014 = {
+	name = "Heinrich"	#Archbishop of Gniezno
+	religion = catholic
+	culture = bavarian
+	trait = education_learning_2
+	3008.1.2 = {
+		birth = yes
+	}
+	3126.1.2 = {
+		death = yes
+	}
+}
+167977 = {
+	name = "Andaberta"
+	female = yes
+	religion = "catholic"
+	culture = bavarian
+	2834.1.1 = {
+		birth = "2834.1.1"
+	}
+	2882.1.1 = {
+		death = "2882.1.1"
+	}
+}
+167978 = {
+	name = "Ingelrade"
+	female = yes
+	dynasty = 9566
+	religion = "catholic"
+	culture = bavarian
+	father = 167976
+	mother = 167977
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2901.9.27 = {
+		death = "2901.9.27"
+	}
+}
+167979 = {
+	name = "Berta"
+	female = yes
+	dynasty = 9566
+	religion = "catholic"
+	culture = bavarian
+	father = 167976
+	mother = 167977
+	2854.1.1 = {
+		birth = "2854.1.1"
+	}
+	2904.1.1 = {
+		death = "2904.1.1"
+	}
+}
+
+144544 = {
+	name = "Gottfried"
+	religion = "catholic"
+	culture = bavarian
+	3123.1.1 = {
+		birth = "3123.1.1"
+	}
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+144545 = {
+	name = "Philipp"
+	religion = "catholic"
+	culture = bavarian
+	3125.1.1 = {
+		birth = "3125.1.1"
+	}
+	3193.1.1 = {
+		death = "3193.1.1"
+	}
+}
+
+144546 = {
+	name = "Heinrich"
+	religion = "catholic"
+	culture = bavarian
+	3138.1.1 = {
+		birth = "3138.1.1"
+	}
+	3199.1.1 = {
+		death = "3199.1.1"
+	}
+}
+
+144547 = {
+	name = "Heinrich"
+	religion = "catholic"
+	culture = bavarian
+	3170.1.1 = {
+		birth = "3170.1.1"
+	}
+	3209.1.1 = {
+		death = "3209.1.1"
+	}
+}
+
+144548 = {
+	name = "Otto"
+	religion = "catholic"
+	culture = bavarian
+	3171.1.1 = {
+		birth = "3171.1.1"
+	}
+	3225.1.1 = {
+		death = "3225.1.1"
+	}
+}
+
+144549 = {
+	name = "Dietrich"
+	religion = "catholic"
+	culture = bavarian
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3227.1.1 = {
+		death = "3227.1.1"
+	}
+}
+
+144550 = {
+	name = "Hermann"
+	religion = "catholic"
+	culture = bavarian
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3256.1.1 = {
+		death = "3256.1.1"
+	}
+}
+
+144551 = {
+	name = "Iring"
+	religion = "catholic"
+	culture = bavarian
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3268.1.1 = {
+		death = "3268.1.1"
+	}
+}
+
+144552 = {
+	name = "Poppo"
+	religion = "catholic"
+	culture = bavarian
+	3206.1.1 = {
+		birth = "3206.1.1"
+	}
+	3273.1.1 = {
+		death = "3273.1.1"
+	}
+}
+
+144553 = {
+	name = "Berthold"
+	religion = "catholic"
+	culture = bavarian
+	3226.1.1 = {
+		birth = "3226.1.1"
+	}
+	3289.1.1 = {
+		death = "3289.1.1"
+	}
+}
+
+144554 = {
+	name = "Mangold"
+	religion = "catholic"
+	culture = bavarian
+	3236.1.1 = {
+		birth = "3236.1.1"
+	}
+	3305.1.1 = {
+		death = "3305.1.1"
+	}
+}
+
+144555 = {
+	name = "Andreas"
+	religion = "catholic"
+	culture = bavarian
+	3244.1.1 = {
+		birth = "3244.1.1"
+	}
+	3315.1.1 = {
+		death = "3315.1.1"
+	}
+}
+
+144556 = {
+	name = "Wolfram"
+	religion = "catholic"
+	culture = bavarian
+	3259.1.1 = {
+		birth = "3259.1.1"
+	}
+	3334.1.1 = {
+		death = "3334.1.1"
+	}
+}
+
+144557 = {
+	name = "Herman"
+	religion = "catholic"
+	culture = bavarian
+	3260.1.1 = {
+		birth = "3260.1.1"
+	}
+	3337.1.1 = {
+		death = "3337.1.1"
+	}
+}
+
+144558 = {
+	name = "Herman"
+	religion = "catholic"
+	culture = bavarian
+	3140.1.1 = {
+		birth = "3140.1.1"
+	}
+	3188.1.1 = {
+		death = "3188.1.1"
+	}
+}
+
+144559 = {
+	name = "Herold"
+	religion = "catholic"
+	culture = bavarian
+	3126.1.1 = {
+		birth = "3126.1.1"
+	}
+	3173.1.1 = {
+		death = "3173.1.1"
+	}
+}
+
+144575 = {
+	name = "Eberhard"
+	religion = "catholic"
+	culture = bavarian
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3248.1.1 = {
+		death = "3248.1.1"
+	}
+}
+
+144577 = {
+	name = "Ulrich"
+	religion = "catholic"
+	culture = bavarian
+	3205.1.1 = {
+		birth = "3205.1.1"
+	}
+	3267.1.1 = {
+		death = "3267.1.1"
+	}
+}
+
+144578 = {
+	name = "Friedrich"
+	religion = "catholic"
+	culture = bavarian
+	3225.1.1 = {
+		birth = "3225.1.1"
+	}
+	3286.4.7 = {
+		death = "3286.4.7"
+	}
+}
+
+144579 = {
+	name = "Rudolf"
+	religion = "catholic"
+	culture = bavarian
+	3236.1.1 = {
+		birth = "3236.1.1"
+	}
+	3292.8.3 = {
+		death = "3292.8.3"
+	}
+}
+
+144580 = {
+	name = "Rudolf"
+	religion = "catholic"
+	culture = bavarian
+	3259.1.1 = {
+		birth = "3259.1.1"
+	}
+	3314.3.28 = {
+		death = "3314.3.28"
+	}
+}
+
+144581 = {
+	name = "Weichart"
+	religion = "catholic"
+	culture = bavarian
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3317.10.6 = {
+		death = "3317.10.6 "
+	}
+}
+
+7817 = {
+	name = "Poppo"
+	martial = 6
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = diligent
+	trait = calm
+	trait = zealous
+	trait = education_diplomacy_3
+	2982.1.1 = {
+		birth = "2982.1.1"
+	}
+	3050.7.17 = {
+		name = "Damasus"
+	# AKA: Poppo
+	}
+	3050.8.9 = {
+		death = "3050.8.9"
+	}
+}
+
+7894 = {
+	name = "Geghard"
+	# AKA: Gebhard
+	martial = 6
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = bavarian
+	trait = diligent
+	trait = calm
+	trait = zealous
+	trait = education_diplomacy_3
+	3020.1.1 = {
+		birth = "3020.1.1"
+	}
+	3056.4.19 = {
+		name = "Victor"
+	# AKA: Gebhard
+	}
+	3059.7.28 = {
+		death = "3059.7.28"
+	}
+}
+## End of Lowborns
+
+bavarian0001 = {
+	name = "Ulrich" # Ulrich II, Bishop of Trent (1022-1055)
+	religion = "catholic"
+	culture = "bavarian"
+	trait = chaste
+	trait = theologian
+	trait = education_learning_2
+	
+	2985.1.1 = {
+		birth = yes
+	}
+	3057.2.25 = {
+		death = yes
+	}
+}
+
+bavarian0002 = {
+	name = "Konrad" #Prince-Bishop of Konstanz, I
+	religion = "catholic"
+	culture = bavarian
+	trait = education_learning_4
+	father = 7992 # Count Heinrich
+	dynasty = 650 # Welf
+	2916.1.1 = {
+		birth = yes
+	}
+	2977.11.26 = {
+		death = yes
+	}
+}
+
+bavarian0003 = {
+	name = "Gebhard" #Saint Gebhard of Konstanz
+	religion = "catholic"
+	culture = bavarian
+	trait = education_learning_4
+	trait = architect
+	trait = generous
+	trait = pilgrim
+	dynasty = 9587 # Bregenz
+	2951.1.1 = {
+		birth = yes
+	}
+	2997.1.1 = {
+		death = yes
+	}
+}
+
+bavarian0004 = {
+	name = "Rothard" #Prince-Bishop Rudhart of Konstanz
+	religion = "catholic"
+	culture = bavarian
+	trait = education_learning_2
+	2953.1.1 = {
+		birth = yes
+	}
+	3024.1.1 = {
+		death = yes
+	}
+}

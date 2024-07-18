@@ -1,0 +1,243 @@
+﻿#Edo characters
+
+#rulers of Benin kingdom
+
+edo0000 = {
+	name = "Bolade" #placeholder - father of princess who married Oranmiyan
+	dynasty = edodyn002
+	religion = west_african_orisha_pagan
+	culture = yoruba
+	2823.1.1 = {
+		birth = yes
+	}
+	2891.1.1 = {
+		death = yes
+	}
+}
+edo0001 = {
+	name = "Ekundayo" #mother of Oranmiyan
+	female = yes
+	dynasty = edodyn002
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0000
+	2848.1.1 = {
+		birth = yes
+	}
+	2866.1.1 = {
+		add_spouse = yoruba0010
+	}
+	2902.1.1 = {
+		death = yes
+	}
+}
+edo0002 = {
+	name = "Eweka"
+	dynasty = edodyn002
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = yoruba0010
+	mother = edo0001
+	2867.1.1 = {
+		birth = yes
+	}
+	2922.1.1 = {
+		death = yes
+	}
+}
+edo0003 = {
+	name = "Uwuakhuahen"
+	dynasty = edodyn002
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0002
+	2902.1.1 = {
+		birth = yes
+	}
+	2982.1.1 = {
+		death = yes
+	}
+}
+edo0004 = {
+	name = "Ewuare"
+	dynasty = edodyn002
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0003
+	2967.1.1 = {
+		birth = yes
+	}
+	3022.1.1 = {
+		death = yes
+	}
+}
+
+edo0005 = {
+	name = "Henmihen"
+	dynasty = edodyn002
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0004
+	3007.1.1 = {
+		birth = yes
+	}
+	3070.1.1 = {
+		death = yes
+	}
+}
+edo0006 = {
+	name = "Orunmiyan"
+	dynasty = edodyn002
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0005
+	3041.1.1 = {
+		birth = yes
+	}
+	3095.1.1 = {
+		death = yes
+	}
+}
+edo0007 = {
+	name = "Ewuare"
+	dynasty = edodyn002
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0006
+	3069.1.1 = {
+		birth = yes
+	}
+	3114.1.1 = {
+		death = yes
+	}
+}
+edo0008 = {
+	name = "Henmihen"
+	dynasty = edodyn002
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0007
+	3100.1.1 = {
+		birth = yes
+	}
+	3155.1.1 = {
+		death = yes
+	}
+}
+edo0009 = {
+	name = "Oguola"
+	dynasty = edodyn002
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0008
+	3129.1.1 = {
+		birth = yes
+	}
+	3185.1.1 = {
+		death = yes
+	}
+}
+edo0010 = {
+	name = "Edoni"
+	dynasty = edodyn002
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0009
+	3156.1.1 = {
+		birth = yes
+	}
+	3208.1.1 = {
+		death = yes
+	}
+}
+
+#Osse dynasty of c_edo
+edo0011 = {
+	name = "Udagbedo"
+	dynasty = edodyn003
+	religion = west_african_orisha_pagan
+	culture = edo
+	2826.1.1 = {
+		birth = yes
+	}
+	2878.1.1 = {
+		death = yes
+	}
+}
+edo0012 = {
+	name = "Owodo"
+	dynasty = edodyn003
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0011
+	2852.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		death = yes
+	}
+}
+edo0013 = {
+	name = "Ohen"
+	dynasty = edodyn003
+	religion = west_african_orisha_pagan
+	culture = edo
+	3036.1.1 = {
+		birth = yes
+	}
+	3088.1.1 = {
+		death = yes
+	}
+}
+edo0014 = {
+	name = "Ezoti"
+	dynasty = edodyn003
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0013
+	3062.1.1 = {
+		birth = yes
+	}
+	3119.1.1 = {
+		death = yes
+	}
+}
+edo0015 = {
+	name = "Egbeka"
+	dynasty = edodyn003
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0014
+	3091.1.1 = {
+		birth = yes
+	}
+	3139.1.1 = {
+		death = yes
+	}
+}
+edo0016 = {
+	name = "Orobiru"
+	dynasty = edodyn003
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0015
+	3124.1.1 = {
+		birth = yes
+	}
+	3180.1.1 = {
+		death = yes
+	}
+}
+edo0017 = {
+	name = "Uwaifiokun"
+	dynasty = edodyn003
+	religion = west_african_orisha_pagan
+	culture = edo
+	father = edo0016
+	3161.1.1 = {
+		birth = yes
+	}
+	3215.1.1 = {
+		death = yes
+	}
+}

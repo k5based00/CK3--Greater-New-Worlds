@@ -1,0 +1,1478 @@
+﻿#From CK2HF database
+#161000 - 161010
+#161094 - 161102
+#184010 - 183501
+#251130-251 199
+#1000144500 - 1000144520
+#1000144680
+
+
+161000 = {
+	name = "Bassi"
+	dynasty = 1030000
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 184019
+	3012.1.1 = {
+		birth = "3012.1.1"
+	}
+	3064.1.1 = {
+		death = "3064.1.1"
+	}
+}
+
+161001 = {
+	name = "Tunka_Menin"
+	dynasty = 1030000
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 161000
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3070.1.1 = {
+		death = "3070.1.1"
+	}
+}
+
+161002 = {
+	name = "Kambine_Diaresso"
+	dynasty = 1030000
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 161001
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3078.1.1 = {
+		religion = "ashari"
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+161003 = {
+	name = "Sulayman"
+	dynasty = 1030000
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 161002
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3078.1.1 = {
+		religion = "ashari"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+161004 = {
+	name = "Bannu_Bubu"
+	dynasty = 1030000
+	religion = "ashari"
+	culture = "soninke"
+	father = 161002
+	3077.1.1 = {
+		birth = "3077.1.1"
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+161005 = {
+	name = "Majan_Wagadu"
+	dynasty = 1030000
+	religion = "ashari"
+	culture = "soninke"
+	father = 161004
+	3097.1.1 = {
+		birth = "3097.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+161006 = {
+	name = "Gane"
+	dynasty = 1030000
+	religion = "ashari"
+	culture = "soninke"
+	father = 161004
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3142.1.1 = {
+		death = "3142.1.1"
+	}
+}
+
+161007 = {
+	name = "Musa"
+	dynasty = 1030000
+	religion = "ashari"
+	culture = "soninke"
+	father = 161004
+	3107.1.1 = {
+		birth = "3107.1.1"
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+161008 = {
+	name = "Birama"
+	dynasty = 1030000
+	religion = "ashari"
+	culture = "soninke"
+	father = 161007
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+161009 = {
+	name = "Diara"
+	dynasty = 1030001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+161010 = {
+	name = "Soumaoro"
+	dynasty = 1030001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 161009
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3236.1.1 = {
+		death = "3236.1.1"
+	}
+}
+
+161023 = {
+	name = "Soumaba"
+	dynasty = 1030000
+	religion = "ashari"
+	culture = "soninke"
+	father = 161008
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3242.1.1 = {
+		death = "3242.1.1"
+	}
+}
+
+161094 = {
+	name = "Fuluku"
+	#placeholder
+	dynasty = 1030011
+	religion = "ashari"
+	culture = "soninke"
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+161095 = {
+	name = "Mamadi"
+	#placeholder
+	dynasty = 1030011
+	religion = "ashari"
+	culture = "soninke"
+	father = 161094
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	
+	3142.1.1 = {
+		death = "3142.1.1"
+	}
+}
+
+161096 = {
+	name = "Mamoudou"
+	#placeholder
+	dynasty = 1030011
+	religion = "ashari"
+	culture = "soninke"
+	father = 161095
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+161097 = {
+	name = "Nintasanay"
+	#placeholder
+	dynasty = 1030011
+	religion = "ashari"
+	culture = "soninke"
+	father = 161096
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+161098 = {
+	name = "Ali"
+	#placeholder
+	dynasty = 1030011
+	religion = "ashari"
+	culture = "soninke"
+	father = 161097
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	
+	3242.1.1 = {
+		death = "3242.1.1"
+	}
+}
+
+161099 = {
+	name = "Salman"
+	#placeholder
+	dynasty = 1030011
+	religion = "ashari"
+	culture = "soninke"
+	father = 161098
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	
+	3272.1.1 = {
+		death = "3272.1.1"
+	}
+}
+
+161100 = {
+	name = "Kalabi"
+	#placeholder
+	dynasty = 1030011
+	religion = "ashari"
+	culture = "soninke"
+	father = 161099
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	
+	3302.1.1 = {
+		death = "3302.1.1"
+	}
+}
+
+161101 = {
+	name = "Dankaran"
+	#placeholder
+	dynasty = 1030011
+	religion = "ashari"
+	culture = "soninke"
+	father = 161100
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	
+	3322.1.1 = {
+		death = "3322.1.1"
+	}
+}
+
+161102 = {
+	name = "Bannu"
+	#placeholder
+	dynasty = 1030011
+	religion = "ashari"
+	culture = "soninke"
+	father = 161101
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+#####TOG
+184010 = {
+	name = "Dramane"
+	dynasty = 1030000
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	2697.1.1 = {
+		birth = "2697.1.1"
+	}
+	2747.1.1 = {
+		death = yes
+	}
+}
+
+184011 = {
+	name = "Seydou"
+	dynasty = 1030000
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 184010
+	2727.1.1 = {
+		birth = "2727.1.1"
+	}
+	2772.1.1 = {
+		death = "2772.1.1"
+	}
+}
+
+184012 = {
+	name = "Drissa"
+	dynasty = 1030000
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 184010
+	2732.1.1 = {
+		birth = "2732.1.1"
+	}
+	2782.1.1 = {
+		death = "2782.1.1"
+	}
+}
+
+184013 = {
+	name = "Mayan_Dyabe" #First historical contact with islam
+	dynasty = 1030000
+	religion = west_african_bidu_pagan
+	culture = soninke
+	father = 184012
+	2772.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+
+184014 = {
+	name = "KonatE_"
+	dynasty = 1030000
+	religion = west_african_bidu_pagan
+	culture = soninke
+	father = 184013
+	2807.1.1 = {
+		birth = yes
+	}
+	2862.1.1 = {
+		death = yes
+	}
+}
+
+184015 = {
+	name = Zoumana
+	dynasty = 1030000
+	religion = west_african_bidu_pagan
+	culture = soninke
+	father = 184014
+	2832.1.1 = {
+		birth = yes
+	}
+	2900.1.1 = {
+		death = yes
+	}
+}
+
+184016 = {
+	name = "Iasine"
+	dynasty = 1030000
+	religion = west_african_bidu_pagan
+	culture = soninke
+	father = 184015
+	2877.1.1 = {
+		birth = "2877.1.1"
+	}
+	2922.1.1 = {
+		death = "2922.1.1"
+	}
+}
+
+184017 = {
+	name = "Djibril"
+	dynasty = 1030000
+	religion = west_african_bidu_pagan
+	culture = soninke
+	father = 184016
+	2907.1.1 = {
+		birth = "2907.1.1"
+	}
+	2962.1.1 = {
+		death = "2962.1.1"
+	}
+}
+
+184018 = {
+	name = "Adama"
+	dynasty = 1030000
+	religion = west_african_bidu_pagan
+	culture = soninke
+	father = 184017
+	2927.1.1 = {
+		birth = "2927.1.1"
+	}
+	2982.1.1 = {
+		death = "2982.1.1"
+	}
+}
+
+184019 = {
+	name = "Ousmane"
+	dynasty = 1030000
+	religion = west_african_bidu_pagan
+	culture = soninke
+	father = 184018
+	2972.1.1 = {
+		birth = "2972.1.1"
+	}
+	3042.1.1 = {
+		death = "3042.1.1"
+	}
+}
+
+183501 = {
+	name = "Hargani"
+	dynasty = 1042631
+	religion = west_african_bidu_pagan
+	culture = soninke
+	2827.1.1 = {
+		birth = "2827.1.1"
+	}
+	2902.1.1 = {
+		death = "2902.1.1"
+	}
+}
+
+
+#Original characters for CM
+188752 = {
+	name = "Dankaran" # fictitious holder of Djenne
+	dynasty = 1042173
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	2732.1.1 = {
+		birth = yes
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+
+188754 = {
+	name = "Demba" # fictitious holder of Aoudaghost
+	dynasty = 1042175
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	2747.1.1 = {
+		birth = yes
+	}
+	2797.1.1 = {
+		death = yes
+	}
+}
+
+188755 = {
+	name = "Kodama" # fictitious holder of Oualata
+	dynasty = 1042176
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	2744.1.1 = {
+		birth = yes
+	}
+	2797.1.1 = {
+		death = yes
+	}
+}
+
+################ Characters for reworked West Africa
+
+#Niakhate rulers of Kingui-Diafunu
+251130 = {
+	name = "Sirman_Mesane"
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251170
+	3044.1.1 = {
+		birth = yes
+	}
+	3088.1.11 = {
+		death = yes
+	}
+}
+251131 = {
+	name = "Mana"
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251130
+	3075.1.1 = {
+		birth = yes
+	}
+	3119.1.1 = {
+		death = yes
+	}
+}
+251132 = {
+	name = "Sirman"
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251131
+	3102.1.1 = {
+		birth = yes
+	}
+	3151.1.1 = {
+		death = yes
+	}
+}
+251133 = {
+	name = "Mana_Maghan"
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251132
+	3126.1.1 = {
+		birth = yes
+	}
+	3175.1.1 = {
+		death = yes
+	}
+}
+251134 = {
+	name = "Niakhata"
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	2747.1.1 = {
+		birth = yes
+	}
+	2788.1.11 = {
+		death = yes
+	}
+}
+251135 = {
+	name = "Sirman"
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251165
+	2847.1.1 = {
+		birth = yes
+	}
+	2888.1.11 = {
+		death = yes
+	}
+}
+
+#Kiffa rulers of Awdaghust(c_hodh)
+251136 = {
+	name = "Niaware"
+	dynasty = 2001181
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251140
+	2834.1.1 = {
+		birth = yes
+	}
+	2888.1.11 = {
+		death = yes
+	}
+}
+251137 = {
+	name = "Sogolon"
+	female = yes
+	dynasty = 2001181
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251136
+	2851.1.1 = {
+		birth = yes
+	}
+	2908.1.11 = {
+		death = yes
+	}
+}
+251138 = {
+	name = "Kiffa"
+	dynasty = 2001181
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	2742.1.1 = {
+		birth = yes
+	}
+	2802.1.11 = {
+		death = yes
+	}
+}
+251139 = {
+	name = "Niaware"
+	dynasty = 2001181
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251138
+	2792.1.1 = {
+		birth = yes
+	}
+	2846.1.11 = {
+		death = yes
+	}
+}
+251140 = {
+	name = "Kiffa"
+	dynasty = 2001181
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251139
+	2812.1.1 = {
+		birth = yes
+	}
+	2865.1.11 = {
+		death = yes
+	}
+}
+#Tunkara rulers of Mema
+251141 = {
+	name = "Biranin"
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251153
+	3036.1.1 = {
+		birth = yes
+	}
+	3085.1.1 = {
+		death = yes
+	}
+}
+
+251142 = {
+	name = "Niakhata"		#placeholder
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251141
+	3061.1.1 = {
+		birth = yes
+	}
+	3112.1.1 = {
+		death = yes
+	}
+}
+
+251143 = {
+	name = "Fare_Birama"
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251142
+	3096.1.1 = {
+		birth = yes
+	}
+	3142.1.1 = {
+		death = yes
+	}
+}
+251144 = {
+	name = "Biranin"		#placeholder
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251143
+	3122.1.1 = {
+		birth = yes
+	}
+	3176.1.1 = {
+		death = yes
+	}
+}
+251145 = {
+	name = "Birama"		#placeholder
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251144
+	3155.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+
+251146 = {
+	name = "Musa"
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251145
+	3182.1.1 = {
+		birth = yes
+	}
+	3237.1.1 = {
+		death = yes
+	}
+}
+#placeholder ancestors for Tunkara rulers of Mema
+
+251147 = {
+	name = "Biranin"
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	2750.1.1 = {
+		birth = yes
+	}
+	2817.1.1 = {
+		death = yes
+	}
+}
+251148 = {
+	name = "Biranin"
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251176
+	2850.1.1 = {
+		birth = yes
+	}
+	2917.1.1 = {
+		death = yes
+	}
+}
+251149 = {
+	name = "Mamadi"
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251148
+	2882.1.1 = {
+		birth = yes
+	}
+	2938.1.1 = {
+		death = yes
+	}
+}
+251150 = {
+	name = "Hargani"
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251149
+	2914.1.1 = {
+		birth = yes
+	}
+	2969.1.1 = {
+		death = yes
+	}
+}
+251151 = {
+	name = "Mamadi"
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251150
+	2941.1.1 = {
+		birth = yes
+	}
+	2995.1.1 = {
+		death = yes
+	}
+}
+251152 = {
+	name = "Hargani"
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251151
+	2979.1.1 = {
+		birth = yes
+	}
+	3032.1.1 = {
+		death = yes
+	}
+}
+251153 = {
+	name = "Tunka"
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251152
+	3002.1.1 = {
+		birth = yes
+	}
+	3055.1.1 = {
+		death = yes
+	}
+}
+
+#Kante rulers of Soso
+251154 = {
+	name = "Mamadi"
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251174
+	3052.1.1 = {
+		birth = yes
+	}
+	3068.1.1 = {
+		add_pressed_claim = title:c_soso
+	}
+	3116.1.1 = {
+		death = yes
+	}
+}
+251155 = {
+	name = "Soumaoro"	#placeholder
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251154
+	3075.1.1 = {
+		birth = yes
+	}
+	3132.1.1 = {
+		death = yes
+	}
+}
+251156 = {
+	name = "Mamadi"	#placeholder
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251155
+	3092.1.1 = {
+		birth = yes
+	}
+	3158.1.1 = {
+		death = yes
+	}
+}
+251157 = {
+	name = "Mamadi"	#placeholder
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251156
+	3120.1.1 = {
+		birth = yes
+	}
+	3172.1.1 = {
+		death = yes
+	}
+}
+251158 = {
+	name = "Kanta"	#placeholder
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	2702.1.1 = {
+		birth = yes
+	}
+	2762.1.1 = {
+		death = yes
+	}
+}
+251159 = {
+	name = "Mamadi"	#placeholder
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251158
+	2740.1.1 = {
+		birth = yes
+	}
+	2798.1.1 = {
+		death = yes
+	}
+}
+251160 = {
+	name = "Fakoli"	#placeholder
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251159
+	2782.1.1 = {
+		birth = yes
+	}
+	2841.1.1 = {
+		death = yes
+	}
+}
+251161 = {
+	name = "Yerelenko"	#placeholder
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251160
+	2817.1.1 = {
+		birth = yes
+	}
+	2870.1.1 = {
+		death = yes
+	}
+}
+251162 = {
+	name = "Fakoli"	#placeholder
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251161
+	2852.1.1 = {
+		birth = yes
+	}
+	2915.1.1 = {
+		death = yes
+	}
+}
+
+#Placeholder rulers to fill the gaps
+
+251163 = {
+	name = "Daffi"
+	#placeholder
+	dynasty = 2001178 #Niakhate of Diafunu
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251134
+	2772.1.1 = {
+		birth = yes
+	}
+	
+	2824.1.1 = {
+		death = yes
+	}
+}
+251164 = {
+	name = "Sirman"
+	#placeholder
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251163
+	2792.1.1 = {
+		birth = yes
+	}
+	
+	2846.1.1 = {
+		death = yes
+	}
+}
+251165 = {
+	name = "Niakhata"
+	#placeholder
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251164
+	2821.1.1 = {
+		birth = yes
+	}
+	
+	2868.1.1 = {
+		death = yes
+	}
+}
+251166 = {
+	name = "Mana"
+	#placeholder
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251135
+	2872.1.1 = {
+		birth = yes
+	}
+	
+	2935.1.1 = {
+		death = yes
+	}
+}
+251167 = {
+	name = "Daffi"
+	#placeholder
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251166
+	2905.1.1 = {
+		birth = yes
+	}
+	
+	2955.1.1 = {
+		death = yes
+	}
+}
+251168 = {
+	name = "Niakhata"
+	#placeholder
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251167
+	2939.1.1 = {
+		birth = yes
+	}
+	
+	2991.1.1 = {
+		death = yes
+	}
+}
+251169 = {
+	name = "Sirman"
+	#placeholder
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251168
+	2972.1.1 = {
+		birth = yes
+	}
+	
+	3022.1.1 = {
+		death = yes
+	}
+}
+251170 = {
+	name = "Daffi"
+	#placeholder
+	dynasty = 2001178
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251169
+	3010.1.1 = {
+		birth = yes
+	}
+	
+	3055.1.1 = {
+		death = yes
+	}
+}
+
+251171 = {
+	name = "Mamadi"	#placeholder
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251162
+	2892.1.1 = {
+		birth = yes
+	}
+	2957.1.1 = {
+		death = yes
+	}
+}
+251172 = {
+	name = "Soumaoro"	#placeholder
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251171
+	2937.1.1 = {
+		birth = yes
+	}
+	3002.1.1 = {
+		death = yes
+	}
+}
+251173 = {
+	name = "Fakoli"	#placeholder
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251172
+	2982.1.1 = {
+		birth = yes
+	}
+	3032.1.1 = {
+		death = yes
+	}
+}
+251174 = {
+	name = "Yerelenko"	#placeholder
+	dynasty = 2001183
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251173
+	3022.1.1 = {
+		birth = yes
+	}
+	3068.1.1 = {
+		death = yes
+	}
+}
+
+#Tunkara gapfiller placeholders
+251175 = {
+	name = "Mamadi"
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251147
+	2782.1.1 = {
+		birth = yes
+	}
+	2835.1.1 = {
+		death = yes
+	}
+}
+251176 = {
+	name = "Hargani"
+	dynasty = 2001179
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = 251175
+	2815.1.1 = {
+		birth = yes
+	}
+	2868.1.1 = {
+		death = yes
+	}
+}
+#Camara clan of Guidimaka placeholders
+soninke0001 = {
+	name = "Gane"
+	dynasty = soninkedyn001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	2837.1.1 = {
+		birth = yes
+	}
+	2894.1.1 = {
+		death = yes
+	}
+}
+soninke0002 = {
+	name = "Camara"
+	dynasty = soninkedyn001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0001
+	2862.1.1 = {
+		birth = yes
+	}
+	2936.1.1 = {
+		death = yes
+	}
+}
+soninke0003 = {
+	name = "Barri"
+	dynasty = soninkedyn001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0002
+	2917.1.1 = {
+		birth = yes
+	}
+	2996.1.1 = {
+		death = yes
+	}
+}
+soninke0004 = {
+	name = "Camara"
+	dynasty = soninkedyn001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0003
+	2982.1.1 = {
+		birth = yes
+	}
+	3045.1.1 = {
+		death = yes
+	}
+}
+soninke0005 = {
+	name = "Gassama"
+	dynasty = soninkedyn001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0004
+	3020.1.1 = {
+		birth = yes
+	}
+	3067.1.1 = {
+		death = yes
+	}
+}
+soninke0006 = {
+	name = "Dagnokho"
+	dynasty = soninkedyn001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0005
+	3047.1.1 = {
+		birth = yes
+	}
+	3104.1.1 = {
+		death = yes
+	}
+}
+soninke0007 = {
+	name = "Gane"
+	dynasty = soninkedyn001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0006
+	3068.1.1 = {
+		birth = yes
+	}
+	3113.1.1 = {
+		death = yes
+	}
+}
+soninke0008 = {
+	name = "Dagnokho"
+	dynasty = soninkedyn001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0007
+	3094.1.1 = {
+		birth = yes
+	}
+	3150.1.1 = {
+		death = yes
+	}
+}
+soninke0009 = {
+	name = "Gane"
+	dynasty = soninkedyn001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0008
+	3119.1.1 = {
+		birth = yes
+	}
+	3173.1.1 = {
+		death = yes
+	}
+}
+soninke0010 = {
+	name = "Gassama"
+	dynasty = soninkedyn001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0009
+	3152.1.1 = {
+		birth = yes
+	}
+	3204.1.1 = {
+		death = yes
+	}
+}
+soninke0011 = {
+	name = "Barri"
+	dynasty = soninkedyn001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0010
+	3185.1.1 = {
+		birth = yes
+	}
+	3229.1.1 = {
+		death = yes
+	}
+}
+soninke0012 = {
+	name = "Barri"
+	dynasty = soninkedyn001
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0011
+	3209.1.1 = {
+		birth = yes
+	}
+	3265.1.1 = {
+		death = yes
+	}
+}
+
+#Camara clan of Guidimaka placeholders
+soninke0013 = {
+	name = "Dagnokho"
+	dynasty = soninkedyn002
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	2845.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		death = yes
+	}
+}
+soninke0014 = {
+	name = "Barri"
+	dynasty = soninkedyn002
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0013
+	2885.1.1 = {
+		birth = yes
+	}
+	2942.1.1 = {
+		death = yes
+	}
+}
+soninke0015 = {
+	name = "Barri"
+	dynasty = soninkedyn002
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0014
+	2922.1.1 = {
+		birth = yes
+	}
+	2995.1.1 = {
+		death = yes
+	}
+}
+soninke0016 = {
+	name = "Barri"
+	dynasty = soninkedyn002
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0015
+	2978.1.1 = {
+		birth = yes
+	}
+	3039.1.1 = {
+		death = yes
+	}
+}
+soninke0017 = {
+	name = "Barri"
+	dynasty = soninkedyn002
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0016
+	3014.1.1 = {
+		birth = yes
+	}
+	3067.1.1 = {
+		death = yes
+	}
+}
+soninke0018 = {
+	name = "Barri"
+	dynasty = soninkedyn002
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0017
+	3045.1.1 = {
+		birth = yes
+	}
+	3099.1.1 = {
+		death = yes
+	}
+}
+soninke0019 = {
+	name = "Barri"
+	dynasty = soninkedyn002
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0018
+	3068.1.1 = {
+		birth = yes
+	}
+	3120.1.1 = {
+		death = yes
+	}
+}
+soninke0020 = {
+	name = "Barri"
+	dynasty = soninkedyn002
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0019
+	3100.1.1 = {
+		birth = yes
+	}
+	3155.1.1 = {
+		death = yes
+	}
+}
+soninke0021 = {
+	name = "Barri"
+	dynasty = soninkedyn002
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0020
+	3137.1.1 = {
+		birth = yes
+	}
+	3178.1.1 = {
+		death = yes
+	}
+}
+soninke0022 = {
+	name = "Barri"
+	dynasty = soninkedyn002
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0021
+	3157.1.1 = {
+		birth = yes
+	}
+	3211.1.1 = {
+		death = yes
+	}
+}
+soninke0023 = {
+	name = "Barri"
+	dynasty = soninkedyn002
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0022
+	3182.1.1 = {
+		birth = yes
+	}
+	3219.1.1 = {
+		death = yes
+	}
+}
+soninke0024 = {
+	name = "Barri"
+	dynasty = soninkedyn002
+	religion = "west_african_bidu_pagan"
+	culture = "soninke"
+	father = soninke0021
+	3201.1.1 = {
+		birth = yes
+	}
+	3264.1.1 = {
+		death = yes
+	}
+}

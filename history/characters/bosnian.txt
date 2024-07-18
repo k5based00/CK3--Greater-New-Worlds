@@ -1,0 +1,375 @@
+﻿34148 = {
+	name = "Prijezda"
+	dynasty = 34
+	religion = "catholic"
+	culture = "bosnian"
+	3213.1.1 = {
+		birth = "3213.1.1"
+	}
+	3252.1.1 = {
+		religion = "bosnian_church"
+	}
+	3289.1.1 = {
+		death = "3289.1.1"
+	}
+}
+
+34149 = {
+	name = "Prijezda"
+	dynasty = 34
+	religion = "catholic"
+	culture = "bosnian"
+	father = 34148
+	3235.1.1 = {
+		birth = "3235.1.1"
+	}
+	3252.1.1 = {
+		religion = "bosnian_church"
+	}
+	3297.1.1 = {
+		death = "3297.1.1"
+	}
+}
+
+34150 = {
+	name = "Vuk"
+	dynasty = 34
+	religion = "catholic"
+	culture = "bosnian"
+	father = 34148
+	3245.1.1 = {
+		birth = "3245.1.1"
+	}
+	3252.1.1 = {
+		religion = "bosnian_church"
+	}
+	3289.1.1 = {
+		death = "3289.1.1"
+	}
+}
+
+34151 = {
+	name = "Ninoslav"
+	dynasty = 34
+	religion = "catholic"
+	culture = "bosnian"
+	father = 468810
+	3293.1.1 = {
+		birth = "3293.1.1"
+	}
+	3316.1.1 = {
+		death = "3316.1.1"
+	}
+}
+
+34153 = {
+	name = "Stjepan"
+	dynasty = 34
+	religion = "catholic"
+	culture = "bosnian"
+	trait = bastard
+	father = 34151
+	3314.1.1 = {
+		birth = "3314.1.1"
+	}
+	3397.9.7 = {
+		death = "3397.9.7"
+	}
+}
+
+468800 = {
+	name = "Stjepan"
+	dynasty = 34
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "bosnian"
+	trait = education_intrigue_2
+	father = 468810
+	mother = 34120
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3308.1.1 = {
+		add_spouse = 471538
+	}
+	3355.1.1 = {
+		death = "3355.1.1"
+	}
+}
+
+468801 = {
+	name = "Katarina"
+	female = yes
+	dynasty = 34
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "bosnian"
+	father = 468800
+	mother = 471538
+	3338.1.1 = {
+		birth = "3338.1.1"
+	}
+	3398.1.1 = {
+		death = "3398.1.1"
+	}
+}
+
+468805 = {
+	name = "Vladislav"
+	dynasty = 34
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "bosnian"
+	trait = lustful
+	trait = education_martial_2
+	father = 468810
+	mother = 34120
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3339.1.1 = {
+		add_spouse = 470010
+	}
+	3355.1.1 = {
+		death = "3355.1.1"
+	}
+}
+
+468806 = {
+	name = "Katarina"
+	female = yes
+	dynasty = 34
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "bosnian"
+	trait = education_intrigue_2
+	father = 468810
+	mother = 34120
+	3296.1.1 = {
+		birth = "3296.1.1"
+	}
+	3357.1.1 = {
+		death = "3357.1.1"
+	}
+}
+
+468807 = {
+	name = "Marija"
+	female = yes
+	dynasty = 34
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "bosnian"
+	trait = education_stewardship_3
+	father = 468810
+	mother = 34120
+	3310.1.1 = {
+		birth = "3310.1.1"
+	}
+	3360.1.1 = {
+		death = "3360.1.1"
+	}
+}
+
+468810 = {
+	name = "Stjepan"
+	dynasty = 34
+	martial = 6
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "bosnian"
+	trait = generous
+	trait = education_intrigue_1
+	father = 34148
+	3244.1.1 = {
+		birth = "3244.1.1"
+	}
+	3252.1.1 = {
+		religion = "bosnian_church"
+	}
+	3291.1.1 = {
+		religion = "catholic"
+	}
+	3291.1.1 = {
+		add_spouse = 34120
+	}
+	3316.1.13 = {
+		death = "3316.1.13"
+	}
+}
+
+34145 = {
+	name = "Ninoslav"
+	dynasty = 183
+	religion = "catholic"
+	culture = "bosnian"
+	father = 218801
+	3207.1.1 = {
+		birth = "3207.1.1"
+	}
+	3234.1.1 = {
+		religion = "bosnian_church"
+	}
+	3251.3.1 = {
+		death = "3251.3.1"
+	}
+}
+
+34146 = {
+	name = "Radonja"
+	dynasty = 183
+	religion = "catholic"
+	culture = "bosnian"
+	father = 218801
+	3205.1.1 = {
+		birth = "3205.1.1"
+	}
+	3251.1.1 = {
+		death = "3251.1.1"
+	}
+}
+
+34147 = {
+	name = "Ugrin"
+	dynasty = 183
+	religion = "catholic"
+	culture = "bosnian"
+	father = 218801
+	3210.1.1 = {
+		birth = "3210.1.1"
+	}
+	3282.1.1 = {
+		death = "3282.1.1"
+	}
+}
+
+218800 = {
+	name = "Kulin"
+	dynasty = 183
+	martial = 6
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "bosnian"
+	trait = lustful
+	trait = humble
+	trait = brave
+	trait = education_martial_3
+	3155.1.1 = {
+		birth = "3155.1.1"
+	}
+	3206.1.1 = {
+		death = "3206.1.1"
+	}
+}
+
+218801 = {
+	name = "Stjepan"
+	dynasty = 183
+	martial = 8
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "bosnian"
+	trait = generous
+	trait = education_martial_2
+	father = 218800
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3234.1.1 = {
+		death = "3234.1.1"
+	}
+}
+
+#260476 = {
+	#name = "Stjepan"
+	#dynasty = 18006
+	#religion = "bosnian_church"
+	#culture = "bosnian"
+	#3222.1.1 = {
+		#birth = "3222.1.1"
+	#}
+	#3301.1.1 = {
+		#death = "3301.1.1"
+	#}
+#}
+
+#260477 = {
+	#name = "Hrvatin"
+	#dynasty = 18006
+	#religion = "bosnian_church"
+	#culture = "bosnian"
+	#father = 260476	
+	#3254.1.1 = {
+		#birth = "3254.1.1"
+	#}
+	#3314.5.1 = {
+		#death = "3314.5.1"
+	#}
+#}
+
+#260478 = {
+	#name = "Vukoslav"
+	#dynasty = 18006
+	#religion = "bosnian_church"
+	#culture = "bosnian"
+	#father = 260477
+	#3284.1.1 = {
+		#birth = "3284.1.1"
+	#}
+#}
+
+#260479 = {
+	#name = "Pavao"
+	#dynasty = 18006
+	#religion = "bosnian_church"
+	#culture = "bosnian"
+	#father = 260477
+	#3289.1.1 = {
+		#birth = "3289.1.1"
+	#}
+#}
+
+#260480 = {
+	#name = "Vukac"
+	#dynasty = 18006
+	#religion = "bosnian_church"
+	#culture = "bosnian"
+	#father = 260477
+	#3312.1.1 = {
+		#birth = "3294.1.1"
+	#}
+#}
+
+#260647 = {
+	#name = "Matej"
+	#dynasty = 1062287
+	#religion = orthodox
+	#culture = bosnian
+	#2917.1.1 = {
+		#birth = yes
+	#}
+	#2959.1.1 = {
+		#death = yes
+	#}
+#}

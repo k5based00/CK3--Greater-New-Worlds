@@ -1,0 +1,4901 @@
+﻿10041 = {
+	name = "Oanez"
+	female = yes
+	dynasty_house = house_cornouaille
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = gluttonous
+	trait = lustful
+	trait = education_intrigue_2
+	father = 10042
+	mother = 10043
+	3012.1.2 = {
+		birth = "3012.1.2"
+	}
+	3057.1.2 = {
+		death = "3057.1.2"
+	}
+}
+
+10042 = {
+	name = "Alan"
+	# AKA: Alan 'Caignart'
+	dynasty_house = house_cornouaille
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = education_martial_1
+	father = 159678
+	2994.1.2 = {
+		birth = "2994.1.2"
+	}
+	3028.1.2 = {
+		add_spouse = 10043
+	}
+	3060.1.2 = {
+		death = "3060.1.2"
+	}
+}
+
+10043 = {
+	name = "Judhael"
+	# AKA: Judith
+	female = yes
+	dynasty_house = house_cornouaille
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = education_diplomacy_3
+	father = 10056
+	mother = 1357
+	3000.1.1 = {
+		birth = yes
+	}
+	3065.1.1 = {
+		death = yes
+	}
+}
+
+10044 = {
+	name = "Alan"
+	# AKA: Alan
+	martial = 8
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	trait = education_stewardship_2
+	father = 348
+	3059.1.2 = {
+		birth = "3059.1.2"
+	}
+	3109.1.2 = {
+		death = "3109.1.2"
+	}
+}
+
+10045 = {
+	name = "Jafrez"
+	# AKA: Goffroi 'Grenonat'
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	trait = education_intrigue_2
+	father = 344
+	3027.1.2 = {
+		birth = "3027.1.2"
+	}
+	3086.10.25 = {
+		death = "3086.10.25"
+	}
+}
+
+10047 = {
+	name = "Alan" #Alan Niger
+	# AKA: Alan the Black
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	trait = greedy
+	trait = education_martial_2
+	trait = wrathful
+	father = 346 #Éon I de Penthièvre
+	#a mistress or mother = 10041
+	3046.1.1 = {
+		birth = "3046.1.1"
+	}
+	3095.1.1 = {
+		death = "3095.1.1"
+	}
+}
+
+10048 = {
+	name = "Derrien" #Lord of the Roche-Derrien
+	religion = "catholic"
+	culture = "breton"
+	trait = temperate
+	trait = education_martial_2
+	trait = bastard
+	father = 346 #Éon I de Penthièvre
+	#a mistress or mother = 10041
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+10051 = {
+	name = "Adelindis"
+	# AKA: Adelendis
+	female = yes
+	dynasty_house = house_cornouaille
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "breton"
+	trait = calm
+	trait = generous
+	trait = education_stewardship_1
+	father = 10042
+	mother = 10043
+	3037.1.2 = {
+		birth = "3037.1.2"
+	}
+	3087.1.2 = {
+		death = "3087.1.2"
+	}
+}
+
+10053 = {
+	name = "GuE_rech"
+	# AKA: Guerech
+	dynasty_house = house_cornouaille
+	martial = 8
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "breton"
+	trait = temperate
+	trait = arbitrary
+	trait = education_learning_2
+	father = 10042
+	mother = 10043
+	3033.1.2 = {
+		birth = "3033.1.2"
+	}
+	3081.1.2 = {
+		death = "3081.1.2"
+	}
+}
+
+10054 = {
+	name = "Bernez"
+	# AKA: Benead
+	dynasty_house = house_cornouaille
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "breton"
+	trait = lisping
+	trait = just
+	trait = education_learning_2
+	father = 10042
+	mother = 10043
+	3042.1.2 = {
+		birth = "3042.1.2"
+	}
+	3117.1.2 = {
+		death = "3117.1.2"
+	}
+}
+
+10055 = {
+	name = "Hodierne"
+	female = yes
+	dynasty_house = house_cornouaille
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "breton"
+	trait = humble
+	trait = education_learning_2
+	father = 10042
+	mother = 10043
+	3027.1.2 = {
+		birth = "3027.1.2"
+	}
+	3077.1.2 = {
+		death = "3077.1.2"
+	}
+}
+
+10056 = {
+	name = "Judikael"
+	# AKA: Judikael
+	dynasty_house = house_nantes
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = education_martial_2
+	father = 50004
+	2962.1.1 = {
+		birth = yes
+	}
+	2991.1.1 = {
+		add_spouse = 1357
+	}
+	3006.1.1 = {
+		death = yes
+	}
+}
+
+10057 = {
+	name = "Budic"
+	dynasty_house = house_nantes
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = humble
+	trait = education_martial_2
+	father = 10056
+	mother = 1357
+	2994.1.1 = {
+		birth = yes
+	}
+	3040.1.1 = {
+		death = yes
+	}
+}
+
+10058 = {
+	name = "Guihomarch"
+	# AKA: Guiomarc'h
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 159679
+	2992.1.1 = {
+		birth = "2992.1.1"
+	}
+	3033.1.1 = {
+		death = "3033.1.1"
+	}
+}
+
+10059 = {
+	name = "Morvan"
+	# AKA: Alan or Alan
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 91213 #common father with Morvan
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3087.1.1 = {
+		death = "3087.1.1"
+	}
+}
+
+10060 = {
+	name = "Guimarc_h"
+	# AKA: Guiomarc'h
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 91244
+	3058.1.1 = {
+		birth = "3058.1.1"
+	}
+	3105.1.1 = {
+		death = "3105.1.1"
+	}
+}
+
+178 = {
+	name = "HoE_l"
+	# AKA: Hoel
+	dynasty_house = house_cornouaille
+	martial = 8
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "breton"
+	trait = education_diplomacy_3
+	father = 10042
+	mother = 10043
+	3032.1.2 = {
+		birth = "3032.1.2"
+	}
+	3060.1.2 = {
+		add_spouse = 347
+	}
+	3086.4.13 = {
+		death = "3086.4.13"
+	}
+}
+
+180 = {
+	name = "Alan"
+	# AKA: Alan 'Fergant'
+	dynasty_house = house_cornouaille
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "breton"
+	father = 178
+	mother = 347
+	3062.1.2 = {
+		birth = "3062.1.2"
+	}
+	3121.10.13 = {
+		death = yes
+	}
+}
+
+144155 = {
+	name = "Jafrez"
+	dynasty = 312
+	religion = "catholic"
+	culture = "breton"
+	father = 40909
+	3069.1.1 = {
+		birth = "3069.1.1"
+	}
+	3144.1.1 = {
+		death = "3144.1.1"
+	}
+}
+
+144156 = {
+	name = "Alan"
+	dynasty = 312
+	religion = "catholic"
+	culture = "breton"
+	father = 40909
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	3130.1.1 = {
+		death = "3130.1.1"
+	}
+}
+
+
+205800 = {
+	name = "Magalie"
+	female = yes
+	dynasty = 312
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "breton"
+	trait = education_intrigue_2
+	father = 205802
+	mother = 205750
+	3167.1.10 = {
+		birth = "3167.1.10"
+	}
+	3217.1.10 = {
+		death = "3217.1.10"
+	}
+}
+
+205801 = {
+	name = "Marc_harit"
+	female = yes
+	dynasty = 312
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "breton"
+	trait = education_learning_2
+	father = 205802
+	mother = 205750
+	3167.1.10 = {
+		birth = "3167.1.10"
+	}
+	3217.1.10 = {
+		death = "3217.1.10"
+	}
+}
+
+205802 = {
+	name = "Alan"
+	dynasty = 312
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = chaste
+	trait = wrathful
+	trait = education_martial_2
+	father = 205803
+	mother = 205804
+	3137.1.2 = {
+		birth = "3137.1.2"
+	}
+	3166.1.2 = {
+		add_spouse = 205750
+	}
+	3187.1.2 = {
+		death = "3187.1.2"
+	}
+}
+
+205803 = {
+	name = "Alan"
+	dynasty = 312
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "breton"
+	trait = calm
+	trait = arrogant
+	trait = education_martial_3
+	father = 144156
+	3112.1.2 = {
+		birth = "3112.1.2"
+	}
+	3170.1.25 = {
+		death = "3170.1.25"
+	}
+}
+
+205804 = {
+	name = "Villana"
+	female = yes
+	dynasty = 313
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "breton"
+	trait = education_learning_3
+	3107.1.2 = {
+		birth = "3107.1.2"
+	}
+	3171.1.2 = {
+		death = "3171.1.2"
+	}
+}
+
+1355 = {
+	name = "Gisela" # Hypothetical, fantasy name. Married http://en.wikipedia.org/wiki/Hugh_III_of_Maine
+	female = yes
+	dynasty_house = house_rennes
+	religion = catholic
+	culture = breton
+	father = 340
+	mother = 379
+	2982.1.1 = {
+		birth = yes
+	}
+	3040.1.1 = {
+		death = yes
+	}
+}
+
+343 = {
+	name = "Judhael" # http://en.wikipedia.org/wiki/Judith_of_Brittany
+	female = yes
+	dynasty_house = house_rennes
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = education_intrigue_1
+	father = 340
+	mother = 379
+	2984.1.1 = {
+		birth = yes
+	}
+	3019.1.2 = {
+		death = yes
+	}
+}
+
+344 = {
+	name = "Alan"
+	# AKA: Alan
+	dynasty_house = house_rennes
+	martial = 5
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "breton"
+	trait = hunchbacked
+	trait = education_learning_2
+	father = 342
+	mother = 257
+	2999.1.1 = {
+		birth = "2999.1.1"
+	}
+	3034.1.1 = {
+		add_spouse = 393
+	}
+	3042.1.15 = {
+		death = "3042.1.15"
+	}
+}
+
+345 = {
+	name = "Adela"
+	female = yes
+	dynasty_house = house_rennes
+	martial = 7
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "breton"
+	trait = education_intrigue_1
+	father = 342
+	mother = 257
+	3000.1.2 = {
+		birth = "3000.1.2"
+	}
+	3050.1.2 = {
+		death = "3050.1.2"
+	}
+}
+
+346 = {
+	name = "Edouarzh"
+	dynasty_house = house_penthievre
+	religion = "catholic"
+	culture = "breton"
+	father = 342
+	mother = 257
+	3001.1.2 = {
+		birth = "3001.1.2"
+	}
+	3022.1.2 = {
+		add_spouse = 10041
+	}
+	3081.1.7 = {
+		death = "3081.1.7"
+	}
+}
+
+347 = {
+	name = "Hawiz"
+	female = yes
+	dynasty_house = house_rennes
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = wrathful
+	trait = education_intrigue_2
+	father = 344
+	mother = 393
+	3035.1.2 = {
+		birth = "3035.1.2"
+	}
+	3074.1.2 = {
+		death = "3074.1.2"
+	}
+}
+
+350 = {
+	name = "Jafrez" #Jafrez I Boterel
+	# AKA: Jafrez 'Boterel'
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 346 #Éon I de Penthièvre
+	mother = 10041 #Oanez de Cornouaille
+	3027.1.1 = {
+		birth = "3027.1.1"
+	}
+	3095.4.24 = {
+		death = "3095.4.24"
+	}
+}
+
+354 = {
+	name = "Briac"
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	father = 346
+	#a mistress
+	3026.1.2 = {
+		birth = "3026.1.2"
+	}
+	3086.1.2 = {
+		death = "3086.1.2"
+	}
+}
+
+356 = {
+	name = "Alan"
+	# AKA: Alan 'Rufus'
+	dynasty_house = house_penthievre
+	religion = "catholic"
+	culture = "breton"
+	father = 346
+	mother = 10041
+	3041.1.2 = {
+		birth = "3041.1.2"
+		give_nickname = nick_the_red
+	}
+	3068.1.1 = {
+		employer = 140
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+50001 = {
+	name = "Mazhe"
+	dynasty_house = house_cornouaille
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	father = 178
+	mother = 347
+	3066.1.2 = {
+		birth = "3066.1.2"
+	}
+	3105.1.2 = {
+		death = "3105.1.2"
+	}
+}
+
+50002 = {
+	name = "Alan"
+	# AKA: Alan 'Barbetorte'
+	dynasty_house = house_nantes
+	martial = 8
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = education_martial_2
+	father = 50007 # Malhuedoc, count of Poher
+	mother = 50006 # Hodierne
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	2954.1.1 = {
+		death = "2954.1.1"
+	}
+}
+
+50003 = {
+	name = "Drogon"
+	dynasty_house = house_nantes
+	martial = 4
+	diplomacy = 6
+	intrigue = 2
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	father = 50002
+	2952.1.2 = {
+		birth = "2952.1.2"
+	}
+	2960.1.2 = {
+		death = "2960.1.2"
+	}
+}
+
+50004 = {
+	name = "HoE_l" # http://en.wikipedia.org/wiki/Ho%C3%ABl_I,_Duke_of_Brittany
+	# AKA: Hoel
+	dynasty_house = house_nantes
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = legitimized_bastard
+	trait = education_martial_2
+	father = 50002
+	2932.1.1 = {
+		birth = yes
+	}
+	2983.1.1 = {
+		death = yes
+	}
+}
+
+50005 = {
+	name = "GuE_rech"
+	# AKA: Guerech
+	dynasty_house = house_nantes
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	trait = education_learning_2
+	father = 50002
+	2942.1.2 = {
+		birth = yes
+	}
+	2990.1.1 = {
+		death = yes
+	}
+}
+
+303400 = {
+	name = "Alain"	#Alan III, duke of Brittany
+	dynasty_house = house_nantes
+	religion = catholic
+	culture = breton
+	father = 50005
+	2984.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+
+91159 = {
+	name = "Konan" #Konan III le Gros, duke of Britanny
+	dynasty_house = house_cornouaille #House of Cornouaille
+	religion = "catholic"
+	culture = "breton"
+	trait = gluttonous
+	father = 180 #Alan IV de Bretagne
+	mother = 127016 #Ermengarde d'Anjou
+	3097.1.1 = {
+		birth = "3097.1.1"
+	}
+	3112.1.1 = { #before 1113
+		add_spouse = 31399 #Maud Fitzroy, bastard of Harry I Beauclerc
+	}
+	3114.1.1 = {
+		give_nickname = nick_the_fat
+	}
+	3150.9.17 = {
+		death = "3150.9.17"
+	}
+}
+
+91161 = {
+	name = "Jafrez" #Jafrez II de Penthièvre
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205744 #Stefen I de Penthièvre
+	mother = 205745 #Hawiz de Guingamp
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	#Hawise, d. of Jean de Dol
+	3150.1.1 = {
+		death = "3150.1.1"
+	}
+}
+
+91162 = {
+	name = "Rivallon" #Rivallon de Penthièvre
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91161 #Jafrez II de Penthièvre
+	#Hawise, d. of Jean de Dol
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	#Hawise, d. of Jean de Dol
+	3157.1.1 = {
+		death = "3157.1.1" #after 1152
+	}
+}
+
+91163 = {
+	name = "Stefen" #Stefen II de Penthièvre
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91161 #Jafrez II de Penthièvre
+	#Hawise, d. of Jean de Dol
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3166.1.1 = {
+		death = "3166.1.1"
+	}
+}
+
+91164 = {
+	name = "Jafrez" #Jafrez III de Penthièvre
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91162 #Rivallon de Penthièvre
+	#Hawise, d. of Jean de Dol
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3211.1.1 = {
+		death = "3211.1.1"
+	}
+}
+
+91165 = {
+	name = "Herri" #Henry II d'Avaugour
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205742 #Alan I de Penthièvre
+	#Pétronille de Beaumont-au-Maine
+	3206.1.5 = {
+		birth = "3206.1.5"
+	}
+	3283.10.6 = {
+		death = "3283.10.6"
+	}
+}
+
+91167 = {
+	name = "Mazhe" #Mathias de Nantes
+	dynasty_house = house_nantes #House of Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 10057 #Budic
+	3010.1.1 = {
+		birth = "3010.1.1"
+	}
+	3052.1.1 = {
+		death = "3052.1.1"
+	}
+}
+
+91168 = {
+	name = "HoE_l" #Hoël III de Bretagne
+	dynasty_house = house_cornouaille #House of Cornouaille
+	religion = "catholic"
+	culture = "breton"
+	father = 91159 #Konan III le Gros, duke of Britanny
+	mother = 31399 #Maud Fitzroy, bastard of Harry I Beauclerc
+	3115.1.1 = {
+		birth = "3115.1.1"
+	}
+	3150.9.17 = {
+		trait = bastard
+		add_pressed_claim = title:d_brittany
+	} #disinherited by his father
+	3158.1.1 = {
+		death = "3158.1.1"
+	}
+}
+
+91169 = {
+	name = "Alan" #Alan II d'Avaugour
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91165 #Harry II d'Avaugour
+	#Marguerite de Mayenne
+	3226.1.1 = {
+		birth = "3226.1.1"
+	}
+	#Clémence de Beaufort 1246
+	3272.1.1 = {
+		death = "3272.1.1" #after 1268
+	}
+}
+
+205740 = {
+	name = "Konstanza" #Constance, duchess of Brittany
+	female = yes
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	trait = gluttonous
+	trait = education_learning_3
+	father = 205741 #Konan IV le Petit
+	mother = 203510 #Marguerite de Huntinton
+	3163.6.12 = {
+		birth = "3163.6.12"
+	}
+	3203.9.5 = {
+		death = "3203.9.5"
+	}
+}
+
+205741 = {
+	name = "Konan" #Konan IV le Petit
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	trait = dwarf
+	father = 205751 #Alan de Penthièvre
+	mother = 205825 #Berthe de Bretagne
+	3140.1.1 = {
+		birth = "3140.1.1"
+	}
+	3162.1.1 = {
+		add_spouse = 203510 #Marguerite de Huntinton
+	}
+	3173.2.21 = {
+		remove_spouse = 203510 #Marguerite de Huntinton
+		death = "3173.2.21"
+	}
+}
+
+205744 = {
+	name = "Stefen"
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 346 #Eudes de Penthièvre
+	mother = 10041 #Oanez de Cornouaille
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3082.1.1 = {
+		add_spouse = 205745 #Hawiz de Guingamp
+	}
+	3138.4.13 = {
+		death = "3138.4.13"
+	}
+}
+
+205750 = {
+	name = "Konstanza" #Constance de Bretagne
+	female = yes
+	dynasty_house = house_penthievre #House of Penthièvre
+	father = 205751 #Alan le Noir
+	mother = 205825 #Berthe de Bretagne
+	religion = "catholic"
+	culture = "breton"
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	#spouse of Alan III de Rohan
+	3186.1.19 = {
+		death = "3186.1.19"
+	}
+}
+
+205751 = {
+	name = "Alan" #de Bretagne
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205744 #Stefen I de Penthièvre
+	mother = 205745 #Hawiz de Guingamp
+	3097.1.1 = {
+		birth = "3097.1.1"
+	}
+	3140.1.1 = {
+		add_spouse = 205825 #Bertha de Bretagne
+	}
+	3148.1.1 = {
+		death = "3148.1.1"
+	}
+}
+
+
+40907 = {
+	name = "GuE_thenoc"
+	dynasty = 312
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "breton"
+	trait = education_martial_4
+	father = 91255
+	2972.1.2 = {
+		birth = "2972.1.2"
+	}
+	3024.1.2 = {
+		death = "3024.1.2"
+	}
+}
+
+40908 = {
+	name = "Iocilin"
+	dynasty = 312
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "breton"
+	trait = greedy
+	trait = just
+	trait = education_diplomacy_3
+	father = 40907
+	3012.1.2 = {
+		birth = "3012.1.2"
+	}
+	3076.1.2 = {
+		death = "3076.1.2"
+	}
+}
+
+40909 = {
+	name = "Eozen"
+	dynasty = 312
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = gluttonous
+	trait = arrogant
+	trait = education_intrigue_2
+	father = 40908
+	3047.1.2 = {
+		birth = "3047.1.2"
+	}
+	3097.1.2 = {
+		death = "3097.1.2"
+	}
+}
+
+40910 = {
+	name = "Menguy"
+	dynasty = 312
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "breton"
+	trait = gluttonous
+	trait = lazy
+	trait = education_learning_1
+	father = 40908
+	3049.1.2 = {
+		birth = "3049.1.2"
+	}
+	3099.1.2 = {
+		death = "3099.1.2"
+	}
+}
+
+455580 = {
+	name = "Janed" #Jeanne d'Avaugour
+	female = yes
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91258 #Harry IV d'Avaugour
+	#Jeanne d'Harcourt
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	#Guy de Bretagne, compte de Penthièvre (1318)
+	3329.8.30 = {
+		death = "3329.8.30"
+	}
+}
+
+455581 = {
+	name = "Herri" #I assume he is Henry III d'Avaugour
+	dynasty_house = house_penthievre #House of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91169 #Alan II d'Avaugour
+	#Clémence de Beaufort, lady of Dinan
+	3249.1.1 = {
+		birth = "3249.1.1"
+	}
+	#Marie de Brienne in 1270
+	3303.1.1 = {
+		death = "3303.1.1"
+	}
+}
+
+205825 = {
+	name = "Berthildis" #Bertha, duchess of Britanny
+	female = yes
+	dynasty_house = house_cornouaille #House of Cornouaille
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	learning = 5
+	religion = "catholic"
+	culture = "breton"
+	trait = calm
+	trait = brave
+	trait = education_stewardship_2
+	father = 91159 #Konan III le Gros, duke of Britanny
+	mother = 31399 #Maude d'Angleterre
+	3116.1.1 = {
+		birth = "3116.1.1"
+	}
+	#Alan de Penthièvre (3140.1.1)
+	3159.1.17 = {
+		death = "3159.1.17"
+	}
+}
+
+5650 = {
+	name = "Ralf"
+	# AKA: Radulf 'Stalre'
+	dynasty = 559
+	martial = 4
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = craven
+	trait = education_martial_2
+	3013.1.1 = {
+		birth = "3013.1.1"
+	}
+	3070.1.1 = {
+		death = "3070.1.1"
+	}
+}
+
+5652 = {
+	name = "Ralf"
+	# AKA Radulf 'de Guader'
+	dynasty = 559
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "breton"
+	trait = deceitful
+	trait = just
+	trait = education_martial_3
+	father = 5650
+	3042.1.2 = {
+		birth = "3042.1.2"
+	}
+	3068.1.1 = {
+		employer = 140
+	}
+	3098.1.2 = {
+		death = "3098.1.2"
+	}
+}
+
+91213 = {
+	name = "Hamon"
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 159679
+	2992.1.1 = {
+		birth = "2992.1.1"
+	}
+	3043.1.1 = {
+		death = "3043.1.1"
+	}
+}
+
+91214 = {
+	name = "Edouarzh" #Ehuarn
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 10059 #Morvan, viscount of Léon
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3072.1.1 = {
+		death = "3072.1.1" #after 1066
+	}
+}
+
+91215 = {
+	name = "Huiarnviu" #Huiarnviu II
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 10060 #Guimarc'h II
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3170.1.1 = {
+		death = "3170.1.1"
+	}
+}
+
+91216 = {
+	name = "Hamon" #Hamon
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 91215 #Huiarnviu II
+	3133.1.1 = {
+		birth = "3133.1.1"
+	}
+	3173.1.25 = {
+		death = "3173.1.25"
+	}
+}
+
+91217 = {
+	name = "Huiarnviu" #Huiarnviu
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	father = 10060 #Guimarc'h II
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1" #after 3130.3.3
+	}
+}
+
+91218 = {
+	name = "Guimarc_h" #Guimarc'h de Léon
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 205787 #Huiarnviu
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3237.1.1 = {
+		death = "3237.1.1" #after 3233.5.1
+	}
+}
+
+91219 = {
+	name = "Huiarnviu" #Huiarnviu III de Léon
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 91218 #Guimarc'h de Léon
+	3222.1.1 = {
+		birth = "3222.1.1"
+	}
+	#Marguerite
+	3267.1.1 = {
+		death = "3267.1.1"
+	}
+}
+91220 = {
+	name = "Huiarnviu" #Huiarnviu IV de Léon
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 91219 #Huiarnviu III de Léon
+	#Marguerite
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3302.1.1 = {
+		death = "3302.1.1" #after 3256.6.7
+	}
+}
+91221 = {
+	name = "Ame" #Ame de Léon
+	dynasty_house = house_leon #La Marck
+	female = yes
+	religion = "catholic"
+	culture = "breton"
+	father = 91220 #Huiarnviu IV de Léon
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	#Prigent de Coëtmen, viscount of Tonquedec
+	3302.1.1 = {
+		death = "3302.1.1" #after 3256.6.7
+	}
+}
+91222 = {
+	name = "Ame" #Ame de Léon
+	dynasty_house = house_leon #La Marck
+	female = yes
+	religion = "catholic"
+	culture = "breton"
+	father = 91219 #Huiarnviu III de Léon
+	#Marguerite
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	#Roland de Dinan
+	3282.1.1 = {
+		death = "3282.1.1" #after 3278.10.1
+	}
+}
+
+91223 = {
+	name = "Huiarnviu" #Huiarnviu de Léon
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 91220 #Huiarnviu IV de Léon
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	3327.1.1 = {
+		death = "3327.1.1" #after 3226.1.1
+	}
+}
+91224 = {
+	name = "Huiarnviu" #Huiarnviu de Léon
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 91223 #Huiarnviu IV de Léon
+	3287.1.1 = {
+		birth = "3287.1.1"
+	}
+	#Marguerite, d. of Gerard Chabot, lord of Rays & of Machecoul
+	3367.1.1 = {
+		death = "3367.1.1"
+	}
+}
+
+91244 = {
+	name = "Alan"
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 10058 #Guimarc'h I
+	3012.1.1 = {
+		birth = "3012.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+91245 = {
+	name = "Alfred"
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 10058 #Guimarc'h I
+	3017.1.1 = {
+		birth = "3017.1.1"
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+91246 = {
+	name = "Iudicael" #
+	dynasty_house = house_rennes #Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 159696
+	2862.1.1 = {
+		birth = "2862.1.1"
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+
+91247 = {
+	name = "Berenger" #Berenger, count of Bayeux and of Rennes
+	dynasty_house = house_rennes #Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 91246 #his father, called ingame Judikael
+	2891.1.1 = {
+		birth = "2891.1.1"
+	}
+	#spouse the daughter of Gurvand of Britanny
+	2932.1.1 = {
+		death = "2932.1.1" #before 931
+	}
+}
+
+91248 = {
+	name = "Judikael" #Judikael/Juhael
+	dynasty_house = house_rennes #Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 91247 #Berenger
+	#d. of Gurvand of Britanny
+	2905.1.1 = {
+		birth = "2905.1.1"
+	}
+	2960.1.1 = {
+		death = "2960.1.1"
+	}
+}
+	
+91249 = {
+	name = "Meen"
+	dynasty_house = house_rennes #Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 91248 #Judikael
+	2927.1.1 = {
+		birth = "2927.1.1"
+	}
+	3022.1.1 = {
+		death = "3022.1.1"
+	}
+}
+
+91250 = {
+	name = "Enoguen"
+	female = yes
+	dynasty_house = house_rennes #Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 91248 #Judikael
+	2931.1.1 = {
+		birth = "2931.1.1"
+	}
+	#Triscan de Vitré
+	3002.1.1 = {
+		death = "3002.1.1"
+	}
+}
+
+91251 = {
+	name = "Judikael"
+	dynasty_house = house_rennes #Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 340 #Konan le Tort
+	mother = 379 #Ermengarde d'Anjou
+	2987.1.1 = {
+		birth = "2987.1.1"
+	}
+	3039.1.1 = {
+		death = "3039.1.1"
+	}
+}
+
+91252 = {
+	name = "Catuallon"
+	dynasty_house = house_rennes #Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 340 #Konan le Tort
+	mother = 379 #Ermengarde d'Anjou
+	2988.1.1 = {
+		birth = "2988.1.1"
+	}
+	3052.1.15 = {
+		death = "3052.1.15" #this day or after
+	}
+}
+
+91253 = {
+	name = "Urvod" #Hurnod/Urvod de Bretagne
+	dynasty_house = house_rennes #Rennes	
+	religion = "catholic"
+	culture = "breton"	
+	father = 340 #Konan le Tort
+	mother = 379 #Ermengarde d'Anjou	
+	2989.1.1 = {
+		birth = "2989.1.1"
+	}
+	3032.1.1 = {
+		death = "3032.1.1" #after 1026
+	}
+}
+
+91254 = {
+	name = "Alan"
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	father = 340 #Konan le Tort
+	2992.1.1 = {
+		birth = "2992.1.1"
+	}
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+}
+
+91255 = {
+	name = "Iudicael" #aka Glanderius
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	father = 340 #Conan le Tort
+	2953.1.1 = {
+		birth = "2953.1.1"
+	}
+	3002.1.1 = {
+		death = "3002.1.1"
+	}
+}
+
+91256 = {
+	name = "Alan"
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	father = 340 #Konan le Tort
+	2993.1.1 = {
+		birth = "2993.1.1"
+	}
+	3067.1.1 = {
+		death = "3067.1.1"
+	}
+}
+
+91257 = {
+	name = "Konan"
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	father = 340 #Konan le Tort
+	2994.1.1 = {
+		birth = "2994.1.1"
+	}
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+}
+
+91260 = {
+	name = "Evenus" #Evenus/Linzoël de Bretagne
+	dynasty_house = house_rennes #Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 342 #Jafrez I de Bretagne
+	mother = 257 #Havise de Normandie
+	2999.1.1 = {
+		birth = "2999.1.1"
+	}
+	3042.1.1 = {
+		death = "3042.1.1" #after 1037
+	}
+}
+
+91261 = {
+	name = "Gwilherm" #Guillaume de Bretagne
+	dynasty_house = house_penthievre#Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 346 #Eudes de Bretagne
+	mother = 10041 #Oanez de Cornouaille
+	3042.1.1 = {
+		birth = "3042.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+91262 = {
+	name = "Roparzh" #Robert de Bretagne
+	dynasty_house = house_penthievre#Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 346 #Eudes de Bretagne
+	mother = 10041 #Oanez de Cornouaille
+	3043.1.1 = {
+		birth = "3043.1.1"
+	}
+	3087.1.1 = {
+		death = "3087.1.1" #after 1083
+	}
+}
+
+91263 = {
+	name = "Richard" #Richard de Bretagne
+	dynasty_house = house_penthievre#Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 346 #Eudes de Bretagne
+	mother = 10041 #Oanez de Cornouaille
+	3044.1.1 = {
+		birth = "3044.1.1"
+	}
+	3107.1.1 = {
+		death = "3107.1.1"
+	}
+}
+
+91264 = {
+	name = "Bodin"
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	father = 346 #Eudes de Bretagne
+	3042.1.1 = {
+		birth = "3042.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+91265 = {
+	name = "Ribald"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	trait = legitimized_bastard
+	father = 346 #Eudes de Bretagne
+	3043.1.1 = {
+		birth = "3043.1.1"
+	}
+	3103.1.1 = {
+		death = "3103.1.1"
+	}
+}
+
+91266 = {
+	name = "Bardulf"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Ravensworth
+	religion = "catholic"
+	culture = "breton"
+	trait = legitimized_bastard
+	father = 346 #Eudes de Bretagne
+	3044.1.1 = {
+		birth = "3044.1.1"
+	}
+	3104.1.1 = {
+		death = "3104.1.1"
+	}
+}
+
+91267 = {
+	name = "Arnald"
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	father = 346 #Eudes de Bretagne
+	3045.1.1 = {
+		birth = "3045.1.1"
+	}
+	3105.1.1 = {
+		death = "3105.1.1"
+	}
+}
+
+91268 = {
+	name = "Elina" #bastard daughter
+	female = yes
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	father = 346 #Eudes de Bretagne
+	3046.1.1 = {
+		birth = "3046.1.1"
+	}
+	3106.1.1 = {
+		death = "3106.1.1"
+	}
+}
+
+91269 = {
+	name = "Konan"
+	dynasty_house = house_penthievre#Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 350 #Jafrez Boretel
+	#unknow mother
+	3047.1.1 = {
+		birth = "3047.1.1"
+	}
+	3100.2.9 = {
+		death = "3100.2.9"
+	}
+}
+
+91270 = {
+	name = "Acarias"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Ravensworth
+	religion = "catholic"
+	culture = "breton"
+	father = 91266 #Bardulf
+	3067.1.1 = {
+		birth = "3067.1.1"
+	}
+	3142.1.1 = {
+		death = "3142.1.1" #after 1130
+	}
+}
+
+91271 = {
+	name = "Scolland"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Ravensworth
+	religion = "catholic"
+	culture = "breton"
+	father = 91266 #Bardulf
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3147.1.1 = {
+		death = "3147.1.1" #after 1130
+	}
+}
+
+91272 = {
+	name = "Huiarnviuy"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Ravensworth
+	religion = "catholic"
+	culture = "breton"
+	father = 91270 #Acarias
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3152.1.1 = {
+		death = "3152.1.1"
+	}
+}
+
+91273 = {
+	name = "Walter"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Ravensworth
+	religion = "catholic"
+	culture = "breton"
+	father = 91270 #Acarias
+	3094.1.1 = {
+		birth = "3094.1.1"
+	}
+	3154.1.1 = {
+		death = "3154.1.1"
+	}
+}
+
+91274 = {
+	name = "Harscoit"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Ravensworth
+	religion = "catholic"
+	culture = "breton"
+	father = 91270 #Acarias
+	3097.1.1 = {
+		birth = "3097.1.1"
+	}
+	3157.1.1 = {
+		death = "3157.1.1"
+	}
+}
+
+91275 = {
+	name = "Herri"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Ravensworth
+	religion = "catholic"
+	culture = "breton"
+	father = 91270 #Acarias
+	3098.1.1 = {
+		birth = "3098.1.1"
+	}
+	3158.1.1 = {
+		death = "3158.1.1"
+	}
+}
+
+91276 = {
+	name = "Mathilde" #Mathilde de Penthièvre
+	female = yes
+	dynasty_house = house_penthievre#Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205744 #Stefen de Bretagne
+	mother = 205745 #Havise de Gingamp
+	3104.1.1 = {
+		birth = "3104.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+91277 = {
+	name = "Tiphaine" #Tiphaine de Penthièvre
+	female = yes
+	dynasty_house = house_penthievre#Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205744 #Stefen de Bretagne
+	mother = 205745 #Havise de Gingamp
+	3114.1.1 = {
+		birth = "3114.1.1"
+	}
+	3177.1.1 = {
+		death = "3177.1.1"
+	}
+}
+
+91278 = {
+	name = "Gonnor" #Gonnor de Penthièvre
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205744 #Stefen de Bretagne
+	mother = 205745 #Havise de Gingamp
+	3115.1.1 = {
+		birth = "3115.1.1"
+	}
+	3177.1.1 = {
+		death = "3177.1.1"
+	}
+}
+91279 = {
+	name = "Olive"
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205744 #Stefen de Bretagne
+	mother = 205745 #Havise de Gingamp
+	3115.1.1 = {
+		birth = "3115.1.1"
+	}
+	3177.1.1 = {
+		death = "3177.1.1"
+	}
+}
+
+91280 = {
+	name = "Stefen" #Stefen de Penthièvre
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91162 #Rivallon de Penthièvre
+	#? de Dol
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3166.1.1 = {
+		death = "3166.1.1"
+	}
+}
+91281 = {
+	name = "Elina" #Elina de Penthièvre
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91162 #Rivallon de Penthièvre
+	#? de Dol
+	3157.1.1 = {
+		birth = "3157.1.1"
+	}
+	3217.1.1 = {
+		death = "3217.1.1"
+	}
+}
+
+91282 = {
+	name = "Enoguen" #Enoguen de Penthièvre
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205751 #Alan le Noir
+	mother = 205825 #Berthe de Bretagne
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3189.1.1 = {
+		death = "3189.1.1"
+	}
+}
+
+91283 = {
+	name = "Roparzh" #Robert Brito
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	trait = bastard
+	father = 205751 #Alan le Noir
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3189.1.1 = {
+		death = "3189.1.1"
+	}
+}
+
+91284 = {
+	name = "Herri" #Harry de Penthièvre
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205743 #Harry de Bretagne
+	mother = 205760 #Mathilde de Vendôme
+	3154.1.1 = {
+		birth = "3154.1.1"
+	}
+	3154.12.1 = {
+		death = "3154.12.1"
+	}
+}
+
+91285 = {
+	name = "Stefen" #Stefen de Penthièvre
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205743 #Harry de Bretagne
+	mother = 205760 #Mathilde de Vendôme
+	3157.1.1 = {
+		birth = "3157.1.1"
+	}
+	3207.1.1 = {
+		death = "3207.1.1" #after 1202
+	}
+}
+
+91286 = {
+	name = "JuhaE_l"
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91165 #Harry
+	#Marguerite de Mayenne
+	3237.1.1 = {
+		birth = "3237.1.1"
+	}
+	3297.1.1 = {
+		death = "3297.1.1"
+	}
+}
+
+91287 = {
+	name = "Herri" #lord of Goello
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91165 #Harry
+	#Marguerite de Mayenne
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	#Phelipe de Rohan, d. of Alan V, vicompte de Rohan
+	3302.1.1 = {
+		death = "3302.1.1"
+	}
+}
+
+91288 = {
+	name = "Mari" #Marie de Penthièvre
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91165 #Harry
+	#Marguerite de Mayenne
+	3247.1.1 = {
+		birth = "3247.1.1"
+	}
+	3307.1.1 = {
+		death = "3307.1.1"
+	}
+}
+
+91289 = {
+	name = "Janed" #Jeanne d'Avalgor
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91165 #Harry
+	#Marguerite de Mayenne
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3312.1.1 = {
+		death = "3312.1.1"
+	}
+}
+
+91290 = {
+	name = "Jafrez" #Jafrez Borotel
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205742 #Alan, comte de Penthièvre
+	#Adélaïde
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	#Eustachie de Vitré, d. of André III de Vitré & Catherine de Thouars
+	3283.1.1 = {
+		death = "3283.1.1"
+	}
+}
+
+91291 = {
+	name = "Hawiz" #Haoys d'Avaugour
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91169 #Alan d'Avaugour
+	#Clémence de Dinan
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	#Olivier de Tinteniac
+	3312.1.1 = {
+		death = "3312.1.1"
+	}
+}
+
+91292 = {
+	name = "Konstanza"
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91169 #Alan d'Avaugour
+	#Clémence de Dinan
+	3257.1.1 = {
+		birth = "3257.1.1"
+	}
+	3317.10.29 = {
+		death = "3317.10.29"
+	}
+}
+
+91293 = {
+	name = "Yann" #Jean, bishop of Saint-Brieue
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	trait = education_learning_1
+	father = 455581 #Harry III d'Avaugour
+	#Marie de Beaumont-Brienne, d. of Louis of Brienne & Oanez of Beaumont.
+	3277.1.1 = {
+		birth = "3277.1.1"
+	}
+	3331.1.1 = {
+		death = "3331.1.1"
+	}
+}
+
+91294 = {
+	name = "Gwilherm"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 455581 #Harry III d'Avaugour
+	#Marie de Beaumont-Brienne, d. of Louis of Brienne & Oanez of Beaumont.
+	3278.1.1 = {
+		birth = "3278.1.1"
+	}
+	3292.1.1 = {
+		death = "3292.1.1"
+	}
+}
+91295 = {
+	name = "Blanche" #Blanche d'Avaugour
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 455581 #Harry III d'Avaugour
+	#Marie de Beaumont-Brienne, d. of Louis of Brienne & Oanez of Beaumont.
+	3279.1.1 = {
+		birth = "3279.1.1"
+	}
+	#Guillaume d'Harcourt, lord of Saussaye
+	3342.12.10 = {
+		death = "3342.12.10" #a 10th of december, after 1337
+	}
+}
+
+91296 = {
+	name = "Marc_harit" #Marguerite d'Avaugour
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 455581 #Harry III d'Avaugour
+	#Marie de Beaumont-Brienne, d. of Louis of Brienne & Oanez of Beaumont.
+	3280.1.1 = {
+		birth = "3280.1.1"
+	}
+	#Guillaume de Paynel, lord of Hambie (1296)
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+91258 = {
+	name = "Herri" #Harry IV d'Avaugour
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 455581 #Harry III d'Avaugour
+	#Marie de Beaumont-Brienne, d. of louis de Brienne & Oanez de Beaumont.
+	3276.1.1 = {
+		birth = "3276.1.1"
+	}
+	#Jeanne d'Harcourt, d. of Jean II d'Harcourt & Jeanne of Châtellerault
+	3333.1.1 = {
+		death = "3333.1.1"
+	}
+}
+
+91297 = {
+	name = "Isabelle"
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91258 #Harry IV d'Avaugour
+	#Marie de Beaumont-Brienne, d. of louis de Brienne & Oanez de Beaumont.
+	3296.1.1 = {
+		birth = "3296.1.1"
+	}
+	#Louis, viscount of Thouars (455930)
+	3332.5.3 = {
+		death = "3332.5.3"
+	}
+}
+
+91298 = {
+	name = "Marc_harit"
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91258 #Harry IV d'Avaugour
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	#Huiarnviu VII de Léon
+	#Jafrez de Vaulx
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+91299 = {
+	name = "Mari"
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91258 #Harry IV d'Avaugour
+	3298.1.1 = {
+		birth = "3298.1.1"
+	}
+	3347.4.11 = {
+		death = "3347.4.11"
+	}
+}
+
+91300 = {
+	name = "Alan" #Alan, vicomte de Tonquedec
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205747 #Geslin de Penthièvre
+	3177.1.1 = {
+		birth = "3177.1.1"
+	}
+	3257.1.1 = {
+		death = "3257.1.1" #after 1253
+	}
+}
+
+91301 = {
+	name = "Herri"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205747 #Geslin de Penthièvre
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3235.1.1 = {
+		death = "3235.1.1"
+	}
+}
+
+91302 = {
+	name = "HoE_l"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 205747 #Geslin de Penthièvre
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3242.1.1 = {
+		death = "3242.1.1" #after 1239
+	}
+}
+
+91303 = {
+	name = "Roland" #Roland de Tonquedec
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91300 #Alan, viscount of Tonquedec
+	#Constance de Vitré
+	3197.1.1 = {
+		birth = "3197.1.1"
+	}
+	3297.1.1 = {
+		death = "3297.1.1" #before 1300
+	}
+}
+
+91304 = {
+	name = "Prigent" #Prigent de Coëtmen
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91303 #Roland de Tonquedec
+	3222.1.1 = {
+		birth = "3222.1.1"
+	}
+	3312.1.1 = {
+		death = "3312.1.1" #after 1300
+	}
+}
+
+
+91306 = {
+	name = "Guy"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91304 #Prigent de Coëtmen
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3332.1.1 = {
+		death = "3332.1.1"
+	}
+}
+
+91307 = {
+	name = "Janed"
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre
+	religion = "catholic"
+	culture = "breton"
+	father = 91306 #Guy
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3322.1.1 = {
+		death = "3322.1.1"
+	}
+}
+
+91309 = {
+	name = "Ralph"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91265 #Ribald
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+91310 = {
+	name = "Huiarnviu" #Huiarnviu Taillebois
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91265 #Ribald
+	3064.1.1 = {
+		birth = "3064.1.1"
+	}
+	3124.1.1 = {
+		death = "3124.1.1"
+	}
+}
+
+91311 = {
+	name = "Raynaud" #Raynaud Taillebois
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91265 #Ribald
+	3067.1.1 = {
+		birth = "3067.1.1"
+	}
+	3127.1.1 = {
+		death = "3127.1.1"
+	}
+}
+
+91312 = {
+	name = "Gwilherm" #William Taillebois
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91265 #Ribald
+	3068.1.1 = {
+		birth = "3068.1.1"
+	}
+	3128.1.1 = {
+		death = "3128.1.1"
+	}
+}
+
+91313 = {
+	name = "Roparzh"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91309 #Ralph
+	3082.1.1 = {
+		birth = "3082.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+91314 = {
+	name = "Walran"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91313 #Robert
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3242.1.1 = {
+		death = "3242.1.1"
+	}
+}
+
+91315 = {
+	name = "Ralph"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91313 #Robert
+	3157.1.1 = {
+		birth = "3157.1.1"
+	}
+	3252.1.1 = {
+		death = "3252.1.1"
+	}
+}
+
+91316 = {
+	name = "Randulf"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91313 #Robert
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3253.1.1 = {
+		death = "3253.1.1"
+	}
+}
+
+91317 = {
+	name = "Ralph"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91316 #Randulf
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3260.3.31 = {
+		death = "3260.3.31"
+	}
+}
+
+91318 = {
+	name = "Berthildis"
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91316 #Randulf
+	3207.1.1 = {
+		birth = "3207.1.1"
+	}
+	3267.1.1 = {
+		death = "3267.1.1"
+	}
+}
+
+91319 = {
+	name = "Randulf"
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91316 #Randulf
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3272.1.1 = {
+		death = "3272.1.1"
+	}
+}
+
+91320 = {
+	name = "Mari"
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91317 #Ralph
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3322.1.1 = {
+		death = "3322.1.1"
+	}
+}
+
+91321 = {
+	name = "Janed"
+	female = yes
+	dynasty_house = house_penthievre #Rennes house of Penthièvre-Middleham
+	religion = "catholic"
+	culture = "breton"
+	father = 91317 #Ralph
+	3247.1.1 = {
+		birth = "3247.1.1"
+	}
+	3312.1.1 = {
+		death = "3312.1.1" #before the 1st of april, 1310
+	}
+}
+
+205780 = {
+	name = "Guimarc_h"
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 91215 #Huiarnviu II
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3169.1.1 = {
+		add_spouse = 205746
+	}
+	3181.1.9 = {
+		death = "3181.1.9"
+	}
+}
+
+
+205781 = {
+	name = "Guimarc_h"
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 205780 #Guimarc'h III
+	#mother = 205746 #Nobilis
+	3169.1.1 = {
+		birth = "3169.1.1"
+	}
+	3185.1.10 = {
+		add_spouse = 205800 #Marguilia
+	}
+	3220.3.14 = {
+		death = "3220.3.14"
+	}
+}
+
+205782 = {
+	name = "Huiarnviu"
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 205780 #Guimarc'h III
+	#mother = 205746 #Nobilis
+	3170.1.1 = {
+		birth = "3170.1.1"
+	}
+	3182.1.1 = {
+		add_spouse = 205801
+	}
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+205783 = {
+	name = "Azenor"
+	#AKA Eléonore or Léonore (?)
+	female = yes
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 205780 #Guimarc'h III
+	#mother = 205746 #Nobilis
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3218.1.1 = {
+		death = "3218.1.1"
+	}
+}
+
+205784 = { #who is he?
+	name = "Adam"
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 205780
+	mother = 205746
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3219.1.1 = {
+		death = "3219.1.1"
+	}
+}
+
+205785 = { #who is she?
+	name = "Ennougen"
+	female = yes
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 205780
+	#mother = 205746
+	3170.1.1 = {
+		birth = "3170.1.1"
+	}
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+#205786 = { #who is she?
+#	name = "Berthe"
+#	female = yes
+#	dynasty_house = house_leon #La Marck
+#	religion = "catholic"
+#	culture = "breton"
+#	father = 205780
+#	mother = 205746
+#	3189.1.1 = {
+#		birth = "3189.1.1"
+#	}
+#	3231.1.1 = {
+#		death = "3231.1.1"
+#	}
+#}
+
+205787 = {
+	name = "Huiarnviu"
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 205781
+	mother = 205800
+	3186.1.1 = {
+		birth = "3186.1.1"
+	}
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+205788 = {
+	name = "Azenor"
+	female = yes
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 205782
+	mother = 205801
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+
+205789 = {
+	name = "Huiarnviu"
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 205782
+	mother = 205801
+	3185.1.1 = {
+		birth = "3185.1.1"
+	}
+	3235.1.1 = {
+		death = "3235.1.1"
+	}
+}
+
+205790 = {
+	name = "Konstanza"
+	female = yes
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 205782
+	mother = 205801
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3237.1.1 = {
+		death = "3237.1.1"
+	}
+}
+
+205791 = {
+	name = "Emma"
+	female = yes
+	dynasty_house = house_leon #La Marck
+	religion = "catholic"
+	culture = "breton"
+	father = 205830
+	mother = 205785
+	3186.1.1 = {
+		birth = "3186.1.1"
+	}
+	3236.1.1 = {
+		death = "3236.1.1"
+	}
+}
+
+340 = {
+	name = "Conan" #Conan I le Tort
+	# AKA: Conan
+	dynasty_house = house_rennes #Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 91248 #Iudicael
+	#Gerberge, d. of.
+	2937.1.1 = {
+		birth = yes
+	}
+	2975.1.1 = {
+		add_spouse = 379
+	}
+	2994.6.27 = {
+		death = {
+			death_reason = death_battle
+			killer = 374 #Foulque III Nerra, Count of Anjou
+		}
+	}
+}
+
+342 = {
+	name = "Jafrez"
+	# AKA: Goffroy
+	dynasty_house = house_rennes #Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 340
+	mother = 379
+	2979.1.1 = {
+		birth = yes
+	}
+	2998.1.1 = {
+		add_spouse = 257
+	}
+	3022.1.1 = {
+		death = yes
+	}
+}
+
+348 = {
+	name = "Konan"
+	# AKA: Konan
+	dynasty_house = house_rennes #Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 344
+	mother = 393
+	3035.1.1 = {
+		birth = yes
+	}
+	3068.1.5 = {
+		add_pressed_claim = title:d_normandy
+	}
+	3068.12.11 = {
+		death = yes
+	}
+}
+
+50006 = {
+	name = "Hodierne"
+	female = yes
+	dynasty_house = house_vannes #Vannes
+	religion = "catholic"
+	culture = "breton"
+	father = 50008 # Alan I, the Great
+	
+	2881.1.1 = {
+		birth = "2881.1.1"
+	}
+	2942.1.1 = {
+		death = "2942.1.1"
+	}
+}
+
+50007 = {
+	name = "Malhuedoc"
+	dynasty_house = house_nantes #Nantes
+	religion = "catholic"
+	culture = "breton"
+	father = 50009
+	2872.1.1 = {
+		birth = "2872.1.1"
+	}
+	2897.1.1 = {
+		add_spouse = 50006
+	}
+	2933.1.1 = {
+		death = "2933.1.1"
+	}
+}
+
+50008 = {
+	name = "Alan"
+	dynasty_house = house_vannes #Vannes
+	religion = "catholic"
+	culture = "breton"
+	father = 50010
+	2857.1.1 = {
+		birth = "2857.1.1"
+	}
+	2879.1.1 = {
+		give_nickname = nick_the_great
+	}
+	2909.1.1 = {
+		death = "2909.1.1"
+	}
+}
+
+50009 = {
+	name = "Pascueten"
+	dynasty_house = house_vannes #Vannes
+	religion = "catholic"
+	culture = "breton"
+	father = 50010
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2879.1.1 = {
+		death = "2879.1.1"
+	}
+}
+
+50010 = {
+	name = "Ridoredh"
+	dynasty_house = house_vannes #Vannes
+	religion = "catholic"
+	culture = "breton"
+	
+	father = 159695
+	2834.1.1 = {
+		birth = "2834.1.1"
+	}
+	2879.1.1 = {
+		death = "2879.1.1"
+	}
+}
+
+50011 = {
+	name = "Pasquitan"
+	dynasty_house = house_vannes #Vannes
+	religion = "catholic"
+	culture = "breton"
+	father = 50008
+	2883.1.1 = {
+		birth = "2883.1.1"
+	}
+	2905.1.1 = {
+		death = "2905.1.1"
+	}
+}
+303403 = {
+	name = "Rudalt"
+	dynasty_house = house_vannes #Vannes
+	religion = "catholic"
+	culture = "breton"
+	father = 50008
+	2882.1.1 = {
+		birth = "2882.1.1"
+	}
+	2914.11.1 = {
+		death = yes
+	}
+}
+
+203041 = {
+	name = "Alan"
+	dynasty = 3134
+	religion = "catholic"
+	culture = "breton"
+	father = 180049
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	trait = education_martial_2
+	3072.1.1 = {
+		birth = yes
+	}
+	3104.1.1 = {
+		add_spouse = 180782
+	}
+	3116.1.1 = {
+		death = yes
+	}
+}
+
+161281 = {
+	name = "Cadoc"
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 161282
+	
+	3033.1.1 = {
+		birth = "3033.1.1"
+	}
+	3059.1.1 = {
+		add_spouse = 161283
+	}
+	3083.1.1 = {
+		death = "3083.1.1"
+	}
+}
+
+
+161282 = {
+	name = "Cador"
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 159741
+	
+	3012.1.1 = {
+		birth = "3012.1.1"
+	}
+	3057.1.1 = {
+		death = "3057.1.1"
+	}
+}
+
+
+
+161283 = {
+	name = "Marguarite"
+	female = yes
+	#dynasty = 0
+	religion = "catholic"
+	culture = "breton"
+	
+	3043.1.1 = {
+		birth = "3043.1.1"
+	}
+	3093.1.1 = {
+		death = "3093.1.1"
+	}
+}
+
+
+
+161284 = {
+	name = "Rioantdrec"
+	female = yes
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 161281
+	mother = 161283
+	3060.1.1 = {
+		birth = "3060.1.1"
+	}
+	
+	3110.1.1 = {
+		death = "3110.1.1"
+	}
+}
+
+
+
+
+161285 = {
+	name = "Enoguen"
+	female = yes
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 161281
+	mother = 161283
+	3061.1.1 = {
+		birth = "3061.1.1"
+	}
+	
+	3111.1.1 = {
+		death = "3111.1.1"
+	}
+}
+
+161286 = {
+	name = "Dumnarth"
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 161282
+	
+	3036.1.1 = {
+		birth = "3036.1.1"
+	}
+	3058.1.1 = {
+		add_spouse = 161287
+	}
+	3086.1.1 = {
+		death = "3086.1.1"
+	}
+}
+
+161287 = {
+	name = "Tanetbiu"
+	#dynasty = 0
+	female = yes
+	religion = "catholic"
+	culture = "breton"
+	
+	3042.1.1 = {
+		birth = "3042.1.1"
+	}
+	3097.1.1 = {
+		death = "3097.1.1"
+	}
+}
+
+161288 = {
+	name = "Conan"
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 161286
+	mother = 161287
+	3064.1.1 = {
+		birth = "3064.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+161289 = {
+	name = "Alan"
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 161286
+	mother = 161287
+	3065.1.1 = {
+		birth = "3065.1.1"
+	}
+	
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+161290 = {
+	name = "HoE_l"
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 161286
+	mother = 161287
+	3066.1.1 = {
+		birth = "3066.1.1"
+	}
+	
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+161291 = {
+	name = "Janed"
+	female = yes
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 161286
+	mother = 161287
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+161427 = {
+	name = "Harduin"
+	dynasty = 559
+	religion = "catholic"
+	culture = "breton"
+	father = 5650
+	3044.1.1 = {
+		birth = "3044.1.1"
+	}
+	3068.1.1 = {
+		employer = 140
+	}
+	3071.1.1 = {
+		death = "3071.1.1"
+	}
+}
+
+161428 = {
+	name = "Gwilherm"
+	dynasty = 559
+	religion = "catholic"
+	culture = "breton"
+	father = 5652
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+
+161429 = {
+	name = "Riwal"
+	dynasty = 559
+	religion = "catholic"
+	culture = "breton"
+	father = 5652
+	3074.1.1 = {
+		birth = "3074.1.1"
+	}
+	3127.1.1 = {
+		death = "3127.1.1"
+	}
+}
+
+161430 = {
+	name = "Alan"
+	dynasty = 559
+	religion = "catholic"
+	culture = "breton"
+	father = 5652
+	3076.1.1 = {
+		birth = "3076.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+163105 = {
+	name = Salomon
+	dynasty_house = house_poher #de Poher
+	religion = catholic
+	diplomacy = 7
+	martial = 6
+	intrigue = 8
+	culture = breton
+	trait = ambitious
+	trait = education_intrigue_3
+	father = 303401	#Riwallon, brother of NominoE_
+	2812.1.1 = {
+		birth = yes
+	}
+	2876.6.26 = {
+		death = yes
+	}
+}
+303402 = {
+	name = Riwallon	#or Rivelen
+	dynasty_house = house_poher #de Poher
+	religion = catholic
+	culture = breton
+	father = 303401	#Riwallon, brother of NominoE_
+	2824.1.1 = {	#fictional, no data
+		birth = yes
+	}
+	2882.1.1 = {	#fictional, no data
+		death = yes
+	}
+}
+
+159433 = {
+	name = "Urbien"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159431
+	2323.1.1 = {
+		birth = "2323.1.1"
+	}
+	2402.1.1 = {
+		death = "2402.1.1"
+	}
+}
+159434 = {
+	name = "Gradlon"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159433
+	2363.1.1 = {
+		birth = "2363.1.1"
+	}
+	2436.1.1 = {
+		death = "2436.1.1"
+		give_nickname = nick_the_great
+	}
+}
+159445 = {
+	name = "Clemen"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_dyfnaint
+	father = 159444
+	2582.1.1 = {
+		birth = "2582.1.1"
+	}
+	2632.1.1 = {
+		death = "2632.1.1"
+	}
+}
+159446 = {
+	name = "Petroc"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_dyfnaint
+	father = 159445
+	2602.1.1 = {
+		birth = "2602.1.1"
+	}
+	2660.1.1 = {
+		death = "2660.1.1"
+	}
+}
+159447 = {
+	name = "Culmin"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_dyfnaint
+	father = 159745
+	2633.1.1 = {
+		birth = "2633.1.1"
+	}
+	2684.1.1 = {
+		death = "2684.1.1"
+	}
+}
+159448 = {
+	name = "Dumnarth"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_dyfnaint
+	father = 159447
+	2649.1.1 = {
+		birth = "2649.1.1"
+	}
+	2702.1.1 = {
+		death = "2702.1.1"
+	}
+}
+159449 = {
+	name = "Gereint"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_dyfnaint
+	father = 159448
+	2672.1.1 = {
+		birth = "2672.1.1"
+	}
+	2712.1.1 = {
+		death = "2712.1.1"
+	}
+}
+159450 = {
+	name = "Iudhael"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #For tree appearance
+	father = 159448
+	2673.1.1 = {
+		birth = "2673.1.1"
+	}
+	2717.1.1 = {
+		death = "2717.1.1"
+	}
+}
+159451 = {
+	name = "Donual" # Boifunall
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159450
+	2691.1.1 = {
+		birth = "2691.1.1"
+	}
+	2744.1.1 = {
+		death = "2744.1.1"
+	}
+}
+159452 = {
+	name = "Cawrdolli"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159451
+	2707.1.1 = {
+		birth = "2707.1.1"
+	}
+	2777.1.1 = {
+		death = "2777.1.1"
+	}
+}
+159453 = {
+	name = "Oswallt"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159452
+	2727.1.1 = {
+		birth = "2727.1.1"
+	}
+	2782.1.1 = {
+		death = "2782.1.1"
+	}
+}
+159454 = {
+	name = "Hernam"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159453
+	2742.1.1 = {
+		birth = "2742.1.1"
+	}
+	2812.1.1 = {
+		death = "2812.1.1"
+	}
+}
+159455 = {
+	name = "Hopkin"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159454
+	2762.1.1 = {
+		birth = "2762.1.1"
+	}
+	2832.1.1 = {
+		death = "2832.1.1"
+	}
+}
+159456 = {
+	name = "Mordaf"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159455
+	2782.1.1 = {
+		birth = "2782.1.1"
+	}
+	2852.1.1 = {
+		death = "2852.1.1"
+	}
+}
+159457 = {
+	name = "Ferverdyn"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159456
+	2802.1.1 = {
+		birth = "2802.1.1"
+	}
+	2867.1.1 = {
+		death = "2867.1.1"
+	}
+}
+159458 = {
+	name = "Dumnarth"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159457
+	2832.1.1 = {
+		birth = "2832.1.1"
+	}
+	2877.1.1 = {
+		death = "2877.1.1"
+	}
+}
+159459 = {
+	name = "Eluid"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159457
+	2842.1.1 = {
+		birth = "2842.1.1"
+	}
+	2891.1.1 = {
+		death = "2891.1.1"
+	}
+}
+159460 = {
+	name = "Alan"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159459
+	2862.1.1 = {
+		birth = "2862.1.1"
+	}
+	2904.1.1 = {
+		death = "2904.1.1"
+	}
+}
+159461 = {
+	name = "HoE_l"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159460
+	2880.1.1 = {
+		birth = "2880.1.1"
+	}
+	2934.1.1 = {
+		death = "2934.1.1"
+	}
+}
+159462 = {
+	name = "Rolope"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159460
+	2892.1.1 = {
+		birth = "2892.1.1"
+	}
+	2952.1.1 = {
+		death = "2952.1.1"
+	}
+}
+159463 = {
+	name = "Vortegyn_Helin"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159462
+	2922.1.1 = {
+		birth = "2922.1.1"
+	}
+	2982.1.1 = {
+		death = "2982.1.1"
+	}
+}
+159464 = {
+	name = "Veffyne"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159463
+	2952.1.1 = {
+		birth = "2952.1.1"
+	}
+	3002.1.1 = {
+		death = "3002.1.1"
+	}
+}
+159466 = {
+	name = "Conan"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159461
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	2942.1.1 = {
+		death = "2942.1.1"
+	}
+}
+159467 = {
+	name = "Ricat" #Ricatus, Rygys
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159458
+	2868.1.1 = {
+		birth = "2868.1.1"
+	}
+	2912.1.1 = {
+		death = "2912.1.1"
+	}
+}
+159468 = {
+	name = "Alef"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159467
+	2907.1.1 = {
+		birth = "2907.1.1"
+	}
+	2960.1.1 = {
+		death = "2960.1.1"
+	}
+}
+159739 = {
+	name = "Salomon" #Selyf
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 159466
+	
+	2921.1.1 = {
+		birth = "2921.1.1"
+	}
+	2977.1.1 = {
+		death = "2977.1.1"
+	}
+}
+
+159740 = {
+	name = "Magalatutus"
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 159739
+	
+	2938.1.1 = {
+		birth = "2938.1.1"
+	}
+	3017.1.1 = {
+		death = "3017.1.1"
+	}
+}
+
+159741 = {
+	name = "Riwal"
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 159740
+	
+	2988.1.1 = {
+		birth = "2988.1.1"
+	}
+	3038.1.1 = {
+		death = "3038.1.1"
+	}
+}
+
+159742 = {
+	name = "Avice"
+	female = yes
+	dynasty_house = house_british_isles_cerneu
+	religion = "catholic"
+	culture = "cornish"
+	father = 161281
+	mother = 161283
+	3091.1.1 = {
+		birth = "3091.1.1"
+	}
+	3105.1.1 = {
+		add_spouse = 158
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+159743 = {
+	name = "Adela"
+	female = yes
+	dynasty = 101754
+	religion = "catholic"
+	culture = "norman"
+	father = 158
+	mother = 159742
+	3107.1.1 = {
+		birth = "3107.1.1"
+	}
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+159744 = {
+	name = "HoE_l"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_dyfnaint
+	father = 159448
+	2670.1.1 = {
+		birth = "2670.1.1"
+	}
+	2699.1.1 = {
+		death = "2699.1.1"
+	}
+}
+159745 = {
+	name = "Progamel"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_dyfnaint
+	father = 159446
+	2618.1.1 = {
+		birth = "2618.1.1"
+	}
+	2659.1.1 = {
+		death = "2659.1.1"
+	}
+}
+159746 = {
+	name = "Aedaf"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159460
+	2894.1.1 = {
+		birth = "2894.1.1"
+	}
+	2944.1.1 = {
+		death = "2944.1.1"
+	}
+}
+159747 = {
+	name = "Iudhael"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159456
+	2837.1.1 = {
+		birth = "2837.1.1"
+	}
+	2867.1.1 = {
+		death = "2867.1.1"
+	}
+}
+159748 = {
+	name = "HoE_l"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159450
+	2694.1.1 = {
+		birth = "2694.1.1"
+	}
+	2717.1.1 = {
+		death = "2717.1.1"
+	}
+}
+159749 = {
+	name = "Rodric"
+	religion = "catholic"
+	culture = "cornish"
+	dynasty_house = house_british_isles_cerneu #Corneu
+	father = 159450
+	2700.1.1 = {
+		birth = "2700.1.1"
+	}
+	2749.1.1 = {
+		death = "2749.1.1"
+	}
+}
+159750 = {
+	name = "Blethin" #Bleddyn
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_dyfnaint
+	father = 159444
+	2585.1.1 = {
+		birth = "2585.1.1"
+	}
+	2630.1.1 = {
+		death = "2630.1.1"
+	}
+}
+159634 = {
+	name = "Guitol" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_domnonea #Domnonea
+	father = 159434
+	2383.1.1 = {
+		birth = "2383.1.1"
+	}
+	2452.1.1 = {
+		death = "2452.1.1"
+	}
+}
+159635 = {
+	name = "Deroch" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_domnonea #Domnonea
+	father = 159634
+	2402.1.1 = {
+		birth = "2402.1.1"
+	}
+	2472.1.1 = {
+		death = "2472.1.1"
+	}
+}
+159636 = {
+	name = "Riotham" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_domnonea #Domnonea
+	father = 159635
+	2437.1.1 = {
+		birth = "2437.1.1"
+	}
+	2472.1.1 = {
+		death = "2472.1.1"
+	}
+}
+159637 = {
+	name = "Riwal" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_domnonea #Domnonea
+	father = 159636
+	2477.1.1 = {
+		birth = "2477.1.1"
+	}
+	2522.1.1 = {
+		death = "2522.1.1"
+	}
+}
+159638 = {
+	name = "Deroch" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_domnonea #Domnonea
+	father = 159637
+	2497.1.1 = {
+		birth = "2497.1.1"
+	}
+	2532.1.1 = {
+		death = "2532.1.1"
+	}
+}
+159639 = {
+	name = "Ionas" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_domnonea #Domnonea
+	father = 159638
+	2517.1.1 = {
+		birth = "2517.1.1"
+	}
+	2542.1.1 = {
+		death = "2542.1.1"
+	}
+}
+159640 = {
+	name = "Iudual" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_domnonea #Domnonea
+	father = 159639
+	2537.1.1 = {
+		birth = "2537.1.1"
+	}
+	2592.1.1 = {
+		death = "2592.1.1"
+	}
+}
+159641 = {
+	name = "Iudhael" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_domnonea #Domnonea
+	father = 159640
+	2562.1.1 = {
+		birth = "2562.1.1"
+	}
+	2609.1.1 = {
+		death = "2609.1.1"
+	}
+}
+159642 = {
+	name = "Riwallon" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_poher #de Poher
+	father = 159641
+	2592.1.1 = {
+		birth = "2592.1.1"
+	}
+	2669.1.1 = {
+		death = "2669.1.1"
+	}
+}
+159643 = {
+	name = "GuE_rech" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_poher #de Poher
+	father = 159642
+	2622.1.1 = {
+		birth = "2622.1.1"
+	}
+	2694.1.1 = {
+		death = "2694.1.1"
+	}
+}
+159644 = {
+	name = "Riwallon" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_poher #de Poher
+	father = 159643
+	2652.1.1 = {
+		birth = "2652.1.1"
+	}
+	2722.1.1 = {
+		death = "2722.1.1"
+	}
+}
+159645 = {
+	name = "Deniel" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_poher #de Poher
+	father = 159644
+	2692.1.1 = {
+		birth = "2692.1.1"
+	}
+	2751.1.1 = {
+		death = "2751.1.1"
+	}
+}
+159646 = {
+	name = "Budic" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_poher #de Poher
+	father = 159645
+	2722.1.1 = {
+		birth = "2722.1.1"
+		add_pressed_claim = title:c_rennes
+	}
+	2782.1.1 = {
+		death = "2782.1.1"
+	}
+}
+159648 = {
+	name = "Melliau" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_poher #de Poher
+	father = 159646
+	2742.1.1 = {
+		birth = "2742.1.1"
+	}
+	2802.1.1 = {
+		death = "2802.1.1"
+	}
+}
+159647 = {
+	name = "ErispoE_" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_poher #de Poher
+	father = 159646
+	2762.1.1 = {
+		birth = "2762.1.1"
+	}
+	2814.1.1 = {
+		death = "2814.1.1"
+	}
+}
+159698 = {
+	name = "Alan"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_poher #de Poher
+	father = 159651
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2882.1.1 = {
+		dynasty_house = house_rieux #de Rieux
+	}
+	2909.1.1 = {
+		death = "2909.1.1"
+	}
+}
+159699 = {
+	name = "Rudalt"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_rieux #de Rieux
+	father = 159698
+	2882.1.1 = {
+		birth = "2882.1.1"
+	}
+	2919.1.1 = {
+		death = "2919.1.1"
+	}
+}
+159700 = {
+	name = "Alan"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_rieux #de Rieux
+	father = 159699
+	2912.1.1 = {
+		birth = "2912.1.1"
+	}
+	2989.1.1 = {
+		death = "2989.1.1"
+	}
+}
+159701 = {
+	name = "Rudalt"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_rieux #de Rieux
+	father = 159700
+	2952.1.1 = {
+		birth = "2952.1.1"
+	}
+	3023.1.1 = {
+		death = "3023.1.1"
+	}
+}
+159702 = {
+	name = "Alan"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_rieux #de Rieux
+	father = 159701
+	2982.1.1 = {
+		birth = "2982.1.1"
+	}
+	3053.1.1 = {
+		death = "3053.1.1"
+	}
+}
+159703 = {
+	name = "Rudalt"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_rieux #de Rieux
+	father = 159702
+	3022.1.1 = {
+		birth = "3022.1.1"
+	}
+	3068.1.1 = {
+		death = "3068.1.1"
+	}
+}
+159704 = {
+	name = "Iocilin"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_rieux #de Rieux
+	father = 159703
+	3047.1.1 = {
+		birth = "3047.1.1"
+	}
+	3109.1.1 = {
+		death = "3109.1.1"
+	}
+}
+159705 = {
+	name = "Raoul"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_rieux #de Rieux
+	father = 159703
+	3047.1.1 = {
+		birth = "3047.1.1"
+	}
+	3066.1.1 = {
+		death = "3066.1.1"
+	}
+}
+159706 = {
+	name = "Alan"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_rieux #de Rieux
+	father = 159705
+	3066.1.1 = {
+		birth = "3066.1.1"
+	}
+	3126.1.1 = {
+		death = "3126.1.1"
+	}
+}
+159707 = {
+	name = "GuE_thenoc"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_rieux #de Rieux
+	father = 159704
+	3063.1.1 = {
+		birth = "3063.1.1"
+	}
+	3129.1.1 = {
+		death = "3129.1.1"
+	}
+}
+159649 = {
+	name = "Riwallon" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_poher #de Poher
+	father = 159647
+	2792.1.1 = {
+		birth = "2792.1.1"
+	}
+	2859.1.1 = {
+		death = "2859.1.1"
+	}
+}
+159651 = {
+	name = "Riwallon" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_poher #de Poher
+	father = 163105
+	2832.1.1 = {
+		birth = "2832.1.1"
+	}
+	2879.1.1 = {
+		death = "2879.1.1"
+	}
+}
+159633 = {
+	name = "Salomon"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159434
+	2382.1.1 = {
+		birth = "2382.1.1"
+	}
+	2448.1.1 = {
+		death = "2448.1.1"
+	}
+}
+159652 = {
+	name = "Aldrien"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159633
+	2402.1.1 = {
+		birth = "2402.1.1"
+	}
+	2466.1.1 = {
+		death = "2466.1.1"
+	}
+}
+159657 = {
+	name = "Iehan_Riotham"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159652
+	2422.1.1 = {
+		birth = "2422.1.1"
+	}
+	2472.1.1 = {
+		death = "2472.1.1"
+	}
+}
+159658 = {
+	name = "Salomon"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159652
+	2420.1.1 = {
+		birth = "2420.1.1"
+	}
+	2466.1.1 = {
+		death = "2466.1.1"
+	}
+}
+159756 = {
+	name = "GuE_rech"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159652
+	2427.1.1 = {
+		birth = "2427.1.1"
+	}
+	2496.1.1 = {
+		death = "2496.1.1"
+	}
+}
+159659 = {
+	name = "Budic"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159652
+	2422.1.1 = {
+		birth = yes
+	}
+	2480.1.1 = {
+		death = "2480.1.1"
+	}
+}
+159660 = {
+	name = "Budic"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159756
+	2462.1.1 = {
+		birth = "2462.1.1"
+	}
+	2546.1.1 = {
+		death = "2546.1.1"
+	}
+}
+159661 = {
+	name = "Emyric"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159657
+	2442.1.1 = {
+		birth = "2442.1.1"
+	}
+	2502.1.1 = {
+		death = "2502.1.1"
+	}
+}
+159662 = {
+	name = "HoE_l"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159660
+	2493.1.1 = {
+		birth = "2493.1.1"
+	}
+	2522.1.1 = {
+		add_spouse = 160048
+	}
+	2547.1.1 = {
+		death = "2547.1.1"
+	}
+}
+159757 = {
+	name = "Teudur"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159662
+	mother = 160048
+	2522.1.1 = {
+		birth = "2522.1.1"
+	}
+	2548.1.1 = {
+		death = "2548.1.1"
+		give_nickname = nick_the_great
+	}
+}
+159663 = {
+	name = "HoE_l"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159662
+	mother = 160048
+	2524.1.1 = {
+		birth = "2524.1.1"
+	}
+	2549.1.1 = {
+		death = "2549.1.1"
+	}
+}
+159664 = {
+	name = "Alan"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159663
+	2542.1.1 = {
+		birth = "2542.1.1"
+	}
+	2596.1.1 = {
+		death = "2596.1.1"
+	}
+}
+159665 = {
+	name = "HoE_l"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159664
+	2562.1.1 = {
+		birth = "2562.1.1"
+	}
+	2614.1.1 = {
+		death = "2614.1.1"
+	}
+}
+159666 = {
+	name = "Salomon"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159665
+	2582.1.1 = {
+		birth = "2582.1.1"
+	}
+	2632.1.1 = {
+		death = "2632.1.1"
+	}
+}
+159667 = {
+	name = "Iudicael"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159665
+	2602.1.1 = {
+		birth = "2602.1.1"
+	}
+	2622.1.1 = {
+		death = "2622.1.1"
+	}
+}
+159668 = {
+	name = "Gradlon"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159667
+	2634.1.1 = {
+		birth = "2634.1.1"
+	}
+	2682.1.1 = {
+		death = "2682.1.1"
+	}
+}
+159669 = {
+	name = "Concar"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159668
+	2662.1.1 = {
+		birth = "2662.1.1"
+	}
+	2722.1.1 = {
+		death = "2722.1.1"
+	}
+}
+159670 = {
+	name = "Iudon"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159669
+	2712.1.1 = {
+		birth = "2712.1.1"
+	}
+	2762.1.1 = {
+		death = "2762.1.1"
+	}
+}
+159671 = {
+	name = "Custentin" #Constantine
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159670
+	2742.1.1 = {
+		birth = "2742.1.1"
+	}
+	2822.1.1 = {
+		death = "2822.1.1"
+	}
+}
+159672 = {
+	name = "Gestin" #Justin
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159671
+	2771.1.1 = {
+		birth = "2771.1.1"
+	}
+	2842.1.1 = {
+		death = "2842.1.1"
+	}
+}
+159673 = {
+	name = "Alfrond"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159672
+	2802.1.1 = {
+		birth = "2802.1.1"
+	}
+	2882.1.1 = {
+		death = "2882.1.1"
+	}
+}
+159674 = {
+	name = "Ulfret"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159673
+	2842.1.1 = {
+		birth = "2842.1.1"
+	}
+	2922.1.1 = {
+		death = "2922.1.1"
+	}
+}
+159675 = {
+	name = "Diles"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159674
+	2882.1.1 = {
+		birth = "2882.1.1"
+	}
+	2957.1.1 = {
+		death = "2957.1.1"
+	}
+}
+159676 = {
+	name = "Budic"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159675
+	2912.1.1 = {
+		birth = "2912.1.1"
+	}
+	2972.1.1 = {
+		death = "2972.1.1"
+	}
+}
+159677 = {
+	name = "Budic"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159676
+	2942.1.1 = {
+		birth = "2942.1.1"
+	}
+	3033.1.1 = {
+		death = "3033.1.1"
+	}
+}
+159678 = {
+	name = "Budic"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159677
+	2959.1.1 = {
+		birth = "2959.1.1"
+	}
+	3043.1.1 = {
+		death = "3043.1.1"
+	}
+}
+159653 = {
+	name = "GuE_rech"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159652
+	2427.1.1 = {
+		birth = "2427.1.1"
+	}
+	2480.1.1 = {
+		death = "2480.1.1"
+	}
+}
+159654 = {
+	name = "Budic"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159653
+	2462.1.1 = {
+		birth = "2462.1.1"
+	}
+	2503.1.1 = {
+		death = "2503.1.1"
+	}
+}
+159655 = {
+	name = "Budic"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159654
+	2492.1.1 = {
+		birth = "2492.1.1"
+	}
+	2543.1.1 = {
+		death = "2543.1.1"
+	}
+}
+159656 = {
+	name = "Teudric" #Theodoric
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159655
+	2522.1.1 = {
+		birth = "2522.1.1"
+	}
+	2586.1.1 = {
+		death = "2586.1.1"
+	}
+}
+159679 = {
+	name = "Even" # Eugene
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_leon # de Leon
+	father = 159690
+	2959.1.1 = {
+		birth = "2959.1.1"
+	}
+	3043.1.1 = {
+		death = "3043.1.1"
+	}
+}
+159680 = {
+	name = "Alan" # II the Tall
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159667
+	2622.1.1 = {
+		birth = "2622.1.1"
+	}
+	2692.1.1 = {
+		death = "2692.1.1"
+	}
+}
+159681 = {
+	name = "Iehan" # John
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159680
+	2674.1.1 = {
+		birth = "2674.1.1"
+	}
+	2732.1.1 = {
+		death = "2732.1.1"
+	}
+}
+159682 = {
+	name = "Deniel" # I Dremrust
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159681
+	2692.1.1 = {
+		birth = "2692.1.1"
+	}
+	2751.1.1 = {
+		death = "2751.1.1"
+	}
+}
+159683 = {
+	name = "Raulhon"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159682
+	2712.1.1 = {
+		birth = "2712.1.1"
+	}
+	2752.1.1 = {
+		death = "2752.1.1"
+	}
+}
+159684 = {
+	name = "Deniel" # II Dremrust
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159683
+	2732.1.1 = {
+		birth = "2732.1.1"
+	}
+	2764.1.1 = {
+		death = "2764.1.1"
+	}
+}
+159685 = {
+	name = "Berdic"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159684
+	2752.1.1 = {
+		birth = "2752.1.1"
+		add_pressed_claim = title:c_nantes
+	}
+	2801.1.1 = {
+		death = "2801.1.1"
+	}
+}
+159686 = {
+	name = "Morvan"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_leon
+	father = 159685
+	2792.1.1 = {
+		birth = "2792.1.1"
+	}
+	2826.1.1 = {
+		death = "2826.1.1"
+	}
+}
+159687 = {
+	name = "Guihomarch"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_leon # de Leon
+	father = 159686
+	2822.1.1 = {
+		birth = "2822.1.1"
+	}
+	2876.1.1 = {
+		death = "2876.1.1"
+	}
+}
+159688 = {
+	name = "ErispoE_" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_leon # de Leon
+	father = 159687
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2916.1.1 = {
+		death = "2916.1.1"
+	}
+}
+159689 = {
+	name = "Hamon" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_leon # de Leon
+	father = 159688
+	2887.1.1 = {
+		birth = "2887.1.1"
+	}
+	2926.1.1 = {
+		death = "2926.1.1"
+	}
+}
+159690 = {
+	name = "Pirinis"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_leon # de Leon
+	father = 159689
+	2922.1.1 = {
+		birth = "2922.1.1"
+	}
+	2986.1.1 = {
+		death = "2986.1.1"
+	}
+}
+159691 = {
+	name = "ErispoE_"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_poher #de Poher
+	father = 159648
+	2762.1.1 = {
+		birth = yes
+	}
+	2826.1.1 = {
+		death = "2826.1.1"
+	}
+}
+159692 = {
+	name = "Guihomarch" #
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159685
+	2768.1.1 = {
+		birth = "2768.1.1"
+	}
+	2806.1.1 = {
+		death = "2806.1.1"
+	}
+}
+159693 = {
+	name = "ErispoE_" #Harispogius,
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159692
+	2787.1.1 = {
+		birth = "2787.1.1"
+	}
+	2836.1.1 = {
+		death = "2836.1.1"
+	}
+}
+159694 = {
+	name = "NominoE_" #Nevenoe
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159693
+	2802.1.1 = {
+		birth = yes
+	}
+	2853.3.7 = {
+		death = yes
+	}
+}
+303401 = {
+	name = "Riwallon" #Older brother of Nominoe
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159693
+	#father of 163105 king Salomon of Brittany
+	2800.1.1 = {		#fictional, before Nominoe
+		birth = yes
+	}
+	2832.1.1 = {	#Fictional, but he became count of Poher "at some point"
+		dynasty_house = house_poher #de Poher
+	}
+	2851.5.10 = {	#fictional
+		death = yes
+	}
+}
+159695 = {
+	name = "Pascueten" #Pasquitan, Paskweten
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_vannes #Vannes
+	father = 159694
+	2820.1.1 = {
+		birth = "2820.1.1"
+	}
+	2879.1.1 = {
+		death = "2879.1.1"
+	}
+}
+159696 = {
+	name = "Guruant" #Gurvand
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_rennes #Rennes
+	father = 159694
+	2822.1.1 = {
+		birth = "2822.1.1"
+	}
+	2879.1.1 = {
+		death = "2879.1.1"
+	}
+}
+159965 = {
+	name = "ErispoE_"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159694	#Nominoë
+	2818.1.1 = {
+		birth = yes
+	}
+	2859.11.2 = {
+		death = yes
+	}
+}
+
+160071 = {
+	name = "Oreguen"
+	female = yes
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159673
+	2867.1.1 = {
+		birth = "2867.1.1"
+	}
+	2942.1.1 = {
+		death = "2942.1.1"
+	}
+}
+160072 = {
+	name = "Argant"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159671
+	2793.1.1 = {
+		birth = "2793.1.1"
+	}
+	2842.1.1 = {
+		death = "2842.1.1"
+	}
+}
+160073 = {
+	name = "Iudhael"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159672
+	2827.1.1 = {
+		birth = "2827.1.1"
+	}
+	2882.1.1 = {
+		death = "2882.1.1"
+	}
+}
+160074 = {
+	name = "Rivod"
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159672
+	2828.1.1 = {
+		birth = "2828.1.1"
+	}
+	2887.1.1 = {
+		death = "2887.1.1"
+	}
+}
+160075 = {
+	name = "Louenan" #Louvenan, Lowenen
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_cornouaille # de Cornouaille
+	father = 159673
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2902.1.1 = {
+		death = "2902.1.1"
+	}
+}
+
+160076 = {
+	name = "Berenger" #
+	dynasty_house = house_rennes #Rennes
+	religion = "catholic"
+	culture = "breton"
+	father = 159696
+	2863.1.1 = {
+		birth = "2863.1.1"
+	}
+	2902.1.1 = {
+		death = "2902.1.1"
+	}
+}
+160077 = {
+	name = "Ridoredh" #
+	dynasty_house = house_naoned #Naoned
+	religion = "catholic"
+	culture = "breton"
+	father = 159965
+	martial = 8
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	trait = ambitious
+	trait = diligent
+	trait = calm
+	trait = humble
+	trait = education_martial_3
+	2851.1.1 = {
+		birth = "2851.1.1"
+	}
+	2902.1.1 = {
+		death = "2902.1.1"
+	}
+}
+160078 = {
+	name = "Gourmaelon" #
+	dynasty_house = house_naoned #Naoned
+	religion = "catholic"
+	culture = "breton"
+	father = 160077
+	2867.1.1 = {
+		birth = yes
+	}
+	2869.1.1 = {
+		employer = 163105 # Duke of Brittany
+	}
+	2902.1.1 = {
+		death = yes
+	}
+}
+160079 = {
+	name = "Pascueten" #
+	dynasty_house = house_naoned #Naoned
+	religion = "catholic"
+	culture = "breton"
+	father = 160077
+	2868.1.1 = {
+		birth = yes
+	}
+	2869.1.1 = {
+		employer = 163105 # Duke of Brittany
+	}
+	2902.1.1 = {
+		death = yes
+	}
+}
+
+160047 = {
+	name = "Agatha" #
+	female = yes
+	religion = "catholic"
+	culture = "breton"
+	dynasty_house = house_british_isles_breizh #Breizh
+	father = 159680
+	2682.1.1 = {
+		birth = "2682.1.1"
+	}
+	2702.1.1 = {
+		add_spouse = 159020
+	}
+	2752.1.1 = {
+		death = "2752.1.1"
+	}
+}
+
+180048 = {
+	name = "Alain"
+	dynasty = 3134
+	religion = "catholic"
+	culture = "breton"
+	3011.1.1 = {
+		birth = yes
+	}
+	3063.1.1 = {
+		death = yes
+	}
+}
+180049 = {
+	name = "Flaad"
+	dynasty = 3134
+	religion = "catholic"
+	culture = "breton"
+	father = 180048
+	3040.1.1 = {
+		birth = yes
+	}
+	3107.1.1 = {
+		death = yes
+	}
+}
+189430 = {
+	name = "Gradlon" #
+	dynasty_house = house_cornouaille
+	religion = "catholic"
+	culture = "breton"
+	father = 159669
+	2715.1.1 = {
+		birth = "2715.1.1"
+	}
+	2760.1.1 = {
+		death = "2760.1.1"
+	}
+}
+189431 = {
+	name = "Morvan" #
+	dynasty_house = house_cornouaille
+	religion = "catholic"
+	culture = "breton"
+	father = 189430
+	2742.1.1 = {
+		birth = "2742.1.1"
+	}
+	2790.1.1 = {
+		death = "2790.1.1"
+	}
+}
+189432 = {
+	name = "Concar" #
+	dynasty_house = house_cornouaille
+	religion = "catholic"
+	culture = "breton"
+	father = 189431
+	2767.1.1 = {
+		birth = "2767.1.1"
+	}
+	2822.1.1 = {
+		death = "2822.1.1"
+	}
+}

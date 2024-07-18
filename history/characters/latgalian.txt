@@ -1,0 +1,372 @@
+﻿144628 = {
+	name = "Litto"
+	dynasty = 9534
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	father = 28020
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+144629 = {
+	name = "Darbeslave"
+	dynasty = 100374
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	father = 20603
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+20603 = {
+	name = "KurlemuS_e"
+	# AKA: Kurlemuse
+	dynasty = 100374
+	martial = 6
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	trait = education_martial_3
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+220603 = {
+	name = "Kurlemuse"
+	dynasty = 100374
+	martial = 6
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	trait = education_martial_3
+	father = 144629
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3201.1.1 = {
+		death = "3201.1.1"
+	}
+}
+
+228020 = {
+	name = "Erasts"
+	dynasty = 9534
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	father = 144628
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3204.1.1 = {
+		death = "3204.1.1"
+	}
+}
+
+228022 = {
+	name = "Dovyat"
+	dynasty = 100372
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+228024 = {
+	name = "Shutr"
+	dynasty = 100378
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	trait = education_martial_3
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+228075 = {
+	name = "Sabe"
+	dynasty = 100373
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	father = 143133
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3204.1.1 = {
+		death = "3204.1.1"
+	}
+}
+
+28020 = {
+	name = "Erasts"
+	dynasty = 9534
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+28075 = {
+	name = "Sabe"
+	dynasty = 100373
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	trait = education_martial_2
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3068.1.1 = {
+		contract_disease_effect = { DISEASE = ill TREATMENT_EVENT = yes }
+	}
+	3091.1.1 = {
+		death = "3091.1.1"
+	}
+}
+
+143132 = {
+	name = "Sabe"
+	dynasty = 100373
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	father = 28075
+	3071.1.1 = {
+		birth = "3071.1.1"
+	}
+	3141.1.1 = {
+		death = "3141.1.1"
+	}
+}
+143133 = {
+	name = "Sabe"
+	dynasty = 100373
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	father = 143132
+	3121.1.1 = {
+		birth = "3121.1.1"
+	}
+	3189.1.1 = {
+		death = "3189.1.1"
+	}
+}
+
+143149 = {
+	name = "Dovyat"
+	dynasty = 100372
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	father = 228022
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3255.6.30 = {
+		death = "3255.6.30"
+	}
+}
+
+167730 = {
+	name = "Kodere"
+	dynasty = 9530
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	father = 194112
+	2832.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+
+6892 = {
+	name = Darate
+	female = yes
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = latgalian
+	father = 167730
+	2851.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		death = yes
+	}
+}
+
+167731 = {
+	name = Bikshe
+	dynasty = 9531
+	religion = baltic_pagan
+	culture = latgalian
+	2842.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+
+167732 = {
+	name = Narvait
+	dynasty = 9532
+	religion = baltic_pagan
+	culture = latgalian
+	2846.1.1 = {
+		birth = yes
+	}
+	2867.1.1 = {
+		add_spouse = 6892
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+
+167733 = {
+	name = "Valikaila"
+	dynasty = 9533
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	2842.1.1 = {
+		birth = "2842.1.1"
+	}
+	2892.1.1 = {
+		death = "2892.1.1"
+	}
+}
+170351 = {
+	name = "Pukuveras"
+	dynasty = 1040229
+	religion = "baltic_pagan"
+	culture = "latgalian"
+	2739.1.1 = {
+		birth = yes
+	}
+	2790.1.1 = {
+		death = yes
+	}
+}
+194105 = {
+	name = "Ankad"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = latgalian
+	father = 220998
+	2735.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194106 = {
+	name = "Ako"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = latgalian
+	father = 194105
+	2772.1.1 = {
+		birth = yes
+	}
+	2824.1.1 = {
+		death = yes
+	}
+}
+194107 = {
+	name = "Ringaudas"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = latgalian
+	father = 194106
+	2812.1.1 = {
+		birth = yes
+	}
+	2868.1.1 = {
+		death = yes
+	}
+}
+194110 = {
+	name = "Balodis"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = latgalian
+	father = 220998
+	2737.2.5 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194111 = {
+	name = "Vetseke"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = latgalian
+	father = 194110
+	2772.1.1 = {
+		birth = yes
+	}
+	2824.1.1 = {
+		death = yes
+	}
+}
+194112 = {
+	name = "Vishikut"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = latgalian
+	father = 194111
+	2812.1.1 = {
+		birth = yes
+	}
+	2868.1.1 = {
+		death = yes
+	}
+}
+220998 = {
+	name = "Pliksov"
+	dynasty = 9530
+	religion = baltic_pagan
+	culture = latgalian
+	2712.5.12 = {
+		birth = yes
+	}
+	2752.8.15 = {
+		death = yes
+	}
+}

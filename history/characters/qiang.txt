@@ -1,0 +1,419 @@
+﻿#Xi Dynasty - fictional placeholders
+qiang0001 = {
+	name="Kai"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+qiang0002 = {
+	name="Pyox"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0001
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+qiang0003 = {
+	name="Chjyo"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0002
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+qiang0004 = {
+	name="Ju"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0003
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+qiang0005 = {
+	name="Ghaux"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0004
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+qiang0006 = {
+	name="Zai"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0005
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+qiang0007 = {
+	name="Tuan"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0006
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+qiang0008 = {
+	name="Kyungx"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0007
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+qiang0009 = {
+	name="Zeghen"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0008
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+qiang0010 = {
+	name="Yoix"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0009
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+qiang0011 = {
+	name="Junxmyon"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0010
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+qiang0012 = {
+	name="Kyn"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0011
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+qiang0013 = {
+	name="Ginh"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0012
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+qiang0014 = {
+	name="Ngyung"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0013
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+qiang0015 = {
+	name="Cong"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0014
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+qiang0016 = {
+	name="Phox"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0015
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+qiang0017 = {
+	name="Kieng"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0016
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+qiang0018 = {
+	name="Thungh"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0017
+	3082.1.1={
+		birth=yes
+	}
+	13242.1.1={
+		death=yes
+	}
+}
+
+qiang0019 = {
+	name="Zjyo"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0018
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+qiang0020 = {
+	name="Zjyo"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0019
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+qiang0021 = {
+	name="Ciep"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0020
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+qiang0022 = {
+	name="Zsix"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0021
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+qiang0023 = {
+	name="Muh"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0022
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+qiang0024 = {
+	name="Tanh"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0023
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+qiang0025 = {
+	name="Hyoh"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0024
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+qiang0026 = {
+	name="Khak"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0025
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+qiang0027 = {
+	name="Ngyox"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0026
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+qiang0028 = {
+	name="Kuad"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0027
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+qiang0029 = {
+	name="Cheng"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0028
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+qiang0030 = {
+	name="Si"
+	dynasty=2003093 #Xi
+	religion="rrmeaism"
+	culture="qiang"
+	father=qiang0029
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}

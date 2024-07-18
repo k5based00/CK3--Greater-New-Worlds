@@ -1,0 +1,383 @@
+﻿#Bashkirs in Ufa
+302285 = {
+	name = "Boyan"
+	dynasty = 2001055	#Ufaan
+	religion = tengri_pagan
+	culture = bashkir
+	2824.1.2 = {
+		birth = yes
+	}
+	2872.1.2 = {
+		death = yes
+	}
+}
+302286 = {
+	name = "Shilki"
+	dynasty = 2001055	#Ufaan
+	religion = tengri_pagan
+	culture = bashkir
+	father = 302285
+	2847.1.2 = {
+		birth = yes
+	}
+	2899.1.2 = {
+		death = yes
+	}
+}
+302287 = {
+	name = "Zenti"
+	dynasty = 2001055	#Ufaan
+	religion = tengri_pagan
+	culture = bashkir
+	father = 302285
+	2849.1.2 = {
+		birth = yes
+	}
+	2906.1.2 = {
+		death = yes
+	}
+}
+302288 = {
+	name = "Bezmer"
+	dynasty = 2001055	#Ufaan
+	religion = ashari
+	culture = bashkir
+	3014.1.2 = {
+		birth = yes
+	}
+	3065.1.2 = {
+		death = yes
+	}
+}
+302289 = {
+	name = "Okors"
+	dynasty = 2001055	#Ufaan
+	religion = ashari
+	culture = bashkir
+	father = 302288
+	3042.1.2 = {
+		birth = yes
+	}
+	3108.1.2 = {
+		death = yes
+	}
+}
+302290 = {
+	name = "Organ"
+	dynasty = 2001055	#Ufaan
+	religion = ashari
+	culture = bashkir
+	father = 302289
+	3071.1.2 = {
+		birth = yes
+	}
+	3125.1.2 = {
+		death = yes
+	}
+}
+
+302291 = {
+	name = "Tsog"
+	dynasty = 2001055	#Ufaan
+	religion = ashari
+	culture = bashkir
+	father = 302290
+	3098.1.2 = {
+		birth = yes
+	}
+	3157.1.2 = {
+		death = yes
+	}
+}
+302292 = {
+	name = "Uturgur"
+	dynasty = 2001055	#Ufaan
+	religion = ashari
+	culture = bashkir
+	father = 302291
+	3122.1.2 = {
+		birth = yes
+	}
+	3185.1.2 = {
+		death = yes
+	}
+}
+302293 = {
+	name = "Tingiz"
+	dynasty = 2001055	#Ufaan
+	religion = ashari
+	culture = bashkir
+	father = 302292
+	3150.1.2 = {
+		birth = yes
+	}
+	3214.1.2 = {
+		death = yes
+	}
+}
+
+#Bashkirs in Uraltau
+302294 = {
+	name = "Sarica"
+	female = yes
+	dynasty = 2001056	#Oralai
+	religion = tengri_pagan
+	culture = bashkir
+	2847.1.2 = {
+		birth = yes
+	}
+	2904.1.2 = {
+		death = yes
+	}
+}
+302295 = {
+	name = "LA_rkka"
+	female = yes
+	dynasty = 2001056	#Oralai
+	religion = tengri_pagan
+	culture = bashkir
+	mother = 302294
+	2868.1.2 = {
+		birth = yes
+	}
+	2917.1.2 = {
+		religion = ashari
+	}
+	2937.1.2 = {
+		death = yes
+	}
+}
+302296 = {
+	name = "C_ilen"
+	female = yes
+	dynasty = 2001056	#Oralai
+	religion = ashari
+	culture = bashkir
+	3051.1.2 = {
+		birth = yes
+	}
+	3113.1.2 = {
+		death = yes
+	}
+}
+302297 = {
+	name = "Kurt"
+	dynasty = 2001056	#Oralai
+	religion = ashari
+	culture = bashkir
+	mother = 302296
+	3082.1.2 = {
+		birth = yes
+	}
+	3136.1.2 = {
+		death = yes
+	}
+}
+302298 = {
+	name = "Savan"
+	dynasty = 2001056	#Oralai
+	religion = ashari
+	culture = bashkir
+	father = 302297
+	3109.1.2 = {
+		birth = yes
+	}
+	3168.1.2 = {
+		death = yes
+	}
+}
+302299 = {
+	name = "Yani"
+	dynasty = 2001056	#Oralai
+	religion = ashari
+	culture = bashkir
+	father = 302298
+	3133.1.2 = {
+		birth = yes
+	}
+	3195.1.2 = {
+		death = yes
+	}
+}
+
+#Bashkirs in Karabash
+302300 = {
+	name = "Mugel"
+	dynasty = 2001057	#Mugelid
+	religion = tengri_pagan
+	culture = bashkir
+	2835.1.2 = {
+		birth = yes
+	}
+	2893.1.2 = {
+		death = yes
+	}
+}
+302301 = {
+	name = "PavA_l"
+	dynasty = 2001057	#Mugelid
+	religion = tengri_pagan
+	culture = bashkir
+	3049.1.2 = {
+		birth = yes
+	}
+	3111.1.2 = {
+		death = yes
+	}
+}
+302302 = {
+	name = "Tiradin"
+	dynasty = 2001057	#Mugelid
+	religion = tengri_pagan
+	culture = bashkir
+	father = 302301
+	3077.1.2 = {
+		birth = yes
+	}
+	3135.1.2 = {
+		death = yes
+	}
+}
+302303 = {
+	name = "TimE_r"
+	dynasty = 2001057	#Mugelid
+	religion = tengri_pagan
+	culture = bashkir
+	father = 302302
+	3102.1.2 = {
+		birth = yes
+	}
+	3164.1.2 = {
+		death = yes
+	}
+}
+302304 = {
+	name = "Tsul"
+	dynasty = 2001057	#Mugelid
+	religion = tengri_pagan
+	culture = bashkir
+	father = 302303
+	3133.1.2 = {
+		birth = yes
+	}
+	3190.1.2 = {
+		death = yes
+	}
+}
+
+#Kurgan
+302572 = {
+	name = "Andyamo"
+	dynasty = 2001090	#Kurgani
+	religion = tengri_pagan
+	culture = bashkir
+	2825.4.15 = {
+		birth = yes
+	}
+	2888.2.16 = {
+		death = yes
+	}
+}
+302573 = {
+	name = "Kanyuva"
+	female = yes
+	religion = tengri_pagan
+	culture = bashkir
+	2827.1.23 = {
+		birth = yes
+	}
+	2902.10.30 = {
+		death = yes
+	}
+}
+302574 = {
+	name = "Chenksa"
+	female = yes
+	dynasty = 2001090	#Kurgani
+	religion = tengri_pagan
+	culture = bashkir
+	2850.8.14 = {
+		birth = yes
+	}
+	2917.9.29 = {
+		death = yes
+	}
+}
+302575 = {
+	name = "Malyy"
+	dynasty = 2001090	#Kurgani
+	religion = tengri_pagan
+	culture = bashkir
+	3022.3.24 = {
+		birth = yes
+	}
+	3074.7.16 = {
+		death = yes
+	}
+}
+302576 = {
+	name = "Tyueykezhut"
+	dynasty = 2001090	#Kurgani
+	religion = tengri_pagan
+	culture = bashkir
+	father = 302575
+	3046.10.15 = {
+		birth = yes
+	}
+	3108.2.7 = {
+		death = yes
+	}
+}
+302577 = {
+	name = "Chichayka"
+	dynasty = 2001090	#Kurgani
+	religion = tengri_pagan
+	culture = bashkir
+	father = 302576
+	3072.6.11 = {
+		birth = yes
+	}
+	3116.11.23 = {
+		death = yes
+	}
+}
+302578 = {
+	name = "Kezhay"
+	dynasty = 2001090	#Kurgani
+	religion = tengri_pagan
+	culture = bashkir
+	father = 302577
+	3099.9.14 = {
+		birth = yes
+	}
+	3155.10.21 = {
+		death = yes
+	}
+}
+302579 = {
+	name = "Sangasa"
+	female = yes
+	dynasty = 2001090	#Kurgani
+	religion = tengri_pagan
+	culture = bashkir
+	father = 302578
+	3127.12.18 = {
+		birth = yes
+	}
+	3181.11.25 = {
+		death = yes
+	}
+}
+302580 = {
+	name = "Yirkap"
+	dynasty = 2001090	#Kurgani
+	religion = tengri_pagan
+	culture = bashkir
+	father = 302579
+	3153.4.29 = {
+		birth = yes
+	}
+	3215.7.12 = {
+		death = yes
+	}
+}

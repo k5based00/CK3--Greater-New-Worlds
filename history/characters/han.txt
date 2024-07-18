@@ -1,0 +1,620 @@
+﻿248149 = {
+	name="Ding"
+	dynasty=1055021
+	religion="zhengyi"
+	culture="han"
+	trait=education_martial_2
+	trait=administrator
+	martial = 10
+	2732.1.1={
+		birth=yes
+	}
+	2771.1.1={
+		add_pressed_claim = title:c_fuqi
+		add_pressed_claim = title:c_maqen
+	}
+	2792.1.1={
+		death=yes
+	}
+}
+
+# Guiyi Cao family
+1059714 = {
+	name="Yijin"
+	dynasty=1055036
+	religion="vajrayana"
+	culture="han"
+	trait = education_martial_4
+	trait = ambitious
+	father=han0010
+	mother=han0011
+	2844.1.1={
+		birth=yes
+	}
+	2918.1.1={
+		add_spouse=304194
+	}#married a Yughur princess
+	2937.1.1 = {
+		death=yes
+	}
+}
+1059715 = {
+	name="Huinan"
+	dynasty=1055036
+	female=yes
+	religion="vajrayana"
+	culture="han"
+	father=1059714
+	2907.1.1={
+		birth=yes
+	}
+	2939.1.1 = {
+		death=yes
+	}
+}
+1059716 = {
+	name="Yuande"
+	dynasty=1055036
+	religion="vajrayana"
+	culture="han"
+	father=1059714
+	trait=education_martial_2
+	2892.1.1={
+		birth=yes
+	}
+	2941.1.1 = {
+		death=yes
+	}
+}
+1059717 = {
+	name="Yuanshen"
+	dynasty=1055036
+	religion="vajrayana"
+	culture="han"
+	father=1059714
+	2894.1.1={
+		birth=yes
+	}
+	2946.1.1 = {
+		death=yes
+	}
+}
+1059718 = {
+	name="Yuanzhong"
+	dynasty=1055036
+	religion="vajrayana"
+	culture="han"
+	father=1059714
+	trait=education_diplomacy_3
+	trait=intellect_good_1
+	mother=304194
+	2922.1.1={
+		birth=yes # maybe
+	}
+	2976.1.1 = {
+		death=yes
+	}
+}
+1059719 = {
+	name="Jiangui" # unnamed daughter of Cao Yijin
+	dynasty=1055036
+	female=yes
+	religion="vajrayana"
+	culture="han"
+	father=1059714
+	2914.1.1={
+		birth=yes
+	}
+	2936.1.1={
+		add_spouse=166686 #married to the King of Khotan
+	}
+	2962.1.1 = {
+		death=yes
+	}
+}
+1059720 = {
+	name="Yangong"
+	dynasty=1055036
+	religion="vajrayana"
+	culture="han"
+	father=1059716
+	2939.1.1={
+		birth=yes
+	}
+	2978.1.1 = {
+		death=yes
+	}
+}
+1059721 = {
+	name="Yanlu"
+	dynasty=1055036
+	religion="vajrayana"
+	culture="han"
+	father=1059716
+	2940.1.1={
+		birth=yes
+	}
+	3004.1.1 = {
+		death=yes
+	}
+}
+304185 = {
+	name="Yanrui"
+	dynasty=1055036
+	religion="vajrayana"
+	culture="han"
+	father=1059716
+	2942.1.1={
+		birth=yes
+	}
+	3004.1.1 = {
+		death=yes
+	}
+}
+1059722 = {
+	name="Zongshou"
+	dynasty=1055036
+	religion="vajrayana"
+	culture="han"
+	father=1059718
+	trait=intellect_good_1
+	2970.1.1={
+		birth=yes # maybe
+	}
+	3016.1.1 = {
+		death=yes
+	}
+}
+1059723 = {
+	name="Xianshun"
+	dynasty=1055036
+	religion="vajrayana"
+	culture="han"
+	father=1059722
+	trait=intellect_good_1
+	2990.1.1={
+		birth=yes # maybe
+	}
+	3038.1.1 = {
+		death=yes
+	}
+}
+
+# Guiyi Zhang family
+206811 = {
+	name="Yichao"
+	dynasty = 1055006 #ZHANG
+	religion="zhengyi"
+	culture="han"
+	trait=education_martial_3
+	trait=brave
+	father=304186
+
+	martial = 6
+	2801.1.1={
+		birth=yes
+	}
+	2874.1.1={
+		death=yes
+	}
+}
+244004 = {
+	dynasty = 1055006 #ZHANG
+	name = "Huaishen"
+	religion = zhengyi
+	culture = han
+	father=304187
+	2822.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+304186 = {
+	name="Yizhen" #fictional father
+	dynasty = 1055006 #ZHANG
+	religion="zhengyi"
+	culture="han"
+	2772.1.1={
+		birth=yes
+	}
+	2847.1.1={
+		death=yes
+	}
+}
+304187 = {
+	name="Yitan"
+	dynasty = 1055006 #ZHANG
+	religion="zhengyi"
+	culture="han"
+	father=304186
+	2804.1.1={
+		birth=yes
+	}
+	2869.1.1={
+		death=yes
+	}
+}
+304188 = {
+	name="Huading"
+	dynasty = 1055006 #ZHANG
+	religion="zhengyi"
+	culture="han"
+	father=206811
+	2842.1.1={
+		birth=yes
+	}
+	2894.1.1={
+		death=yes
+	}
+}
+304189 = {
+	name="Chengfeng"
+	dynasty = 1055006 #ZHANG
+	religion="zhengyi"
+	culture="han"
+	father=304188
+	2882.1.1={
+		birth=yes
+	}
+	2916.1.1={
+		death=yes
+	}
+}
+304190 = {
+	name="Yanmei" #unnamed daughter of Zhang Yichao
+	female=yes
+	dynasty = 1055006 #ZHANG
+	religion="zhengyi"
+	culture="han"
+	father=206811
+	2844.1.1={
+		birth=yes
+	}
+	2907.1.1={
+		death=yes
+	}
+}
+304191 = {
+	name="Xun"
+	dynasty = 2003011 #Suo
+	religion="zhengyi"
+	culture="han"
+	2842.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		add_spouse=304190
+	}
+	2896.1.1={
+		death=yes
+	}
+}
+304192 = {
+	name="Mingzhen"
+	dynasty = 2003012 #Li
+	religion="zhengyi"
+	culture="han"
+	2840.1.1={
+		birth=yes
+	}
+	2896.1.1={
+		death=yes
+	}
+}
+304193 = {
+	name="Gaodan" #unnamed son (one representing several)
+	dynasty = 2003012 #Li
+	religion="zhengyi"
+	culture="han"
+	father=304192
+	2862.1.1={
+		birth=yes
+	}
+	2898.1.1={
+		death=yes
+	}
+}
+
+#Song Governor of Xining
+305972 = {
+	name="Huai_en"
+	dynasty=2003081 #Zhou
+	religion="mahayana"
+	culture="han"
+	3082.1.1={
+		birth=yes
+	}
+	3138.1.1={
+		death=yes
+	}
+}
+
+#Shuofang Warlord state (887-933)
+han0001 = {
+	name="Zun"
+	dynasty=2003081 #Han
+	religion="zhengyi" #Shendao
+	culture="han"
+	2842.1.1={
+		birth=yes
+	}
+	2901.1.1={
+		death=yes
+	}
+}
+
+han0002 = {
+	name="Xun"
+	dynasty=2003081 #Han
+	religion="zhengyi" #Shendao
+	culture="han"
+	father=han0001
+	2862.1.1={
+		birth=yes
+	}
+	2919.1.1={
+		death=yes
+	}
+}
+
+han0003 = {
+	name="Zhu"
+	dynasty=2003081 #Han
+	religion="zhengyi" #Shendao
+	culture="han"
+	father=han0002
+	2882.1.1={
+		birth=yes
+	}
+	2931.1.1={
+		death=yes
+	}
+}
+
+han0004 = {
+	name="Cheng"
+	dynasty=2003081 #Han
+	religion="zhengyi" #Shendao
+	culture="han"
+	father=han0002
+	2887.1.1={
+		birth=yes
+	}
+	2932.1.1={
+		death=yes
+	}
+}
+
+#Placeholder Liangzhou Guiyi Vassal
+han0005 = {
+	name="Ye"
+	dynasty=yuan_fictional #Yuan
+	religion="mahayana"
+	culture="han"
+	2842.1.1={
+		birth=yes
+	}
+	2908.1.1={
+		death=yes
+	}
+}
+
+#Placeholder Ganzhou Guiyi Vassal
+han0006 = {
+	name="Jiawei"
+	dynasty=2003098 #Xue
+	religion="zhengyi"
+	culture="han"
+	2822.1.1={
+		birth=yes
+	}
+	2892.1.1={
+		death=yes
+	}
+}
+
+#Placeholder Suzhou Guiyi Vassal
+han0007 = {
+	name="Liang"
+	dynasty=2003098 #Xue
+	religion="zhengyi"
+	culture="han"
+	father=han0006
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+han0008 = {
+	name="Haotian"
+	dynasty=2003098 #Xue
+	religion="zhengyi"
+	culture="han"
+	father=han0007
+	trait=twin
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+han0009 = {
+	name="Haoyu"
+	dynasty=2003098 #Xue
+	religion="zhengyi"
+	culture="han"
+	father=han0007
+	trait=twin
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+#Cao Yijin fictional father to emphasize Sinicized Sogdian ancestry
+han0010 = {
+	name="Xianju"
+	dynasty=1055036 #Cao (Sogdian)
+	religion="vajrayana"
+	culture="sogdian"
+	2812.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		add_spouse=han0011
+	}
+	2867.1.1 = {
+		death=yes
+	}
+}
+
+#Fictional mother of Cao Yijin to connect with Zhang family
+han0011 = {
+	name="Ziyi"
+	female=yes
+	dynasty = 1055006 #ZHANG
+	religion="zhengyi"
+	culture="han"
+	father=304186
+	2826.1.1={
+		birth=yes
+	}
+	2880.1.1={
+		death=yes
+	}
+}
+
+#Guiyi Guazhou Vassals - fictional placeholders
+han0012 = {
+	name="Chuanxian"
+	dynasty=2003118 #Pan
+	religion="vajrayana"
+	culture="han"
+	2842.1.1={
+		birth=yes
+	}
+	2922.1.1 = {
+		death=yes
+	}
+}
+
+han0013 = {
+	name="Yu"
+	dynasty=2003118 #Pan
+	religion="vajrayana"
+	culture="han"
+	father=han0012
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1 = {
+		death=yes
+	}
+}
+
+han0014 = {
+	name="Tiande"
+	dynasty=2003118 #Pan
+	religion="vajrayana"
+	culture="han"
+	father=han0013
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1 = {
+		death=yes
+	}
+}
+
+han0015 = {
+	name="Liu"
+	dynasty=2003118 #Pan
+	religion="vajrayana"
+	culture="han"
+	father=han0014
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1 = {
+		death=yes
+	}
+}
+
+han0016 = {
+	name="Daguan"
+	dynasty=2003118 #Pan
+	religion="vajrayana"
+	culture="han"
+	father=han0015
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1 = {
+		death=yes
+	}
+}
+
+han0017 = {
+	name="Xu"
+	dynasty=2003118 #Pan
+	religion="vajrayana"
+	culture="han"
+	father=han0016
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1 = {
+		death=yes
+	}
+}
+
+han0018 = {
+	name="Longhao"
+	dynasty=2003118 #Pan
+	religion="vajrayana"
+	culture="han"
+	father=han0017
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1 = {
+		death=yes
+	}
+}
+
+han0019 = {
+	name="Jushi"
+	dynasty=2003118 #Pan
+	religion="vajrayana"
+	culture="han"
+	father=han0018
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1 = {
+		death=yes
+	}
+}
+
+han0020 = {
+	name="Lan"
+	dynasty=2003118 #Pan
+	religion="vajrayana"
+	culture="han"
+	father=han0019
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1 = {
+		death=yes
+	}
+}

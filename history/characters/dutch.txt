@@ -1,8 +1,28 @@
-﻿10068 = {
+﻿10066 = {
+	name = "Mathilda"
+	female = yes
+	dynasty = 7198
+	martial = 2
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	father = 41025
+	mother = 7999
+	3001.1.1 = {
+		birth = "3001.1.1"
+	}
+	3062.1.1 = {
+		death = "3062.1.1"
+	}
+}
+
+10068 = {
 	name = "Aleidis"
 	# AKA: Adele
 	female = yes
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 2
 	diplomacy = 4
 	intrigue = 5
@@ -19,9 +39,76 @@
 	}
 }
 
+10074 = {
+	name = "Boudewijn" #count of Hainault
+	dynasty = 724
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_martial_2
+	father = 106643
+	mother = 106640
+	3058.1.1 = {
+		birth = "3058.1.1"
+	}
+	3086.1.1 = {
+		add_spouse = 94017
+	}
+	
+	3100.8.1 = {
+		death = "3100.8.1"
+	}
+}
+
+10075 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 724
+	martial = 4
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_stewardship_2
+	father = 106643
+	mother = 106640
+	3060.1.1 = {
+		birth = "3060.1.1"
+	}
+	3073.1.1 = {
+		death = "3073.1.1"
+	}
+}
+
+10076 = {
+	name = "Robrecht" #Robert II
+	dynasty = 724
+	martial = 8
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 368
+	mother = 106521
+	3067.2.21 = {
+		birth = "3067.2.21"
+	}
+	3094.1.1 = {
+		add_spouse = 293
+	}
+	3113.10.5 = {
+		death = "3113.10.5"
+	}
+}
+
 106520 = {
 	name = "Dirk" #Dirk V
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 6
 	diplomacy = 8
 	intrigue = 8
@@ -46,7 +133,7 @@
 
 106522 = {
 	name = "Floris" #Floris I
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 6
 	diplomacy = 6
 	intrigue = 4
@@ -72,7 +159,7 @@
 
 106523 = {
 	name = "Dirk" #Dirk IV
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 6
 	diplomacy = 6
 	intrigue = 4
@@ -96,7 +183,7 @@
 106524 = {
 	name = "Bertha"
 	female = yes
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 8
 	diplomacy = 8
 	intrigue = 5
@@ -121,7 +208,7 @@
 	name = "Mechthild"
 	# AKA: Mechtild
 	female = yes
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 6
 	diplomacy = 7
 	intrigue = 7
@@ -139,10 +226,28 @@
 	}
 }
 
+106530 = {
+	name = "Willem"
+	dynasty = 427
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	father = 30053
+	3032.1.2 = {
+		birth = "3032.1.2"
+	}
+	3078.4.27 = {
+		death = "3078.4.27"
+	}
+}
+
 106531 = {
 	name = "Adela"
 	female = yes
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 5
 	diplomacy = 5
 	intrigue = 7
@@ -160,9 +265,80 @@
 	}
 }
 
+106540 = {
+	name = "Diederik"
+	# AKA: Theodoricus
+	dynasty = 427
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = honest
+	trait = arbitrary
+	trait = craven
+	trait = education_intrigue_2
+	father = 106542
+	mother = 106541
+	3037.1.2 = {
+		birth = "3037.1.2"
+	}
+	3056.1.2 = {
+		add_spouse = 106543
+	}
+	3084.10.19 = {
+		death = "3084.10.19"
+	}
+}
+
+106542 = {
+	name = "Gerard"
+	# AKA: Gerardus
+	dynasty = 427
+	martial = 7
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_martial_3
+	father = 30053
+	mother = 30054
+	3014.1.2 = {
+		birth = "3014.1.2"
+	}
+	3031.1.2 = {
+		add_spouse = 106541
+	}
+	3055.1.7 = {
+		death = "3055.1.7"
+	}
+}
+
+106544 = {
+	name = "Gozewijn"
+	dynasty = 427
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_martial_2
+	father = 106540
+	mother = 106543
+	3057.1.2 = {
+		birth = "3057.1.2"
+	}
+	3106.1.1 = {
+		death = "3106.1.1"
+	}
+}
+
 106550 = {
 	name = "Dirk" #Dirk II
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 8
 	diplomacy = 6
 	intrigue = 4
@@ -184,7 +360,7 @@
 
 106551 = {
 	name = "Dirk" #Dirk I
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 8
 	diplomacy = 6
 	intrigue = 4
@@ -192,6 +368,7 @@
 	religion = "catholic"
 	culture = "dutch"
 	trait = education_martial_2
+	father = 31060
 	2869.1.1 = {
 		birth = "2869.1.1"
 	}
@@ -202,7 +379,7 @@
 
 106555 = {
 	name = "Floris" #Floris II
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 6
 	diplomacy = 6
 	intrigue = 4
@@ -228,7 +405,7 @@
 
 106558 = {
 	name = "Floris" #Floris IV
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 7
 	diplomacy = 4
 	intrigue = 6
@@ -251,9 +428,789 @@
 	}
 }
 
+106570 = {
+	name = "Emmo" #1044-1078
+	dynasty_house = house_loon
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	trait = honest
+	trait = arbitrary
+	trait = craven
+	trait = education_martial_2
+	father = 106572
+	mother = 106571
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3048.1.1 = {
+		add_spouse = 31090
+	}
+	3080.1.17 = {
+		death = "3080.1.17"
+	}
+}
+
+106572 = {
+	name = "Giselbert" #1014-1044
+	dynasty_house = house_loon
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_martial_2
+	father = 161296
+	2987.1.1 = {
+		birth = "2987.1.1"
+	}
+	3019.1.1 = {
+		add_spouse = 106571
+	}
+	3046.1.1 = {
+		death = "3046.1.1"
+	}
+}
+
+106574 = {
+	name = "Otto"
+	dynasty_house = house_loon
+	martial = 6
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_martial_3
+	father = 106572
+	mother = 106571
+	3044.1.1 = {
+		birth = "3044.1.1"
+	}
+	3103.1.1 = {
+		death = "3103.1.1"
+	}
+}
+
+106590 = {
+	name = "Boudewijn"
+	dynasty = 421
+	martial = 6
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	trait = wrathful
+	trait = generous
+	trait = gluttonous
+	trait = education_martial_2
+	father = 106592
+	mother = 106591
+	3027.1.2 = {
+		birth = "3027.1.2"
+	}
+	3055.1.2 = {
+		add_spouse = 106593
+	}
+	3077.1.2 = {
+		death = "3077.1.2"
+	}
+}
+
+106592 = {
+	name = "Rudolf"
+	dynasty = 421
+	martial = 4
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_stewardship_3
+	father = 32202
+	3002.1.2 = {
+		birth = "3002.1.2"
+	}
+	3026.1.2 = {
+		add_spouse = 106591
+	}
+	3060.1.10 = {
+		death = "3060.1.10"
+	}
+}
+
+106593 = {
+	name = "Oda"
+	female = yes
+	martial = 8
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = temperate
+	trait = hunchbacked
+	trait = education_learning_2
+	3037.1.2 = {
+		birth = "3037.1.2"
+	}
+	3087.1.2 = {
+		death = "3087.1.2"
+	}
+}
+
+106594 = {
+	name = "Boudewijn"
+	dynasty = 421
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_stewardship_2
+	father = 106590
+	mother = 106593
+	3057.1.2 = {
+		birth = "3057.1.2"
+	}
+	3107.1.2 = {
+		death = "3107.1.2"
+	}
+}
+
+106595 = {
+	name = "Giselbert"
+	dynasty = 421
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = hunchbacked
+	trait = education_learning_2
+	father = 106590
+	mother = 106593
+	3059.1.2 = {
+		birth = "3059.1.2"
+	}
+	3109.1.2 = {
+		death = "3109.1.2"
+	}
+}
+
+106596 = {
+	name = "Engelbert"
+	dynasty = 421
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = cynical
+	trait = education_martial_2
+	father = 106590
+	mother = 106593
+	3061.1.2 = {
+		birth = "3061.1.2"
+	}
+	3111.1.2 = {
+		death = "3111.1.2"
+	}
+}
+
+106597 = {
+	name = "Liutgard"
+	female = yes
+	dynasty = 421
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	trait = humble
+	trait = education_learning_2
+	father = 106590
+	mother = 106593
+	3062.1.2 = {
+		birth = "3062.1.2"
+	}
+	3112.1.2 = {
+		death = "3112.1.2"
+	}
+}
+
+106600 = {
+	name = "Hendrik"
+	dynasty = 7198
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = cynical
+	trait = education_intrigue_1
+	father = 106602
+	mother = 106601
+	3022.1.2 = {
+		birth = "3022.1.2"
+	}
+	3042.1.2 = {
+		add_spouse = 106603
+	}
+	3080.1.1 = {
+		death = "3080.1.1"
+	}
+}
+
+106602 = {
+	name = "Lambrecht"
+	dynasty = 7198
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_intrigue_2
+	father = 41025
+	mother = 7999
+	2997.1.1 = {
+		birth = "2997.1.1"
+	}
+	3018.1.1 = {
+		add_spouse = 106601
+	}
+	3056.6.19 = {
+		death = "3056.6.19"
+	}
+}
+
+106603 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 101554
+	martial = 8
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "dutch"
+	trait = generous
+	trait = education_learning_3
+	father = 161530
+	3029.1.1 = {
+		birth = "3029.1.1"
+	}
+	3088.1.1 = {
+		death = "3088.1.1"
+	}
+}
+
+106604 = {
+	name = "Godfried"
+	dynasty = 7198
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = arbitrary
+	trait = hunchbacked
+	trait = education_stewardship_2
+	father = 106600
+	mother = 106603
+	3065.1.1 = {
+		birth = "3065.1.1"
+	}
+	3110.1.1 = {
+		add_spouse = 33209
+	}
+	3141.1.25 = {
+		death = "3141.1.25"
+	}
+}
+
+106605 = {
+	name = "Adela"
+	female = yes
+	dynasty = 7198
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_learning_3
+	father = 106602
+	mother = 106601
+	3042.1.2 = {
+		birth = "3042.1.2"
+	}
+	3092.1.2 = {
+		death = "3092.1.2"
+	}
+}
+
+106642 = {
+	name = "Reginar"
+	# AKA: Renier
+	dynasty = 7198 #Reginar
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_intrigue_1
+	father = 7998
+	mother = 203
+	3000.1.2 = {
+		birth = "3000.1.2"
+	}
+	3018.1.2 = {
+		add_spouse = 106641
+	}
+	3041.1.3 = {
+		death = "3041.1.3"
+	}
+}
+
+106643 = {
+	name = "Boudewijn" #Boudewijn VI
+	dynasty = 724
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = lazy
+	trait = education_martial_3
+	father = 364
+	mother = 213
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3053.1.2 = {
+		add_spouse = 106640 # Richilde, Countess of Hainaut
+	}
+	3072.7.17 = {
+		death = "3072.7.17"
+	}
+}
+
+1200 = {
+	name = "Hendrik"
+	dynasty = 671
+	martial = 8
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = cynical
+	trait = education_martial_2
+	3030.1.2 = {
+		birth = "3030.1.2"
+	}
+	3080.1.2 = {
+		death = "3080.1.2"
+	}
+}
+
+1202 = {
+	name = "Hendrik"
+	dynasty = 671
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "dutch"
+	trait = cynical
+	trait = education_martial_3
+	father = 1200
+	3051.1.2 = {
+		birth = "3051.1.2"
+	}
+	3101.1.2 = {
+		death = "3101.1.2"
+	}
+}
+
+202960 = {
+	name = "Freskin"
+	dynasty = 100040
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_learning_2
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3173.1.1 = {
+		death = "3173.1.1"
+	}
+}
+
+205520 = {
+	name = "Boudewijn" #Boudewijn VIII
+	# AKA: Baudouin
+	dynasty = 724
+	martial = 7
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_martial_2
+	father = 205521
+	mother = 205945
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3171.1.1 = {
+		add_spouse = 212589
+	}
+	3197.12.17 = {
+		death = "3197.12.17"
+	}
+}
+
+205521 = {
+	name = "Boudewijn"
+	# AKA: Baudouin
+	dynasty = 724
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_martial_2
+	father = 94015
+	mother = 30012
+	3110.1.1 = {
+		birth = "3110.1.1"
+	}
+	3132.1.1 = {
+		add_spouse = 205945
+	}
+	3173.11.8 = {
+		death = "3173.11.8"
+	}
+}
+
+205523 = {
+	name = "Boudewijn" #Boudewijn IX + I
+	# AKA: Baudouin
+	dynasty = 724
+	martial = 5
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 205520
+	mother = 212589
+	3173.7.1 = {
+		birth = "3173.7.1"
+	}
+	3188.1.1 = {
+		add_spouse = 205965
+	}
+	3206.5.16 = {
+		name = "Baudouin"
+		add_pressed_claim = title:c_mesembria
+		add_pressed_claim = title:d_thessalonika
+		add_pressed_claim = title:d_athens
+		add_pressed_claim = title:d_epirus
+		add_pressed_claim = title:d_achaia
+		
+		#effect = {
+		#	FIX_HISTORY_create_character = {
+		#		random_traits = yes
+		#		dynasty = random
+		#		religion = ROOT
+		#		culture = ROOT
+		#		female = no
+		#		age = 23
+		#		attributes = {
+		#			martial = 6
+		#		}
+		#		trait = education_martial_2
+		#	}
+		#	new_character = {
+		#		spawn_unit = {
+		#			province = 496 # Constantinople
+		#			owner = PREV
+		#			troops = {
+		#				light_infantry = { 1200 1200 }
+		#				heavy_infantry = { 737 737 }
+		#				pikemen = { 237 237 }
+		#				archers = { 795 795 }
+		#				light_cavalry = { 331 331 }
+		#				knights = { 132 132 }
+		#			}
+		#		}
+		#	}
+		#	FIX_HISTORY_create_character = {
+		#		random_traits = yes
+		#		dynasty = random
+		#		religion = ROOT
+		#		culture = ROOT
+		#		female = no
+		#		age = 30
+		#		attributes = {
+		#			martial = 5
+		#		}
+		#		trait = education_martial_2
+		#	}
+		#	new_character = {
+		#		spawn_unit = {
+		#			province = 496 # Constantinople
+		#			owner = PREV
+		#			troops = {
+		#				light_infantry = { 1200 1200 }
+		#				heavy_infantry = { 737 737 }
+		#				pikemen = { 237 237 }
+		#				archers = { 795 795 }
+		#				light_cavalry = { 331 331 }
+		#				knights = { 132 132 }
+		#			}
+		#		}
+		#	}
+		#	FIX_HISTORY_create_character = {
+		#		random_traits = yes
+		#		dynasty = random
+		#		religion = ROOT
+		#		culture = ROOT
+		#		female = no
+		#		age = 27
+		#		attributes = {
+		#			martial = 5
+		#		}
+		#		trait = education_martial_2
+		#	}
+		#	new_character = {
+		#		spawn_unit = {
+		#			province = 496 # Constantinople
+		#			owner = PREV
+		#			troops = {
+		#				light_infantry = { 1200 1200 }
+		#				heavy_infantry = { 737 737 }
+		#				pikemen = { 237 237 }
+		#				archers = { 795 795 }
+		#				light_cavalry = { 331 331 }
+		#				knights = { 132 132 }
+		#			}
+		#		}
+		#	}
+		#}
+	}	
+	3206.5.16 = {
+		culture = "french"
+	}
+	3207.6.1 = {
+		death = "3207.6.1"
+	}
+}
+
+205529 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 724
+	martial = 3
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_stewardship_4
+	father = 205521
+	mother = 205945
+	3144.1.1 = {
+		birth = "3144.1.1"
+	}
+	3175.1.18 = {
+		death = "3175.1.18"
+	}
+}
+
+206800 = {
+	name = "Gerard" #1171-1191
+	dynasty_house = house_loon
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_intrigue_1
+	father = 206801
+	mother = 31548
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3181.1.1 = {
+		add_spouse = 30021
+	}
+	3193.9.2 = {
+		death = "3193.9.2"
+	}
+}
+
+206801 = {
+	name = "Lodewijk" #1139-1171
+	dynasty_house = house_loon
+	martial = 4
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = just
+	trait = education_intrigue_1
+	father = 33063
+	mother = 33064
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	3145.1.1 = {
+		add_spouse = 31548
+	}
+	3173.8.11 = {
+		death = "3173.8.11"
+	}
+}
+
+206802 = {
+	name = "Lodewijk" #1191-1218
+	dynasty_house = house_loon
+	martial = 4
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = generous
+	trait = education_martial_2
+	father = 206800
+	mother = 30021
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3205.1.1 = {
+		add_spouse = 31068
+	}
+	3205.1.1 = {
+		add_pressed_claim = title:d_holland
+	}
+	3220.7.30 = {
+		death = "3220.7.30"
+	}
+}
+
+206803 = {
+	name = "Hendrik" #1218
+	dynasty_house = house_loon
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_learning_2
+	father = 206800
+	mother = 30021
+	3183.1.1 = {
+		birth = "3183.1.1"
+	}
+	3220.8.2 = {
+		death = "3220.8.2"
+	}
+}
+
+206804 = {
+	name = "Gerard"
+	dynasty_house = house_loon
+	martial = 4
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 206800
+	mother = 30021
+	3185.1.1 = {
+		birth = "3185.1.1"
+	}
+	3218.10.24 = {
+		death = "3218.10.24"
+	}
+}
+
+206805 = {
+	name = "Arnold" #1218-1221
+	dynasty_house = house_loon
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	father = 206800
+	mother = 30021
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3209.1.1 = {
+		add_spouse = 7473
+	}
+	3223.9.20 = {
+		death = "3223.9.20"
+	}
+}
+
+206806 = {
+	name = "Imagina"
+	female = yes
+	dynasty_house = house_loon
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	trait = lustful
+	trait = education_learning_3
+	father = 206801
+	mother = 31548
+	3160.1.1 = {
+		birth = "3160.1.1"
+	}
+	3216.6.5 = {
+		death = "3216.6.5"
+	}
+}
+
 206840 = {
 	name = "Floris" #Floris III
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 7
 	diplomacy = 7
 	intrigue = 6
@@ -282,7 +1239,7 @@
 
 206841 = {
 	name = "Dirk" #Dirk VI
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 8
 	diplomacy = 6
 	intrigue = 4
@@ -306,7 +1263,7 @@
 
 206842 = {
 	name = "Dirk" #Dirk VII
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 6
 	diplomacy = 7
 	intrigue = 5
@@ -331,7 +1288,7 @@
 
 206843 = {
 	name = "Willem" #Willem I
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 7
 	diplomacy = 4
 	intrigue = 6
@@ -360,7 +1317,7 @@
 206844 = {
 	name = "Ada"
 	female = yes
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 5
 	diplomacy = 7
 	intrigue = 5
@@ -381,7 +1338,7 @@
 
 206847 = {
 	name = "Boudewijn" #bishop of Sticht
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 4
 	diplomacy = 4
 	intrigue = 6
@@ -405,7 +1362,7 @@
 
 206848 = {
 	name = "Dirk" #bishop of Sticht
-	dynasty = CKU_holland
+	dynasty_house = house_gerulfing
 	martial = 8
 	diplomacy = 8
 	intrigue = 6
@@ -427,917 +1384,9 @@
 	}
 }
 
-212921 = {
-	name = "Margarete"
-	female = yes
-	dynasty = CKU_holland
-	martial = 7
-	diplomacy = 7
-	intrigue = 7
-	stewardship = 5
-	religion = "catholic"
-	culture = "dutch"
-	trait = education_learning_3
-	father = 206840
-	mother = 203512
-	3166.1.1 = {
-		birth = "3166.1.1"
-	}
-	3205.1.1 = {
-		death = "3205.1.1"
-	}
-}
-
-31061 = {
-	name = "Floris"
-	# AKA: Floris de Zwarte
-	dynasty = CKU_holland
-	
-	religion = "catholic"
-	culture = "dutch"
-	
-	father = 106555
-	mother = 106554
-	3117.1.1 = {
-		birth = "3117.1.1"
-	}
-	
-	3134.10.26 = {
-		death = "3134.10.26"
-	}
-}
-
-31062 = {
-	name = "Simon"
-	dynasty = CKU_holland
-	
-	religion = "catholic"
-	culture = "dutch"
-	
-	father = 106555
-	mother = 106554
-	3120.1.1 = {
-		birth = "3120.1.1"
-	}
-	
-	3149.1.1 = {
-		death = "3149.1.1"
-	}
-}
-
-31063 = {
-	name = "Hedwig"
-	female = yes
-	dynasty = CKU_holland
-	
-	religion = "catholic"
-	culture = "dutch"
-	trait = bastard
-	father = 106555
-	
-	3107.1.1 = {
-		birth = "3107.1.1"
-	}
-	
-	3144.1.1 = {
-		death = "3144.1.1"
-	}
-}
-
-31064 = {
-	name = "Dirk"
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 206841
-	mother = 206845
-	3140.1.1 = {
-		birth = "3140.1.1"
-	}
-	
-	3153.1.1 = {
-		death = "3153.1.1"
-	}
-}
-
-31065 = {
-	name = "Robrecht"
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	trait = bastard
-	father = 206841
-	
-	3140.1.1 = {
-		birth = "3140.1.1"
-	}
-	
-	3192.1.1 = {
-		death = "3192.1.1"
-	}
-}
-
-31066 = {
-	name = "Otto"
-	dynasty_house = house_bentheim
-	religion = "catholic"
-	culture = "dutch"
-	
-	father = 206841
-	mother = 206845
-	3144.1.1 = {
-		birth = "3144.1.1"
-	}
-	
-	3211.2.13 = {
-		death = "3211.2.13"
-	}
-}
-
-31067 = {
-	name = "Aleidis"
-	female = yes
-	dynasty = CKU_holland
-	
-	religion = "catholic"
-	culture = "dutch"
-	
-	father = 206842
-	mother = 212924
-	3189.1.1 = {
-		birth = "3189.1.1"
-	}
-	3205.1.1 = {
-		death = "3205.1.1"
-	}
-}
-
-31068 = {
-	name = "Ada"
-	female = yes
-	dynasty = CKU_holland
-	
-	religion = "catholic"
-	culture = "dutch"
-	
-	father = 206842
-	mother = 212924
-	3190.1.1 = {
-		birth = "3190.1.1"
-	}
-	
-	#1203 marries Lodewijk van Loon
-	
-	3229.1.1 = {
-		death = "3229.1.1"
-	}
-}
-
-31069 = {
-	name = "Floris"
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 206840
-	mother = 203512
-	3168.1.1 = {
-		birth = "3168.1.1"
-	}
-	
-	3212.1.1 = {
-		death = "3212.1.1"
-	}
-}
-
-31070 = {
-	name = "Boudewijn"
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 206840
-	mother = 203512
-	3169.1.1 = {
-		birth = "3169.1.1"
-	}
-	
-	3205.1.1 = {
-		death = "3205.1.1"
-	}
-}
-
-31071 = {
-	name = "Elizabeth"
-	female = yes
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 206840
-	mother = 203512
-	3170.1.1 = {
-		birth = "3170.1.1"
-	}
-	
-	3207.1.1 = {
-		death = "3207.1.1"
-	}
-}
-
-31072 = {
-	name = "Hedwig"
-	female = yes
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 206840
-	mother = 203512
-	3171.1.1 = {
-		birth = "3171.1.1"
-	}
-	
-	3217.1.1 = {
-		death = "3217.1.1"
-	}
-}
-
-31073 = {
-	name = "Agnes"
-	female = yes
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 206840
-	mother = 203512
-	3172.1.1 = {
-		birth = "3172.1.1"
-	}
-	
-	3235.1.1 = {
-		death = "3235.1.1"
-	}
-}
-
-31074 = {
-	name = "Willem"#regent of Holland
-	# AKA: Willem
-	dynasty = CKU_holland #Gerulfing
-	
-	religion = "catholic"
-	culture = "dutch"
-	father = 206843
-	mother = 30026
-	
-	3216.1.1 = {
-		birth = "3216.1.1"
-	}
-	
-	3240.1.1 = {
-		death = "3240.1.1"
-	}
-}
-
-31075 = {
-	name = "Richarde"
-	female = yes
-	dynasty = CKU_holland #Gerulfing
-	
-	religion = "catholic"
-	culture = "dutch"
-	father = 206843
-	mother = 30026
-	
-	3204.1.1 = {
-		birth = "3204.1.1"
-	}
-	
-	3264.1.1 = {
-		death = "3264.1.1"
-	}
-}
-
-31076 = {
-	name = "Ada"
-	female = yes
-	dynasty = CKU_holland #Gerulfing
-	
-	religion = "catholic"
-	culture = "dutch"
-	father = 206843
-	mother = 30026
-	
-	3207.1.1 = {
-		birth = "3207.1.1"
-	}
-	
-	3260.1.1 = {
-		death = "3260.1.1"
-	}
-}
-
-31077 = {
-	name = "Floris"
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 106558
-	mother = 106557
-	3230.1.1 = {
-		birth = "3230.1.1"
-	}
-	
-	
-	3260.1.1 = {
-		death = "3260.1.1"
-	}
-}
-
-31078 = {
-	name = "Margareta"
-	female = yes
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 106558
-	mother = 106557
-	3231.1.1 = {
-		birth = "3231.1.1"
-	}
-	
-	
-	3279.1.1 = {
-		death = "3279.1.1"
-	}
-}
-
-31079 = {
-	name = "Mechthild"
-	female = yes
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 106558
-	mother = 106557
-	3235.1.1 = {
-		birth = "3235.1.1"
-	}
-	
-	
-	3272.1.1 = {
-		death = "3272.1.1"
-	}
-}
-
-31080 = {
-	name = "Mechthild"
-	female = yes
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 94003
-	mother = 31093
-	3258.1.1 = {
-		birth = "3258.1.1"
-	}
-	3268.1.1 = {
-		death = "3268.1.1"
-	}
-}
-
-31082 = {
-	name = "Witte"
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	trait = bastard
-	father = 94005
-	
-	3282.1.1 = {
-		birth = "3282.1.1"
-	}
-	3323.12.26 = {
-		death = "3323.12.26"
-	}
-}
-
-31083 = {
-	name = "Willem"
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	trait = bastard
-	father = 94005
-	
-	3285.1.1 = {
-		birth = "3285.1.1"
-	}
-	3356.1.1 = {
-		death = "3356.1.1"
-	}
-}
-
-31084 = {
-	name = "Dirk"
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	trait = bastard
-	father = 94005
-	
-	3287.1.1 = {
-		birth = "3287.1.1"
-	}
-	3322.1.1 = {
-		death = "3322.1.1"
-	}
-}
-
-31089 = {
-	name = "Betrada"
-	female = yes
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 40713
-	mother = 30008
-	3020.1.1 = {
-		birth = "3020.1.1"
-	}
-	3058.1.1 = {
-		death = "3058.1.1"
-	}
-}
-
-31090 = {
-	name = "Swanhildis"
-	female = yes
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 40713
-	mother = 30008
-	3021.1.1 = {
-		birth = "3021.1.1"
-	}
-	3066.1.1 = {
-		death = "3066.1.1"
-	}
-}
-
-31092 = {
-	name = "Mathilde"
-	female = yes
-	dynasty = CKU_holland
-	
-	religion = "catholic"
-	culture = "dutch"
-	father = 106520
-	mother = 31091
-	3090.1.1 = {
-		birth = "3090.1.1"
-	}
-	3132.1.1 = {
-		death = "3132.1.1"
-	}
-}
-
-40712 = {
-	name = "Arnulf" #Arnulf I
-	dynasty = CKU_holland
-	martial = 8
-	diplomacy = 6
-	intrigue = 4
-	stewardship = 5
-	religion = "catholic"
-	culture = "dutch"
-	trait = education_martial_2
-	father = 106550
-	mother = 94000
-	2955.1.1 = {
-		birth = "2955.1.1"
-	}
-	2982.5.1 = {
-		add_spouse = 40709
-	}
-	2995.9.18 = {
-		death = "2995.9.18"
-	}
-}
-
-40713 = {
-	name = "Dirk" #Dirk III
-	# AKA: Dirk 'Hierosolymita'
-	dynasty = CKU_holland
-	martial = 7
-	diplomacy = 7
-	intrigue = 4
-	stewardship = 6
-	religion = "catholic"
-	culture = "dutch"
-	trait = education_learning_2
-	father = 40712
-	mother = 40709
-	2984.1.1 = {
-		birth = "2984.1.1"
-	}
-	3016.1.1 = {
-		add_spouse = 30008
-	}
-	
-	3041.5.27 = {
-		death = "3041.5.27"
-	}
-}
-
-94003 = {
-	name = "Willem" #Willem II
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	trait = arrogant
-	trait = ambitious
-	father = 106558
-	mother = 106557
-	3229.1.1 = {
-		birth = "3229.1.1"
-	}
-	3254.1.1 = {
-		add_spouse = 31093
-	}
-	
-	3258.1.28 = {
-		death = "3258.1.28"
-	}
-}
-
-94005 = {
-	name = "Floris" #Floris V
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	trait = just
-	trait = generous
-	father = 94003
-	mother = 31093
-	3256.6.24 = {
-		birth = "3256.6.24"
-	}
-	3273.1.1 = {
-		add_spouse = 94006
-	}
-	3288.3.19 = {
-		add_pressed_claim = title:k_scotland
-	}
-	
-	3298.6.27 = {
-		death = "3298.6.27"
-	}
-}
-
-94007 = {
-	name = "Jan" #Jan I
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	trait = ill
-	trait = education_stewardship_2
-	father = 94005
-	mother = 94006
-	3286.1.1 = {
-		birth = "3286.1.1"
-	}
-	3299.1.7 = {
-		add_spouse = 454516
-	}
-	3301.11.10 = {
-		death = "3301.11.10"
-	}
-}
-
-94010 = {
-	name = "Aleidis"
-	# AKA: Aleid
-	female = yes
-	dynasty = CKU_holland
-	religion = "catholic"
-	culture = "dutch"
-	father = 106558
-	mother = 106557
-	3232.1.1 = {
-		birth = "3232.1.1"
-	}
-	
-	#1246 marries Jan d'Avesnes
-	
-	3286.1.1 = {
-		death = "3286.1.1"
-	}
-}
-
-94022 = {
-	name = "Otto" #bishop of Sticht
-	dynasty = CKU_holland #Gerulfing
-	religion = "catholic"
-	culture = "dutch"
-	father = 206843
-	mother = 30026
-	3213.7.1 = {
-		birth = "3213.7.1"
-	}
-	3229.8.1 = {
-		capital = c_nedersticht
-	}
-	3251.3.27 = {
-		death = "3251.3.27"
-	}
-}
-## Start of german Gerulfing
-33285 = {
-	name = "Otto"
-	dynasty_house = house_bentheim
-	religion = "catholic"
-	culture = franconian	
-	father = 31807
-	3303.1.1 = {
-		birth = "3303.1.1"
-	}	
-	3330.5.4 = {
-		death = "3330.5.4"
-	}
-}
-
-33286 = {
-	name = "Richardis"
-	female = yes
-	dynasty_house = house_bentheim
-	religion = "catholic"
-	culture = franconian	
-	father = 31807
-	3297.1.1 = {
-		birth = "3297.1.1"
-	}	
-	3328.1.1 = {
-		death = "3328.1.1"
-	}
-}
-
-31798 = {
-	name = "Baldewin"
-	dynasty_house = house_bentheim
-	religion = "catholic"
-	culture = franconian	
-	father = 31066
-	3192.1.1 = {
-		birth = "3192.1.1"
-	}
-	3250.5.9 = {
-		death = "3250.5.9"
-	}
-}
-
-31799 = {
-	name = "Otto"
-	dynasty_house = house_bentheim
-	religion = "catholic"
-	culture = franconian
-	father = 31798
-	3208.1.1 = {
-		birth = "3208.1.1"
-	}
-	3242.1.1 = {
-		add_spouse = 31804
-	}
-	3281.1.1 = {
-		death = "3281.1.1"
-	}
-}
-31800 = {
-	name = "Ekbert"
-	dynasty_house = house_bentheim
-	religion = "catholic"
-	culture = franconian
-	father = 31799
-	3252.1.1 = {
-		birth = "3252.1.1"
-	}
-	3309.6.25 = {
-		death = "3309.6.25"
-	}
-}
-31801 = {
-	name = "Johann"
-	dynasty_house = house_bentheim
-	religion = "catholic"
-	culture = franconian
-	father = 31800
-	3277.1.1 = {
-		birth = "3277.1.1"
-	}
-	3312.8.1 = {
-		add_spouse = CKU_lippe_10
-	}
-	3335.7.21 = {
-		death = "3335.7.21"
-	}
-}
-31802 = {
-	name = "Simon"
-	dynasty_house = house_bentheim
-	religion = "catholic"
-	culture = franconian
-	father = 31801
-	mother = CKU_lippe_10
-	3301.1.1 = {
-		birth = "3301.1.1"
-	}	
-	3346.1.2 = {
-		death = "3346.1.2"
-	}
-}
-
-31805 = {
-	name = "Otto"
-	dynasty_house = house_bentheim
-	religion = "catholic"
-	culture = franconian	
-	father = 31799
-	mother = 31804
-	3243.1.1 = {
-		birth = "3243.1.1"
-	}	
-	3281.1.1 = {
-		death = "3281.1.1"
-	}
-}
-
-31806 = {
-	name = "Otto"
-	dynasty_house = house_bentheim
-	religion = "catholic"
-	culture = franconian	
-	father = 31805
-	3260.1.1 = {
-		birth = "3260.1.1"
-	}	
-	3275.1.1 = {
-		add_spouse = CKU_berg_59
-	}
-	3287.1.1 = {
-		death = "3287.1.1"
-	}
-}
-
-31807 = {
-	name = "Otto"
-	dynasty_house = house_bentheim
-	religion = "catholic"
-	culture = franconian	
-	father = 31806
-	mother = CKU_berg_59
-	3277.1.1 = {
-		birth = "3277.1.1"
-	}	
-	3309.5.3 = {
-		death = "3309.5.3"
-	}
-}
-## End of german Gerulfing
-## Start of House Brabant
-10066 = {
-	name = "Mathilda"
-	female = yes
-	dynasty = CKU_brabant
-	martial = 2
-	diplomacy = 4
-	intrigue = 5
-	stewardship = 7
-	religion = "catholic"
-	culture = "dutch"
-	father = 41025
-	mother = 7999
-	3001.1.1 = {
-		birth = "3001.1.1"
-	}
-	3062.1.1 = {
-		death = "3062.1.1"
-	}
-}
-106600 = {
-	name = "Hendrik"
-	dynasty = CKU_brabant
-	martial = 5
-	diplomacy = 4
-	intrigue = 6
-	stewardship = 5
-	religion = "catholic"
-	culture = "dutch"
-	trait = cynical
-	trait = education_intrigue_1
-	father = 106602
-	mother = 106601
-	3022.1.2 = {
-		birth = "3022.1.2"
-	}
-	3042.1.2 = {
-		add_spouse = 106603
-	}
-	3080.1.1 = {
-		death = "3080.1.1"
-	}
-}
-
-106602 = {
-	name = "Lambrecht"
-	dynasty = CKU_brabant
-	martial = 6
-	diplomacy = 6
-	intrigue = 6
-	stewardship = 6
-	religion = "catholic"
-	culture = "dutch"
-	trait = education_intrigue_2
-	father = 41025
-	mother = 7999
-	2997.1.1 = {
-		birth = "2997.1.1"
-	}
-	3018.1.1 = {
-		add_spouse = 106601
-	}
-	3056.6.19 = {
-		death = "3056.6.19"
-	}
-}
-106604 = {
-	name = "Godfried"
-	dynasty = CKU_brabant
-	martial = 6
-	diplomacy = 6
-	intrigue = 8
-	stewardship = 7
-	religion = "catholic"
-	culture = "dutch"
-	trait = arbitrary
-	trait = hunchbacked
-	trait = education_stewardship_2
-	father = 106600
-	mother = 106603
-	3065.1.1 = {
-		birth = "3065.1.1"
-	}
-	3110.1.1 = {
-		add_spouse = 33209
-	}
-	3141.1.25 = {
-		death = "3141.1.25"
-	}
-}
-
-106605 = {
-	name = "Adela"
-	female = yes
-	dynasty = CKU_brabant
-	martial = 5
-	diplomacy = 4
-	intrigue = 6
-	stewardship = 5
-	religion = "catholic"
-	culture = "dutch"
-	trait = education_learning_3
-	father = 106602
-	mother = 106601
-	3042.1.2 = {
-		birth = "3042.1.2"
-	}
-	3092.1.2 = {
-		death = "3092.1.2"
-	}
-}
-
-106642 = {
-	name = "Reginar"
-	# AKA: Renier
-	dynasty = CKU_brabant #Reginar
-	martial = 7
-	diplomacy = 7
-	intrigue = 7
-	stewardship = 5
-	religion = "catholic"
-	culture = "dutch"
-	trait = education_intrigue_1
-	father = 7998
-	mother = 203
-	3000.1.2 = {
-		birth = "3000.1.2"
-	}
-	3018.1.2 = {
-		add_spouse = 106641
-	}
-	3041.1.3 = {
-		death = "3041.1.3"
-	}
-}
 206850 = {
 	name = "Godfried"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 7
 	diplomacy = 7
 	intrigue = 6
@@ -1365,7 +1414,7 @@
 
 206851 = {
 	name = "Godfried"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 5
 	intrigue = 8
@@ -1388,7 +1437,7 @@
 
 206852 = {
 	name = "Hendrik"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 5
 	intrigue = 4
@@ -1409,7 +1458,7 @@
 		add_spouse = 205854
 	}
 	3215.4.24 = {
-		add_spouse = CKU_capet_39
+		add_spouse = 91028
 	}
 	3237.9.5 = {
 		death = "3237.9.5"
@@ -1418,7 +1467,7 @@
 
 206853 = {
 	name = "Adalbert"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 6
 	diplomacy = 6
 	intrigue = 8
@@ -1439,7 +1488,7 @@
 
 206854 = {
 	name = "Willem"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 6
 	diplomacy = 6
 	intrigue = 8
@@ -1460,7 +1509,7 @@
 
 206855 = {
 	name = "Godfried"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 4
 	diplomacy = 5
 	intrigue = 7
@@ -1483,7 +1532,7 @@
 206857 = {
 	name = "Adelheid"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 4
 	diplomacy = 8
 	intrigue = 7
@@ -1502,10 +1551,1529 @@
 		death = "3153.1.22"
 	}
 }
+
+212921 = {
+	name = "Margarete"
+	female = yes
+	dynasty_house = house_gerulfing
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_learning_3
+	father = 206840
+	mother = 203512
+	3166.1.1 = {
+		birth = "3166.1.1"
+	}
+	3205.1.1 = {
+		death = "3205.1.1"
+	}
+}
+
+231002 = {
+	name = "Kuno"
+	dynasty = 100081
+	martial = 8
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = gluttonous
+	trait = arrogant
+	trait = education_martial_2
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3197.1.1 = {
+		death = "3197.1.1"
+	}
+}
+
+231003 = {
+	name = "Menfrid"
+	dynasty = 100081
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = just
+	trait = arrogant
+	trait = education_martial_2
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3197.1.1 = {
+		death = "3197.1.1"
+	}
+}
+
+231004 = {
+	name = "Wihard"
+	dynasty = 100085
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = brave
+	trait = just
+	trait = gluttonous
+	trait = education_learning_2
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3197.1.1 = {
+		death = "3197.1.1"
+	}
+}
+
+30010 = {
+	name = "Margareta"
+	female = yes
+	dynasty_house = house_loon
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 106572
+	mother = 106571
+	3040.1.1 = {
+		birth = "3040.1.1"
+	}
+	3064.1.1 = {
+		death = "3064.1.1"
+	}
+}
+
+30011 = {
+	name = "Judith"
+	female = yes
+	dynasty = 427
+	martial = 3
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 41720
+	mother = 30050
+	3081.1.2 = {
+		birth = "3081.1.2"
+	}
+	3153.6.24 = {
+		death = "3153.6.24"
+	}
+}
+
+30012 = {
+	name = "Yolanda"
+	female = yes
+	dynasty = 427
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 41720
+	mother = 30050
+	
+	3091.1.2 = {
+		birth = "3091.1.2"
+	}
+	
+	
+	3133.1.1 = {
+		death = "3133.1.1"
+	}
+}
+
+30013 = {
+	name = "Gerard"
+	dynasty = 427
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	father = 41720
+	mother = 30050
+	
+	3092.1.2 = {
+		birth = "3092.1.2"
+	}
+	3117.1.1 = {
+		add_spouse = 30014
+	}
+	
+	
+	3133.10.24 = {
+		death = "3133.10.24"
+	}
+}
+
+30014 = {
+	name = "Ermgard"
+	female = yes
+	dynasty = 101918
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	father = 41722
+	
+	3093.1.2 = {
+		birth = "3093.1.2"
+	}
+	
+	
+	3136.1.1 = {
+		death = "3136.1.1"
+	}
+}
+
+30015 = {
+	name = "Hendrik"
+	dynasty = 427
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	father = 30013
+	mother = 30014
+	
+	3119.1.2 = {
+		birth = "3119.1.2"
+	}
+	3139.1.2 = {
+		add_spouse = 30051
+	}
+	
+	
+	3184.9.10 = {
+		death = "3184.9.10"
+	}
+}
+
+30016 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 427
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 30013
+	mother = 30014
+	3120.1.2 = {
+		birth = "3120.1.2"
+	}
+	3152.1.1 = {
+		death = "3152.1.1"
+	}
+}
+
+30017 = {
+	name = "Salome"
+	female = yes
+	dynasty = 427
+	martial = 3
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 30013
+	mother = 30014
+	3123.1.2 = {
+		birth = "3123.1.2"
+	}
+	3169.1.1 = {
+		death = "3169.1.1"
+	}
+}
+
+30018 = {
+	name = "Gerard"
+	dynasty = 427
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	father = 30015
+	mother = 30051
+	3142.1.2 = {
+		birth = "3142.1.2"
+	}
+	3184.1.1 = {
+		death = "3184.1.1"
+	}
+}
+
+30019 = {
+	name = "Otto"
+	dynasty = 427
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 30015
+	mother = 30051
+	
+	
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3182.1.1 = {
+		add_spouse = 212955
+	}
+	
+	3209.10.22 = {
+		death = "3209.10.22"
+	}
+}
+
+30020 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 427
+	martial = 3
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	father = 30015
+	mother = 30051
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3188.7.1 = {
+		death = yes
+	}
+}
+
+30021 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 427
+	martial = 4
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	father = 30015
+	mother = 30051
+	3154.1.1 = {
+		birth = "3154.1.1"
+	}
+	3215.1.1 = {
+		death = "3215.1.1"
+	}
+}
+
+30022 = {
+	name = "Margareta"
+	female = yes
+	dynasty = 427
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 30015
+	mother = 30051
+	3156.1.1 = {
+		birth = "3156.1.1"
+	}
+	3191.1.1 = {
+		death = "3191.1.1"
+	}
+}
+
+30023 = {
+	name = "Gerard"
+	dynasty = 427
+	martial = 7
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	father = 30019
+	mother = 212955
+	
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3208.1.1 = {
+		add_spouse = 94014
+	}
+	
+	
+	3231.10.22 = {
+		death = "3231.10.22"
+	}
+}
+
+30024 = {
+	name = "Hendrik"
+	dynasty = 427
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	father = 30019
+	mother = 212955
+	3186.1.1 = {
+		birth = "3186.1.1"
+	}
+	3200.1.1 = {
+		death = "3200.1.1"
+	}
+}
+
+30025 = {
+	name = "Otto" #bishop of Sticht 1212 - 1215
+	dynasty = 427
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 30019
+	mother = 212955
+	
+	3196.1.1 = {
+		birth = "3196.1.1"
+	}
+	
+	3212.1.1 = { trait = education_learning_2 }
+	
+	3217.9.1 = {
+		death = "3217.9.1"
+	}
+}
+
+30026 = {
+	name = "Aleid"
+	female = yes
+	dynasty = 427
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 30019
+	mother = 212955
+	
+	3184.1.1 = {
+		birth = "3184.1.1"
+	}
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+30027 = {
+	name = "Mechtildis"
+	female = yes
+	dynasty = 427
+	martial = 5
+	diplomacy = 3
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 30019
+	mother = 212955
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3249.1.1 = {
+		death = "3249.1.1"
+	}
+}
+
+30028 = {
+	name = "Irmgard"
+	female = yes
+	dynasty = 427
+	martial = 3
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 30019
+	mother = 212955
+	3194.1.1 = {
+		birth = "3194.1.1"
+	}
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+
+30029 = {
+	name = "Margareta"
+	female = yes
+	dynasty = 427
+	martial = 5
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 30019
+	mother = 212955
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3266.1.1 = {
+		death = "3266.1.1"
+	}
+}
+
+30030 = {
+	name = "Lodewijk"
+	dynasty = 427
+	martial = 4
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 30019
+	mother = 212955
+	3199.1.1 = {
+		birth = "3199.1.1"
+	}
+	3219.6.21 = {
+		death = "3219.6.21"
+	}
+}
+
+30031 = {
+	name = "Otto"
+	dynasty = 427
+	martial = 3
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	trait = clubfooted
+	father = 30023
+	#mother =
+	3217.1.1 = {
+		birth = "3217.1.1"
+	}
+	3243.1.1 = {
+		add_spouse = 30052
+	}
+	3273.1.10 = {
+		death = "3273.1.10"
+	}
+}
+
+30032 = {
+	name = "Hendrik" #Bishop of Liege 1247 - 1274
+	dynasty = 427
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	
+	father = 30023
+	mother = 94014
+	
+	3219.1.1 = {
+		birth = "3219.1.1"
+	}
+	3235.1.1 = { trait = education_learning_2 }
+	
+	
+	3287.4.23 = {
+		death = "3287.4.23"
+	}
+}
+
+30033 = {
+	name = "Margareta"
+	female = yes
+	dynasty = 427
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 30023
+	mother = 94014
+	3222.1.1 = {
+		birth = "3222.1.1"
+	}
+	3253.1.1 = {
+		death = "3253.1.1"
+	}
+}
+
+30034 = {
+	name = "Richardis"
+	female = yes
+	dynasty = 427
+	#martial = 5
+	#diplomacy = 5
+	#intrigue = 5
+	#stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 30023
+	mother = 94014
+	3223.1.1 = {
+		birth = "3223.1.1"
+	}
+	3295.1.1 = {
+		death = "3295.1.1"
+	}
+}
+
+30035 = {
+	name = "Reinoud"
+	dynasty = 427
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	father = 30031
+	mother = 30052
+	3257.1.1 = {
+		birth = "3257.1.1"
+	}
+	3279.1.1 = {
+		add_spouse = 33152
+	}
+	3288.1.1 = {
+		add_spouse = 456554
+	}
+	3320.1.1 = {
+		trait = lunatic_1
+	}
+	3328.10.9 = {
+		death = "3328.10.9"
+	}
+}
+
+30036 = {
+	name = "Elizabeth"
+	female = yes
+	dynasty = 427
+	martial = 3
+	diplomacy = 3
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	father = 30031
+	mother = 30052
+	3248.1.1 = {
+		birth = "3248.1.1"
+	}
+	3315.3.31 = {
+		death = "3315.3.31"
+	}
+}
+
+30037 = {
+	name = "Filippa"
+	female = yes
+	dynasty = 427
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	father = 30031
+	mother = 30052
+	3258.1.1 = {
+		birth = "3258.1.1"
+	}
+	3296.1.1 = {
+		death = "3296.1.1"
+	}
+}
+
+30038 = {
+	name = "Margareta"
+	female = yes
+	dynasty = 427
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 30031
+	mother = 30052
+	3259.1.1 = {
+		birth = "3259.1.1"
+	}
+	3288.1.1 = {
+		death = "3288.1.1"
+	}
+}
+
+30039 = {
+	name = "Reinoud"
+	dynasty = 427
+	martial = 4
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 30035
+	mother = 456554
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3313.1.2 = {
+		add_spouse = 456558
+	}
+	3332.1.2 = {
+		add_spouse = 454505
+	}
+	3345.10.12 = {
+		death = "3345.10.12"
+	}
+}
+
+30040 = {
+	name = "Gwijde"
+	dynasty = 427
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 30035
+	mother = 456554
+	3300.1.1 = {
+		birth = "3300.1.1"
+	}
+	3317.1.1 = {
+		death = "3317.1.1"
+	}
+}
+
+30041 = {
+	name = "Margareta"
+	female = yes
+	dynasty = 427
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 30035
+	mother = 456554
+	
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3335.1.1 = {
+		death = "3335.1.1"
+	}
+}
+
+30042 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty = 427
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	
+	father = 30035
+	mother = 456554
+	
+	3301.1.1 = {
+		birth = "3301.1.1"
+	}
+	3356.1.1 = {
+		death = "3356.1.1"
+	}
+}
+
+30043 = {
+	name = "Filippa"
+	female = yes
+	dynasty = 427
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	father = 30035
+	mother = 456554
+	
+	3300.1.1 = {
+		birth = "3300.1.1"
+	}
+	3354.8.23 = {
+		death = "3354.8.23"
+	}
+}
+
+30044 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty = 427
+	martial = 3
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 30039
+	mother = 456558
+	
+	3325.1.1 = {
+		birth = "3325.1.1"
+	}
+	3378.12.10 = {
+		death = "3378.12.10"
+	}
+}
+
+30045 = {
+	name = "Margareta"
+	female = yes
+	dynasty = 427
+	martial = 3
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 30039
+	mother = 456558
+	3322.1.1 = {
+		birth = "3322.1.1"
+	}
+	3346.1.1 = {
+		death = "3346.1.1"
+	}
+}
+
+30046 = {
+	name = "Mechteld"
+	female = yes
+	dynasty = 427
+	martial = 4
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 30039
+	mother = 456558
+	3326.1.1 = {
+		birth = "3326.1.1"
+	}
+	3386.9.21 = {
+		death = "3386.9.21"
+	}
+}
+
+30047 = {
+	name = "Maria"
+	female = yes
+	dynasty = 427
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	father = 30039
+	mother = 456558
+	3327.1.1 = {
+		birth = "3327.1.1"
+	}
+	3407.5.12 = {
+		death = "3407.5.12"
+	}
+}
+
+30048 = {
+	name = "Reinoud"
+	dynasty = 427
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 30039
+	mother = 454505
+	3335.5.13 = {
+		birth = "3335.5.13"
+	}
+	3373.12.4 = {
+		death = "3373.12.4"
+	}
+}
+
+30049 = {
+	name = "Eduard"
+	dynasty = 427
+	martial = 7
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	father = 30039
+	mother = 454505
+	3338.1.1 = {
+		birth = "3338.1.1"
+	}
+	3373.8.22 = {
+		death = "3373.8.22"
+	}
+}
+
+30050 = {
+	name = "Sophie"
+	female = yes
+	dynasty = 78
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	3062.1.2 = {
+		birth = "3062.1.2"
+	}
+	3092.2.19 = {
+		death = "3092.2.19"
+	}
+}
+
+30053 = {
+	name = "Gerard"
+	dynasty = 427
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	trait = compassionate
+	trait = greedy
+	trait = education_intrigue_1
+	father = 30055
+	2982.1.2 = {
+		birth = "2982.1.2"
+	}
+	3007.1.2 = {
+		add_spouse = 30054
+	}
+	3035.1.1 = {
+		death = "3035.1.1"
+	}
+}
+
+30054 = {
+	name = "Bava"
+	female = yes
+	dynasty = 429
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	trait = generous
+	trait = lustful
+	trait = education_intrigue_1
+	2984.1.2 = {
+		birth = "2984.1.2"
+	}
+	3047.1.1 = {
+		death = "3047.1.1"
+	}
+}
+
+30055 = {
+	name = "Rutger"
+	dynasty = 427
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	2962.1.2 = {
+		birth = "2962.1.2"
+	}
+	2985.1.1 = {
+		death = "2985.1.1"
+	}
+}
+
+30061 = {
+	name = "Giselbert"
+	dynasty = 6016
+	religion = "catholic"
+	culture = "dutch"
+	3200.1.1 = {
+		birth = "3200.1.1"
+	}
+	3227.1.1 = {
+		add_spouse = 30062
+	}
+	3243.2.28 = {
+		death = "3243.2.28"
+	}
+}
+
+30079 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 427 #von Wassenberg
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 41720
+	mother = 30050
+	3092.1.2 = {
+		birth = "3092.1.2"
+	}
+	3158.1.1 = {
+		death = "3158.1.1"
+	}
+}
+
+30221 = {
+	name = "Diederik"
+	dynasty = 101918
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	father = 41722
+	mother = 30220
+	3095.1.1 = {
+		birth = "3095.1.1"
+	}
+	3129.2.28 = {
+		death = "3129.2.28"
+	}
+}
+
+30309 = {
+	name = "Gijsbert"
+	dynasty = 6016
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_learning_2
+	father = 30061
+	mother = 30062
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3308.11.18 = {
+		death = "3308.11.18"
+	}
+}
+
+30363 = {
+	name = "Sitat"
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 462171
+	3327.1.1 = {
+		birth = "3327.1.1"
+	}
+	3399.1.1 = {
+		death = "3399.1.1"
+	}
+}
+
+30364 = {
+	name = "Sitat" #Count of Ostfriesland
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30365 #Enno
+	3261.1.1 = {
+		birth = "3261.1.1"
+	}
+	3312.1.1 = {
+		death = "3312.1.1"
+	}
+}
+
+30365 = {
+	name = "Enno" #Count of Ostfriesland
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30366 #Sitat
+	3225.1.1 = {
+		birth = "3225.1.1"
+	}
+	3282.1.1 = {
+		death = "3282.1.1"
+	}
+}
+
+30366 = {
+	name = "Sitat" #Count of Ostfriesland
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	3201.1.1 = {
+		birth = "3201.1.1"
+	}
+	3257.1.1 = {
+		death = "3257.1.1"
+	}
+}
+
+30367 = {
+	name = "Merten"
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30366 #Sitat
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3290.1.1 = {
+		death = "3290.1.1"
+	}
+}
+
+30368 = {
+	name = "Omptat"
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30367 #Merten
+	3265.1.1 = {
+		birth = "3265.1.1"
+	}
+	3314.1.1 = {
+		death = "3314.1.1"
+	}
+}
+
+30369 = {
+	name = "Merten"
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30368 #Omptat
+	3298.1.1 = {
+		birth = "3298.1.1"
+	}
+	3369.1.1 = {
+		death = "3369.1.1"
+	}
+}
+
+30370 = {
+	name = "Omptat"
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30369 #Merten
+	3322.1.1 = {
+		birth = "3322.1.1"
+	}
+	3380.1.1 = {
+		death = "3380.1.1"
+	}
+}
+
+30371 = {
+	name = "Olrik"
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30369 #Merten
+	3324.1.1 = {
+		birth = "3324.1.1"
+	}
+	3375.1.1 = {
+		death = "3375.1.1"
+	}
+}
+
+30372 = {
+	name = "Bojo"
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30369 #Merten
+	3328.1.1 = {
+		birth = "3328.1.1"
+	}
+	3383.1.1 = {
+		death = "3383.1.1"
+	}
+}
+
+30373 = {
+	name = "Tiadeke"
+	female = yes
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30369 #Merten
+	3334.1.1 = {
+		birth = "3334.1.1"
+	}
+	3411.1.1 = {
+		death = "3411.1.1"
+	}
+}
+
+30374 = {
+	name = "Idzerd"
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30365 #Enno
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	3292.1.1 = {
+		add_spouse = 30379 #Etta van Visquard
+	}
+	3314.1.1 = {
+		death = "3314.1.1"
+	}
+}
+
+30375 = {
+	name = "Enno"
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30374 #Idzerd Cirksena
+	mother = 30379 #Etta van Visquard
+	3294.1.1 = {
+		birth = "3294.1.1"
+	}
+	3322.1.1 = {
+		add_spouse = 30380 #Adda van Groothusen
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+30376 = {
+	name = "Sibrand"
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30374 #Idzerd Cirksena
+	mother = 30379 #Etta van Visquard
+	3299.1.1 = {
+		birth = "3299.1.1"
+	}
+	3381.1.1 = {
+		death = "3381.1.1"
+	}
+}
+
+30377 = {
+	name = "Etta"
+	female = yes
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30375 #Enno Cirksena
+	mother = 30380 #Adda van Groothusen
+	3323.1.1 = {
+		birth = "3323.1.1"
+	}
+	3402.1.1 = {
+		death = "3402.1.1"
+	}
+}
+
+30378 = {
+	name = "Idzerd"
+	dynasty = 7128 #Cirksena
+	religion = "catholic"
+	culture = "dutch"
+	father = 30375 #Enno Cirksena
+	mother = 30380 #Adda van Groothusen
+	3325.1.1 = {
+		birth = "3325.1.1"
+	}
+	3406.1.1 = {
+		death = "3406.1.1"
+	}
+}
+
+30379 = {
+	name = "Etta"
+	female = yes
+	dynasty = 7129 #van Visquard
+	religion = "catholic"
+	culture = "dutch"
+	3275.1.1 = {
+		birth = "3275.1.1"
+	}
+	3316.1.1 = {
+		death = "3316.1.1"
+	}
+}
+
+30380 = {
+	name = "Adda"
+	female = yes
+	dynasty = 7130 #van Groothusen
+	religion = "catholic"
+	culture = "dutch"
+	3301.1.1 = {
+		birth = "3301.1.1"
+	}
+	3349.1.1 = {
+		death = "3349.1.1"
+	}
+}
+
+30672 = {
+	name = "Godebald"
+	dynasty = 100082 #van Sticht
+	religion = "catholic"
+	culture = "dutch"
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3129.11.12 = {
+		death = "3129.11.12"
+	}
+}
+
+30673 = {
+	name = "Andries"
+	dynasty = 7168 #van Cuijck
+	religion = "catholic"
+	culture = "dutch"
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3140.1.1 = {
+		capital = c_nedersticht
+	}
+	3141.6.23 = {
+		death = "3141.6.23"
+	}
+}
+
+30674 = {
+	name = "Hartbert"
+	dynasty = 7169 #van Bierum
+	religion = "catholic"
+	culture = "dutch"
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3141.6.23 = {
+		capital = c_nedersticht
+	}
+	3152.11.12 = {
+		death = "3152.11.12"
+	}
+}
+
+30676 = {
+	name = "Godfried"
+	dynasty = 7170 #van Rhenen
+	religion = "catholic"
+	culture = "dutch"
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	3158.1.31 = {
+		capital = c_nedersticht
+	}
+	3180.5.27 = {
+		death = "3180.5.27"
+	}
+}
+
+30677 = {
+	name = "Dirk"
+	dynasty = 7171 #van Are
+	religion = "catholic"
+	culture = "dutch"
+	3167.1.1 = {
+		birth = "3167.1.1"
+	}
+	3205.1.1 = {
+		capital = c_nedersticht
+	}
+	3214.12.5 = {
+		death = "3214.12.5"
+	}
+}
+
+30679 = {
+	name = "Gozewijn" #bishop of Sticht
+	dynasty = 7172 #van Randerath
+	religion = "catholic"
+	culture = "dutch"
+	3200.1.1 = {
+		birth = "3200.1.1"
+	}
+	3235.7.26 = {
+		capital = c_nedersticht
+	}
+	3252.1.1 = {
+		death = "3252.1.1"
+	}
+}
+
+30686 = {
+	name = "Jan"
+	dynasty = 7174 #van Sierck
+	religion = "catholic"
+	culture = "dutch"
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3292.1.1 = {
+		capital = c_nedersticht
+	}
+	3307.1.1 = {
+		death = "3307.1.1"
+	}
+}
+
+30687 = {
+	name = "Willem"
+	dynasty = 7175 #van Berthout
+	religion = "catholic"
+	culture = "dutch"
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3298.1.1 = {
+		capital = c_nedersticht
+	}
+	3303.2.4 = {
+		death = "3303.2.4"
+	}
+}
+
+30688 = {
+	name = "Frederik"
+	dynasty = 7174 #van Sierck
+	religion = "catholic"
+	culture = "dutch"
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3319.5.23 = {
+		capital = c_nedersticht
+	}
+	3324.7.20 = {
+		death = "3324.7.20"
+	}
+}
+
+30689 = {
+	name = "Jacob"
+	dynasty = 7176 #van Oudshoorn
+	
+	religion = "catholic"
+	culture = "dutch"
+	
+	3271.1.1 = {
+		birth = "3271.1.1"
+	}
+	3324.7.20 = {
+		capital = c_nedersticht
+	}
+	3324.9.18 = {
+		death = "3324.9.18"
+	}
+}
+
+30727 = {
+	name = "Hendrik"
+	dynasty = 101918
+	religion = "catholic"
+	culture = "dutch"
+	father = 41722
+	mother = 30220
+	3094.1.1 = {
+		birth = "3094.1.1"
+	}
+	3112.1.1 = {
+		add_spouse = 30728
+	}
+	3145.1.1 = {
+		death = "3145.1.1"
+	}
+}
+
 30950 = {
 	name = "Ida"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 106604
@@ -1517,9 +3085,1583 @@
 		death = "3164.7.27"
 	}
 }
+
+31040 = {
+	name = "Hugo"
+	dynasty = 7197 #van Voorne
+	religion = "catholic"
+	culture = "dutch"
+	3110.1.1 = {
+		birth = "3110.1.1"
+	}
+	3131.1.1 = {
+		add_spouse = 31063
+	}
+	3158.1.1 = {
+		death = "3158.1.1"
+	}
+}
+
+31041 = {
+	name = "Floris"
+	dynasty = 7197 #van Voorne
+	religion = "catholic"
+	culture = "dutch"
+	father = 31040
+	mother = 31063
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3193.1.1 = {
+		death = "3193.1.1"
+	}
+}
+
+31042 = {
+	name = "Dirk"
+	dynasty = 7197 #van Voorne
+	religion = "catholic"
+	culture = "dutch"
+	father = 31040
+	mother = 31063
+	3137.1.1 = {
+		birth = "3137.1.1"
+	}
+	3170.1.1 = {
+		add_spouse = 31123
+	}
+	3176.10.3 = {
+		death = "3176.10.3"
+	}
+}
+
+31043 = {
+	name = "Hugo"
+	dynasty = 7197 #van Voorne
+	religion = "catholic"
+	culture = "dutch"
+	father = 31042
+	mother = 31123
+	3175.1.1 = {
+		birth = "3175.1.1"
+	}
+	3218.1.1 = {
+		death = "3218.1.1"
+	}
+}
+
+31044 = {
+	name = "Dirk"
+	dynasty = 7197 #van Voorne
+	religion = "catholic"
+	culture = "dutch"
+	father = 31042
+	mother = 31123
+	3174.1.1 = {
+		birth = "3174.1.1"
+	}
+	3230.5.1 = {
+		death = "3230.5.1"
+	}
+}
+
+31045 = {
+	name = "Bartholomeus"
+	dynasty = 7197 #van Voorne
+	religion = "catholic"
+	culture = "dutch"
+	father = 31042
+	mother = 31123
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3216.3.1 = {
+		death = "3216.3.1"
+	}
+}
+
+31046 = {
+	name = "Hendrik"
+	dynasty = 7197 #van Voorne
+	religion = "catholic"
+	culture = "dutch"
+	father = 31044
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3242.1.1 = {
+		add_spouse = 31124
+	}
+	3263.1.1 = {
+		death = "3263.1.1"
+	}
+}
+
+31047 = {
+	name = "Hugo"
+	dynasty = 7197 #van Voorne
+	
+	religion = "catholic"
+	culture = "dutch"
+	
+	father = 31044
+	
+	3194.1.1 = {
+		birth = "3194.1.1"
+	}
+	
+	3257.1.1 = {
+		death = "3257.1.1"
+	}
+}
+
+31048 = {
+	name = "Dirk"
+	dynasty = 7197 #van Voorne
+	
+	religion = "catholic"
+	culture = "dutch"
+	
+	father = 31044
+	
+	3198.1.1 = {
+		birth = "3198.1.1"
+	}
+	
+	3277.4.1 = {
+		death = "3277.4.1"
+	}
+}
+
+31049 = {
+	name = "Albrecht"
+	# AKA: Albert
+	dynasty = 7197 #van Voorne
+	
+	religion = "catholic"
+	culture = "dutch"
+	
+	father = 31044
+	
+	3199.1.1 = {
+		birth = "3199.1.1"
+	}
+	
+	3252.1.1 = {
+		death = "3252.1.1"
+	}
+}
+
+31050 = {
+	name = "Albrecht"
+	# AKA: Albert
+	dynasty = 7197 #van Voorne
+	
+	religion = "catholic"
+	culture = "dutch"
+	
+	father = 31046
+	mother = 31124
+	
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	
+	3289.12.1 = {
+		death = "3289.12.1"
+	}
+}
+
+31051 = {
+	name = "Gerard"
+	dynasty = 7197 #van Voorne
+	
+	religion = "catholic"
+	culture = "dutch"
+	
+	father = 31046
+	mother = 31124
+	
+	3245.1.1 = {
+		birth = "3245.1.1"
+	}
+	
+	3298.1.1 = {
+		death = "3298.1.1"
+	}
+}
+
+31060 = {
+	name = "Gerulf"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 167701
+	2837.1.1 = {
+		birth = "2837.1.1"
+	}
+	2891.1.1 = {
+		death = "2891.1.1"
+	}
+}
+
+31061 = {
+	name = "Floris"
+	# AKA: Floris de Zwarte
+	dynasty_house = house_gerulfing
+	
+	religion = "catholic"
+	culture = "dutch"
+	
+	father = 106555
+	mother = 106554
+	3117.1.1 = {
+		birth = "3117.1.1"
+	}
+	
+	3134.10.26 = {
+		death = "3134.10.26"
+	}
+}
+
+31062 = {
+	name = "Simon"
+	dynasty_house = house_gerulfing
+	
+	religion = "catholic"
+	culture = "dutch"
+	
+	father = 106555
+	mother = 106554
+	3120.1.1 = {
+		birth = "3120.1.1"
+	}
+	
+	3149.1.1 = {
+		death = "3149.1.1"
+	}
+}
+
+31063 = {
+	name = "Hedwig"
+	female = yes
+	dynasty_house = house_gerulfing
+	
+	religion = "catholic"
+	culture = "dutch"
+	trait = bastard
+	father = 106555
+	
+	3107.1.1 = {
+		birth = "3107.1.1"
+	}
+	
+	3144.1.1 = {
+		death = "3144.1.1"
+	}
+}
+
+31064 = {
+	name = "Dirk"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 206841
+	mother = 206845
+	3140.1.1 = {
+		birth = "3140.1.1"
+	}
+	
+	3153.1.1 = {
+		death = "3153.1.1"
+	}
+}
+
+31065 = {
+	name = "Robrecht"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	trait = bastard
+	father = 206841
+	
+	3140.1.1 = {
+		birth = "3140.1.1"
+	}
+	
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+31066 = {
+	name = "Otto"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	
+	father = 206841
+	mother = 206845
+	3144.1.1 = {
+		birth = "3144.1.1"
+	}
+	
+	3211.2.13 = {
+		death = "3211.2.13"
+	}
+}
+
+31067 = {
+	name = "Aleidis"
+	female = yes
+	dynasty_house = house_gerulfing
+	
+	religion = "catholic"
+	culture = "dutch"
+	
+	father = 206842
+	mother = 212924
+	3189.1.1 = {
+		birth = "3189.1.1"
+	}
+	3205.1.1 = {
+		death = "3205.1.1"
+	}
+}
+
+31068 = {
+	name = "Ada"
+	female = yes
+	dynasty_house = house_gerulfing
+	
+	religion = "catholic"
+	culture = "dutch"
+	
+	father = 206842
+	mother = 212924
+	3190.1.1 = {
+		birth = "3190.1.1"
+	}
+	
+	#1203 marries Lodewijk van Loon
+	
+	3229.1.1 = {
+		death = "3229.1.1"
+	}
+}
+
+31069 = {
+	name = "Floris"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 206840
+	mother = 203512
+	3168.1.1 = {
+		birth = "3168.1.1"
+	}
+	
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+31070 = {
+	name = "Boudewijn"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 206840
+	mother = 203512
+	3169.1.1 = {
+		birth = "3169.1.1"
+	}
+	
+	3205.1.1 = {
+		death = "3205.1.1"
+	}
+}
+
+31071 = {
+	name = "Elizabeth"
+	female = yes
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 206840
+	mother = 203512
+	3170.1.1 = {
+		birth = "3170.1.1"
+	}
+	
+	3207.1.1 = {
+		death = "3207.1.1"
+	}
+}
+
+31072 = {
+	name = "Hedwig"
+	female = yes
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 206840
+	mother = 203512
+	3171.1.1 = {
+		birth = "3171.1.1"
+	}
+	
+	3217.1.1 = {
+		death = "3217.1.1"
+	}
+}
+
+31073 = {
+	name = "Agnes"
+	female = yes
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 206840
+	mother = 203512
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	
+	3235.1.1 = {
+		death = "3235.1.1"
+	}
+}
+
+31074 = {
+	name = "Willem"#regent of Holland
+	# AKA: Willem
+	dynasty_house = house_gerulfing #Gerulfing
+	
+	religion = "catholic"
+	culture = "dutch"
+	father = 206843
+	mother = 30026
+	
+	3216.1.1 = {
+		birth = "3216.1.1"
+	}
+	
+	3240.1.1 = {
+		death = "3240.1.1"
+	}
+}
+
+31075 = {
+	name = "Richarde"
+	female = yes
+	dynasty_house = house_gerulfing #Gerulfing
+	
+	religion = "catholic"
+	culture = "dutch"
+	father = 206843
+	mother = 30026
+	
+	3204.1.1 = {
+		birth = "3204.1.1"
+	}
+	
+	3264.1.1 = {
+		death = "3264.1.1"
+	}
+}
+
+31076 = {
+	name = "Ada"
+	female = yes
+	dynasty_house = house_gerulfing #Gerulfing
+	
+	religion = "catholic"
+	culture = "dutch"
+	father = 206843
+	mother = 30026
+	
+	3207.1.1 = {
+		birth = "3207.1.1"
+	}
+	
+	3260.1.1 = {
+		death = "3260.1.1"
+	}
+}
+
+31077 = {
+	name = "Floris"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 106558
+	mother = 106557
+	3230.1.1 = {
+		birth = "3230.1.1"
+	}
+	
+	
+	3260.1.1 = {
+		death = "3260.1.1"
+	}
+}
+
+31078 = {
+	name = "Margareta"
+	female = yes
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 106558
+	mother = 106557
+	3231.1.1 = {
+		birth = "3231.1.1"
+	}
+	
+	
+	3279.1.1 = {
+		death = "3279.1.1"
+	}
+}
+
+31079 = {
+	name = "Mechthild"
+	female = yes
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 106558
+	mother = 106557
+	3235.1.1 = {
+		birth = "3235.1.1"
+	}
+	
+	
+	3272.1.1 = {
+		death = "3272.1.1"
+	}
+}
+
+31080 = {
+	name = "Mechthild"
+	female = yes
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 94003
+	mother = 31093
+	3258.1.1 = {
+		birth = "3258.1.1"
+	}
+	3268.1.1 = {
+		death = "3268.1.1"
+	}
+}
+
+31082 = {
+	name = "Witte"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	trait = bastard
+	father = 94005
+	
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3323.12.26 = {
+		death = "3323.12.26"
+	}
+}
+
+31083 = {
+	name = "Willem"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	trait = bastard
+	father = 94005
+	
+	3285.1.1 = {
+		birth = "3285.1.1"
+	}
+	3356.1.1 = {
+		death = "3356.1.1"
+	}
+}
+
+31084 = {
+	name = "Dirk"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	trait = bastard
+	father = 94005
+	
+	3287.1.1 = {
+		birth = "3287.1.1"
+	}
+	3322.1.1 = {
+		death = "3322.1.1"
+	}
+}
+
+31089 = {
+	name = "Betrada"
+	female = yes
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 40713
+	mother = 30008
+	3020.1.1 = {
+		birth = "3020.1.1"
+	}
+	3058.1.1 = {
+		death = "3058.1.1"
+	}
+}
+
+31090 = {
+	name = "Swanhildis"
+	female = yes
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 40713
+	mother = 30008
+	3021.1.1 = {
+		birth = "3021.1.1"
+	}
+	3066.1.1 = {
+		death = "3066.1.1"
+	}
+}
+
+31092 = {
+	name = "Mathilde"
+	female = yes
+	dynasty_house = house_gerulfing
+	
+	religion = "catholic"
+	culture = "dutch"
+	father = 106520
+	mother = 31091
+	3090.1.1 = {
+		birth = "3090.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+31100 = {
+	name = "Marie"
+	female = yes
+	dynasty = 5060
+	religion = "catholic"
+	culture = "dutch"
+	trait = bastard
+	father = 94023
+	3293.1.1 = {
+		birth = "3293.1.1"
+	}
+	3346.1.11 = {
+		death = "3346.1.11"
+	}
+}
+
+31104 = {
+	name = "Jan"
+	dynasty = 5060
+	religion = "catholic"
+	culture = "dutch"
+	father = 94008
+	mother = 31118
+	3273.1.1 = {
+		birth = "3273.1.1"
+	}
+	3304.7.11 = {
+		death = "3304.7.11"
+	}
+}
+
+31106 = {
+	name = "Simon"
+	dynasty = 5060
+	religion = "catholic"
+	culture = "dutch"
+	father = 94008
+	mother = 31118
+	3278.1.1 = {
+		birth = "3278.1.1"
+	}
+	3306.1.1 = {
+		death = "3306.1.1"
+	}
+}
+
+31108 = {
+	name = "Margareta"
+	female = yes
+	dynasty = 5060
+	religion = "catholic"
+	culture = "dutch"
+	father = 94008
+	mother = 31118
+	3283.1.1 = {
+		birth = "3283.1.1"
+	}
+	3344.10.18 = {
+		death = "3344.10.18"
+	}
+}
+
+31113 = {
+	name = "Mathilda"
+	female = yes
+	dynasty = 5060
+	religion = "catholic"
+	culture = "dutch"
+	father = 94008
+	mother = 31118
+	3286.1.1 = {
+		birth = "3286.1.1"
+	}
+	3352.1.1 = {
+		death = "3352.1.1"
+	}
+}
+
+31120 = {
+	name = "Jan"
+	dynasty = 5060
+	trait = bastard
+	religion = "catholic"
+	culture = "dutch"
+	father = 462742
+	3322.1.1 = {
+		birth = "3322.1.1"
+	}
+	3394.1.1 = {
+		death = "3394.1.1"
+	}
+}
+
+31121 = {
+	name = "Willem"
+	dynasty = 5060
+	trait = bastard
+	religion = "catholic"
+	culture = "dutch"
+	father = 462742
+	3314.1.1 = {
+		birth = "3314.1.1"
+	}
+	3341.1.1 = {
+		death = "3341.1.1"
+	}
+}
+
+31122 = {
+	name = "Claes"
+	dynasty = 5060
+	trait = bastard
+	religion = "catholic"
+	culture = "dutch"
+	father = 462742
+	3324.1.1 = {
+		birth = "3324.1.1"
+	}
+	3349.1.1 = {
+		death = "3349.1.1"
+	}
+}
+
+31123 = {
+	name = "Griete"
+	female = yes
+	dynasty = 7200
+	religion = "catholic"
+	culture = "dutch"
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+31125 = {
+	name = "Boudewijn" #Boudewijn VII
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 10076
+	mother = 293
+	3095.1.1 = {
+		birth = "3095.1.1"
+	}
+	3121.6.17 = {
+		death = "3121.6.17"
+	}
+}
+
+31126 = {
+	name = "Willem"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 10076
+	mother = 293
+	3096.1.1 = {
+		birth = "3096.1.1"
+	}
+	3121.1.11 = {
+		death = "3121.1.11"
+	}
+}
+
+31127 = {
+	name = "Filips"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 368
+	mother = 106521
+	3069.1.1 = {
+		birth = "3069.1.1"
+	}
+	3129.1.1 = {
+		death = "3129.1.1"
+	}
+}
+
+31128 = {
+	name = "Willem"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	trait = legitimized_bastard
+	father = 31127
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3167.1.24 = {
+		death = "3167.1.24"
+	}
+}
+
+31129 = {
+	name = "Gertrude"
+	female = yes
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 368
+	mother = 106521
+	3080.1.1 = {
+		birth = "3080.1.1"
+	}
+	3119.1.1 = {
+		death = "3119.1.1"
+	}
+}
+
+31130 = {
+	name = "Boudewijn"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 368
+	mother = 106521
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3082.1.1 = {
+		death = "3082.1.1"
+	}
+}
+
+31131 = {
+	name = "Otgiva"
+	female = yes
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 368
+	mother = 106521
+	3084.1.1 = {
+		birth = "3084.1.1"
+	}
+	3129.1.1 = {
+		death = "3129.1.1"
+	}
+}
+
+31132 = {
+	name = "Lodewijk"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 10074
+	mother = 94017
+	3091.1.1 = {
+		birth = "3091.1.1"
+	}
+	
+	3100.1.1 = {
+		death = "3100.1.1"
+	}
+}
+
+31133 = {
+	name = "Simon"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 10074
+	mother = 94017
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+31134 = {
+	name = "Hendrik"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 10074
+	mother = 94017
+	3093.1.1 = {
+		birth = "3093.1.1"
+	}
+	
+	3098.1.1 = {
+		death = "3098.1.1"
+	}
+}
+
+31135 = {
+	name = "Willem"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 10074
+	mother = 94017
+	3094.1.1 = {
+		birth = "3094.1.1"
+	}
+	
+	3119.1.1 = {
+		death = "3119.1.1"
+	}
+}
+
+31136 = {
+	name = "Arnulf"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 10074
+	mother = 94017
+	3097.1.1 = {
+		birth = "3097.1.1"
+	}
+	
+	3138.1.1 = {
+		death = "3138.1.1"
+	}
+}
+
+31137 = {
+	name = "Ida"
+	female = yes
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 10074
+	mother = 94017
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	
+	3103.1.1 = {
+		death = "3103.1.1"
+	}
+}
+
+31138 = {
+	name = "Richilde"
+	female = yes
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 10074
+	mother = 94017
+	3088.1.1 = {
+		birth = "3088.1.1"
+	}
+	
+	3120.1.1 = {
+		death = "3120.1.1"
+	}
+}
+
+31139 = {
+	name = "Aelidis"
+	female = yes
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 10074
+	mother = 94017
+	3100.1.1 = {
+		birth = "3100.1.1"
+	}
+	
+	3155.1.1 = {
+		death = "3155.1.1"
+	}
+}
+
+31140 = {
+	name = "Gerard"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 94015
+	mother = 30012
+	3112.1.1 = {
+		birth = "3112.1.1"
+	}
+	
+	3168.1.1 = {
+		death = "3168.1.1"
+	}
+}
+
+31141 = {
+	name = "Gertrude"
+	# AKA: Getrude
+	female = yes
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 94015
+	mother = 30012
+	3111.1.1 = {
+		birth = "3111.1.1"
+	}
+	
+	3164.1.1 = {
+		death = "3164.1.1"
+	}
+}
+
+31142 = {
+	name = "Richilde"
+	female = yes
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 94015
+	mother = 30012
+	3114.1.1 = {
+		birth = "3114.1.1"
+	}
+	
+	3162.1.1 = {
+		death = "3162.1.1"
+	}
+}
+
+31143 = {
+	name = "Godfried"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 205521
+	mother = 205945
+	3149.1.1 = {
+		birth = "3149.1.1"
+	}
+	
+	3165.4.7 = {
+		death = "3165.4.7"
+	}
+}
+
+31144 = {
+	name = "Hendrik"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 205521
+	mother = 205945
+	3161.1.1 = {
+		birth = "3161.1.1"
+	}
+	
+	3209.1.1 = {
+		death = "3209.1.1"
+	}
+}
+
+31145 = {
+	name = "Eustache"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	trait = ill
+	father = 205521
+	mother = 205945
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+31146 = {
+	name = "Yolande"
+	female = yes
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 205521
+	mother = 205945
+	3133.1.1 = {
+		birth = "3133.1.1"
+	}
+	
+	3204.1.1 = {
+		death = "3204.1.1"
+	}
+}
+
+31147 = {
+	name = "Laurette"
+	female = yes
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	trait = ill
+	father = 205521
+	mother = 205945
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	
+	3183.9.6 = {
+		death = "3183.9.6"
+	}
+}
+
+31148 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 205521
+	mother = 205945
+	3144.1.1 = {
+		birth = "3144.1.1"
+	}
+	
+	3170.1.1 = {
+		death = "3170.1.1"
+	}
+}
+
+31149 = {
+	name = "Willem"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	trait = bastard
+	father = 205521
+	
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	
+	3207.1.1 = {
+		death = "3207.1.1"
+	}
+}
+
+31150 = {
+	name = "Gerard"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	trait = bastard
+	father = 205521
+	
+	3150.1.1 = {
+		birth = "3150.1.1"
+	}
+	
+	3207.1.1 = {
+		death = "3207.1.1"
+	}
+}
+
+31151 = {
+	name = "Godfried"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	trait = ill
+	father = 205520
+	mother = 212589
+	3184.1.1 = {
+		birth = "3184.1.1"
+	}
+	3294.1.1 = {
+		death = "3294.1.1"
+	}
+}
+
+31153 = {
+	name = "Gerard"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	trait = bastard
+	father = 205520
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3194.1.1 = {
+		death = "3194.1.1"
+	}
+}
+
+358 = {
+	name = "Arnulf" #Arnulf I
+	# AKA: Arnulf 'de Grote'
+	dynasty = 724
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	father = 90108
+	mother = 7629
+	2892.1.1 = {
+		birth = "2892.1.1"
+	}
+	2952.1.2 = {
+		add_spouse = 359
+	}
+	2966.3.28 = {
+		death = "2966.3.28"
+	}
+}
+
+360 = {
+	name = "Boudewijn" #Boudewijn III
+	dynasty = 724
+	martial = 8
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	trait = diligent
+	trait = wrathful
+	trait = education_martial_3
+	father = 358
+	mother = 359
+	2942.1.1 = {
+		birth = "2942.1.1"
+	}
+	2962.1.1 = {
+		add_spouse = 1411
+	}
+	2964.11.1 = {
+		death = "2964.11.1"
+	}
+}
+
+361 = {
+	name = "Arnulf" #Arnulf II
+	dynasty = 724
+	martial = 8
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = zealous
+	trait = wrathful
+	trait = education_martial_3
+	father = 360
+	mother = 1411
+	2959.1.1 = {
+		birth = "2963.1.1"
+	}
+	2982.1.1 = {
+		add_spouse = 1111
+	}
+	2989.3.10 = {
+		death = "2989.3.10"
+	}
+}
+
+362 = {
+	name = "Boudewijn" #Boudewijn IV
+	dynasty = 724
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = craven
+	trait = education_learning_3
+	father = 361
+	mother = 1111
+	2982.1.1 = {
+		birth = "2982.1.1"
+	}
+	3010.1.1 = {
+		add_spouse = 40710
+	}
+	3033.1.1 = {
+		add_spouse = 253
+	}
+	3037.5.30 = {
+		death = "3037.5.30"
+	}
+}
+
+363 = {
+	name = "Judith"
+	female = yes
+	dynasty = 724
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_intrigue_2
+	father = 362
+	mother = 253
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	3096.3.5 = {
+		death = "3096.3.5"
+	}
+}
+
+364 = {
+	name = "Boudewijn" #Boudewijn V
+	dynasty = 724
+	martial = 7
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_martial_2
+	trait = callous
+	trait = generous
+	trait = diligent
+
+	father = 362
+	mother = 40710
+	3014.1.1 = {
+		birth = "3014.1.1"
+	}
+	3030.1.2 = {
+		add_spouse = 213 # Adele of France
+	}
+	3069.9.1 = {
+		death = "3069.9.1"
+	}
+}
+
+366 = {
+	name = "Arnulf" #Arnulf III
+	dynasty = 724
+	martial = 4
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	trait = honest
+	trait = gluttonous
+	trait = education_martial_2
+	father = 106643
+	mother = 106640
+	3057.1.1 = {
+		birth = "3057.1.1"
+	}
+	3073.2.22 = {
+		death = "3073.2.22"
+	}
+}
+
+367 = {
+	name = "Mathilde"
+	dna = 367_duchess_mathilde
+	female = yes
+	dynasty = 724
+	disallow_random_traits = yes
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "dutch"
+	trait = chaste
+	trait = zealous
+	trait = ambitious
+	trait = education_stewardship_3
+	father = 364
+	mother = 213
+	3034.1.1 = {
+		birth = "3034.1.1"
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+	}
+	3085.11.2 = {
+		death = "3085.11.2"
+	}
+}
+
+368 = {
+	name = "Robrecht"
+	# AKA: Robert 'de Fries'
+	dynasty = 724
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_martial_2
+	father = 364
+	mother = 213
+	
+	3033.1.1 = {
+		birth = "3033.1.1"
+	}
+	3065.1.1 = {
+		add_spouse = 106521 # Gertrude of Saxony
+	}
+	3095.10.13 = {
+		death = "3095.10.13"
+	}
+}
+
+369 = {
+	name = "Adele"
+	female = yes
+	dynasty = 724
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "dutch"
+	trait = temperate
+	father = 368
+	mother = 106521
+	3066.7.12 = {
+		birth = "3066.7.12"
+	}
+	3117.1.1 = {
+		death = "3117.1.1"
+	}
+}
+
+40712 = {
+	name = "Arnulf" #Arnulf I
+	dynasty_house = house_gerulfing
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_martial_2
+	father = 106550
+	mother = 94000
+	2955.1.1 = {
+		birth = "2955.1.1"
+	}
+	2982.5.1 = {
+		add_spouse = 40709
+	}
+	2995.9.18 = {
+		death = "2995.9.18"
+	}
+}
+
+40713 = {
+	name = "Dirk" #Dirk III
+	# AKA: Dirk 'Hierosolymita'
+	dynasty_house = house_gerulfing
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_learning_2
+	father = 40712
+	mother = 40709
+	2984.1.1 = {
+		birth = "2984.1.1"
+	}
+	3016.1.1 = {
+		add_spouse = 30008
+	}
+	
+	3041.5.27 = {
+		death = "3041.5.27"
+	}
+}
+
+41010 = {
+	name = "Gherbod"
+	dynasty = 747
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 9
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_stewardship_2
+	3024.1.2 = {
+		birth = "3024.1.2"
+	}
+	3074.1.2 = {
+		death = "3074.1.2"
+	}
+}
+
 41025 = {
 	name = "Lambrecht"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 7810
@@ -1534,9 +4676,142 @@
 		death = "3017.1.1"
 	}
 }
+
+41718 = {
+	name = "Gerard"
+	dynasty = 427
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = arbitrary
+	trait = education_martial_2
+	father = 106542
+	mother = 106541
+	3032.1.2 = {
+		birth = "3032.1.2"
+	}
+	3056.1.2 = {
+		add_spouse = 30010
+	}
+	3059.1.11 = {
+		death = "3059.1.11"
+	}
+}
+
+41719 = {
+	name = "Hendrik"
+	dynasty = 427
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 41718
+	mother = 30010
+	3058.1.2 = {
+		birth = "3058.1.2"
+	}
+	3140.1.2 = {
+		death = "3140.1.2"
+	}
+}
+
+41720 = {
+	name = "Gerard"
+	dynasty = 427
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	father = 41718
+	mother = 30010
+	3057.1.2 = {
+		birth = "3057.1.2"
+	}
+	3089.1.2 = {
+		add_spouse = 30050
+	}
+	3131.10.16 = {
+		death = "3131.10.16"
+	}
+}
+
+41722 = {
+	name = "Otto"
+	dynasty = 101918
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	trait = honest
+	trait = education_stewardship_4
+	father = 161367
+	mother = 41721
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3092.1.1 = {
+		add_spouse = 30220
+	}
+	3115.1.2 = {
+		death = "3115.1.2"
+	}
+}
+
+41723 = {
+	name = "Gebhard"
+	dynasty = 101918
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_stewardship_2
+	father = 161367
+	mother = 41721
+	3059.1.2 = {
+		birth = "3059.1.2"
+	}
+	3109.1.2 = {
+		death = "3109.1.2"
+	}
+}
+
+41725 = {
+	name = "Arnold" #1078-1126
+	dynasty_house = house_loon
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_stewardship_2
+	father = 106570
+	mother = 31090
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3083.1.1 = {
+		add_spouse = 33062
+	}
+	3128.1.1 = {
+		death = "3128.1.1"
+	}
+}
+
 41726 = {
 	name = "Hendrik"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 6
 	diplomacy = 4
 	intrigue = 4
@@ -1560,7 +4835,7 @@
 
 41727 = {
 	name = "Adelbert"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 4
 	diplomacy = 4
 	intrigue = 4
@@ -1581,7 +4856,7 @@
 41728 = {
 	name = "Reginar"
 	# AKA: Reginard
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 6
 	diplomacy = 4
 	intrigue = 3
@@ -1598,11 +4873,199 @@
 		death = "3079.1.1"
 	}
 }
+
+456558 = {
+	name = "Sophia"
+	# AKA: Sophia Berthout
+	female = yes
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 9
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_intrigue_1
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3331.1.2 = {
+		death = "3331.1.2"
+	}
+}
+
+462006 = {
+	name = "Jan" #bishop of Sticht
+	dynasty = 101898
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = calm
+	trait = generous
+	trait = gluttonous
+	trait = education_learning_2
+	3288.1.1 = {
+		birth = "3288.1.1"
+	}
+	3342.6.1 = {
+		death = "3342.6.1"
+	}
+}
+
+462161 = {
+	name = "Mathilde"
+	female = yes
+	dynasty_house = house_loon
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "dutch"
+	trait = diligent
+	trait = education_diplomacy_3
+	father = 33089
+	3276.1.1 = {
+		birth = "3276.1.1"
+	}
+	3315.1.1 = {
+		death = "3315.1.1"
+	}
+}
+
+462166 = {
+	name = "Katharina"
+	# AKA: Katharina von Voorne
+	female = yes
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = generous
+	trait = education_learning_3
+	3303.1.1 = {
+		birth = "3303.1.1"
+	}
+	3353.1.1 = {
+		death = "3353.1.1"
+	}
+}
+
+462171 = {
+	name = "Enno" #Graf von Ostfriesland
+	dynasty = 7128 #Cirksena
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = lustful
+	trait = education_martial_2
+	father = 30364 #Sitat
+	3300.1.1 = {
+		birth = "3300.1.1"
+	}
+	3350.1.1 = {
+		death = "3350.1.1"
+	}
+}
+
+462172 = {
+	name = "Adda"
+	# AKA: Adda von Groothusen
+	female = yes
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = wrathful
+	trait = education_intrigue_1
+	3304.1.1 = {
+		birth = "3304.1.1"
+	}
+	3354.1.1 = {
+		death = "3354.1.1"
+	}
+}
+
+462173 = {
+	name = "Etta"
+	female = yes
+	dynasty = 7128 #Cirksena
+	martial = 5
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_stewardship_2
+	father = 462171
+	3332.1.1 = {
+		birth = "3332.1.1"
+	}
+	3403.1.1 = {
+		death = "3403.1.1"
+	}
+}
+
+462742 = {
+	name = "Willem" #Willem III
+	# AKA: Guillaume
+	dynasty = 5060
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = cynical
+	trait = education_martial_3
+	father = 94008
+	mother = 31118
+	3289.1.1 = {
+		birth = "3289.1.1"
+	}
+	3307.5.19 = {
+		add_spouse = 455501 # Joan of Valois, Countess of Hainaut
+	}
+	3339.6.7 = {
+		death = "3339.6.7"
+	}
+}
+
+462931 = {
+	name = "Johanna"
+	female = yes
+	dynasty = 5060
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_intrigue_2
+	father = 462742
+	mother = 455501 # Jeanne, Countess of Hainaut
+	3317.1.1 = {
+		birth = "3317.1.1"
+	}
+	3376.1.1 = {
+		death = "3376.1.1"
+	}
+}
+
 462941 = {
 	name = "Elisabeth"
 	# AKA: Elisabet
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 4
 	diplomacy = 6
 	intrigue = 7
@@ -1620,10 +5083,255 @@
 		death = "3334.1.1"
 	}
 }
+
+479 = {
+	name = "Sophie"
+	female = yes
+	dynasty_house = house_loon
+	martial = 5
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "dutch"
+	father = 106570
+	mother = 31090
+	3048.1.1 = {
+		birth = "3048.1.1"
+	}
+	3077.1.1 = {
+		death = "3077.1.1"
+	}
+}
+
+487011 = {
+	name = "Willem" #Willem IV
+	# AKA: Guillaume
+	dynasty = 5060
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "dutch"
+	trait = chaste
+	trait = education_diplomacy_3
+	father = 462742
+	mother = 455501 # Jeanne, Countess of Hainaut
+	3309.1.1 = {
+		birth = "3309.1.1"
+	}
+	3326.1.2 = {
+		add_spouse = 487012
+	}
+	3347.9.26 = {
+		death = "3347.9.26"
+	}
+}
+
+487013 = {
+	name = "Isabella"
+	# AKA: Isabelle
+	female = yes
+	dynasty = 5060
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_stewardship_2
+	father = 462742
+	mother = 455501 # Jeanne, Countess of Hainaut
+	3325.1.1 = {
+		birth = "3325.1.1"
+	}
+	3363.1.1 = {
+		death = "3363.1.1"
+	}
+}
+
+90108 = {
+	name = "Boudewijn" #Boudewijn II
+	dynasty = 724
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "dutch"
+	father = 90109
+	mother = 90110
+	2867.1.1 = {
+		birth = "2867.1.1"
+	}
+	2891.1.1 = {
+		add_spouse = 7629
+	}
+	2920.9.10 = {
+		death = "2920.9.10"
+	}
+}
+
+90109 = {
+	name = "Boudewijn" #Boudewijn I
+	dynasty = 724
+	trait = education_stewardship_3
+	trait = deceitful
+	religion = "catholic"
+	culture = "dutch"
+	father = 168234
+	2839.1.1 = {
+		birth = "2839.1.1"
+	}
+	2864.12.13 = {
+		add_spouse = 90110
+	}
+	2881.1.1 = {
+		death = "2881.1.1"
+	}
+}
+
+90160 = {
+	name = "Turdifa"
+	female = yes
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_stewardship_2
+	3048.1.2 = {
+		birth = "3048.1.2"
+	}
+	3062.1.2 = {
+		add_spouse = 90028 #Hereward the Wake
+	}
+	3098.1.2 = {
+		death = "3098.1.2"
+	}
+}
+
+94000 = {
+	name = "Hildegard"
+	female = yes
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 358
+	mother = 359
+	2938.1.1 = {
+		birth = "2938.1.1"
+	}
+	2992.4.10 = {
+		death = "2992.4.10"
+	}
+}
+
+94003 = {
+	name = "Willem" #Willem II
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	trait = arrogant
+	trait = ambitious
+	father = 106558
+	mother = 106557
+	3229.1.1 = {
+		birth = "3229.1.1"
+	}
+	3254.1.1 = {
+		add_spouse = 31093
+	}
+	
+	3258.1.28 = {
+		death = "3258.1.28"
+	}
+}
+
+94005 = {
+	name = "Floris" #Floris V
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	trait = just
+	trait = generous
+	father = 94003
+	mother = 31093
+	3256.6.24 = {
+		birth = "3256.6.24"
+	}
+	3273.1.1 = {
+		add_spouse = 94006
+	}
+	3288.3.19 = {
+		add_pressed_claim = title:k_scotland
+	}
+	
+	3298.6.27 = {
+		death = "3298.6.27"
+	}
+}
+
+94007 = {
+	name = "Jan" #Jan I
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	trait = ill
+	trait = education_stewardship_2
+	father = 94005
+	mother = 94006
+	3286.1.1 = {
+		birth = "3286.1.1"
+	}
+	3299.1.7 = {
+		add_spouse = 454516
+	}
+	3301.11.10 = {
+		death = "3301.11.10"
+	}
+}
+
+94008 = {
+	name = "Jan" #Jan II
+	dynasty = 5060
+	religion = "catholic"
+	culture = "dutch"
+	father = 94009
+	mother = 94010
+	3250.1.1 = {
+		birth = "3250.1.1"
+	}
+	3272.1.1 = {
+		add_spouse = 31118
+	}
+	3306.8.22 = {
+		death = "3306.8.22"
+	}
+}
+
+94010 = {
+	name = "Aleidis"
+	# AKA: Aleid
+	female = yes
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 106558
+	mother = 106557
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	
+	#1246 marries Jan d'Avesnes
+	
+	3286.1.1 = {
+		death = "3286.1.1"
+	}
+}
+
 94014 = {
 	name = "Margareta"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 6
 	intrigue = 4
@@ -1641,10 +5349,29 @@
 		death = "3233.1.1"
 	}
 }
+
+94015 = {
+	name = "Boudewijn" #count of Hainault
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 10074
+	mother = 94017
+	3090.1.1 = {
+		birth = "3090.1.1"
+	}
+	3109.1.1 = {
+		add_spouse = 30012
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
 94017 = {
 	name = "Ida"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 106600
@@ -1660,7 +5387,7 @@
 94018 = {
 	name = "Reginar"
 	# AKA: Reinier
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 41025
@@ -1675,7 +5402,7 @@
 
 94019 = {
 	name = "Herman"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 106642
@@ -1690,9 +5417,217 @@
 		death = "3053.1.1"
 	}
 }
+
+94021 = {
+	name = "Johanna"
+	female = yes
+	dynasty = 724
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "dutch"
+	father = 205523
+	mother = 205965
+	3196.1.1 = {
+		birth = "3196.1.1"
+	}
+	3246.12.5 = {
+		death = "3246.12.5"
+	}
+}
+
+94022 = {
+	name = "Otto" #bishop of Sticht
+	dynasty_house = house_gerulfing #Gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 206843
+	mother = 30026
+	3213.7.1 = {
+		birth = "3213.7.1"
+	}
+	3229.8.1 = {
+		capital = c_nedersticht
+	}
+	3251.3.27 = {
+		death = "3251.3.27"
+	}
+}
+
+94023 = {
+	name = "Gwijde" #bishop of Sticht
+	dynasty = 5060 #d'Avesnes
+	religion = "catholic"
+	culture = "dutch"
+	father = 94009
+	mother = 94010
+	3255.1.1 = {
+		birth = "3255.1.1"
+	}
+	3319.5.23 = {
+		death = "3319.5.23"
+	}
+}
+
+31350 = {
+	name = "Aginitrude"
+	female = yes
+	dynasty = 100078 #van Brugge
+	religion = "catholic"
+	culture = "dutch"
+	3054.1.1 = {
+		birth = "3054.1.1"
+	}
+	3125.1.1 = {
+		death = "3125.1.1"
+	}
+}
+
+31377 = {
+	name = "Imagina"
+	female = yes
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206800
+	mother = 30021
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3246.8.1 = {
+		death = "3246.8.1"
+	}
+}
+
+31759 = {
+	name = "Heilwig"
+	female = yes
+	dynasty = 6016
+	religion = "catholic"
+	culture = "dutch"
+	father = 31797
+	3267.1.2 = {
+		birth = "3267.1.2"
+	}	
+	3326.1.1 = {
+		death = "3326.1.1"
+	}
+}
+31797 = {
+	name = "Floris"
+	dynasty = 6016
+	religion = "catholic"
+	culture = "dutch"
+	father = 30061
+	mother = 30062
+	3224.1.1 = {
+		birth = "3224.1.1"
+	}	
+	3292.1.2 = {
+		death = "3292.1.2"
+	}
+}
+
+32153 = {
+	name = "Wenemar"
+	dynasty = 421
+	religion = "catholic"
+	culture = "dutch"
+	father = 32200
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3116.1.1 = {
+		add_spouse = 32154
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+32200 = {
+	name = "Lambert"
+	dynasty = 421
+	religion = "catholic"
+	culture = "dutch"
+	father = 32201
+	3030.1.1 = {
+		birth = "3030.1.1"
+	}
+	
+	3075.1.1 = {
+		death = "3075.1.1"
+	}
+}
+32201 = {
+	name = "Folkhard"
+	dynasty = 421
+	religion = "catholic"
+	culture = "dutch"
+	father = 32202
+	3007.1.1 = {
+		birth = "3007.1.1"
+	}
+	
+	3066.1.1 = {
+		death = "3066.1.1"
+	}
+}
+
+32202 = {
+	name = "Lambert"
+	dynasty = 421
+	religion = "catholic"
+	culture = "dutch"
+	2978.1.1 = {
+		birth = "2978.1.1"
+	}
+	
+	3028.1.1 = {
+		death = "3028.1.1"
+	}
+}
+
+32203 = {
+	name = "Walter"
+	dynasty = 434 #van Gent/de Gand
+	religion = "catholic"
+	culture = "dutch"
+	father = 106595
+	3100.1.1 = {
+		birth = "3100.1.1"
+	}
+	3120.1.1 = {
+		add_spouse = 91276
+	}
+	3141.1.1 = {
+		death = "3141.1.1"
+	}
+}
+
+32204 = {
+	name = "Robrecht" #chancellor of England
+	dynasty = 421
+	trait = education_diplomacy_4
+	religion = "catholic"
+	culture = "dutch"
+	father = 106595
+	3095.1.1 = {
+		birth = "3095.1.1"
+	}
+	3137.12.2 = {
+		employer = 205851 #Stephen de Blois
+	}
+	3155.1.1 = {
+		death = "3155.1.1"
+	}
+}
+
 33188 = {
 	name = "Hendrik"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	trait = intellect_bad_3
@@ -1708,7 +5643,7 @@
 
 33190 = {
 	name = "Gozelin"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	trait = bastard
@@ -1723,7 +5658,7 @@
 
 33191 = {
 	name = "Jan"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	trait = bastard
@@ -1735,9 +5670,179 @@
 		death = "3363.1.27"
 	}
 }
+
+#graven van Aarschot
+
+33192 = {
+	name = "Arnoud"
+	dynasty = 7280
+	religion = "catholic"
+	culture = "dutch"
+	3012.1.1 = {
+		birth = "3012.1.1"
+	}
+	3062.1.1 = {
+		death = "3062.1.1"
+	}
+}
+
+33193 = {
+	name = "Arnoud"
+	dynasty = 7280
+	religion = "catholic"
+	culture = "dutch"
+	father = 33192
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3117.1.1 = {
+		death = "3117.1.1"
+	}
+}
+
+33194 = {
+	name = "Godfried"
+	dynasty = 7280
+	religion = "catholic"
+	culture = "dutch"
+	father = 33193
+	3090.1.1 = {
+		birth = "3090.1.1"
+	}
+	3141.1.1 = {
+		death = "3141.1.1"
+	}
+}
+
+33195 = {
+	name = "Arnoud"
+	dynasty = 7280
+	religion = "catholic"
+	culture = "dutch"
+	father = 33193
+	3084.1.1 = {
+		birth = "3084.1.1"
+	}
+	3138.1.1 = {
+		death = "3138.1.1"
+	}
+}
+
+33196 = {
+	name = "Arnoud"
+	dynasty = 7280
+	religion = "catholic"
+	culture = "dutch"
+	father = 33195
+	3107.1.1 = {
+		birth = "3107.1.1"
+	}
+	3154.1.1 = {
+		death = "3154.1.1"
+	}
+}
+
+33197 = {
+	name = "Godfried"
+	dynasty = 7280
+	religion = "catholic"
+	culture = "dutch"
+	father = 33196
+	3137.1.1 = {
+		birth = "3137.1.1"
+	}
+	3176.1.1 = {
+		death = "3176.1.1"
+	}
+}
+
+33198 = {
+	name = "Karel"
+	dynasty = 7280
+	religion = "catholic"
+	culture = "dutch"
+	father = 33197
+	3157.1.1 = {
+		birth = "3157.1.1"
+	}
+	3201.1.1 = {
+		death = "3201.1.1"
+	}
+}
+
+33199 = {
+	name = "Karel"
+	dynasty = 7280
+	religion = "catholic"
+	culture = "dutch"
+	father = 33198
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3247.1.1 = {
+		death = "3247.1.1"
+	}
+}
+
+33200 = {
+	name = "Reginar"
+	dynasty = 7280
+	religion = "catholic"
+	culture = "dutch"
+	father = 33199
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3269.1.1 = {
+		death = "3269.1.1"
+	}
+}
+
+33201 = {
+	name = "Karel"
+	dynasty = 7280
+	religion = "catholic"
+	culture = "dutch"
+	father = 33200
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3274.1.1 = {
+		death = "3274.1.1"
+	}
+}
+
+33202 = {
+	name = "Karel"
+	dynasty = 7280
+	religion = "catholic"
+	culture = "dutch"
+	father = 33201
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3341.12.3 = {
+		death = "3341.12.3"
+	}
+}
+
+33203 = {
+	name = "Karel"
+	dynasty = 7280
+	religion = "catholic"
+	culture = "dutch"
+	father = 33202
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	3356.1.1 = {
+		death = "3356.1.1"
+	}
+}
+
 33210 = {
 	name = "Hendrik"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 106604
@@ -1749,11 +5854,682 @@
 		death = "3143.9.27"
 	}
 }
+
+33215 = {
+	name = "Otto"
+	dynasty = 427
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_learning_2
+	father = 33100
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3198.1.1 = {
+		death = "3198.1.1"
+	}
+}
+
+33216 = {
+	name = "Albrecht"
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_learning_2
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.2.1 = {
+		death = "3202.2.1"
+	}
+}
+
+33221 = {
+	name = "Willem"
+	dynasty = 7175
+	religion = "catholic"
+	culture = "dutch"
+	trait = education_learning_2
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3297.1.1 = {
+		death = "3297.1.1"
+	}
+}
+
+33060 = {
+	name = "Diederik"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 106570
+	mother = 31090
+	3063.1.1 = {
+		birth = "3063.1.1"
+	}
+	3113.1.1 = {
+		death = "3113.1.1"
+	}
+}
+
+33061 = {
+	name = "Reinoud"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 106570
+	mother = 31090
+	3065.1.1 = {
+		birth = "3065.1.1"
+	}
+	3133.1.1 = {
+		death = "3133.1.1"
+	}
+}
+
+33063 = {
+	name = "Arnold" #1126-1139
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 41725
+	mother = 33062
+	3084.1.1 = {
+		birth = "3084.1.1"
+	}
+	3084.1.1 = {
+		add_spouse = 33064
+	}
+	3141.4.11 = {
+		death = "3141.4.11"
+	}
+}
+
+33065 = {
+	name = "Beatrix"
+	female = yes
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 41725
+	mother = 33062
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	3134.1.1 = {
+		death = "3134.1.1"
+	}
+}
+
+33066 = {
+	name = "Gerard"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33063
+	mother = 33064
+	3114.1.1 = {
+		birth = "3114.1.1"
+	}
+	3140.1.1 = {
+		death = "3140.1.1"
+	}
+}
+
+33067 = {
+	name = "Godeschalk"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33063
+	mother = 33064
+	3116.1.1 = {
+		birth = "3116.1.1"
+	}
+	3140.1.1 = {
+		death = "3140.1.1"
+	}
+}
+
+33068 = {
+	name = "Imagina"
+	female = yes
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33063
+	mother = 33064
+	3118.1.1 = {
+		birth = "3118.1.1"
+	}
+	3168.1.1 = {
+		death = "3168.1.1"
+	}
+}
+
+33069 = {
+	name = "Jan"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33063
+	mother = 33064
+	3120.1.1 = {
+		birth = "3120.1.1"
+	}
+	3182.6.23 = {
+		death = "3182.6.23"
+	}
+}
+
+33070 = {
+	name = "Arnold"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206801
+	mother = 31548
+	3146.1.1 = {
+		birth = "3146.1.1"
+	}
+	3159.1.1 = {
+		death = "3159.1.1"
+	}
+}
+
+33071 = {
+	name = "Hugo"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206801
+	mother = 31548
+	3148.1.1 = {
+		birth = "3148.1.1"
+	}
+	3174.1.1 = {
+		death = "3174.1.1"
+	}
+}
+
+33072 = {
+	name = "Laurette"
+	female = yes
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206801
+	mother = 31548
+	3156.1.1 = {
+		birth = "3156.1.1"
+	}
+	3186.1.1 = {
+		death = "3186.1.1"
+	}
+}
+
+33073 = {
+	name = "Diederik"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206800
+	mother = 30021
+	3188.1.1 = {
+		birth = "3188.1.1"
+	}
+	3209.1.1 = {
+		death = "3209.1.1"
+	}
+}
+
+33074 = {
+	name = "Willem"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206800
+	mother = 30021
+	3189.1.1 = {
+		birth = "3189.1.1"
+	}
+	3208.1.1 = {
+		death = "3208.1.1"
+	}
+}
+
+33075 = {
+	name = "Mathilde"
+	female = yes
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206800
+	mother = 30021
+	3191.1.1 = {
+		birth = "3191.1.1"
+	}
+	3251.1.1 = {
+		death = "3251.1.1"
+	}
+}
+
+33076 = {
+	name = "Lodewijk" #1221-1227
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206804
+	3207.1.1 = {
+		birth = "3207.1.1"
+	}
+	
+	3238.8.11 = {
+		death = "3238.8.11"
+	}
+}
+
+33077 = {
+	name = "Arnold" #1236-1272
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206804
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3274.11.24 = {
+		death = "3274.11.24"
+	}
+}
+
+33078 = {
+	name = "Gerard"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206804
+	3214.1.1 = {
+		birth = "3214.1.1"
+	}
+	3274.1.17 = {
+		death = "3274.1.17"
+	}
+}
+
+33079 = {
+	name = "Bertold"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206804
+	3217.1.1 = {
+		birth = "3217.1.1"
+	}
+	3274.1.1 = {
+		death = "3274.1.1"
+	}
+}
+
+33080 = {
+	name = "Imagina"
+	female = yes
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206804
+	3217.1.1 = {
+		birth = "3217.1.1"
+	}
+	3267.1.1 = {
+		death = "3267.1.1"
+	}
+}
+
+33081 = {
+	name = "Jan" #1272-1278
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33077
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3260.1.1 = {
+		add_spouse = 30628
+	}
+	3280.1.19 = {
+		death = "3280.1.19"
+	}
+}
+
+33082 = {
+	name = "Lodewijk"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33077
+	3234.1.1 = {
+		birth = "3234.1.1"
+	}
+	3260.1.1 = {
+		add_spouse = 34316
+	}
+	3301.9.16 = {
+		death = "3301.9.16"
+	}
+}
+
+33083 = {
+	name = "Arnold"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33077
+	3236.1.1 = {
+		birth = "3236.1.1"
+	}
+	
+	3275.7.30 = {
+		death = "3275.7.30"
+	}
+}
+
+33084 = {
+	name = "Hendrik"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33077
+	3237.1.1 = {
+		birth = "3237.1.1"
+	}
+	
+	3287.1.1 = {
+		death = "3287.1.1"
+	}
+}
+
+33085 = {
+	name = "Gerard"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33077
+	3239.1.1 = {
+		birth = "3239.1.1"
+	}
+	
+	3289.1.1 = {
+		death = "3289.1.1"
+	}
+}
+
+33086 = {
+	name = "Elizabeth"
+	female = yes
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33077
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	
+	3253.1.1 = {
+		death = "3253.1.1"
+	}
+}
+
+
+33087 = {
+	name = "Adelheid"
+	female = yes
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33077
+	3233.1.1 = {
+		birth = "3233.1.1"
+	}
+	
+	3270.1.1 = {
+		death = "3270.1.1"
+	}
+}
+
+33088 = {
+	name = "Margareta"
+	female = yes
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33077
+	3235.1.1 = {
+		birth = "3235.1.1"
+	}
+	
+	3306.1.1 = {
+		death = "3306.1.1"
+	}
+}
+
+33089 = {
+	name = "Arnold" #1279-1327
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33081
+	mother = 30628
+	3261.1.1 = {
+		birth = "3261.1.1"
+	}
+	#married Mathilde von Julich
+	3329.8.22 = {
+		death = "3329.8.22"
+	}
+}
+
+33090 = {
+	name = "Jan"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33081
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	
+	3313.1.1 = {
+		death = "3313.1.1"
+	}
+}
+
+33091 = {
+	name = "Jacobijn"
+	female = yes
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33081
+	3269.1.1 = {
+		birth = "3269.1.1"
+	}
+	
+	3312.1.1 = {
+		death = "3312.1.1"
+	}
+}
+
+33092 = {
+	name = "Lodewijk" #1327-1336
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33089
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3338.4.22 = {
+		death = "3338.4.22"
+	}
+}
+
+33093 = {
+	name = "Willem"
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 33089
+	3278.1.1 = {
+		birth = "3278.1.1"
+	}
+	
+	3319.10.1 = {
+		death = "3319.10.1"
+	}
+}
+
+33098 = {
+	name = "Gozewijn"
+	dynasty = 427
+	religion = "catholic"
+	culture = "dutch"
+	father = 106544
+	3077.1.1 = {
+		birth = "3077.1.1"
+	}
+	3120.1.1 = {
+		death = "3120.1.1"
+	}
+}
+
+33099 = {
+	name = "Gerard"
+	dynasty = 427
+	religion = "catholic"
+	culture = "dutch"
+	father = 106544
+	3080.1.1 = {
+		birth = "3080.1.1"
+	}
+	3100.1.1 = {
+		add_spouse = 168550
+	}
+	3130.4.1 = {
+		death = "3130.4.1"
+	}
+}
+
+33100 = {
+	name = "Gozewijn"
+	dynasty = 427
+	religion = "catholic"
+	culture = "dutch"
+	father = 33099
+	mother = 168550
+	3107.1.1 = {
+		birth = "3107.1.1"
+	}
+	3170.4.8 = {
+		death = "3170.4.8"
+	}
+}
+
+33101 = {
+	name = "Gozewijn"
+	dynasty = 427
+	religion = "catholic"
+	culture = "dutch"
+	father = 33100
+	3141.1.1 = {
+		birth = "3141.1.1"
+	}
+	3181.4.11 = {
+		death = "3181.4.11"
+	}
+}
+
+33102 = {
+	name = "Godfried"
+	dynasty = 427
+	religion = "catholic"
+	culture = "dutch"
+	father = 33100
+	3150.1.1 = {
+		birth = "3150.1.1"
+	}
+	3187.1.1 = {
+		death = "3187.1.1"
+	}
+}
+
+33103 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 427
+	religion = "catholic"
+	culture = "dutch"
+	father = 33102
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3219.2.12 = {
+		death = "3219.2.12"
+	}
+}
+
+33104 = {
+	name = "Diederik"
+	dynasty = 427
+	religion = "catholic"
+	culture = "dutch"
+	father = 30954
+	mother = 33103
+	3194.1.1 = {
+		birth = "3194.1.1"
+	}
+	3230.1.1 = {
+		death = "3230.1.1"
+	}
+}
+
+33105 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 427
+	religion = "catholic"
+	culture = "dutch"
+	father = 33104
+	3216.1.1 = {
+		birth = "3216.1.1"
+	}
+	3269.1.1 = {
+		death = "3269.1.1"
+	}
+}
+
+33108 = {
+	name = "Bonne"
+	female = yes
+	dynasty_house = house_loon
+	religion = "catholic"
+	culture = "dutch"
+	father = 206801
+	mother = 31548
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
 106556 = {
 	name = "Maria"
 	# AKA: Adelhed
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 5
 	intrigue = 5
@@ -1774,7 +6550,7 @@
 7473 = {
 	name = "Adelheid"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 206852
@@ -1791,7 +6567,7 @@
 	name = "Mathilde"
 	# AKA: Mathilde
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 5
 	intrigue = 5
@@ -1813,7 +6589,7 @@
 	name = "Mathilde"
 	# AKA: Matilda
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 6
 	intrigue = 5
@@ -1833,7 +6609,7 @@
 
 487046 = {
 	name = "Hendrik"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 7
 	diplomacy = 6
 	intrigue = 7
@@ -1842,7 +6618,7 @@
 	culture = "dutch"
 	trait = education_stewardship_2
 	father = 487044
-	mother = CKU_evreux_12
+	mother = 487045
 	3330.1.1 = {
 		birth = "3330.1.1"
 	}
@@ -1854,7 +6630,7 @@
 487048 = {
 	name = "Godfried"
 	# AKA: Godfrey
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 5
 	intrigue = 7
@@ -1863,7 +6639,7 @@
 	culture = "dutch"
 	trait = education_stewardship_2
 	father = 487044
-	mother = CKU_evreux_12
+	mother = 487045
 	3331.1.1 = {
 		birth = "3331.1.1"
 	}
@@ -1875,7 +6651,7 @@
 487050 = {
 	name = "Margareta"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 5
 	intrigue = 7
@@ -1885,7 +6661,7 @@
 	trait = greedy
 	trait = education_stewardship_2
 	father = 487044
-	mother = CKU_evreux_12
+	mother = 487045
 	3325.1.1 = {
 		birth = "3325.1.1"
 	}
@@ -1897,7 +6673,7 @@
 487051 = {
 	name = "Maria"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 7
 	diplomacy = 5
 	intrigue = 7
@@ -1906,7 +6682,7 @@
 	culture = "dutch"
 	trait = education_stewardship_2
 	father = 487044
-	mother = CKU_evreux_12
+	mother = 487045
 	3327.1.1 = {
 		birth = "3327.1.1"
 	}
@@ -1917,7 +6693,7 @@
 
 487052 = {
 	name = "Willem"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 5
 	intrigue = 7
@@ -1927,7 +6703,7 @@
 	trait = bastard
 	trait = education_learning_2
 	father = 487044
-	mother = CKU_evreux_12
+	mother = 487045
 	3331.1.1 = {
 		birth = "3331.1.1"
 	}
@@ -1938,7 +6714,7 @@
 
 487053 = {
 	name = "Jan"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 8
 	diplomacy = 2
 	intrigue = 9
@@ -1949,7 +6725,7 @@
 	trait = wrathful
 	trait = education_martial_2
 	father = 487044
-	mother = CKU_evreux_12
+	mother = 487045
 	3331.1.1 = {
 		birth = "3331.1.1"
 	}
@@ -1961,7 +6737,7 @@
 487054 = {
 	name = "Johanna"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 5
 	intrigue = 7
@@ -1982,7 +6758,7 @@
 487055 = {
 	name = "Maria"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 6
 	diplomacy = 3
 	intrigue = 5
@@ -2002,7 +6778,7 @@
 
 487056 = {
 	name = "Hendrik"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 5
 	intrigue = 5
@@ -2025,7 +6801,7 @@
 
 487057 = {
 	name = "Hendrik"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 7
 	diplomacy = 5
 	intrigue = 5
@@ -2052,7 +6828,7 @@
 487058 = {
 	name = "Godfried"
 	# AKA: Godfrey
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 5
 	intrigue = 5
@@ -2073,7 +6849,7 @@
 106640 = {
 	name = "Richilde"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 4
 	diplomacy = 5
 	intrigue = 5
@@ -2092,7 +6868,7 @@
 455530 = {
 	name = "Maria"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 4
 	intrigue = 5
@@ -2113,7 +6889,7 @@
 487012 = {
 	name = "Johanna"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 5
 	diplomacy = 5
 	intrigue = 5
@@ -2122,7 +6898,7 @@
 	culture = "dutch"
 	trait = education_stewardship_2
 	father = 487044
-	mother = CKU_evreux_12
+	mother = 487045
 	3324.6.24 = {
 		birth = "3324.6.24"
 	}
@@ -2133,7 +6909,7 @@
 
 487040 = {
 	name = "Jan"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 9
 	diplomacy = 7
 	intrigue = 5
@@ -2146,9 +6922,6 @@
 	3256.1.1 = {
 		birth = "3256.1.1"
 	}
-	3271.2.1 = {
-		add_spouse = CKU_capet_53
-	}
 	3275.1.2 = {
 		add_spouse = 487041
 	}
@@ -2159,7 +6932,7 @@
 
 487042 = {
 	name = "Jan"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 7
 	diplomacy = 6
 	intrigue = 7
@@ -2183,7 +6956,7 @@
 
 487044 = {
 	name = "Jan"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 7
 	diplomacy = 6
 	intrigue = 7
@@ -2197,8 +6970,8 @@
 	3302.10.20 = {
 		birth = "3302.10.20"
 	}
-	3313.1.1 = {
-		add_spouse = CKU_evreux_12
+	3318.12.1 = {
+		add_spouse = 487045
 	}
 	3357.12.5 = {
 		death = "3357.12.5"
@@ -2208,7 +6981,7 @@
 7810 = {
 	name = "Reginar"
 	# AKA: Renier
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 7
 	diplomacy = 7
 	intrigue = 7
@@ -2232,7 +7005,7 @@
 7811 = {
 	name = "Reginar"
 	# AKA: Renier
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 7
 	diplomacy = 7
 	intrigue = 7
@@ -2252,7 +7025,7 @@
 7812 = {
 	name = "Reginar"
 	# AKA: Renier
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 7
 	diplomacy = 7
 	intrigue = 7
@@ -2272,7 +7045,7 @@
 
 7813 = {
 	name = "Giselbert"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 7
 	diplomacy = 7
 	intrigue = 7
@@ -2294,7 +7067,7 @@
 
 7815 = {
 	name = "Giselbert"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 7
 	diplomacy = 7
 	intrigue = 7
@@ -2316,7 +7089,7 @@
 7998 = {
 	name = "Reginar"
 	# AKA: Renier
-	dynasty = CKU_brabant
+	dynasty = 7198
 	martial = 7
 	diplomacy = 7
 	intrigue = 7
@@ -2340,7 +7113,7 @@
 455932 = {
 	name = "Blanche" #de Brabant
 	female = yes
-	dynasty = CKU_brabant #Reginar
+	dynasty = 7198 #Reginar
 	martial = 5
 	diplomacy = 7
 	intrigue = 6
@@ -2362,7 +7135,7 @@
 129001 = {
 	name = "Adelheid" #Spouse of 394999
 	# AKA: Adelheide
-	dynasty = CKU_brabant
+	dynasty = 7198
 	female = yes
 	martial = 4
 	diplomacy = 6
@@ -2383,7 +7156,7 @@
 33388 = {
 	name = "Beatrix"
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 487057
@@ -2395,9 +7168,224 @@
 		death = "3290.11.11"
 	}
 }
+
+33595 = {
+	name = "Wolfger"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	3077.1.1 = {
+		birth = "3077.1.1"
+	}
+	3133.1.1 = {
+		death = "3133.1.1"
+	}
+}
+
+33596 = {
+	name = "Egbert"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33595
+	3107.1.1 = {
+		birth = "3107.1.1"
+	}
+	3174.1.1 = {
+		death = "3174.1.1"
+	}
+}
+
+33597 = {
+	name = "Gijsbrecht"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33596
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3190.1.1 = {
+		death = "3190.1.1"
+	}
+}
+
+33598 = {
+	name = "Hendrik"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33596
+	3148.1.1 = {
+		birth = "3148.1.1"
+	}
+	3174.1.1 = {
+		death = "3174.1.1"
+	}
+}
+
+33599 = {
+	name = "Egbert"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33597
+	3163.1.1 = {
+		birth = "3163.1.1"
+	}
+	3189.1.1 = {
+		death = "3189.1.1"
+	}
+}
+
+33600 = {
+	name = "Gijsbrecht"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33599
+	3178.1.1 = {
+		birth = "3178.1.1"
+	}
+	3245.1.1 = {
+		death = "3245.1.1"
+	}
+}
+
+33601 = {
+	name = "Gijsbrecht"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33600
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3254.1.1 = {
+		death = "3254.1.1"
+	}
+}
+
+33602 = {
+	name = "Arent"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33600
+	3203.1.1 = {
+		birth = "3203.1.1"
+	}
+	3253.1.1 = {
+		death = "3253.1.1"
+	}
+}
+
+33603 = {
+	name = "Gijsbrecht"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33601
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3305.1.1 = {
+		death = "3305.1.1"
+	}
+}
+
+33604 = {
+	name = "Willem"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33601
+	3234.1.1 = {
+		birth = "3234.1.1"
+	}
+	3284.1.1 = {
+		death = "3284.1.1"
+	}
+}
+
+33605 = {
+	name = "Arnold"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33601
+	3236.1.1 = {
+		birth = "3236.1.1"
+	}
+	3293.5.12 = {
+		death = "3293.5.12"
+	}
+}
+
+33606 = {
+	name = "Jan"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33603
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3347.1.1 = {
+		death = "3347.1.1"
+	}
+}
+
+33607 = {
+	name = "Gijsbrecht"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33605
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3344.1.1 = {
+		death = "3344.1.1"
+	}
+}
+
+33608 = {
+	name = "Arnold"
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33607
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3310.1.1 = {
+		add_spouse = 31100
+	}
+	3366.1.1 = {
+		death = "3366.1.1"
+	}
+}
+
+33609 = {
+	name = "Guyotta"
+	female = yes
+	dynasty = 6001
+	religion = "catholic"
+	culture = "dutch"
+	father = 33608
+	mother = 31100
+	3322.1.1 = {
+		birth = "3322.1.1"
+	}
+	3376.1.1 = {
+		death = "3376.1.1"
+	}
+}
+
 144993 = {
 	name = "Otto"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 144994
@@ -2411,7 +7399,7 @@
 
 144994 = {
 	name = "Richwin"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 7815
@@ -2426,7 +7414,7 @@
 
 144995 = {
 	name = "Otto"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 144996
@@ -2440,7 +7428,7 @@
 
 144996 = {
 	name = "Hendrik"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 41025
@@ -2456,7 +7444,7 @@
 
 163046 = {
 	name = "Frederik"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 7812
@@ -2470,7 +7458,7 @@
 
 161296 = {
 	name = "Rudolf"
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 7811
@@ -2484,7 +7472,7 @@
 
 161295 = {
 	name = "Rogier" #Roger Reginar
-	dynasty = CKU_brabant #Reginar
+	dynasty = 7198 #Reginar
 	religion = "catholic"
 	culture = "dutch"
 	father = 94019 #Herman Reginar
@@ -2496,10 +7484,119 @@
 		death = "3095.1.1"
 	}
 }
+
+161344 = {
+	name = "Elstrude"
+	female = yes
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 358
+	mother = 359
+	2942.1.1 = {
+		birth = "2942.1.1"
+	}
+	2968.1.1 = {
+		death = "2968.1.1"
+	}
+}
+
+161367 = {
+	name = "Godschalk"
+	dynasty = 101918
+	religion = "catholic"
+	culture = "dutch"
+	3032.1.1 = {
+		birth = "3032.1.1"
+	}
+	3050.1.1 = {
+		add_spouse = 41721
+	}
+	3065.1.1 = {
+		death = "3065.1.1"
+	}
+}
+
+161530 = {
+	name = "Everhard"
+	dynasty = 101554
+	religion = "catholic"
+	culture = "dutch"
+	father = 161529
+	2992.1.1 = {
+		birth = "2992.1.1"
+	}
+	3035.1.1 = {
+		death = "3035.1.1"
+	}
+}
+
+161558 = {
+	name = "Willem"
+	dynasty = 6016
+	religion = "catholic"
+	culture = "dutch"
+	father = 30061
+	mother = 30062
+	3228.1.1 = {
+		birth = "3228.1.1"
+	}
+	
+	3292.1.1 = {
+		death = "3292.1.1"
+	}
+}
+
+161559 = {
+	name = "Willem"
+	dynasty = 6016
+	religion = "catholic"
+	culture = "dutch"
+	father = 161558
+	3244.1.1 = {
+		birth = "3244.1.1"
+	}
+	
+	3330.1.1 = {
+		death = "3330.1.1"
+	}
+}
+
+161560 = {
+	name = "Giselbert"
+	dynasty = 6016
+	religion = "catholic"
+	culture = "dutch"
+	father = 161559
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	
+	3330.1.1 = {
+		death = "3330.1.1"
+	}
+}
+
+161561 = {
+	name = "Mechthild"
+	female = yes
+	dynasty = 6016
+	religion = "catholic"
+	culture = "dutch"
+	father = 161560
+	3297.1.1 = {
+		birth = "3297.1.1"
+	}
+	
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
 161535 = {
 	name = "Alberada" #real name unknown
 	female = yes
-	dynasty = CKU_brabant
+	dynasty = 7198
 	religion = "catholic"
 	culture = "dutch"
 	father = 7812
@@ -2510,850 +7607,565 @@
 		death = "2942.1.1 "
 	}
 }
-212970 = {
-	name = "Agnes"
+
+167006 = {
+	name = "Gerbod"
+	dynasty = 9501
+	religion = "catholic"
+	culture = "dutch"
+	3022.1.1 = {
+		birth = "3022.1.1"
+	}
+	3067.1.1 = {
+		death = "3067.1.1"
+	}
+}
+
+
+
+167007 = {
+	name = "Gerbod"
+	dynasty = 9501
+	religion = "catholic"
+	culture = "dutch"
+	father = 167006
+	3050.1.1 = {
+		birth = "3050.1.1"
+	}
+	3068.1.1 = {
+		add_spouse = 167009
+		employer = 140
+	}
+	3073.2.22 = {
+		death = "3073.2.22"
+	}
+}
+
+
+
+
+167008 = {
+	name = "Frederik"
+	dynasty = 9501
+	religion = "catholic"
+	culture = "dutch"
+	father = 167006
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+				3068.1.1 = {
+		employer = 140
+	}
+
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+}
+
+
+
+
+167009 = {
+	name = "Ada"
 	female = yes
-	dynasty = CKU_loon
-	martial = 4
-	diplomacy = 8
-	intrigue = 6
-	stewardship = 4
-	religion = "catholic"
-	culture = franconian
-	trait = education_intrigue_2
-	father = 206801
-	mother = 31548
-	3152.1.1 = {
-		birth = "3152.1.1"
-	}
-	3193.3.26 = {
-		death = "3193.3.26"
-	}
-}
-106570 = {
-	name = "Emmo" #1044-1078
-	dynasty = CKU_loon
-	martial = 5
-	diplomacy = 7
-	intrigue = 5
-	stewardship = 6
 	religion = "catholic"
 	culture = "dutch"
-	trait = honest
-	trait = arbitrary
-	trait = craven
-	trait = education_martial_2
-	father = 106572
-	mother = 106571
-	3032.1.1 = {
-		birth = "3032.1.1"
+	3052.1.1 = {
+		birth = "3052.1.1"
 	}
-	3048.1.1 = {
-		add_spouse = 31090
-	}
-	3080.1.17 = {
-		death = "3080.1.17"
+	3074.1.1 = {
+		death = "3074.1.1"
 	}
 }
 
-106572 = {
-	name = "Giselbert" #1014-1044
-	dynasty = CKU_loon
-	martial = 6
-	diplomacy = 4
-	intrigue = 7
-	stewardship = 4
+
+
+167010 = {
+	name = "Arnulf"
+	dynasty = 9501
 	religion = "catholic"
 	culture = "dutch"
-	trait = education_martial_2
-	father = 161296
-	2987.1.1 = {
-		birth = "2987.1.1"
+	father = 167007
+	mother = 167009
+	3069.1.1 = {
+		birth = "3069.1.1"
 	}
-	3019.1.1 = {
-		add_spouse = 106571
-	}
-	3046.1.1 = {
-		death = "3046.1.1"
+	
+	3119.1.1 = {
+		death = "3119.1.1"
 	}
 }
 
-106574 = {
-	name = "Otto"
-	dynasty = CKU_loon
-	martial = 6
-	diplomacy = 4
-	intrigue = 8
-	stewardship = 7
+
+
+167011 = {
+	name = "Gerbod"
+	dynasty = 9501
 	religion = "catholic"
 	culture = "dutch"
-	trait = education_martial_3
-	father = 106572
-	mother = 106571
-	3044.1.1 = {
-		birth = "3044.1.1"
+	father = 167007
+	mother = 167009
+	3070.1.1 = {
+		birth = "3070.1.1"
 	}
-	3103.1.1 = {
-		death = "3103.1.1"
-	}
-}
-206800 = {
-	name = "Gerard" #1171-1191
-	dynasty = CKU_loon
-	martial = 8
-	diplomacy = 6
-	intrigue = 4
-	stewardship = 4
-	religion = "catholic"
-	culture = "dutch"
-	trait = education_intrigue_1
-	father = 206801
-	mother = 31548
-	3147.1.1 = {
-		birth = "3147.1.1"
-	}
-	3181.1.1 = {
-		add_spouse = 30021
-	}
-	3193.9.2 = {
-		death = "3193.9.2"
+	
+	3104.5.17 = {
+		death = "3104.5.17"
 	}
 }
 
-206801 = {
-	name = "Lodewijk" #1139-1171
-	dynasty = CKU_loon
-	martial = 4
-	diplomacy = 6
-	intrigue = 6
-	stewardship = 7
+
+167012 = {
+	name = "Albrecht"
+	dynasty = 9501
 	religion = "catholic"
 	culture = "dutch"
-	trait = just
-	trait = education_intrigue_1
-	father = 33063
-	mother = 33064
-	3112.1.1 = {
-		birth = "3112.1.1"
+	father = 167007
+	mother = 167009
+	3072.1.1 = {
+		birth = "3072.1.1"
 	}
-	3145.1.1 = {
-		add_spouse = 31548
-	}
-	3173.8.11 = {
-		death = "3173.8.11"
+	
+	3122.1.1 = {
+		death = "3122.1.1"
 	}
 }
 
-206802 = {
-	name = "Lodewijk" #1191-1218
-	dynasty = CKU_loon
-	martial = 4
-	diplomacy = 8
-	intrigue = 4
-	stewardship = 7
+163117 = {
+	name = "Rimbert"
 	religion = "catholic"
 	culture = "dutch"
-	trait = generous
-	trait = education_martial_2
-	father = 206800
-	mother = 30021
-	3182.1.1 = {
-		birth = "3182.1.1"
+	2832.1.1 = {
+		birth = "2832.1.1"
 	}
-	3205.1.1 = {
-		add_spouse = 31068
-	}
-	3205.1.1 = {
-		add_pressed_claim = d_holland
-	}
-	3220.7.30 = {
-		death = "3220.7.30"
+	
+	2890.6.11 = {
+		death = "2890.6.11"
 	}
 }
 
-206803 = {
-	name = "Hendrik" #1218
-	dynasty = CKU_loon
-	martial = 7
-	diplomacy = 5
-	intrigue = 8
-	stewardship = 7
+167701 = {
+	name = "Gerulf"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 167702
+	2802.1.1 = {
+		birth = "2802.1.1"
+	}
+	2841.1.1 = {
+		death = "2841.1.1"
+	}
+}
+
+
+167703 = {
+	name = "Gerard"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "dutch"
+	father = 167701
+	2838.1.1 = {
+		birth = "2838.1.1"
+	}
+	2888.1.1 = {
+		death = "2888.1.1"
+	}
+}
+
+167704 = {
+	name = "Gunthar"
+	dynasty = 246
 	religion = "catholic"
 	culture = "dutch"
 	trait = education_learning_2
-	father = 206800
-	mother = 30021
-	3183.1.1 = {
-		birth = "3183.1.1"
+	father = 168626
+	2837.1.1 = {
+		birth = "2837.1.1"
 	}
-	3220.8.2 = {
-		death = "3220.8.2"
-	}
-}
-
-206804 = {
-	name = "Gerard"
-	dynasty = CKU_loon
-	martial = 4
-	diplomacy = 5
-	intrigue = 8
-	stewardship = 5
-	religion = "catholic"
-	culture = "dutch"
-	father = 206800
-	mother = 30021
-	3185.1.1 = {
-		birth = "3185.1.1"
-	}
-	3218.10.24 = {
-		death = "3218.10.24"
+	2875.1.1 = {
+		death = "2875.1.1"
 	}
 }
 
-206805 = {
-	name = "Arnold" #1218-1221
-	dynasty = CKU_loon
-	martial = 5
-	diplomacy = 6
-	intrigue = 4
-	stewardship = 7
+167705 = {
+	name = "Waldger"
+	dynasty = 246
 	religion = "catholic"
 	culture = "dutch"
-	father = 206800
-	mother = 30021
-	3187.1.1 = {
-		birth = "3187.1.1"
+	father = 168628
+	mother = 168629
+	2867.1.1 = {
+		birth = "2867.1.1"
 	}
-	3209.1.1 = {
-		add_spouse = 7473
-	}
-	3223.9.20 = {
-		death = "3223.9.20"
+	2930.1.1 = {
+		death = "2930.1.1"
 	}
 }
 
-206806 = {
-	name = "Imagina"
-	female = yes
-	dynasty = CKU_loon
-	martial = 5
-	diplomacy = 7
-	intrigue = 4
-	stewardship = 4
+167706 = {
+	name = "Adelbold"
+	#bishop of Sticht/Deventer
 	religion = "catholic"
 	culture = "dutch"
-	trait = lustful
-	trait = education_learning_3
-	father = 206801
-	mother = 31548
-	3160.1.1 = {
-		birth = "3160.1.1"
+	2842.1.1 = {
+		birth = "2842.1.1"
 	}
-	3216.6.5 = {
-		death = "3216.6.5"
-	}
-}
-30010 = {
-	name = "Margareta"
-	female = yes
-	dynasty = CKU_loon
-	martial = 4
-	diplomacy = 6
-	intrigue = 4
-	stewardship = 5
-	religion = "catholic"
-	culture = "dutch"
-	father = 106572
-	mother = 106571
-	3040.1.1 = {
-		birth = "3040.1.1"
-	}
-	3064.1.1 = {
-		death = "3064.1.1"
-	}
-}
-41725 = {
-	name = "Arnold" #1078-1126
-	dynasty = CKU_loon
-	martial = 5
-	diplomacy = 5
-	intrigue = 5
-	stewardship = 4
-	religion = "catholic"
-	culture = "dutch"
-	trait = education_stewardship_2
-	father = 106570
-	mother = 31090
-	3062.1.1 = {
-		birth = "3062.1.1"
-	}
-	3083.1.1 = {
-		add_spouse = 33062
-	}
-	3128.1.1 = {
-		death = "3128.1.1"
-	}
-}
-462161 = {
-	name = "Mathilde"
-	female = yes
-	dynasty = CKU_loon
-	martial = 6
-	diplomacy = 6
-	intrigue = 6
-	stewardship = 8
-	religion = "catholic"
-	culture = "dutch"
-	trait = diligent
-	trait = education_diplomacy_3
-	father = 33089
-	3276.1.1 = {
-		birth = "3276.1.1"
-	}
-	3315.1.1 = {
-		death = "3315.1.1"
-	}
-}
-479 = {
-	name = "Sophie"
-	female = yes
-	dynasty = CKU_loon
-	martial = 5
-	diplomacy = 8
-	intrigue = 5
-	stewardship = 7
-	religion = "catholic"
-	culture = "dutch"
-	father = 106570
-	mother = 31090
-	3048.1.1 = {
-		birth = "3048.1.1"
-	}
-	3077.1.1 = {
-		death = "3077.1.1"
-	}
-}
-31377 = {
-	name = "Imagina"
-	female = yes
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 206800
-	mother = 30021
-	3192.1.1 = {
-		birth = "3192.1.1"
-	}
-	3246.8.1 = {
-		death = "3246.8.1"
-	}
-}
-33060 = {
-	name = "Diederik"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 106570
-	mother = 31090
-	3063.1.1 = {
-		birth = "3063.1.1"
-	}
-	3113.1.1 = {
-		death = "3113.1.1"
+	2900.1.1 = {
+		death = "2900.1.1"
 	}
 }
 
-33061 = {
-	name = "Reinoud"
-	dynasty = CKU_loon
+167788 = {
+	name = "Ansfried"
+	dynasty = 417
 	religion = "catholic"
 	culture = "dutch"
-	father = 106570
-	mother = 31090
-	3065.1.1 = {
-		birth = "3065.1.1"
-	}
-	3133.1.1 = {
-		death = "3133.1.1"
-	}
-}
-
-33063 = {
-	name = "Arnold" #1126-1139
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 41725
-	mother = 33062
-	3084.1.1 = {
-		birth = "3084.1.1"
-	}
-	3084.1.1 = {
-		add_spouse = 33064
-	}
-	3141.4.11 = {
-		death = "3141.4.11"
-	}
-}
-
-33065 = {
-	name = "Beatrix"
-	female = yes
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 41725
-	mother = 33062
-	3087.1.1 = {
-		birth = "3087.1.1"
-	}
-	3134.1.1 = {
-		death = "3134.1.1"
-	}
-}
-
-33066 = {
-	name = "Gerard"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 33063
-	mother = 33064
-	3114.1.1 = {
-		birth = "3114.1.1"
-	}
-	3140.1.1 = {
-		death = "3140.1.1"
-	}
-}
-
-33067 = {
-	name = "Godeschalk"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 33063
-	mother = 33064
-	3116.1.1 = {
-		birth = "3116.1.1"
-	}
-	3140.1.1 = {
-		death = "3140.1.1"
-	}
-}
-
-33068 = {
-	name = "Imagina"
-	female = yes
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 33063
-	mother = 33064
-	3118.1.1 = {
-		birth = "3118.1.1"
-	}
-	3168.1.1 = {
-		death = "3168.1.1"
-	}
-}
-
-33069 = {
-	name = "Jan"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 33063
-	mother = 33064
-	3120.1.1 = {
-		birth = "3120.1.1"
-	}
-	3182.6.23 = {
-		death = "3182.6.23"
-	}
-}
-
-33070 = {
-	name = "Arnold"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 206801
-	mother = 31548
-	3146.1.1 = {
-		birth = "3146.1.1"
-	}
-	3159.1.1 = {
-		death = "3159.1.1"
-	}
-}
-
-33071 = {
-	name = "Hugo"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 206801
-	mother = 31548
-	3148.1.1 = {
-		birth = "3148.1.1"
-	}
-	3174.1.1 = {
-		death = "3174.1.1"
-	}
-}
-
-33072 = {
-	name = "Laurette"
-	female = yes
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 206801
-	mother = 31548
-	3156.1.1 = {
-		birth = "3156.1.1"
-	}
-	3186.1.1 = {
-		death = "3186.1.1"
-	}
-}
-
-33073 = {
-	name = "Diederik"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 206800
-	mother = 30021
-	3188.1.1 = {
-		birth = "3188.1.1"
-	}
-	3209.1.1 = {
-		death = "3209.1.1"
-	}
-}
-
-33074 = {
-	name = "Willem"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 206800
-	mother = 30021
-	3189.1.1 = {
-		birth = "3189.1.1"
-	}
-	3208.1.1 = {
-		death = "3208.1.1"
-	}
-}
-
-33075 = {
-	name = "Mathilde"
-	female = yes
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 206800
-	mother = 30021
-	3191.1.1 = {
-		birth = "3191.1.1"
-	}
-	3251.1.1 = {
-		death = "3251.1.1"
-	}
-}
-
-33076 = {
-	name = "Lodewijk" #1221-1227
-	dynasty_house = house_loon_reineck
-	religion = "catholic"
-	culture = "dutch"
-	father = 206804
-	3207.1.1 = {
-		birth = "3207.1.1"
-	}
-	3231.1.1 = {
-		add_spouse = CKU_henneberg_23
-	}
-	3238.8.11 = {
-		death = "3238.8.11"
-	}
-}
-
-33077 = {
-	name = "Arnold" #1236-1272
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 206804
-	3212.1.1 = {
-		birth = "3212.1.1"
-	}
-	3274.11.24 = {
-		death = "3274.11.24"
-	}
-}
-
-33078 = {
-	name = "Gerard"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 206804
-	3214.1.1 = {
-		birth = "3214.1.1"
-	}
-	3274.1.17 = {
-		death = "3274.1.17"
-	}
-}
-
-33079 = {
-	name = "Bertold"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 206804
-	3217.1.1 = {
-		birth = "3217.1.1"
-	}
-	3274.1.1 = {
-		death = "3274.1.1"
-	}
-}
-
-33080 = {
-	name = "Imagina"
-	female = yes
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 206804
-	3217.1.1 = {
-		birth = "3217.1.1"
-	}
-	3267.1.1 = {
-		death = "3267.1.1"
-	}
-}
-
-33081 = {
-	name = "Jan" #1272-1278
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 33077
-	3232.1.1 = {
-		birth = "3232.1.1"
-	}
-	3260.1.1 = {
-		add_spouse = 30628
-	}
-	3280.1.19 = {
-		death = "3280.1.19"
-	}
-}
-
-33082 = {
-	name = "Lodewijk"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 33077
-	3234.1.1 = {
-		birth = "3234.1.1"
-	}
-	3260.1.1 = {
-		add_spouse = 34316
-	}
-	3301.9.16 = {
-		death = "3301.9.16"
-	}
-}
-
-33083 = {
-	name = "Arnold"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 33077
-	3236.1.1 = {
-		birth = "3236.1.1"
+	2822.1.1 = {
+		birth = "2822.1.1"
 	}
 	
-	3275.7.30 = {
-		death = "3275.7.30"
+	2870.1.1 = {
+		death = "2870.1.1"
 	}
 }
 
-33084 = {
-	name = "Hendrik"
-	dynasty = CKU_loon
+
+
+167789 = {
+	name = "Hildiward"
+	dynasty = 417
 	religion = "catholic"
 	culture = "dutch"
-	father = 33077
-	3237.1.1 = {
-		birth = "3237.1.1"
+	father = 167788
+	2847.1.1 = {
+		birth = "2847.1.1"
 	}
 	
-	3287.1.1 = {
-		death = "3287.1.1"
+	2870.1.1 = {
+		death = "2870.1.1"
 	}
 }
 
-33085 = {
-	name = "Gerard"
-	dynasty = CKU_loon
+168212 = {
+	name = "Radboud"
+	dynasty = 246
 	religion = "catholic"
 	culture = "dutch"
-	father = 33077
-	3239.1.1 = {
-		birth = "3239.1.1"
+	father = 167705
+	2892.1.1 = {
+		birth = "2892.1.1"
 	}
-	
-	3289.1.1 = {
-		death = "3289.1.1"
+	2946.7.17 = {
+		death = "2946.7.17"
 	}
 }
 
-33086 = {
-	name = "Elizabeth"
+
+
+168213 = {
+	name = "Lambert"
+	dynasty = 417
+	religion = "catholic"
+	culture = "dutch"
+	father = 167789
+	2868.1.1 = {
+		birth = "2868.1.1"
+	}
+	
+	2918.1.1 = {
+		death = "2918.1.1"
+	}
+}
+
+168214 = {
+	name = "Hildiward"
+	dynasty = 417
+	religion = "catholic"
+	culture = "dutch"
+	father = 168213
+	2892.1.1 = {
+		birth = "2892.1.1"
+	}
+	
+	2942.1.1 = {
+		death = "2942.1.1"
+	}
+}
+
+168215 = {
+	name = "Robrecht"
+	dynasty = 417
+	religion = "catholic"
+	culture = "dutch"
+	father = 168214
+	2912.1.1 = {
+		birth = "2912.1.1"
+	}
+	
+	2958.5.19 = {
+		death = "2958.5.19"
+	}
+}
+
+168216 = {
+	name = "Ansfried"
+	dynasty = 417
+	religion = "catholic"
+	culture = "dutch"
+	father = 168214
+	2917.1.1 = {
+		birth = "2917.1.1"
+	}
+	
+	2971.1.1 = {
+		death = "2971.1.1"
+	}
+}
+
+168217 = {
+	name = "Lambert"
+	dynasty = 417
+	religion = "catholic"
+	culture = "dutch"
+	father = 168214
+	2922.1.1 = {
+		birth = "2922.1.1"
+	}
+	
+	2977.1.1 = {
+		death = "2977.1.1"
+	}
+}
+
+168218 = {
+	name = "Ansfried"
+	dynasty = 417
+	religion = "catholic"
+	culture = "dutch"
+	father = 168217
+	2947.1.1 = {
+		birth = "2947.1.1"
+	}
+	
+	3012.5.3 = {
+		death = "3012.5.3"
+	}
+}
+
+168219 = {
+	name = "Benedicta"
 	female = yes
-	dynasty = CKU_loon
+	dynasty = 417
 	religion = "catholic"
 	culture = "dutch"
-	father = 33077
-	3232.1.1 = {
-		birth = "3232.1.1"
+	father = 168218
+	2972.1.1 = {
+		birth = "2972.1.1"
 	}
 	
-	3253.1.1 = {
-		death = "3253.1.1"
+	3022.1.1 = {
+		death = "3022.1.1"
 	}
 }
 
 
-33087 = {
-	name = "Adelheid"
+
+
+168234 = {
+	name = "Odoaker"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 168233
+	2802.1.1 = {
+		birth = "2802.1.1"
+	}
+	
+	2840.1.1 = {
+		death = "2840.1.1"
+	}
+}
+
+168235 = {
+	name = "Karel"
+	dynasty = 724
+	trait = weak
+	religion = "catholic"
+	culture = "dutch"
+	father = 90109
+	mother = 90110
+	2866.1.1 = {
+		birth = "2866.1.1"
+	}
+	
+	2872.1.1 = {
+		death = "2872.1.1"
+	}
+}
+
+168236 = {
+	name = "Rudolf"
+	dynasty = 724
+	religion = "catholic"
+	culture = "dutch"
+	father = 90109
+	mother = 90110
+	2868.1.1 = {
+		birth = "2868.1.1"
+	}
+	
+	2898.6.17 = {
+		death = "2898.6.17"
+	}
+}
+
+168237 = {
+	name = "Gunhilde"
 	female = yes
-	dynasty = CKU_loon
+	dynasty = 724
 	religion = "catholic"
 	culture = "dutch"
-	father = 33077
-	3233.1.1 = {
-		birth = "3233.1.1"
+	father = 90109
+	mother = 90110
+	2869.1.1 = {
+		birth = "2869.1.1"
 	}
 	
-	3270.1.1 = {
-		death = "3270.1.1"
+	2906.2.19 = {
+		death = "2909.2.19"
 	}
 }
 
-33088 = {
-	name = "Margareta"
+168314 = {
+	name = "Waldrada" #concubine of Lothaire II of Lotharingia/Burgundy
 	female = yes
-	dynasty = CKU_loon
+	dna = 168314_waldrada
+	dynasty = 246
 	religion = "catholic"
 	culture = "dutch"
-	father = 33077
-	3235.1.1 = {
-		birth = "3235.1.1"
+	trait = beauty_good_1
+	trait = gregarious
+	trait = intellect_good_1
+	trait = education_stewardship_3
+	father = 168626
+	2841.1.1 = {
+		birth = "2841.1.1"
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}
 	}
-	
-	3306.1.1 = {
-		death = "3306.1.1"
+	2857.8.23 = {
+		employer = 144998 # Lothair II of Burgundy
+	}	
+	2892.1.1 = {
+		death = "2892.1.1"
 	}
 }
 
-33089 = {
-	name = "Arnold" #1279-1327
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 33081
-	mother = 30628
-	3261.1.1 = {
-		birth = "3261.1.1"
-	}
-	#married Mathilde von Julich
-	3329.8.22 = {
-		death = "3329.8.22"
-	}
-}
 
-33090 = {
-	name = "Jan"
-	dynasty = CKU_loon
-	religion = "catholic"
-	culture = "dutch"
-	father = 33081
-	3267.1.1 = {
-		birth = "3267.1.1"
-	}
-	
-	3313.1.1 = {
-		death = "3313.1.1"
-	}
-}
-
-33091 = {
-	name = "Jacobijn"
+168623 = {
+	name = "Conovella" #real name unknown
 	female = yes
-	dynasty = CKU_loon
+	dynasty = 246
 	religion = "catholic"
 	culture = "dutch"
-	father = 33081
-	3269.1.1 = {
-		birth = "3269.1.1"
+	father = 168621
+	2792.1.1 = {
+		birth = yes
 	}
-	
-	3312.1.1 = {
-		death = "3312.1.1"
+	2810.1.1 = {
+		add_spouse = 168625
+	}
+	2842.1.1 = {
+		death = yes
 	}
 }
 
-33092 = {
-	name = "Lodewijk" #1327-1336
-	dynasty = CKU_loon
+
+168627 = {
+	name = "Waldger"
+	dynasty = 246
 	religion = "catholic"
 	culture = "dutch"
-	father = 33089
-	3272.1.1 = {
-		birth = "3272.1.1"
+	father = 168626
+	2832.1.1 = {
+		birth = yes
 	}
-	3338.4.22 = {
-		death = "3338.4.22"
+	
+	2867.1.1 = {
+		death = yes
 	}
 }
 
-33093 = {
-	name = "Willem"
-	dynasty = CKU_loon
+168628 = {
+	name = "Radboud"
+	dynasty = 246
 	religion = "catholic"
 	culture = "dutch"
-	father = 33089
-	3278.1.1 = {
-		birth = "3278.1.1"
+	father = 168627
+	2851.1.1 = {
+		birth = yes
 	}
-	
-	3319.10.1 = {
-		death = "3319.10.1"
+	2868.1.1 = {
+		add_spouse = 168629
+	}
+	2876.1.1 = {
+		death = yes
 	}
 }
-33108 = {
-	name = "Bonne"
+
+
+168629 = {
+	name = "Aleidis" #real name unknown
 	female = yes
-	dynasty = CKU_loon
+	dynasty_house = house_gerulfing
 	religion = "catholic"
 	culture = "dutch"
-	father = 206801
-	mother = 31548
-	3152.1.1 = {
-		birth = "3152.1.1"
+	father = 167701
+	2840.1.1 = {
+		birth = yes
 	}
-	3202.1.1 = {
-		death = "3202.1.1"
+	2890.1.1 = {
+		death = yes
+	}
+}
+
+# Frisian
+dutch0001 = {
+	name = "Douwe"
+	religion = "catholic"
+	culture = "dutch"
+	3036.1.1 = {
+		birth = yes
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+
+# Frisian
+dutch0002 = {
+	name = "Lutbert"
+	religion = "catholic"
+	culture = "dutch"
+	3030.1.1 = {
+		birth = yes
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+
+# Frisian
+dutch0003 = {
+	name = "Sicco"
+	religion = "catholic"
+	culture = "dutch"
+	3027.1.1 = {
+		birth = yes
+	}
+	3102.1.1 = {
+		death = yes
 	}
 }

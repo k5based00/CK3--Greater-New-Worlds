@@ -1,0 +1,1110 @@
+﻿74000 = {
+	name = "Muhan"
+	dynasty = 12269
+
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2562.1.1 = {
+		birth = "2562.1.1"
+	}
+	2613.1.1 = {
+		death = "2613.1.1"
+	}
+}
+74001 = {
+	name = "Tun-Yagbu"
+	dynasty = 12269
+	father = 74000
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2582.1.1 = {
+		birth = "2582.1.1"
+	}
+	2630.1.1 = {
+		death = "2630.1.1"
+	}
+}
+
+74002 = {
+	name = "Bagha-Shad"
+	dynasty = 12269
+	father = 74000
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2584.1.1 = {
+		birth = "2584.1.1"
+	}
+	2628.1.1 = {
+		death = "2628.1.1"
+	}
+}
+
+74003 = {
+	name = "BO_ri-Shad"
+	dynasty = 12269
+	father = 74002
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2605.1.1 = {
+		birth = "2605.1.1"
+	}
+	2656.1.1 = {
+		death = "2656.1.1"
+	}
+}
+
+74004 = {
+	name = "Irbis"
+	dynasty = 12269
+	father = 74003
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2623.1.1 = {
+		birth = "2623.1.1"
+	}
+	2684.1.1 = {
+		death = "2684.1.1"
+	}
+}
+
+74005 = {
+	name = "Khalga"
+	dynasty = 12269
+	father = 74003
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2648.1.1 = {
+		birth = "2648.1.1"
+	}
+	2711.1.1 = {
+		death = "2711.1.1"
+	}
+}
+
+74006 = {
+	name = "Kaban"
+	dynasty = 12269
+	father = 74005
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2685.1.1 = {
+		birth = "2685.1.1"
+	}
+	2747.1.1 = {
+		death = "2747.1.1"
+	}
+}
+
+74007 = {
+	name = "Busir"
+	dynasty = 12269
+	father = 74004
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2658.1.1 = {
+		birth = "2658.1.1"
+	}
+	2717.1.1 = {
+		death = "2717.1.1"
+	}
+}
+
+74008 = {
+	name = "Barjik"
+	dynasty = 12269
+	father = 74007
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2685.1.1 = {
+		birth = "2685.1.1"
+	}
+	2733.1.1 = {
+		death = "2733.1.1"
+	}
+}
+
+74009 = {
+	name = "Bihar"
+	dynasty = 12269
+	father = 74007
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2687.1.1 = {
+		birth = "2687.1.1"
+	}
+	2717.1.1 = {
+		add_spouse = 74010
+	}
+	2751.1.1 = {
+		death = "2751.1.1"
+	}
+}
+
+74010 = {
+	name = "Parsbit"
+	dynasty = 1022377
+	female = yes
+	father = 146195
+	culture = "khazar"
+	religion = "tengri_pagan"
+	
+	trait = education_martial_3
+	trait = intellect_good_1
+
+	2701.1.1 = {
+		birth = "2701.1.1"
+	}
+	2773.1.1 = {
+		death = "2773.1.1"
+	}
+}
+
+74011 = {
+	name = "KundaC_"
+	dynasty = 12269
+	father = 74006
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2726.1.1 = {
+		birth = "2726.1.1"
+	}
+	2779.1.1 = {
+		death = "2779.1.1"
+	}
+
+}
+
+74012 = {
+	name = "Baghatur"
+	dynasty = 12269
+	father = 74009
+	mother = 74010
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2718.1.1 = {
+		birth = "2718.1.1"
+	}
+	2790.1.1 = {
+		death = "2790.1.1"
+	}
+}
+
+74013 = {
+	name = "Yilig"
+	dynasty = 12269
+	father = 74011
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2748.1.1 = {
+		birth = "2748.1.1"
+	}
+	2812.1.1 = {
+		death = "2812.1.1"
+	}
+}
+
+74014 = {
+	name = "MA_nA_s"
+	dynasty = 12269
+	father = 74013
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2785.1.1 = {
+		birth = "2785.1.1"
+	}
+	2827.1.1 = {
+		death = "2827.1.1"
+	}
+}
+
+74015 = {
+	name = "Tuvan"
+	dynasty = 12269
+	father = 74013
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2788.1.1 = {
+		birth = "2788.1.1"
+	}
+	2832.1.1 = {
+		death = "2832.1.1"
+	}
+}
+74016 = {
+	name = "Tarkhan"
+	dynasty = 12269
+
+	father = 74014
+
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2815.1.1 = {
+		birth = "2815.1.1"
+	}
+	2863.1.1 = {
+		death = "2863.1.1"
+	}
+}
+74017 = {
+	name = "Zachariah"
+	dynasty = 12269
+
+	father = 74016
+
+	culture = "khazar"
+	religion = "kabarism"
+
+	2842.1.1 = {
+		birth = "2842.1.1"
+	}
+	2888.1.1 = {
+		death = "2888.1.1"
+	}
+}
+194369 = {
+	name = "Yeldem"
+	female = yes
+	dynasty = 12269
+
+	father = 74016
+
+	culture = "khazar"
+	religion = "kabarism"
+
+	2848.1.1 = {
+		birth = yes
+	}
+	2888.1.1 = {
+		death = "2888.1.1"
+	}
+}
+74018 = {
+	name = "Bulan"
+	dynasty = 12269
+	culture = "khazar"
+	religion = "tengri_pagan"
+	father = 74012
+	2736.1.1 = {
+		birth = "2736.1.1"
+	}
+	2796.1.1 = {
+		religion = "kabarism"
+		dynasty = 12270
+	}
+	2804.1.1 = {
+		death = "2804.1.1"
+	}
+}
+
+74019 = {
+	name = "Obadiah"
+	dynasty = 12269
+	father = 146186
+	culture = "khazar"
+	religion = "tengri_pagan"
+	2770.1.1 = {
+		birth = "2770.1.1"
+	}
+	2796.1.1 = {
+		religion = "kabarism"
+		dynasty = 12270
+	}
+	2825.1.1 = {
+		death = "2825.1.1"
+	}
+}
+
+74020 = {
+	name = "Hezekiah"
+	dynasty = 12269
+	father = 74019
+	culture = "khazar"
+	religion = "tengri_pagan"
+	2787.1.1 = {
+		birth = "2787.1.1"
+	}
+	2796.1.1 = {
+		religion = "kabarism"
+		dynasty = 12270
+	}
+	2831.1.1 = {
+		death = "2831.1.1"
+	}
+}
+
+74021 = {
+	name = "Manasseh"
+	dynasty = 12270
+	father = 74020
+	culture = "khazar"
+	religion = "kabarism"
+
+	2812.1.1 = {
+		birth = "2812.1.1"
+	}
+	2833.1.1 = {
+		death = "2833.1.1"
+	}
+}
+
+74022 = {
+	name = "Hanukkah"
+	dynasty = 12269
+	father = 74019
+	culture = "khazar"
+	religion = "tengri_pagan"
+	2789.1.1 = {
+		birth = "2789.1.1"
+	}
+	2796.1.1 = {
+		religion = "kabarism"
+		dynasty = 12270
+	}
+	2849.1.1 = {
+		death = "2849.1.1"
+	}
+}
+
+74023 = {
+	name = "Isaac"
+	dynasty = 12270
+	father = 74022
+	culture = "khazar"
+	religion = "kabarism"
+
+	2806.1.1 = {
+		birth = "2806.1.1"
+	}
+	2858.1.1 = {
+		death = "2858.1.1"
+	}
+}
+
+74024 = {
+	name = "Zebulun"
+	dynasty = 12270
+	father = 74023
+	culture = khazar
+	religion = "kabarism"
+
+	2823.1.1 = {
+		birth = yes
+	}
+	2866.1.1 = {
+		death = yes
+	}
+}
+
+74025 = {
+	name = "Manasseh"
+	dynasty = 12270
+	father = 74024
+	culture = khazar
+	religion = "kabarism"
+
+	2840.1.1 = {
+		birth = yes
+	}
+	2856.1.1 = {
+		add_spouse = 173000
+	}
+	#2869.1.1 = {
+	#	# Boost the initial strength of the Khazars
+	#	effect = {
+	#		spawn_unit = {
+	#			province = 620 # Itil
+	#			owner = ROOT
+	#			#leader = ROOT
+	#			troops = {
+	#				light_cavalry = { 197 197 }
+	#				horse_archers = { 84 84 }
+	#			}
+	#			attrition = 0.5
+	#		}
+	#		spawn_unit = {
+	#			province = 620 # Itil
+	#			owner = ROOT
+	#			#leader = ROOT
+	#			troops = {
+	#				light_cavalry = { 197 197 }
+	#				horse_archers = { 84 84 }
+	#			}
+	#			attrition = 0.5
+	#		}
+	#		spawn_unit = {
+	#			province = 620 # Itil
+	#			owner = ROOT
+	#			#leader = ROOT
+	#			troops = {
+	#				light_cavalry = { 197 197 }
+	#				horse_archers = { 84 84 }
+	#			}
+	#			attrition = 0.5
+	#		}
+	#	}
+	#}
+	2890.1.1 = {
+		death = yes
+	}
+}
+
+74026 = {
+	name = "Nisi"
+	dynasty = 12270
+	father = 74025
+	mother = 173000
+	culture = "khazar"
+	religion = "kabarism"
+
+	2857.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		death = yes
+	}
+}
+
+180226 = {
+	name = Yavdi	# fictional
+	# Count of Sarkel
+	dynasty = 1042041
+	religion = kabarism
+	culture = khazar
+	2835.8.25 = {
+		birth = yes
+	}
+	2891.1.1 = {
+		death = yes
+	}
+}
+194370 = {
+	name = Itakh	# fictional
+	dynasty = 1042041
+	religion = kabarism
+	culture = khazar
+	father = 180226
+	2855.8.25 = {
+		birth = yes
+	}
+	2891.1.1 = {
+		death = yes
+	}
+}
+194371 = {
+	name = Ayten	# fictional
+	female = yes
+	dynasty = 1042041
+	religion = kabarism
+	culture = khazar
+	father = 180226
+	2857.8.25 = {
+		birth = yes
+	}
+	2891.1.1 = {
+		death = yes
+	}
+}
+
+183244 = {
+	name = LA_rkka
+	female = yes
+
+	religion = tengri_pagan
+	culture = khazar
+	2851.1.1 = {
+		birth = yes
+	}
+	2879.1.1 = {
+		death = yes
+	}
+}
+
+20663 = {
+	name = Isaac
+	dynasty = 100620
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = kabarism
+	culture = khazar
+	trait = content
+	trait = cynical
+	trait = education_learning_3
+	3027.1.1 = {
+		birth = yes
+	}
+	3091.1.1 = {
+		death = yes
+	}
+}
+194391 = {
+	name = Ezra
+	dynasty = 100620
+	religion = kabarism
+	culture = khazar
+	father = 20663
+	3047.1.1 = {
+		birth = yes
+	}
+	3091.1.1 = {
+		death = yes
+	}
+}
+194392 = {
+	name = Sirin
+	female = yes
+	dynasty = 100620
+	religion = kabarism
+	culture = khazar
+	father = 20663
+	3049.1.1 = {
+		birth = yes
+	}
+	3091.1.1 = {
+		death = yes
+	}
+}
+
+173000 = {
+	name = "Belet"
+	female = yes
+	religion = kabarism
+	culture = khazar
+
+	2840.1.1 = {
+		birth = yes
+	}
+	2894.1.1 = {
+		death = yes
+	}
+}
+145786 = {
+	name = "Kibar"
+	dynasty = 12269
+	culture = "khazar"
+	religion = "tengri_pagan"
+	father = 74011
+	2750.1.1 = {
+		birth = "2750.1.1"
+	}
+	2814.1.1 = {
+		death = "2814.1.1"
+	}
+}
+
+145787 = {
+	name = "Irge"
+	female = yes
+	dynasty = 12269
+	culture = "khazar"
+	religion = "tengri_pagan"
+	father = 74009
+	mother = 74010
+	2720.1.1 = {
+		birth = "2720.1.1"
+	}
+	2737.1.1 = {
+		name = "Eirene"
+		religion = "iconoclast"
+	}
+	2752.1.25 = {
+		death = "2752.1.25"
+	}
+}
+
+145999 = {
+	name = "Mala"
+	female = yes
+	dynasty = 12269
+	culture = "khazar"
+	religion = "tengri_pagan"
+	father = 74012
+	2735.1.1 = {
+		birth = "2735.1.1"
+	}
+	2751.1.1 = {
+		name = "Maria"
+		religion = "iconoclast"
+	}
+	2787.1.1 = {
+		death = "2787.1.1"
+	}
+}
+146185 = {
+	name = "Tura"
+	dynasty = 12269
+	female = yes
+	religion = "tengri_pagan"
+	culture = "khazar"
+	father = 74004
+	2679.1.1 = {
+		birth = yes
+	}
+	2705.1.1 = {
+		name = "Theodora"
+		religion = "orthodox"
+	}
+	2713.1.1 = {
+		death = yes
+	}
+}
+
+146186 = {
+	name = "Ezra"
+	dynasty = 12269
+	culture = "khazar"
+	religion = "tengri_pagan"
+	father = 74018
+	2753.1.1 = {
+		birth = yes
+	}
+	2796.1.1 = {
+		religion = "kabarism"
+		dynasty = 12270
+	}
+	2797.1.1 = {
+		death = yes
+	}
+}
+
+146187 = {
+	name = "Aaron"
+	dynasty = 12270
+	culture = "khazar"
+	religion = "kabarism"
+	father = 74026
+	2874.1.1 = {
+		birth = yes
+	}
+	2918.1.1 = {
+		death = yes
+	}
+}
+
+146188 = {
+	name = "Menahem"
+	dynasty = 12270
+	culture = "khazar"
+	religion = "kabarism"
+	father = 146187
+	2891.1.1 = {
+		birth = yes
+	}
+	2922.1.1 = {
+		death = yes
+	}
+}
+
+146189 = {
+	name = "Benjamin"
+	dynasty = 12270
+	culture = "khazar"
+	religion = "kabarism"
+	father = 146187
+	2893.1.1 = {
+		birth = yes
+	}
+	2930.1.1 = {
+		death = yes
+	}
+}
+
+146190 = {
+	name = "Aaron"
+	dynasty = 12270
+	culture = "khazar"
+	religion = "kabarism"
+	father = 146189
+	2910.1.1 = {
+		birth = yes
+	}
+	2947.1.1 = {
+		death = yes
+	}
+}
+
+146191 = {
+	name = "Ioseph"
+	dynasty = 12270
+	culture = "khazar"
+	religion = "kabarism"
+	father = 146190
+	2927.1.1 = {
+		birth = yes
+	}
+	2971.1.1 = {
+		death = yes
+	}
+}
+
+146192 = {
+	name = "Abraham"
+	dynasty = 12270
+	culture = "khazar"
+	religion = "kabarism"
+	father = 146191
+	2944.1.1 = {
+		birth = yes
+	}
+	2971.1.1 = {
+		death = yes
+	}
+}
+
+146193 = {
+	name = "David"
+	dynasty = 1022378
+	culture = "khazar"
+	religion = "kabarism"
+
+	2939.1.1 = {
+		birth = yes
+	}
+	2995.1.1 = {
+		death = yes
+	}
+}
+
+146194 = {
+	name = "Georgios"
+	dynasty = 1022378
+	culture = "khazar"
+	religion = "kabarism"
+	father = 146193
+	2964.1.1 = {
+		birth = yes
+	}
+	3025.1.1 = {
+		death = yes
+	}
+}
+
+146195 = {
+	name = "C_orpan"
+	dynasty = 1022377
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2684.1.1 = {
+		birth = yes
+	}
+	2745.1.1 = {
+		death = yes
+	}
+}
+
+146196 = {
+	name = "Simsam"
+	dynasty = 1022377
+	culture = "khazar"
+	religion = "tengri_pagan"
+	father = 146195
+	2719.1.1 = {
+		birth = yes
+	}
+	2776.1.1 = {
+		death = yes
+	}
+}
+
+146197 = {
+	name = "BulC_an"
+	dynasty = 1022377
+	culture = "khazar"
+	religion = "tengri_pagan"
+	father = 146196
+	2740.1.1 = {
+		birth = yes
+	}
+	2799.1.1 = {
+		death = yes
+	}
+}
+
+146198 = {
+	name = "TA_bA_r"
+	dynasty = 1022377
+	culture = "khazar"
+	religion = "tengri_pagan"
+	father = 146196
+	2742.1.1 = {
+		birth = yes
+	}
+	2802.1.1 = {
+		death = yes
+	}
+}
+
+146199 = {
+	name = "BA_lgiC_i"
+	dynasty = 1022377
+	culture = "khazar"
+	religion = "tengri_pagan"
+	father = 146196
+	2744.1.1 = {
+		birth = yes
+	}
+	2807.1.1 = {
+		death = yes
+	}
+}
+
+146200 = {
+	name = "Kayghalagh"
+	dynasty = 1022377
+	culture = "khazar"
+	religion = "tengri_pagan"
+	father = 146196
+	2746.1.1 = {
+		birth = yes
+	}
+	2805.1.1 = {
+		death = yes
+	}
+}
+
+146201 = {
+	name = "Bagha"
+	dynasty = 1022379
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2749.1.1 = {
+		birth = yes
+	}
+	2803.1.1 = {
+		death = yes
+	}
+}
+
+146202 = {
+	name = "IltA_bA_r"
+	dynasty = 1022380
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2747.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+
+146203 = {
+	name = "SartA_C_"
+	dynasty = 1022381
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2735.1.1 = { #down from 743
+		birth = yes
+	}
+	2798.1.1 = {
+		death = yes
+	}
+}
+
+194347 = {
+	name = "Yabghu"
+	dynasty = 1022381
+	father = 146203
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2752.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+
+194355 = {
+	name = "Gulay"
+	female = yes
+	dynasty = 1022381
+	father = 146203
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2754.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+
+146204 = {
+	name = "ME_nU_marO_t"
+	dynasty = 1022382
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2733.1.1 = {
+		birth = yes
+	}
+	2795.1.1 = {
+		death = yes
+	}
+}
+
+194346 = {
+	name = "Bastu"
+	dynasty = 1022382
+	father = 146204
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2752.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+194356 = {
+	name = "Tura"
+	dynasty = 1022382
+	female = yes
+	father = 146204
+	culture = "khazar"
+	religion = "tengri_pagan"
+
+	2753.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+#Placeholder Khazar in d_azov
+302271 = {
+	name = "BulC_an"
+	dynasty = 2001053	#Bulçir
+	culture = khazar
+	religion = kabarism
+	2845.1.2 = {
+		birth = yes
+	}
+	2908.1.2 = {
+		death = yes
+	}
+}
+302272 = {
+	name = "Ephraim"
+	dynasty = 2001053	#Bulçir
+	culture = khazar
+	religion = kabarism
+	father = 302271
+	2867.1.2 = {
+		birth = yes
+	}
+	2932.1.2 = {
+		death = yes
+	}
+}
+302273 = {
+	name = "Ezekiel"
+	dynasty = 2001053	#Bulçir
+	culture = khazar
+	religion = kabarism
+	father = 302272
+	2896.1.2 = {
+		birth = yes
+	}
+	2967.1.2 = {
+		death = yes
+	}
+}
+#Placeholder Radhanite in Phanagoria
+3022740 = {
+	name = "Benjamin"
+	dynasty = 2001327	#Radhanite dynasty
+	culture = radhanite
+	religion = rabbinism
+	2847.1.2 = {
+		birth = yes
+		effect = {
+			vassal_contract_set_obligation_level = {
+				type = religious_rights
+				level = 1
+			}
+			vassal_contract_set_obligation_level = {
+				type = title_revocation_rights
+				level = 1
+			}
+		}
+	}
+	2914.1.2 = {
+		death = yes
+	}
+}
+
+#FP3 Historical and unhistorical Characters
+extra_khazars_1 = {
+	name = "Itakh" #Prominent Abbasid general
+	dynasty = khazar_khazari	
+	culture = khazar
+	religion = ashari
+	trait = education_martial_3
+	trait = pilgrim 
+	2803.4.2 = {
+		birth = yes
+	}
+	2836.1.1 = {
+		employer = 34008 #the caliph Mu'tasim
+	}
+	2851.1.2 = {
+		death = {
+			death_reason = death_thirst
+		}
+	}
+}
+
+fictional_khazars_1 = {
+	name = "Abbas" 
+	dynasty = khazar_khazari	
+	culture = khazar
+	religion = ashari
+	father = extra_khazars_1
+	2847.2.2 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+
+fictional_khazars_2 = {
+	name = "SarA_" 
+	dynasty = khazar_khazari	
+	culture = khazar
+	religion = ashari
+	father = extra_khazars_1
+	female = yes
+	2850.12.3 = {
+		birth = yes
+	}
+	2922.1.1 = {
+		death = yes
+	}
+}

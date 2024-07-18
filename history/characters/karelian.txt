@@ -1,0 +1,291 @@
+﻿28004 = {
+	name = "Kalevi"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = karelian
+	father = 170115
+	3052.1.1 = {
+		birth = yes
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+
+28035 = {
+	name = "Susi"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170120
+	3042.1.1 = {
+		birth = "3042.1.1"
+	}
+	3122.1.1 = {
+		death = "3122.1.1"
+	}
+}
+
+170111 = {
+	name = "Tuure"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = karelian
+	father = 170328
+	2846.1.1 = {
+		birth = yes
+	}
+	2909.1.1 = {
+		death = yes
+	}
+}
+
+170112 = {
+	name = "Ihala"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = karelian
+	father = 170111
+	2884.1.1 = {
+		birth = yes
+	}
+	2946.1.1 = {
+		death = yes
+	}
+}
+
+170113 = {
+	name = "Tuure"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = karelian
+	father = 170112
+	2920.1.1 = {
+		birth = yes
+	}
+	2978.1.1 = {
+		death = yes
+	}
+}
+
+170114 = {
+	name = "VA_inO_"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = karelian
+	father = 170113
+	2954.1.1 = {
+		birth = yes
+	}
+	3033.1.1 = {
+		death = yes
+	}
+}
+
+170115 = {
+	name = "Kettu"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = karelian
+	father = 170114
+	3013.1.1 = {
+		birth = yes
+	}
+	3068.1.1 = {
+		death = yes
+	}
+}
+
+170116 = {
+	name = "Ahma"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170319
+	2847.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		death = yes
+	}
+}
+
+170117 = {
+	name = "Satatieto"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170116
+	2884.1.1 = {
+		birth = "2884.1.1"
+	}
+	2957.1.1 = {
+		death = "2957.1.1"
+	}
+}
+
+170118 = {
+	name = "Susi"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170117
+	2923.1.1 = {
+		birth = "2923.1.1"
+	}
+	2976.1.1 = {
+		death = "2976.1.1"
+	}
+}
+
+170119 = {
+	name = "Ahma"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170118
+	2954.1.1 = {
+		birth = "2954.1.1"
+	}
+	3027.1.1 = {
+		death = "3027.1.1"
+	}
+}
+
+170120 = {
+	name = "Satatieto"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170119
+	3008.1.1 = {
+		birth = "3008.1.1"
+	}
+	3068.1.1 = {
+		death = "3068.1.1"
+	}
+}
+
+170316 = {
+	name = "Ahma"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	2746.1.1 = {
+		birth = yes
+	}
+	2789.1.1 = {
+		death = yes
+	}
+}
+
+170317 = {
+	name = "Ukko"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170316
+	2770.1.1 = {
+		birth = yes
+	}
+	2823.1.1 = {
+		death = yes
+	}
+}
+
+170318 = {
+	name = "Satatieto"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170317
+	2799.1.1 = {
+		birth = yes
+	}
+	2840.1.1 = {
+		death = yes
+	}
+}
+
+170319 = {
+	name = "Ukko"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170318
+	2826.1.1 = {
+		birth = yes
+	}
+	2869.1.1 = {
+		death = yes
+	}
+}
+
+170324 = {
+	name = "Lemetti"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = "karelian"
+	2726.1.1 = {
+		birth = yes
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+
+170325 = {
+	name = "Ihala"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170324
+	2753.1.1 = {
+		birth = yes
+	}
+	2797.1.1 = {
+		death = yes
+	}
+}
+
+170326 = {
+	name = "VA_inO_"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170325
+	2775.1.1 = {
+		birth = yes
+	}
+	2822.1.1 = {
+		death = yes
+	}
+}
+
+170327 = {
+	name = "Lemetti"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170326
+	2801.1.1 = {
+		birth = yes
+	}
+	2848.1.1 = {
+		death = yes
+	}
+}
+
+170328 = {
+	name = "Kettu"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170327
+	2822.1.1 = {
+		birth = yes
+	}
+	2869.1.1 = {
+		death = yes
+	}
+}

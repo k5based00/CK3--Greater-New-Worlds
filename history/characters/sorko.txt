@@ -1,0 +1,395 @@
+﻿#Sorko characters - "the people of the River"
+
+#fictional rulers of c_bussa and c_ilo
+sorko0001 = {
+	name = "Mar_Chindin" #
+	dynasty = sorkodyn001 #
+	religion = west_african_orisha_pagan
+	culture = sorko
+	2849.1.1 = {
+		birth = yes
+	}
+	2904.1.1 = {
+		death = yes
+	}
+}
+sorko0002 = {
+	name = "Fay" #
+	dynasty = sorkodyn001 #
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0001
+	2886.1.1 = {
+		birth = yes
+	}
+	2950.1.1 = {
+		death = yes
+	}
+}
+sorko0003 = {
+	name = "Mar_Chindin" #
+	dynasty = sorkodyn001 #
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0002
+	2935.1.1 = {
+		birth = yes
+	}
+	3013.1.1 = {
+		death = yes
+	}
+}
+sorko0004 = {
+	name = "Sanay" #
+	dynasty = sorkodyn001 #
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0003
+	2987.1.1 = {
+		birth = yes
+	}
+	3054.1.1 = {
+		death = yes
+	}
+}
+sorko0005 = {
+	name = "Fay" #
+	dynasty = sorkodyn001 #
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0004
+	3033.1.1 = {
+		birth = yes
+	}
+	3089.1.1 = {
+		death = yes
+	}
+}
+sorko0006 = {
+	name = "Sanay" #
+	dynasty = sorkodyn001 #
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0005
+	3066.1.1 = {
+		birth = yes
+	}
+	3125.1.1 = {
+		death = yes
+	}
+}
+sorko0007 = {
+	name = "Kanafa" #
+	dynasty = sorkodyn001 #
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0006
+	3102.1.1 = {
+		birth = yes
+	}
+	3165.1.1 = {
+		death = yes
+	}
+}
+sorko0008 = {
+	name = "Fay" #
+	dynasty = sorkodyn001 #
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0007
+	3137.1.1 = {
+		birth = yes
+	}
+	3201.1.1 = {
+		death = yes
+	}
+}
+sorko0009 = {
+	name = "Kanafa" #
+	dynasty = sorkodyn001 #
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0008
+	3182.1.1 = {
+		birth = yes
+	}
+	3240.1.1 = {
+		death = yes
+	}
+}
+sorko0010 = {
+	name = "Sanay" #
+	dynasty = sorkodyn001 #
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0009
+	3214.1.1 = {
+		birth = yes
+	}
+	3272.1.1 = {
+		death = yes
+	}
+}
+
+
+#fictional rulers of Bura - moved from the gur.txt
+gur0030 = {
+	name = "Nari"
+	dynasty = gurdyn003
+	religion = west_african_bidu_pagan
+	culture = sorko
+	father = gur0035
+	3032.1.1 = {
+		birth = yes
+	}
+	3091.1.1 = {
+		death = yes
+	}
+}
+gur0031 = {
+	name = "Silman"
+	dynasty = gurdyn003
+	religion = west_african_bidu_pagan
+	culture = sorko
+	father = gur0030
+	3062.1.1 = {
+		birth = yes
+	}
+	3123.1.1 = {
+		death = yes
+	}
+}
+gur0032 = {
+	name = "Yama"
+	dynasty = gurdyn003
+	religion = west_african_bidu_pagan
+	culture = sorko
+	father = gur0031
+	3089.1.1 = {
+		birth = yes
+	}
+	3151.1.1 = {
+		death = yes
+	}
+}
+gur0033 = {
+	name = "Keina"
+	dynasty = gurdyn003
+	religion = west_african_bidu_pagan
+	culture = sorko
+	father = gur0032
+	3117.1.1 = {
+		birth = yes
+	}
+	3175.1.1 = {
+		death = yes
+	}
+}
+gur0034 = {
+	name = "Keina"
+	dynasty = gurdyn003
+	religion = west_african_bidu_pagan
+	culture = sorko
+	father = gur0033
+	3146.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+gur0035 = {
+	name = "Nari"
+	dynasty = gurdyn003
+	religion = west_african_bidu_pagan
+	culture = sorko
+	father = gur0036
+	2997.1.1 = {
+		birth = yes
+	}
+	3046.1.1 = {
+		death = yes
+	}
+}
+gur0036 = {
+	name = "Silman"
+	dynasty = gurdyn003
+	religion = west_african_bidu_pagan
+	culture = sorko
+	father = gur0037
+	2962.1.1 = {
+		birth = yes
+	}
+	3011.1.1 = {
+		death = yes
+	}
+}
+gur0037 = {
+	name = "Nari"
+	dynasty = gurdyn003
+	religion = west_african_bidu_pagan
+	culture = sorko
+	father = gur0038
+	2927.1.1 = {
+		birth = yes
+	}
+	2979.1.1 = {
+		death = yes
+	}
+}
+gur0038 = {
+	name = "Keina"
+	dynasty = gurdyn003
+	religion = west_african_bidu_pagan
+	culture = sorko
+	father = gur0039
+	2882.1.1 = {
+		birth = yes
+	}
+	2944.1.1 = {
+		death = yes
+	}
+}
+gur0039 = {
+	name = "Ikoi"
+	dynasty = gurdyn003
+	religion = west_african_bidu_pagan
+	culture = sorko
+	2851.1.1 = {
+		birth = yes
+	}
+	2905.1.1 = {
+		death = yes
+	}
+}
+
+#rulers of c_say
+sorko0011 = {
+	name = "Hanga" #fictional
+	dynasty = sorkodyn002
+	religion = west_african_orisha_pagan
+	culture = sorko
+	2852.1.1 = {
+		birth = yes
+	}
+	2914.1.1 = {
+		death = yes
+	}
+}
+sorko0012 = {
+	name = "Baki" #fictional
+	dynasty = sorkodyn002
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0011
+	2897.1.1 = {
+		birth = yes
+	}
+	2972.1.1 = {
+		death = yes
+	}
+}
+sorko0013 = {
+	name = "Baki" #fictional
+	dynasty = sorkodyn002
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0012
+	2954.1.1 = {
+		birth = yes
+	}
+	3027.1.1 = {
+		death = yes
+	}
+}
+sorko0014 = {
+	name = "Ammar" #fictional
+	dynasty = sorkodyn002
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0013
+	3002.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		death = yes
+	}
+}
+sorko0015 = {
+	name = "Igoumou" #fictional
+	dynasty = sorkodyn002
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0014
+	3040.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+sorko0016 = {
+	name = "Hanga" #fictional
+	dynasty = sorkodyn002
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0015
+	3067.1.1 = {
+		birth = yes
+	}
+	3129.1.1 = {
+		death = yes
+	}
+}
+sorko0017 = {
+	name = "Morobani" #fictional
+	dynasty = sorkodyn002
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0016
+	3100.1.1 = {
+		birth = yes
+	}
+	3160.1.1 = {
+		death = yes
+	}
+}
+sorko0018 = {
+	name = "Zalil" #fictional
+	dynasty = sorkodyn002
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0017
+	3137.1.1 = {
+		birth = yes
+	}
+	3191.1.1 = {
+		death = yes
+	}
+}
+sorko0019 = {
+	name = "Baki" #fictional
+	dynasty = sorkodyn002
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0018
+	3175.1.1 = {
+		birth = yes
+	}
+	3230.1.1 = {
+		death = yes
+	}
+}
+sorko0020 = {
+	name = "Dankataya" #fictional
+	dynasty = sorkodyn002
+	religion = west_african_orisha_pagan
+	culture = sorko
+	father = sorko0019
+	3209.1.1 = {
+		birth = yes
+	}
+	3271.1.1 = {
+		death = yes
+	}
+}

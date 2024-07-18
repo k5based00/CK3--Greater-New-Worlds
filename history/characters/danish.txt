@@ -1,0 +1,3809 @@
+﻿100553 = {
+	name = "Magnus" # son of the Danish Prince Henrik Skadelår
+	dynasty_house = house_estrid
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = lustful
+	trait = education_martial_2
+	father = 101532
+	mother = 100554 #Ingrid Ragnvaldsdotter
+	3124.1.15 = {
+		birth = "3124.1.15"
+	}
+	3163.6.6 = {
+		death = "3163.6.6"
+	}
+}
+
+101515 = {
+	name = "Svend" # Estridsson
+	dna = 101515_king_svend
+	dynasty_house = house_estrid
+	martial = 2
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = lustful
+	trait = wrathful
+	trait = zealous
+	trait = education_stewardship_4
+	sexuality = heterosexual
+	father = 101535 # Ulf Torgilsson
+	mother = 101509 # Estrid
+	3021.1.1 = {
+		birth = "3021.1.1"
+		add_pressed_claim = title:k_england
+		effect = {
+			add_character_flag = has_scripted_appearance
+			random_list = {
+				50 = { set_sexuality = heterosexual }
+				50 = { set_sexuality = bisexual }
+			}
+		}
+	}
+	3048.1.1 = {
+		add_spouse = 100513 # Gyda Anundsdottor
+	}
+	3049.12.1 = {
+		remove_spouse = 100513 # Gyda Anundsdottor
+	}
+	3052.7.1 = {
+		add_spouse = 102516 # Gunhild Sveinsdatter
+	}
+	3053.1.1 = {
+		remove_spouse = 102516 # Gunhild Sveinsdatter
+	}
+	3071.1.1 = {
+		add_spouse = 102551 # Thora Torbergsdatter (Arnung)
+	}
+	3078.4.28 = {
+		death = "3078.4.28"
+	}
+}
+
+101516 = {
+	name = "Ingrid"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = arbitrary
+	trait = legitimized_bastard
+	trait = education_stewardship_2
+	father = 101515 #Svend Estridsson
+	mother = 102562 #Rannveig Tordsdatter
+	3054.1.1 = {
+		birth = "3054.1.1"
+	}
+	3101.1.1 = {
+		death = "3101.1.1"
+	}
+}
+
+101517 = {
+	name = "Harald"
+	# Hein
+	dna = 101517_harald_the_whetstone
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	trait = content
+	trait = education_intrigue_1
+	father = 101515 #Svend Estridsson
+	3043.1.1 = {
+		birth = "3043.1.1"
+	}
+	3059.1.1 = {
+		add_spouse = 101518 #Margrete Asbjørnsdatter
+		give_nickname = nick_the_whetstone
+	}
+	3082.4.17 = {
+		death = "3082.4.17"
+	}
+}
+
+101518 = {
+	name = "Margrete" #Asbjørnsdatter
+	female = yes
+	dynasty_house = house_munso
+	martial = 6
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = chaste
+	trait = greedy
+	trait = education_learning_3
+	father = 101536 # Asbjørn Jarl Ulfson
+	3043.1.2 = {
+		birth = "3043.1.2"
+	}
+	3093.1.2 = {
+		death = "3093.1.2"
+	}
+}
+
+101519 = {
+	name = "Knud" # den helige
+	dna = 101519_knud
+	dynasty_house = house_estrid
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = ambitious
+	trait = zealous
+	trait = legitimized_bastard
+	trait = education_martial_2
+	father = 101515 #Svend Estridsson
+	3045.1.1 = {
+		birth = "3045.1.1"
+	}
+	3084.1.1 = {
+		add_spouse = 369 # Adele of Flandres
+	}
+	3087.5.1 = {
+		give_nickname = nick_the_holy
+	}
+	3088.7.10 = {
+		death = "3088.7.10"
+	}
+}
+
+101520 = {
+	name = "Olaf" # Hunger
+	dynasty_house = house_estrid
+	martial = 8
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	trait = cynical
+	trait = education_intrigue_1
+	father = 101515 # Svend Estridsson
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3073.1.1 = {
+		add_spouse = 102535 # Ingegerd Haraldsdotter
+	}
+	3097.8.18 = {
+		death = "3097.8.18"
+	}
+}
+
+101521 = {
+	name = "Erik" # 'Ejegod'
+	dynasty_house = house_estrid
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = gregarious
+	trait = strong
+	trait = just
+	trait = generous
+	trait = legitimized_bastard
+	trait = education_diplomacy_3
+	father = 101515 #Svend Estridsson
+	mother = 102562 #Rannveig Tordsdatter
+	3057.1.1 = {
+		birth = "3057.1.1"
+	}
+	3074.1.1 = {
+		add_spouse = 101548 # Bodil Thrugotsdatter
+	}
+	3077.1.1 = {
+		give_nickname = nick_the_good	
+	}
+	3105.7.10 = {
+		death = "3105.7.10"
+	}
+}
+
+101522 = {
+	name = "Ragnhild"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	trait = education_learning_2
+	father = 101515 #Svend Estridsson
+	3045.1.1 = {
+		birth = "3045.1.1"
+	}
+	3094.1.2 = {
+		death = "3094.1.2"
+	}
+}
+
+101523 = {
+	name = "Benedikt"
+	dynasty_house = house_estrid
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	trait = education_intrigue_2
+	father = 101515 #Svend Estridsson
+	3051.1.1 = {
+		birth = "3051.1.1"
+	}
+	3088.7.10 = {
+		death = "3088.7.10"
+	}
+}
+
+101524 = {
+	name = "Gunhild"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 4
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	trait = education_intrigue_2
+	father = 101515 #Svend Estridsson
+	3052.1.1 = {	
+		birth = "3052.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+101525 = {
+	name = "BjOErn"
+	# AKA: Bjorn
+	dynasty_house = house_estrid
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	father = 101515 #Svend Estridsson
+	3064.1.1 = {
+		birth = "3064.1.1"
+	}
+	3102.1.1 = {
+		death = "3102.1.1"
+	}
+}
+
+101526 = {
+	name = "Svend" # 'Tronkræver'
+	dynasty_house = house_estrid
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = calm
+	trait = legitimized_bastard
+	trait = education_stewardship_2
+	father = 101515 #Svend Estridsson
+	3058.1.2 = {
+		birth = "3058.1.2"
+	}
+	3105.7.10 = {
+		trait = ill
+	}
+	3105.7.10 = {
+		give_nickname = nick_the_usurper
+	}
+	3106.6.2 = {
+		death = "3106.6.2"
+	}
+}
+
+101527 = {
+	name = "Sigrid"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	trait = humble
+	trait = education_diplomacy_3
+	father = 101515 # Svend Estridsson
+	3050.9.1 = {
+		birth = "3050.9.1"
+	}
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+}
+
+101528 = {
+	name = "Knud_Magnus"
+	# AKA: Knud Magnus
+	dynasty_house = house_estrid
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = honest
+	trait = legitimized_bastard
+	trait = education_martial_2
+	father = 101515 # Svend Estridsson
+	3043.1.1 = {
+		birth = "3043.1.1"
+	}
+	3060.1.1 = {
+		death = "3060.1.1"
+	}
+}
+
+101529 = {
+	name = "Thorgils"
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = clubfooted
+	trait = legitimized_bastard
+	trait = education_martial_2
+	father = 101515 #Svend Estridsson
+	3062.1.2 = {
+		birth = "3062.1.2"
+	}
+	3112.1.2 = {
+		death = "3112.1.2"
+	}
+}
+
+101530 = {
+	name = "Niels"
+	dynasty_house = house_estrid
+	martial = 4
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	trait = education_stewardship_2
+	father = 101515 #Svend Estridsson
+	3066.1.1 = {
+		birth = "3066.1.1"
+	}
+	3107.1.1 = {
+		add_spouse = 200494 # Margareta Ingesdotter
+	}
+	3132.1.1 = {
+		add_spouse = 200601 # Ulvhild Haakonardottir
+	}
+	3136.6.25 = {
+		death = "3136.6.25"
+	}
+}
+
+101531 = {
+	name = "Magnus" # Den Starke
+	dynasty_house = house_estrid
+	martial = 4
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = strong
+	trait = wrathful
+	trait = ambitious
+	trait = education_martial_1
+	father = 101530 # Niels Svendsson
+	mother = 200494 # Margareta Ingesdotter
+	3109.1.1 = {
+		birth = "3109.1.1"
+	}
+	3129.1.1 = {
+		add_spouse = 221511 # Ryksa Boleslawówna
+		give_nickname = nick_the_strong
+	}
+	3133.1.7 = {
+		trait = kinslayer_3
+	}
+	3136.6.4 = {
+		death = "3136.6.4"
+	}
+}
+
+101532 = {
+	name = "Henrik" # 'Skadelår'
+	# AKA: Henrik Skadelaar
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = greedy
+	trait = wrathful
+	trait = disfigured
+	trait = education_intrigue_2
+	father = 101526 # Svend 'Tronkræver'
+	3092.1.2 = {
+		birth = "3092.1.2"
+	}
+	3127.1.1 = {
+		add_spouse = 100554 # Ingrid Ragnvaldsdotter
+	}
+	3136.6.4 = {
+		death = "3136.6.4"
+	}
+}
+
+101534 = {
+	name = "Gyda"
+	female = yes
+	dynasty_house = house_munso
+	disallow_random_traits = yes
+	martial = 8
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = patient
+	trait = humble
+	trait = calm
+	trait = education_learning_3
+	father = 101533 # Thorgil Sprakalegg
+	2999.1.1 = {
+		birth = "2999.1.1"
+	}
+	3054.1.4 = {
+		employer = 122 # Harold Godwinson
+	}
+	3068.10.14 = {
+		employer = 101515 # Svend Estridsen
+	}
+	3075.1.1 = {
+		death = "3075.1.1"
+	}
+}
+
+101536 = {
+	name = "AsbjOErn"
+	# AKA: Asbjorn
+	dynasty_house = house_munso
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = greedy
+	trait = education_martial_3
+	father = 101535 # Ulf
+	mother = 101509 # Estrid
+	3027.1.1 = {
+		birth = "3027.1.1"
+	}
+	3088.1.1 = {
+		death = "3088.1.1"
+	}
+}
+
+101537 = {
+	name = "Signe"
+	female = yes
+	dynasty_house = house_munso
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = temperate
+	trait = education_stewardship_2
+	father = 101536 #Asbjørn Ulfsøn
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3088.1.1 = {
+		death = "3088.1.1"
+	}
+}
+
+101539 = {
+	name = "Auden"
+	dynasty = 482
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = greedy
+	trait = education_learning_2
+	father = 101538
+	3042.1.2 = {
+		birth = "3042.1.2"
+	}
+	3092.1.2 = {
+		death = "3092.1.2"
+	}
+}
+
+101542 = {
+	name = "Thrugot" #Fagerskind Ulfssøn
+	dynasty = 1025000
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = honest
+	trait = beauty_good_1
+	trait = education_martial_2
+	father = 101541 # Ulf
+	mother = 102519 # Bodil
+	3035.1.1 = {
+		birth = yes
+	}
+	3051.1.1 = {
+		add_spouse = 101545 #Thorgunna Vagnsdatter
+	}
+	3072.1.2 = {
+		death = yes
+	}
+}
+
+101546 = {
+	name = "Ragnar"
+	dynasty = 477
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = greedy
+	trait = education_intrigue_2
+	3028.1.2 = {
+		birth = "3028.1.2"
+	}
+	3078.1.2 = {
+		death = "3078.1.2"
+	}
+}
+
+101547 = {
+	name = "Egil"
+	dynasty = 477
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_2
+	father = 101546 # Ragnar
+	3057.1.2 = {
+		birth = "3057.1.2"
+	}
+	3107.1.2 = {
+		death = "3107.1.2"
+	}
+}
+
+101548 = {
+	name = "Bodil"
+	female = yes
+	dynasty = 1025000 #Thrugot
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = beauty_good_1
+	trait = education_diplomacy_1
+	father = 101542 # Thrugot Fagerskind Ulfssøn
+	mother = 101545 # Thorgunna Vagnsdatter
+	3058.1.1 = {
+		birth = "3058.1.1"
+	}
+	3106.1.1 = {
+		death = "3106.1.1"
+	}
+}
+
+101550 = {
+	name = "Ingegerd"
+	# AKA: Ingegerd Knudsdatter
+	female = yes
+	dynasty_house = house_estrid
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = education_stewardship_2
+	father = 101519 	# Knud the Holy of Denmark
+	mother = 369	# Adele of Flandres
+	3085.1.1 = {
+		birth = "3085.1.1"
+	}
+	3137.1.1 = {
+		death = "3137.1.1"
+	}
+}
+
+101551 = {
+	name = "Cecilia"
+	# AKA: Cecilia Knudsdatter
+	female = yes
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	trait = education_stewardship_2
+	father = 101519 	# Knud the Holy of Denmark
+	mother = 369	# Adele of Flandres
+	3089.1.1 = {
+		birth = "3089.1.1"
+	}
+	3133.1.1 = {
+		death = "3133.1.1"
+	}
+}
+
+200491 = {
+	name = "Kristina"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	father = 200492
+	mother = 200493
+	3123.1.1 = {
+		birth = "3123.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+200492 = {
+	name = "BjOErn"
+	# AKA: Bjorn Ironside
+	dynasty_house = house_estrid
+	martial = 8
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_2
+	father = 201516
+	mother = 167013
+	3108.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}
+	}
+	3122.1.1 = {
+		add_spouse = 200493 # Katarina Ingesdotter
+	}
+	3136.1.1 = {
+		death = yes
+	}
+}
+
+200605 = {
+	name = "Benedicta"
+	female = yes
+	dynasty = 482
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = gluttonous
+	trait = education_intrigue_1
+	father = 201537 #Ebbe Sunesøn
+	mother = 201544
+	3172.1.1 = {
+		birth = yes
+	}
+	3201.6.1 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+
+201005 = {
+	name = "Hemming"
+	dynasty = 100267
+	martial = 6
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = calm
+	trait = education_intrigue_1
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+201500 = {
+	name = "Knud" # VI
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 3
+	religion = "catholic"
+	culture = "danish"
+	trait = chaste
+	trait = wrathful
+	trait = brave
+	trait = education_stewardship_3
+	father = 201510 # Valdemar the Great
+	mother = 222797
+	3165.1.1 = {
+		birth = "3165.1.1"
+	}
+	3189.1.2 = {
+		add_spouse = 212571
+	}
+	3204.11.12 = {
+		death = "3204.11.12"
+	}
+}
+
+201501 = {
+	name = "Valdemar" # Sejr
+	dynasty_house = house_estrid
+	martial = 8
+	diplomacy = 7
+	intrigue = 3
+	stewardship = 11
+	religion = "catholic"
+	culture = "danish"
+	trait = lustful
+	trait = diligent
+	trait = generous
+	trait = wrathful
+	trait = cynical
+	trait = education_martial_3
+	father = 201510 # Valdemar the Great
+	mother = 222797
+	3172.6.28 = {
+		birth = "3172.6.28"
+	}
+	3207.1.1 = {
+		add_spouse = 96037 #Marketa Premyslid
+	}
+	3216.5.18 = {
+		add_spouse = 91102 #Berengarie de Bourgogne
+	}
+	3222.5.12 = {
+		give_nickname = nick_the_conqueror
+	}
+	3243.3.28 = {
+		death = "3243.3.28"
+	}
+}
+
+201502 = {
+	name = "Margareta"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = education_stewardship_3
+	father = 201510
+	mother = 222797
+	3169.1.2 = {
+		birth = "3169.1.2"
+	}
+	3219.1.2 = {
+		death = "3219.1.2"
+	}
+}
+
+201503 = {
+	name = "Sophie"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 4
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = education_intrigue_1
+	father = 201510
+	mother = 222797
+	3161.1.2 = {
+		birth = "3161.1.2"
+	}
+	3211.1.2 = {
+		death = "3211.1.2"
+	}
+}
+
+201504 = {
+	name = "Maria"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 4
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_3
+	father = 201510
+	mother = 222797
+	3169.1.2 = {
+		birth = "3169.1.2"
+	}
+	3219.1.2 = {
+		death = "3219.1.2"
+	}
+}
+
+201505 = {
+	name = "Ingeborg"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = education_stewardship_2
+	father = 201510
+	mother = 222797
+	3177.1.2 = {
+		birth = "3177.1.2"
+	}
+	3227.1.2 = {
+		death = "3227.1.2"
+	}
+}
+
+201506 = {
+	name = "Rikissa"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = education_stewardship_2
+	father = 201510 # Valdemar the Great of Denmark
+	mother = 222797
+	3182.1.2 = {
+		birth = "3182.1.2"
+	}
+	3232.1.2 = {
+		death = "3232.1.2"
+	}
+}
+
+201507 = {
+	name = "Helene"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 7
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = wrathful
+	trait = education_stewardship_2
+	father = 201510
+	mother = 222797
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3235.11.22 = {
+		death = "3235.11.22"
+	}
+}
+
+201508 = {
+	name = "Knud" # V
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = chaste
+	trait = brave
+	trait = education_stewardship_3
+	father = 101531 # Magnus den Starke
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3158.1.1 = {
+		add_spouse = 170038
+	}
+	3159.8.9 = {
+		death = "3159.8.9"
+	}
+}
+
+201510 = {
+	name = "Valdemar" # Den Store (The Great)
+	dynasty_house = house_estrid
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = brave
+	trait = arrogant
+	trait = zealous
+	trait = education_martial_3
+	father = 201513 # Knud Lavard
+	mother = 222593
+	3133.1.14 = {
+		birth = "3133.1.14"
+	}
+	3159.1.1 = {
+		add_spouse = 222797
+	}
+	3159.1.1 = {
+		give_nickname = nick_the_great
+	}
+	3184.5.12 = {
+		death = "3184.5.12"
+	}
+}
+
+201511 = {
+	name = "Ragnhild"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = education_intrigue_2
+	father = 101521
+	3096.1.1 = {
+		birth = "3096.1.1"
+	}
+	3151.1.1 = {
+		death = "3151.1.1"
+	}
+}
+
+201512 = {
+	name = "Hildegard"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_2
+	father = 201508
+	3159.1.1 = {
+		birth = "3159.1.1"
+	}
+	3212.1.1 = {
+		death = "3212.1.1"
+	}
+}
+
+201513 = {
+	name = "Knud"
+	# AKA: Knut Lavard
+	dynasty_house = house_estrid
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = diligent
+	trait = arrogant
+	trait = education_martial_3
+	father = 101521
+	3098.1.15 = {
+		birth = "3098.1.15"
+	}
+	3129.1.1 = {
+		add_spouse = 222593
+	}
+	3133.1.13 = {
+		death = "3133.1.13"
+	}
+}
+
+201514 = {
+	name = "Erik" # Lamm
+	# AKA: Erik Lamm
+	dynasty_house = house_estrid
+	martial = 3
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = lazy
+	trait = education_diplomacy_2
+	father = 167019
+	mother = 201511 # Ragnhild, daughter of Erik Ejegod
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3148.8.27 = {
+		death = "3148.8.27"
+	}
+}
+
+201516 = {
+	name = "Harald"
+	# AKA: Harald Kesja
+	dynasty_house = house_estrid
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	trait = arrogant
+	trait = education_martial_2
+	father = 101521
+	3082.1.15 = {
+		birth = "3082.1.15"
+	}
+	3107.1.1 = {
+		add_spouse = 167013 #Ragnhild Magnusdatter
+	}
+	3137.1.13 = {
+		death = "3137.1.13"
+	}
+}
+
+201517 = {
+	name = "Erik" # Emune
+	dynasty_house = house_estrid
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	trait = education_martial_2
+	father = 101521
+	3092.1.11 = {
+		birth = "3092.1.11"
+	}
+	3132.1.1 = {
+		add_spouse = 222594
+	}
+	3139.7.18 = {
+		death = "3139.7.18"
+	}
+}
+
+201518 = {
+	name = "Svend" # Grathe
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	trait = education_martial_2
+	father = 201517 # Erik Emune
+	mother = 222594
+	3133.1.14 = {
+		birth = "3133.1.14"
+	}
+	3151.1.1 = {
+		add_spouse = 212056
+	}
+	3159.10.23 = {
+		death = "3159.10.23"
+	}
+}
+
+201519 = {
+	name = "Luitgard"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = lustful
+	trait = temperate
+	trait = education_diplomacy_3
+	father = 201518
+	mother = 212056
+	3159.1.15 = {
+		birth = "3159.1.15"
+	}
+	3209.1.15 = {
+		death = "3209.1.15"
+	}
+}
+
+201520 = {
+	name = "Absalon"
+	dynasty = 482
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = just
+	trait = intellect_good_3
+	trait = brave
+	trait = zealous
+	trait = celibate
+	trait = education_learning_4
+	father = 201523
+	mother = 201524
+	3130.1.2 = {
+		birth = "3130.1.2"
+	}
+	3162.1.1 = {
+		trait = faith_warrior
+	}
+	3203.3.21 = {
+		death = "3203.3.21"
+	}
+}
+
+201521 = {
+	name = "Esbern"
+	dynasty = 482
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = zealous
+	trait = hunchbacked
+	trait = brave
+	trait = education_martial_2
+	father = 201523
+	mother = 201524
+	3129.1.2 = {
+		birth = "3129.1.2"
+	}
+	3180.1.1 = {
+		add_spouse = 202045
+	}
+	3206.1.2 = {
+		death = "3206.1.2"
+	}
+}
+
+201522 = {
+	name = "Ingefred"
+	female = yes
+	dynasty = 482
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = wrathful
+	trait = gluttonous
+	trait = education_intrigue_1
+	father = 201523
+	mother = 201524
+	3134.1.2 = {
+		birth = "3134.1.2"
+	}
+	3184.1.2 = {
+		death = "3184.1.2"
+	}
+}
+
+201523 = {
+	name = "Asser"
+	dynasty = 482
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = chaste
+	trait = generous
+	trait = honest
+	trait = ill
+	trait = education_intrigue_2
+	father = 201530
+	3109.1.2 = {
+		birth = "3109.1.2"
+	}
+	3129.1.2 = {
+		add_spouse = 201524
+	}
+	3169.1.26 = {
+		death = "3169.1.26"
+	}
+}
+
+201524 = {
+	name = "Inge"
+	female = yes
+	martial = 4
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = honest
+	trait = temperate
+	trait = education_intrigue_2
+	3111.1.2 = {
+		birth = "3111.1.2"
+	}
+	3172.1.2 = {
+		death = "3172.1.2"
+	}
+}
+
+201525 = {
+	name = "Ingeborg" #Esbernsdatter
+	female = yes
+	dynasty = 482
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = education_stewardship_2
+	father = 201521 # Esbern Snare
+	mother = 202045 # Helena Guttormsdatter
+	3185.1.1 = {
+		birth = "3185.1.1"
+	}
+	3269.1.1 = {
+		death = "3269.1.1"
+	}
+}
+
+201530 = {
+	name = "Skjalm"
+	dynasty = 482 #Hvide
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = education_diplomacy_2
+	father = 101538
+	3036.1.1 = {
+		birth = "3036.1.1"
+	}
+	3068.1.1 = {
+		add_spouse = 101537 #Signe Asbjørnsdatter
+	}
+	3115.1.1 = {
+		death = "3115.1.1"
+	}
+}
+
+201532 = {
+	name = "Ebbe"
+	dynasty = 482 #Hvide
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = arrogant
+	trait = education_intrigue_2
+	father = 201530 #Skjalm
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	3152.1.26 = {
+		death = "3152.1.26"
+	}
+}
+
+201534 = {
+	name = "Sune" #Ebbesen
+	dynasty = 482
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = lustful
+	trait = education_stewardship_2
+	father = 201532 #Ebbe Skjalmsen
+	3132.1.2 = {
+		birth = "3132.1.2"
+	}
+	3152.1.2 = {
+		add_spouse = 201535
+	}
+	3188.1.26 = {
+		death = "3188.1.26"
+	}
+}
+
+201535 = {
+	name = "CE_cilie"
+	# AKA: Caecilie
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = lustful
+	trait = humble
+	trait = gluttonous
+	trait = education_intrigue_2
+	3134.1.2 = {
+		birth = "3134.1.2"
+	}
+	3184.1.2 = {
+		death = "3184.1.2"
+	}
+}
+
+201536 = {
+	name = "Margrethe"
+	female = yes
+	dynasty = 482
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = calm
+	trait = education_learning_3
+	father = 201534 #Sune Ebbesen
+	mother = 201535
+	3159.1.2 = {
+		birth = "3159.1.2"
+	}
+	3178.10.25 = {
+		death = "3178.10.25"
+	}
+}
+
+201537 = {
+	name = "Ebbe" #Sunesøn
+	dynasty = 482
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = arrogant
+	trait = diligent
+	trait = generous
+	trait = wrathful
+	trait = brave
+	trait = education_martial_2
+	father = 201534 #Sune Ebbesen
+	mother = 201535
+	3155.1.2 = {
+		birth = "3155.1.2"
+	}
+	3172.1.2 = {
+		add_spouse = 201544
+	}
+	3205.1.2 = {
+		death = "3205.1.2"
+	}
+}
+
+201538 = {
+	name = "Peder"
+	dynasty = 482 #Hvide
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = honest
+	trait = zealous
+	trait = education_learning_3
+	father = 201534 #Sune Ebbesen
+	mother = 201535 #Cæcilie
+	3163.1.2 = {
+		birth = "3163.1.2"
+	}
+	3216.10.29 = {
+		death = "3216.10.29"
+	}
+}
+
+201539 = {
+	name = "Thorbern"
+	dynasty = 482
+	martial = 5
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = wrathful
+	trait = zealous
+	trait = education_martial_2
+	father = 201534 #Sune Ebbesen
+	mother = 201535
+	3164.1.2 = {
+		birth = "3164.1.2"
+	}
+	3214.1.2 = {
+		death = "3214.1.2"
+	}
+}
+
+201540 = {
+	name = "Laurens"
+	dynasty = 482
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = arrogant
+	trait = education_martial_2
+	father = 201534 #Sune Ebbesen
+	mother = 201535
+	3166.1.2 = {
+		birth = "3166.1.2"
+	}
+	3216.1.2 = {
+		death = "3216.1.2"
+	}
+}
+
+201541 = {
+	name = "Anders" #Sunesen
+	dynasty = 482
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = diligent
+	trait = zealous
+	trait = education_learning_4
+	father = 201534 #Sune Ebbesen
+	mother = 201535
+	3169.1.1 = {
+		birth = "3169.1.1"
+	}
+	3225.1.1 = {
+		trait = ill
+	}
+	3230.1.1 = {
+		death = "3230.1.1"
+	}
+}
+
+201542 = {
+	name = "Jacob" #Sunesen
+	dynasty = 482
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = gluttonous
+	trait = lustful
+	trait = education_diplomacy_3
+	father = 201534 #Sune Ebbesen
+	mother = 201535
+	3172.1.2 = {
+		birth = "3172.1.2"
+	}
+	3222.1.2 = {
+		death = "3222.1.2"
+	}
+}
+
+201543 = {
+	name = "Johannes" #Sunesen
+	dynasty = 482
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 3
+	religion = "catholic"
+	culture = "danish"
+	trait = gluttonous
+	trait = just
+	trait = zealous
+	trait = education_diplomacy_1
+	father = 201534 #Sune Ebbesen
+	mother = 201535
+	3173.1.2 = {
+		birth = "3173.1.2"
+	}
+	3223.1.2 = {
+		death = "3223.1.2"
+	}
+}
+
+201544 = {
+	name = "Margrethe"
+	female = yes
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = chaste
+	trait = zealous
+	trait = education_diplomacy_1
+	3152.1.2 = {
+		birth = "3152.1.2"
+	}
+	3202.1.2 = {
+		death = "3202.1.2"
+	}
+}
+
+201545 = {
+	name = "Peder" #Ebbesen
+	dynasty = 482
+	martial = 5
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = gluttonous
+	trait = education_martial_2
+	father = 201537 #Ebbe Sunesen
+	mother = 201544
+	3171.1.2 = {
+		birth = "3171.1.2"
+	}
+	3221.1.2 = {
+		death = "3221.1.2"
+	}
+}
+
+201546 = {
+	name = "Johannes" #Ebbesen
+	dynasty = 482
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = gluttonous
+	trait = education_stewardship_2
+	father = 201537 #Ebbe Sunesen
+	mother = 201544
+	3176.1.2 = {
+		birth = "3176.1.2"
+	}
+	3226.1.2 = {
+		death = "3226.1.2"
+	}
+}
+
+201547 = {
+	name = "CE_cilie"
+	# AKA: Caecilie
+	female = yes
+	dynasty = 482 #Hvide
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = zealous
+	trait = education_stewardship_2
+	father = 201537 #Ebbe Sunesen
+	mother = 201544
+	3182.1.2 = {
+		birth = "3182.1.2"
+	}
+	3232.1.2 = {
+		death = "3232.1.2"
+	}
+}
+
+201548 = {
+	name = "Valdemar"
+	dynasty_house = house_estrid
+	
+	religion = "catholic"
+	culture = "danish"
+	
+	trait = education_learning_2
+	
+	father = 201508
+	
+	3159.1.1 = {
+		birth = "3159.1.1"
+	}
+	
+	#Excommunicated by Pope Innocent III
+	3210.1.1 = {
+		trait = excommunicated
+	}
+	
+	3222.1.1 = {
+		remove_trait = excommunicated
+	}
+	3238.4.28 = {
+		death = "3238.4.28"
+	}
+}
+
+30313 = {
+	name = "Jens"
+	dynasty = 7112 #Grand
+	religion = "catholic"
+	culture = "danish"
+	trait = greedy
+	trait = arrogant
+	trait = education_learning_3
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3329.5.30 = {
+		death = "3329.5.30"
+	}
+}
+
+30488 = {
+	name = "Margareta"
+	female = yes
+	dynasty = 496 #af Sverker
+	religion = "catholic"
+	culture = "swedish"
+	father = 200604 #Sverker the Younger
+	mother = 200605 #Benedicta Hvide
+	3194.1.1 = {
+		birth = "3194.1.1"
+	}
+	3234.3.5 = {
+		death = "3234.3.5"
+	}
+}
+
+30549 = {
+	name = "Katerina"
+	female = yes
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 201513 # Knud Lavard
+	mother = 222593
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3167.1.1 = {
+		death = "3167.1.1"
+	}
+}
+
+30553 = {
+	name = "Knud" #Rostock
+	dynasty = 101893 #Niklotid
+	religion = "catholic"
+	culture = "danish"
+	father = 30551
+	mother = 30549
+	3145.1.1 = {
+		birth = "3145.1.1"
+	}
+	3185.11.6 = {
+		death = "3185.11.6"
+	}
+}
+
+30554 = {
+	name = "Valdemar"
+	dynasty = 101893 #Niklotid
+	religion = "catholic"
+	culture = "danish"
+	father = 30551
+	mother = 30549
+	3148.1.1 = {
+		birth = "3148.1.1"
+	}
+	3184.1.1 = {
+		death = "3184.1.1"
+	}
+}
+
+31158 = {
+	name = "Karl" #duke of Flanders 1119-1127
+	# AKA: Karl Knudsson
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 101519 	# Knud the Holy of Denmark
+	mother = 369	# Adele of Flandres
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	3129.3.2 = {
+		death = "3129.3.2"
+	}
+}
+
+450770 = {
+	name = "Sigvard"
+	dynasty = 130
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_3
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3352.1.2 = {
+		death = "3352.1.2"
+	}
+}
+
+451500 = {
+	name = "Valdemar" # 'Atterdag'
+	dynasty_house = house_estrid
+	martial = 8
+	diplomacy = 9
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = diligent
+	trait = education_learning_2
+	father = 451520 # Christoffer II
+	mother = 451521
+	3322.1.1 = {
+		birth = "3322.1.1"
+	}
+	3377.10.24 = {
+		death = "3377.10.24"
+	}
+}
+
+451501 = {
+	name = "Helvig"
+	# AKA: Helvig Eriksdotter
+	female = yes
+	dynasty = 120
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = cynical
+	trait = clubfooted
+	trait = education_learning_3
+	father = 451502
+	mother = 451503
+	3317.1.2 = {
+		birth = "3317.1.2"
+	}
+	3367.1.2 = {
+		death = "3367.1.2"
+	}
+}
+
+451502 = {
+	name = "Erik"
+	# AKA: Erik Valdemarsen
+	dynasty = 120
+	martial = 8
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_3
+	3292.1.2 = {
+		birth = "3292.1.2"
+	}
+	3312.1.2 = {
+		add_spouse = 451503
+	}
+	3327.1.13 = {
+		death = "3327.1.13"
+	}
+}
+
+451503 = {
+	name = "Adelheid"
+	female = yes
+	dynasty = 154
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = greedy
+	trait = brave
+	trait = inbred
+	trait = education_diplomacy_3
+	3297.1.2 = {
+		birth = "3297.1.2"
+	}
+	3338.1.2 = {
+		death = "3338.1.2"
+	}
+}
+
+451504 = {
+	name = "Valdemar"
+	# AKA: Valdemar Eriksson
+	dynasty = 120
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = lazy
+	trait = humble
+	trait = education_martial_2
+	father = 451502
+	mother = 451503
+	3325.1.2 = {
+		birth = "3325.1.2"
+	}
+	3375.1.2 = {
+		death = "3375.1.2"
+	}
+}
+
+451510 = {
+	name = "Erik" # Plogpenning
+	dynasty_house = house_estrid
+	martial = 8
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "danish"
+	trait = brave
+	trait = education_intrigue_2
+	father = 201501 # Valdemar Sejr
+	mother = 91102
+	3218.1.1 = {
+		birth = "3218.1.1"
+	}
+	3241.1.1 = {
+		add_spouse = 161739
+	}
+	3252.8.9 = {
+		death = "3252.8.9"
+	}
+}
+
+451511 = {
+	name = "Sofie"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 8
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = education_intrigue_1
+	father = 451510
+	mother = 161739
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3288.1.1 = {
+		death = "3288.1.1"
+	}
+}
+
+451513 = {
+	name = "Christoffer" # I
+	dynasty_house = house_estrid
+	martial = 5
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = greedy
+	trait = education_intrigue_1
+	father = 201501
+	mother = 91102
+	3221.1.1 = {
+		birth = "3221.1.1"
+	}
+	3250.1.1 = {
+		add_spouse = 451519 #Margareta Subislawic
+	}
+	3261.5.29 = {
+		death = "3261.5.29"
+	}
+}
+
+451514 = {
+	name = "Erik" # 'Klipping'
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = education_martial_2
+	father = 451513 # Christoffer I
+	mother = 451519
+	3251.1.1 = {
+		birth = "3251.1.1"
+	}
+	3275.11.11 = {
+		add_spouse = 451517 #Agnes of Brandenburg
+	}
+	3288.11.22 = {
+		death = "3288.11.22"
+	}
+}
+
+451515 = {
+	name = "Erik"  # 'Menved'
+	dynasty_house = house_estrid
+	martial = 8
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_2
+	father = 451514
+	mother = 451517
+	3276.1.2 = {
+		birth = "3276.1.2"
+	}
+	3296.1.1 = {
+		trait = excommunicated
+	}
+	3298.6.1 = {
+		add_spouse = 450505
+	}
+	3304.1.1 = {
+		remove_trait = excommunicated
+		trait = humble
+	}
+	3321.11.13 = {
+		death = "3321.11.13"
+	}
+}
+
+451516 = {
+	name = "MAErta"
+	# AKA: Marta
+	female = yes
+	dynasty_house = house_estrid
+	martial = 8
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = ambitious
+	trait = gluttonous
+	trait = education_stewardship_2
+	father = 451514
+	mother = 451517
+	3280.1.30 = {
+		birth = "3280.1.30"
+	}
+	3332.1.1 = {
+		employer = 451500
+		trait = celibate
+		remove_trait = ambitious
+	}
+	3343.3.2 = {
+		death = "3343.3.2"
+	}
+}
+
+451518 = {
+	name = "Rigitza"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = hunchbacked
+	trait = education_intrigue_1
+	father = 451514
+	mother = 451517
+	3277.1.1 = {
+		birth = "3277.1.1"
+	}
+	3310.1.1 = {
+		death = "3310.1.1"
+	}
+}
+
+451520 = {
+	name = "Christoffer" # II
+	dynasty_house = house_estrid
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = zealous
+	trait = clubfooted
+	trait = education_martial_3
+	father = 451514
+	mother = 451517
+	3278.9.29 = {
+		birth = "3278.9.29"
+	}
+	3303.1.2 = {
+		add_spouse = 451521
+	}
+	3334.8.2 = {
+		death = "3334.8.2"
+	}
+}
+
+451522 = {
+	name = "Margrethe"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = lustful
+	trait = brave
+	trait = education_learning_3
+	father = 451520
+	mother = 451521
+	3310.1.2 = {
+		birth = "3310.1.2"
+	}
+	3360.1.2 = {
+		death = "3360.1.2"
+	}
+}
+
+451523 = {
+	name = "Otto"
+	dynasty_house = house_estrid
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = diligent
+	trait = cynical
+	trait = education_martial_2
+	father = 451520
+	mother = 451521
+	3314.1.2 = {
+		birth = "3314.1.2"
+	}
+	3364.1.2 = {
+		death = "3364.1.2"
+	}
+}
+
+451524 = {
+	name = "Abel"
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = education_intrigue_1
+	father = 201501
+	mother = 91102
+	3220.1.1 = {
+		birth = "3220.1.1"
+	}
+	3239.1.1 = {	
+		add_spouse = 31765
+	}
+	3254.6.29 = {
+		death = "3254.6.29"
+	}
+}
+
+451526 = {
+	name = "Sofie"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = education_intrigue_1
+	father = 451524
+	3242.1.2 = {
+		birth = "3242.1.2"
+	}
+	3285.1.2 = {
+		death = "3285.1.2"
+	}
+}
+
+451527 = {
+	name = "Erik" #duke of Slesvig
+	dynasty_house = house_estrid
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_2
+	father = 451524
+	mother = 31765
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3265.1.1 = {
+		add_spouse = 30495
+	}	
+	3274.1.1 = {
+		death = "3274.1.1"
+	}
+}
+
+451528 = {
+	name = "Valdemar" #duke of Slesvig
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_2
+	father = 451527
+	mother = 30495
+	3265.1.1 = {
+		birth = "3265.1.1"
+		add_pressed_claim = title:k_denmark
+	}
+	3289.1.1 = {
+		add_spouse = 170012 #Elisabeth of Saxony
+	}
+	3308.1.1 = {
+		add_spouse = 451974
+	}	
+	3314.1.1 = {
+		death = "3314.1.1"
+	}
+}
+
+451529 = {
+	name = "Erik"
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_2
+	father = 451528
+	mother = 170012 #Elisabeth of Saxony
+	3290.1.1 = {
+		add_pressed_claim = title:k_denmark	
+		birth = "3290.1.1"
+	}
+	3313.1.1 = {
+		add_spouse = 451946
+	}
+	3327.3.25 = {
+		death = "3327.3.25"
+	}
+}
+
+451530 = {
+	name = "Valdemar"
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = brave
+	trait = wrathful
+	trait = arrogant
+	trait = education_martial_1
+	father = 451529
+	mother = 451946
+	3316.1.1 = {
+		add_pressed_claim = title:k_denmark
+		birth = "3316.1.1"
+	}
+	3334.1.1 = {
+		add_spouse = 33290
+	}
+	3366.1.1 = {
+		death = "3366.1.1"
+	}
+}
+
+451531 = {
+	name = "Helvig"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = arbitrary
+	trait = lustful
+	trait = education_stewardship_2
+	father = 451529
+	mother = 451946
+	3325.1.2 = {
+		birth = "3325.1.2"
+	}
+	3376.1.2 = {
+		death = "3376.1.2"
+	}
+}
+
+451600 = {
+	name = "Peder" #Jensen
+	dynasty = 760 #Galen
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_2
+	father = 151011 # Jens Nielsen
+	3302.1.2 = {
+		birth = "3302.1.2"
+	}
+	3357.4.16 = {
+		death = "3357.4.16"
+	}
+}
+
+451800 = {
+	name = "Knud"
+	# AKA: Knud Knudsson
+	dynasty = 118
+	martial = 8
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "danish"
+	trait = education_stewardship_2
+	father = 451801
+	mother = 452505
+	3330.1.2 = {
+		birth = "3330.1.2"
+	}
+	3380.1.2 = {
+		death = "3380.1.2"
+	}
+}
+
+451801 = {
+	name = "Knud"
+	dynasty = 118 # Porse
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = lazy
+	trait = greedy
+	trait = honest
+	trait = calm
+	trait = education_martial_2
+	father = 451804
+	3297.1.2 = {
+		birth = "3297.1.2"
+	employer = 451514 # Erik Menved, King of Denmark
+	}
+	3321.7.9 = {
+		employer = 450500 # Magnus Eriksson, King of Sweden
+	}
+	3329.1.22 = {
+		add_spouse = 452505 # Ingeborg Hakonsdottir
+	}
+	3332.5.30 = {
+		death = "3332.5.30"
+	}
+}
+
+451802 = {
+	name = "Birgitte"
+	# AKA: Birgitte Knudsdotter
+	female = yes
+	dynasty = 118
+	martial = 4
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = greedy
+	trait = humble
+	trait = education_learning_2
+	father = 451801
+	mother = 452505
+	3331.1.2 = {
+		birth = "3331.1.2"
+	}
+	3381.1.2 = {
+		death = "3381.1.2"
+	}
+}
+
+451803 = {
+	name = "HA_kan"
+	# AKA: Hakan Knudsson
+	dynasty = 118
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = temperate
+	trait = inbred
+	trait = education_martial_2
+	father = 451801
+	mother = 452505
+	3332.1.2 = {
+		birth = "3332.1.2"
+	}
+	3382.1.2 = {
+		death = "3382.1.2"
+	}
+}
+
+451804 = {
+	name = "Niels"
+	# AKA: Niels Knudsson
+	dynasty = 118
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_2
+	3281.1.2 = {
+		birth = "3281.1.2"
+	}
+	3307.1.2 = {
+		death = "3307.1.2"
+	}
+}
+
+6904 = {
+	name = "Ingeborg"
+	female = yes
+	dynasty_house = house_estrid
+	martial = 8
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = education_intrigue_1
+	father = 451510
+	mother = 161739
+	3246.1.1 = {
+		birth = "3246.1.1"
+	}
+	3289.3.24 = {
+		death = "3289.3.24"
+	}
+}
+
+7687 = {
+	name = "Sophie"
+	female = yes
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 201501 # Valdemar Sejr
+	mother = 91102
+	3219.1.1 = {
+		birth = "3219.1.1"
+	}
+	3249.1.2 = {
+		death = "3249.1.2"
+	}
+}
+
+90144 = {
+	name = "Simon"
+	dynasty = 100547
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 7
+	religion = "orthodox"
+	culture = "danish"
+	trait = education_stewardship_2
+	trait = generous
+	trait = zealous
+	3037.1.2 = {
+		birth = "3037.1.2"
+	}
+	3087.1.2 = {
+		death = "3087.1.2"
+	}
+}
+
+31779 = {
+	name = "Margrethe"
+	female = yes
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 451513 # Christoffer I
+	mother = 451519
+	3261.1.1 = {
+		birth = "3261.1.1"
+	}
+	3308.2.2 = {
+		death = "3308.2.2"
+	}
+}
+31783 = {
+	name = "Erik"
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 451520
+	mother = 451521
+	3309.1.2 = {
+		birth = "3309.1.2"
+	}
+	3332.1.1 = {
+		add_spouse = 31781
+	}
+	3334.1.2 = {
+		death = "3334.1.2"
+	}
+}
+
+33272 = {
+	name = "Valdemar" #duke of Slesvig
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 451524
+	mother = 31765
+	3240.1.1 = {
+		birth = "3240.1.1"
+	}
+	3259.1.1 = {
+		death = "3259.1.1"
+	}
+}
+
+33273 = {
+	name = "Abel"
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 451524
+	mother = 31765
+	3254.1.1 = {
+		birth = "3254.1.1"
+	}
+	3281.4.2 = {
+		death = "3281.4.2"
+	}
+}
+
+33274 = {
+	name = "Erik"
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 451527
+	mother = 30495
+	3274.1.1 = {
+		birth = "3274.1.1"
+	}
+	3314.1.1 = {
+		death = "3314.1.1"
+	}
+}
+
+33275 = {
+	name = "Margarete"
+	female = yes
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 451527
+	mother = 30495
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3315.8.14 = {
+		death = "3315.8.14"
+	}
+}
+
+33291 = {
+	name = "Henrik"
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 451530
+	mother = 33290
+	3335.1.1 = {
+		birth = "3335.1.1"
+	}
+	3377.7.7 = {
+		death = "3377.7.7"
+	}
+}
+33292 = {
+	name = "Valdemar"
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 451530
+	mother = 33290
+	3337.1.1 = {
+		birth = "3337.1.1"
+	}
+	3367.1.1 = {
+		death = "3367.1.1"
+	}
+}
+
+101553 = {
+	name = "Svend" #Korsfarer
+	dynasty_house = house_estrid
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	trait = zealous
+	trait = brave
+	trait = education_martial_2
+	father = 101515 #Svend Estridsson
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3097.1.1 = {
+		add_spouse = 91008 #Florine de Bourgogne
+	}
+	3098.1.1 = {
+		trait = faith_warrior
+		give_nickname = nick_the_crusader
+	}
+	3099.1.1 = {
+		death = "3099.1.1"
+	}
+}
+
+34158 = {
+	name = "Asser"
+	dynasty = 1025000
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_1
+	trait = temperate
+	trait = trusting
+	father = 151000 # Svend Thrugotsøn
+	3068.1.1 = {
+		birth = "3068.1.1"
+	}
+	3139.5.5 = {
+		death = "3139.5.5"
+	}
+}
+
+34159 = {
+	name = "Eskil"
+	dynasty = 1025000
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_3
+	trait = intellect_good_1
+	trait = celibate
+	trait = content
+	father = 151002 # Christiern
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3183.1.1 = {
+		death = "3183.1.1"
+	}
+}
+
+34161 = {
+	name = "Peder" #Saxesen
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_3
+	trait = just
+	3180.1.1 = {
+		birth = "3180.1.1"
+	}
+	3230.7.10 = {
+		death = "3230.7.10"
+	}
+}
+
+34162 = {
+	name = "Uffe" #Thrugotsen
+	dynasty = 1025000
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_2
+	trait = celibate
+	trait = ambitious
+	trait = generous
+	3204.1.1 = {
+		birth = "3204.1.1"
+	}
+	3254.12.15 = {
+		death = "3254.12.15"
+	}
+}
+
+34163 = {
+	name = "Jakob" #Erlandsen
+	dynasty = 760
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_2
+	trait = just
+	trait = ambitious
+	trait = trusting
+	father = 151005 # Erland Galen
+	mother = 151004 # Cæcilie Herlufsdatter
+	3214.10.1 = {
+		birth = "3214.10.1"
+	}
+	3276.2.18 = {
+		death = "3276.2.18"
+	}
+}
+
+34164 = {
+	name = "Thrugot"
+	dynasty = 1025001
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_2
+	3227.1.1 = {
+		birth = "3227.1.1"
+	}
+	3282.5.2 = {
+		death = "3282.5.2"
+	}
+}
+
+34165 = {
+	name = "Johannes" #Dros
+	#AKA Jens Dros
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_1
+	3247.1.1 = {
+		birth = "3247.1.1"
+	}
+	3291.1.29 = {
+		death = "3291.1.29"
+	}
+}
+
+34166 = {
+	name = "Esger"
+	dynasty = 1025002 #Juul
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = deceitful
+	trait = education_learning_2
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3334.8.2 = {
+		death = "3334.8.2"
+	}
+}
+
+34167 = {
+	name = "Karl"
+	dynasty = 760 #Galen
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_2
+	father = 151008 # Erik Jensen
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3336.5.16 = {
+		death = "3336.5.16"
+	}
+}
+
+34168 = {
+	name = "Harald"
+	dynasty = 7298
+	religion = "catholic"
+	culture = "danish"
+	3172.6.5 = {
+		birth = "3172.6.5"
+	}
+	3227.5.11 = {
+		death = "3227.5.11"
+	}
+}
+
+34169 = {
+	name = "Harald"
+	dynasty = 7298
+	religion = "catholic"
+	culture = "danish"
+	father = 34168
+	3194.9.7 = {
+		birth = "3194.9.7"
+	}
+	3253.10.6 = {
+		death = "3253.10.6"
+	}
+}
+
+34170 = {
+	name = "Harald"
+	dynasty = 7298
+	religion = "catholic"
+	culture = "danish"
+	father = 34169
+	3212.9.11 = {
+		birth = "3212.9.11"
+	}
+	3282.10.5 = {
+		death = "3282.10.5"
+	}
+}
+
+34171 = {
+	name = "Fredrik"
+	dynasty = 7298
+	religion = "catholic"
+	culture = "danish"
+	father = 34170
+	3234.2.4 = {
+		birth = "3234.2.4"
+	}
+	3293.3.8 = {
+		death = "3293.3.8"
+	}
+}
+
+34172 = {
+	name = "Erik"
+	dynasty = 7298
+	religion = "catholic"
+	culture = "danish"
+	father = 34171
+	3253.9.5 = {
+		birth = "3253.9.5"
+	}
+	3321.7.7 = {
+		death = "3321.7.7"
+	}
+}
+
+34173 = {
+	name = "Magnus"
+	dynasty = 7298
+	religion = "catholic"
+	culture = "danish"
+	father = 34171
+	3254.4.22 = {
+		birth = "3254.4.22"
+	}
+	3315.5.6 = {
+		death = "3315.5.6"
+	}
+}
+
+34174 = {
+	name = "Elisabeth"
+	female = yes
+	dynasty = 7298
+	religion = "catholic"
+	culture = "danish"
+	father = 34171
+	3273.1.17 = {
+		birth = "3273.1.17"
+	}
+	3362.4.19 = {
+		death = "3362.4.19"
+	}
+}
+
+34175 = {
+	name = "Maria"
+	female = yes
+	dynasty = 7298
+	religion = "catholic"
+	culture = "danish"
+	father = 34171
+	3281.3.10 = {
+		birth = "3281.3.10"
+	}
+	3324.4.11 = {
+		death = "3324.4.11"
+	}
+}
+
+34176 = {
+	name = "HA_kon"
+	dynasty = 7298
+	religion = "catholic"
+	culture = "danish"
+	father = 34172
+	3280.1.5 = {
+		birth = "3280.1.5"
+	}
+	3331.7.6 = {
+		death = "3331.7.6"
+	}
+}
+
+34177 = {
+	name = "Erik"
+	dynasty = 7298
+	religion = "catholic"
+	culture = "danish"
+	father = 34176
+	3304.10.2 = {
+		birth = "3304.10.2"
+	}
+	3376.5.7 = {
+		death = "3376.5.7"
+	}
+}
+
+151000 = {
+	name = "Svend" #Thrugotsøn
+	dynasty = 1025000
+	religion = "catholic"
+	culture = "danish"
+	trait = education_stewardship_3
+	father = 101542 # Thrugot Fagerskind Ulfssøn
+	mother = 101545 # Thorgunna Vagnsdatter
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3088.1.1 = {
+		death = "3088.1.1"
+	}
+}
+
+151001 = {
+	name = "Svend"
+	dynasty = 1025000
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_2
+	trait = zealous
+	father = 151000 # Svend Thrugotsøn
+	3078.1.1 = {
+		birth = "3078.1.1"
+	}
+	3155.3.30 = {
+		death = "3155.3.30"
+	}
+}
+
+151002 = {
+	name = "Christiern"
+	dynasty = 1025000
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_2
+	trait = wrathful
+	father = 151000 # Svend Thrugotsøn
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3142.5.20 = {
+		death = "3142.5.20"
+	}
+}
+
+151004 = {
+	name = "CE_cilie" #Herlufsdatter
+	female = yes
+	dynasty = 482 #Hvide
+	religion = "catholic"
+	culture = "danish"
+	father = 151003 # Herlug
+	mother = 201536 # Margrethe
+	3178.1.1 = {
+		birth = "3178.1.1"
+	}
+	3238.1.1 = {
+		death = "3238.1.1"
+	}
+}	
+
+151005 = {
+	name = "Erland"
+	dynasty = 760 #Galen
+	religion = "catholic"
+	culture = "danish"
+	3174.1.1 = {
+		birth = "3174.1.1"
+	}
+	3198.1.1 = {
+		add_spouse = 151004 #Cæcilie Herlufsdatter
+	}
+	3238.9.22 = {
+		death = "3238.9.22"
+	}
+}
+
+151006 = {
+	name = "Jens" #Erlandsen
+	dynasty = 760 #Galen
+	religion = "catholic"
+	culture = "danish"
+	trait = education_stewardship_2
+	father = 151005 # Erland Galen
+	mother = 151004 # Cæcilie Herlufsdatter
+	3214.1.1 = {
+		birth = "3214.1.1"
+	}
+	3274.12.25 = {
+		death = "3274.12.25"
+	}
+}
+
+151007 = {
+	name = "Inger"
+	female = yes
+	religion = "catholic"
+	culture = "danish"
+	3217.1.1 = {
+		birth = "3217.1.1"
+	}
+	3297.1.1 = {
+		death = "3297.1.1"
+	}
+}
+
+151008 = {
+	name = "Erik" #Jensen
+	dynasty = 760 #Galen
+	religion = "catholic"
+	culture = "danish"
+	father = 151006 # Jens Erlandsen
+	mother = 151007 # Inger
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3336.1.1 = {
+		death = "3336.1.1"
+	}
+}
+
+151009 = {
+	name = "Niels" #Erlandsen
+	dynasty = 760 #Galen
+	religion = "catholic"
+	culture = "danish"
+	trait = education_stewardship_3
+	trait = just
+	trait = honest
+	father = 151005 # Erland Galen
+	mother = 151004 # Cæcilie Herlufsdatter
+	3222.1.1 = {
+		birth = "3222.1.1"
+	}
+	3242.1.1 = {
+		add_spouse = 151010 #Elisabeth Pedersdatter
+	}
+	3287.1.1 = {
+		death = "3287.1.1"
+	}
+}
+
+151010 = {
+	name = "Elisabeth" #Pedersdatter
+	female = yes
+	dynasty = 1025003 #Ulfeldt
+	religion = "catholic"
+	culture = "danish"
+	father = 170022 # Peder Strangesen
+	mother = 201525 # Ingeborg Esbernsdatter
+	3222.1.1 = {
+		birth = "3222.1.1"
+	}
+	3282.1.1 = {
+		death = "3282.1.1"
+	}
+}
+
+151011 = {
+	name = "Jens" #Nielsen
+	dynasty = 760 #Galen
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_2
+	father = 151009 # Niels Erlandsen
+	mother = 151010 # Elisabeth Pedersdatter
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3322.1.1 = {
+		death = "3322.1.1"
+	}
+}
+
+151003 = {
+	name = "Herlug"
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_1
+	3155.1.1 = {
+		birth = "3155.1.1"
+	}
+	3175.1.1 = {
+		add_spouse = 201536 #Margarethe - this should be a matrilineal marrige
+	}
+	3178.10.25 = {
+		trait = kinslayer_3
+	}
+	3205.1.1 = {
+		death = "3205.1.1"
+	}
+}
+
+151015 = {
+	name = "Peder"
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_3
+	3086.1.1 = {
+		birth = "3086.1.1"
+	}
+	3136.6.4 = {
+		death = "3136.6.4"
+	}
+}
+
+151016 = {
+	name = "Rike"
+	religion = "catholic"
+	culture = "danish"
+	trait = wrathful
+	trait = education_learning_2
+	3104.1.1 = {
+		birth = "3104.1.1"
+	}
+	3144.10.18 = {
+		death = "3144.10.18"
+	}
+}
+
+151017 = {
+	name = "Asser"
+	religion = "catholic"
+	culture = "danish"
+	trait = zealous
+	trait = craven
+	trait = education_learning_2
+	3110.1.1 = {
+		birth = "3110.1.1"
+	}
+	3149.1.1 = {
+		trait = faith_warrior
+	}
+	3160.4.18 = {
+		death = "3160.4.18"
+	}
+}
+
+151018 = {
+	name = "Peder" #Jacobsen
+	dynasty = 482 #Hvide
+	religion = "catholic"
+	culture = "danish"
+	trait = zealous
+	trait = education_learning_3
+	father = 201542 #Jacob Sunesen
+	3187.1.1 = {
+		birth = "3187.1.1"
+	}
+	3227.5.19 = {
+		death = "3227.5.19"
+	}
+}
+
+151019 = {
+	name = "Toke" #Ebbesen
+	dynasty = 482 #Hvide
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_2
+	father = 201532 #Ebbe Skjalmsen
+	3110.1.1 = {
+		birth = "3110.1.1"
+	}
+	3160.1.1 = {
+		death = "3160.1.1"
+	}
+}
+
+151020 = {
+	name = "Stig" #Tokesen
+	dynasty = 482 #Hvide
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_2
+	father = 151019 #Toke Ebbesen
+	3130.1.1 = {
+		birth = "3130.1.1"
+	}
+	3146.1.1 = {
+		add_spouse = 151021 #Margrethe Knudsdatter
+	}
+	3153.1.1 = {
+		death = "3153.1.1"
+	}
+}
+
+151021 = {
+	name = "Margrethe" #Knudsdatter
+	female = yes
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 201513 #Knud Lavard
+	3131.1.1 = {
+		birth = "3131.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+151022 = {
+	name = "Niels" #Stigsen
+	dynasty = 482 #Hvide
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = ambitious
+	trait = education_learning_2
+	father = 151020 #Stig Tokesen
+	mother = 151021 #Margrethe Knudsdatter
+	3153.1.1 = {
+		birth = "3153.1.1"
+	}
+	3251.9.24 = {
+		death = "3251.9.24"
+	}
+}
+
+151023 = {
+	name = "Toke" #Skjalmsen
+	dynasty = 482 #Hvide
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = education_stewardship_3
+	father = 201530 #Skjalm Hvide
+	mother = 101537 #Signe Asbjørnsdatter
+	3088.1.1 = {
+		birth = "3088.1.1"
+	}
+	3163.1.1 = {
+		death = "3163.1.1"
+	}
+}
+	
+151024 = {
+	name = "Skjalm" #Bang
+	dynasty = 1025004 #Bang
+	religion = "catholic"
+	culture = "danish"
+	trait = education_martial_2
+	father = 151023 #Toke Skjalmsen
+	3148.1.1 = {
+		birth = "3148.1.1"
+	}
+	3218.1.1 = {
+		death = "3218.1.1"
+	}
+}	
+
+151025 = {
+	name = "Peder" #Bang
+	dynasty = 1025004 #Bang
+	religion = "catholic"
+	culture = "danish"
+	trait = wrathful
+	trait = education_learning_2
+	father = 151024 #Skjalm Bang
+	3209.1.1 = {
+		birth = "3209.1.1"
+	}
+	3279.6.23 = {
+		death = "3279.6.23"
+	}
+}
+
+151026 = {
+	name = "Stig"
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_1
+	3249.1.1 = {
+		birth = "3249.1.1"
+	}
+	3282.1.1 = {
+		death = "3282.1.1"
+	}
+}
+
+151027 = {
+	name = "Ingvar"
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_1
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3292.1.1 = {
+		death = "3292.1.1"
+	}
+}
+
+151028 = {
+	name = "Johannes" #Krag
+	#AKA Jens/Johan Krag
+	religion = "catholic"
+	culture = "danish"
+	trait = generous
+	trait = education_learning_2
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3302.1.1 = {
+		death = "3302.1.1"
+	}
+}
+
+151029 = {
+	name = "Oluf"
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_2
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3322.3.10 = {
+		death = "3322.3.10"
+	}
+}
+
+151030 = {
+	name = "Jens" #Hind	
+	#AKA Johan Hind
+	religion = "catholic"
+	culture = "danish"
+	trait = trusting
+	trait = education_learning_2
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3332.3.24 = {
+		death = "3332.3.24"
+	}
+}
+
+151031 = {
+	name = "Jens"
+	#AKA Jens Nyborg
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_3
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3346.1.23 = {
+		death = "3346.1.23"
+	}
+}
+
+200603 = {
+	name = "Christine" #Stigsdatter
+	dynasty = 482 #Hvide
+	female = yes
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "danish"
+	trait = education_diplomacy_3
+	father = 151020 #Stig Tokesen
+	mother = 151021 #Margrethe Knudsdatter
+	3147.1.2 = {
+		birth = "3147.1.2"
+	}
+	3197.1.2 = {
+		death = "3197.1.2"
+	}
+}
+
+93533 = {
+	name = "Knud"
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	father = 201501
+	mother = 202045
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3230.1.1 = {
+		add_spouse = 93534
+	}
+	3262.10.5 = {
+		death = "3262.10.5"
+	}
+}
+
+93535 = {
+	name = "Erik"
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 93533
+	mother = 93534
+	3231.1.1 = {
+		birth = "3231.1.1"
+	}
+	3306.1.1 = {
+		death = "3306.1.1"
+	}
+}
+
+93537 = {
+	name = "Barnum"
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 93535
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3331.1.1 = {
+		death = "3331.1.1"
+	}
+}
+
+93538 = {
+	name = "Erik"
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 93537
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	3371.1.1 = {
+		death = "3371.1.1"
+	}
+}
+
+450654 = {
+	name = "Svantepolk"
+	# AKA: Svantepolk Knudsen
+	dynasty_house = house_estrid
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = education_learning_2
+	father = 93533
+	mother = 93534
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3257.1.1 = {
+		add_spouse = 450655
+	}
+	3312.1.1 = {
+		death = "3312.1.1"
+	}
+}
+
+161736 = {
+	name = "Valdemar"
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 201501
+	mother = 96037
+	3211.1.1 = {
+		birth = "3211.1.1"
+	}
+	3227.1.1 = {
+		give_nickname = nick_the_young
+	}
+	3231.6.24 = {
+		add_spouse = 142051 #Leonor de Bourgogne
+	}
+	3233.11.28 = {
+		death = "3233.11.28"
+	}
+}
+
+161737 = {
+	name = "Niels"
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	trait = legitimized_bastard
+	father = 201501
+	3203.1.1 = {
+		birth = "3203.1.1"
+	}
+	3219.1.1 = {
+		add_spouse = 33268
+	}
+	3221.1.1 = {
+		death = "3221.1.1"
+	}
+}
+
+161738 = {
+	name = "Niels"
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 161737
+	mother = 33268
+	3220.1.1 = {
+		birth = "3220.1.1"
+	}
+	3253.1.1 = {
+		death = "3253.1.1"
+	}
+}
+
+161740 = {
+	name = "Jutta"
+	female = yes
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 451510
+	mother = 161739
+	3248.1.1 = {
+		birth = "3248.1.1"
+	}
+	3298.1.1 = {
+		death = "3298.1.1"
+	}
+}
+
+161741 = {
+	name = "Agnes"
+	female = yes
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 451510
+	mother = 161739
+	3251.1.1 = {
+		birth = "3251.1.1"
+	}
+	3298.1.1 = {
+		death = "3298.1.1"
+	}
+}
+
+167019 = {
+	name = "Hakon" #asharivasson Jyde
+	dynasty = 100273 # Stibolt
+	religion = "catholic"
+	culture = "danish"
+	mother = 102525 #ashariva Ragnhildsdatter
+	3102.1.1 = { #utter guesswork
+		birth = "3102.1.1" }
+	3118.1.1 = {
+		add_spouse = 201511 # Ragnhild Eriksdatter
+	}
+	3152.1.1 = { #utter guesswork
+		death = "3152.1.1"
+	}
+}
+
+170015 = {
+	name = "Ragnvald" # son of the Danish Prince Henrik Skadelår
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 101532
+	mother = 100554 #Ingrid Ragnvaldsdotter
+	3125.1.1 = {
+		birth = "3125.1.1"
+	}
+	3164.6.6 = {
+		death = "3164.1.1"
+	}
+}
+
+170016 = {
+	name = "Knut" # son of the Danish Prince Henrik Skadelår
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 101532
+	mother = 100554 #Ingrid Ragnvaldsdotter
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3165.1.1 = {
+		death = "3165.1.1"
+	}
+}
+
+170017 = {
+	name = "Buris" # son of the Danish Prince Henrik Skadelår
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 101532
+	mother = 100554 #Ingrid Ragnvaldsdotter
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3170.1.1 = {
+		death = "3170.1.1"
+	}
+}
+
+170018 = {
+	name = "Jan" # son of the Danish Prince Henrik Skadelår
+	dynasty_house = house_estrid
+	religion = "catholic"
+	culture = "danish"
+	father = 101532
+	mother = 100554 #Ingrid Ragnvaldsdotter
+	3133.1.1 = {
+		birth = "3133.1.1"
+	}
+	3164.1.1 = {
+		death = "3164.1.1"
+	}
+}
+
+170022 = {
+	name = "Peder" #Peder Strangesen
+	dynasty = 1025003 #Ulfeldt
+	religion = "catholic"
+	culture = "danish"
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3212.1.1 = {
+		add_spouse = 201525 # Ingeborg Esbernsdatter
+	}
+	3244.1.1 = {
+		death = "3244.1.1"
+	}
+}
+
+170023 = {
+	name = "Helena" # Helena Pedersdatter
+	female = yes
+	dynasty = 1025003 #Ulfeldt
+	religion = "catholic"
+	culture = "danish"
+	father = 170022 # Peder Strangesen
+	mother = 201525 # Ingeborg Esbernsdatter
+	3202.1.1 = {
+		birth = yes
+	}
+	3258.1.1 = {
+		death = yes
+	}
+}
+
+168642 = {
+	name = "Harald"
+	dynasty = 9552
+	religion = "catholic"
+	culture = "danish"
+	father = 168641
+	3002.1.1 = {
+		birth = yes
+	}	
+	3044.1.1 = {
+		death = yes
+	}
+}
+
+168643 = {
+	name = "Torgils"
+	dynasty = 9552
+	religion = "catholic"
+	culture = "danish"
+	father = 168642
+	3034.1.1 = {
+		birth = yes
+	}	
+	3071.1.1 = {
+		death = yes
+	}
+}
+
+168644 = {
+	name = "Hemming"
+	dynasty = 9552
+	religion = "catholic"
+	culture = "danish"
+	father = 168642
+	3036.1.1 = {
+		birth = yes
+	}
+	3064.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,1369 @@
+﻿960 = {  	
+	name = "Donnchad"
+	dynasty = 1687
+	martial = 5
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "gaelic"
+	trait = arrogant
+	trait = education_learning_2
+	2938.1.2 = {
+		birth = "2938.1.2"
+	}
+	3000.1.2 = {
+		death = "3000.1.2"
+	}
+}
+
+962 = {  	
+	name = "CrI_nA_n"
+	dynasty = 1687
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	trait = generous
+	trait = deceitful
+	trait = compassionate
+	trait = education_learning_2
+	father = 960
+	2977.1.2 = {
+		birth = "2977.1.2"
+	}
+	2999.1.2 = {
+		add_spouse = 981
+	}
+	3047.1.2 = {
+		death = "3047.1.2"
+	}
+}
+
+964 = {  	
+	name = "MA_el-Doraid"
+	# AKA: Maldred
+	dynasty = 1687
+	martial = 8
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = just
+	trait = education_martial_2
+	father = 962
+	mother = 981
+	3000.1.2 = {
+		birth = "3000.1.2"
+	}
+	3020.1.2 = {
+		add_spouse = 189
+	}
+	3062.1.2 = {
+		death = "3062.1.2"
+	}
+}
+
+972 = {  	
+	name = "Domnall"
+	# AKA: Domnall
+	dynasty_house = house_british_isles_ailpin
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 6016
+	2863.1.2 = {
+		birth = "2863.1.2"
+	}
+	2902.1.2 = {
+		death = "2902.1.2"
+	}
+}
+
+974 = {  	
+	name = "MA_el-Coluim"
+	# AKA: Mael Coluim
+	dynasty_house = house_british_isles_ailpin
+	martial = 8
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "gaelic"
+	trait = honest
+	trait = temperate
+	trait = education_martial_2
+	father = 972
+	2889.1.2 = {
+		birth = "2889.1.2"
+	}
+	2956.1.2 = {
+		death = "2956.1.2"
+	}
+}
+
+976 = {  	
+	name = "CinA_ed"
+	# AKA: Kenneth
+	dynasty_house = house_british_isles_ailpin
+	martial = 8
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "gaelic"
+	trait = just
+	trait = brave
+	trait = education_learning_3
+	father = 974
+	2912.1.2 = {
+		birth = "2912.1.2"
+	}
+	2997.1.2 = {
+		death = yes
+	}
+}
+
+978 = {  	
+	name = "Duib" # Duff
+	dynasty_house = house_british_isles_ailpin
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = honest
+	trait = education_learning_3
+	father = 974
+	2917.1.2 = {
+		birth = "2917.1.2"
+	}
+	2997.1.2 = {
+		death = "2997.1.2"
+	}
+}
+
+980 = {  	
+	name = "MA_el-Coluim"
+	# AKA: Malcolm
+	dynasty_house = house_british_isles_ailpin
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 9
+	religion = "catholic"
+	culture = "gaelic"
+	trait = wrathful
+	trait = education_martial_3
+	father = 976
+	disallow_random_traits = yes
+	2956.1.2 = {
+		birth = "2956.1.2"
+	}
+	2980.1.2 = {
+		add_spouse = 166128
+	}
+	3007.1.1 = {
+		give_nickname = nick_the_destroyer_prophecy
+	}
+	3036.1.2 = {
+		death = "3036.1.2"
+	}
+}
+
+981 = {  	
+	name = "Bethoc"
+	# AKA: Bethoc
+	female = yes
+	dynasty_house = house_british_isles_ailpin
+	martial = 8
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = clubfooted
+	trait = education_intrigue_2
+	father = 980
+	mother = 166128
+	2981.1.2 = {
+		birth = "2981.1.2"
+	}
+	3037.1.2 = {
+		death = "3037.1.2"
+	}
+}
+
+982 = {  	
+	name = "Donnchad"
+	# AKA: Duncan
+	dynasty = 1687
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = deceitful
+	trait = arbitrary
+	trait = wrathful
+	trait = education_stewardship_2
+	father = 962
+	mother = 981
+	3003.1.2 = {
+		birth = "3003.1.2"
+	}
+	3032.1.2 = {
+		add_spouse = 193
+	}
+	3042.8.14 = {
+		death = "3042.8.14"
+	}
+}
+
+5794 = {
+	name = "Domnall"
+	# AKA: Domnall mac Aralt
+	dynasty_house = house_british_isles_crovan
+	martial = 7
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = gluttonous
+	trait = education_martial_2
+	father = 5793
+	3055.1.2 = {
+		birth = "3055.1.2"
+	}
+	3105.1.2 = {
+		death = "3105.1.2"
+	}
+}
+
+5995 = {  	
+	name = "Anleta" # Alice
+	female = yes
+	dynasty_house = house_british_isles_ailpin
+	martial = 8
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	father = 980
+	mother = 166128
+	2984.1.2 = {
+		birth = "2984.1.2"
+	}
+	3052.1.2 = {
+		death = "3052.1.2"
+	}
+}
+
+5996 = {  	
+	name = "Macbethad"
+	# AKA: Macbeth
+	dynasty_house = house_british_isles_loairn
+	martial = 8
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	father = 5998
+	mother = 5997
+	3008.1.2 = {
+		birth = "3008.1.2"
+	}
+	3059.1.2 = {
+		death = {
+			death_reason = death_battle
+			killer = 984 # Malcolm III
+		}
+	}
+}
+
+5997 = {  	
+	name = "Donada"
+	female = yes
+	dynasty_house = house_british_isles_ailpin
+	martial = 8
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	father = 980
+	mother = 166128
+	2982.1.2 = {
+		birth = "2982.1.2"
+	}
+	3036.1.2 = {
+		death = "3036.1.2"
+	}
+}
+
+5998 = {  	
+	name = "FindlaI_ch" # Findlay
+	dynasty_house = house_british_isles_loairn
+	martial = 8
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	father = 5999
+	2972.1.1 = {
+		birth = "2972.1.1"
+	}
+	3022.7.1 = {
+		death = "3022.7.1"
+	}
+}
+
+5999 = {  	
+	name = "Ruairi"
+	dynasty_house = house_british_isles_loairn
+	martial = 8
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	father = 83586 #Domnall mac Morggáin
+	2957.1.1 = {
+		birth = "2957.1.1"
+	}
+	3002.7.1 = {
+		death = "3002.7.1"
+	}
+}
+
+6000 = {  	
+	name = "Gilla-BrI_gte" # Brice
+	dynasty_house = house_british_isles_loairn
+	martial = 8
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	father = 5999
+	2977.1.1 = {
+		birth = "2977.1.1"
+	}
+	3022.7.1 = {
+		death = "3022.7.1"
+	}
+}
+
+
+6002 = {  	
+	name = "Gillecomgain"
+	dynasty_house = house_british_isles_loairn
+	martial = 8
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	father = 6000
+	3005.1.1 = {
+		birth = "3005.1.1"
+	}
+	3034.7.1 = {
+		death = "3034.7.1"
+	}
+}
+
+6001 = {  	
+	name = "Gruoch"
+	female = yes
+	dynasty_house = house_british_isles_ailpin
+	martial = 8
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	father = 6003
+	3012.1.2 = {
+		birth = "3012.1.2"
+	}
+	3059.1.2 = {
+		death = "3059.1.2"
+	}
+}
+
+6003 = {  	
+	name = "Boite"
+	dynasty_house = house_british_isles_ailpin
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	father = 6004
+	2992.1.2 = {
+		birth = "2992.1.2"
+	}
+	3035.1.2 = {
+		death = "3035.1.2"
+	}
+}
+
+6004 = {  	
+	name = "CinA_ed"
+	# AKA: Kenneth
+	dynasty_house = house_british_isles_ailpin
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	father = 978
+	2964.1.2 = {
+		birth = "2964.1.2"
+	}
+	3007.1.2 = {
+		death = "3007.1.2"
+	}
+}
+
+6006 = {  	
+	name = "Lulach"
+	dynasty_house = house_british_isles_loairn
+	martial = 8
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "gaelic"
+	father = 6002
+	mother = 6001
+	3034.1.2 = {
+		birth = "3034.1.2"
+	}
+	3050.1.2 = {
+		add_spouse = 6007
+	}
+	3060.1.2 = {
+		death = {
+			death_reason = death_murder
+			killer = 984 # Malcolm III
+		}
+	}
+}
+
+6008 = {  	
+	name = "MA_elSnechtai" # Malsnectan
+	dynasty_house = house_british_isles_loairn
+	martial = 10
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "gaelic"
+	trait = ambitious
+	trait = arrogant
+	trait = zealous	#May possibly have been a monk for a time.
+	trait = education_intrigue_2
+	father = 6006
+	mother = 6007
+	3050.1.2 = {
+		add_pressed_claim = title:k_scotland
+		birth = "3050.1.2"
+	}
+	3087.7.1 = {
+		death = "3087.7.1"
+	}
+}
+
+6009 = {  	
+	name = "Gruoch"
+	female = yes
+	dynasty_house = house_british_isles_loairn
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 3
+	religion = "catholic"
+	culture = "gaelic"
+	trait = education_diplomacy_3
+	father = 6006
+	mother = 6007
+	3051.1.2 = {
+		birth = "3051.1.2"
+	}
+	3101.1.2 = {
+		death = "3101.1.2"
+	}
+}
+
+6010 = {  	
+	name = "A_ed" # Hugh
+	dynasty = 3104
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	trait = education_stewardship_2
+	3041.1.2 = {
+		birth = "3041.1.2"
+	}
+	3067.1.2 = {
+		add_spouse = 6009
+	}
+	3086.7.1 = {
+		death = "3086.7.1"
+	}
+}
+
+82011 = {  	
+	name = "Murethach" #Murdoch
+	dynasty = 9101
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "gaelic"
+	trait = temperate
+	3032.1.2 = {
+		birth = "3032.1.2"
+	}
+	3087.1.2 = {
+		death = "3087.1.2"
+	}
+}
+
+6016 = {  	
+	name = "CausantI_n" # Constantine
+	dynasty_house = house_british_isles_ailpin
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 6018
+	mother = 166610
+	2843.1.2 = {
+		birth = "2843.1.2"
+	}
+	2879.1.2 = {
+		death = "2879.1.2"
+	}
+}
+
+6018 = {  	
+	name = "CinA_ed" #Kenneth mac Ailpín
+	dynasty_house = house_british_isles_ailpin
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 6020
+	mother = 166609
+	2812.1.2 = {
+		birth = "2812.1.2"
+	}
+	2828.1.1 = {
+		add_spouse = 166610
+	}
+	2860.1.2 = {
+		death = "2860.1.2"
+	}
+}
+
+6020 = {  	
+	name = "AlpI_n" #Alpín mac Echdach
+	dynasty_house = house_british_isles_gabrain
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "irish"
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 83584 #Eochaid mac Áed
+	2792.1.2 = {
+		birth = "2792.1.2"
+	}
+	2810.1.1 = {
+		add_spouse = 166609
+	}
+	2812.1.1 = {
+		culture = "gaelic"
+		dynasty_house = house_british_isles_ailpin #Mac Ailpín
+	}
+	2838.7.1 = {
+		death = "2838.7.1"
+	}
+}
+
+6022 = {  	
+	name = "Domnall"
+	dynasty_house = house_british_isles_ailpin
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 6020
+	mother = 166609
+	2814.1.2 = {
+		birth = "2814.1.2"
+	}
+	2865.1.2 = {
+		death = "2865.1.2"
+	}
+}
+
+6024 = {  	
+	name = "A_ed"
+	dynasty_house = house_british_isles_ailpin
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 6018
+	mother = 166610
+	2845.1.2 = {
+		birth = "2845.1.2"
+	}
+	2880.1.2 = {
+		death = "2880.1.2"
+	}
+}
+
+6026 = {  	
+	name = "CausantI_n"
+	dynasty_house = house_british_isles_ailpin
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 6024
+	2873.1.2 = {
+		birth = "2873.1.2"
+	}
+	2945.1.2 = {
+		death = "2945.1.2"
+	}
+}
+
+6028 = {  	
+	name = "Ildulb" # Indulf
+	dynasty_house = house_british_isles_ailpin
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 6026
+	2899.1.2 = {
+		birth = "2899.1.2"
+	}
+	2964.1.2 = {
+		death = "2964.1.2"
+	}
+}
+
+6030 = {  	
+	name = "Cailean" #Colin
+	dynasty_house = house_british_isles_ailpin
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 6028
+	2929.1.2 = {
+		birth = "2929.1.2"
+	}
+	2973.1.2 = {
+		death = "2973.1.2"
+	}
+}
+
+6032 = {  	
+	name = "CausantI_n"
+	dynasty_house = house_british_isles_ailpin
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 6030
+	2949.1.2 = {
+		birth = "2949.1.2"
+	}
+	2999.1.2 = {
+		death = "2999.1.2"
+	}
+}
+
+82012 = {  	
+	name = "Gilla-CrI_st" # Gilchrist
+	# AKA: Gille
+	dynasty = 9101
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	father = 82011
+	3060.1.2 = {
+		birth = "3060.1.2"
+	}
+	3114.1.2 = {
+		death = "3114.1.2"
+	}
+}
+
+83585 = {
+	name = "Muirgein" # Morgan
+	dynasty_house = house_british_isles_loairn
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "gaelic"
+	father = 6026
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	2957.7.1 = {
+		death = "2957.7.1"
+	}
+}
+
+83586 = {
+	name = "Domnall"
+	dynasty_house = house_british_isles_loairn
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "gaelic"
+	father = 83585
+	2931.1.1 = {
+		birth = "2931.1.1"
+	}
+	2970.7.1 = {
+		death = "2970.7.1"
+	}
+}
+
+83587 = {
+	name = "MA_el-Coluim"
+	dynasty_house = house_british_isles_loairn
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	father = 6000
+	3003.1.1 = {
+		birth = "3003.1.1"
+	}
+	3031.7.1 = {
+		death = "3031.7.1"
+	}
+}
+
+131001 = {  	
+	name = "Giric" # Gregory
+	# AKA: Giric mac Cinaeda
+	dynasty_house = house_british_isles_ailpin
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 2
+	religion = "catholic"
+	culture = "gaelic"
+	trait = just
+	trait = arrogant
+	father = 6004
+	2993.1.2 = {
+		birth = "2993.1.2"
+	}
+	3041.2.1 = {
+		death = "3041.2.1"
+	}
+}
+
+
+131002 = {  	
+	name = "Duib"
+	dynasty_house = house_british_isles_duib
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 3
+	religion = "catholic"
+	culture = "gaelic"
+	trait = education_martial_3
+	father = 131001
+	3030.1.2 = {
+		birth = "3030.1.2"
+	}
+	3054.1.2 = {
+		add_spouse = 131003
+	}
+	3100.1.1 = {
+		death = "3100.1.1"
+	}
+}
+
+131004 = {  	
+	name = "CausantI_n"
+	# AKA: Constantine
+	dynasty_house = house_british_isles_duib
+	martial = 2
+	diplomacy = 2
+	intrigue = 1
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	trait = just
+	father = 131002
+	mother = 131003
+	3062.1.2 = {
+		birth = "3062.1.2"
+	}
+	3130.1.1 = {
+		death = "3130.1.1"
+	}
+}
+
+131006 = {  	
+	name = "CinA_ed" # Kenneth
+	dynasty = 20085
+	martial = 6
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "gaelic"
+	trait = education_martial_2
+	3053.1.1 = {
+		birth = "3053.1.1"
+	}
+	3103.1.1 = {
+		death = "3103.1.1"
+	}
+}
+
+131104 = {  	
+	name = "Gilla-BrI_gte"
+	dynasty_house = house_british_isles_argyll
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "gaelic"
+	trait = education_martial_2
+	father = 131103
+	3044.1.2 = {
+		birth = "3044.1.2"
+	}
+	3095.1.1 = {
+		death = "3095.1.1"
+	}
+}
+
+131105 = {  	
+	name = "Fearghus" # Fergus
+	dynasty_house = house_british_isles_argyll
+	martial = 3
+	diplomacy = 3
+	intrigue = 2
+	stewardship = 2
+	religion = "catholic"
+	culture = "gaelic"
+	father = 131104
+	3067.1.2 = {
+		birth = "3067.1.2"
+	}
+	3117.1.2 = {
+		death = "3117.1.2"
+	}
+}
+
+131106 = {  	
+	name = "Somhairle" # Somerled
+	dynasty_house = house_british_isles_argyll
+	martial = 3
+	diplomacy = 1
+	intrigue = 3
+	stewardship = 3
+	religion = "catholic"
+	culture = "gaelic"
+	father = 131104
+	3068.1.2 = {
+		birth = "3068.1.2"
+	}
+	3118.1.2 = {
+		death = "3118.1.2"
+	}
+}
+
+131524 = {
+	name = "Gofraid" #  Godfrey
+	dynasty_house = house_british_isles_ivaring
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "gaelic"
+	trait = calm
+	trait = generous
+	trait = gluttonous
+	father = 131523
+	3006.1.2 = {
+		birth = "3006.1.2"
+	}
+	3076.1.1 = {
+		death = "3076.1.1"
+	}
+}
+131525 = {
+	name = "Fionnghall" # Fingal
+	dynasty_house = house_british_isles_ivaring
+	martial = 6
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 3
+	religion = "catholic"
+	culture = "gaelic"
+	trait = generous
+	trait = education_martial_2
+	father = 131524
+	3024.1.2 = {
+		birth = "3024.1.2"
+	}
+	3074.1.1 = {
+		death = "3074.1.1"
+	}
+}
+
+131526 = {
+	name = "Comgal" # Comgal
+	dynasty_house = house_british_isles_ivaring
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "gaelic"
+	trait = education_martial_2
+	father = 131525
+	3041.1.2 = {
+		birth = "3041.1.2"
+	}
+	3100.1.1 = {
+		death = "3100.1.1"
+	}
+}
+
+165002 = {  	
+	name = "MA_el_Muire" #Malmure ingen CinÁed mac Ailpín, Daughter of Kenneth mac Alpin
+	female = yes
+	dynasty_house = house_british_isles_ailpin
+	religion = "catholic"
+	culture = "gaelic"
+	father = 6018
+	mother = 166610
+	2853.1.1 = {
+		birth = "2853.1.1"
+	}
+	2915.1.1 = {
+		death = "2915.1.1"
+	}
+}
+
+166443 = {  	
+	name = "Morag" # Mary
+	#Unnammed Daughter of Kenneth mac Alpin & wife of King Run of Alt Clut (Strathclyde)
+	female = yes
+	dynasty_house = house_british_isles_ailpin
+	religion = "catholic"
+	culture = "gaelic"
+	father = 6018
+	mother = 166610
+	2829.1.1 = {
+		birth = "2829.1.1"
+	}
+	2870.1.1 = {
+		death = "2870.1.1"
+	}
+}
+
+166621 = {  	
+	name = "AmlaI_b" #Amlaíb mac Ilduilb
+	dynasty_house = house_british_isles_ailpin
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "insular_celtic"
+	culture = "gaelic"
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 6028
+	2932.1.1 = {
+		birth = yes
+	}
+	2979.1.1 = {
+		death = yes
+	}
+}
+
+166622 = {  	
+	name = "Eochaid" #Eochaid mac Ilduilb
+	dynasty_house = house_british_isles_ailpin
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "insular_celtic"
+	culture = "gaelic"
+	trait = arbitrary
+	trait = education_intrigue_1
+	father = 6028
+	2935.1.1 = {
+		birth = yes
+	}
+	2973.1.2 = {
+		death = yes
+	}
+}
+
+183511 = {
+	name = "Drystan" # Tristan
+	dynasty = 1042641
+	religion = "catholic"
+	culture = "gaelic"
+	2807.1.2 = {
+		birth = "2807.1.2"
+	}
+	2883.1.2 = {
+		death = "2883.1.2"
+	}
+}
+
+183512 = {
+	name = "CinA_ed" # Kenneth
+	dynasty = 1042641
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183511
+	2837.1.2 = {
+		birth = "2837.1.2"
+	}
+	2892.1.2 = {
+		death = "2892.1.2"
+	}
+}
+
+183513 = {
+	name = "Murethach" #Murdoch
+	dynasty = 1042641
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183511
+	2839.1.2 = {
+		birth = "2839.1.2"
+	}
+	2887.1.2 = {
+		death = "2887.1.2"
+	}
+}
+
+183514 = {
+	name = "Giric"
+	dynasty = 1042642
+	religion = "catholic"
+	culture = "gaelic"
+	2797.1.2 = {
+		birth = "2797.1.2"
+	}
+	2867.1.2 = {
+		death = "2867.1.2"
+	}
+}
+
+183515 = {
+	name = "MA_el-BrI_gte" # Malbride
+	dynasty = 1042642
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183514
+	2830.1.2 = {
+		birth = "2830.1.2"
+	}
+	2875.1.2 = {
+		death = "2875.1.2"
+	}
+}
+
+
+183516 = {
+	name = "Domnall"
+	dynasty = 1042642
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183515
+	2857.1.2 = {
+		birth = "2857.1.2"
+	}
+	2907.1.2 = {
+		death = "2907.1.2"
+	}
+}
+
+183517 = {
+	name = "Gormuil" # Gormelia
+	female = yes
+	dynasty = 1042642
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183515
+	2860.1.2 = {
+		birth = "2860.1.2"
+	}
+	2905.1.2 = {
+		death = "2905.1.2"
+	}
+}
+
+183518 = {
+	name = "MA_el-Muire"
+	dynasty = 1042643
+	religion = "catholic"
+	culture = "gaelic"
+	2817.1.2 = {
+		birth = "2817.1.2"
+	}
+	2887.1.2 = {
+		death = "2887.1.2"
+	}
+}
+
+183519 = {
+	name = "Eochaid"
+	dynasty = 1042643
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183518
+	2838.1.2 = {
+		birth = "2838.1.2"
+	}
+	2894.1.2 = {
+		death = "2894.1.2"
+	}
+}
+
+183520 = {
+	name = "Cormac"
+	dynasty = 1042643
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183518
+	2843.1.2 = {
+		birth = "2843.1.2"
+	}
+	2912.1.2 = {
+		death = "2912.1.2"
+	}
+}
+
+183521 = {
+	name = "Muirgein"
+	dynasty = 1042644
+	religion = "catholic"
+	culture = "gaelic"
+	2832.1.2 = {
+		birth = "2832.1.2"
+	}
+	2897.1.2 = {
+		death = "2897.1.2"
+	}
+}
+
+183522 = {
+	name = "Derbforgaill" # Dervorgilla / Derval
+	female = yes
+	dynasty = 1042644
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183521
+	2856.1.2 = {
+		birth = "2856.1.2"
+	}
+	2903.1.2 = {
+		death = "2903.1.2"
+	}
+}
+
+183523 = {
+	name = "Morag"
+	female = yes
+	dynasty = 1042644
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183521
+	2857.1.2 = {
+		birth = "2857.1.2"
+	}
+	2910.1.2 = {
+		death = "2910.1.2"
+	}
+}
+
+183524 = {
+	name = "Bethoc"
+	female = yes
+	dynasty = 1042644
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183521
+	2860.1.2 = {
+		birth = "2860.1.2"
+	}
+	2914.1.2 = {
+		death = "2914.1.2"
+	}
+}
+
+183525 = {
+	name = "CrI_nA_n"
+	dynasty = 1042645
+	religion = "catholic"
+	culture = "gaelic"
+	2842.1.2 = {
+		birth = "2842.1.2"
+	}
+	2884.1.2 = {
+		death = "2884.1.2"
+	}
+}
+
+183526 = {
+	name = "Gilla-CrI_st"
+	dynasty = 1042645
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183525
+	2865.1.2 = {
+		birth = "2865.1.2"
+	}
+	2924.1.2 = {
+		death = "2924.1.2"
+	}
+}
+
+183527 = {
+	name = "MA_el-Dubh" # Maldoven
+	dynasty = 1042645
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183525
+	2867.1.2 = {
+		birth = "2867.1.2"
+	}
+	2922.1.2 = {
+		death = "2922.1.2"
+	}
+}
+
+183528 = {
+	name = "Comgal" # Comgal
+	dynasty = 1042646
+	religion = "catholic"
+	culture = "gaelic"
+	2823.1.2 = {
+		birth = "2823.1.2"
+	}
+	2871.1.2 = {
+		death = "2871.1.2"
+	}
+}
+
+183529 = {
+	name = "Malserf"
+	dynasty = 1042646
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183528
+	2846.1.2 = {
+		birth = "2846.1.2"
+	}
+	2889.1.2 = {
+		death = "2889.1.2"
+	}
+}
+
+183530 = {
+	name = "Gilla-Blaan" # Gilleblane
+	dynasty = 1042646
+	religion = "catholic"
+	culture = "gaelic"
+	father = 183529
+	2867.1.2 = {
+		birth = "2867.1.2"
+	}
+	2926.1.2 = {
+		death = "2926.1.2"
+	}
+}

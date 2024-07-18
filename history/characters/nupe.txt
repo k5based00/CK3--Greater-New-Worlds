@@ -1,0 +1,838 @@
+﻿# Nupe characters
+
+# kingdom of the Jukun
+nupe0001 = {
+	name = "Eri" #fictional
+	dynasty = nupedyn001 #Jukun chiefs
+	religion = west_african_bori_pagan
+	culture = nupe
+	2850.1.1 = {
+		birth = yes
+	}
+	2903.1.1 = {
+		death = yes
+	}
+}
+nupe0002 = {
+	name = "Ederisu" #fictional
+	dynasty = nupedyn001
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0001
+	2867.1.1 = {
+		birth = yes
+	}
+	2930.1.1 = {
+		death = yes
+	}
+}
+nupe0003 = {
+	name = "Zagula" #fictional
+	dynasty = nupedyn001
+	religion = west_african_bori_pagan
+	culture = nupe
+	3025.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+nupe0004 = {
+	name = "Ederisu" #fictional
+	dynasty = nupedyn001
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0003
+	3052.1.1 = {
+		birth = yes
+	}
+	3106.1.1 = {
+		death = yes
+	}
+}
+nupe0005 = {
+	name = "Maazu" #fictional
+	dynasty = nupedyn001 #Jukun chiefs
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0004
+	3085.1.1 = {
+		birth = yes
+	}
+	3141.1.1 = {
+		death = yes
+	}
+}
+nupe0006 = {
+	name = "Jinadu" #fictional
+	dynasty = nupedyn001 #Jukun chiefs
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0005
+	3111.1.1 = {
+		birth = yes
+	}
+	3174.1.1 = {
+		death = yes
+	}
+}
+nupe0007 = {
+	name = "Eri" #fictional
+	dynasty = nupedyn001 #Jukun chiefs
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0006
+	3140.1.1 = {
+		birth = yes
+	}
+	3198.1.1 = {
+		death = yes
+	}
+}
+nupe0008 = {
+	name = "Zagula" #fictional
+	dynasty = nupedyn001 #Jukun chiefs
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0007
+	3173.1.1 = {
+		birth = yes
+	}
+	3229.1.1 = {
+		death = yes
+	}
+}
+
+# Tapa chiefs of c_nupe
+nupe0009 = {
+	name = "Jinadu" #fictional
+	dynasty = nupedyn002 #Tapa
+	religion = west_african_bori_pagan
+	culture = nupe
+	2844.1.1 = {
+		birth = yes
+	}
+	2897.1.1 = {
+		death = yes
+	}
+}
+nupe0010 = {
+	name = "Kolo" #fictional
+	dynasty = nupedyn002
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0009
+	2862.1.1 = {
+		birth = yes
+	}
+	2938.1.1 = {
+		death = yes
+	}
+}
+nupe0011 = {
+	name = "Jinadu" #fictional
+	dynasty = nupedyn002
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0010
+	3024.1.1 = {
+		birth = yes
+	}
+	3080.1.1 = {
+		death = yes
+	}
+}
+nupe0012 = {
+	name = "Mallam" #fictional
+	dynasty = nupedyn002
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0011
+	3051.1.1 = {
+		birth = yes
+	}
+	3093.1.1 = {
+		death = yes
+	}
+}
+nupe0013 = {
+	name = "Jebba" #fictional
+	dynasty = nupedyn002
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0012
+	3077.1.1 = {
+		birth = yes
+	}
+	3131.1.1 = {
+		death = yes
+	}
+}
+nupe0014 = {
+	name = "Jinadu" #fictional
+	dynasty = nupedyn002
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0013
+	3114.1.1 = {
+		birth = yes
+	}
+	3169.1.1 = {
+		death = yes
+	}
+}
+nupe0015 = {
+	name = "Jebba" #fictional
+	dynasty = nupedyn002
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0014
+	3150.1.1 = {
+		birth = yes
+	}
+	3203.1.1 = {
+		death = yes
+	}
+}
+nupe0016 = {
+	name = "Gyanamachi" #fictional
+	dynasty = nupedyn002
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0015
+	3178.1.1 = {
+		birth = yes
+	}
+	3233.1.1 = {
+		death = yes
+	}
+}
+
+# Tsoede dynasty - c_guwari
+nupe0017 = {
+	name = "Wari" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	2850.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		death = yes
+	}
+}
+nupe0018 = {
+	name = "Zagula" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0017
+	2868.1.1 = {
+		birth = yes
+	}
+	2917.1.1 = {
+		death = yes
+	}
+}
+nupe0019 = {
+	name = "Zimada" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0018
+	2895.1.1 = {
+		birth = yes
+	}
+	2951.1.1 = {
+		death = yes
+	}
+}
+nupe0020 = {
+	name = "Dala" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0019
+	2924.1.1 = {
+		birth = yes
+	}
+	2962.1.1 = {
+		death = yes
+	}
+}
+nupe0021 = {
+	name = "Jebba" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0020
+	2959.1.1 = {
+		birth = yes
+	}
+	3011.1.1 = {
+		death = yes
+	}
+}
+nupe0022 = {
+	name = "Tsoede" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0021
+	2994.1.1 = {
+		birth = yes
+	}
+	3045.1.1 = {
+		death = yes
+	}
+}
+nupe0023 = {
+	name = "Sachi" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0022
+	3030.1.1 = {
+		birth = yes
+	}
+	3068.1.1 = {
+		death = yes
+	}
+}
+nupe0024 = {
+	name = "Tsoede" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0023
+	3050.1.1 = {
+		birth = yes
+	}
+	3105.1.1 = {
+		death = yes
+	}
+}
+nupe0025 = {
+	name = "Gyanamachi" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0024
+	3067.1.1 = {
+		birth = yes
+	}
+	3119.1.1 = {
+		death = yes
+	}
+}
+nupe0026 = {
+	name = "Tsoede" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0025
+	3101.1.1 = {
+		birth = yes
+	}
+	3155.1.1 = {
+		death = yes
+	}
+}
+nupe0027 = {
+	name = "Maazu" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0026
+	3134.1.1 = {
+		birth = yes
+	}
+	3189.1.1 = {
+		death = yes
+	}
+}
+nupe0028 = {
+	name = "Sachi" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0027
+	3162.1.1 = {
+		birth = yes
+	}
+	3205.1.1 = {
+		death = yes
+	}
+}
+nupe0029 = {
+	name = "Jebba" #fictional
+	dynasty = nupedyn003
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0028
+	3188.1.1 = {
+		birth = yes
+	}
+	3232.1.1 = {
+		death = yes
+	}
+}
+#Kyadya c_kyadya
+nupe0030 = {
+	name = "Chado" #fictional
+	dynasty = nupedyn005
+	religion = west_african_bori_pagan
+	culture = nupe
+	2834.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+nupe0031 = {
+	name = "Kolo" #fictional
+	dynasty = nupedyn005
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0030
+	2862.1.1 = {
+		birth = yes
+	}
+	2933.1.1 = {
+		death = yes
+	}
+}
+nupe0032 = {
+	name = "Chado" #fictional
+	dynasty = nupedyn005
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0031
+	2912.1.1 = {
+		birth = yes
+	}
+	2995.1.1 = {
+		death = yes
+	}
+}
+nupe0033 = {
+	name = "Sachi" #fictional
+	dynasty = nupedyn005
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0032
+	2972.1.1 = {
+		birth = yes
+	}
+	3058.1.1 = {
+		death = yes
+	}
+}
+nupe0034 = {
+	name = "Kolo" #fictional
+	dynasty = nupedyn005
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0033
+	3032.1.1 = {
+		birth = yes
+	}
+	3089.1.1 = {
+		death = yes
+	}
+}
+nupe0035 = {
+	name = "Zagula" #fictional
+	dynasty = nupedyn005
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0034
+	3059.1.1 = {
+		birth = yes
+	}
+	3107.1.1 = {
+		death = yes
+	}
+}
+nupe0036 = {
+	name = "Maazu" #fictional
+	dynasty = nupedyn005
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0035
+	3085.1.1 = {
+		birth = yes
+	}
+	3139.1.1 = {
+		death = yes
+	}
+}
+nupe0037 = {
+	name = "Sachi" #fictional
+	dynasty = nupedyn005
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0036
+	3120.1.1 = {
+		birth = yes
+	}
+	3167.1.1 = {
+		death = yes
+	}
+}
+nupe0038 = {
+	name = "Tsoede" #fictional
+	dynasty = nupedyn005
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0037
+	3151.1.1 = {
+		birth = yes
+	}
+	3200.1.1 = {
+		death = yes
+	}
+}
+nupe0039 = {
+	name = "Chado" #fictional
+	dynasty = nupedyn005
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0038
+	3175.1.1 = {
+		birth = yes
+	}
+	3220.1.1 = {
+		death = yes
+	}
+}
+nupe0040 = {
+	name = "Tsoede" #fictional
+	dynasty = nupedyn005
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0039
+	3202.1.1 = {
+		birth = yes
+	}
+	3255.1.1 = {
+		death = yes
+	}
+}
+#some more Jukun
+nupe0041 = {
+	name = "Zagula" #fictional
+	dynasty = nupedyn001
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0002
+	2909.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+nupe0042 = {
+	name = "Eri" #fictional
+	dynasty = nupedyn001
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0041
+	2972.1.1 = {
+		birth = yes
+	}
+	3042.1.1 = {
+		death = yes
+	}
+}
+
+nupe0043 = {
+	name = "Jinadu" #fictional
+	dynasty = nupedyn002
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0010
+	2918.1.1 = {
+		birth = yes
+	}
+	2995.1.1 = {
+		death = yes
+	}
+}
+nupe0044 = {
+	name = "Kolo" #fictional
+	dynasty = nupedyn002
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0043
+	2978.1.1 = {
+		birth = yes
+	}
+	3039.1.1 = {
+		death = yes
+	}
+}
+#Kwararafa
+nupe0045 = {
+	name = "Zikenyu" #fictional
+	dynasty = nupedyn008
+	religion = west_african_bori_pagan
+	culture = nupe
+	2847.1.1 = {
+		birth = yes
+	}
+	2917.1.1 = {
+		death = yes
+	}
+}
+nupe0046 = {
+	name = "Agbumanu" #fictional
+	dynasty = nupedyn008
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0045
+	2892.1.1 = {
+		birth = yes
+	}
+	2970.1.1 = {
+		death = yes
+	}
+}
+nupe0047 = {
+	name = "Jibo" #fictional
+	dynasty = nupedyn008
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0046
+	2952.1.1 = {
+		birth = yes
+	}
+	3040.1.1 = {
+		death = yes
+	}
+}
+nupe0048 = {
+	name = "Ashumanu" #fictional
+	dynasty = nupedyn008
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0047
+	3022.1.1 = {
+		birth = yes
+	}
+	3080.1.1 = {
+		death = yes
+	}
+}
+nupe0049 = {
+	name = "Awudumanu" #fictional
+	dynasty = nupedyn008
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0048
+	3057.1.1 = {
+		birth = yes
+	}
+	3104.1.1 = {
+		death = yes
+	}
+}
+nupe0050 = {
+	name = "Agbumanu" #fictional
+	dynasty = nupedyn008
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0049
+	3092.1.1 = {
+		birth = yes
+	}
+	3151.1.1 = {
+		death = yes
+	}
+}
+nupe0051 = {
+	name = "Ashumanu" #fictional
+	dynasty = nupedyn008
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0050
+	3127.1.1 = {
+		birth = yes
+	}
+	3182.1.1 = {
+		death = yes
+	}
+}
+nupe0052 = {
+	name = "Agbumanu" #fictional
+	dynasty = nupedyn008
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0051
+	3164.1.1 = {
+		birth = yes
+	}
+	3214.1.1 = {
+		death = yes
+	}
+}
+nupe0053 = {
+	name = "Ashumanu" #fictional
+	dynasty = nupedyn008
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0052
+	3187.1.1 = {
+		birth = yes
+	}
+	3232.1.1 = {
+		death = yes
+	}
+}
+nupe0054 = {
+	name = "Abite" #fictional
+	dynasty = nupedyn008
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0053
+	3211.1.1 = {
+		birth = yes
+	}
+	3263.1.1 = {
+		death = yes
+	}
+}
+nupe0055 = {
+	name = "Abite" #fictional
+	dynasty = nupedyn008
+	religion = west_african_bori_pagan
+	culture = nupe
+	father = nupe0054
+	3232.1.1 = {
+		birth = yes
+	}
+	3290.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of c_yauri
+nupe0056 = {
+	name = "Ashumanu"  #fictional
+	dynasty = nupedyn009
+	religion = west_african_bori_pagan
+	culture = hausa
+	2842.1.1 = {
+		birth = yes
+	}
+	2905.1.1 = {
+		death = yes
+	}
+}
+nupe0057 = {
+	name = "Abite"  #fictional
+	dynasty = nupedyn009
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = nupe0056
+	2887.1.1 = {
+		birth = yes
+	}
+	2957.1.1 = {
+		death = yes
+	}
+}
+nupe0058 = {
+	name = "Zikenyu"  #fictional
+	dynasty = nupedyn009
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = nupe0057
+	2927.1.1 = {
+		birth = yes
+	}
+	2996.1.1 = {
+		death = yes
+	}
+}
+nupe0059 = {
+	name = "Ashumanu"  #fictional
+	dynasty = nupedyn009
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = nupe0058
+	2978.1.1 = {
+		birth = yes
+	}
+	3037.1.1 = {
+		death = yes
+	}
+}
+nupe0060 = {
+	name = "Jinadu"  #fictional
+	dynasty = nupedyn009
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = nupe0059
+	3017.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+nupe0061 = {
+	name = "Zikenyu"  #fictional
+	dynasty = nupedyn009
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = nupe0060
+	3062.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+nupe0062 = {
+	name = "Ashumanu"  #fictional
+	dynasty = nupedyn009
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = nupe0061
+	3104.1.1 = {
+		birth = yes
+	}
+	3169.1.1 = {
+		death = yes
+	}
+}
+nupe0063 = {
+	name = "Jinadu"  #fictional
+	dynasty = nupedyn009
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = nupe0062
+	3142.1.1 = {
+		birth = yes
+	}
+	3200.1.1 = {
+		death = yes
+	}
+}
+nupe0064 = {
+	name = "Zikenyu"  #fictional
+	dynasty = nupedyn009
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = nupe0063
+	3179.1.1 = {
+		birth = yes
+	}
+	3248.1.1 = {
+		death = yes
+	}
+}

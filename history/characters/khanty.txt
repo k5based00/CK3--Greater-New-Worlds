@@ -1,0 +1,2558 @@
+﻿159735 = {
+	name = "Torum" # fictional
+	religion = siberian_pagan
+	culture = khanty
+	dynasty = 1029126
+	father = 188794
+	2841.1.1 = {
+		birth = yes
+	}
+	2911.1.1 = {
+		death = yes
+	}
+}
+188791 = {
+	name = "Nalka" # fictional
+	religion = siberian_pagan
+	culture = khanty
+	dynasty = 1029126
+	2732.1.1 = {
+		birth = yes
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+
+188792 = {
+	name = "Setyamka" # fictional
+	religion = siberian_pagan
+	culture = khanty
+	dynasty = 1029126
+	father = 188791
+	2754.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+
+188793 = {
+	name = "Nalka" # fictional
+	religion = siberian_pagan
+	culture = khanty
+	dynasty = 1029126
+	father = 188792
+	2789.1.1 = {
+		birth = yes
+	}
+	2839.1.1 = {
+		death = yes
+	}
+}
+
+188794 = {
+	name = "Velmayka" # fictional
+	religion = siberian_pagan
+	culture = khanty
+	dynasty = 1029126
+	father = 188793
+	2811.1.1 = {
+		birth = yes
+	}
+	2862.1.1 = {
+		death = yes
+	}
+}
+
+188795 = {
+	name = "Meltsayka" # fictional
+	religion = siberian_pagan
+	culture = khanty
+	dynasty = 1042191
+	2742.1.1 = {
+		birth = yes
+	}
+	2792.1.1 = {
+		death = yes
+	}
+}
+
+188796 = {
+	name = "Nydog" # fictional
+	religion = siberian_pagan
+	culture = khanty
+	dynasty = 1042192
+	2737.1.1 = {
+		birth = yes
+	}
+	2792.1.1 = {
+		death = yes
+	}
+}
+
+188797 = {
+	name = "Zyryan" # fictional
+	religion = siberian_pagan
+	culture = khanty
+	dynasty = 1042194
+	2753.1.1 = {
+		birth = yes
+	}
+	2807.1.1 = {
+		death = yes
+	}
+}
+
+#Sosva (fictional)
+302443 = {
+	name = "Hulyen"
+	dynasty = 2001078	#Sosvan
+	religion = siberian_pagan
+	culture = khanty
+	2840.5.12 = {
+		birth = yes
+	}
+	2900.3.14 = {
+		death = yes
+	}
+}
+302444 = {
+	name = "Rateg"
+	dynasty = 2001078	#Sosvan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302443
+	2862.9.22 = {
+		birth = yes
+	}
+	2911.10.16 = {
+		death = yes
+	}
+}
+302445 = {
+	name = "Mosheg"
+	dynasty = 2001078	#Sosvan
+	religion = siberian_pagan
+	culture = khanty
+	3044.12.2 = {
+		birth = yes
+	}
+	3092.4.7 = {
+		death = yes
+	}
+}
+302446 = {
+	name = "Viryas"
+	dynasty = 2001078	#Sosvan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302445
+	3065.7.18 = {
+		birth = yes
+	}
+	3121.11.20 = {
+		death = yes
+	}
+}
+302447 = {
+	name = "Mosheg"
+	dynasty = 2001078	#Sosvan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302446
+	3092.9.23 = {
+		birth = yes
+	}
+	3144.5.7 = {
+		death = yes
+	}
+}
+302448 = {
+	name = "Ozhmeg"
+	dynasty = 2001078	#Sosvan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302447
+	3117.6.30 = {
+		birth = yes
+	}
+	3177.4.9 = {
+		death = yes
+	}
+}
+302449 = {
+	name = "Malyy"
+	dynasty = 2001078	#Sosvan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302448
+	3147.11.2 = {
+		birth = yes
+	}
+	3209.7.29 = {
+		death = yes
+	}
+}
+302450 = {
+	name = "Ozhmeg"
+	dynasty = 2001078	#Sosvan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302449
+	3174.4.23 = {
+		birth = yes
+	}
+	3233.6.12 = {
+		death = yes
+	}
+}
+
+#Kazym (fictional)
+302451 = {
+	name = "Azeg"
+	dynasty = 2001079	#Kazymid
+	religion = siberian_pagan
+	culture = khanty
+	2825.2.13 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+302452 = {
+	name = "Sektev"
+	dynasty = 2001079	#Kazymid
+	religion = siberian_pagan
+	culture = khanty
+	father = 302451
+	2852.9.26 = {
+		birth = yes
+	}
+	2908.12.24 = {
+		death = yes
+	}
+}
+302453 = {
+	name = "Virdyan"
+	dynasty = 2001079	#Kazymid
+	religion = siberian_pagan
+	culture = khanty
+	3027.8.5 = {
+		birth = yes
+	}
+	3084.7.16 = {
+		death = yes
+	}
+}
+302454 = {
+	name = "Pyera"
+	dynasty = 2001079	#Kazymid
+	religion = siberian_pagan
+	culture = khanty
+	father = 302453
+	3053.9.14 = {
+		birth = yes
+	}
+	3116.1.18 = {
+		death = yes
+	}
+}
+302455 = {
+	name = "Rayda"
+	dynasty = 2001079	#Kazymid
+	religion = siberian_pagan
+	culture = khanty
+	father = 302454
+	3076.2.10 = {
+		birth = yes
+	}
+	3133.1.14 = {
+		death = yes
+	}
+}
+302456 = {
+	name = "Vechkas"
+	dynasty = 2001079	#Kazymid
+	religion = siberian_pagan
+	culture = khanty
+	father = 302455
+	3106.10.20 = {
+		birth = yes
+	}
+	3170.5.24 = {
+		death = yes
+	}
+}
+302457 = {
+	name = "Pyera"
+	dynasty = 2001079	#Kazymid
+	religion = siberian_pagan
+	culture = khanty
+	father = 302456
+	3133.6.22 = {
+		birth = yes
+	}
+	3191.3.22 = {
+		death = yes
+	}
+}
+302458 = {
+	name = "Kezhay"
+	dynasty = 2001079	#Kazymid
+	religion = siberian_pagan
+	culture = khanty
+	father = 302457
+	3164.4.27 = {
+		birth = yes
+	}
+	3229.8.16 = {
+		death = yes
+	}
+}
+
+#Koda (fictional)
+302459 = {
+	name = "Deryab"
+	dynasty = 2001080	#Kodaar
+	religion = siberian_pagan
+	culture = khanty
+	2840.5.14 = {
+		birth = yes
+	}
+	2887.11.28 = {
+		death = yes
+	}
+}
+302460 = {
+	name = "Biur"
+	dynasty = 2001080	#Kodaar
+	religion = siberian_pagan
+	culture = khanty
+	father = 302459
+	2866.1.16 = {
+		birth = yes
+	}
+	2918.1.13 = {
+		death = yes
+	}
+}
+302461 = {
+	name = "Ylvan"
+	dynasty = 2001080	#Kodaar
+	religion = siberian_pagan
+	culture = khanty
+	3047.2.17 = {
+		birth = yes
+	}
+	3106.8.25 = {
+		death = yes
+	}
+}
+302462 = {
+	name = "Lysko"
+	dynasty = 2001080	#Kodaar
+	religion = siberian_pagan
+	culture = khanty
+	father = 302461
+	3067.10.22 = {
+		birth = yes
+	}
+	3124.9.15 = {
+		death = yes
+	}
+}
+302463 = {
+	name = "Nuyat"
+	dynasty = 2001080	#Kodaar
+	religion = siberian_pagan
+	culture = khanty
+	father = 302462
+	3096.12.18 = {
+		birth = yes
+	}
+	3161.4.30 = {
+		death = yes
+	}
+}
+302464 = {
+	name = "Onika"
+	dynasty = 2001080	#Kodaar
+	religion = siberian_pagan
+	culture = khanty
+	father = 302463
+	3119.5.8 = {
+		birth = yes
+	}
+	3177.1.11 = {
+		death = yes
+	}
+}
+302465 = {
+	name = "Nuyanza"
+	dynasty = 2001080	#Kodaar
+	religion = siberian_pagan
+	culture = khanty
+	father = 302464
+	3149.6.1 = {
+		birth = yes
+	}
+	3209.2.22 = {
+		death = yes
+	}
+}
+302466 = {
+	name = "Irter"
+	dynasty = 2001080	#Kodaar
+	religion = siberian_pagan
+	culture = khanty
+	father = 302465
+	3169.3.1 = {
+		birth = yes
+	}
+	3228.4.9 = {
+		death = yes
+	}
+}
+
+#Belogorje (fictional)
+302467 = {
+	name = "Gazheg"
+	dynasty = 2001081	#Belogorjian
+	religion = siberian_pagan
+	culture = khanty
+	2826.8.19 = {
+		birth = yes
+	}
+	2880.2.25 = {
+		death = yes
+	}
+}
+302468 = {
+	name = "Dondy"
+	dynasty = 2001081	#Belogorjian
+	religion = siberian_pagan
+	culture = khanty
+	father = 302467
+	2847.2.12 = {
+		birth = yes
+	}
+	2907.5.23 = {
+		death = yes
+	}
+}
+302469 = {
+	name = "Zyryan"
+	dynasty = 2001081	#Belogorjian
+	religion = siberian_pagan
+	culture = khanty
+	3035.9.24 = {
+		birth = yes
+	}
+	3105.3.20 = {
+		death = yes
+	}
+}
+302470 = {
+	name = "Tuhan"
+	dynasty = 2001081	#Belogorjian
+	religion = siberian_pagan
+	culture = khanty
+	father = 302469
+	3061.1.24 = {
+		birth = yes
+	}
+	3090.8.14 = {
+		death = yes
+	}
+}
+302471 = {
+	name = "Vokan"
+	dynasty = 2001081	#Belogorjian
+	religion = siberian_pagan
+	culture = khanty
+	father = 302470
+	3089.8.8 = {
+		birth = yes
+	}
+	3120.1.23 = {
+		death = yes
+	}
+}
+302472 = {
+	name = "Yirkap"
+	dynasty = 2001081	#Belogorjian
+	religion = siberian_pagan
+	culture = khanty
+	father = 302471
+	3113.12.3 = {
+		birth = yes
+	}
+	3154.4.16 = {
+		death = yes
+	}
+}
+302473 = {
+	name = "Rayda"
+	dynasty = 2001081	#Belogorjian
+	religion = siberian_pagan
+	culture = khanty
+	father = 302472
+	3138.10.15 = {
+		birth = yes
+	}
+	3226.7.14 = {
+		death = yes
+	}
+}
+302474 = {
+	name = "Zhuneg"
+	dynasty = 2001081	#Belogorjian
+	religion = siberian_pagan
+	culture = khanty
+	father = 302473
+	3165.8.17 = {
+		birth = yes
+	}
+	3221.6.6 = {
+		death = yes
+	}
+}
+
+#Bardak (fictional)
+302475 = {
+	name = "Ovtay"
+	dynasty = 2001082	#Bardaki
+	religion = siberian_pagan
+	culture = khanty
+	2835.12.3 = {
+		birth = yes
+	}
+	2898.3.12 = {
+		death = yes
+	}
+}
+302476 = {
+	name = "Kezhay"
+	dynasty = 2001082	#Bardaki
+	religion = siberian_pagan
+	culture = khanty
+	father = 302475
+	2867.9.5 = {
+		birth = yes
+	}
+	2924.10.4 = {
+		death = yes
+	}
+}
+302477 = {
+	name = "Oshypel"
+	dynasty = 2001082	#Bardaki
+	religion = siberian_pagan
+	culture = khanty
+	3028.7.21 = {
+		birth = yes
+	}
+	3085.4.21 = {
+		death = yes
+	}
+}
+302478 = {
+	name = "Pyera"
+	dynasty = 2001082	#Bardaki
+	religion = siberian_pagan
+	culture = khanty
+	father = 302477
+	3056.9.16 = {
+		birth = yes
+	}
+	3118.8.23 = {
+		death = yes
+	}
+}
+302479 = {
+	name = "Meltsayka"
+	dynasty = 2001082	#Bardaki
+	religion = siberian_pagan
+	culture = khanty
+	father = 302478
+	3080.8.7 = {
+		birth = yes
+	}
+	3141.9.14 = {
+		death = yes
+	}
+}
+302480 = {
+	name = "Varaka"
+	dynasty = 2001082	#Bardaki
+	religion = siberian_pagan
+	culture = khanty
+	father = 302479
+	3106.3.22 = {
+		birth = yes
+	}
+	3133.6.16 = {
+		death = yes
+	}
+}
+302481 = {
+	name = "Meltsayka"
+	dynasty = 2001082	#Bardaki
+	religion = siberian_pagan
+	culture = khanty
+	father = 302480
+	3133.4.17 = {
+		birth = yes
+	}
+	3170.11.14 = {
+		death = yes
+	}
+}
+302482 = {
+	name = "Varaka"
+	dynasty = 2001082	#Bardaki
+	religion = siberian_pagan
+	culture = khanty
+	father = 302481
+	3162.11.6 = {
+		birth = yes
+	}
+	3221.12.19 = {
+		death = yes
+	}
+}
+
+#Konda (3)
+302483 = {
+	name = "Syrka"
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	2819.5.13 = {
+		birth = yes
+	}
+	2841.3.5 = {
+		add_spouse = 302484
+	}
+	2871.8.20 = {
+		death = yes
+	}
+}
+302484 = {
+	name = "Avya"
+	female = yes
+	religion = siberian_pagan
+	culture = khanty
+	2824.11.14 = {
+		birth = yes
+	}
+	2892.3.2 = {
+		death = yes
+	}
+}
+302485 = {
+	name = "Litava"
+	female = yes
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	father = 302483
+	mother = 302484
+	2847.2.1 = {
+		birth = yes
+	}
+	2914.10.8 = {
+		death = yes
+	}
+}
+302486 = {
+	name = "Viryay"
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	father = 302483
+	mother = 302484
+	2848.9.19 = {
+		birth = yes
+	}
+	2913.4.26 = {
+		death = yes
+	}
+}
+302487 = {
+	name = "Sektev"
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	father = 302483
+	mother = 302484
+	2852.11.13 = {
+		birth = yes
+	}
+	2916.4.11 = {
+		death = yes
+	}
+}
+302488 = {
+	name = "Uchva"
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	3013.8.13 = {
+		birth = yes
+	}
+	3066.4.21 = {
+		death = yes
+	}
+}
+302489 = {
+	name = "Oshama"
+	female = yes
+	religion = siberian_pagan
+	culture = khanty
+	3017.11.22 = {
+		birth = yes
+	}
+	3083.6.30 = {
+		death = yes
+	}
+}
+302490 = {
+	name = "Oshypel"
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	father = 302488
+	mother = 302489
+	#son = 302493
+	3041.12.7 = {
+		birth = yes
+	}
+	3096.8.19 = {
+		death = yes
+	}
+}
+302491 = {
+	name = "Koksha"
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	father = 302488
+	mother = 302489
+	#son = 302494
+	3043.9.16 = {
+		birth = yes
+	}
+	3102.1.3 = {
+		death = yes
+	}
+}
+302492 = {
+	name = "Syrka"
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	father = 302488
+	mother = 302489
+	3046.2.8 = {
+		birth = yes
+	}
+	3109.11.17 = {
+		death = yes
+	}
+}
+302493 = {
+	name = "Uchva"
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	father = 302490
+	3067.9.26 = {
+		birth = yes
+	}
+	3125.4.12 = {
+		death = yes
+	}
+}
+302494 = {
+	name = "Spira"
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	father = 302491
+	3068.1.12 = {
+		birth = yes
+	}
+	3128.3.9 = {
+		death = yes
+	}
+}
+302495 = {
+	name = "Koksha"
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	father = 302494
+	3097.4.11 = {
+		birth = yes
+	}
+	3157.7.21 = {
+		death = yes
+	}
+}
+302496 = {
+	name = "Spira"
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	father = 302495
+	3124.7.20 = {
+		birth = yes
+	}
+	3172.6.16 = {
+		death = yes
+	}
+}
+302497 = {
+	name = "Oshypel"
+	dynasty = 2001083	#Kondair
+	religion = siberian_pagan
+	culture = khanty
+	father = 302496
+	3151.8.9 = {
+		birth = yes
+	}
+	3210.12.24 = {
+		death = yes
+	}
+}
+
+#Pelym (2)
+302498 = {
+	name = "Odeg"
+	dynasty = 2001084	#Pelymis
+	religion = siberian_pagan
+	culture = khanty
+	2823.3.12 = {
+		birth = yes
+	}
+	2872.8.14 = {
+		death = yes
+	}
+}
+302499 = {
+	name = "Kezhapa"
+	dynasty = 2001084	#Pelymis
+	religion = siberian_pagan
+	culture = khanty
+	father = 302498
+	2851.11.27 = {
+		birth = yes
+	}
+	2884.4.30 = {
+		death = yes
+	}
+}
+302500 = {
+	name = "Shypicha"
+	dynasty = 2001084	#Pelymis
+	religion = siberian_pagan
+	culture = khanty
+	father = 302498
+	2849.8.13 = {
+		birth = yes
+	}
+	2907.1.2 = {
+		death = yes
+	}
+}
+302501 = {
+	name = "Kuaz"
+	dynasty = 2001084	#Pelymis
+	religion = siberian_pagan
+	culture = khanty
+	3019.2.9 = {
+		birth = yes
+	}
+	3066.7.18 = {
+		death = yes
+	}
+}
+302502 = {
+	name = "Zyryan"
+	dynasty = 2001084	#Pelymis
+	religion = siberian_pagan
+	culture = khanty
+	father = 302501
+	3046.4.20 = {
+		birth = yes
+	}
+	3108.5.16 = {
+		death = yes
+	}
+}
+302503 = {
+	name = "Zhebeg"
+	dynasty = 2001084	#Pelymis
+	religion = siberian_pagan
+	culture = khanty
+	father = 302501
+	3047.8.3 = {
+		birth = yes
+	}
+	3092.8.17 = {
+		death = yes
+	}
+}
+302504 = {
+	name = "Rateg"
+	dynasty = 2001084	#Pelymis
+	religion = siberian_pagan
+	culture = khanty
+	father = 302502
+	3074.7.21 = {
+		birth = yes
+	}
+	3129.4.9 = {
+		death = yes
+	}
+}
+302505 = {
+	name = "Vokan"
+	dynasty = 2001084	#Pelymis
+	religion = siberian_pagan
+	culture = khanty
+	father = 302504
+	3104.2.12 = {
+		birth = yes
+	}
+	3152.12.30 = {
+		death = yes
+	}
+}
+302506 = {
+	name = "Meltsayka"
+	dynasty = 2001084	#Pelymis
+	religion = siberian_pagan
+	culture = khanty
+	father = 302505
+	3128.11.18 = {
+		birth = yes
+	}
+	3168.11.3 = {
+		death = yes
+	}
+}
+302507 = {
+	name = "Chuga"
+	dynasty = 2001084	#Pelymis
+	religion = siberian_pagan
+	culture = khanty
+	father = 302506
+	3157.2.5 = {
+		birth = yes
+	}
+	3216.1.11 = {
+		death = yes
+	}
+}
+302508 = {
+	name = "Inzhay"
+	dynasty = 2001084	#Pelymis
+	religion = siberian_pagan
+	culture = khanty
+	father = 302507
+	3180.6.22 = {
+		birth = yes
+	}
+	3240.9.16 = {
+		death = yes
+	}
+}
+#Tabary (2)
+302509 = {
+	name = "Arti"
+	dynasty = 2001085	#Tabaryan
+	religion = siberian_pagan
+	culture = khanty
+	2816.1.26 = {
+		birth = yes
+	}
+	2847.9.13 = {
+		death = yes
+	}
+}
+302510 = {
+	name = "Yalgava"
+	female = yes
+	dynasty = 2001085	#Tabaryan
+	religion = siberian_pagan
+	culture = khanty
+	2818.11.22 = {
+		birth = yes
+	}
+	2888.6.30 = {
+		death = yes
+	}
+}
+302511 = {
+	name = "Vergava"
+	female = yes
+	dynasty = 2001085	#Tabaryan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302509
+	mother = 302510
+	2844.7.13 = {
+		birth = yes
+	}
+	2916.11.11 = {
+		death = yes
+	}
+}
+302512 = {
+	name = "Pivtsay"
+	dynasty = 2001085	#Tabaryan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302509
+	mother = 302510
+	2847.4.8 = {
+		birth = yes
+	}
+	2873.9.22 = {
+		death = yes
+	}
+}
+302513 = {
+	name = "Pakstyan"
+	dynasty = 2001085	#Tabaryan
+	religion = siberian_pagan
+	culture = khanty
+	mother = 302510
+	2850.12.13 = {
+		birth = yes
+	}
+	2909.3.1 = {
+		death = yes
+	}
+}
+302514 = {
+	name = "Sarin"
+	dynasty = 2001085	#Tabaryan
+	religion = siberian_pagan
+	culture = khanty
+	3047.3.16 = {
+		birth = yes
+	}
+	3067.5.21 = {
+		add_spouse = 302515
+	}
+	3103.8.15 = {
+		death = yes
+	}
+}
+302515 = {
+	name = "Inyava"
+	female = yes
+	religion = siberian_pagan
+	culture = khanty
+	3049.5.21 = {
+		birth = yes
+	}
+	3093.7.13 = {
+		death = yes
+	}
+}
+302516 = {
+	name = "Nalka"
+	dynasty = 2001085	#Tabaryan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302514
+	mother = 302515
+	3070.6.23 = {
+		birth = yes
+	}
+	3125.9.5 = {
+		death = yes
+	}
+}
+302517 = {
+	name = "Sarin"
+	dynasty = 2001085	#Tabaryan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302516
+	3092.8.9 = {
+		birth = yes
+	}
+	3133.12.18 = {
+		death = yes
+	}
+}
+302518 = {
+	name = "Nalka"
+	dynasty = 2001085	#Tabaryan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302517
+	3118.3.22 = {
+		birth = yes
+	}
+	3165.6.30 = {
+		death = yes
+	}
+}
+302519 = {
+	name = "Chuga"
+	dynasty = 2001085	#Tabaryan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302518
+	3139.12.16 = {
+		birth = yes
+	}
+	3198.7.19 = {
+		death = yes
+	}
+}
+302520 = {
+	name = "Nalka"
+	dynasty = 2001085	#Tabaryan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302519
+	3167.10.6 = {
+		birth = yes
+	}
+	3222.6.18 = {
+		death = yes
+	}
+}
+
+#Tyumen (2)
+302521 = {
+	name = "Arnaz"
+	dynasty = 2001086	#Tyumeni
+	religion = siberian_pagan
+	culture = khanty
+	2821.3.19 = {
+		birth = yes
+	}
+	2860.11.15 = {
+		death = yes
+	}
+}
+302522 = {
+	name = "Osh"
+	dynasty = 2001086	#Tyumeni
+	religion = siberian_pagan
+	culture = khanty
+	father = 302521
+	2847.6.3 = {
+		birth = yes
+	}
+	2910.8.12 = {
+		death = yes
+	}
+}
+302523 = {
+	name = "Oshmar"
+	dynasty = 2001086	#Tyumeni
+	religion = siberian_pagan
+	culture = khanty
+	father = 302521
+	2847.6.3 = {
+		birth = yes
+	}
+	2911.8.12 = {
+		death = yes
+	}
+}
+302524 = {
+	name = "Onika"
+	dynasty = 2001086	#Tyumeni
+	religion = siberian_pagan
+	culture = khanty
+	3037.9.1 = {
+		birth = yes
+	}
+	3086.11.23 = {
+		death = yes
+	}
+}
+302525 = {
+	name = "Aymort"
+	dynasty = 2001086	#Tyumeni
+	religion = siberian_pagan
+	culture = khanty
+	father = 302524
+	3066.6.7 = {
+		birth = yes
+	}
+	3133.10.2 = {
+		death = yes
+	}
+}
+302526 = {
+	name = "Malyy"
+	dynasty = 2001086	#Tyumeni
+	religion = siberian_pagan
+	culture = khanty
+	father = 302525
+	3095.4.11 = {
+		birth = yes
+	}
+	3147.12.29 = {
+		death = yes
+	}
+}
+302527 = {
+	name = "Virdyan"
+	dynasty = 2001086	#Tyumeni
+	religion = siberian_pagan
+	culture = khanty
+	father = 302526
+	3119.3.24 = {
+		birth = yes
+	}
+	3176.8.16 = {
+		death = yes
+	}
+}
+302528 = {
+	name = "Vokan"
+	dynasty = 2001086	#Tyumeni
+	religion = siberian_pagan
+	culture = khanty
+	father = 302527
+	3145.5.18 = {
+		birth = yes
+	}
+	3206.5.4 = {
+		death = yes
+	}
+}
+302529 = {
+	name = "Uchva"
+	dynasty = 2001086	#Tyumeni
+	religion = siberian_pagan
+	culture = khanty
+	father = 302528
+	3168.9.17 = {
+		birth = yes
+	}
+	3227.4.21 = {
+		death = yes
+	}
+}
+
+#Tobol-Sibir (2)
+302530 = {
+	name = "Pemka"
+	female = yes
+	dynasty = 2001087	#Tobolik
+	religion = siberian_pagan
+	culture = khanty
+	2831.8.11 = {
+		birth = yes
+	}
+	2850.5.30 = {
+		add_matrilineal_spouse = 302531
+	}
+	2898.1.12 = {
+		death = yes
+	}
+}
+302531 = {
+	name = "Parush"
+	religion = siberian_pagan
+	culture = khanty
+	2835.6.14 = {
+		birth = yes
+	}
+	2879.9.8 = {
+		death = yes
+	}
+}
+302532 = {
+	name = "Nyv"
+	female = yes
+	dynasty = 2001087	#Tobolik
+	religion = siberian_pagan
+	culture = khanty
+	mother = 302530
+	father = 302531
+	2854.12.17 = {
+		birth = yes
+	}
+	2926.3.22 = {
+		death = yes
+	}
+}
+302533 = {
+	name = "Mel_shay"
+	female = yes
+	dynasty = 2001087	#Tobolik
+	religion = siberian_pagan
+	culture = khanty
+	mother = 302530
+	father = 302531
+	2857.4.3 = {
+		birth = yes
+	}
+	2927.4.16 = {
+		death = yes
+	}
+}
+302534 = {
+	name = "Pyera"
+	dynasty = 2001087	#Tobolik
+	religion = siberian_pagan
+	culture = khanty
+	mother = 302530
+	father = 302531
+	2862.6.21 = {
+		birth = yes
+	}
+	2916.12.10 = {
+		death = yes
+	}
+}
+302535 = {
+	name = "Aymort"
+	dynasty = 2001087	#Tobolik
+	religion = siberian_pagan
+	culture = khanty
+	3038.7.27 = {
+		birth = yes
+	}
+	3093.9.8 = {
+		death = yes
+	}
+}
+302536 = {
+	name = "Shonzhava"
+	female = yes
+	dynasty = 2001087	#Tobolik
+	religion = siberian_pagan
+	culture = khanty
+	father = 302535
+	3062.3.21 = {
+		birth = yes
+	}
+	3128.8.13 = {
+		death = yes
+	}
+}
+302537 = {
+	name = "Slyugan_ka"
+	female = yes
+	dynasty = 2001087	#Tobolik
+	religion = siberian_pagan
+	culture = khanty
+	father = 302535
+	3064.4.14 = {
+		birth = yes
+	}
+	3132.11.22 = {
+		death = yes
+	}
+}
+302538 = {
+	name = "Kyldysin"
+	dynasty = 2001087	#Tobolik
+	religion = siberian_pagan
+	culture = khanty
+	father = 302536
+	3086.1.16 = {
+		birth = yes
+	}
+	3143.2.27 = {
+		death = yes
+	}
+}
+302539 = {
+	name = "Aymort"
+	dynasty = 2001087	#Tobolik
+	religion = siberian_pagan
+	culture = khanty
+	father = 302538
+	3111.3.26 = {
+		birth = yes
+	}
+	3171.7.1 = {
+		death = yes
+	}
+}
+302540 = {
+	name = "Pivtsay"
+	dynasty = 2001087	#Tobolik
+	religion = siberian_pagan
+	culture = khanty
+	father = 302539
+	3135.5.21 = {
+		birth = yes
+	}
+	3193.12.11 = {
+		death = yes
+	}
+}
+302541 = {
+	name = "Tuhan"
+	dynasty = 2001087	#Tobolik
+	religion = siberian_pagan
+	culture = khanty
+	father = 302540
+	3159.2.10 = {
+		birth = yes
+	}
+	3221.11.30 = {
+		death = yes
+	}
+}
+
+#Ishim (3)
+302542 = {
+	name = "Burmort"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	2817.3.13 = {
+		birth = yes
+	}
+	2847.8.22 = {
+		death = yes
+	}
+}
+302543 = {
+	name = "Rayda"
+	female = yes
+	religion = siberian_pagan
+	culture = khanty
+	2822.7.16 = {
+		birth = yes
+	}
+	2889.4.29 = {
+		death = yes
+	}
+}
+302544 = {
+	name = "Kezhedey"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302542
+	mother = 302543
+	2843.6.19 = {
+		birth = yes
+	}
+	2902.9.30 = {
+		death = yes
+	}
+}
+302545 = {
+	name = "Kudym-Osh"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302542
+	mother = 302543
+	2844.2.13 = {
+		birth = yes
+	}
+	2899.11.25 = {
+		death = yes
+	}
+}
+302546 = {
+	name = "Oshama"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	3020.3.22 = {
+		birth = yes
+	}
+	3041.6.21 = {
+		add_spouse = 302547
+	}
+	3072.8.19 = {
+		death = yes
+	}
+}
+302547 = {
+	name = "Uchva"
+	female = yes
+	religion = siberian_pagan
+	culture = khanty
+	3023.12.15 = {
+		birth = yes
+	}
+	#spouse = 302546
+	3092.7.9 = {
+		death = yes
+	}
+}
+302548 = {
+	name = "Tugan"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302546
+	mother = 302547
+	3043.2.22 = {
+		birth = yes
+	}
+	3085.4.17 = {
+		death = yes
+	}
+}
+302549 = {
+	name = "Tuhan"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302546
+	mother = 302547
+	3044.6.21 = {
+		birth = yes
+	}
+	3088.11.27 = {
+		death = yes
+	}
+}
+302550 = {
+	name = "Turush"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302546
+	mother = 302547
+	3047.10.9 = {
+		birth = yes
+	}
+	3092.9.10 = {
+		death = yes
+	}
+}
+302551 = {
+	name = "Tyutyuk"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302546
+	mother = 302547
+	3049.8.5 = {
+		birth = yes
+	}
+	3100.11.13 = {
+		death = yes
+	}
+}
+302552 = {
+	name = "Kya"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302548
+	3068.1.13 = {
+		birth = yes
+	}
+	3091.3.22 = {
+		death = yes
+	}
+}
+302553 = {
+	name = "Pokshayka"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302552
+	3091.2.15 = {
+		birth = yes
+	}
+	3148.9.30 = {
+		death = yes
+	}
+}
+302554 = {
+	name = "Azeg"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302549
+	3070.4.19 = {
+		birth = yes
+	}
+	3091.6.23 = {
+		add_spouse = 302555
+	}
+	3158.4.19 = {
+		death = yes
+	}
+}
+302555 = {
+	name = "Azra-Va"
+	female = yes
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302551
+	3074.9.11 = {
+		birth = yes
+	}
+	3158.4.19 = {
+		death = yes
+	}
+}
+302556 = {
+	name = "Tugan"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302554
+	mother = 302555
+	trait = inbred
+	trait = intellect_bad_2
+	trait = clubfooted
+	3092.4.23 = {
+		birth = yes
+	}
+	3113.4.22 = {
+		death = yes
+	}
+}
+302557 = {
+	name = "Tuhan"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302554
+	mother = 302555
+	trait = inbred
+	trait = intellect_bad_2
+	trait = albino
+	3093.4.23 = {
+		birth = yes
+	}
+	3109.6.29 = {
+		death = yes
+	}
+}
+302558 = {
+	name = "Turush"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302554
+	mother = 302555
+	trait = inbred
+	trait = intellect_bad_2
+	trait = weak
+	3097.9.11 = {
+		birth = yes
+	}
+	3098.7.18 = {
+		death = yes
+	}
+}
+302559 = {
+	name = "Tyutyuk"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302554
+	mother = 302555
+	trait = inbred
+	trait = intellect_bad_2
+	trait = hunchbacked
+	3102.5.1 = {
+		birth = yes
+	}
+	3121.7.10 = {
+		death = yes
+	}
+}
+302560 = {
+	name = "Azeg"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302554
+	mother = 302555
+	trait = intellect_good_3
+	trait = strong
+	trait = education_martial_4
+	3113.1.11 = {
+		birth = yes
+	}
+	3150.3.22 = {
+		add_spouse = 302561
+	}
+	3209.12.25 = {
+		death = yes
+	}
+}
+302561 = {
+	name = "Tundya"
+	female = yes
+	religion = siberian_pagan
+	culture = khanty
+	father = 302554
+	mother = 302555
+	trait = beauty_good_3
+	trait = education_learning_3
+	3132.6.21 = {
+		birth = yes
+	}
+	3203.9.4 = {
+		death = yes
+	}
+}
+302562 = {
+	name = "Aymort"
+	dynasty = 2001088	#Ishimir
+	religion = siberian_pagan
+	culture = khanty
+	father = 302560
+	mother = 302561
+	trait = intellect_good_1
+	trait = beauty_good_1
+	3167.5.8 = {
+		birth = yes
+	}
+	3209.11.11 = {
+		death = yes
+	}
+}
+
+#Tara (2)
+302563 = {
+	name = "Mosheg"
+	dynasty = 2001089	#Taran
+	religion = siberian_pagan
+	culture = khanty
+	2826.1.16 = {
+		birth = yes
+	}
+	2876.9.3 = {
+		death = yes
+	}
+}
+302564 = {
+	name = "Chuga"
+	dynasty = 2001089	#Taran
+	religion = siberian_pagan
+	culture = khanty
+	father = 302563
+	2849.2.10 = {
+		birth = yes
+	}
+	2911.8.15 = {
+		death = yes
+	}
+}
+302565 = {
+	name = "Dergun"
+	dynasty = 2001089	#Taran
+	religion = siberian_pagan
+	culture = khanty
+	father = 302563
+	2850.4.12 = {
+		birth = yes
+	}
+	2903.2.13 = {
+		death = yes
+	}
+}
+302566 = {
+	name = "Zhuneg"
+	dynasty = 2001089	#Taran
+	religion = siberian_pagan
+	culture = khanty
+	3028.7.20 = {
+		birth = yes
+	}
+	3072.8.11 = {
+		death = yes
+	}
+}
+302567 = {
+	name = "Biyar"
+	dynasty = 2001089	#Taran
+	religion = siberian_pagan
+	culture = khanty
+	father = 302566
+	3053.3.14 = {
+		birth = yes
+	}
+	3104.5.8 = {
+		death = yes
+	}
+}
+302568 = {
+	name = "Zhuneg"
+	dynasty = 2001089	#Taran
+	religion = siberian_pagan
+	culture = khanty
+	father = 302567
+	3075.12.9 = {
+		birth = yes
+	}
+	3122.1.13 = {
+		death = yes
+	}
+}
+302569 = {
+	name = "Upurga"
+	female = yes
+	dynasty = 2001089	#Taran
+	religion = siberian_pagan
+	culture = khanty
+	father = 302568
+	3103.11.24 = {
+		birth = yes
+	}
+	3166.10.13 = {
+		death = yes
+	}
+}
+302570 = {
+	name = "Vechkas"
+	dynasty = 2001089	#Taran
+	religion = siberian_pagan
+	culture = khanty
+	father = 302569
+	3123.5.26 = {
+		birth = yes
+	}
+	3182.9.27 = {
+		death = yes
+	}
+}
+302571 = {
+	name = "Velmayka"
+	dynasty = 2001089	#Taran
+	religion = siberian_pagan
+	culture = khanty
+	father = 302570
+	3153.7.8 = {
+		birth = yes
+	}
+	3213.8.16 = {
+		death = yes
+	}
+}
+
+#Sabakyul (2)
+302581 = {
+	name = "Slyugan_ka"
+	female = yes
+	dynasty = 2001091	#Sabakyr
+	religion = siberian_pagan
+	culture = khanty
+	2824.7.12 = {
+		birth = yes
+	}
+	2866.2.23 = {
+		death = yes
+	}
+}
+302582 = {
+	name = "Deryab"
+	dynasty = 2001091	#Sabakyr
+	religion = siberian_pagan
+	culture = khanty
+	mother = 302581
+	2844.9.18 = {
+		birth = yes
+	}
+	2905.6.3 = {
+		death = yes
+	}
+}
+302583 = {
+	name = "Zhebeg"
+	dynasty = 2001091	#Sabakyr
+	religion = siberian_pagan
+	culture = khanty
+	mother = 302581
+	2846.1.27 = {
+		birth = yes
+	}
+	2920.5.14 = {
+		death = yes
+	}
+}
+302584 = {
+	name = "Malyaka"
+	dynasty = 2001091	#Sabakyr
+	religion = siberian_pagan
+	culture = khanty
+	3035.4.24 = {
+		birth = yes
+	}
+	3093.3.5 = {
+		death = yes
+	}
+}
+302585 = {
+	name = "Rayda"
+	dynasty = 2001091	#Sabakyr
+	religion = siberian_pagan
+	culture = khanty
+	father = 302584
+	3059.1.3 = {
+		birth = yes
+	}
+	3103.1.27 = {
+		death = yes
+	}
+}
+302586 = {
+	name = "Sangasa"
+	female = yes
+	dynasty = 2001091	#Sabakyr
+	religion = siberian_pagan
+	culture = khanty
+	father = 302585
+	3087.2.4 = {
+		birth = yes
+	}
+	3146.10.25 = {
+		death = yes
+	}
+}
+302587 = {
+	name = "Zarny"
+	dynasty = 2001091	#Sabakyr
+	religion = siberian_pagan
+	culture = khanty
+	mother = 302586
+	3117.12.30 = {
+		birth = yes
+	}
+	3172.8.9 = {
+		death = yes
+	}
+}
+302588 = {
+	name = "Biur"
+	dynasty = 2001091	#Sabakyr
+	religion = siberian_pagan
+	culture = khanty
+	father = 302587
+	3141.7.25 = {
+		birth = yes
+	}
+	3161.6.4 = {
+		death = yes
+	}
+}
+302589 = {
+	name = "Elyuva"
+	female = yes
+	dynasty = 2001091	#Sabakyr
+	religion = siberian_pagan
+	culture = khanty
+	father = 302588
+	3160.3.8 = {
+		birth = yes
+	}
+	3219.3.19 = {
+		death = yes
+	}
+}
+302590 = {
+	name = "Biur"
+	dynasty = 2001091	#Sabakyr
+	religion = siberian_pagan
+	culture = khanty
+	mother = 302589
+	3184.11.15 = {
+		birth = yes
+	}
+	3250.12.22 = {
+		death = yes
+	}
+}
+#
+302926 = {
+	name = Uchva
+	dynasty = 2001127	#fictional Avran
+	religion = siberian_pagan
+	culture = khanty
+	2839.2.13 = {
+		birth = yes
+	}
+	2910.8.24 = {
+		death = yes
+	}
+}
+302927 = {
+	name = Tyutyuk
+	dynasty = 2001127	#fictional Avran
+	religion = siberian_pagan
+	culture = khanty
+	3045.9.13 = {
+		birth = yes
+	}
+	3107.10.28 = {
+		death = yes
+	}
+}
+302928 = {
+	name = Koksha
+	dynasty = 2001127	#fictional Avran
+	religion = siberian_pagan
+	culture = khanty
+	father = 302927
+	3076.11.6 = {
+		birth = yes
+	}
+	3134.5.17 = {
+		death = yes
+	}
+}
+302929 = {
+	name = Azeg
+	dynasty = 2001127	#fictional Avran
+	religion = siberian_pagan
+	culture = khanty
+	father = 302928
+	3105.3.16 = {
+		birth = yes
+	}
+	3160.1.4 = {
+		death = yes
+	}
+}
+302930 = {
+	name = Biur
+	dynasty = 2001127	#fictional Avran
+	religion = siberian_pagan
+	culture = khanty
+	father = 302929
+	3133.4.15 = {
+		birth = yes
+	}
+	3190.12.4 = {
+		death = yes
+	}
+}
+302931 = {
+	name = Zhuneg
+	dynasty = 2001128	#fictional Yuga
+	religion = siberian_pagan
+	culture = khanty
+	2844.8.5 = {
+		birth = yes
+	}
+	2909.3.22 = {
+		death = yes
+	}
+}
+302932 = {
+	name = Nydog
+	dynasty = 2001128	#fictional Yuga
+	religion = siberian_pagan
+	culture = khanty
+	3040.12.5 = {
+		birth = yes
+	}
+	3062.5.5 = {
+		add_spouse = 302933
+	}
+	3101.9.14 = {
+		death = yes
+	}
+}
+302933 = {
+	name = Nyal_ka
+	female = yes
+	religion = siberian_pagan
+	culture = khanty
+	3044.11.18 = {
+		birth = yes
+	}
+	3097.6.13 = {
+		death = yes
+	}
+}
+302934 = {
+	name = Inyava
+	female = yes
+	dynasty = 2001128	#fictional Yuga
+	religion = siberian_pagan
+	culture = khanty
+	father = 302932
+	mother = 302933
+	3064.7.18 = {
+		birth = yes
+	}
+	3118.4.9 = {
+		death = yes
+	}
+}
+302935 = {
+	name = Gazheg
+	dynasty = 2001128	#fictional Yuga
+	religion = siberian_pagan
+	culture = khanty
+	father = 302932
+	mother = 302933
+	3066.1.13 = {
+		birth = yes
+	}
+	3123.2.24 = {
+		death = yes
+	}
+}
+302936 = {
+	name = Mosheg
+	dynasty = 2001128	#fictional Yuga
+	religion = siberian_pagan
+	culture = khanty
+	father = 302935
+	3095.3.2 = {
+		birth = yes
+	}
+	3150.7.12 = {
+		death = yes
+	}
+}
+302937 = {
+	name = Chuga
+	dynasty = 2001128	#fictional Yuga
+	religion = siberian_pagan
+	culture = khanty
+	father = 302936
+	3119.6.11 = {
+		birth = yes
+	}
+	3183.9.9 = {
+		death = yes
+	}
+}
+302938 = {
+	name = Rayda
+	dynasty = 2001128	#fictional Yuga
+	religion = siberian_pagan
+	culture = khanty
+	father = 302937
+	3149.5.24 = {
+		birth = yes
+	}
+	3198.8.26 = {
+		death = yes
+	}
+}
+302939 = {
+	name = Spira
+	dynasty = 2001129	#fictional Hokhot
+	religion = siberian_pagan
+	culture = khanty
+	2833.7.23 = {
+		birth = yes
+	}
+	2854.4.11 = {
+		add_spouse = 302940
+	}
+	2876.2.16 = {
+		death = yes
+	}
+}
+302940 = {
+	name = Upurga
+	female = yes
+	religion = siberian_pagan
+	culture = khanty
+	2834.1.2 = {
+		birth = yes
+	}
+	2910.11.6 = {
+		death = yes
+	}
+}
+302941 = {
+	name = Lyneg
+	dynasty = 2001129	#fictional Hohkot
+	religion = siberian_pagan
+	culture = khanty
+	father = 302939
+	mother = 302940
+	2856.2.9 = {
+		birth = yes
+	}
+	2913.5.2 = {
+		death = yes
+	}
+}
+302942 = {
+	name = Kanyuva
+	female = yes
+	dynasty = 2001129	#fictional Hokhot
+	religion = siberian_pagan
+	culture = khanty
+	father = 302939
+	mother = 302940
+	2859.9.11 = {
+		birth = yes
+	}
+	2923.8.4 = {
+		death = yes
+	}
+}
+302943 = {
+	name = Hulyen
+	dynasty = 2001129	#fictional Hokhot
+	religion = siberian_pagan
+	culture = khanty
+	3012.1.13 = {
+		birth = yes
+	}
+	3037.5.22 = {
+		add_spouse = 302944
+	}
+	3070.11.16 = {
+		death = yes
+	}
+}
+302944 = {
+	name = Parava
+	female = yes
+	religion = siberian_pagan
+	culture = khanty
+	3020.3.18 = {
+		birth = yes
+	}
+	3080.6.9 = {
+		death = yes
+	}
+}
+302945 = {
+	name = Oshmar
+	dynasty = 2001129	#fictional Hokhot
+	religion = siberian_pagan
+	culture = khanty
+	father = 302943
+	mother = 302944
+	3044.1.20 = {
+		birth = yes
+	}
+	3107.8.7 = {
+		death = yes
+	}
+}
+302946 = {
+	name = Nuyanza
+	dynasty = 2001129	#fictional Hokhot
+	religion = siberian_pagan
+	culture = khanty
+	father = 302943
+	mother = 302944
+	3046.7.10 = {
+		birth = yes
+	}
+	3077.6.17 = {
+		death = yes
+	}
+}
+302947 = {
+	name = Dokya
+	dynasty = 2001129	#fictional Hokhot
+	religion = siberian_pagan
+	culture = khanty
+	father = 302943
+	mother = 302944
+	3049.4.9 = {
+		birth = yes
+	}
+	3100.3.23 = {
+		death = yes
+	}
+}
+302948 = {
+	name = Onika
+	dynasty = 2001129	#fictional Hokhot
+	religion = siberian_pagan
+	culture = khanty
+	father = 302945
+	3071.3.18 = {
+		birth = yes
+	}
+	3126.3.3 = {
+		death = yes
+	}
+}
+302949 = {
+	name = Odeg
+	dynasty = 2001129	#fictional Hokhot
+	religion = siberian_pagan
+	culture = khanty
+	father = 302948
+	3101.4.1 = {
+		birth = yes
+	}
+	3162.5.8 = {
+		death = yes
+	}
+}
+302950 = {
+	name = Osh
+	dynasty = 2001129	#fictional Hokhot
+	religion = siberian_pagan
+	culture = khanty
+	father = 302949
+	3128.7.8 = {
+		birth = yes
+	}
+	3180.9.9 = {
+		death = yes
+	}
+}
+302951 = {
+	name = Oshmar
+	dynasty = 2001129	#fictional Hokhot
+	religion = siberian_pagan
+	culture = khanty
+	father = 302950
+	3152.2.2 = {
+		birth = yes
+	}
+	3202.6.14 = {
+		death = yes
+	}
+}
+302952 = {
+	name = Kezhay
+	dynasty = 2001130	#fictional Kalyuk
+	religion = siberian_pagan
+	culture = khanty
+	2843.12.16 = {
+		birth = yes
+	}
+	2911.6.12 = {
+		death = yes
+	}
+}
+302953 = {
+	name = Tuhan
+	dynasty = 2001130	#fictional Kalyuk
+	religion = siberian_pagan
+	culture = khanty
+	3039.5.2 = {
+		birth = yes
+	}
+	3095.9.3 = {
+		death = yes
+	}
+}
+302954 = {
+	name = Syrka
+	dynasty = 2001130	#fictional Kalyuk
+	religion = siberian_pagan
+	culture = khanty
+	father = 302953
+	3070.11.4 = {
+		birth = yes
+	}
+	3125.7.13 = {
+		death = yes
+	}
+}
+302955 = {
+	name = Zyryan
+	dynasty = 2001130	#fictional Kalyuk
+	religion = siberian_pagan
+	culture = khanty
+	father = 302954
+	3097.10.21 = {
+		birth = yes
+	}
+	3158.8.30 = {
+		death = yes
+	}
+}
+302956 = {
+	name = Shypicha
+	dynasty = 2001130	#fictional Kalyuk
+	religion = siberian_pagan
+	culture = khanty
+	father = 302955
+	3121.1.2 = {
+		birth = yes
+	}
+	3178.9.14 = {
+		death = yes
+	}
+}
+302957 = {
+	name = Zhebeg
+	dynasty = 2001130	#fictional Kalyuk
+	religion = siberian_pagan
+	culture = khanty
+	father = 302956
+	3151.5.27 = {
+		birth = yes
+	}
+	3216.2.3 = {
+		death = yes
+	}
+}
+302958 = {
+	name = Yirkap
+	dynasty = 2001131	#fictional Kulyan
+	religion = siberian_pagan
+	culture = khanty
+	2851.5.6 = {
+		birth = yes
+	}
+	2906.3.18 = {
+		death = yes
+	}
+}
+302959 = {
+	name = Ylvan
+	dynasty = 2001131	#fictional Kulyan
+	religion = siberian_pagan
+	culture = khanty
+	3045.9.11 = {
+		birth = yes
+	}
+	3105.5.9 = {
+		death = yes
+	}
+}
+302960 = {
+	name = Zarny
+	dynasty = 2001131	#fictional Kulyan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302959
+	3075.10.26 = {
+		birth = yes
+	}
+	3133.6.17 = {
+		death = yes
+	}
+}
+302961 = {
+	name = Odeg
+	dynasty = 2001131	#fictional Kulyan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302960
+	3101.2.14 = {
+		birth = yes
+	}
+	3159.7.30 = {
+		death = yes
+	}
+}
+302962 = {
+	name = Nuyanza
+	dynasty = 2001131	#fictional Kulyan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302961
+	3129.3.2 = {
+		birth = yes
+	}
+	3184.3.3 = {
+		death = yes
+	}
+}
+302963 = {
+	name = Odeg
+	dynasty = 2001131	#fictional Kulyan
+	religion = siberian_pagan
+	culture = khanty
+	father = 302962
+	3151.4.22 = {
+		birth = yes
+	}
+	3202.8.6 = {
+		death = yes
+	}
+}
+302964 = {
+	name = Virdyan
+	dynasty = 2001132	#fictional Goktak
+	religion = siberian_pagan
+	culture = khanty
+	2847.4.17 = {
+		birth = yes
+	}
+	2909.11.30 = {
+		death = yes
+	}
+}
+302965 = {
+	name = Rateg
+	dynasty = 2001132	#fictional Goktak
+	religion = siberian_pagan
+	culture = khanty
+	3044.6.25 = {
+		birth = yes
+	}
+	3110.12.29 = {
+		death = yes
+	}
+}
+302966 = {
+	name = Biyar
+	dynasty = 2001132	#fictional Goktak
+	religion = siberian_pagan
+	culture = khanty
+	father = 302965
+	3070.4.18 = {
+		birth = yes
+	}
+	3128.11.2 = {
+		death = yes
+	}
+}
+302967 = {
+	name = Pyera
+	dynasty = 2001132	#fictional Goktak
+	religion = siberian_pagan
+	culture = khanty
+	father = 302966
+	3100.4.14 = {
+		birth = yes
+	}
+	3159.5.11 = {
+		death = yes
+	}
+}
+302968 = {
+	name = Vokan
+	dynasty = 2001132	#fictional Goktak
+	religion = siberian_pagan
+	culture = khanty
+	father = 302967
+	3126.7.18 = {
+		birth = yes
+	}
+	3170.9.3 = {
+		death = yes
+	}
+}
+302969 = {
+	name = Kyldysin
+	dynasty = 2001132	#fictional Goktak
+	religion = siberian_pagan
+	culture = khanty
+	father = 302968
+	3153.6.16 = {
+		birth = yes
+	}
+	3232.4.30 = {
+		death = yes
+	}
+}

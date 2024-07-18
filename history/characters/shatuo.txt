@@ -1,0 +1,97 @@
+﻿#Tang vassals of Xing - fictional placeholders
+shatuo0001 = {
+	name="Hao"
+	dynasty=2003094 #Xing
+	religion="mahayana"
+	culture="shatuo"
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+shatuo0002 = {
+	name="Gao"
+	dynasty=2003094 #Xing
+	religion="mahayana"
+	culture="shatuo"
+	father=shatuo0001
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+shatuo0003 = {
+	name="Dan"
+	dynasty=2003094 #Xing
+	religion="mahayana"
+	culture="shatuo"
+	father=shatuo0002
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+shatuo0004 = {
+	name="Kai"
+	dynasty=2003094 #Xing
+	religion="mahayana"
+	culture="shatuo"
+	father=shatuo0003
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+shatuo0005 = {
+	name="Luo"
+	dynasty=2003094 #Xing
+	religion="mahayana"
+	culture="shatuo"
+	father=shatuo0004
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+shatuo0006 = {
+	name="Qi"
+	dynasty=2003094 #Xing
+	religion="mahayana"
+	culture="shatuo"
+	father=shatuo0005
+	2842.1.1={
+		birth=yes
+	}
+	2889.1.1={
+		death=yes
+	}
+}
+
+shatuo0007 = {
+	name="Jun"
+	dynasty=2003094 #Xing
+	religion="mahayana"
+	culture="shatuo"
+	father=shatuo0006
+	2862.1.1={
+		birth=yes
+	}
+	2889.1.1={
+		death=yes
+	}
+}

@@ -1,0 +1,1659 @@
+﻿# Characters: 251177 - 251299
+# Dynasties: 1060027 - 1060034
+
+# Katsina and Hausa fathers founders
+# but first their placeholder ancestors.
+#251177 = {
+	#name = "Durbawa"  #placeholder ancestor
+	#dynasty = 1060027 #Durbawa
+	#religion = west_african_bori_pagan
+	#culture = levantine
+	#2752.1.1 = {
+		#birth = yes
+		#culture = hausa
+	#}
+	#2827.1.1 = {
+		#death = yes
+	#}
+#}
+#251178 = {
+	#name = "Kumayo" #placeholder ancestor
+	#dynasty = 1060027 #Durbawa
+	#religion = west_african_bori_pagan
+	#culture = levantine
+	#father = 251177
+	#2795.1.1 = {
+		#birth = yes
+		#culture = hausa
+	#}
+	#2862.1.1 = {
+		#death = yes
+	#}
+#}
+#251179 = {
+	#name = "Bauwo" #placeholder ancestor
+	#dynasty = 1060027 #Durbawa
+	#religion = west_african_bori_pagan
+	#culture = levantine
+	#father = 251178
+	#2822.1.1 = {
+		#birth = yes
+		#culture = hausa
+	#}
+	#2867.1.1 = {
+		#death = yes
+	#}
+#}
+
+# now the Hausa fathers founders
+251180 = {
+	name = "Bayajidda"  #grandfather of founders of Hausa city states
+	dynasty = 1060027 #Durbawa
+	religion = ashari
+	culture = levantine
+
+	#Skills & Health
+	diplomacy = 8
+	martial = 12
+	stewardship = 7
+	intrigue = 10
+	learning = 10
+	prowess = 10
+	#Education
+	trait = education_martial_3
+	#Personality
+	trait = humble
+	trait = brave
+	trait = ambitious
+	#Other
+	trait = lifestyle_hunter
+	trait = strategist
+	trait = adventurer
+
+	disallow_random_traits = yes
+
+	2836.1.1 = {
+		birth = yes
+	}
+	2861.1.1 = {
+		employer = 248709 #Arrives in Bornu.
+	}
+	2862.1.1 = {
+		add_spouse = 251185 #Marriage to Magaram
+		effect = {
+			set_relation_rival = { target = character:248710 reason = rival_historical } #Bayajida has a very complex relationship with his wife's father [248710], but Fune dies early, apparently, so we pass the relationship on to his son for the sake of drama.
+		}
+	}
+	2863.1.1 = {
+		#First son by Magaram is born.
+	}
+	2864.1.1 = {
+		#Flees Bornu.
+	}
+	2865.1.1 = {
+		#Arrives in Garun Gabas, c_katagum.
+	}
+	2866.1.1 = {
+		remove_spouse = 251185	#Magaram becomes a secondary wife.
+		effect = {	#^... Which Bori cannot have, so we make her a concubine.
+			make_concubine = character:251185
+		}
+	}
+	2867.1.1 = {
+		#Arrives in Daura, c_daura. Below events are listed chronologically, hence the multiple effects.
+		faith = "west_african_bori_pagan"	#Bayajidda adapts to his new realm.
+		effect = {
+			give_nickname = nick_the_slayer_of_the_snake	#Kills Sarki, a colossal snake.
+		}
+		add_matrilineal_spouse = 251187	#Marries Daurama.
+		add_concubine = 251224 #Who cannot yet consumate it, so she gives him Bagwariya as a concubine to make up.
+		#TIT-18261
+	}
+	2868.1.1 = {
+		#Karbagari, Bayajidda's son by Bagwariya, is born.
+	}
+	2912.1.1 = {
+		death = yes
+	}
+}
+
+251181 = {
+	name = "Bawo" # father of founders of Hausa city states
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251180
+	mother = 251187
+	2869.1.1 = {
+		birth = yes
+	}
+	2983.1.1 = { #958
+		death = yes
+	}
+}
+251188 = {
+	name = "Durbawa"  #placeholder Katsina to 1015
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251186
+	2912.1.1 = {
+		birth = yes
+	}
+	2978.1.1 = {
+		death = yes
+	}
+}
+251204 = {
+	name = "Biram" #placeholder Katsina to 1015
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251188
+	2962.1.1 = {
+		birth = yes
+	}
+	3017.1.1 = {
+		death = yes
+	}
+}
+251182 = {
+	name = "Kumayo" #Katsina 1015 - 1066
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251204
+	3007.1.1 = {
+		birth = yes
+	}
+	3069.1.1 = {
+		death = yes
+	}
+}
+251183 = {
+	name = "Janzama"	#Katsina 1067 - 1109
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251182
+	3047.1.1 = {
+		birth = yes
+	}
+	3084.1.1 = {
+		add_spouse = 251184
+	}
+	3111.1.1 = {
+		death = yes
+	}
+}
+251184 = {
+	name = "Kacinna" #wife of Janzama, city of Katsina bears her name, princess of Daura
+	female = yes
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	3064.1.1 = {
+		birth = yes
+	}
+	3084.1.1 = {
+		add_spouse = 251183
+	}
+	3130.1.1 = {
+		death = yes
+	}
+}
+
+251185 = {
+	name = "Magira" #first wife of Bayajiddah
+	female = yes
+	dynasty = 1059975	#Duguwa
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248709
+
+	#Skills & Health
+	diplomacy = 8
+	martial = 7
+	stewardship = 7
+	intrigue = 6
+	learning = 10
+	prowess = 7
+	#Education
+	trait = education_diplomacy_2
+	#Personality
+	trait = humble
+	trait = compassionate
+	trait = forgiving
+	#Other
+	trait = reclusive	#Not much known about her other than her son's birth.
+
+	disallow_random_traits = yes
+
+	2842.1.1 = {
+		birth = yes
+	}
+	2867.1.1 = {
+		culture = hausa	#Bayajidda's family adapts to his new realm.
+	}
+	2902.1.1 = {
+		death = yes
+	}
+}
+251186 = {
+	name = "Biram" #son of Bayajiddah and his first wife Magira
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 251180
+	mother = 251185
+	2863.1.1 = {
+		birth = yes
+	}
+	2867.1.1 = {
+		culture = hausa	#Bayajidda's family adapts to his new realm.
+	}
+	2942.1.1 = {
+		death = yes
+	}
+}
+251187 = {
+	name = "Daurama" #Queen of Daura and second wife of Bayajiddah
+	dna = 251187_daurama_daura
+	female = yes
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	mother = 251203
+
+	#Skills & Health
+	diplomacy = 10
+	martial = 10
+	stewardship = 10
+	intrigue = 10
+	learning = 10
+	prowess = 8
+	#Education
+	trait = education_diplomacy_3
+	#Personality
+	trait = just
+	trait = honest
+	trait = trusting
+	#Other
+	trait = lifestyle_mystic
+	trait = diplomat
+
+	disallow_random_traits = yes
+	sexuality = heterosexual
+
+	2844.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}
+	}
+	2860.1.1 = {
+		add_trait = celibate	#Took a vow of celibacy, presumably on entering adulthood.
+	}
+	2868.2.2 = {
+		add_spouse = 251180
+	}
+	2869.1.1 = {
+		remove_trait = celibate	#Went through rituals to remove celibacy so she could consumate her marriage.
+		effect = {
+			set_relation_rival = { target = character:251224 reason = rival_historical }	#Rivalry with Bagwariya confirmed with the birth of Bawo, Daurama's child.
+		}
+	}
+	2912.1.1 = {
+		death = yes
+	}
+}
+
+
+# Daura
+251189 = {
+	name = "Daura"  #son of Bauwo, semi-mythical "founder of Daura"
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251181
+	mother = 251254
+	2947.1.1 = {
+		birth = yes
+	}
+	3017.1.1 = {
+		death = yes
+	}
+}
+251190 = {
+	name = "Kazuru" #Daura after 1000
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251189
+	2992.1.1 = {
+		birth = yes
+	}
+	3010.1.1 = {
+		add_spouse = 251191
+	}
+	3036.1.1 = {
+		death = yes
+	}
+}
+251191 = {
+	name = "Bulu" #Daura 1005 - 1025
+	female = yes
+	religion = west_african_bori_pagan
+	culture = hausa
+	2994.1.1 = {
+		birth = yes
+	}
+	3010.1.1 = {
+		add_spouse = 251190
+	}
+	3027.1.1 = {
+		death = yes
+	}
+}
+251192 = {
+	name = "Kazuru" #Daura 1025 - 1070
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251190
+	mother = 251191
+	3014.1.1 = {
+		birth = yes
+	}
+	3072.1.1 = {
+		death = yes
+	}
+}
+251193 = {
+	name = "Atuma" #Daura 1070 - 1109 placeholder
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251192
+	3045.1.1 = {
+		birth = yes
+	}
+	3111.1.1 = {
+		death = yes
+	}
+}
+251194 = {
+	name = "Nawata" #Daura placeholder
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251193
+	3078.1.1 = {
+		birth = yes
+	}
+	3138.1.1 = {
+		death = yes
+	}
+}
+251195 = {
+	name = "Kazuru" #Daura placeholder
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251194
+	3120.1.1 = {
+		birth = yes
+	}
+	3172.1.1 = {
+		death = yes
+	}
+}
+251196 = {
+	name = "Bauwo" #Daura placeholder
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251195
+	3148.1.1 = {
+		birth = yes
+	}
+	3212.1.1 = {
+		death = yes
+	}
+}
+251197 = {
+	name = "Faizu" #Daura placeholder
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251196
+	3182.1.1 = {
+		birth = yes
+	}
+	3248.1.1 = {
+		death = yes
+	}
+}
+251198 = {
+	name = "Danjuma" #Daura placeholder
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251197
+	3218.1.1 = {
+		birth = yes
+	}
+	3291.1.1 = {
+		death = yes
+	}
+}
+251199 = {
+	name = "Warisi" #Daura placeholder
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251198
+	3255.1.1 = {
+		birth = yes
+	}
+	3312.1.1 = {
+		death = yes
+	}
+}
+251200 = {
+	name = "Atuma" #Daura placeholder
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251199
+	3288.1.1 = {
+		birth = yes
+	}
+	3342.1.1 = {
+		death = yes
+	}
+}
+251201 = {
+	name = "Rumfa" #Daura placeholder
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251200
+	3315.1.1 = {
+		birth = yes
+	}
+	3372.1.1 = {
+		death = yes
+	}
+}
+251202 = {
+	name = "Najibu" #Legendary first king of Daura 2000 BC
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	2752.1.1 = {
+		birth = yes
+	}
+	2814.1.1 = {
+		death = yes
+	}
+}
+251203 = {
+	name = "Shawata" #Queen of Daura
+	female = yes
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251202
+	2812.1.1 = {
+		birth = yes
+	}
+	2865.1.1 = {
+		death = yes
+	}
+}
+
+#rulers of Katsina after Janzama
+251205 = {
+	name = "Korau"	#Katsina placeholder 1109 - 1138
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251183
+	mother = 251184
+	3088.1.1 = {
+		birth = yes
+	}
+	3140.1.1 = {
+		death = yes
+	}
+}
+251206 = {
+	name = "Barau"	#Katsina placeholder 1138 - 1183
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251205
+	3122.1.1 = {
+		birth = yes
+	}
+	3185.1.1 = {
+		death = yes
+	}
+}
+251207 = {
+	name = "Malam"	#Katsina placeholder 1183 - 1218
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251206
+	3159.1.1 = {
+		birth = yes
+	}
+	3220.1.1 = {
+		death = yes
+	}
+}
+
+
+# Kano
+251208 = {
+	name = "Dala" #Kano 866 - 890 - founder
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251181
+	2952.1.1 = {
+		birth = yes
+	}
+	3001.1.1 = {
+		death = yes
+	}
+}
+251209 = {
+	name = "Bagauda" #Kano 999 - 1063
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251208
+	2985.1.1 = {
+		birth = yes
+	}
+	3065.1.1 = {
+		death = yes
+	}
+}
+251210 = {
+	name = "Warisi" #Kano 1063 - 1095
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251209
+	3042.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+251211 = {
+	name = "Gijimasu" #Kano 1095 - 1134
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251210
+	3082.1.1 = {
+		birth = yes
+	}
+	3136.1.1 = {
+		death = yes
+	}
+}
+251212 = {
+	name = "Nawata" #Kano 1134 - 1136
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251211
+	3104.1.1 = {
+		birth = yes
+	}
+	3138.1.1 = {
+		death = yes
+	}
+}
+251213 = {
+	name = "Tsaraki" #Kano 1136 - 1194
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251211
+	3118.1.1 = {
+		birth = yes
+	}
+	3196.1.1 = {
+		death = yes
+	}
+}
+251214 = {
+	name = "Yusa"
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251213
+	3142.1.1 = {
+		birth = yes
+	}
+	3192.1.1 = {
+		death = yes
+	}
+}
+251215 = {
+	name = "Naguji" #Kano 1194 - 1247
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251214
+	3172.1.1 = {
+		birth = yes
+	}
+	3249.1.1 = {
+		death = yes
+	}
+}
+251216 = {
+	name = "Gugwa" #Kano 1247 - 1290
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251215
+	3222.1.1 = {
+		birth = yes
+	}
+	3292.1.1 = {
+		death = yes
+	}
+}
+251217 = {
+	name = "Shekarau" #Kano 1290 - 1307
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251216
+	3262.1.1 = {
+		birth = yes
+	}
+	3309.1.1 = {
+		death = yes
+	}
+}
+251218 = {
+	name = "Tsamiya" #Kano 1307 - 1343
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251217
+	3290.1.1 = {
+		birth = yes
+	}
+	3345.1.1 = {
+		death = yes
+	}
+}
+251219 = {
+	name = "Usman Zamnagawa" #Kano 1343 - 1349
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251218
+	3308.1.1 = {
+		birth = yes
+	}
+	3339.1.1 = {
+		religion = "sunni"
+	}
+	3351.1.1 = {
+		death = yes
+	}
+}
+251220 = {
+	name = "Yaji" #Kano 1349 - 1385
+	dynasty = 1060029 #Habe
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251219
+	3332.1.1 = {
+		birth = yes
+	}
+	3339.1.1 = {
+		religion = "sunni"
+	}
+	3387.1.1 = {
+		death = yes
+	}
+}
+251221 = {
+	name = "Bugaya" #Kano 1385 - 1390
+	dynasty = 1060029 #Habe
+	religion = "sunni"
+	culture = hausa
+	father = 251220
+	3357.1.1 = {
+		birth = yes
+	}
+	3392.1.1 = {
+		death = yes
+	}
+}
+251222 = {
+	name = "Kanajeji" #Kano 1390 - 1410
+	dynasty = 1060029 #Habe
+	religion = "sunni"
+	culture = hausa
+	father = 251221
+	3376.1.1 = {
+		birth = yes
+	}
+	3412.1.1 = {
+		death = yes
+	}
+}
+
+# Zamfara
+251223 = {
+	name = "Karbo" #A.K.A. Karbogari father of founders of Zamfara, Gobir and Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251180
+	mother = 251224
+	trait = child_of_concubine_female
+	2868.1.1 = {
+		birth = yes
+	}
+	2953.1.1 = {
+		death = yes
+	}
+}
+251224 = {
+	name = "Bagwariya" #concubine of Bayajiddah
+	female = yes
+	religion = west_african_bori_pagan
+	culture = hausa
+
+	#Skills & Health
+	diplomacy = 2	#Who names their child to spite their consort's husband?
+	martial = 4
+	stewardship = 4
+	intrigue = 8	#Can't deny she had ambition.
+	learning = 8
+	prowess = 5
+	#Education
+	trait = education_intrigue_1
+	#Personality
+	trait = deceitful
+	trait = arbitrary
+	trait = ambitious
+	#Other
+	trait = schemer
+	trait = beauty_good_2
+
+	2847.1.1 = {
+		birth = yes
+	}
+	2867.1.1 = {
+		#Daurama cannot yet consumate her marriage, so she gives her husband Bagwariya as a concubine to make up.
+	}
+	2868.1.1 = {
+		#Karbagari, Bayajidda's son by Bagwariya, is born.
+	}
+	2869.1.1 = {
+		#Daurama confirms her rivalry with Bagwariya.
+	}
+	2912.1.1 = {
+		death = yes
+	}
+}
+251225 = {
+	name = "Fodio" # placeholder
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251223
+	2942.1.1 = {
+		birth = yes
+	}
+	3012.1.1 = {
+		death = yes
+	}
+}
+251226 = {
+	name = "Abarshi" # placeholder
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251225
+	2992.1.1 = {
+		birth = yes
+	}
+	3057.1.1 = {
+		death = yes
+	}
+}
+251227 = {
+	name = "Yerima" # placeholder
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251226
+	3042.1.1 = {
+		birth = yes
+	}
+	3098.1.1 = {
+		death = yes
+	}
+}
+251228 = {
+	name = "Abarshi" # placeholder
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251227
+	3067.1.1 = {
+		birth = yes
+	}
+	3121.1.1 = {
+		death = yes
+	}
+}
+251229 = {
+	name = "Fodio" # placeholder
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251228
+	3099.1.1 = {
+		birth = yes
+	}
+	3155.1.1 = {
+		death = yes
+	}
+}
+251230 = {
+	name = "Yerima" # placeholder
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251229
+	3132.1.1 = {
+		birth = yes
+	}
+	3191.1.1 = {
+		death = yes
+	}
+}
+251231 = {
+	name = "Abarshi" # placeholder
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251230
+	3164.1.1 = {
+		birth = yes
+	}
+	3218.1.1 = {
+		death = yes
+	}
+}
+
+
+# Gobir
+251232 = {
+	name = "Dala" #Placeholder
+	dynasty = 1060032 #Gabas
+	religion = west_african_bori_pagan
+	culture = hausa
+	2743.1.1 = {
+		birth = yes
+	}
+	2808.1.1 = {
+		death = yes
+	}
+}
+251233 = {
+	name = "Garin" #Placeholder
+	dynasty = 1060032 #Gabas
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251232
+	2788.1.1 = {
+		birth = yes
+	}
+	2845.1.1 = {
+		death = yes
+	}
+}
+251234 = {
+	name = "Dala" #Placeholder
+	dynasty = 1060032 #Gabas
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251233
+	2829.1.1 = {
+		birth = yes
+	}
+	2868.1.1 = {
+		death = yes
+	}
+}
+251235 = {
+	name = "Garin_Gabas" #Gobir 866 - 900
+	dynasty = 1060032 #Gabas
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251234
+	2852.1.1 = {
+		birth = yes
+	}
+	2902.1.1 = {
+		death = yes
+	}
+}
+#251236-251237 are added later to later Zamfara rulers
+251236 = {
+	name = "Yerima" # placeholder
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251231
+	3198.1.1 = {
+		birth = yes
+	}
+	3255.1.1 = {
+		death = yes
+	}
+}
+251237 = {
+	name = "Jatau" # placeholder
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251236
+	3232.1.1 = {
+		birth = yes
+	}
+	3294.1.1 = {
+		death = yes
+	}
+}
+
+#some more Gobirawa
+251238 = {
+	name = "Dala" #Gobir placeholder 951 - 1011
+	dynasty = 1060034 #Gobirawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251223
+	2942.1.1 = {
+		birth = yes
+	}
+	3013.1.1 = {
+		death = yes
+	}
+}
+251239 = {
+	name = "Garin" #Gobir placeholder 1011 - 1064
+	dynasty = 1060034 #Gobirawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251238
+	2995.1.1 = {
+		birth = yes
+	}
+	3066.1.1 = {
+		death = yes
+	}
+}
+251240 = {
+	name = "Dala" #Gobir 1064 - 1090
+	dynasty = 1060034 #Gobirawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251239
+	3046.1.1 = {
+		birth = yes
+	}
+	3092.1.1 = {
+		death = yes
+	}
+}
+251241 = {
+	name = "Bawo" #Gobir 1090 - 1130
+	dynasty = 1060034 #Gobirawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251240
+	3065.1.1 = {
+		birth = yes
+	}
+#	3098.1.1 = {
+#		trait = sympathy_islam
+#	}
+	3132.1.1 = {
+		death = yes
+	}
+}
+251242 = {
+	name = "Abdullahi" #Gobir 1130 - 1159
+	dynasty = 1060034 #Gobirawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251241
+#	trait = sympathy_islam
+	3098.1.1 = {
+		birth = yes
+	}
+	3161.1.1 = {
+		death = yes
+	}
+}
+251243 = {
+	name = "Yakubu" #Gobir 1159 - 1180
+	dynasty = 1060034 #Gobirawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251242
+#	trait = sympathy_islam
+	3125.1.1 = {
+		birth = yes
+	}
+	3182.1.1 = {
+		death = yes
+	}
+}
+251244 = {
+	name = "Jalil" #Gobir 1180 - 1213
+	dynasty = 1060034 #Gobirawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251241
+	3132.1.1 = {
+		birth = yes
+	}
+	3215.1.1 = {
+		death = yes
+	}
+}
+251245 = {
+	name = "Abdullahi" #Gobir 1213 - 1250
+	dynasty = 1060034 #Gobirawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251244
+	3198.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+251246 = {
+	name = "Yakubu" #Gobir 1250 - 1289
+	dynasty = 1060034 #Gobirawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251245
+	3232.1.1 = {
+		birth = yes
+	}
+	3291.1.1 = {
+		death = yes
+	}
+}
+251247 = {
+	name = "Abdullahi" #Gobir 1289 - 1306
+	dynasty = 1060034 #Gobirawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251246
+	3263.1.1 = {
+		birth = yes
+	}
+	3305.1.1 = {
+		death = yes
+	}
+}
+251248 = {
+	name = "Abdullahi" #Gobir 1303 - 1309
+	dynasty = 1060034 #Gobirawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251247
+	3297.1.1 = {
+		birth = yes
+	}
+	3340.1.1 = {
+		death = yes
+	}
+}
+#1309 the Hausa of Gobir overthrown by Touaregs
+
+#some more Zamfara
+251249 = {
+	name = "Kumbari" # placeholder
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251237
+	3265.1.1 = {
+		birth = yes
+	}
+	3311.1.1 = {
+		death = yes
+	}
+}
+251250 = {
+	name = "Yerima" # placeholder
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251249
+	3299.1.1 = {
+		birth = yes
+	}
+	3352.1.1 = {
+		death = yes
+	}
+}
+
+# additional Daura placeholders
+251252 = {
+	name = "Shawata" #fantasy placeholder
+	female = yes
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	mother = 251203
+	2850.1.1 = {
+		birth = yes
+	}
+	2912.1.1 = {
+		death = yes
+	}
+}
+251253 = {
+	name = "Najibu" #fantasy placeholder
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	mother = 251252
+	2884.1.1 = {
+		birth = yes
+	}
+	2942.1.1 = {
+		death = yes
+	}
+}
+251254 = {
+	name = "Magajiva" #fantasy placeholder
+	female = yes
+	dynasty = 1060028 #Daura
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251253
+	2920.1.1 = {
+		birth = yes
+	}
+	2982.1.1 = {
+		death = yes
+	}
+}
+
+#placeholders for c_zaria - taken names of later kings (18cent)
+hausa0001 = {
+	name = "Bako"  #placeholder Zaria/Zazzau
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251186
+	2917.1.1 = {
+		birth = yes
+	}
+	2988.1.1 = {
+		death = yes
+	}
+}
+hausa0002 = {
+	name = "Burema"  #placeholder Zaria/Zazzau
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0001
+	2970.1.1 = {
+		birth = yes
+	}
+	3035.1.1 = {
+		death = yes
+	}
+}
+hausa0003 = {
+	name = "Bako"  #placeholder Zaria/Zazzau
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0002
+	3017.1.1 = {
+		birth = yes
+	}
+	3061.1.1 = {
+		death = yes
+	}
+}
+hausa0004 = {
+	name = "Sunkuru"  #placeholder Zaria/Zazzau
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0003
+	3045.1.1 = {
+		birth = yes
+	}
+	3107.1.1 = {
+		death = yes
+	}
+}
+hausa0005 = {
+	name = "Gunguma"  #placeholder Zaria/Zazzau
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0004
+	3068.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+hausa0006 = {
+	name = "Uban"  #placeholder Zaria/Zazzau
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0005
+	3101.1.1 = {
+		birth = yes
+	}
+	3155.1.1 = {
+		death = yes
+	}
+}
+hausa0007 = {
+	name = "Bawa"  #placeholder Zaria/Zazzau
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0006
+	3137.1.1 = {
+		birth = yes
+	}
+	3196.1.1 = {
+		death = yes
+	}
+}
+hausa0008 = {
+	name = "Ashakuka"  #placeholder Zaria/Zazzau
+	dynasty = 1060027 #Durbawa
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0007
+	3174.1.1 = {
+		birth = yes
+	}
+	3222.1.1 = {
+		death = yes
+	}
+}
+
+#legendary kings of Kebbi
+hausa0009 = {
+	name = "Zartai"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = 251223
+	2911.1.1 = {
+		birth = yes
+	}
+	2967.1.1 = {
+		death = yes
+	}
+}
+hausa0010 = {
+	name = "Gubarau"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0009
+	2932.1.1 = {
+		birth = yes
+	}
+	2978.1.1 = {
+		death = yes
+	}
+}
+hausa0011 = {
+	name = "Burunburun"  #legendary first king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	2822.1.1 = {
+		birth = yes
+	}
+	2872.1.1 = {
+		death = yes
+	}
+}
+hausa0012 = {
+	name = "Arguji"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0011
+	2852.1.1 = {
+		birth = yes
+	}
+	2910.1.1 = {
+		death = yes
+	}
+}
+hausa0013 = {
+	name = "Tabari"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0012
+	2884.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+hausa0014 = {
+	name = "Gatama"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0010
+	2952.1.1 = {
+		birth = yes
+	}
+	2998.1.1 = {
+		death = yes
+	}
+}
+hausa0015 = {
+	name = "Bardai"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0014
+	2975.1.1 = {
+		birth = yes
+	}
+	3040.1.1 = {
+		death = yes
+	}
+}
+hausa0016 = {
+	name = "Kudamdam"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0015
+	3014.1.1 = {
+		birth = yes
+	}
+	3071.1.1 = {
+		death = yes
+	}
+}
+hausa0017 = {
+	name = "Shirya"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0016
+	3043.1.1 = {
+		birth = yes
+	}
+	3101.1.1 = {
+		death = yes
+	}
+}
+hausa0018 = {
+	name = "DBadauji"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0017
+	3069.1.1 = {
+		birth = yes
+	}
+	3131.1.1 = {
+		death = yes
+	}
+}
+hausa0019 = {
+	name = "Karfau"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0018
+	3107.1.1 = {
+		birth = yes
+	}
+	3170.1.1 = {
+		death = yes
+	}
+}
+hausa0020 = {
+	name = "Dur-Kushi"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0019
+	3135.1.1 = {
+		birth = yes
+	}
+	3199.1.1 = {
+		death = yes
+	}
+}
+hausa0021 = {
+	name = "Kututuru"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0020
+	3167.1.1 = {
+		birth = yes
+	}
+	3217.1.1 = {
+		death = yes
+	}
+}
+hausa0022 = {
+	name = "Tamau"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0021
+	3195.1.1 = {
+		birth = yes
+	}
+	3258.1.1 = {
+		death = yes
+	}
+}
+hausa0023 = {
+	name = "Zaudai"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0022
+	3225.1.1 = {
+		birth = yes
+	}
+	3278.1.1 = {
+		death = yes
+	}
+}
+hausa0024 = {
+	name = "Kanta"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0023
+	3260.1.1 = {
+		birth = yes
+	}
+	3287.1.1 = {
+		religion = ashari
+	}
+	3311.1.1 = {
+		death = yes
+	}
+}
+hausa0025 = {
+	name = "Sulaymana"  #legendary king of Kebbi
+	dynasty = 1060030 #Karbo
+	religion = ashari
+	culture = hausa
+	father = hausa0024
+	3292.1.1 = {
+		birth = yes
+	}
+	3352.1.1 = {
+		death = yes
+	}
+}
+
+#rulers of c_katagum
+hausa0026 = {
+	name = "Zaudai"  #fictional
+	dynasty = hausadyn001
+	religion = west_african_bori_pagan
+	culture = hausa
+	2842.1.1 = {
+		birth = yes
+	}
+	2905.1.1 = {
+		death = yes
+	}
+}
+hausa0027 = {
+	name = "Zaudai"  #fictional
+	dynasty = hausadyn001
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0026
+	2887.1.1 = {
+		birth = yes
+	}
+	2957.1.1 = {
+		death = yes
+	}
+}
+hausa0028 = {
+	name = "Zaudai"  #fictional
+	dynasty = hausadyn001
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0027
+	2927.1.1 = {
+		birth = yes
+	}
+	2996.1.1 = {
+		death = yes
+	}
+}
+hausa0029 = {
+	name = "Zaudai"  #fictional
+	dynasty = hausadyn001
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0028
+	2978.1.1 = {
+		birth = yes
+	}
+	3037.1.1 = {
+		death = yes
+	}
+}
+hausa0030 = {
+	name = "Zaudai"  #fictional
+	dynasty = hausadyn001
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0029
+	3017.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+hausa0031 = {
+	name = "Zaudai"  #fictional
+	dynasty = hausadyn001
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0030
+	3062.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+hausa0032 = {
+	name = "Zaudai"  #fictional
+	dynasty = hausadyn001
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0031
+	3104.1.1 = {
+		birth = yes
+	}
+	3169.1.1 = {
+		death = yes
+	}
+}
+hausa0033 = {
+	name = "Zaudai"  #fictional
+	dynasty = hausadyn001
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0032
+	3142.1.1 = {
+		birth = yes
+	}
+	3200.1.1 = {
+		death = yes
+	}
+}
+hausa0034 = {
+	name = "Zaudai"  #fictional
+	dynasty = hausadyn001
+	religion = west_african_bori_pagan
+	culture = hausa
+	father = hausa0033
+	3179.1.1 = {
+		birth = yes
+	}
+	3248.1.1 = {
+		death = yes
+	}
+}

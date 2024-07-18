@@ -1,0 +1,302 @@
+﻿190455 = {
+	name = "Theoderic" #duke of Saxony
+	dynasty = 1044105 #Theodericing
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	2722.1.1 = {
+		birth = yes
+	}
+	2783.1.1 = {
+		death = yes
+	}
+}
+190456 = {
+	name = "Wichimann" #count of Altmark
+	dynasty = 1044105 #Theodericing
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	father = 190455
+	2743.1.1 = {
+		birth = yes
+	}
+	2783.1.1 = {
+		death = yes
+	}
+}
+190457 = {
+	name = "Bruno" #count of Brauschweig and Celle
+	dynasty = 669 #Liudolfing
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	2752.1.1 = {
+		birth = yes
+	}
+	2805.1.1 = {
+		death = yes
+	}
+}
+190458 = {
+	name = "Ekbert"
+	dynasty = 669 #Liudolfing
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	father = 190457
+	2771.1.1 = {
+		birth = yes
+	}
+	2803.1.1 = {
+		add_spouse = 190448
+	}
+	2838.1.1 = {
+		death = yes
+	}
+}
+190459 = {
+	name = "Warin"
+	dynasty = 669 #Liudolfing
+	religion = "catholic"
+	culture = "old_saxon"
+	father = 190458
+	mother = 190448
+	2793.1.1 = {
+		birth = yes
+	}
+	2858.9.20 = {
+		death = yes
+	}
+}
+190460 = {
+	name = "Liudolf"
+	dynasty = 669 #Liudolfing
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	father = 190457
+	2791.1.1 = {
+		birth = yes
+	}
+	2807.1.1 = {
+		add_spouse = 190469
+	}
+	2853.6.27 = {
+		death = yes
+	}
+}
+190461 = {
+	name = "Bovo"
+	dynasty = 669 #Liudolfing
+	religion = "catholic"
+	culture = "old_saxon"
+	father = 190457
+	2803.1.1 = {
+		birth = yes
+	}
+	2852.1.1 = {
+		death = yes
+	}
+}
+190462 = {
+	name = "Billung" #count of Osnabruck
+	dynasty = 656 #Billung
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	2723.1.1 = {
+		birth = yes
+	}
+	2773.1.1 = {
+		death = yes
+	}
+}
+190463 = {
+	name = "Amelung" #count of Gottingen
+	dynasty = 656 #Billung
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	father = 190462
+	2743.1.1 = {
+		birth = yes
+	}
+	2802.1.1 = {
+		death = yes
+	}
+}
+190464 = {
+	name = "Bennit"
+	dynasty = 656 #Billung
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	father = 190463
+	2761.1.1 = {
+		birth = yes
+	}
+	2816.1.1 = {
+		death = yes
+	}
+}
+190465 = {
+	name = "Enno"
+	dynasty = 656 #Billung
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	father = 190463
+	2770.1.1 = {
+		birth = yes
+	}
+	2830.1.1 = {
+		death = yes
+	}
+}
+190466 = {
+	name = "Lothar" #count of Oldenburg
+	dynasty = 661 #Udonen
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	2744.1.1 = {
+		birth = yes
+	}
+	2793.1.1 = {
+		death = yes
+	}
+}
+190467 = {
+	name = "Udo" #count of Oldenburg
+	dynasty = 661 #Udonen
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	father = 190466
+	2770.1.1 = {
+		birth = yes
+	}
+	2839.1.1 = {
+		death = yes
+	}
+}
+190468 = {
+	name = "Richfrid" #count of Bremen
+	dynasty = 1044106 #Richfriding
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	2743.1.1 = {
+		birth = yes
+	}
+	2799.1.1 = {
+		death = yes
+	}
+}
+190469 = {
+	name = "Richeit" #wife of Liudolf
+	female = yes
+	dynasty = 1044106 #Richfriding
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	father = 190468
+	2790.1.1 = {
+		birth = yes
+	}
+	2831.1.1 = {
+		death = yes
+	}
+}
+190470 = {
+	name = "Abo" #count of Lubeck
+	dynasty = 1044107 #Abonid
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	2753.1.1 = {
+		birth = yes
+	}
+	2813.1.1 = {
+		death = yes
+	}
+}
+190471 = {
+	name = "Smeldigoz" #count of Weimar
+	dynasty = 1044108 #Smeldiging
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	2755.1.1 = {
+		birth = yes
+	}
+	2812.1.1 = {
+		death = yes
+	}
+}
+190472 = {
+	name = "Unwan" #count of Munster
+	dynasty = 1044109 #Unwanid
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	2751.1.1 = {
+		birth = yes
+	}
+	2771.1.1 = {
+		add_spouse = 190476
+	}
+	2791.1.1 = {
+		death = yes
+	}
+}
+190473 = {
+	name = "Bernard"
+	dynasty = 1044109 #Unwanid
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	father = 190472
+	mother = 190476
+	2771.1.1 = {
+		birth = yes
+	}
+	2825.1.1 = {
+		death = yes
+	}
+}
+190474 = {
+	name = "Hesso" #count of Holstein
+	dynasty = 1044110 #Hessing
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	2739.1.1 = {
+		birth = yes
+	}
+	2806.1.1 = {
+		death = yes
+	}
+}
+190475 = {
+	name = "Hesso"
+	dynasty = 1044110 #Hessing
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	father = 190474
+	2770.1.1 = {
+		birth = yes
+	}
+	2848.1.1 = {
+		death = yes
+	}
+}
+190476 = {
+	name = "Gisela"
+	female = yes
+	dynasty = 1044110 #Hessing
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	father = 190474
+	2755.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+33250 = {
+	name = "Widukind"
+	dynasty = 7282
+	religion = "norse_pagan"
+	culture = "old_saxon"
+	2757.1.1 = {
+		birth = yes
+	}
+	2809.12.25 = {
+		death = yes
+	}
+}

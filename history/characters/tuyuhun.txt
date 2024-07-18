@@ -1,0 +1,2262 @@
+﻿#Murong dynasty of Tuyuhun
+
+247343 = {
+	name="Yesui"
+	female=yes
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247382 # Fuyun
+	#mother=247388
+	2613.1.1={
+		birth=yes
+	}
+	2661.1.1={
+		death=yes
+	}
+}
+
+247344 = {
+	name="Asha_Mangmorje"
+	female=yes
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247384 # Shun
+	2632.1.1={
+		birth=yes
+	}
+	2667.1.1={
+		death=yes
+	}
+}
+
+247345 = {
+	name="Shegui"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	2240.1.1={
+		birth=yes
+	}
+	2315.1.1={
+		death=yes
+	}
+}
+
+247346 = {
+	name="Tuyuhun"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247345
+	2262.1.1={
+		birth=yes
+	}
+	2319.1.1={
+		death=yes
+	}
+}
+
+247347 = {
+	name="Tuyan"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247346
+	2283.1.1={
+		birth=yes
+	}
+	2331.1.1={
+		death=yes
+	}
+}
+
+247348 = {
+	name="Yeyan"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247347
+	2307.1.1={
+		birth=yes
+	}
+	2353.1.1={
+		death=yes
+	}
+}
+
+247349 = {
+	name="Suixi"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247348
+	2325.1.1={
+		birth=yes
+	}
+	2373.1.1={
+		death=yes
+	}
+}
+
+247350 = {
+	name="Shilian"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247349
+	2342.1.1={
+		birth=yes
+	}
+	2392.1.1={
+		death=yes
+	}
+}
+
+247351 = {
+	name="Shipi"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247350
+	2358.1.1={
+		birth=yes
+	}
+	2402.1.1={
+		death=yes
+	}
+}
+
+247352 = {
+	name="Wugeti"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247350
+	2360.1.1={
+		birth=yes
+	}
+	2407.1.1={
+		death=yes
+	}
+}
+
+247353 = {
+	name="Shuluogan"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247351
+	2382.1.1={
+		birth=yes
+	}
+	2419.1.1={
+		death=yes
+	}
+}
+
+247354 = {
+	name="Tuhuzhen"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247351
+	2384.1.1={
+		birth=yes
+	}
+	2412.1.1={
+		death=yes
+	}
+}
+
+247355 = {
+	name="Achai"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247351
+	2388.1.1={
+		birth=yes
+	}
+	2426.1.1={
+		death=yes
+	}
+}
+
+247356 = {
+	name="Dangqi"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247351
+	2390.1.1={
+		birth=yes
+	}
+	2422.1.1={
+		death=yes
+	}
+}
+
+247357 = {
+	name="Mugui"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247352
+	2383.1.1={
+		birth=yes
+	}
+	2438.1.1={
+		death=yes
+	}
+}
+
+247358 = {
+	name="Muliyan"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247352
+	2391.1.1={
+		birth=yes
+	}
+	2454.1.1={
+		death=yes
+	}
+}
+
+247359 = {
+	name="Yuanxu"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247357
+	2402.1.1={
+		birth=yes
+	}
+	2442.1.1={
+		death=yes
+	}
+}
+
+247360 = {
+	name="Beinang"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247357
+	2406.1.1={
+		birth=yes
+	}
+	2450.1.1={
+		death=yes
+	}
+}
+
+247361 = {
+	name="Fanni"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247358
+	2409.1.1={
+		birth=yes
+	}
+	2451.1.1={
+		death=yes
+	}
+}
+
+247362 = {
+	name="Qiong"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247358
+	2412.1.1={
+		birth=yes
+	}
+	2442.1.1={
+		death=yes
+	}
+}
+
+247363 = {
+	name="Huan"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247358
+	2417.1.1={
+		birth=yes
+	}
+	2452.1.1={
+		death=yes
+	}
+}
+
+247364 = {
+	name="Weidai"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247355
+	2407.1.1={
+		birth=yes
+	}
+	2446.1.1={
+		death=yes
+	}
+}
+
+247365 = {
+	name="Chiliyan"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247355
+	2410.1.1={
+		birth=yes
+	}
+	2444.1.1={
+		death=yes
+	}
+}
+
+247366 = {
+	name="Toutui"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247355
+	2413.1.1={
+		birth=yes
+	}
+	2452.1.1={
+		death=yes
+	}
+}
+
+247367 = {
+	name="Shiqian"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247353
+	2401.1.1={
+		birth=yes
+	}
+	2448.1.1={
+		death=yes
+	}
+}
+
+247368 = {
+	name="Shiyin"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247353
+	2410.1.1={
+		birth=yes
+	}
+	2483.1.1={
+		death=yes
+	}
+}
+
+247369 = {
+	name="Shigui"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247353
+	2414.1.1={
+		birth=yes
+	}
+	2477.1.1={
+		death=yes
+	}
+}
+
+247370 = {
+	name="Shipi"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247353
+	2418.1.1={
+		birth=yes
+	}
+	2470.1.1={
+		death=yes
+	}
+}
+
+247371 = {
+	name="Duyihou"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247368
+	2435.1.1={
+		birth=yes
+	}
+	2492.1.1={
+		death=yes
+	}
+}
+
+247372 = {
+	name="Feidoujin"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247368
+	2439.1.1={
+		birth=yes
+	}
+	2485.1.1={
+		death=yes
+	}
+}
+
+247373 = {
+	name="Fulianchou"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247371
+	2465.1.1={
+		birth=yes
+	}
+	2531.1.1={
+		death=yes
+	}
+}
+
+247374 = {
+	name="Helutou"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247373
+	2483.1.1={
+		birth=yes
+	}
+	2522.1.1={
+		death=yes
+	}
+}
+
+247375 = {
+	name="Heluozhen"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247373
+	2486.1.1={
+		birth=yes
+	}
+	2532.1.1={
+		death=yes
+	}
+}
+
+247376 = {
+	name="Fofu"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247375
+	2503.1.1={
+		birth=yes
+	}
+	2536.1.1={
+		death=yes
+	}
+}
+
+247377 = {
+	name="Ketazhen"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247376
+	2520.1.1={
+		birth=yes
+	}
+	2542.1.1={
+		death=yes
+	}
+}
+
+247378 = {
+	name="Kualu"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247373
+	2519.1.1={
+		birth=yes
+	}
+	2593.1.1={
+		death=yes
+	}
+}
+
+247379 = {
+	name="Kebohan"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247378
+	2537.1.1={
+		birth=yes
+	}
+	2584.1.1={
+		death=yes
+	}
+}
+
+247380 = {
+	name="Weiwanghe"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247378
+	2540.1.1={
+		birth=yes
+	}
+	2590.1.1={
+		death=yes
+	}
+}
+
+247381 = {
+	name="Shifu"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247378
+	2542.1.1={
+		birth=yes
+	}
+	2598.1.1={
+		#add_spouse=247388
+	}
+	2599.1.1={
+		death=yes
+	}
+}
+
+247382 = {
+	name="Fuyun"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247378
+	2565.1.1={
+		birth=yes
+	}
+	2599.1.1={
+		#add_spouse=247388
+	}
+	2637.1.1={
+		death=yes
+	}
+}
+
+247383 = {
+	name="Zunwang"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247382
+	#mother=247388
+	2600.1.1={
+		birth=yes
+	}
+	2632.11.1={
+		death=yes
+	}
+}
+
+247384 = {
+	name="Shun"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247382
+	#mother=247388
+	2604.1.1={
+		birth=yes
+	}
+	2637.11.1={
+		death=yes
+	}
+}
+
+247385 = {
+	name="Nuohebo"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247384
+	2622.1.1={
+		birth=yes
+	}
+	2641.1.1={
+		#add_spouse=247389
+	}
+	#2674.1.1={
+		#add_claim = d_tuyuhun
+	#} #escapes to Tang China and is made a Huaiyi Prince
+	2690.1.1={
+		death=yes
+	}
+}
+
+247386 = {
+	name="Gui"
+	dynasty=105836 #Suhe
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	2622.1.1={
+		birth=yes
+	}
+	2667.1.1={
+		death=yes
+	}
+}
+
+247387 = {
+	name="Dayan"
+	dynasty=105836 #Suhe
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247386
+	2642.1.1={
+		birth=yes
+	}
+	2674.1.1={
+		death=yes
+	}
+}
+
+247392 = {
+	name="Sudumomo"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247385
+	#mother=247389
+	2642.1.1={
+		birth=yes
+	}
+	2666.1.1={
+		#add_spouse=247390
+	}
+	2666.6.1={
+		death=yes
+	}
+}
+
+247393 = {
+	name="Talumomo"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247385
+	#mother=247389
+	2646.1.1={
+		birth=yes
+	}
+	2666.6.1={
+		#add_spouse=247391
+		#add_concubine = 247390
+	}
+	2668.1.1={
+		death=yes
+	}
+}
+
+247394 = {
+	name="Zhong"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247385
+	#mother=247389
+	2652.1.1={
+		birth=yes
+	}
+	2668.1.1={
+		#add_spouse=247390
+		#add_concubine = 247391
+	}
+	#2690.1.1={
+		#add_claim = d_tuyuhun
+	#}
+	2715.1.1={
+		death=yes
+	}
+}
+
+247395 = {
+	name="Xuanchao"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247394
+	#mother=247390
+	2669.1.1={
+		birth=yes
+	}
+	2691.1.1={
+		#add_spouse=247722
+	}
+	#2715.1.1={
+		#add_claim = d_tuyuhun
+	#}
+	2727.1.1={
+		death=yes
+	}
+}
+
+247396 = {
+	name="Xuanchang"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	trait="child_of_concubine_female"
+	father=247394
+	#mother=247391
+	2673.1.1={
+		birth=yes
+	}
+	2708.1.1={
+		death=yes
+	}
+}
+
+247397 = {
+	name="Xuanche"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	trait="child_of_concubine_female"
+	father=247394
+	#mother=247391
+	2676.1.1={
+		birth=yes
+	}
+	2711.1.1={
+		death=yes
+	}
+}
+
+247398 = {
+	name="Chengfu"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247394
+	#mother=247391
+	2689.1.1={
+		birth=yes
+	}
+	2717.1.1={
+		death=yes
+	}
+}
+
+247399 = {
+	name="Xuanhao"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247396
+	2702.1.1={
+		birth=yes
+	}
+	2760.1.1={
+		death=yes
+	}
+}
+247400 = {
+	name="Weiying"
+	female=yes
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247399
+	2748.1.1={
+		birth=yes
+	}
+	#2771.1.1 = {
+		#employer = 244001
+	#}
+	2799.1.1={
+		death=yes
+	}
+}
+
+247401 = {
+	name="Xihao"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247395
+	#mother=247722
+	2710.1.1={
+		birth=yes
+	}
+	#2740.8.13={
+		#add_claim = d_tuyuhun
+	#}
+	2764.1.1={
+		death=yes
+	}
+}
+
+247402 = {
+	name="Xiang"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247395
+	#mother=247722
+	2713.1.1={
+		birth=yes
+	}
+	#2764.1.1={
+		#add_claim = d_tuyuhun
+	#}
+	2765.1.1={
+		death=yes
+	}
+}
+
+247403 = {
+	name="Zhao" #Claimant of Tuyuhun
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247721
+	#mother=247723
+	2732.1.1={
+		birth=yes
+	}
+	2764.1.1={
+		add_spouse=247400
+	}
+	#2765.1.1={
+		#add_claim = d_tuyuhun
+		#employer = 244001
+	#}#Claimant of Tuyuhun
+	2802.1.1={
+		death=yes
+	}
+}
+
+247404 = {
+	name="Wangqi"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247403
+	mother=247400
+	2768.1.1={
+		birth=yes
+		#employer = 244001
+	}
+	#2802.1.1={
+		#add_claim = d_tuyuhun
+	#}
+	2839.1.1={
+		death=yes
+	}
+}
+
+247405 = {
+	name="Muyan"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247404
+	2800.1.1={
+		birth=yes
+	}
+	#2839.1.1={
+		#add_claim = d_tuyuhun
+	#}
+	2860.1.1={
+		death=yes
+	}
+}
+
+247406 = {
+	name="Tuluhao"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247405
+	2828.1.1={
+		birth=yes
+	}
+	#2860.1.1={
+		#add_claim = d_tuyuhun
+	#}
+	2867.1.1={
+		death=yes
+	}
+}
+
+247407 = {
+	name="Fu" #Last known claimant of fallen Tuyuhun Kingdom
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247406
+	2847.1.1={
+		birth=yes
+	}
+	#2867.1.1={
+		#add_claim = d_tuyuhun
+	#}
+	#2869.1.1 = {
+		#employer = 206811
+	#}
+	2897.1.1={
+		death=yes
+	}
+}
+
+247721 = {
+	name="Xiguang"
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247395
+	#mother=247722
+	2692.8.17={
+		birth=yes
+	}
+	2724.1.1={
+		#add_spouse=247723
+	}
+	#2727.1.1={
+		#add_claim = d_tuyuhun
+	#}
+	2740.8.13={
+		death=yes
+	}
+}
+
+247724 = {
+	name="Yanjun"
+	female=yes
+	dynasty=105818 #Murong
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=247395
+	#mother=247722
+	2706.1.1={
+		birth=yes
+	}
+	#722 - Heqin marriage to tuyuhun prince Li Yuyu
+	2767.1.1={
+		death=yes
+	}
+}
+
+#Kumkol vassals - fictional placeholders
+305856 = {
+	name="Mugui"
+	dynasty=2003076 #Kumkol
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+305857 = {
+	name="Huang"
+	dynasty=2003076 #Kumkol
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=305856
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+305858 = {
+	name="Chong"
+	dynasty=2003076 #Kumkol
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=305857
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+305859 = {
+	name="Zhong"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305858
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+305860 = {
+	name="Tuyan"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305859
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+305861 = {
+	name="Yuchi"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305860
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+305862 = {
+	name="Rong"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305861
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+305863 = {
+	name="Shifu"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305862
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+305864 = {
+	name="Jian"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305863
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+305865 = {
+	name="Tong"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305864
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+305866 = {
+	name="Ping"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305865
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+305867 = {
+	name="Hongye"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305866
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+305868 = {
+	name="Duba"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305867
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+305869 = {
+	name="Wonu"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305868
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+305870 = {
+	name="Qifu"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305869
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+305871 = {
+	name="Tuyuhun"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305870
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+305872 = {
+	name="Juyudun"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305871
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+305873 = {
+	name="Kunlun"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305872
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+305874 = {
+	name="Yichen"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305873
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+305875 = {
+	name="Muliyan"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305874
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+305876 = {
+	name="Huan"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305875
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+305877 = {
+	name="Ruyuan"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305876
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+305878 = {
+	name="Shilian"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305877
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+305879 = {
+	name="Nong"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305878
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+305880 = {
+	name="Dana"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305879
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+305881 = {
+	name="Long"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305880
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+305882 = {
+	name="She"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305881
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+305883 = {
+	name="Anye"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305882
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+305884 = {
+	name="Ding"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305883
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+305885 = {
+	name="Zhi"
+	dynasty=2003076 #Kumkol
+	religion="lamaism"
+	culture="tuyuhun"
+	father=305884
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Tuoba Vassals (Alxa) - fictional placeholders
+tuoba0001 = {
+	name="Tuyan"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+tuoba0002 = {
+	name="Gai"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0001
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+tuoba0003 = {
+	name="Wen"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0002
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+tuoba0004 = {
+	name="Zhen"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0003
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+tuoba0005 = {
+	name="Lang"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0004
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+tuoba0006 = {
+	name="Long"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0005
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+tuoba0007 = {
+	name="Liang"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0006
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+tuoba0008 = {
+	name="Huang"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0007
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+tuoba0009 = {
+	name="Gui"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0008
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+tuoba0010 = {
+	name="Shegui"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0009
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+tuoba0011 = {
+	name="Kan"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0010
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+tuoba0012 = {
+	name="Tong"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0011
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+tuoba0013 = {
+	name="Shan"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0012
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+tuoba0014 = {
+	name="Jiong"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0013
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+tuoba0015 = {
+	name="Chounu"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0014
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+tuoba0016 = {
+	name="Dayan"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0015
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+tuoba0017 = {
+	name="Tandouba"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0016
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+tuoba0018 = {
+	name="Dun"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0017
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+tuoba0019 = {
+	name="Nong"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0018
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+tuoba0020 = {
+	name="Xiuli"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0019
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+tuoba0021 = {
+	name="Suixi"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0020
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+tuoba0022 = {
+	name="Nuohebo"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0021
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+tuoba0023 = {
+	name="Quan"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0022
+	3182.1.1={
+		birth=yes
+	}
+	3232.1.1={
+		dynasty=2003104 #Tümed (Alxa)
+		culture = mongol
+		religion = tengri_pagan
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+tuoba0024 = {
+	name="Dana"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0023
+	3202.1.1={
+		birth=yes
+	}
+	3232.1.1={
+		dynasty=2003104 #Tümed (Alxa)
+		culture = mongol
+		religion = tengri_pagan
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+tuoba0025 = {
+	name="Xingbu"
+	dynasty=2003103 #Tuoba (Alxa)
+	religion="melieism"
+	culture="tuyuhun"
+	father=tuoba0024
+	3222.1.1={
+		birth=yes
+	}
+	3232.1.1={
+		dynasty=2003104 #Tümed (Alxa)
+		culture = mongol
+		religion = tengri_pagan
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+tuoba0026 = {
+	name="Ajai"
+	dynasty=2003104 #Tümed (Alxa)
+	religion="tengri_pagan"
+	culture="mongol"
+	father=tuoba0024
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+tuoba0027 = {
+	name="Badai"
+	dynasty=2003104 #Tümed (Alxa)
+	religion="tengri_pagan"
+	culture="mongol"
+	father=tuoba0026
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+tuoba0028 = {
+	name="Usun"
+	dynasty=2003104 #Tümed (Alxa)
+	religion="tengri_pagan"
+	culture="mongol"
+	father=tuoba0027
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+tuoba0029 = {
+	name="Dayir"
+	dynasty=2003104 #Tümed (Alxa)
+	religion="tengri_pagan"
+	culture="mongol"
+	father=tuoba0028
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+tuoba0030 = {
+	name="Berke"
+	dynasty=2003104 #Tümed (Alxa)
+	religion="tengri_pagan"
+	culture="mongol"
+	father=tuoba0029
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}
+
+#Tuyuhun Qilin Vassal - fictional placeholders
+tuyuhun0001 = {
+	name="Ce"
+	dynasty=2003105 #Helian
+	religion="mahayana"
+	culture="tuyuhun"
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+#Aksay vassals - fictional placeholders
+tuyuhun0002 = {
+	name="Shiyin"
+	dynasty=2003117 #Erzhu
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	2742.1.1={
+		birth=yes
+	}
+	2802.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0003 = {
+	name="Rong"
+	dynasty=2003117 #Erzhu
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=tuyuhun0002
+	2762.1.1={
+		birth=yes
+	}
+	2822.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0004 = {
+	name="Baling"
+	dynasty=2003117 #Erzhu
+	religion="tengri_pagan"
+	culture="tuyuhun"
+	father=tuyuhun0003
+	2782.1.1={
+		birth=yes
+	}
+	2842.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0005 = {
+	name="Mugui"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0004
+	2802.1.1={
+		birth=yes
+	}
+	2862.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0006 = {
+	name="Yeyan"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0005
+	2822.1.1={
+		birth=yes
+	}
+	2882.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0007 = {
+	name="Jian"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0006
+	2842.1.1={
+		birth=yes
+	}
+	2902.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0008 = {
+	name="Zhangru"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0007
+	2862.1.1={
+		birth=yes
+	}
+	2922.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0009 = {
+	name="Chounu"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0008
+	2882.1.1={
+		birth=yes
+	}
+	2942.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0010 = {
+	name="Suixi"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0009
+	2902.1.1={
+		birth=yes
+	}
+	2962.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0011 = {
+	name="Qidou"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0010
+	2922.1.1={
+		birth=yes
+	}
+	2982.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0012 = {
+	name="KualU_"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0011
+	2942.1.1={
+		birth=yes
+	}
+	3002.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0013 = {
+	name="Sheng"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0012
+	2962.1.1={
+		birth=yes
+	}
+	3022.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0014 = {
+	name="Tai"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0013
+	2982.1.1={
+		birth=yes
+	}
+	3042.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0015 = {
+	name="Zhong"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0014
+	3002.1.1={
+		birth=yes
+	}
+	3062.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0016 = {
+	name="Long"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0015
+	3022.1.1={
+		birth=yes
+	}
+	3082.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0017 = {
+	name="Wonu"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0016
+	3042.1.1={
+		birth=yes
+	}
+	3102.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0018 = {
+	name="Kuala"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0017
+	3062.1.1={
+		birth=yes
+	}
+	3122.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0019 = {
+	name="You"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0018
+	3082.1.1={
+		birth=yes
+	}
+	3142.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0020 = {
+	name="Chan"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0019
+	3102.1.1={
+		birth=yes
+	}
+	3162.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0021 = {
+	name="Ping"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0020
+	3122.1.1={
+		birth=yes
+	}
+	3182.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0022 = {
+	name="Heng_an"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0021
+	3142.1.1={
+		birth=yes
+	}
+	3202.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0023 = {
+	name="Shiyin"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0022
+	3162.1.1={
+		birth=yes
+	}
+	3222.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0024 = {
+	name="Duba"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0023
+	3182.1.1={
+		birth=yes
+	}
+	3242.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0025 = {
+	name="Zheng"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0024
+	3202.1.1={
+		birth=yes
+	}
+	3262.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0026 = {
+	name="Shifu"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0025
+	3222.1.1={
+		birth=yes
+	}
+	3282.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0027 = {
+	name="Yuchi"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0026
+	3242.1.1={
+		birth=yes
+	}
+	3302.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0028 = {
+	name="Kan"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0027
+	3262.1.1={
+		birth=yes
+	}
+	3322.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0029 = {
+	name="Yicheng"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0028
+	3282.1.1={
+		birth=yes
+	}
+	3342.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0030 = {
+	name="Tuo"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0029
+	3302.1.1={
+		birth=yes
+	}
+	3362.1.1={
+		death=yes
+	}
+}
+
+tuyuhun0031 = {
+	name="Achai"
+	dynasty=2003117 #Erzhu
+	religion="lamaism"
+	culture="tuyuhun"
+	father=tuyuhun0030
+	3322.1.1={
+		birth=yes
+	}
+	3382.1.1={
+		death=yes
+	}
+}

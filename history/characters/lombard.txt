@@ -1,0 +1,10140 @@
+﻿190122 = {
+	name = "Audoin" # Audoin Gausi, King of the Lombards
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	2512.1.1 = {
+		birth = yes
+	}
+	2531.1.1 = {
+		add_spouse = 190123
+	}
+	2562.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190123 = {
+	name = "Rodelinda" # Rodelinda, wife of Audoin Gausi
+	female = yes
+	dynasty = 9619
+	religion = "catholic"
+	culture = "lombard"
+
+	mother = 168779
+
+	2515.1.1 = {
+		birth = yes
+	}
+	2576.1.1 = {
+		death = yes
+	}
+}
+
+190124 = {
+	name = "Alboin" # Alboin Gausi, Lombard King of Italy (565-572)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190122
+	mother = 190123
+
+	2532.1.1 = {
+		birth = yes
+	}
+	2574.6.28 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+
+190125 = {
+	name = "Grasulf" # Grasulf (I) Gausi, Duke of Friuli (591-590)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190122
+	mother = 190123
+
+	2544.1.1 = {
+		birth = yes
+	}
+	2592.1.1 = {
+		death = yes
+	}
+}
+
+190126 = {
+	name = "Gisulf" # Gisulf (I) Gausian, Duke of Friuli (569-591)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190125
+
+	2561.1.1 = {
+		birth = yes
+	}
+	2583.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190127 = {
+	name = "Zotto" # Zotto Gausi, Duke of Benevento (571-591)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190125
+
+	2562.1.1 = {
+		birth = yes
+	}
+	2578.1.1 = {
+		add_spouse = 190166
+	}
+	2593.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190128 = {
+	name = "Gisulf" # Gisulf (II) Gausi, Duke of Friuli (590-611)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190126
+
+	2580.1.1 = {
+		birth = yes
+	}
+	2596.1.1 = {
+		add_spouse = 190129
+	}
+	2613.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+
+190244 = {
+	name = "Taso" # Taso Gausi, Duke of Friuli (611-625)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190128
+	mother = 190129
+
+	2596.1.1 = {
+		birth = yes
+	}
+	2627.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+
+190245 = {
+	name = "Caco" # Caco Gausi, Duke of Friuli (611)
+	dynasty = 1044031 #Gausi
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190128
+	mother = 190129
+
+	2597.1.1 = {
+		birth = yes
+	}
+	2627.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+
+190130 = {
+	name = "Radoald" # Radoald Gausi, Duke of Benevento (642-651)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190128
+	mother = 190129
+
+	2598.1.1 = {
+		birth = yes
+	}
+	2653.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190131 = {
+	name = "Appa" # Appa Gausi, wife of the King of the Alemanni
+	female = yes
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190128
+	mother = 190129
+
+	2600.1.1 = {
+		birth = yes
+	}
+	2654.1.1 = {
+		death = yes
+	}
+}
+
+190132 = {
+	name = "Geila" # Geila Gausi, wife of Garibald II of Bavaria
+	female = yes
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190128
+	mother = 190129
+
+	2605.1.1 = {
+		birth = yes
+	}
+	2659.1.1 = {
+		death = yes
+	}
+}
+
+190133 = {
+	name = "Grimoald" # Grimoald (I) Gausi, King of Lombard Italy (662-671) and Duke of Benevento (651-671)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190128
+	mother = 190129
+
+	2611.1.1 = {
+		birth = yes
+	}
+	2664.1.1 = {
+		add_spouse = 190134
+	}
+	2673.1.1 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+
+190134 = {
+	name = "Teudota" # Theodota Baiuvari, wife of Grimoald of Italy
+	female = yes
+	dynasty_house = house_baiuvari
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190181
+
+	2638.1.1 = {
+		birth = yes
+	}
+	2677.1.1 = {
+		death = yes
+	}
+}
+
+190135 = {
+	name = "Romoald" # Romoald (I) Gausi, Duke of Benevento (671-687)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190133
+	#son of an early marriage of his father
+
+	2645.1.1 = {
+		birth = yes
+	}
+	2671.1.1 = {
+		add_spouse = 190137
+	}
+	2689.1.1 = {
+		death = yes
+	}
+}
+
+190136 = {
+	name = "Garipald" # Garibald Gausi, Lombard King of Italy (671), Duke of Piedmonte (663-671)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190133
+	mother = 190134
+
+	2665.1.1 = {
+		birth = yes
+	}
+	2690.1.1 = {
+		death = yes
+	}
+}
+
+190137 = {
+	name = "Teuderada" # Theodrada Gausi, wife of Romoald I of Benvento
+	female = yes
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190248
+
+	2655.1.1 = {
+		birth = yes
+	}
+	2700.1.1 = {
+		death = yes
+	}
+}
+
+190138 = {
+	name = "Grimoald" # Grimoald (II) Gausi, Duke of Benevento (687-689)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190135
+	mother = 190137
+
+	2671.1.1 = {
+		birth = yes
+	}
+	2686.1.1 = {
+		add_spouse = 190187
+	}
+	2691.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190139 = {
+	name = "Gisulf" # Gisulf (I) Gausi, Duke of Benevento (689-706)
+	dynasty = 1044031 #Gausi
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190135
+	mother = 190137
+
+	2672.1.1 = {
+		birth = yes
+	}
+	2688.1.1 = {
+		add_spouse = 190140
+	}
+	2708.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190140 = {
+	name = "Winiperga" # Winiperga, wife of Gisulf I of Benevento
+	female = yes
+	religion = "catholic"
+	culture = "lombard"
+
+	2671.1.1 = {
+		birth = yes
+	}
+	2714.1.1 = {
+		death = yes
+	}
+}
+
+190141 = {
+	name = "Romoald" # Romoald (II) Gausi, Duke of Benevento (706-731)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190139
+	mother = 190140
+
+	2688.1.1 = {
+		birth = yes
+	}
+	2704.1.1 = {
+		add_spouse = 190142
+	}
+	2731.1.1 = {
+		remove_spouse = 190142
+	}
+	2732.1.1 = {
+		add_spouse = 190143
+	}
+	2733.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190142 = {
+	name = "Gumperga" # Gumperga, daughter of Aurona sister of King Liutprand
+	female = yes
+	dynasty = 1044037
+	religion = "catholic"
+	culture = "lombard"
+
+	father = lombard0095
+	mother = 190195
+
+	2686.1.1 = {
+		birth = yes
+	}
+	2731.1.1 = {
+		death = yes
+	}
+}
+190143 = {
+	name = "Ranigunda" #daughter of Duke Gaiduld of Brescia
+	female = yes
+	dynasty = 1044038 #Gaiduldling
+	religion = "catholic"
+	culture = "lombard"
+	2711.1.1 = {
+		birth = yes
+	}
+	2743.1.1 = {
+		death = yes
+	}
+}
+
+190144 = {
+	name = "Gisulf" # Gisulf (II) Gausi, Duke of Benevento (742-751)
+	dynasty = 1044031 #Gausi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190141
+	mother = 190142
+	2704.1.1 = {
+		birth = yes
+	}
+	2720.1.1 = {
+		add_spouse = 190145
+	}
+	2753.1.1 = {
+		death = yes
+	}
+}
+
+190145 = {
+	name = "Scauniperga" # Scauniperga, wife of Gisulf II of Benevento
+	female = yes
+	religion = "catholic"
+	culture = "lombard"
+	2703.1.1 = {
+		birth = yes
+	}
+	2754.1.1 = {
+		death = yes
+	}
+}
+
+190146 = {
+	name = "Liutprand" # Liutprand Gausi, Duke of Benevento (751-758)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190144
+	mother = 190145
+
+	2721.1.1 = {
+		birth = yes
+	}
+	2761.1.1 = {
+		death = yes
+	}
+}
+
+190147 = {
+	name = "Arechis" # Arechis (II) Gausi, Duke of Benevento (758-787)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = lombard0093
+
+	2737.1.1 = {
+		birth = yes
+	}
+	2753.1.1 = {
+		add_spouse = 190148
+	}
+	2776.1.1 = {
+		capital = c_salerno
+	}
+	2789.8.26 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190148 = {
+	name = "Adelperga" # Adelperga Desideridi, wife of Arechis II of Benevento
+	female = yes
+	dynasty = 1044053
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190347
+	mother = 190340
+
+	2737.1.1 = {
+		birth = yes
+	}
+	2774.1.1 = {
+		death = yes
+	}
+}
+
+190149 = {
+	name = "Romoald" # Romoald Gausi
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190147
+	mother = 190148
+
+	2763.1.1 = {
+		birth = yes
+	}
+	2789.7.1 = {
+		death = yes
+	}
+}
+
+190150 = {
+	name = "Grimoald" # Grimoald (III) Gausi, Duke of Benevento (787-806)
+	dynasty = 1044031 #Gausi
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190147
+	mother = 190148
+
+	2754.1.1 = {
+		birth = yes
+	}
+	2769.1.1 = {
+		add_spouse = 190151
+	}
+	2789.8.26 = {
+		capital = c_salerno
+	}
+	2808.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190151 = {
+	name = "Scauniperga" # Scauniperga, fictional wife of Grimoald III of Benevento
+	female = yes
+	religion = "catholic"
+	culture = "lombard"
+
+	2752.1.1 = {
+		birth = yes
+	}
+	2811.1.1 = {
+		death = yes
+	}
+}
+
+190152 = {
+	name = "Adelchisa" # Adelchisa Gausi, mother of Grimoald IV
+	dynasty = 1044031
+	female = yes
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190147
+	mother = 190148
+
+	2754.1.1 = {
+		birth = yes
+	}
+	2776.1.1 = {
+		death = yes
+	}
+}
+
+190153 = {
+	name = "Arechis" # Arechis (I) Gausi, Duke of Benevento (591-641)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190126
+
+	2583.1.1 = {
+		birth = yes
+	}
+	2643.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+190154 = {
+	name = "Aio" # Aio (I) Gausi, Duke of Benevento (641-642)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190153
+
+	2603.1.1 = {
+		birth = yes
+	}
+	2644.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+
+190246 = {
+	name = "Grasulf" # Grasulf (II) Gausi, Duke of Friuli (625-653)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190126
+
+	2581.1.1 = {
+		birth = yes
+	}
+	2655.1.1 = {
+		death = yes
+	}
+}
+
+190247 = {
+	name = "Ago" # Ago Gausi, Duke of Friuli (653-662)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190246
+
+	2601.1.1 = {
+		birth = yes
+	}
+	2664.1.1 = {
+		death = yes
+	}
+}
+
+190248 = {
+	name = "Lupus" # Lupus Gausi, Duke of Friuli (662-663)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+	father = 190247
+
+	2622.1.1 = {
+		birth = yes
+	}
+	2665.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+
+190249 = {
+	name = "Arnefrit" # Arnefrit Gausi, Duke of Friuli (663)
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190248
+
+	2640.1.1 = {
+		birth = yes
+	}
+	2668.6.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 190250
+		}
+	}
+}
+
+190250 = {
+	name = "Wechtari" # Wechtar Wechtaridi, Duke of Friuli (663-671)
+	dynasty = 1044059
+	religion = "catholic"
+	culture = "lombard"
+
+	2638.1.1 = {
+		birth = yes
+	}
+	2673.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190251 = {
+	name = "Landari" # Landar Wechtaridi, Duke of Friuli (671)
+	dynasty = 1044059
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190250
+
+	2654.1.1 = {
+		birth = yes
+	}
+	2692.6.1 = {
+		death = yes
+	}
+}
+
+190252 = {
+	name = "Rodoald" # Radoald Wechtaridi, Duke of Friuli (671-695)
+	dynasty = 1044059
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190250
+
+	2656.1.1 = {
+		birth = yes
+	}
+	2701.1.1 = {
+		death = yes
+	}
+}
+
+190253 = {
+	name = "Landeburga" # Landeburga Wechtaridi, wife of Ansfrid of Friuli
+	female = yes
+	dynasty = 1044059
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190250
+
+	2662.1.1 = {
+		birth = yes
+	}
+	2732.1.1 = {
+		death = yes
+	}
+}
+
+190254 = {
+	name = "Ado" # Ado Wechtaridi, Duke of Friuli (698-700)
+	dynasty = 1044059
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190250
+
+	2658.1.1 = {
+		birth = yes
+	}
+	2702.1.1 = {
+		death = yes
+	}
+}
+
+190255 = {
+	name = "Ansfrid" # Ansfrid Ansfrididi, Duke of Friuli (695-698)
+	dynasty = 1044060
+	religion = "catholic"
+	culture = "lombard"
+	trait = blind
+
+	2658.1.1 = {
+		birth = yes
+	}
+	2687.1.1 = {
+		add_spouse = 190253
+	}
+	2701.1.1 = {
+		death = {
+			death_reason = blind
+		}
+	}
+}
+
+190256 = {
+	name = "Ferdulf" # Ferdulf Ansfrididi, Duke of Friuli (700-705)
+	dynasty = 1044060
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190255
+	mother = 190253
+
+	2687.1.1 = {
+		birth = yes
+	}
+	2707.1.1 = {
+		death = yes
+	}
+}
+
+190257 = {
+	name = "Corvulus" # Corvulus Ansfrididi, Duke of Friuli (705)
+	dynasty = 1044060
+	religion = "catholic"
+	culture = "lombard"
+	trait = blind
+
+	father = 190255
+	mother = 190253
+
+	2689.1.1 = {
+		birth = yes
+	}
+	2729.1.1 = {
+		death = yes
+	}
+}
+
+190259 = {
+	name = "Munichis" # Munichis Munichisidi
+	dynasty = 1044052
+	religion = "catholic"
+	culture = "lombard"
+
+	2703.1.1 = {
+		birth = yes
+	}
+	2742.1.1 = {
+		death = yes
+	}
+}
+
+190260 = {
+	name = "Anselm" # Anselm Munichisidi, Duke of Friuli (749-751)
+	dynasty = 1044052
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190259
+
+	2720.1.1 = {
+		birth = yes
+	}
+	2753.1.1 = {
+		trait = devoted
+		trait = lifestyle_mystic
+	}
+	2805.1.1 = {
+		death = yes
+		trait = saint
+	}
+}
+
+190262 = {
+	name = "Petrus" # Petrus Munichisidi, Duke of Friuli (751-767)
+	dynasty = 1044052
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190259
+
+	2722.1.1 = {
+		birth = yes
+	}
+	2769.1.1 = {
+		death = yes
+	}
+}
+
+190263 = {
+	name = "Ursus" # Ursus Munichisidi, Count of Padua (751-774)
+	dynasty = 1044052
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190259
+
+	2724.1.1 = {
+		birth = yes
+	}
+	2776.1.1 = {
+		death = yes
+	}
+}
+
+190264 = {
+	name = "Rodgoald" # Rotgaudo Munichisidi, Duke of Friuli (767-776)
+	dynasty = 1044052
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190262
+
+	2742.1.1 = {
+		birth = yes
+	}
+	2792.1.1 = {
+		death = yes
+	}
+}
+
+190344 = {
+	name = "Gisaltruda" # Gisaltruda Munichisidi, wife of Aistulf of Italy
+	female = yes
+	dynasty = 1044052 #Munichingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190259
+	2732.1.1 = {
+		birth = yes
+	}
+	2783.1.1 = {
+		death = yes
+	}
+}
+
+190155 = {
+	name = "Hermenric" # Ermenric Ermenricidi
+	dynasty = 1044042
+	religion = "catholic"
+	culture = "lombard"
+
+	2755.1.1 = {
+		birth = yes
+	}
+	2772.1.1 = {
+		add_spouse = 190152
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+
+190157 = {
+	name = "Grimoald" # Grimoald (IV) Ermenricidi, Duke of Benevento (806-817)
+	dynasty = 1044042
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190155
+	mother = 190152
+
+	2773.1.1 = {
+		birth = yes
+	}
+	2808.1.1 = {
+		capital = c_salerno
+	}
+	2819.1.1 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+
+190160 = {
+	name = "Sico" # Sico Siconidi, Duke of Benevento (817-832)
+	dynasty = 1044044
+	religion = "catholic"
+	culture = "lombard"
+
+	2760.1.1 = {
+		birth = yes
+	}
+	2834.9.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190161 = {
+	name = "Sicard" # Sicard Siconidi, Duke of Benevento (832-839)
+	dynasty = 1044044
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190160
+
+	2781.1.1 = {
+		birth = yes
+	}
+	2841.8.1 = {
+		death = yes
+	}
+}
+
+190162 = {
+	name = "Itta" # Itta Siconidi, wife of Guy I of Spoletto
+	female = yes
+	dynasty = 1044044
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190160
+
+	2785.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+
+190163 = {
+	name = "Siconulf" # Siconulf Siconidi, Duke of Salerno (839-851)
+	dynasty = 1044044
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190160
+	trait = lifestyle_hunter
+
+	2791.1.1 = {
+		birth = yes
+	}
+	2847.1.1 = {
+		add_spouse = frankish0002
+	}
+	2853.1.1 = {
+		death = {
+			death_reason = death_hunting_accident
+		}
+	}
+}
+
+190164 = {
+	name = "Sico" # Sico (II) Siconidi, Duke of Salerno (851-855)
+	dynasty = 1044044
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190163
+	mother = frankish0002
+
+	2847.1.1 = {
+		birth = yes
+	}
+	2857.10.1 = {
+		death = {
+			death_reason = death_murder_known
+			killer = 145212
+		}
+	}
+}
+
+190165 = {
+	name = "Masane" # Masane Gausi, wife of Clef of Italy
+	female = yes
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190122
+	mother = 190123
+
+	2542.1.1 = {
+		birth = yes
+	}
+	2594.1.1 = {
+		death = yes
+	}
+}
+
+190166 = {
+	name = "Rodelinda" # Rodelinda Gausi, wife of Zotto of Benevento
+	female = yes
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190122
+	mother = 190123
+
+	2543.1.1 = {
+		birth = yes
+	}
+	2592.1.1 = {
+		death = yes
+	}
+}
+
+190167 = {
+	name = "Beleo" # Beleo Beleos
+	dynasty = 1044045
+	religion = "catholic"
+	culture = "lombard"
+
+	2509.1.1 = {
+		birth = yes
+	}
+	2559.1.1 = {
+		death = yes
+	}
+}
+
+190168 = {
+	name = "Clef" # Clef Beleos, Lombard King of Italy (572-574)
+	dynasty = 1044045
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190167
+
+	2525.1.1 = {
+		birth = yes
+	}
+	2558.1.1 = {
+		add_spouse = 190165
+	}
+	2576.1.1 = {
+		death = {
+			death_reason = death_plotting
+		}
+	}
+}
+
+190169 = {
+	name = "Authari" # Authari Beleos, Lombard King of Italy (584-590)
+	dynasty = 1044045
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190168
+
+	2558.1.1 = {
+		birth = yes
+	}
+	2586.1.1 = {
+		add_spouse = 190171
+	}
+	2592.9.5 = {
+		death = {
+			death_reason = death_poison
+		}
+	}
+}
+
+190170 = {
+	name = "Agilolf" # Agilulf Anawas, Lombard King of Italy (591-616) and Duke of Piedmonte (575-590)
+	dynasty = anawas
+	religion = "catholic"
+	culture = "lombard"
+
+	2561.1.1 = {
+		birth = yes
+	}
+	2577.1.1 = {
+		add_spouse = lombard0094
+	}
+	2592.9.5 = {
+		add_spouse = 190171
+	}
+	2618.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190172 = {
+	name = "Gundeberga" # Gundeberga Anawas, wife of Arioald of Italy and Rotari of Italy
+	female = yes
+	dynasty = anawas
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190170
+	mother = 190171
+
+	2600.1.1 = {
+		birth = yes
+	}
+	2654.1.1 = {
+		death = yes
+	}
+}
+
+190173 = {
+	name = "Adaloald" # Adaloald Anawas, Lombard King of Italy (616-626)
+	dynasty = anawas
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190170
+	mother = 190171
+
+	2604.1.1 = {
+		birth = yes
+	}
+	2628.1.1 = {
+		death = {
+			death_reason = death_poison
+		}
+	}
+}
+
+190174 = {
+	name = "Arioald" # Arioald Arioaldidi, Lombard King of Italy (626-636) and Duke of Piedmonte (590-626)
+	dynasty = 1044047
+	religion = "catholic"
+	culture = "lombard"
+
+	2580.1.1 = {
+		birth = yes
+	}
+	2618.1.1 = {
+		add_spouse = 190172
+	}
+	2638.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190175 = {
+   name = "Nandinig" # Nandinig Arodingi, Count of Brescia (603-626)
+   dynasty = 1044048
+   religion = "catholic"
+   culture = "lombard"
+
+   2580.1.1 = {
+	   birth = yes
+   }
+   2628.1.1 = {
+	   death = yes
+   }
+}
+
+190176 = {
+	name = "Rothari" # Rothari Arodingi, Lombard King of Italy (636-652)
+	dynasty = 1044048
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190175
+
+	2608.1.1 = {
+		birth = yes
+	}
+	2638.1.1 = {
+		add_spouse = 190172
+	}
+	2654.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190177 = {
+	name = "Rodoald" # Radoald Arodingi, Lombard King of Italy (652)
+	dynasty = 1044048
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190176
+	mother = 190172
+
+	2639.1.1 = {
+		birth = yes
+	}
+	2654.6.1 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+
+190181 = {
+	name = "Aripert" # Aripert (I) Baiuvari, Lombard King of Italy (652-661)
+	dynasty_house = house_baiuvari
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190180
+
+	2611.1.1 = {
+		birth = yes
+	}
+	2663.1.1 = {
+		death = yes
+	}
+}
+
+190182 = {
+	name = "Godepert" # Godepert Baiuvari, Lombard King of Italy (661-662)
+	dynasty_house = house_baiuvari
+	religion = "catholic" #arian
+	culture = "lombard"
+
+	father = 190181
+
+	2636.1.1 = {
+		birth = yes
+	}
+	2664.1.1 = {
+		death = {
+			death_reason = death_murder_known
+			killer = 190133
+		}
+	}
+}
+
+190183 = {
+	name = "Raginpert" # Raginpert Baiuvari, Lombard King of Italy (701), Duke of Piedmonte (663-701)
+	dynasty_house = house_baiuvari
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190182
+
+	2655.1.1 = {
+		birth = yes
+	}
+	2703.6.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190184 = {
+	name = "Aripert" # Aripert (II) Baiuvari, Lombard King of Italy (702-712) and Duke of Piedmonte (701-702)
+	dynasty_house = house_baiuvari
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190183
+
+	2674.1.1 = {
+		birth = yes
+	}
+	2714.1.1 = {
+		death = {
+			death_reason = death_accident # drowned
+		}
+	}
+}
+
+190185 = {
+	name = "Perctarit" # Perctarit Baiuvari, Lombard King of Italy (662 & 671-688)
+	dynasty_house = house_baiuvari
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190181
+
+	2640.1.1 = {
+		birth = yes
+	}
+	2657.1.1 = {
+		add_spouse = 190186
+	}
+	2690.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190186 = {
+	name = "Rodelinda" # Rodelinda, wife of Perctarit of Italy
+	female = yes
+	religion = "catholic"
+	culture = "lombard"
+
+	2641.1.1 = {
+		birth = yes
+	}
+	2693.1.1 = {
+		death = yes
+	}
+}
+
+190187 = {
+	name = "Wigilinda" # Wigilanda Baiuvari, wife of Grimoald II of Benevento
+	female = yes
+	dynasty_house = house_baiuvari
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190185
+	mother = 190186
+
+	2658.1.1 = {
+		birth = yes
+	}
+	2692.1.1 = {
+		death = yes
+	}
+}
+
+190188 = {
+	name = "Cunicpert" # Cunicpert Baiuvari, Lombard King of Italy (688-689 & 689-700)
+	dynasty_house = house_baiuvari
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190185
+	mother = 190186
+
+	2662.1.1 = {
+		birth = yes
+	}
+	2702.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190189 = {
+	name = "Liutpert" # Liutpert Baiuvari, Lombard King of Italy (700-701 & 701-702)
+	dynasty_house = house_baiuvari
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190188
+
+	2691.1.1 = {
+		birth = yes
+	}
+	2704.1.1 = {
+		death = {
+			death_reason = death_murder_known
+			killer = 190184
+		}
+	}
+}
+
+190190 = {
+	name = "Regintruda" # Regintruda Baiuvari, wife of Theodo II of Bavaria
+	female = yes
+	dynasty_house = house_baiuvari
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190182
+
+	2659.1.1 = {
+		birth = yes
+	}
+	2711.1.1 = {
+		death = yes
+	}
+}
+
+190191 = {
+	name = "Ratperga" # Ratberga Baiuvari, wife of Pemmo of Friuli
+	female = yes
+	dynasty_house = house_baiuvari
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190184
+
+	2702.1.1 = {
+		birth = yes
+	}
+	2744.1.1 = {
+		death = yes
+	}
+}
+
+190193 = {
+	name = "Ansprand" # Ansprand Ansprandidi, Lombard King of Italy (712)
+	dynasty = 1044051
+	religion = "catholic"
+	culture = "lombard"
+
+	2649.1.1 = {
+		birth = yes
+	}
+	2670.1.1 = {
+		add_spouse = 190192
+	}
+	2714.7.1 = {
+		death = yes
+	}
+}
+
+190194 = {
+	name = "Sigiprand" # Sigiprand Ansprandidi
+	dynasty = 1044051
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190193
+	mother = 190192
+
+	2676.1.1 = {
+		birth = yes
+	}
+	2704.1.1 = {
+		trait = blind
+	}
+	2716.1.1 ={
+		death = {
+			death_reason = blind
+		}
+	}
+}
+
+190195 = {
+	name = "Aurona" # Aurona Ansprandidi, mother in law of Romoald II of Benevento
+	female = yes
+	dynasty = 1044051
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190193
+	mother = 190192
+
+	2670.1.1 = {
+		birth = yes
+	}
+	2704.1.1 = {
+		trait = maimed
+	}
+	2714.1.1 = {
+		death = yes
+	}
+}
+
+190196 = {
+	name = "Liutprand" # Liutprand Ansprandidi, Lombard King of Italy (712-744)
+	dynasty = 1044051
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190193
+	mother = 190192
+
+	2692.1.1 = {
+		birth = yes
+	}
+	2716.1.1 = {
+		add_spouse = 190197
+	}
+	2746.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190198 = {
+	name = "Hildeprand" # Hildeprand Ansprandidi, Lombard King of Italy (744)
+	dynasty = 1044051
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190194
+
+	2711.1.1 = {
+		birth = yes
+	}
+	2746.8.1 = {
+		death = yes
+	}
+}
+
+190340 = {
+	name = "Ansa" # Ansa, wife of Desiderius of Italy
+	female = yes
+	religion = "catholic"
+	culture = "lombard"
+
+	2714.1.1 = {
+		birth = yes
+	}
+	2776.6.1 = {
+		trait = devoted
+	}
+	2778.1.1 = {
+		death = yes
+	}
+}
+
+190341 = {
+	name = "Billo" # Billo Billonidi
+	dynasty = 1044050
+	religion = "catholic"
+	culture = "lombard"
+
+	2660.1.1 = {
+		birth = yes
+	}
+	2704.1.1 = {
+		death = yes
+	}
+}
+
+190342 = {
+	name = "Pemmo" # Pemmo Billonidi, Duke of Friuli (705-737)
+	dynasty = 1044050
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190341
+
+	2689.1.1 = {
+		birth = yes
+	}
+	2718.1.1 = {
+		add_spouse = 190191
+	}
+	2741.1.1 = {
+		death = yes
+	}
+}
+
+190343 = {
+	name = "Ratchis" # Ratchis Billonidi, Lombard King of Italy (744-749 and 756-757), Duke of Friuli (737-744) and Duke of Spoleto (756-757)
+	dynasty = 1044050
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190342
+	mother = 190191
+
+	2718.1.1 = {
+		birth = yes
+	}
+	2734.1.1 = {
+		add_spouse = 190199
+	}
+	2760.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+190331 = {
+	name = "Aistulf" # Aistulf Billonidi, Lombard King of Italy (749-756), Duke of Friuli (744-749) and Spoleto (752-756)
+	dynasty = 1044050
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190342
+	mother = 190191
+	trait = lifestyle_hunter
+
+	2719.1.1 = {
+		birth = yes
+	}
+	2751.1.1 = {
+		add_spouse = 190344
+	}
+	2758.12.1 = {
+		death = {
+			death_reason = death_hunting_accident
+		}
+	}
+}
+
+190347 = {
+	name = "Desiderius" # Desiderius/Daufer, Lombard King of Italy (757-774) and Duke of Spoleto (758-759)
+	dynasty = 1044053
+
+	religion = catholic
+	culture = lombard
+
+	2719.1.1 = {
+		birth = yes
+	}
+	2736.1.1 = {
+		add_spouse = 190340
+	}
+	2776.6.1 = {
+		trait = devoted
+	}
+	2779.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+190348 = {
+	name = "Gerperga" # Gerberga Desideridi, wife of Carloman of France
+	female = yes
+	dynasty = 1044053
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190347
+	mother = 190340
+
+	2747.1.1 = {
+		birth = yes
+	}
+	2796.1.1 = {
+		death = yes
+	}
+}
+
+190349 = {
+	name = "Ermengarda" # Ermengarda Desideridi, wrongly called Desiderata, wife of Charlemagne
+	female = yes
+	dynasty = 1044053
+
+	father = 190347
+	mother = 190340
+
+	religion = catholic
+	culture = lombard
+
+	2749.1.1 = {
+		birth = yes
+	}
+	2798.1.1 = {
+		death = yes
+	}
+}
+
+190351 = {
+	name = "Liutperga" # Liutberga Desideridi, wife of Tassilo IV of Bavaria
+	female = yes
+	dynasty = 1044053
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190347
+	mother = 190340
+
+	2752.1.1 = {
+		birth = yes
+	}
+	2796.1.1 = {
+		death = yes
+	}
+}
+
+190352 = {
+	name = "Anselperga" # Anselperga Desideridi, Abbess
+	female = yes
+	dynasty = 1044053
+	religion = "catholic"
+	culture = "lombard"
+	trait = devoted
+
+	father = 190347
+	mother = 190340
+	2746.1.1 = {
+		birth = yes
+	}
+	2796.1.1 = {
+		death = yes
+	}
+}
+
+190353 = {
+	name = "Adelchis" # Adelchis Desideridi
+	dynasty = 1044053
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190347
+	mother = 190340
+
+	2761.1.1 = {
+		birth = yes
+	}
+	2790.1.1 = {
+		death = yes
+	}
+}
+
+190354 = {
+	name = "Alachis" # Alachis, Lombard King of Italy (689)
+	dynasty = 1044054
+	religion = "catholic"
+	culture = "lombard"
+
+	2656.1.1 = {
+		birth = yes
+	}
+	2691.6.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 190188
+		}
+	}
+}
+
+190265 = {
+	name = "Theodicus" #duke of Spoleto
+	dynasty = 1044061 #Theodingi
+	religion = "catholic"
+	culture = "lombard"
+	2729.1.1 = {
+		birth = yes
+	}
+	2749.1.1 = {
+		add_spouse = 190266
+	}
+	2778.1.1 = {
+		death = yes
+	}
+}
+190266 = {
+	name = "Giselberga" #wife of Theodicus
+	female = yes
+	religion = "catholic"
+	culture = "lombard"
+	2733.1.1 = {
+		birth = yes
+	}
+	2782.6.1 = {
+		death = yes
+	}
+}
+190267 = {
+	name = "Hildeprand" #duke of Spoleto
+	dynasty = 1044061 #Theodingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190265
+	mother = 190266
+	2752.1.1 = {
+		birth = yes
+	}
+	2791.1.1 = {
+		death = yes
+	}
+}
+190268 = {
+	name = "Ursus" #count of Bologna (Persiceta)
+	dynasty = 1044063 #Ursingi
+	religion = "catholic"
+	culture = "lombard"
+	2723.1.1 = {
+		birth = yes
+	}
+	2774.1.1 = {
+		death = yes
+	}
+}
+190269 = {
+	name = "Ioannes" #count of Bologna
+	dynasty = 1044063 #Ursingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190268
+	2742.1.1 = {
+		birth = yes
+	}
+	2778.1.1 = {
+		death = yes
+	}
+}
+190270 = {
+	name = "Ursus" #count of Bologna
+	dynasty = 1044063 #Ursingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190269
+	2762.1.1 = {
+		birth = yes
+	}
+	2797.1.1 = {
+		death = yes
+	}
+}
+190271 = {
+	name = "Ademar" #count of Verona
+	dynasty = 1044064 #Ademingi
+	religion = "catholic"
+	culture = "lombard"
+	2703.1.1 = {
+		birth = yes
+	}
+	2770.1.1 = {
+		death = yes
+	}
+}
+190272 = {
+	name = "Ademar" #count of Verona
+	dynasty = 1044064 #Ademingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190271
+	2744.1.1 = {
+		birth = yes
+	}
+	2811.1.1 = {
+		death = yes
+	}
+}
+190273 = {
+	name = "Brunhilda" #wife of Ursus of Bologna
+	female = yes
+	dynasty = 1044064 #Ademingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190269
+	2758.1.1 = { #postponed from 743
+		birth = yes
+	}
+	2804.1.1 = {
+		death = yes
+	}
+}
+190274 = {
+	name = "Adalpert" # Adalpert Adalpertidi, Count of Genoa and Luni (741-772)
+	dynasty = 1044065
+	religion = "catholic"
+	culture = "lombard"
+	
+	2727.1.1 = {
+		birth = yes
+	}
+	2764.1.1 = {
+		death = yes
+	}
+}
+190275 = {
+	name = "Ademar" # Ademar Adalpertidi, Count of Genoa and Luni (772-774)
+	dynasty = 1044065
+	religion = "catholic"
+	culture = "lombard"
+	father = 190274
+	
+	2744.1.1 = {
+		birth = yes
+	}
+	2808.1.1 = {
+		death = yes
+	}
+}
+190276 = {
+	name = "Adelperga" # Adalperga Adalpertidi, spouse of Alperto of Tuscany
+	female = yes
+	dynasty = 1044065
+	religion = "catholic"
+	culture = "lombard"
+	father = 190274
+	
+	2746.1.1 = {
+		birth = yes
+	}
+	2818.1.1 = {
+		death = yes
+	}
+}
+190277 = {
+	name = "Petrus" # Petrus Adalpertidi, Count of Corsica (769-774)
+	dynasty = 1044065 #Adalbertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190274
+	
+	2749.1.1 = {
+		birth = yes
+	}
+	2808.1.1 = {
+		death = yes
+	}
+}
+190278 = {
+	name = "Walpert" #duke of Tuscany
+	dynasty = 1044066 #Walpertingi
+	religion = "catholic"
+	culture = "lombard"
+	2704.1.1 = {
+		birth = yes
+	}
+	2756.1.1 = {
+		death = yes
+	}
+}
+190279 = {
+	name = "Alpert" #duke of Tuscany
+	dynasty = 1044066 #Walpertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190278
+	2724.1.1 = {
+		birth = yes
+	}
+	2762.1.1 = {
+		add_spouse = 190276
+	}
+	2775.1.1 = {
+		death = yes
+	}
+}
+190280 = {
+	name = "Tachipert" #duke of Tuscany
+	dynasty = 1044066 #Walpertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190278
+	2745.1.1 = {
+		birth = yes
+	}
+	2776.1.1 = {
+		death = yes
+	}
+}
+190281 = {
+	name = "Tachiperga" #wife of Teuderic count of Ravenna
+	female = yes
+	dynasty = 1044066 #Walpertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190278
+	2747.1.1 = {
+		birth = yes
+	}
+	2792.1.1 = {
+		death = yes
+	}
+}
+190282 = {
+	name = "Lupus" #count of Ferrara
+	dynasty = 1044066 #Walpertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190278
+	2729.1.1 = {
+		birth = yes
+	}
+	2772.1.1 = {
+		death = yes
+	}
+}
+190283 = {
+	name = "Tachipert" #count of Ancona and Urbino
+	dynasty = 1044067 #Tachipertingi
+	religion = "catholic"
+	culture = "lombard"
+	2723.1.1 = {
+		birth = yes
+	}
+	2762.1.1 = {
+		death = yes
+	}
+}
+190284 = {
+	name = "Lupus" #count of Ancona
+	dynasty = 1044067 #Tachipertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190283
+	2743.1.1 = {
+		birth = yes
+	}
+	2780.1.1 = {
+		death = yes
+	}
+}
+190285 = {
+	name = "Halo" #count of Urbino
+	dynasty = 1044067 #Tachipertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190283
+	2749.1.1 = {
+		birth = yes
+	}
+	2786.1.1 = {
+		death = yes
+	}
+}
+190286 = {
+	name = "Hilciperga" #wife of Hilderic of Ravenna
+	female = yes
+	dynasty = 1044067 #Tachipertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190283
+	2755.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+190287 = {
+	name = "Teuderic" #count of Ravenna
+	dynasty = 1044068 #Teudericingi
+	religion = "catholic"
+	culture = "lombard"
+	2745.1.1 = {
+		birth = yes
+	}
+	2763.1.1 = {
+		add_spouse = 190281
+	}
+	2778.1.1 = {
+		death = yes
+	}
+}
+190288 = {
+	name = "Hilderic" #count of Ravenna
+	dynasty = 1044068 #Teudericingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190287
+	mother = 190281
+	2763.1.1 = {
+		birth = yes
+	}
+	2781.1.1 = {
+		add_spouse = 190286
+	}
+	2802.1.1 = {
+		death = yes
+	}
+}
+190289 = {
+	name = "Daufer" # Daufer, Count of Salerno (763-818)
+	dynasty = 1044069
+	religion = "catholic"
+	culture = "lombard"
+
+	2745.1.1 = {
+		birth = yes
+	}
+	2820.1.1 = {
+		death = yes
+	}
+}
+190290 = {
+	name = "Rofrit" # Rofrit, Count of Salerno (818-836)
+	dynasty = 1044069
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190289
+
+	2778.1.1 = {
+		birth = yes
+	}
+	2838.1.1 = {
+		death = yes
+	}
+}
+190291 = {
+	name = "Adelchis" # Adelchis, Count of Salerno (836-839)
+	dynasty = 1044069
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190290
+
+	2798.1.1 = {
+		birth = yes
+	}
+	2841.1.1 = {
+		death = yes
+	}
+}
+190292 = {
+	name = "Rofrida" # Rotfreda, wife of Landolf I of Capua
+	female = yes
+	dynasty = 1044069
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190290
+
+	2799.1.1 = {
+		birth = yes
+	}
+	2862.1.1 = {
+		death = yes
+	}
+}
+
+190293 = {
+	name = "Potelfrit" # Potelfrit, son of Daufer of Salerno
+	dynasty = 1044069
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190289
+
+	2780.1.1 = {
+		birth = yes
+	}
+	2820.1.1 = {
+		death = yes
+	}
+}
+
+190294 = {
+	name = "Potelfreda" # Potelfreda, wife of Landendolf II of Capua
+	female = yes
+	dynasty = 1044069
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190293
+
+	2806.1.1 = {
+		birth = yes
+	}
+	2864.1.1 = {
+		death = yes
+	}
+}
+
+190295 = {
+	name = "Rodoald" # Rodoald Rodoaldidi, Count of Rossano (740-766)
+	dynasty = 1044070
+	religion = "catholic"
+	culture = "lombard"
+
+	2725.1.1 = {
+		birth = yes
+	}
+	2768.1.1 = {
+		death = yes
+	}
+}
+
+190296 = {
+	name = "Radulhin" # Radulhin Rodoaldidi, Count of Rossano (766-788)
+	dynasty = 1044070
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190295
+
+	2742.1.1 = {
+		birth = yes
+	}
+	2790.1.1 = {
+		death = yes
+	}
+}
+
+190297 = {
+	name = "Ermepert" # Ermepert Rodoaldidi, Count of Rossano (788-790)
+	dynasty = 1044070
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190295
+
+	2745.1.1 = {
+		birth = yes
+	}
+	2792.1.1 = {
+		death = yes
+	}
+}
+
+190298 = {
+	name = "Eufemia" #Eufemia Rodoaldidi, wife of Roderissus of Camarda
+	female = yes
+	dynasty = 1044070
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190295
+
+	2744.1.1 = {
+		birth = yes
+	}
+	2792.1.1 = {
+		death = yes
+	}
+}
+
+190299 = {
+	name = "Roderissus" # Roderissus (I) Roderissidi, Count of Camarda (763-810)
+	dynasty = 1044086
+	religion = "catholic"
+	culture = "lombard"
+
+	2747.1.1 = {
+		birth = yes
+	}
+	2764.1.1 = {
+		add_spouse = 190298
+	}
+	2812.1.1 = {
+		death = yes
+	}
+}
+
+190300 = {
+	name = "Rodegar" # Rodegar Roderissidi, Count of Camarda (810-811)
+	dynasty = 1044086
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190299
+	mother = 190298
+
+	2765.1.1 = {
+		birth = yes
+	}
+	2813.1.1 = {
+		death = yes
+	}
+}
+
+190301 = {
+	name = "Roderissus" # Roderissus (II) Roderissidi, Count of Camarda (811-814)
+	dynasty = 1044086
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190300
+
+	2785.1.1 = {
+		birth = yes
+	}
+	2816.1.1 = {
+		death = yes
+	}
+}
+
+190302 = {
+	name = "Framicus" # Framicus Roderissidi
+	dynasty = 1044086
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190299
+	mother = 190298
+
+	2767.1.1 = {
+		birth = yes
+	}
+	2812.1.1 = {
+		death = yes
+	}
+}
+
+190303 = {
+	name = "Gandulf" # Gandulf Gandulfidi, Count of Bari (742-766)
+	dynasty = 1044071
+	religion = "catholic"
+	culture = "lombard"
+
+	2723.1.1 = {
+		birth = yes
+	}
+	2768.1.1 = {
+		death = yes
+	}
+}
+
+190304 = {
+	name = "Daufer" # Daufer Gandulfidi, Count of Bari (766-830)
+	dynasty = 1044071
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190303
+
+	2765.1.1 = {
+		birth = yes
+	}
+	2832.1.1 = {
+		death = yes
+	}
+}
+
+190305 = {
+	name = "Rodegar" # Rodegar Gandulfidi, Count of Bari (830-834)
+	dynasty = 1044071 #Gandulfingi
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190304
+
+	2791.1.1 = {
+		birth = yes
+	}
+	2836.1.1 = {
+		death = yes
+	}
+}
+
+190306 = {
+	name = "Arnegisa" # Arnegisa Gandulfidi, wife of Maio of Aprutium
+	female = yes
+	dynasty = 1044071
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190303
+
+	2743.1.1 = {
+		birth = yes
+	}
+	2813.1.1 = {
+		death = yes
+	}
+}
+
+190307 = {
+	name = "Radegisa" # Radegisa Gandulfidi, wife of Paldo of Apulia
+	female = yes
+	dynasty = 1044071
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190303
+
+	2745.1.1 = {
+		birth = yes
+	}
+	2812.1.1 = {
+		death = yes
+	}
+}
+
+190308 = {
+	name = "Maio" #count of Aprutium
+	dynasty = 1044072 #Maioingi
+	religion = "catholic"
+	culture = "lombard"
+	2744.1.1 = {
+		birth = yes
+	}
+	2764.1.1 = {
+		add_spouse = 190306
+	}
+	2815.1.1 = {
+		death = yes
+	}
+}
+190309 = {
+	name = "Maio" #count of Aprutium
+	dynasty = 1044072 #Maioingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190308
+	mother = 190306
+	2768.1.1 = {
+		birth = yes
+	}
+	2852.1.1 = {
+		death = yes
+	}
+}
+
+190310 = {
+	name = "Paldo" # Paldo Paldonidi, Count of Apulia (762-807)
+	dynasty = 1044073
+	religion = "catholic"
+	culture = "lombard"
+
+	2748.1.1 = {
+		birth = yes
+	}
+	2764.1.1 = {
+		add_spouse = 190307
+	}
+	2809.1.1 = {
+		death = yes
+	}
+}
+
+190311 = {
+	name = "Stefanus" # Stefanus Paldonidi, Count of Apulia (807-817)
+	dynasty = 1044073
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190310
+	mother = 190307
+
+	2768.1.1 = {
+		birth = yes
+	}
+	2829.1.1 = {
+		death = yes
+	}
+}
+
+190312 = {
+	name = "Warpert" #count of Mantua
+	dynasty = 1044074 #Varbertingi
+	religion = "catholic"
+	culture = "lombard"
+	2738.1.1 = {
+		birth = yes
+	}
+	2755.1.1 = {
+		add_spouse = 190313
+	}
+	2799.1.1 = {
+		death = yes
+	}
+}
+190313 = {
+	name = "Richilda" #wife of Varbert of Mantua
+	female = yes
+	dynasty = 1044074 #Varbertingi
+	religion = "catholic"
+	culture = "lombard"
+	2737.1.1 = {
+		birth = yes
+	}
+	2799.1.1 = {
+		death = yes
+	}
+}
+190314 = {
+	name = "Lantpert" #count of Parma
+	dynasty = 1044074 #Varbertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190312
+	mother = 190313
+	2755.1.1 = {
+		birth = yes
+	}
+	2819.1.1 = {
+		death = yes
+	}
+}
+190315 = {
+	name = "Grimoald"
+	dynasty = 1044074 #Varbertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190312
+	mother = 190313
+	2757.1.1 = {
+		birth = yes
+	}
+	2819.1.1 = {
+		death = yes
+	}
+}
+190316 = {
+	name = "Warperga"
+	female = yes
+	dynasty = 1044074 #Varbertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190312
+	mother = 190313
+	2759.1.1 = {
+		birth = yes
+	}
+	2822.1.1 = {
+		death = yes
+	}
+}
+190317 = {
+	name = "Billo"
+	dynasty = 1044074 #Varbertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190312
+	mother = 190313
+	2760.1.1 = {
+		birth = yes
+	}
+	2820.1.1 = {
+		death = yes
+	}
+}
+190318 = {
+	name = "Drogo"
+	dynasty = 1044074 #Varbertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190312
+	mother = 190313
+	2761.1.1 = {
+		birth = yes
+	}
+	2820.1.1 = {
+		death = yes
+	}
+}
+190319 = {
+	name = "Daufer"
+	dynasty = 1044074 #Varbertingi
+	religion = "catholic"
+	culture = "lombard"
+	father = 190312
+	mother = 190313
+	2765.1.1 = {
+		birth = yes
+	}
+	2829.1.1 = {
+		death = yes
+	}
+}
+190320 = {
+	name = "Paldo" # Paldo, Count of Lombardia (766-774)
+	dynasty = 1044075
+	religion = "catholic"
+	culture = "lombard"
+
+	2748.1.1 = {
+		birth = yes
+	}
+	2809.1.1 = {
+		death = yes
+	}
+}
+190322 = {
+	name = "Lantpert" #count of Modena
+	dynasty = 1044077 #Lambertingi
+	religion = "catholic"
+	culture = "lombard"
+	2743.1.1 = {
+		birth = yes
+	}
+	2811.1.1 = {
+		death = yes
+	}
+}
+190323 = {
+	name = "Engelpert" #count of Treviso
+	dynasty = 1044078 #Engelbertingi
+	religion = "catholic"
+	culture = "lombard"
+	2744.1.1 = {
+		birth = yes
+	}
+	2809.1.1 = {
+		death = yes
+	}
+}
+190324 = {
+	name = "Liutfred" # Liutfred, Count of Montferrato (757-774)
+	dynasty = 1044079
+	religion = "catholic"
+	culture = "lombard"
+	
+	2739.1.1 = {
+		birth = yes
+	}
+	2780.1.1 = {
+		death = yes
+	}
+}
+190325 = {
+	name = "Potho" # Potho Gaidoaldidi, Count of Brescia (756-774)
+	dynasty = 1044080
+	religion = "catholic"
+	culture = "lombard"
+	
+	2733.1.1 = {
+		birth = yes
+	}
+	2785.1.1 = {
+		death = yes
+	}
+}
+190326 = {
+	name = "Taso" #count of Sienna
+	dynasty = 1044081 #Tasingi
+	religion = "catholic"
+	culture = "lombard"
+	2748.1.1 = {
+		birth = yes
+	}
+	2806.1.1 = {
+		death = yes
+	}
+}
+190328 = {
+	name = "Petrus" #count of Orvieto/Orbetello
+	dynasty = 1044082 #Petringi
+	religion = "catholic"
+	culture = "lombard"
+	2739.1.1 = {
+		birth = yes
+	}
+	2806.1.1 = {
+		death = yes
+	}
+}
+190329 = {
+	name = "Faroald" #count of Piombino
+	dynasty = 1044083 #Faroaldingi
+	religion = "catholic"
+	culture = "lombard"
+	2753.1.1 = {
+		birth = yes
+	}
+	2801.1.1 = {
+		death = yes
+	}
+}
+190330 = {
+	name = "Liutprand" # Liutprand, Count of Turin, Cuneo and Novara (756-774)
+	dynasty = 1044084
+	religion = "catholic"
+	culture = "lombard"
+	trait = education_stewardship_2
+	
+	2742.1.1 = {
+		birth = yes
+	}
+	2793.1.1 = {
+		death = yes
+	}
+}
+190332 = {
+	name = "Pando" # Pando Landolfidi, Placeholder Count of Capua (768-815)
+	dynasty = 7184
+	religion = "catholic"
+	culture = "lombard"
+
+	2742.1.1 = {
+		birth = yes
+	}
+	2817.1.1 = {
+		death = yes
+	}
+}
+
+30854 = {
+	name = "Gemma" # Gemma Landolfidi, wife of Guaimar IV of Salerno
+	female = yes
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = 73354
+
+	3020.1.1 = {
+		birth = yes
+	}
+	3072.12.1 = {
+		death = yes
+	}
+}
+
+73317 = {
+	name = "Pandolf" # Pandolf (IV) Landolfidi, Duke of Benevento (1073)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 73318
+	mother = 73320
+
+	3042.1.1 = {
+		birth = yes
+	}
+	3054.1.1 = {
+		employer = 73321
+		move_to_pool = yes
+	}
+	3055.1.1 = {
+		employer = 73472
+	}
+	3070.1.1 = {
+		add_spouse = 73319
+	}
+	3075.2.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+
+73318 = {
+	name = "Landolf" # Landolf (VI) Landolfidi, Duke of Benevento (1059-1073 & 1073-1077)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	father = 73321
+	mother = 73322
+
+	3019.1.1 = {
+		birth = yes
+	}
+	3040.1.1 = {
+		add_spouse = 73320
+	}
+	3041.1.1 = {
+		employer = 73321
+	}
+	3055.1.1 = {
+		employer = 73472
+	}
+	3079.11.18 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+73319 = {
+	name = "Altruda" # Altruda, wife of Landolf IV of Benevento
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_intrigue_1
+
+	3052.1.1 = {
+		birth = yes
+	}
+	3121.7.7 = {
+		death = yes
+	}
+}
+
+73320 = {
+	name = "Maria" # Maria, wife of Landolf IV of Benevento
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	3022.1.1 = {
+		birth = yes
+	}
+	3071.5.20 = {
+		death = yes
+	}
+}
+
+73321 = {
+	name = "Pandolf" # Pandolf (III) Pandolfidi, Duke of Benevento (1034-1053 & 1054-1059)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73323
+	mother = 168453
+
+	2997.1.1 = {
+		birth = yes
+	}
+	3018.1.1 = {
+		add_spouse = 73322
+	}
+	3061.1.1 = {
+		death = yes
+	}
+}
+
+73322 = {
+	name = "Altruda" # Altruda, wife of Pandolf III of Benevento
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_learning_1
+
+	3002.1.1 = {
+		birth = yes
+	}
+	3071.5.20 = {
+		death = yes
+	}
+}
+
+73323 = {
+	name = "Landolf" # Landolf (V) Landolfidi, Duke of Benevento (1014-1034)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73324
+
+	2980.1.1 = {
+		birth = yes
+	}
+	2996.1.1 = {
+		add_spouse = 168453
+	}
+	3036.9.1 = {
+		death = yes
+	}
+}
+
+73324 = {
+	name = "Pandolf" # Pandolf (II) Landolfidi, Duke of Benevento (981-1014) and Capua (1007-1014)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73325
+
+	2955.1.1 = {
+		birth = yes
+	}
+	3016.8.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+73325 = {
+	name = "Landolf" # Landolf (V) Landolfidi, Duke of Capua and Benevento (961-962)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73328
+
+	2932.1.1 = {
+		birth = yes
+	}
+	2970.1.1 = {
+		death = {
+			death_reason = death_ill
+		}
+	}
+}
+
+73326 = {
+	name = "Landolf" # Landolf (VI) Landolfidi, Duke of Capua (981-982), Benevento and Spoleto (981)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73327
+
+	2952.1.1 = {
+		birth = yes
+	}
+	2984.7.13 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+
+73327 = {
+	name = "Pandolf" # Pandolf (I) Landolfidi 'Ironhead', Duke of Capua and Benevento (962-981), Spoleto (967-981) and Salerno (977-981)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73328
+
+	2929.1.1 = {
+		birth = yes
+	}
+	2983.3.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+73328 = {
+	name = "Landolf" # Landolf (IV) Landolfidi 'the Red', Duke of Capua and Benevento (943-961)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73330
+	mother = 262249
+
+	2904.1.1 = {
+		birth = yes
+	}
+	2945.11.1 = {
+		effect = {
+			give_nickname = nick_the_red
+		}
+	}
+	2963.5.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+73329 = {
+	name = "Atenolf" # Atenolf (III) Landolfidi, Duke of Capua and Benevento (943)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_intrigue_1
+
+	father = 73330
+	mother = 262249
+
+	2902.1.1 = {
+		birth = yes
+	}
+	2928.1.1 = {
+		add_spouse = 262441
+	}
+	2945.6.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+73330 = {
+	name = "Landolf" # Landolf (III) Landolfidi, Duke of Capua and Benevento (912-913, 914-943)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73331
+
+	2874.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		add_spouse = 262249
+	}
+	2945.4.10 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+73331 = {
+	name = "Atenolf" # Atenolf (I) Landolfidi 'the Great', Count, Duke from 900, of Capua (887-912) and Benevento (900-912)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_3
+
+	father = 163072
+	mother = 190294
+
+	2849.1.1 = {
+		birth = yes
+	}
+	2902.1.1 = {
+		effect = {
+			give_nickname = nick_the_great
+		}
+	}
+	2914.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+73332 = {
+	name = "Atenolf" # Atenolf (II) Landolfidi, Duke of Capua and Benevento (913), corruler with his brother
+	dynasty = 7184
+
+	religion = catholic
+	culture = lombard
+
+	father = 73331
+
+	2876.1.1 = {
+		birth = yes
+	}
+	2943.1.1 = {
+		death = yes
+	}
+}
+
+73333 = {
+	name = "Landenolf" # Landenolf (II) Landolfidi, Duke of Capua (982-993)
+	dynasty = 7184
+
+	father = 73327
+
+	religion = catholic
+	culture = lombard
+
+	2960.1.1 = {
+		birth = yes
+	}
+	2995.4.21 = {
+		death = {
+			death_reason = death_murder_known
+			killer = 73334
+		}
+	}
+}
+
+73334 = {
+	name = "Laidolf" # Laidolf Landolfidi, Duke of Capua (993-999)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = kinslayer_3
+
+	father = 73327
+
+	2962.1.1 = {
+		birth = yes
+	}
+	3017.1.1 = {
+		death = yes
+	}
+}
+
+73335 = {
+	name = "Ademar" # Ademar Balsamidi, Duke of Spoleto (998-999) and Capua (999)
+	dynasty = balsamidi
+	religion = catholic
+	culture = lombard
+
+	2958.1.1 = {
+		birth = yes
+	}
+	3011.3.1 = {
+		death = yes
+	}
+}
+
+73336 = {
+	name = "Landolf" # Landolf (VII) Landolfidi, Duke of Capua (999-1007)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73325
+
+	2954.1.1 = {
+		birth = yes
+	}
+	3009.1.1 = {
+		death = yes
+	}
+}
+
+73337 = {
+	name = "Pandolf" # Pandolf (III) Landolfidi, Duke of Capua (1014-1021)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73336
+
+	2978.1.1 = {
+		birth = yes
+	}
+	3023.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+73338 = {
+	name = "Pandolf" # Pandolf (IV) Landolfidi, Duke of Capua (1021-1022, 1024-1038 & 1046-1049)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73324
+
+	2979.1.1 = {
+		birth = yes
+	}
+	3051.2.20 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+73339 = {
+	name = "Gisulf" # Gisulf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73327
+
+	2964.1.1 = {
+		birth = yes
+	}
+	2998.8.1 = {
+		death = yes
+	}
+}
+
+73340 = {
+	name = "Pandolf" # Pandolf (V) Landolfidi, Duke of Capua (1022-1023 & 1024-1027)
+	dynasty = 7184
+
+	father = 73339
+
+	religion = catholic
+	culture = lombard
+
+	2984.1.1 = {
+		birth = yes
+	}
+	3034.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+73341 = {
+	name = "Ioannes" # Ioannes Landolfidi, Duke of Capua (1023-1024), corruler with his father
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73340
+
+	3007.1.1 = {
+		birth = yes
+	}
+	3028.1.1 = {
+		death = yes
+	}
+}
+
+73342 = {
+	name = "Pandolf" # Pandolf (VI) Landolfidi, Duke of Capua (1049-1057)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73338
+
+	3002.1.1 = {
+		birth = yes
+	}
+	3059.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+73343 = {
+	name = "Landolf" # Landolf (VIII) Landolfidi, Duke of Capua (1057-1059)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = content
+	trait = education_diplomacy_1
+
+	father = 73342
+
+	3024.1.1 = {
+		birth = yes
+	}
+	3061.1.1 = {
+		employer = 1152
+		move_to_pool = yes
+	}
+	3080.1.1 = {
+		death = yes
+	}
+}
+
+73344 = {
+	name = "Sichelgaita" # Sichelgaita Landolfidi, wife of Guaimar Paldolfidi
+	female = yes
+	dynasty = 7184
+	trait = education_stewardship_1
+
+	father = 73343
+
+	religion = catholic
+	culture = lombard
+
+	3043.1.1 = {
+		birth = yes
+	}
+	3100.1.1 = {
+		death = yes
+	}
+}
+
+73345 = {
+	name = "Adelgrima" # Adelgrima Pandolfidi, wife of Lando d'Aquino
+	female = yes
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = 73342
+
+	3025.1.1 = {
+		birth = yes
+	}
+	3100.1.1 = {
+		death = yes
+	}
+}
+
+73346 = {
+	name = "Lando" # Lando d'Aquino
+	dynasty = 8682
+	religion = catholic
+	culture = lombard
+
+	father = 214106
+
+	3020.1.1 = {
+		birth = yes
+	}
+	3043.1.1 = {
+		add_spouse = 73345
+	}
+	3067.1.1 = {
+		death = yes
+	}
+}
+
+73347 = {
+	name = "Atenolf" # Atenolf d'Aquino
+	dynasty = 8682
+	religion = catholic
+	culture = lombard
+	trait = education_martial_2
+
+	father = 73346
+	mother = 73345
+
+	3044.1.1 = {
+		birth = yes
+	}
+	3107.1.1 = {
+		death = yes
+	}
+}
+
+73348 = {
+	name = "Landolf" # Landolf d'Aquino
+	dynasty = 8682
+	religion = catholic
+	culture = lombard
+	trait = education_intrigue_1
+
+	father = 73346
+	mother = 73345
+
+	3045.1.1 = {
+		birth = yes
+	}
+	3107.1.1 = {
+		death = yes
+	}
+}
+
+73349 = {
+	name = "Pandolf" # Pandolf d'Aquino
+	dynasty = 8682
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 73346
+	mother = 73345
+
+
+	3047.1.1 = {
+		birth = yes
+	}
+	3107.1.1 = {
+		death = yes
+	}
+}
+
+73350 = {
+	name = "Lando" # Lando (IV) d'Aquino, Duke of Capua (1092-1098)
+	dynasty = 8682
+	religion = catholic
+	culture = lombard
+	trait = education_martial_2
+
+	father = 73346
+	mother = 73345
+
+	3048.1.1 = {
+		birth = yes
+	}
+	3107.1.1 = {
+		death = yes
+	}
+}
+
+73351 = {
+	name = "Atenolf" # Atenolf d'Aquino
+	dynasty = 8682
+	religion = catholic
+	culture = lombard
+
+	father = 73347
+
+	3068.1.1 = {
+		birth = yes
+	}
+	3124.2.1 = {
+		death = yes
+	}
+}
+
+73352 = {
+	name = "Sichelgaita" # Sichelgaita d'Aquino
+	female = yes
+	dynasty = 8682
+	religion = catholic
+	culture = lombard
+
+	father = 73347
+
+	3070.1.1 = {
+		birth = yes
+	}
+	3127.1.1 = {
+		death = yes
+	}
+}
+
+73353 = {
+	name = "Petrus" # Petrus d'Aquino
+	dynasty = 8682
+	religion = catholic
+	culture = lombard
+
+	father = 73350
+
+	3062.1.1 = {
+		birth = yes
+	}
+	3066.1.1 = {
+		death = yes
+	}
+}
+
+73354 = {
+	name = "Laidolf" # Laidolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73338
+
+	3004.1.1 = {
+		birth = yes
+	}
+	3048.2.1 = {
+		death = yes
+	}
+}
+
+73355 = {
+	name = "Pandolf" # Pandolf (III) Landolfidi, Duke of Salerno (1052)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73354
+
+	3024.1.1 = {
+		birth = yes
+	}
+	3054.8.1 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+
+2012 = {
+	name = "Daufer" # Daufer Landolfidi, Pope Victor III (1087)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = theologian
+	trait = humble
+	trait = zealous
+	trait = education_learning_3
+
+	father = 73323
+
+	3028.1.1 = {
+		birth = yes
+	}
+	3087.5.25 = {
+		name = "Victor"
+	}
+	3089.9.16 = {
+		death = {
+			death_reason = death_ill
+		}
+	}
+}
+
+163072 = {
+	name = "Landenolf" # Landenolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 163075
+	mother = 190292
+
+	2824.1.1 = {
+		birth = yes
+	}
+	2846.1.1 = {
+		add_spouse = 190294
+	}
+	2861.1.1 = {
+		death = {
+			death_reason = death_stress
+		}
+	}
+}
+
+163073 = {
+	name = "Landenolf" # Landenolf (I) Landolfidi, Count of Capua (885-887)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = 163072
+	mother = 190294
+
+	2848.1.1 = {
+		birth = yes
+	}
+	2889.1.1 = {
+		death = yes
+	}
+}
+
+163074 = {
+	name = "Lando" # Lando (III) Landolfidi, Count of Capua (882-885)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_intrigue_1
+
+	father = 163072
+	mother = 190294
+
+	2847.1.1 = {
+		birth = yes
+	}
+	2887.1.1 = {
+		death = yes
+	}
+}
+
+163075 = {
+	name = "Landolf" # Landolf (I) Landolfidi 'the Old', Count of Capua (815-842)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 190332
+
+	2782.1.1 = {
+		birth = yes
+	}
+	2815.1.1 = {
+		add_spouse = 190292
+	}
+	2844.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+		effect = {
+			give_nickname = nick_the_old
+		}
+	}
+}
+
+163076 = {
+	name = "Lando" # Lando (I) Landolfidi, Count of Capua (842-861)
+	dynasty = 7184
+
+	father = 163075
+	mother = 190292
+
+	religion = catholic
+	culture = lombard
+
+	2816.1.1 = {
+		birth = yes
+	}
+	2863.1.1 = {
+		death = {
+			death_reason = death_consumption
+		}
+	}
+}
+
+163077 = {
+	name = "Pando" # Pando Landolfidi, Count of Capua (861)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 163075
+	mother = 190292
+
+	2821.1.1 = {
+		birth = yes
+	}
+	2864.1.1 = {
+		death = yes
+	}
+}
+
+163078 = {
+	name = "Pandenolf" # Pandenolf (I) Landolfidi, Count of Capua (862-863 & 879-882)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_intrigue_2
+
+	father = 163077
+
+	2842.1.1 = {
+		birth = yes
+	}
+	2884.1.1 = {
+		death = yes
+	}
+}
+
+163079 = {
+	name = "Landolf" # Landolf (II) Landolfidi 'the Bishop', Count of Capua (863-879)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = theologian
+	trait = architect
+	trait = lifestyle_mystic
+	trait = education_learning_3
+
+	father = 163075
+	mother = 190292
+
+	2827.1.1 = {
+		birth = yes
+	}
+	2881.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+168496 = {
+	name = "Maria" # Maria Landolfidi, wife of Sergius III of Amalfi
+	female = yes
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73324
+
+	2982.1.1 = {
+		birth = yes
+	}
+	3042.1.1 = {
+		death = yes
+	}
+}
+
+145206 = {
+	name = "Lando" # Lando (II) Landolfidi, Count of Capua (843-861)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = content
+	trait = education_martial_3
+
+	father = 163076
+
+	2834.1.1 = {
+		birth = yes
+	}
+	2864.1.1 = {
+		employer = 163078
+	}
+	2889.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+1116 = {
+	name = "Guaimar" # Guaimar (IV) Lampertidi, Duke of Salerno (1025-1035 & 1040-1052) and Capua (1038-1047)
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = 30857
+	mother = lombard0087
+
+	3012.1.1 = {
+		birth = yes
+	}
+	3028.1.1 = {
+		add_spouse = 1117
+	}
+	3034.5.1 = {
+		add_spouse = 30854
+	}
+	3054.6.3 = {
+		death = {
+			death_reason = death_murder
+			#killer = Pandolf, son of Pandolf V of Capua
+		}
+	}
+}
+
+1117 = {
+	name = "Purpura"
+	female = yes
+
+	religion = catholic
+	culture = lombard
+
+	3012.1.1 = {
+		birth = yes
+	}
+	3034.1.1 = {
+		death = yes
+	}
+}
+
+1119 = {
+	name = "Gisulf" # Gisulf (II) Lampertidi, Duke of Salerno (1052-1076)
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = torturer
+	trait = vengeful
+	trait = education_intrigue_1
+
+	father = 1116
+	mother = 30854
+
+	3037.1.1 = {
+		birth = yes
+	}
+	3093.1.1 = {
+		death = yes
+	}
+}
+
+1123 = {
+	name = "Sichelgaita" # Sichelgaita Lampertidi, wife of Robert Guiscard of Apulia
+	dna = 1123_sichelgaita
+	female = yes
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_intrigue_2
+
+	father = 1116
+	mother = 30854
+
+	3042.1.1 = {
+		birth = yes
+	}
+	3092.7.27 = {
+		death = yes
+	}
+}
+
+1129 = {
+	name = "Gaitelgrima" # Gaitelgrima Lampertidi
+	female = yes
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	father = 1116
+	mother = 1117
+
+	3034.1.1 = {
+		birth = yes
+	}
+	3106.6.1 = {
+		death = yes
+	}
+}
+
+1137 = {
+	name = "Maria" # Maria Widi, wife of William de Hauteville
+	female = yes
+	dynasty_house = house_widi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 30856
+	mother = lombard0025
+
+	3036.1.1 = {
+		birth = yes
+	}
+	3087.1.1 = {
+		death = yes
+	}
+}
+
+30855 = {
+	name = "Gaitelgrima" # Gaitelgrima Lampertidi, wife of Jordan of Capua
+	female = yes
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 1116
+	mother = 30854
+
+	3052.1.1 = {
+		birth = yes
+	}
+	3110.12.9 = {
+		death = yes
+	}
+}
+
+30856 = {
+	name = "Guido" # Wido Widi
+	dynasty_house = house_widi
+	religion = catholic
+	culture = lombard
+	trait = education_intrigue_2
+
+	father = 30857
+	mother = lombard0087
+
+	3014.1.1 = {
+		birth = yes
+	}
+	3032.1.1 = {
+		add_spouse = lombard0025
+	}
+	3079.1.1 = {
+		death = yes
+	}
+}
+
+30857 = {
+	name = "Guaimar" # Guaimar (III) Lampertidi, Duke of Salerno (999-1027)
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0002
+
+	2972.1.1 = {
+		birth = yes
+	}
+	3010.1.1 = {
+		add_spouse = lombard0087
+	}
+	3029.2.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+30858 = {
+	name = "Landolf" # Landolf Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 1116
+	mother = 30854
+
+	3044.1.1 = {
+		birth = yes
+	}
+	3066.1.1 = {
+		add_spouse = lombard0033
+	}
+	3077.1.1 = {
+		death = yes
+	}
+}
+
+30859 = {
+	name = "Guido" # Wido Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_2
+
+	father = 1116
+	mother = 30854
+
+	3046.1.1 = {
+		birth = yes
+	}
+	3077.1.1 = {
+		death = yes
+	}
+}
+
+30860 = {
+	name = "Ioannes" # Ioannes Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_learning_1
+
+	father = 1116
+	mother = 30854
+
+	3048.1.1 = {
+		birth = yes
+	}
+	3067.1.1 = {
+		add_spouse = lombard0023
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+
+30861 = {
+	name = "Guaimar" # Guaimar Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 1116
+	mother = 30854
+
+	3050.1.1 = {
+		birth = yes
+	}
+	3078.1.1 = {
+		death = yes
+	}
+}
+
+163091 = {
+	name = "Guaifer" # Guaifer Dauferidi, Duke of Salerno (861-880)
+	dynasty = 1022178
+	trait = education_intrigue_3
+
+	father = 145214
+
+	religion = catholic
+	culture = lombard
+
+	2832.1.1 = {
+		birth = yes
+	}
+	2856.1.1 = {
+		add_spouse = lombard0067
+	}
+	2882.2.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+145211 = {
+	name = "Petrus" # Petrus Petridi, Duke of Salerno (853)
+	dynasty = 1022143
+	religion = catholic
+	culture = lombard
+
+	2802.1.1 = {
+		birth = yes
+	}
+	2855.12.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+145212 = {
+	name = "Ademar" # Ademar Petridi, Duke of Salerno (853-861)
+	dynasty = 1022143
+	religion = catholic
+	culture = lombard
+
+	father = 145211
+
+	2822.1.1 = {
+		birth = yes
+	}
+	2863.8.1 = {
+		trait = blind
+	}
+	2864.1.1 = {
+		death = {
+			death_reason = death_dungeon
+		}
+	}
+}
+
+145213 = {
+	name = "Daufer" # Daufer Dauferidi
+	dynasty = 1022178
+
+	religion = catholic
+	culture = lombard
+
+	2782.1.1 = {
+		birth = yes
+	}
+	2832.1.1 = {
+		death = yes
+	}
+}
+
+145214 = {
+	name = "Daufer" # Daufer Dauferidi
+	dynasty = 1022178
+
+	father = 145213
+
+	religion = catholic
+	culture = lombard
+
+	2812.1.1 = {
+		birth = yes
+	}
+	2854.3.1 = {
+		death = yes
+	}
+}
+
+145215 = {
+	name = "Guaimar" # Guaimar (I) Dauferidi, Duke of Salerno (880-901)
+	dynasty = 1022178
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = 163091
+	mother = lombard0067
+
+	2857.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		add_spouse = 262155
+	}
+	2903.2.1 = {
+		death = {
+			death_reason = death_depressed
+		}
+	}
+}
+
+168416 = {
+	name = "Ursus" # Ursus Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+
+	2802.1.1 = {
+		birth = yes
+	}
+	2852.1.1 = {
+		death = yes
+	}
+}
+
+168417 = {
+	name = "Leo" # Leo Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 168416
+
+	2832.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+
+168418 = {
+	name = "Manso" # Manso (I) Ursidi, Duke of Amalfi (898-914)
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = 168417
+
+	2852.1.1 = {
+		birth = yes
+	}
+	2916.1.1 = {
+		trait = devoted
+	}
+	2917.1.1 = {
+		death = yes
+	}
+}
+
+168419 = {
+	name = "Mastalo" # Mastalo (I) Ursidi, Duke of Amalfi (914-930 & 947-954)
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+
+	father = 168418
+
+	2882.1.1 = {
+		birth = yes
+	}
+	2956.6.29 = {
+		death = yes
+	}
+}
+
+168420 = {
+	name = "Constantinus" # Constantinus Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+
+	father = 168418
+
+	2892.1.1 = {
+		birth = yes
+	}
+	2962.1.1 = {
+		death = yes
+	}
+}
+
+168421 = {
+	name = "Leo" # Leo (I) Ursidi, Duke of Amalfi (930-931)
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+
+	father = 168419
+
+	2902.1.1 = {
+		birth = yes
+	}
+	2933.6.25 = {
+		death = yes
+	}
+}
+
+168422 = {
+	name = "Ioannes" # Ioannes (I) Ursidi, Duke of Amalfi (931-947)
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+
+	father = 168419
+
+	2904.1.1 = {
+		birth = yes
+	}
+	2949.7.26 = {
+		death = yes
+	}
+}
+
+168423 = {
+	name = "Mastalo" # Mastalo (II) Ursidi, Duke of Amalfi (954-958)
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+
+	father = 168422
+
+	2937.1.1 = {
+		birth = yes
+	}
+	2960.1.1 = {
+		death = yes
+	}
+
+}
+
+168424 = {
+	name = "Manso" # Manso Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+
+	father = 168420
+
+	2912.1.1 = {
+		birth = yes
+	}
+	2962.1.1 = {
+		death = yes
+	}
+}
+
+168425 = {
+	name = "Leo" # Leo Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+
+	father = 168424
+
+	2937.1.1 = {
+		birth = yes
+	}
+	3012.1.1 = {
+		death = yes
+	}
+}
+
+168426 = {
+	name = "Constantinus" # Constantinus Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+
+	father = 168425
+
+	2977.1.1 = {
+		birth = yes
+	}
+	3037.1.1 = {
+		death = yes
+	}
+}
+
+168427 = {
+	name = "Manso" # Manso Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = 168425
+
+	3007.1.1 = {
+		birth = yes
+	}
+	3037.1.1 = {
+		add_spouse = 168429
+	}
+	3077.1.1 = {
+		death = yes
+	}
+}
+
+168428 = {
+	name = "Mastalo" # Mastalo Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	father = 168425
+
+	3012.1.1 = {
+		birth = yes
+	}
+	3079.1.1 = {
+		death = yes
+	}
+}
+
+168429 = {
+	name = "Maria" # Maria, wife of Manso Ursidi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	3017.1.1 = {
+		birth = yes
+	}
+	3077.1.1 = {
+		death = yes
+	}
+}
+
+168430 = {
+	name = "Leo" # Leo Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+	trait = education_learning_1
+
+	father = 168427
+	mother = 168429
+
+	3042.1.1 = {
+		birth = yes
+	}
+	3092.1.1 = {
+		death = yes
+	}
+}
+
+168431 = {
+	name = "Manso" # Manso Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = 168427
+	mother = 168429
+
+	3044.1.1 = {
+		birth = yes
+	}
+	3092.1.1 = {
+		death = yes
+	}
+}
+
+168432 = {
+	name = "Ioannes" # Ioannes Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 168427
+	mother = 168429
+
+	3047.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+
+168433 = {
+	name = "Ursulinus" # Ursulinus Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+
+	father = 168431
+	trait = bastard
+
+	3062.1.1 = {
+		birth = yes
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+
+168434 = {
+	name = "Sergius" # Sergius Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = 168416
+
+	2837.1.1 = {
+		birth = yes
+	}
+	2887.1.1 = {
+		death = yes
+	}
+}
+
+168435 = {
+	name = "Anasthasius" # Anasthasius Ursidi
+	dynasty = 9593
+	religion = catholic
+	culture = lombard
+	trait = education_learning_1
+
+	father = 168416
+
+	2840.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+
+
+168436 = {
+	name = "Musco" # Musco Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	2832.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+
+168437 = {
+	name = "Sergius" # Sergius Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	father = 168436
+
+	2850.1.1 = {
+		birth = yes
+	}
+	2912.1.1 = {
+		death = yes
+	}
+}
+
+168438 = {
+	name = "Musco" # Musco Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168437
+
+	2882.1.1 = {
+		birth = yes
+	}
+	2942.1.1 = {
+		death = yes
+	}
+}
+
+168439 = {
+	name = "Sergius" # Sergius (II) Musconidi, Duke of Amalfi (958-966)
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168438
+
+	2907.1.1 = {
+		birth = yes
+	}
+	2968.12.20 = {
+		death = yes
+	}
+}
+
+168440 = {
+	name = "Manso" # Manso (II) Musconidi, Duke of Amalfi (981-984 & 986-1004) and Salerno (981-983)
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168439
+
+	2942.1.1 = {
+		birth = yes
+	}
+	3006.1.1 = {
+		death = yes
+	}
+}
+
+168441 = {
+	name = "Ioannes" # Ioannes Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168439
+
+	2947.1.1 = {
+		birth = yes
+	}
+	3009.4.27 = {
+		death = yes
+	}
+}
+
+168442 = {
+	name = "Adelfer" # Adelfer (I) Musconidi, Duke of Amalfi (984-986)
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168439
+
+	2950.1.1 = {
+		birth = yes
+	}
+	3000.1.1 = {
+		death = yes
+	}
+}
+
+168443 = {
+	name = "Sergius" # Sergius Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168442
+
+	2977.1.1 = {
+		birth = yes
+	}
+	3014.5.10 = {
+		death = yes
+	}
+}
+
+168444 = {
+	name = "Maurus" # Maurus Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168442
+
+	2982.1.1 = {
+		birth = yes
+	}
+	3014.5.10 = {
+		death = yes
+	}
+}
+
+168445 = {
+	name = "Ademar" # Ademar Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168442
+
+	2984.1.1 = {
+		birth = yes
+	}
+	3014.5.10 = {
+		death = yes
+	}
+}
+
+168446 = {
+	name = "Leo" # Leo Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168439
+
+	2952.1.1 = {
+		birth = yes
+	}
+	2994.1.1 = {
+		death = yes
+	}
+}
+
+168447 = {
+	name = "Purpura" # Purpura Musconidi
+	female = yes
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168446
+
+	2977.1.1 = {
+		birth = yes
+	}
+	3039.1.1 = {
+		death = yes
+	}
+}
+
+168448 = {
+	name = "Ioannes" # Ioannes (II) Musconidi, Duke of Amalfi (1004-1006) and Salerno (983)
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168440
+
+	2962.1.1 = {
+		birth = yes
+	}
+	3008.6.1 = {
+		death = yes
+	}
+}
+
+168449 = {
+	name = "Marinus" # Marinus Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168440
+
+	2967.1.1 = {
+		birth = yes
+	}
+	3013.1.1 = {
+		death = yes
+	}
+}
+
+168450 = {
+	name = "Sergius" # Sergius Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168440
+
+	2972.1.1 = {
+		birth = yes
+	}
+	3010.11.1 = {
+		death = yes
+	}
+}
+
+168451 = {
+	name = "Manso" # Manso Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168440
+
+	2974.1.1 = {
+		birth = yes
+	}
+	3023.11.1 = {
+		death = yes
+	}
+}
+
+168452 = {
+	name = "Landolf" # Landolf Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168440
+
+	2975.1.1 = {
+		birth = yes
+	}
+	3010.11.1 = {
+		death = yes
+	}
+}
+
+168453 = {
+	name = "Carda" # Carda Musconidi, wife of Landolf V of Benevento
+	female = yes
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168440
+
+	2977.1.1 = {
+		birth = yes
+	}
+	3011.1.1 = {
+		death = yes
+	}
+}
+
+168454 = {
+	name = "Sergius" # Sergius (III) Musconidi, Duke of Salerno (1006-1028)
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168448
+
+	2985.1.1 = {
+		birth = yes
+	}
+	3014.1.1 = {
+		add_spouse = 168496
+	}
+	3030.1.1 = {
+		death = yes
+	}
+}
+
+168455 = {
+	name = "Marinus" # Marinus Musconidi
+	dynasty = 9592
+
+	father = 168448
+
+	religion = catholic
+	culture = lombard
+
+	2990.1.1 = {
+		birth = yes
+	}
+	3040.1.1 = {
+		death = yes
+	}
+}
+
+168456 = {
+	name = "Arechis" # Arechis Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168448
+
+	2992.1.1 = {
+		birth = yes
+	}
+	3042.1.1 = {
+		death = yes
+	}
+}
+
+168457 = {
+	name = "Sergius" # Sergius Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 168455
+
+	3017.1.1 = {
+		birth = yes
+	}
+	3081.6.10 = {
+		death = yes
+	}
+}
+
+168458 = {
+	name = "Sergius" # Sergius Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 168457
+
+	3037.1.1 = {
+		birth = yes
+	}
+	3081.6.10 = {
+		death = yes
+	}
+}
+
+168459 = {
+	name = "Ioannes" # Ioannes Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_martial_2
+
+	father = 168457
+
+	3039.1.1 = {
+		birth = yes
+	}
+	3081.6.10 = {
+		death = yes
+	}
+}
+
+168460 = {
+	name = "Manso" # Manso Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = 168456
+
+	3017.1.1 = {
+		birth = yes
+	}
+	3080.1.1 = {
+		death = yes
+	}
+}
+
+168461 = {
+	name = "Arechis" # Arechis Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_martial_2
+
+	father = 168460
+
+	3037.1.1 = {
+		birth = yes
+	}
+	3080.1.1 = {
+		death = yes
+	}
+}
+
+168462 = {
+	name = "Ioannes" # Ioannes Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 168460
+
+	3038.1.1 = {
+		birth = yes
+	}
+	3080.1.1 = {
+		death = yes
+	}
+}
+
+168463 = {
+	name = "Aloara" # Aloara Musconidi
+	female = yes
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = 168460
+
+	3039.1.1 = {
+		birth = yes
+	}
+	3080.1.1 = {
+		death = yes
+	}
+}
+
+168464 = {
+	name = "Stefania" # Stefania Musconidi
+	female = yes
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 168460
+
+	3040.1.1 = {
+		birth = yes
+	}
+	3080.1.1 = {
+		death = yes
+	}
+}
+
+168465 = {
+	name = "Regalia" # Regalia Musconidi
+	female = yes
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 168460
+
+	3041.1.1 = {
+		birth = yes
+	}
+	3080.1.1 = {
+		death = yes
+	}
+}
+
+168466 = {
+	name = "Ioannes" # Ioannes (III) Musconidi, Duke of Amalfi (1029-1034, 1038-1039 & 1052-1069)
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_intrigue_3
+
+	father = 168454
+	mother = 168496
+
+	3017.1.1 = {
+		birth = yes
+	}
+	3071.1.1 = {
+		death = yes
+	}
+}
+
+168467 = {
+	name = "Manso" # Manso (III) Musconidi, Duke of Amalfi (1028-1029, 1034-1038 & 1043-1051)
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168454
+	mother = 168496
+
+	3019.1.1 = {
+		birth = yes
+	}
+	3040.1.1 = {
+		trait = blind
+		effect = {
+			give_nickname = nick_the_blind
+		}
+	}
+	3055.1.1 = {
+		death = yes
+	}
+}
+
+168468 = {
+	name = "Rofrit" # Rofrit Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168454
+	mother = 168496
+
+	3021.1.1 = {
+		birth = yes
+	}
+	3060.11.12 = {
+		death = yes
+	}
+}
+
+168469 = {
+	name = "Atenolf" # Atenolf Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = 168454
+	mother = 168496
+
+	3022.1.1 = {
+		birth = yes
+	}
+	3069.1.1 = {
+		death = yes
+	}
+}
+
+168470 = {
+	name = "Alberic" # Alberic Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_martial_2
+
+	father = 168454
+	mother = 168496
+
+	3027.1.1 = {
+		birth = yes
+	}
+	3096.12.1 = {
+		death = yes
+	}
+}
+
+168471 = {
+	name = "Regalia" # Regalia Musconidi, wife of Rainulf Drengot
+	female = yes
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 168454
+	mother = 168496
+
+	3018.1.1 = {
+		birth = yes
+	}
+	3078.1.1 = {
+		death = yes
+	}
+}
+
+168472 = {
+	name = "Pandolf" # Pandolf Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = 168469
+
+	3042.1.1 = {
+		birth = yes
+	}
+	3092.1.1 = {
+		death = yes
+	}
+}
+
+168473 = {
+	name = "Regalia" # Regalia Musconidi
+	female = yes
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168472
+
+	3062.1.1 = {
+		birth = yes
+	}
+
+	3102.1.1 = {
+		death = yes
+	}
+}
+
+168474 = {
+	name = "Guaimar" # Guaimar (II) Musconidi, Duke of Amalfi (1051-1052)
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168467
+
+	3037.1.1 = {
+		birth = yes
+	}
+	3054.1.1 = {
+		death = yes
+	}
+}
+
+168475 = {
+	name = "Sergius" # Sergius (IV) Musconidi, Duke of Amalfi (1069-1072)
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 168466
+
+	3034.1.1 = {
+		birth = yes
+	}
+	3074.1.1 = {
+		death = yes
+	}
+}
+
+168476 = {
+	name = "Ioannes" # Ioannes (IV) Musconidi (1072-1073)
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 168475
+
+	3052.1.1 = {
+		birth = yes
+	}
+	3079.1.1 = {
+		death = yes
+	}
+}
+
+168477 = {
+	name = "Ioannes" # Ioannes Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = 168436
+
+	2851.1.1 = {
+		birth = yes
+	}
+	2901.1.1 = {
+		death = yes
+	}
+}
+
+168478 = {
+	name = "Adelfer" # Adelfer Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_martial_2
+
+	father = 168436
+
+	2852.1.1 = {
+		birth = yes
+	}
+	2912.1.1 = {
+		death = yes
+	}
+}
+
+168479 = {
+	name = "Maurus"
+	dynasty = 9594
+
+	religion = catholic
+	culture = lombard
+
+	2802.1.1 = {
+		birth = yes
+	}
+	2852.1.1 = {
+		death = yes
+	}
+}
+
+168480 = {
+	name = "Maurus"
+	dynasty = 9594
+
+	father = 168479
+
+	religion = catholic
+	culture = lombard
+
+	2822.1.1 = {
+		birth = yes
+	}
+	2868.1.1 = {
+		death = yes
+	}
+}
+
+168481 = {
+	name = "Stefanus"
+	dynasty = 9594
+	trait = education_stewardship_1
+
+	father = 168480
+
+	religion = catholic
+	culture = lombard
+
+	2842.1.1 = {
+		birth = yes
+	}
+	2902.1.1 = {
+		death = yes
+	}
+}
+
+168482 = {
+	name = "Maurus"
+	dynasty = 9594
+
+	father = 168481
+
+	religion = catholic
+	culture = lombard
+
+	2877.1.1 = {
+		birth = yes
+	}
+	2937.1.1 = {
+		death = yes
+	}
+}
+
+168483 = {
+	name = "Sergius"
+	dynasty = 9594
+
+	father = 168482
+
+	religion = catholic
+	culture = lombard
+
+	2902.1.1 = {
+		birth = yes
+	}
+	2962.1.1 = {
+		death = yes
+	}
+}
+
+168484 = {
+	name = "Pandolf"
+	dynasty = 9594
+
+	father = 168483
+
+	religion = catholic
+	culture = lombard
+
+	2932.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+
+168485 = {
+	name = "Stefanus"
+	dynasty = 9594
+
+	father = 168484
+
+	religion = catholic
+	culture = lombard
+
+	2962.1.1 = {
+		birth = yes
+	}
+	3022.1.1 = {
+		death = yes
+	}
+}
+
+168486 = {
+	name = "Maurus"
+	dynasty = 9594
+
+	father = 168485
+
+	religion = catholic
+	culture = lombard
+
+	2992.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+
+168487 = {
+	name = "Pandolf"
+	dynasty = 9594
+
+	father = 168486
+
+	religion = catholic
+	culture = lombard
+
+	3022.1.1 = {
+		birth = yes
+	}
+	3040.1.1 = {
+		add_spouse = 168488
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+168488 = {
+	name = "Gaita"
+	female = yes
+
+	religion = catholic
+	culture = lombard
+
+	3022.1.1 = {
+		birth = yes
+	}
+	3072.1.1 = {
+		death = yes
+	}
+}
+
+168489 = {
+	name = "Landolf"
+	dynasty = 9594
+
+	father = 168487
+	mother = 168488
+
+	religion = catholic
+	culture = lombard
+
+	3042.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+168490 = {
+	name = "Maurus"
+	dynasty = 9594
+
+	father = 168487
+	mother = 168488
+
+	religion = catholic
+	culture = lombard
+
+	3044.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+168491 = {
+	name = "Pando"
+	dynasty = 9594
+
+	father = 168487
+	mother = 168488
+
+	religion = catholic
+	culture = lombard
+
+	3046.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+168492 = {
+	name = "Gemma"
+	female = yes
+	dynasty = 9594
+
+	father = 168487
+	mother = 168488
+
+	religion = catholic
+	culture = lombard
+
+	3048.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+168493 = {
+	name = "Sico"
+	dynasty = 9594
+
+	father = 168479
+
+	religion = catholic
+	culture = lombard
+
+	2827.1.1 = {
+		birth = yes
+	}
+	2877.1.1 = {
+		death = yes
+	}
+}
+
+168494 = {
+	name = "Adelfer"
+	dynasty = 9594
+
+	father = 168493
+
+	religion = catholic
+	culture = lombard
+
+	2849.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+
+168495 = {
+	name = "Marada"
+	female = yes
+	dynasty = 9594
+
+	father = 168493
+
+	religion = catholic
+	culture = lombard
+
+	2851.1.1 = {
+		birth = yes
+	}
+	2902.1.1 = {
+		death = yes
+	}
+}
+
+168497 = {
+	name = "Sergius" # Sergius Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 168470
+
+	3047.1.1 = {
+		birth = yes
+	}
+	3104.1.1 = {
+		death = yes
+	}
+}
+
+168498 = {
+	name = "Maria" # Maria Musconidi
+	female = yes
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 168470
+
+	3048.1.1 = {
+		birth = yes
+	}
+
+	3104.1.1 = {
+		death = yes
+	}
+}
+
+73472 = {
+	name = "Ulderit" # Ulderit, Bishop of Benevento
+
+	religion = catholic
+	culture = lombard
+	trait = theologian
+	trait  =  education_learning_1
+
+	3012.1.1 = {
+		birth = yes
+	}
+	3071.1.1 = {
+		death = yes
+	}
+}
+
+73474 = {
+	name = "Rofrit" # Rofrit (I), Bishop of Benevento (1081-1107)
+
+	religion = catholic
+	culture = lombard
+	trait = theologian
+	trait = education_learning_1
+
+	3036.1.1 = {
+		birth = yes
+	}
+	3109.1.1 = {
+		death = yes
+	}
+}
+
+73475 = {
+	name = "Landolf" # Landolf (II), Bishop of Benevento (1107-1119)
+
+	religion = catholic
+	culture = lombard
+	trait =  education_learning_1
+
+	3068.1.1 = {
+		birth = yes
+	}
+	3084.1.1 = {
+		add_trait = theologian	#Add adult trait
+	}
+	3121.1.1 = {
+		death = yes
+	}
+}
+
+73476 = {
+	name = "Rofrit" # Rofrit (II), Bishop of Benevento (1119-1130)
+
+	religion = catholic
+	culture = lombard
+	trait = theologian
+	trait = education_learning_1
+
+	3080.1.1 = {
+		birth = yes
+	}
+	3132.1.1 = {
+		death = yes
+	}
+}
+
+73477 = {
+	name = "Landolf" # Landolf (III), Bishop of Benevento (1130-1132)
+
+	religion = catholic
+	culture = lombard
+	trait = theologian
+	trait = education_learning_1
+
+	3081.1.1 = {
+		birth = yes
+	}
+	3134.1.1 = {
+		death = yes
+	}
+}
+
+200298 = {
+	name = "Guaimar" # Guaimar (II) Dauferidi, Duke of Salerno (900-946)
+	dynasty = 1022178
+	religion = catholic
+	culture = lombard
+	trait = education_intrigue_2
+
+	father = 145215
+	mother = 262155
+
+	2883.1.1 = {
+		birth = yes
+	}
+	2931.1.1 = {
+		add_spouse = 262440
+	}
+	2948.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+200299 = {
+	name = "Gisulf" # Gisulf (I) Dauferidi, Duke of Salerno (946-973 and 973-977)
+	dynasty = 1022178
+	religion = catholic
+	culture = lombard
+
+	father = 200298
+	mother = 262440
+
+	2932.1.1 = {
+		birth = yes
+	}
+	2979.11.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+200300 = {
+	name = "Daufer" # Daufer Dauferidi
+	dynasty = 1022178
+	religion = catholic
+	culture = lombard
+
+	father = 163091
+	mother = lombard0067
+
+	2862.1.1 = {
+		birth = yes
+	}
+	2906.2.1 = {
+		death = yes
+	}
+}
+
+200301 = {
+	name = "Maio" # Maio Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+
+	father = 200300
+
+	2887.1.1 = {
+		birth = yes
+	}
+	2965.3.1 = {
+		death = yes
+	}
+}
+
+200302 = {
+	name = "Truppoald" # Truppoald Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+
+	father = 200301
+
+	2918.1.1 = {
+		birth = yes
+	}
+	2982.3.1 = {
+		death = yes
+	}
+}
+
+200303 = {
+	name = "Alfan" # Alfan Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+
+	father = 200302
+
+	2953.1.1 = {
+		birth = yes
+	}
+	3021.6.1 = {
+		death = yes
+	}
+}
+
+200304 = {
+	name = "Petrus" # Petrus Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	father = 200303
+
+	2992.1.1 = {
+		birth = yes
+	}
+	3074.5.1 = {
+		death = yes
+	}
+}
+
+200305 = {
+	name = "Alfan" # Alfan Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 200304
+
+	3008.1.1 = {
+		birth = yes
+	}
+	3059.1.1 = {
+		add_spouse = lombard0134
+	}
+	3081.8.1 = {
+		death = yes
+	}
+}
+
+200306 = {
+	name = "Petrus" # Petrus Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = 200305
+	mother = lombard0134
+
+	3059.1.1 = {
+		birth = yes
+	}
+	3086.1.1 = {
+		death = yes
+	}
+}
+
+200307 = {
+	name = "Guido" # Wido Dauferidi
+	dynasty = 1022178
+	religion = catholic
+	culture = lombard
+
+	father = 145215
+	mother = 262155
+
+	2886.1.1 = {
+		birth = yes
+	}
+	2942.4.1 = {
+		death = yes
+	}
+}
+
+200308 = {
+	name = "Guaimar" # Guaimar Dauferidi
+	dynasty = 1022178
+	religion = catholic
+	culture = lombard
+
+	father = 200307
+
+	2912.1.1 = {
+		birth = yes
+	}
+	2976.12.1 = {
+		death = yes
+	}
+}
+
+200309 = {
+	name = "Guido" # Wido Guaimaridi
+	dynasty_house = house_guaimaridi
+	religion = catholic
+	culture = lombard
+
+	father = 200308
+
+	2939.1.1 = {
+		birth = yes
+	}
+	2993.5.1 = {
+		death = yes
+	}
+}
+
+200310 = {
+	name = "Gisulf" # Gisulf Guaimaridi
+	dynasty_house = house_guaimaridi
+	religion = catholic
+	culture = lombard
+
+	father = 200309
+
+	2968.1.1 = {
+		birth = yes
+	}
+	3029.1.1 = {
+		death = yes
+	}
+}
+
+200311 = {
+	name = "Astolf" # Astolf Guaimaridi
+	dynasty_house = house_guaimaridi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 200310
+
+	3002.1.1 = {
+		birth = yes
+	}
+	3089.1.1 = {
+		death = yes
+	}
+}
+
+200312 = {
+	name = "Lando" # Lando Guaimaridi
+	dynasty_house = house_guaimaridi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	father = 200310
+
+	3004.1.1 = {
+		birth = yes
+	}
+	3080.2.1 = {
+		death = yes
+	}
+}
+
+200313 = {
+	name = "Guido" # Wido Guaimaridi
+	dynasty_house = house_guaimaridi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 200312
+
+	3032.1.1 = {
+		birth = yes
+	}
+	3089.1.1 = {
+		death = yes
+	}
+}
+
+200314 = {
+	name = "Guaifer" # Guaifer Guaimaridi
+	dynasty_house = house_guaimaridi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = 200310
+
+	3006.1.1 = {
+		birth = yes
+	}
+	3080.2.1 = {
+		death = yes
+	}
+}
+
+200315 = {
+	name = "Guido" # Wido Guaimaridi
+	dynasty_house = house_guaimaridi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	father = 200314
+
+	3032.1.1 = {
+		birth = yes
+	}
+	3080.2.1 = {
+		death = yes
+	}
+}
+
+200316 = {
+	name = "Iaquintus" # Iaquintus Guaimaridi
+	dynasty_house = house_guaimaridi
+	religion = catholic
+	culture = lombard
+
+	father = 200315
+
+	3060.1.1 = {
+		birth = yes
+	}
+	3099.8.1 = {
+		death = yes
+	}
+}
+
+200317 = {
+	name = "Guaifer" # Guaifer Dauferidi
+	dynasty = 1022178
+	religion = catholic
+	culture = lombard
+
+	father = 200307
+
+	2916.1.1 = {
+		birth = yes
+	}
+	2983.5.1 = {
+		death = yes
+	}
+}
+
+200318 = {
+	name = "Guaimar" # Guaimar Guaiferidi
+	dynasty_house = house_guaiferidi
+	religion = catholic
+	culture = lombard
+
+	father = 200317
+
+	2933.1.1 = {
+		birth = yes
+	}
+	2993.10.1 = {
+		death = yes
+	}
+}
+
+200319 = {
+	name = "Guaimar" # Guaimar Guaiferidi
+	dynasty_house = house_guaiferidi
+	religion = catholic
+	culture = lombard
+
+	father = 200318
+
+	2963.1.1 = {
+		birth = yes
+	}
+	3039.8.1 = {
+		death = yes
+	}
+}
+
+200320 = {
+	name = "Guaimar" # Guaimar Guaiferidi
+	dynasty_house = house_guaiferidi
+	religion = catholic
+	culture = lombard
+
+	father = 200319
+
+	2989.1.1 = {
+		birth = yes
+	}
+	3046.5.1 = {
+		death = yes
+	}
+}
+
+200321 = {
+	name = "Guaimar" # Guaimar Guaiferidi
+	dynasty_house = house_guaiferidi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 200320
+
+	3012.1.1 = {
+		birth = yes
+	}
+	3070.4.1 = {
+		death = yes
+	}
+}
+
+200322 = {
+	name = "Petrus" # Petrus Guaiferidi
+	dynasty_house = house_guaiferidi
+	religion = catholic
+	culture = lombard
+	trait = education_learning_1
+
+	father = 200321
+
+	3035.1.1 = {
+		birth = yes
+	}
+	3090.1.1 = {
+		death = yes
+	}
+}
+
+200323 = {
+	name = "Guaifer" # Guaifer Guaiferidi
+	dynasty_house = house_guaiferidi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_2
+
+	father = 200321
+
+	3037.1.1 = {
+		birth = yes
+	}
+	3087.1.1 = {
+		death = yes
+	}
+}
+200324 = {
+	name = "Guida" # Wida Widi, wife of William I of Apulia
+	female = yes
+	dynasty_house = house_widi
+	religion = catholic
+	culture = lombard
+	trait = education_learning_1
+
+	father = 30856
+	mother = lombard0025
+
+	3033.1.1 = {
+		birth = yes
+	}
+	3096.1.1 = {
+		death = yes
+	}
+}
+
+200325 = {
+	name = "Guaimar" # Guaimar Widi
+	dynasty_house = house_widi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = 30856
+	mother = lombard0025
+
+	3034.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		add_spouse = 200326
+	}
+	3093.10.1 = {
+		death = yes
+	}
+}
+
+200326 = {
+	name = "Sichelgarda" # Sichelgarda, wife of Guaimar Widi
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	3062.1.1 = {
+		birth = yes
+	}
+	3120.1.1 = {
+		death = yes
+	}
+}
+
+200327 = {
+	name = "Ioannes" # Ioannes Widi
+	dynasty_house = house_widi
+	religion = catholic
+	culture = lombard
+
+	father = 200325
+
+	3059.1.1 = {
+		birth = yes
+	}
+	3093.10.1 = {
+		death = yes
+	}
+}
+
+200328 = {
+	name = "Guaimar" # Guaimar Widi
+	dynasty_house = house_widi
+	religion = catholic
+	culture = lombard
+
+	father = 200325
+
+	3061.1.1 = {
+		birth = yes
+	}
+	3116.3.1 = {
+		death = yes
+	}
+}
+
+200329 = {
+	name = "Mabilia" # Mabilia Widi, wife of Simon de Theville
+	female = yes
+	dynasty_house = house_widi
+	religion = catholic
+	culture = lombard
+
+	father = 200325
+	mother = 200326
+
+
+	3083.1.1 = {
+		birth = yes
+	}
+	3145.2.1 = {
+		death = yes
+	}
+}
+
+200331 = {
+	name = "Pandolf" # Pandolf Widi
+	dynasty_house = house_widi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 30856
+	mother = lombard0025
+
+	3035.1.1 = {
+		birth = yes
+	}
+	3059.1.1 = {
+		add_spouse = lombard0026
+	}
+	3093.1.1 = {
+		death = yes
+	}
+}
+
+200332 = {
+	name = "Landolf" # Landolf Widi
+	dynasty_house = house_widi
+	religion = catholic
+	culture = lombard
+
+	father = 200331
+	mother = lombard0026
+
+
+	3060.1.1 = {
+		birth = yes
+	}
+	3126.1.1 = {
+		death = yes
+	}
+}
+
+200333 = {
+	name = "Paldolf" # Paldolf Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 30857
+	mother = lombard0087
+
+	3016.1.1 = {
+		birth = yes
+	}
+	3042.1.1 = {
+		add_spouse = 200334
+	}
+	3054.6.3 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+
+200335 = {
+	name = "Guaimar" # Guaimar Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 200333
+	mother = 200334
+
+	3043.1.1 = {
+		birth = yes
+	}
+	3061.1.1 = {
+		add_spouse = 73344
+	}
+	3102.8.1 = {
+		death = yes
+	}
+}
+
+200336 = {
+	name = "Pandolf" # Pandolf Paldolfidi
+	dynasty_house = house_paldolfidi
+
+	father = 200335
+	mother = 73344
+
+	religion = catholic
+	culture = lombard
+
+	3062.1.1 = {
+		birth = yes
+	}
+	3106.1.1 = {
+		death = yes
+	}
+}
+
+200342 = {
+	name = "Gregorius" # Gregorius Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 200335
+	mother = 73344
+
+	3064.1.1 = {
+		birth = yes
+	}
+	3132.1.1 = {
+		death = yes
+	}
+}
+
+200343 = {
+	name = "Hermann" # Hermann Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 200342
+
+	3086.1.1 = {
+		birth = yes
+	}
+	3132.1.1 = {
+		death = yes
+	}
+}
+
+200347 = {
+	name = "Guaimar" # Guaimar Paldolfidi
+	dynasty_house = house_paldolfidi
+	culture = lombard
+	religion = catholic
+
+	father = 200335
+	mother = 73344
+
+	3066.1.1 = {
+		birth = yes
+	}
+	3132.12.25 = {
+		culture = sicilian
+		name = "Guaimariu"
+	}
+	3139.12.5 = {
+		death = yes
+	}
+}
+
+200349 = {
+	name = "Gisulf" # Gisulf Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 200335
+	mother = 73344
+
+	3068.1.1 = {
+		birth = yes
+	}
+	3121.1.1 = {
+		death = yes
+	}
+}
+
+200351 = {
+	name = "Tudinus" # Tudinus Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 200335
+	mother = 73344
+
+	3070.1.1 = {
+		birth = yes
+	}
+	3132.1.1 = {
+		death = yes
+	}
+}
+
+200352 = {
+	name = "Gregorius" # Gregorius Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	father = 200333
+	mother = 200334
+
+	3045.1.1 = {
+		birth = yes
+	}
+	3077.1.1 = {
+		add_spouse = 200372
+	}
+	3121.1.1 = {
+		death = yes
+	}
+}
+
+200353 = {
+	name = "Aripert" # Aripert Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 200352
+
+	3068.1.1 = {
+		birth = yes
+	}
+	3098.1.1 = {
+		death = yes
+	}
+}
+
+200354 = {
+	name = "Ioannes" # Ioannes Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 200352
+
+	3070.1.1 = {
+		birth = yes
+	}
+	3132.12.25 = {
+		culture = sicilian
+		name = "Giuvanni"
+	}
+	3134.1.1 = {
+		death = yes
+	}
+}
+
+200355 = {
+	name = "Guglielmus" # William Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 200352
+	mother = 200372
+
+	3078.1.1 = {
+		birth = yes
+	}
+	3132.12.25 = {
+		culture = sicilian
+		name = "Gugghiermu"
+	}
+	3136.1.1 = {
+		death = yes
+	}
+}
+
+200359 = {
+	name = "Sofia" # Sophia Paldolfidi
+	female = yes
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 200352
+	mother = 200372
+
+	3080.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+
+200360 = {
+	name = "Ioannes" # Ioannes Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = 200333
+	mother = 200334
+
+	3047.1.1 = {
+		birth = yes
+	}
+	3072.1.1 = {
+		add_spouse = 200392
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+
+200361 = {
+	name = "Jordan" # Jordan Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 200360
+	mother = 200392
+
+	3073.1.1 = {
+		birth = yes
+	}
+	3132.12.25 = {
+		culture = sicilian
+		name = Giordanu
+	}
+	3139.1.1 = {
+		death = yes
+	}
+}
+
+200362 = {
+	name = "Emma" # Emma Paldolfidi
+	female = yes
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 200360
+	mother = 200392
+
+	3075.1.1 = {
+		birth = yes
+	}
+	3132.12.25 = {
+		culture = sicilian
+	}
+	3136.10.1 = {
+		death = yes
+	}
+}
+
+200363 = {
+	name = "Guido" # Wido Paldolfidi
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = 200333
+	mother = 200334
+
+	3049.1.1 = {
+		birth = yes
+	}
+	3070.7.1 = {
+		death = yes
+	}
+}
+
+200364 = {
+	name = "Sichelgaita" # Sichelgaita Paldolfidi, wife of Asclettin di Sicignano
+	female = yes
+	dynasty_house = house_paldolfidi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 200333
+	mother = 200334
+
+	3044.1.1 = {
+		birth = yes
+	}
+	3088.5.1 = {
+		death = yes
+	}
+}
+
+200365 = {
+	name = "Teudora" # Theodora Paldolfidi, wife of Geoffroy de Hauteville
+	female = yes
+	dynasty_house = house_paldolfidi
+	trait = education_learning_1
+
+	father = 200333
+	mother = 200334
+
+	religion = catholic
+	culture = lombard
+
+	3046.1.1 = {
+		birth = yes
+	}
+	3103.1.1 = {
+		death = yes
+	}
+}
+
+200367 = {
+	name = "Landolf" # Landolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73340
+
+	3011.1.1 = {
+		birth = yes
+	}
+	3067.1.19 = {
+		death = yes
+	}
+}
+
+200368 = {
+	name = "Ioannes" # Ioannes Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 200367
+
+	3033.1.1 = {
+		birth = yes
+	}
+	3056.1.1 = {
+		add_spouse = lombard0085
+	}
+	3088.7.1 = {
+		death = yes
+	}
+}
+
+200369 = {
+	name = "Paldo" # Paldo Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200368
+	mother = lombard0085
+
+	3057.1.1 = {
+		birth = yes
+	}
+	3125.6.1 = {
+		death = yes
+	}
+}
+
+200371 = {
+	name = "Altruda" # Altruda Landolfidi
+	female = yes
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200368
+	mother = lombard0085
+
+	3059.1.1 = {
+		birth = yes
+	}
+	3106.11.1 = {
+		death = yes
+	}
+}
+
+200372 = {
+	name = "Sichelgaita" # Sichelgaita Landolfidi, wife of Gregorius Paldolfidi
+	female = yes
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200368
+	mother = lombard0085
+
+	3061.1.1 = {
+		birth = yes
+	}
+	3121.1.1 = {
+		death = yes
+	}
+}
+
+200373 = {
+	name = "Landolf" # Landolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_learning_1
+
+	father = 200367
+
+	3052.1.1 = {
+		birth = yes
+	}
+	3072.9.1 = {
+		death = yes
+	}
+}
+
+200374 = {
+	name = "Gisulf" # Gisulf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73339
+
+	2986.1.1 = {
+		birth = yes
+	}
+	3013.1.1 = {
+		death = yes
+	}
+}
+
+200375 = {
+	name = "Ioannes" # Ioannes Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200374
+
+	3008.1.1 = {
+		birth = yes
+	}
+	3067.1.19 = {
+		death = yes
+	}
+}
+
+200376 = {
+	name = "Petrus" # Petrus Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	father = 200375
+
+	3033.1.1 = {
+		birth = yes
+	}
+	3118.10.1 = {
+		death = yes
+	}
+}
+
+200377 = {
+	name = "Ioannes" # Ioannes Landolfidi
+	dynasty = 7184
+
+	father = 200376
+
+	religion = catholic
+	culture = lombard
+
+	3057.1.1 = {
+		birth = yes
+	}
+	3118.10.1 = {
+		death = yes
+	}
+}
+
+200378 = {
+	name = "Laidolf" # Laidolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200374
+
+	3009.1.1 = {
+		birth = yes
+	}
+	3067.1.19 = {
+		death = yes
+	}
+}
+
+200379 = {
+	name = "Pandolf" # Pandolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 200378
+
+	3032.1.1 = {
+		birth = yes
+	}
+	3091.12.7 = {
+		death = yes
+	}
+}
+
+200380 = {
+	name = "Pandolf" # Pandolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200379
+
+	3056.1.1 = {
+		birth = yes
+	}
+	3078.1.1 = {
+		add_spouse = lombard0086
+	}
+	3093.9.1 = {
+		death = yes
+	}
+}
+
+200381 = {
+	name = "Hector" # Hector Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200380
+	mother = lombard0086
+
+	3079.1.1 = {
+		birth = yes
+	}
+	3117.1.1 = {
+		death = yes
+	}
+}
+
+200382 = {
+	name = "Laidolf" # Laidolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200380
+	mother = lombard0086
+
+	3081.1.1 = {
+		birth = yes
+	}
+	3110.9.1 = {
+		death = yes
+	}
+}
+
+200383 = {
+	name = "Pandolf" # Pandolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200380
+	mother = lombard0086
+
+	3083.1.1 = {
+		birth = yes
+	}
+	3117.1.1 = {
+		death = yes
+	}
+}
+
+200384 = {
+	name = "Gisulf" # Gisulf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200380
+	mother = lombard0086
+
+	3085.1.1 = {
+		birth = yes
+	}
+	3117.1.1 = {
+		death = yes
+	}
+}
+
+200385 = {
+	name = "Landenolf" # Landenolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200379
+
+	3058.1.1 = {
+		birth = yes
+	}
+	3103.8.1 = {
+		death = yes
+	}
+}
+
+200386 = {
+	name = "Landolf" # Landolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200385
+
+	3081.1.1 = {
+		birth = yes
+	}
+	3099.9.1 = {
+		death = yes
+	}
+}
+
+200387 = {
+	name = "Laidolf" # Laidolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 200385
+
+	3083.1.1 = {
+		birth = yes
+	}
+	3099.1.1 = {
+		death = yes
+	}
+}
+
+200388 = {
+	name = "Landolf" # Landolf Landolfidi, Duke of Salerno (973)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73332
+
+	2917.1.1 = {
+		birth = yes
+	}
+	2981.1.1 = {
+		death = yes
+	}
+}
+
+200389 = {
+	name = "Landolf" # Landolf Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0076
+
+	2964.1.1 = {
+		birth = yes
+	}
+	3005.3.1 = {
+		death = yes
+	}
+}
+
+200390 = {
+	name = "Landolf" # Landolf Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = 200389
+
+	2989.1.1 = {
+		birth = yes
+	}
+	3071.1.1 = {
+		death = yes
+	}
+}
+
+200391 = {
+	name = "Landolf" # Landolf Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 200390
+
+	3020.1.1 = {
+		birth = yes
+	}
+	3085.1.1 = {
+		death = yes
+	}
+}
+
+200392 = {
+	name = "Ageltruda" # Ageltruda Landenolfidi, wife of Ioannes Pandolfidi
+	female = yes
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+	trait = education_learning_1
+
+	father = 200391
+
+	3047.1.1 = {
+		birth = yes
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+
+200393 = {
+	name = "Lando" # Lando Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 200390
+
+	3022.1.1 = {
+		birth = yes
+	}
+	3071.1.1 = {
+		death = yes
+	}
+}
+
+200394 = {
+	name = "Offa" # Offa Landenolfidi
+	female = yes
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 200393
+
+	3052.1.1 = {
+		birth = yes
+	}
+	3071.1.1 = {
+		death = yes
+	}
+}
+
+214098 = {
+	name = "Lando" # Lando d'Aquino
+	dynasty = 8682
+	religion = catholic
+	culture = lombard
+
+	father = 73350
+
+	3072.1.1 = {
+		birth = yes
+	}
+	3116.1.1 = {
+		death = yes
+	}
+}
+
+214099 = {
+	name = "Landolf" # Landolf d'Aquino
+	dynasty = 8682
+	culture = "lombard"
+	religion = "catholic"
+	trait = education_martial_1
+
+	father = 73348
+
+	3063.1.1 = {
+		birth = yes
+	}
+	3124.9.1 = {
+		death = yes
+	}
+}
+
+214105 = {
+	name = "Landolf" # Landolf d'Aquino
+	dynasty = 8682
+	culture = "lombard"
+	religion = "catholic"
+
+	father = 214106
+
+	3026.1.1 = {
+		birth = yes
+	}
+	3051.1.1 = {
+		death = yes
+	}
+}
+
+214106 = {
+	name = "Atenolf" # Atenolf d'Aquino
+	dynasty = 8682
+	culture = "lombard"
+	religion = "catholic"
+
+	2998.1.1 = {
+		birth = yes
+	}
+	3042.10.1 = {
+		death = yes
+	}
+}
+
+218000 = {
+	name = "Leopold"
+
+	religion = catholic
+	culture = lombard
+	2742.1.1 = {
+		birth = yes
+	}
+	2795.1.1 = {
+		death = yes
+	}
+}
+221100 = {
+	name = "Adaloald"
+	dynasty = 1062609
+	religion = catholic
+	culture = lombard
+	2747.1.1 = {
+		birth = yes
+	}
+	2806.1.1 = {
+		death = yes
+	}
+}
+221101 = {
+	name = "Faroald"
+	dynasty = 1062594
+	religion = catholic
+	culture = lombard
+	2836.1.1 = {
+		birth = yes
+	}
+	2903.1.1 = {
+		death = yes
+	}
+}
+
+262440 = {
+	name = "Gaitelgrima" # Gaitelgrima Landolfidi, wife of Guaimar II of Salerno
+	dynasty = 7184
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_3
+
+	father = 73332
+
+	2915.1.1 = {
+		birth  =  yes
+	}
+	2952.1.1 = {
+		death  =  yes
+	}
+}
+
+262441 = {
+	name = "Rotilda" # Rotilda Dauferidi, wife of Atenolf III of Capua
+	dynasty = 1022178
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	father = 200298
+
+	2912.1.1 = {
+		birth = yes
+	}
+	2952.1.1 = {
+		death = yes
+	}
+}
+
+lombard0001 = {
+	name = "Pandolf" # Pandolf (II) Landolfidi, Duke of Salerno (981)
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73327
+
+	2958.1.1 = {
+		birth = yes
+	}
+	2984.7.13 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+
+lombard0002 = {
+	name = "Ioannes" # Ioannes (II) Lampertidi 'the Accursed', Duke of Salerno (983-999)
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0003
+
+	2954.1.1 = {
+		birth = yes
+	}
+	3001.10.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+		effect = {
+			give_nickname = nick_the_accursed
+		}
+	}
+}
+
+lombard0003 = {
+	name = "Ioannes" # Ioannes Lampertidi, Regent of Salerno (981)
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0004
+
+	2929.1.1 = {
+		birth = yes
+	}
+	2985.11.1 = {
+		death = yes
+	}
+}
+
+lombard0004 = {
+	name = "Lantpert" # Lampert Lampertidi, origin unknow, known to be of the house of the Dukes of Spoletto
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = 71911
+	trait = bastard
+
+	2901.1.1 = {
+		birth = yes
+	}
+	2952.1.1 = {
+		death = yes
+	}
+}
+
+lombard0005 = {
+	name = "Guido" # Wido Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0002
+
+	2970.1.1 = {
+		birth = yes
+	}
+	2990.1.1 = {
+		death = yes
+	}
+}
+
+lombard0006 = {
+	name = "Pandolf" # Pandolf Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0002
+
+	2974.1.1 = {
+		birth = yes
+	}
+	2987.1.1 = {
+		death = yes
+	}
+}
+
+lombard0007 = {
+	name = "Lantpert" # Lampert Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0002
+
+	2975.1.1 = {
+		birth = yes
+	}
+	2991.1.1 = {
+		death = yes
+	}
+}
+
+lombard0008 = {
+	name = "Petrus" # Petrus Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0002
+
+	2979.1.1 = {
+		birth = yes
+	}
+	2989.1.1 = {
+		death = yes
+	}
+}
+
+lombard0009 = {
+	name = "Ioannes" # Ioannes Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0002
+
+	2977.1.1 = {
+		birth = yes
+	}
+	3036.8.1 = {
+		death = yes
+	}
+}
+
+lombard0010 = {
+	name = "Lantpert" # Lampert Lampertidi, real name unknown
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0009
+
+	3002.1.1 = {
+		birth = yes
+	}
+	3036.1.1 = {
+		death = yes
+	}
+}
+
+lombard0011 = {
+	name = "Ioannes" # Ioannes Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = lombard0010
+
+	3028.1.1 = {
+		birth = yes
+	}
+	3051.1.1 = {
+		add_spouse = lombard0017
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+lombard0012 = {
+	name = "Pandolf" # Pandolf Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_2
+
+	father = lombard0011
+	mother = lombard0017
+
+	3052.1.1 = {
+		birth = yes
+	}
+	3112.4.1 = {
+		death = yes
+	}
+}
+
+lombard0013 = {
+	name = "Ioannes" # Ioannes Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = lombard0011
+	mother = lombard0017
+
+	3054.1.1 = {
+		birth = yes
+	}
+	3112.4.1 = {
+		death = yes
+	}
+}
+
+lombard0014 = {
+	name = "Bartholomeus" # Bartholomeus Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_learning_1
+
+	father = lombard0011
+	mother = lombard0017
+
+	3056.1.1 = {
+		birth = yes
+	}
+	3112.4.1 = {
+		death = yes
+	}
+}
+
+lombard0015 = {
+	name = "Pandolf" # Pandolf Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_3
+
+	father = lombard0010
+
+	3030.1.1 = {
+		birth = yes
+	}
+	3062.1.1 = {
+		add_spouse = lombard0016
+	}
+	3086.1.1 = {
+		death = yes
+	}
+}
+
+lombard0016 = {
+	name = "Gaitelgrima" # Gaitelgrima, wife of Pandolf Lampertidi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	3036.1.1 = {
+		birth = yes
+	}
+	3086.1.1 = {
+		death = yes
+	}
+}
+
+lombard0017 = {
+	name = "Liutperga" # Liutberga, name unkown, wife of Ioannes Lampertidi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_learning_1
+
+	3035.1.1 = {
+		birth = yes
+	}
+	3087.1.1 = {
+		death = yes
+	}
+}
+
+lombard0018 = {
+	name = "Ioannes" # Ioannes Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = lombard0015
+	mother = lombard0016
+
+	3063.1.1 = {
+		birth = yes
+	}
+	3119.12.1 = {
+		death = yes
+	}
+}
+
+lombard0019 = {
+	name = "Robert" # Robert Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_2
+
+	father = lombard0015
+	mother = lombard0016
+
+	3065.1.1 = {
+		birth = yes
+	}
+	3119.12.1 = {
+		death = yes
+	}
+}
+
+lombard0020 = {
+	name = "Bartholomeus" # Bartholomeus Lampertidi, children not coded
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = lombard0015
+	mother = lombard0016
+
+	3067.1.1 = {
+		birth = yes
+	}
+	3119.12.1 = {
+		death = yes
+	}
+}
+
+lombard0021 = {
+	name = "Sichelgaita" # Sichelgaita Lampertidi
+	dynasty_house = house_lampertidi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = lombard0015
+	mother = lombard0016
+
+	3068.1.1 = {
+		birth = yes
+	}
+	3115.9.1 = {
+		death = yes
+	}
+}
+
+lombard0022 = {
+	name = "Gisulf" # Gisulf Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = 30860
+	mother = lombard0023
+
+	3068.1.1 = {
+		birth = yes
+	}
+	3096.1.1 = {
+		death = yes
+	}
+}
+
+lombard0023 = {
+	name = "Gemma" # Gemma, name unkown, wife of Ioannes Lampertidi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	3051.1.1 = {
+		birth = yes
+	}
+	3077.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+lombard0024 = {
+	name = "Ioannes" # Ioannes (III) Lampertidi, Duke of Salerno (1035-1040)
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = 1116
+
+	3028.1.1 = {
+		birth = yes
+	}
+	3042.1.1 = {
+		death = yes
+	}
+}
+
+lombard0025 = {
+	name = "Raingarda" # Raingarda, wife of Wido Widi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	3016.1.1 = {
+		birth = yes
+	}
+	3069.1.1 = {
+		death = yes
+	}
+}
+
+lombard0026 = {
+	name = "Amalperga" # Amalberga, unknown name, wife of Pandolf Widi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_intrigue_1
+
+	3042.1.1 = {
+		birth = yes
+	}
+	3092.1.1 = {
+		death = yes
+	}
+}
+
+lombard0027 = {
+	name = "Petrus" # Petrus Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+
+	father = 200389
+
+	2991.1.1 = {
+		birth = yes
+	}
+	3051.1.1 = {
+		death = yes
+	}
+}
+
+lombard0028 = {
+	name = "Bibianus" # Bibianus d'Aquino
+	dynasty = 8682
+	culture = "lombard"
+	religion = "catholic"
+	trait = education_learning_1
+
+	father = 73348
+
+	3061.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+
+lombard0029 = {
+	name = "Guglielmus" # William d'Aquino
+	dynasty = 8682
+	culture = "lombard"
+	religion = "catholic"
+
+	father = 73349
+
+	3067.1.1 = {
+		birth = yes
+	}
+	3124.2.1 = {
+		death = yes
+	}
+}
+
+lombard0030 = {
+	name = "Atenolf" # Atenolf d'Aquino
+	dynasty = 8682
+	culture = "lombard"
+	religion = "catholic"
+
+	father = 73350
+
+	3074.1.1 = {
+		birth = yes
+	}
+	3110.8.1 = {
+		death = yes
+	}
+}
+
+lombard0031 = {
+	name = "Atenolf" # Atenolf d'Aquino
+	dynasty = 8682
+	culture = "lombard"
+	religion = "catholic"
+
+	father = 214106
+
+	3018.1.1 = {
+		birth = yes
+	}
+	3064.2.2 = {
+		death = yes
+	}
+}
+
+lombard0032 = {
+	name = "Atenolf" # Atenolf d'Aquino
+	dynasty = 8682
+	culture = "lombard"
+	religion = "catholic"
+
+	father = lombard0031
+
+	3047.1.1 = {
+		birth = yes
+	}
+	3066.10.1 = {
+		death = yes
+	}
+}
+
+lombard0033 = {
+	name = "Emilia" # Emilia d'Aquino
+	dynasty = 8682
+	female = yes
+	culture = "lombard"
+	religion = "catholic"
+
+	father = lombard0031
+
+	3049.1.1 = {
+		birth = yes
+	}
+	3099.11.1 = {
+		death = yes
+	}
+}
+
+lombard0034 = {
+	name = "Mabilia" # Mabilia Lampertidi
+	dynasty_house = house_lampertidi
+	female = yes
+	culture = "lombard"
+	religion = "catholic"
+
+	father = 30858
+	mother = lombard0033
+
+	3067.1.1 = {
+		birth = yes
+	}
+	3128.1.1 = {
+		death = yes
+	}
+}
+
+lombard0035 = {
+	name = "Sica" # Sica Lampertidi, wife of Roger di Sanseverino
+	dynasty_house = house_lampertidi
+	female = yes
+	culture = "lombard"
+	religion = "catholic"
+
+	father = 30858
+	mother = lombard0033
+
+	3069.1.1 = {
+		birth = yes
+	}
+	3123.6.1 = {
+		death = yes
+	}
+}
+
+lombard0036 = {
+	name = "Sichelgarda" # Sichelgarda Lampertidi
+	dynasty_house = house_lampertidi
+	female = yes
+	culture = "lombard"
+	religion = "catholic"
+
+	father = 30858
+	mother = lombard0033
+
+	3071.1.1 = {
+		birth = yes
+	}
+	3118.3.1 = {
+		death = yes
+	}
+}
+
+lombard0037 = {
+	name = "Petrus" # Petrus Petridi
+	dynasty = 1022143
+	trait = education_martial_1
+
+	father = 145212
+
+	religion = catholic
+	culture = lombard
+
+	2846.1.1 = {
+		birth = yes
+	}
+	2896.1.1 = {
+		death = yes
+	}
+}
+
+lombard0038 = {
+	name = "Maio" # Maio Dauferidi
+	dynasty = 1022178
+
+	father = 145214
+
+	religion = catholic
+	culture = lombard
+
+	2834.1.1 = {
+		birth = yes
+	}
+	2852.1.1 = {
+		death = yes
+	}
+}
+
+lombard0039 = {
+	name = "Daufer" # Daufer Dauferidi, Duke of Salerno (861)
+	dynasty = 1022178
+	trait = content
+	trait = education_diplomacy_1
+
+	father = lombard0038
+
+	religion = catholic
+	culture = lombard
+
+	2850.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = yes
+	}
+}
+
+lombard0040 = {
+	name = "Arechis" # Arechis Dauferidi
+	dynasty = 1022178
+
+	father = 163091
+	mother = lombard0067
+
+	religion = catholic
+	culture = lombard
+
+	2861.1.1 = {
+		birth = yes
+	}
+	2925.7.1 = {
+		death = yes
+	}
+}
+
+lombard0041 = {
+	name = "Guaifer" # Guaifer Arichisidi
+	dynasty_house = house_arichisidi
+
+	father = lombard0040
+
+	religion = catholic
+	culture = lombard
+
+	2917.1.1 = {
+		birth = yes
+	}
+	2974.3.1 = {
+		death = yes
+	}
+}
+
+lombard0042 = {
+	name = "Maio" # Maio Arichisidi
+	dynasty_house = house_arichisidi
+
+	father = lombard0041
+
+	religion = catholic
+	culture = lombard
+
+	2940.1.1 = {
+		birth = yes
+	}
+	2974.3.1 = {
+		death = yes
+	}
+}
+
+lombard0043 = {
+	name = "Aloara" # Aloara Arichisidi
+	dynasty_house = house_arichisidi
+	female = yes
+
+	father = lombard0042
+
+	religion = catholic
+	culture = lombard
+
+	2958.1.1 = {
+		birth = yes
+	}
+	2974.3.1 = {
+		death = yes
+	}
+}
+
+lombard0044 = {
+	name = "Petrus" # Petrus Arichisidi
+	dynasty_house = house_arichisidi
+
+	father = lombard0040
+
+	religion = catholic
+	culture = lombard
+
+	2919.1.1 = {
+		birth = yes
+	}
+	2977.5.1 = {
+		death = yes
+	}
+}
+
+lombard0045 = {
+	name = "Atto" # Actius Arichisidi
+	dynasty_house = house_arichisidi
+
+	father = lombard0040
+
+	religion = catholic
+	culture = lombard
+
+	2921.1.1 = {
+		birth = yes
+	}
+	2965.3.1 = {
+		death = yes
+	}
+}
+
+lombard0046 = {
+	name = "Atto" # Actius Arichisidi
+	dynasty_house = house_arichisidi
+
+	father = lombard0045
+
+	religion = catholic
+	culture = lombard
+
+	2945.1.1 = {
+		birth = yes
+	}
+	2992.9.1 = {
+		death = yes
+	}
+}
+
+lombard0047 = {
+	name = "Daufer" # Daufer Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+
+	father = 200300
+
+	2885.1.1 = {
+		birth = yes
+	}
+	2934.4.1 = {
+		death = yes
+	}
+}
+
+lombard0048 = {
+	name = "Guaifer" # Guaifer Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+
+	father = 200300
+
+	2883.1.1 = {
+		birth = yes
+	}
+	2930.8.1 = {
+		death = yes
+	}
+}
+
+lombard0049 = {
+	name = "Daufer" # Daufer Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0048
+
+	2911.1.1 = {
+		birth = yes
+	}
+	2968.1.1 = {
+		death = yes
+	}
+}
+
+lombard0050 = {
+	name = "Aloara" # Aloara Dauferidi
+	dynasty_house = house_dauferidi
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	father = lombard0048
+
+	2913.1.1 = {
+		birth = yes
+	}
+	2981.2.1 = {
+		death = yes
+	}
+}
+
+lombard0051 = {
+	name = "Imelaita" # Imelaita Dauferidi
+	dynasty_house = house_dauferidi
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	father = lombard0048
+
+	2915.1.1 = {
+		birth = yes
+	}
+	2968.1.1 = {
+		death = yes
+	}
+}
+
+lombard0052 = {
+	name = "Maio" # Maio Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+
+	father = 200301
+
+	2920.1.1 = {
+		birth = yes
+	}
+	2967.6.1 = {
+		death = yes
+	}
+}
+
+lombard0053 = {
+	name = "Maio" # Maio Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0052
+
+	2946.1.1 = {
+		birth = yes
+	}
+	2996.1.1 = {
+		death = yes
+	}
+}
+
+lombard0054 = {
+	name = "Iaquintus" # Iaquintus Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+
+	father = 200301
+
+	2922.1.1 = {
+		birth = yes
+	}
+	2974.12.1 = {
+		death = yes
+	}
+}
+
+lombard0055 = {
+	name = "Iaquinta" # Iaquinta Dauferidi
+	dynasty_house = house_dauferidi
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	father = lombard0054
+
+	2943.1.1 = {
+		birth = yes
+	}
+	2974.12.1 = {
+		death = yes
+	}
+}
+
+lombard0056 = {
+	name = "Aloara" # Aloara Dauferidi, wife of Adelfer Ademaridi
+	dynasty_house = house_dauferidi
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	father = 200302
+
+	2968.1.1 = {
+		birth = yes
+	}
+	3005.1.1 = {
+		death = yes
+	}
+}
+
+lombard0057 = {
+	name = "Ademar" # Ademar Dauferidi
+	dynasty_house = house_dauferidi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = 200304
+	trait = bastard
+
+	3022.1.1 = {
+		birth = yes
+	}
+	3072.1.1 = {
+		death = yes
+	}
+}
+
+lombard0058 = {
+	name = "Guaifer" # Guaifer Guaimaridi
+	dynasty_house = house_guaimaridi
+	religion = catholic
+	culture = lombard
+
+	father = 200308
+
+	2937.1.1 = {
+		birth = yes
+	}
+	2986.9.1 = {
+		death = yes
+	}
+}
+
+lombard0059 = {
+	name = "Guaimar" # Guaimar Guaimaridi
+	dynasty_house = house_guaimaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0058
+
+	2963.1.1 = {
+		birth = yes
+	}
+	3008.1.1 = {
+		add_spouse = lombard0061
+	}
+	3013.9.1 = {
+		death = yes
+	}
+}
+
+lombard0060 = {
+	name = "Guaifer" # Guaifer Guaimaridi
+	dynasty_house = house_guaimaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0058
+
+	2965.1.1 = {
+		birth = yes
+	}
+	3013.9.1 = {
+		add_spouse = lombard0061
+	}
+	3039.8.1 = {
+		death = yes
+	}
+}
+
+lombard0061 = {
+	name = "Gemma" # Gemma Guaiferidi
+	dynasty_house = house_guaiferidi
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	father = 200319
+
+	2991.1.1 = {
+		birth = yes
+	}
+	3046.5.1 = {
+		death = yes
+	}
+}
+
+lombard0062 = {
+	name = "Ioannes" # Ioannes Guaiferidi
+	dynasty_house = house_guaiferidi
+	religion = catholic
+	culture = lombard
+
+	father = 200320
+
+	3014.1.1 = {
+		birth = yes
+	}
+	3053.1.1 = {
+		add_spouse = lombard0063
+	}
+	3060.12.1 = {
+		death = yes
+	}
+}
+
+lombard0063 = {
+	name = "Raingarda" # Raingarda Widi, wife of Ioannes Guaiferidi
+	female = yes
+	dynasty_house = house_widi
+	trait = education_diplomacy_1
+
+	father = 30856
+	mother = lombard0025
+
+	religion = catholic
+	culture = lombard
+
+	3037.1.1 = {
+		birth = yes
+	}
+	3087.1.1 = {
+		death = yes
+	}
+}
+
+lombard0064 = {
+	name = "Landolf" # Landolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = content
+	trait = education_martial_2
+
+	father = 163076
+
+	2829.1.1 = {
+		birth = yes
+	}
+	2893.1.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+lombard0065 = {
+	name = "Lando" # Lando Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = lombard0064
+
+	2853.1.1 = {
+		birth = yes
+	}
+	2899.1.1 = {
+		death = yes
+	}
+}
+
+lombard0066 = {
+	name = "Landenolf" # Landenolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 163076
+
+	2832.1.1 = {
+		birth = yes
+	}
+	2889.1.1 = {
+		death = yes
+	}
+}
+
+lombard0067 = {
+	name = "Landelaicha" # Landelaicha Landolfidi, wife of Guaifer of Salerno
+	dynasty = 7184
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 163076
+
+	2835.1.1 = {
+		birth = yes
+	}
+	2884.3.1 = {
+		death = yes
+	}
+}
+
+lombard0068 = {
+	name = "Landenolf" # Landenolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+	trait = education_learning_1
+
+	father = 163077
+
+	2834.1.1 = {
+		birth = yes
+	}
+	2884.1.1 = {
+		death = yes
+	}
+}
+
+lombard0069 = {
+	name = "Arniperga" # Arniperga Landolfidi, wife of Radelchis II of Benevento
+	dynasty = 7184
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = 163077
+
+	2838.1.1 = {
+		birth = yes
+	}
+	2888.1.1 = {
+		death = yes
+	}
+}
+
+lombard0070 = {
+	name = "Landolf" # Landolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 163074
+
+	2869.1.1 = {
+		birth = yes
+	}
+	2884.11.1 = {
+		death = yes
+	}
+}
+
+lombard0071 = {
+	name = "Atenolf" # Atenolf Landolfidi, descendents missing
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73332
+
+	2921.1.1 = {
+		birth = yes
+	}
+	2954.3.15 = {
+		death = yes
+	}
+}
+
+lombard0072 = {
+	name = "Landenolf" # Landenolf Landolfidi
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73332
+
+	2919.1.1 = {
+		birth = yes
+	}
+	2965.3.1 = {
+		death = yes
+	}
+}
+
+lombard0073 = {
+	name = "Atenolf" # Atenolf Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0072
+
+	2940.1.1 = {
+		birth = yes
+	}
+	2983.1.1 = {
+		death = yes
+	}
+}
+
+lombard0074 = {
+	name = "Atenolf" # Atenolf Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0073
+
+	2965.1.1 = {
+		birth = yes
+	}
+	2984.1.1 = {
+		death = yes
+	}
+}
+
+lombard0075 = {
+	name = "Landenolf" # Landenolf Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0073
+
+	2967.1.1 = {
+		birth = yes
+	}
+	2986.5.1 = {
+		death = yes
+	}
+}
+
+lombard0076 = {
+	name = "Landolf" # Landolf Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0072
+
+	2942.1.1 = {
+		birth = yes
+	}
+	3004.1.1 = {
+		death = yes
+	}
+}
+
+lombard0077 = {
+	name = "Landenolf" # Landenolf Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0076
+
+	2960.1.1 = {
+		birth = yes
+	}
+	3006.10.1 = {
+		death = yes
+	}
+}
+
+lombard0078 = {
+	name = "Laidolf" # Laidolf Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0076
+
+	2962.1.1 = {
+		birth = yes
+	}
+	3005.3.1 = {
+		death = yes
+	}
+}
+
+lombard0079 = {
+	name = "Bernard" # Bernard Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0078
+
+	2986.1.1 = {
+		birth = yes
+	}
+	3066.1.1 = {
+		death = yes
+	}
+}
+
+lombard0080 = {
+	name = "Bernard" # Bernard Landenolfidi
+	dynasty_house = house_landenolfidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0079
+
+	3008.1.1 = {
+		birth = yes
+	}
+	3066.1.1 = {
+		death = yes
+	}
+}
+
+lombard0081 = {
+	name = "Ageltruda" # Ageltruda Pandolfidi, wife of Rudolf III of Burgundy
+	dynasty = 7184
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	father = 73327
+
+	2966.1.1 = {
+		birth = yes
+	}
+	2996.1.12 = {
+		add_spouse = 1148
+	}
+	3013.2.18 = {
+		death = yes
+	}
+}
+
+lombard0082 = {
+	name = "Landenolf" # Landenolf Paldefridi
+	dynasty = paldefridi
+	religion = catholic
+	culture = lombard
+
+	2991.1.1 = {
+		birth = yes
+	}
+	3041.1.1 = {
+		death = yes
+	}
+}
+
+lombard0083 = {
+	name = "Pandolf" # Pandolf Paldefridi
+	dynasty = paldefridi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = lombard0082
+
+	3016.1.1 = {
+		birth = yes
+	}
+	3073.9.1 = {
+		death = yes
+	}
+}
+
+lombard0084 = {
+	name = "Paldo" # Pado Paldefridi
+	dynasty = paldefridi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = lombard0082
+
+	3018.1.1 = {
+		birth = yes
+	}
+	3074.2.1 = {
+		death = yes
+	}
+}
+
+lombard0085 = {
+	name = "Atta" # Atta Paldefridi, wife of Ioannes Landolfidi
+	dynasty = paldefridi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = lombard0082
+
+	3040.1.1 = {
+		birth = yes
+	}
+	3088.7.1 = {
+		death = yes
+	}
+}
+
+lombard0086 = {
+	name = "Maria" # Maria, wife of Pandolf Landolfidi
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	3060.1.1 = {
+		birth = yes
+	}
+	3110.1.1 = {
+		death = yes
+	}
+}
+
+lombard0087 = {
+	name = "Gaitelgrima" # Gaitelgrima Landolfidi, wife of Guaimar III of Salerno
+	female = yes
+	dynasty = 7184
+	religion = catholic
+	culture = lombard
+
+	father = 73324
+
+	2984.1.1 = {
+		birth = yes
+	}
+	3042.1.1 = {
+		death = yes
+	}
+}
+
+lombard0088 = {
+	name = "Guaifer" # Guaifer Dauferidi
+	dynasty = 1022178
+
+	father = 163091
+	mother = lombard0067
+
+	religion = catholic
+	culture = lombard
+
+	2863.1.1 = {
+		birth = yes
+	}
+	2889.1.1 = {
+		death = yes
+	}
+}
+
+lombard0089 = {
+	name = "Gisa" # Gisa Gausi, wife of Trasimond I of Spoleto
+	dynasty = 1044031 #Gausi
+	female = yes
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190133
+	#daughter of an early marriage of his father
+
+	2647.1.1 = {
+		birth = yes
+	}
+	2664.1.1 = {
+		death = yes
+	}
+}
+
+lombard0090 = {
+	name = "Audelais" # Audelais Audelaisidi, Duke of Benevento (732)
+	dynasty = audelaisidi
+	religion = "catholic"
+	culture = "lombard"
+
+	2702.1.1 = {
+		birth = yes
+	}
+	2734.6.1 = {
+		death = yes
+	}
+}
+
+lombard0091 = {
+	name = "Godescalc" # Godescalc Godescalcidi, Duke of Benevento (739-742)
+	dynasty = godescalcidi
+	religion = "catholic"
+	culture = "lombard"
+
+	2704.1.1 = {
+		birth = yes
+	}
+	2744.1.1 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+
+lombard0092 = {
+	name = "Arechis" # Arechis Gausi
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190135
+	mother = 190137
+
+	2675.1.1 = {
+		birth = yes
+	}
+	2725.1.1 = {
+		death = yes
+	}
+}
+
+lombard0093 = {
+	name = "Romoald" # Romoald Gausi
+	dynasty = 1044031
+	religion = "catholic"
+	culture = "lombard"
+
+	father = lombard0092
+
+	2708.1.1 = {
+		birth = yes
+	}
+	2758.1.1 = {
+		death = yes
+	}
+}
+
+lombard0094 = {
+	name = "Winiperga" # Winiperga Beleos, wife of Agilolf of Italy
+	dynasty = 1044045
+	female = yes
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190168
+
+	2558.1.1 = {
+		birth = yes
+	}
+	2592.1.5 = {
+		death = yes
+	}
+}
+
+lombard0095 = {
+	name = "Nordepert" # Nordepert, fictional husband of Aurona of Italy
+	dynasty = 1044037
+	religion = "catholic"
+	culture = "lombard"
+
+	2662.1.1 = {
+		birth = yes
+	}
+	2686.1.1 = {
+		add_spouse = 190195
+	}
+	2712.1.1 = {
+		death = yes
+	}
+}
+
+lombard0096 = {
+	name = "Imperga" # Imberga Ansprandidi, wife of Teodone of Asti
+	female = yes
+	dynasty = 1044051
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190193
+	mother = 190192
+
+	2684.1.1 = {
+		birth = yes
+	}
+	2746.1.1 = {
+		death = yes
+	}
+}
+
+lombard0097 = {
+	name = "Agiprand" # Agiprand Ansprandidi, Duke of Spoleto (742-744)
+	dynasty = 1044051
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190194
+
+	2712.1.1 = {
+		birth = yes
+	}
+	2746.1.1 = {
+		death = yes
+	}
+}
+
+lombard0098 = {
+	name = "Gregorius" # Gregorius Ansprandidi, Duke of Benevento (732-739)
+	dynasty = 1044051
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190194
+
+	2713.1.1 = {
+		birth = yes
+	}
+	2741.1.1 = {
+		death = yes
+	}
+}
+
+lombard0099 = {
+	name = "Manso" # Manso Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168441
+
+	2970.1.1 = {
+		birth = yes
+	}
+	3013.1.1 = {
+		death = yes
+	}
+}
+
+lombard0100 = {
+	name = "Maria" # Maria Musconidi
+	dynasty = 9592
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	father = 168441
+
+	2972.1.1 = {
+		birth = yes
+	}
+	3030.1.1 = {
+		death = yes
+	}
+}
+
+lombard0101 = {
+	name = "Manso" # Manso Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	father = 168450
+
+	3008.1.1 = {
+		birth = yes
+	}
+	3092.10.1 = {
+		death = yes
+	}
+}
+
+lombard0102 = {
+	name = "Ioannes" # Ioannes Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = 168450
+
+	3010.1.1 = {
+		birth = yes
+	}
+	3092.10.1 = {
+		death = yes
+	}
+}
+
+lombard0103 = {
+	name = "Manso" # Manso Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	father = 168451
+
+	3014.1.1 = {
+		birth = yes
+	}
+	3100.6.20 = {
+		death = yes
+	}
+}
+
+lombard0104 = {
+	name = "Sergius" # Sergius Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = 168451
+
+	3018.1.1 = {
+		birth = yes
+	}
+	3084.2.1 = {
+		death = yes
+	}
+}
+
+lombard0105 = {
+	name = "Ioannes" # Ioannes Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = 168451
+
+	3020.1.1 = {
+		birth = yes
+	}
+	3100.6.20 = {
+		death = yes
+	}
+}
+
+lombard0106 = {
+	name = "Ioannes" # Ioannes Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = 168456
+
+	3019.1.1 = {
+		birth = yes
+	}
+	3080.1.1 = {
+		death = yes
+	}
+}
+
+lombard0107 = {
+	name = "Ademar" # Ademar Musconidi
+	dynasty = 9592
+	religion = catholic
+	culture = lombard
+
+	father = 168439
+
+	2951.1.1 = {
+		birth = yes
+	}
+	3020.2.1 = {
+		death = yes
+	}
+}
+
+lombard0108 = {
+	name = "Ademar" # Ademar Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0107
+
+	2974.1.1 = {
+		birth = yes
+	}
+	3032.1.1 = {
+		death = yes
+	}
+}
+
+lombard0109 = {
+	name = "Landolf" # Landolf Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0108
+
+	3010.1.1 = {
+		birth = yes
+	}
+	3066.1.1 = {
+		death = yes
+	}
+}
+
+lombard0110 = {
+	name = "Ademar" # Ademar Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_1
+
+	father = lombard0109
+
+	3034.1.1 = {
+		birth = yes
+	}
+	3107.6.1 = {
+		death = yes
+	}
+}
+
+lombard0111 = {
+	name = "Landolf" # Landolf Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0110
+
+	3058.1.1 = {
+		birth = yes
+	}
+	3116.3.1 = {
+		death = yes
+	}
+}
+
+lombard0112 = {
+	name = "Landolf" # Landolf Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0110
+
+	3060.1.1 = {
+		birth = yes
+	}
+	3112.4.1 = {
+		death = yes
+	}
+}
+
+lombard0113 = {
+	name = "Alfan" # Alfan Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0110
+
+	3062.1.1 = {
+		birth = yes
+	}
+	3121.1.1 = {
+		death = yes
+	}
+}
+
+lombard0114 = {
+	name = "Grima" # Grima Ademaridi
+	dynasty_house = house_ademaridi
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	father = lombard0110
+
+	3064.1.1 = {
+		birth = yes
+	}
+	3121.1.1 = {
+		death = yes
+	}
+}
+
+lombard0115 = {
+	name = "Marotta" # Marotta Ademaridi
+	dynasty_house = house_ademaridi
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	father = lombard0110
+
+	3066.1.1 = {
+		birth = yes
+	}
+	3121.1.1 = {
+		death = yes
+	}
+}
+
+lombard0116 = {
+	name = "Landolf" # Landolf Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+	trait = education_martial_2
+
+	father = lombard0109
+
+	3036.1.1 = {
+		birth = yes
+	}
+	3175.4.1 = {
+		death = yes
+	}
+}
+
+lombard0117 = {
+	name = "Ademar" # Ademar Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0116
+
+	3061.1.1 = {
+		birth = yes
+	}
+	3116.3.1 = {
+		death = yes
+	}
+}
+
+lombard0118 = {
+	name = "Gaitelgrima" # Gaitelgrima Ademaridi
+	dynasty_house = house_ademaridi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_2
+
+	father = lombard0109
+
+	3038.1.1 = {
+		birth = yes
+	}
+	3068.11.1 = {
+		death = yes
+	}
+}
+
+lombard0119 = {
+	name = "Gemma" # Gemma Ademaridi, wife of Rodelgrim Grimoaldidi
+	dynasty_house = house_ademaridi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = lombard0109
+
+	3040.1.1 = {
+		birth = yes
+	}
+	3071.7.1 = {
+		death = yes
+	}
+}
+
+lombard0120 = {
+	name = "Alferada" # Alferana Ademaridi, wife of Petrus Grimoaldidi
+	dynasty_house = house_ademaridi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = lombard0109
+
+	3042.1.1 = {
+		birth = yes
+	}
+	3071.7.1 = {
+		death = yes
+	}
+}
+
+lombard0121 = {
+	name = "Gumeltruda" # Gumeltruda Ademaridi
+	dynasty_house = house_ademaridi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = lombard0109
+
+	3044.1.1 = {
+		birth = yes
+	}
+	3082.8.1 = {
+		death = yes
+	}
+}
+
+lombard0122 = {
+	name = "Grimoald" # Grimoald Grimoaldidi
+	dynasty = grimoaldidi
+	religion = catholic
+	culture = lombard
+
+	3007.1.1 = {
+		birth = yes
+	}
+	3057.2.1 = {
+		death = yes
+	}
+}
+
+lombard0123 = {
+	name = "Rodelgrim" # Rodelgrim Grimoaldidi
+	dynasty = grimoaldidi
+	religion = catholic
+	culture = lombard
+
+	3030.1.1 = {
+		birth = yes
+	}
+	3056.1.1 = {
+		add_spouse = lombard0119
+	}
+	3071.7.1 = {
+		death = yes
+	}
+}
+
+lombard0124 = {
+	name = "Petrus" # Petrus Grimoaldidi
+	dynasty = grimoaldidi
+	religion = catholic
+	culture = lombard
+
+	3032.1.1 = {
+		birth = yes
+	}
+	3058.1.1 = {
+		add_spouse = lombard0120
+	}
+	3071.7.1 = {
+		death = yes
+	}
+}
+
+lombard0125 = {
+	name = "Adelfer" # Adelfer Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0107
+
+	2976.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		add_spouse = lombard0056
+	}
+	3027.6.1 = {
+		death = yes
+	}
+}
+
+lombard0126 = {
+	name = "Radelchis" # Radelchis Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0125
+	mother = lombard0056
+
+	2993.1.1 = {
+		birth = yes
+	}
+	3033.1.1 = {
+		death = yes
+	}
+}
+
+lombard0127 = {
+	name = "Purpura" # Purpura Ademaridi
+	dynasty_house = house_ademaridi
+	female = yes
+	religion = catholic
+	culture = lombard
+
+	father = lombard0126
+
+	3018.1.1 = {
+		birth = yes
+	}
+	3061.1.1 = {
+		death = yes
+	}
+}
+
+lombard0128 = {
+	name = "Castelmann" # Castelmann Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+	trait = education_intrigue_3
+
+	father = lombard0125
+	mother = lombard0056
+
+	2995.1.1 = {
+		birth = yes
+	}
+	3086.1.1 = {
+		death = yes
+	}
+}
+
+lombard0129 = {
+	name = "Ioannes" # Ioannes Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_1
+
+	father = lombard0128
+
+	3044.1.1 = {
+		birth = yes
+	}
+	3121.2.1 = {
+		death = yes
+	}
+}
+
+lombard0130 = {
+	name = "Castelmann" # Castelmann Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0129
+
+	3066.1.1 = {
+		birth = yes
+	}
+	3132.12.25 = {
+		name = Castelmanu
+		culture = sicilian
+	}
+	3137.1.1 = {
+		death = yes
+	}
+}
+
+lombard0131 = {
+	name = "Ioannes" # Ioannes Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0129
+
+	3068.1.1 = {
+		birth = yes
+	}
+	3121.2.1 = {
+		death = yes
+	}
+}
+
+lombard0132 = {
+	name = "Madelfrid" # Madelfrid Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0129
+
+	3070.1.1 = {
+		birth = yes
+	}
+	3121.2.1 = {
+		death = yes
+	}
+}
+
+lombard0133 = {
+	name = "Bartholomeus" # Bartholomeus Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0129
+
+	3072.1.1 = {
+		birth = yes
+	}
+	3121.2.1 = {
+		death = yes
+	}
+}
+
+lombard0134 = {
+	name = "Aloara" # Aloara Ademaridi, wife of Alfan Dauferidi
+	dynasty_house = house_ademaridi
+	female = yes
+	religion = catholic
+	culture = lombard
+	trait = education_learning_2
+
+	father = lombard0128
+
+	3042.1.1 = {
+		birth = yes
+	}
+	3086.1.1 = {
+		death = yes
+	}
+}
+
+lombard0135 = {
+	name = "Adelfer" # Adelfer Ademaridi
+	dynasty_house = house_ademaridi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0125
+	mother = lombard0056
+
+	2997.1.1 = {
+		birth = yes
+	}
+	3057.5.1 = {
+		death = yes
+	}
+}
+
+lombard0136 = {
+	name = "Lantpert" # Lampert Lampertidi
+	dynasty_house = house_lampertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0003
+
+	2957.1.1 = {
+		birth = yes
+	}
+	3007.1.1 = {
+		death = yes
+	}
+}
+
+lombard0137 = {
+	name = "Ioannes" # Ioannes Lampertidi
+	dynasty_house = house_lantpertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0136
+
+	2992.1.1 = {
+		birth = yes
+	}
+	3044.1.1 = {
+		death = yes
+	}
+}
+
+lombard0138 = {
+	name = "Guido" # Wido Lampertidi
+	dynasty_house = house_lantpertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0137
+
+	3015.1.1 = {
+		birth = yes
+	}
+	3044.1.1 = {
+		death = yes
+	}
+}
+
+lombard0139 = {
+	name = "Ioannes" # Ioannes Lampertidi
+	dynasty_house = house_lantpertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0137
+
+	3017.1.1 = {
+		birth = yes
+	}
+	3067.11.1 = {
+		death = yes
+	}
+}
+
+lombard0140 = {
+	name = "Alfan" # Alfan Lampertidi
+	dynasty_house = house_lantpertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0136
+
+	2996.1.1 = {
+		birth = yes
+	}
+	3067.11.1 = {
+		death = yes
+	}
+}
+
+lombard0141 = {
+	name = "Leo" # Leo Lampertidi
+	dynasty_house = house_lantpertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0140
+
+	3019.1.1 = {
+		birth = yes
+	}
+	3067.11.1 = {
+		death = yes
+	}
+}
+
+lombard0142 = {
+	name = "Romoald" # Romoald Lampertidi
+	dynasty_house = house_lantpertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0140
+
+	3021.1.1 = {
+		birth = yes
+	}
+	3067.11.1 = {
+		death = yes
+	}
+}
+
+lombard0143 = {
+	name = "Iacobus" # Iacobus Lampertidi
+	dynasty_house = house_lantpertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0140
+
+	3021.1.1 = {
+		birth = yes
+	}
+	3067.11.1 = {
+		death = yes
+	}
+}
+
+lombard0144 = {
+	name = "Grimoald" # Grimoald Lampertidi
+	dynasty_house = house_lantpertidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0140
+
+	3023.1.1 = {
+		birth = yes
+	}
+	3067.11.1 = {
+		death = yes
+	}
+}
+
+lombard0145 = {
+	name = "Berengar" # Berengar Lampertidi
+	dynasty_house = house_lantpertidi
+	religion = catholic
+	culture = lombard
+	trait = education_diplomacy_2
+
+	father = lombard0140
+
+	3025.1.1 = {
+		birth = yes
+	}
+	3095.7.1 = {
+		death = yes
+	}
+}
+
+lombard0146 = {
+	name = "Sichelgaita" # Sichelgaita Lampertidi
+	dynasty_house = house_lantpertidi
+	religion = catholic
+	culture = lombard
+	trait = education_stewardship_1
+
+	father = lombard0140
+
+	3027.1.1 = {
+		birth = yes
+	}
+	3095.7.1 = {
+		death = yes
+	}
+}
+
+145216 = {
+	name = "Radelchis" # Radelchis (I) Radelchisidi, Duke of Benevento (839-851)
+	dynasty = 804
+	religion = "catholic"
+	culture = "lombard"
+
+	2792.1.1 = {
+		birth = yes
+	}
+	2853.6.1 = {
+		death = {
+			death_reason = death_old_age
+		}
+	}
+}
+
+145217 = {
+	name = "Radelgar" # Radelgar Radelchisidi, Duke of Benevento (851-853)
+	dynasty = 804
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 145216
+
+	2820.1.1 = {
+		birth = yes
+	}
+	2855.12.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+145218 = {
+	name = "Guaifer" # Guaifer Radelchisidi, Duke of Benevento (878-881)
+	dynasty = 804
+	religion = "catholic"
+	culture = "lombard"
+	trait = education_martial_2
+
+	father = 145217
+
+	2842.1.1 = {
+		birth = yes
+	}
+	2887.1.1 = {
+		death = yes
+	}
+}
+
+145219 = {
+	name = "Radelchis" # Radelchis (II) Radelchisidi, Duke of Benevento (881-884 & 897-900)
+	dynasty = 804
+	religion = "catholic"
+	culture = "lombard"
+	trait = education_stewardship_1
+
+	father = 163071
+
+	2847.1.1 = {
+		birth = yes
+	}
+	2863.1.1 = {
+		add_spouse = lombard0069
+	}
+	2909.1.1 = {
+		death = yes
+	}
+}
+
+145220 = {
+	name = "Aio" # Aio (II) Radelchisidi, Duke of Benevento (884-890)
+	dynasty = 804
+	religion = "catholic"
+	culture = "lombard"
+	trait = education_martial_2
+
+	father = 163071
+
+	2849.1.1 = {
+		birth = yes
+	}
+	2892.1.1 = {
+		death = {
+			death_reason = death_natural_causes
+		}
+	}
+}
+
+145221 = {
+	name = "Ursus" # Ursus Radelchisidi, Duke of Benevento (890-891)
+	dynasty = 804
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 145220
+
+	2868.1.1 = {
+		birth = yes
+	}
+	2894.1.1 = {
+		death = yes
+	}
+}
+
+163071 = {
+	name = "Adelchis" # Adelchis Radelchisidi, Duke of Benevento (853-878)
+	dynasty = 804
+	religion = "catholic"
+	culture = "lombard"
+	trait = education_martial_3
+
+	father = 145216
+
+	2822.1.1 = {
+		birth = yes
+	}
+	2880.5.1 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+
+190180 = {
+	name = "Gundoald" # Gundoald Baiuvari, son of Garibald of Bavaria and father of Aripert of Italy
+	dynasty_house = house_baiuvari
+	religion = "catholic"
+	culture = "lombard"
+
+	father = 190178
+
+	2573.1.1 = {
+		birth = yes
+	}
+	2614.1.1 = {
+		death = yes
+	}
+}
+
+lombard0147 = {
+	name = "Maginfrit" # Maginfrit Maginfritidi, Duke of Toscana (834-838), Count of Ajaccio and Bastia (834-838)
+	dynasty = maginfritidi
+	religion = catholic
+	culture = lombard
+
+	2790.1.1 = {
+		birth = yes
+	}
+	2840.1.1 = {
+		death = yes
+	}
+}
+
+lombard0148 = {
+	name = "Agano" # Agano Maginfritidi, Duke of Toscana (838-846), Count of Ajaccio and Bastia (838-846)
+	dynasty = maginfritidi
+	religion = catholic
+	culture = lombard
+
+	father = lombard0147
+
+	2813.1.1 = {
+		birth = yes
+	}
+	2848.1.1 = {
+		death = yes
+	}
+}
+
+lombard0149 = {
+	name = "Dagipert" # Dagiberto, Bishop of Novara (902-940)
+	religion = "catholic"
+	culture = "lombard"
+	trait = education_learning_2
+
+	2859.1.1 = {
+		birth = yes
+	}
+	2875.1.1 = {
+		add_trait = theologian #Add adult trait.
+	}
+	2891.9.29 = {
+		name = "Dagiberto"
+		culture = cisalpine
+	}
+	2942.7.1 = {
+		death = yes
+	}
+}
+lombard0150 = {
+	name = "Wulfred" # Wolfredo, Bishop of Cremona (816-818)
+	religion = "catholic"
+	culture = "lombard"
+	trait = chaste
+	trait = theologian
+	trait = education_learning_2
+
+	2774.1.1 = {
+		birth = yes
+	}
+	2820.1.1 = {
+		death = yes
+	}
+}
+
+lombard0151 = {
+	name = "Otto" # Ottone, Bishop of Cremona (818-821)
+	religion = "catholic"
+	culture = "lombard"
+	trait = chaste
+	trait = theologian
+	trait = education_learning_2
+
+	2775.1.1 = {
+		birth = yes
+	}
+	2823.1.1 = {
+		death = yes
+	}
+}
+
+lombard0152 = {
+	name = "Simpert" # Simperto Addobati, Bishop of Cremona (823-827)
+	dynasty = addobati
+	religion = "catholic"
+	culture = "lombard"
+	trait = chaste
+	trait = theologian
+	trait = education_learning_3
+
+	2780.1.1 = {
+		birth = yes
+	}
+	2829.1.1 = {
+		death = yes
+	}
+}
+
+lombard0153 = {
+	name = "Pancoard" # Pancoardo, Bishop of Cremona (840-842)
+	religion = "catholic"
+	culture = "lombard"
+	trait = chaste
+	trait = theologian
+	trait = education_learning_2
+
+	2789.1.1 = {
+		birth = yes
+	}
+	2844.1.1 = {
+		death = yes
+	}
+}
+
+lombard0154 = {
+	name = "Benedictus" # Benedetto, Bishop of Cremona (850-880)
+	religion = "catholic"
+	culture = "lombard"
+	trait = chaste
+	trait = theologian
+	trait = education_learning_3
+
+	2826.1.1 = {
+		birth = yes
+	}
+	2882.1.1 = {
+		death = yes
+	}
+}
+
+lombard0155 = {
+	name = "Berthari" # Bertharidi di Brescia, Count of Brescia (865-888)
+	dynasty = brescia
+	religion = "catholic"
+	culture = "lombard"
+	trait = education_stewardship_2
+
+	2838.1.1 = {
+		birth = yes
+	}
+	2890.1.1 = {
+		death = yes
+	}
+}
+
+### End of lords of c_venezia
+# Start of Antenoreo
+145922 = {
+	name = "Encagilio"
+	dynasty = 1022328
+	religion = "catholic"
+	culture = lombard
+	2729.1.1 = {
+		birth = "2729.1.1"
+	}
+	2794.1.1 = {
+		death = "2794.1.1"
+	}
+}
+
+
+145923 = {
+	name = "Obelerio"
+	dynasty = 1022328
+	religion = "catholic"
+	culture = lombard
+	father = 145922
+	2766.1.1 = {
+		birth = "2766.1.1"
+	}
+	2834.1.1 = {
+		death = "2834.1.1"
+	}
+}
+
+145924 = {
+	name = "Beato"
+	dynasty = 1022328
+	religion = "catholic"
+	culture = lombard
+	father = 145922
+	2768.1.1 = {
+		birth = "2768.1.1"
+	}
+	2835.1.1 = {
+		death = "2835.1.1"
+	}
+}
+
+145925 = {
+	name = "Valentino"
+	dynasty = 1022328
+	religion = "catholic"
+	culture = lombard
+	father = 145922
+	2770.1.1 = {
+		birth = "2770.1.1"
+	}
+	2837.1.1 = {
+		death = "2837.1.1"
+	}
+}
+# End of Antenoreo
+# Start of Galbaio
+145919 = {
+	name = "Maurizio"
+	dynasty = 1022327
+	religion = "catholic"
+	culture = lombard
+	trait = gregarious
+	trait = diligent
+	trait = education_diplomacy_4
+
+	2728.1.1 = {
+		birth = "2728.1.1"
+	}
+	2789.1.1 = {
+		death = "2789.1.1"
+	}
+}
+
+145920 = {
+	name = "Giovanni"
+	dynasty = 1022327
+	religion = "catholic"
+	culture = lombard
+	father = 145919
+	trait = ambitious
+	2750.1.1 = {
+		birth = "2750.1.1"
+	}
+	2815.1.1 = {
+		death = "2815.1.1"
+	}
+}
+
+145921 = {
+	name = "Maurizio"
+	dynasty = 1022327
+	religion = "catholic"
+	culture = lombard
+	father = 145920
+	2769.1.1 = {
+		birth = "2769.1.1"
+	}
+	2833.1.1 = {
+		death = "2833.1.1"
+	}
+}
+
+145928 = {
+	name = "Leone"
+	dynasty = 1022327
+	religion = "catholic"
+	culture = lombard
+	father = 145919
+	2754.1.1 = {
+		birth = "2754.1.1"
+	}
+	2812.1.1 = {
+		death = "2812.1.1"
+	}
+}
+
+145929 = {
+	name = "Cristoforo"
+	dynasty = 1022327
+	religion = "catholic"
+	culture = lombard
+	father = 145928
+	trait = ambitious
+	2776.1.1 = {
+		birth = "2776.1.1"
+	}
+	2842.1.1 = {
+		death = "2842.1.1"
+	}
+}
+# End of Galbaio
+# Start of Monegario
+145916 = {
+	name = "Domenico"
+	dynasty = 1022326
+	religion = "catholic"
+	culture = lombard
+
+	2722.1.1 = {
+		birth = "2722.1.1"
+	}
+	2766.1.1 = {
+		trait = blind
+	}
+	2774.1.1 = {
+		death = "2774.1.1"
+	}
+}
+
+145917 = {
+	name = "Caesario"
+	dynasty = 1022326
+	religion = "catholic"
+	culture = lombard
+	father = 145916
+	2741.1.1 = {
+		birth = "2741.1.1"
+	}
+	2803.1.1 = {
+		death = "2803.1.1"
+	}
+}
+
+145918 = {
+	name = "Sergio"
+	dynasty = 1022326
+	religion = "catholic"
+	culture = lombard
+	father = 145916
+	2748.1.1 = {
+		birth = "2748.1.1"
+	}
+	2813.1.1 = {
+		death = "2813.1.1"
+	}
+}
+# End of Monegario
+# Start of Gaulo
+145915 = {
+	name = "Galla"
+	dynasty = 1022325
+	religion = "catholic"
+	culture = lombard
+
+	2724.1.1 = {
+		birth = "2724.1.1"
+	}
+	2758.1.1 = {
+		trait = blind
+	}
+	2765.1.1 = {
+		death = "2765.1.1"
+	}
+}
+# End of Gaulo
+# Start of Orseolo
+145910 = {
+	name = "Orso"
+	dynasty = 101562
+	religion = "catholic"
+	culture = lombard
+	2692.1.1 = {
+		birth = "2692.1.1"
+	}
+	2739.1.1 = {
+		death = "2739.1.1"
+	}
+}
+
+145911 = {
+	name = "Teodato"
+	dynasty = 101562
+	religion = "catholic"
+	culture = lombard
+	father = 145910
+	2717.1.1 = {
+		birth = "2717.1.1"
+	}
+	2757.1.1 = {
+		trait = blind
+	}
+	2784.1.1 = {
+		death = "2784.1.1"
+	}
+}
+
+145912 = {
+	name = "Pietro"
+	dynasty = 101562
+	religion = "catholic"
+	culture = lombard
+	father = 145911
+	2742.1.1 = {
+		birth = "2742.1.1"
+	}
+	2799.1.1 = {
+		death = "2799.1.1"
+	}
+}
+
+145913 = {
+	name = "Jacopo"
+	dynasty = 101562
+	religion = "catholic"
+	culture = lombard
+	father = 145912
+	2764.1.1 = {
+		birth = "2764.1.1"
+	}
+	2823.1.1 = {
+		death = "2823.1.1"
+	}
+}
+
+145914 = {
+	name = "Pietro"
+	dynasty = 101562
+	religion = "catholic"
+	culture = lombard
+	father = 145913
+	2787.1.1 = {
+		birth = "2787.1.1"
+	}
+	2846.1.1 = {
+		death = "2846.1.1"
+	}
+}
+# End of Orseolo
+### End of lords of c_venezia

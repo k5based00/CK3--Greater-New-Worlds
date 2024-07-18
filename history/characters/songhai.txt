@@ -1,0 +1,581 @@
+﻿#From CK2HF database
+#161040 - 161069
+
+161040 = {
+	name = "Alayaman"
+	dynasty = 1030006
+	religion = west_african_bidu_pagan
+	culture = songhai
+	2702.1.1={
+		birth="2702.1.1"
+	}
+	
+	2752.1.1={
+		death="2752.1.1"
+	}
+}
+
+161041 = {
+	name = "Zakoi"
+	dynasty = 1030006
+	religion = west_african_bidu_pagan
+	culture = songhai
+	father = 161040
+	2722.1.1={
+		birth="2722.1.1"
+	}
+	
+	2772.1.1={
+		death="2772.1.1"
+	}
+}
+
+161042 = {
+	name = "Takoi"
+	dynasty = 1030006
+	religion = west_african_bidu_pagan
+	culture = songhai
+	father = 161041
+	2742.1.1={
+		birth="2742.1.1"
+	}
+	
+	2792.1.1={
+		death="2792.1.1"
+	}
+}
+
+161043 = {
+	name = "Akoi"
+	dynasty = 1030006
+	religion = west_african_bidu_pagan
+	culture = songhai
+	father = 161042
+	2762.1.1={
+		birth="2762.1.1"
+	}
+	
+	2812.1.1={
+		death="2812.1.1"
+	}
+}
+
+161044 = {
+	name = "Ku"
+	dynasty = 1030006
+	religion = west_african_bidu_pagan
+	culture = songhai
+	father = 161043
+	2782.1.1={
+		birth="2782.1.1"
+	}
+	
+	2832.1.1={
+		death="2832.1.1"
+	}
+}
+
+161045 = {
+	name = "Ali-Fay"
+	dynasty = 1030006
+	religion = west_african_bidu_pagan
+	culture = songhai
+	father = 161044
+	2802.1.1={
+		birth="2802.1.1"
+	}
+	
+	2852.1.1={
+		death="2852.1.1"
+	}
+}
+
+161046 = {
+	name = "Biyu_Kumoy"
+	dynasty = 1030006
+	religion = west_african_bidu_pagan
+	culture = songhai
+	father = 161045
+	2822.1.1={
+		birth="2822.1.1"
+	}
+	
+	2862.1.1={
+		death="2862.1.1"
+	}
+}
+
+161047 = {
+	name = "Za_Kuroy"
+	dynasty = 1030006
+	religion = west_african_bidu_pagan
+	culture = songhai
+	father = 161046
+	2842.1.1={
+		birth="2842.1.1"
+	}
+	
+	2882.1.1={
+		death="2882.1.1"
+	}
+}
+
+161048 = {
+	name = "Yama_Karaway"
+	dynasty = 1030006
+	religion = west_african_bidu_pagan
+	culture = songhai
+	father = 161047
+	2862.1.1={
+		birth="2862.1.1"
+	}
+	
+	2902.1.1={
+		death="2902.1.1"
+	}
+}
+
+161049 = {
+	name = "Yama"
+	dynasty = 1030006
+	religion = west_african_bidu_pagan
+	culture = songhai
+	father = 161048
+	2882.1.1={
+		birth="2882.1.1"
+	}
+	
+	2922.1.1={
+		death="2922.1.1"
+	}
+}
+
+161050 = {
+	name = "Yama_Danka_Kiba_u"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161049
+	2902.1.1={
+		birth="2902.1.1"
+	}
+	
+	2942.1.1={
+		death="2942.1.1"
+	}
+}
+
+161051 = {
+	name = "Kukuray"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161050
+	2922.1.1={
+		birth="2922.1.1"
+	}
+	
+	2962.1.1={
+		death="2962.1.1"
+	}
+}
+
+161052 = {
+	name = "Kinkin"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161051
+	2942.1.1={
+		birth="2942.1.1"
+	}
+	
+	2982.1.1={
+		death="2982.1.1"
+	}
+}
+
+161053 = {
+	name = "Kusoy_Muslim_Dam"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161052
+	2962.1.1={
+		birth="2962.1.1"
+	}
+	
+	3002.1.1={
+		death="3002.1.1"
+	}
+}
+
+161054 = {
+	name = "Han_Kuz_Wanku_Dam"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161053
+	2982.1.1={
+		birth="2982.1.1"
+	}
+	
+	3032.1.1={
+		death="3032.1.1"
+	}
+}
+
+161055 = {
+	name = "Biyu_Ki_Kima"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161054
+	3002.1.1={
+		birth="3002.1.1"
+	}
+	
+	3052.1.1={
+		death="3052.1.1"
+	}
+}
+
+161056 = {
+	name = "Nintasanay"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161055
+	3032.1.1={
+		birth="3032.1.1"
+	}
+	
+	3082.1.1={
+		death="3082.1.1"
+	}
+}
+
+161057 = {
+	name = "Biyu_Kayna_Kinba"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161056
+	3052.1.1={
+		birth="3052.1.1"
+	}
+	
+	3102.1.1={
+		death="3102.1.1"
+	}
+}
+
+161058 = {
+	name = "Kayna_Shanyunbu"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161057
+	3072.1.1={
+		birth="3072.1.1"
+	}
+	
+	3122.1.1={
+		death="3122.1.1"
+	}
+}
+
+161059 = {
+	name = "Tib"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161058
+	3092.1.1={
+		birth="3092.1.1"
+	}
+	
+	3142.1.1={
+		death="3142.1.1"
+	}
+}
+
+
+161060 = {
+	name = "Yama"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161058
+	3112.1.1={
+		birth="3112.1.1"
+	}
+	
+	3162.1.1={
+		death="3162.1.1"
+	}
+}
+
+161061 = {
+	name = "FA_dazu"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161060
+	3132.1.1={
+		birth="3132.1.1"
+	}
+	
+	3182.1.1={
+		death="3182.1.1"
+	}
+}
+
+161062 = {
+	name = "Ali_Kuru"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161061
+	3152.1.1={
+		birth="3152.1.1"
+	}
+	
+	3202.1.1={
+		death="3202.1.1"
+	}
+}
+
+161063 = {
+	name = "Bir_Fuluku"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161062
+	3172.1.1={
+		birth="3172.1.1"
+	}
+	
+	3222.1.1={
+		death="3222.1.1"
+	}
+}
+
+161064 = {
+	name = "Yasiboy"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161063
+	3192.1.1={
+		birth="3192.1.1"
+	}
+	
+	3242.1.1={
+		death="3242.1.1"
+	}
+}
+
+161065 = {
+	name = "Duru"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161064
+	3212.1.1={
+		birth="3212.1.1"
+	}
+	
+	3252.1.1={
+		death="3252.1.1"
+	}
+}
+
+161066 = {
+	name = "Zenku_Baru"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161065
+	3232.1.1={
+		birth="3232.1.1"
+	}
+	
+	3262.1.1={
+		death="3262.1.1"
+	}
+}
+
+161067 = {
+	name = "Bisi_Baru"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161065
+	3237.1.1={
+		birth="3237.1.1"
+	}
+	
+	3267.1.1={
+		death="3267.1.1"
+	}
+}
+
+161068 = {
+	name = "Bada"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161066
+	3252.1.1={
+		birth="3252.1.1"
+	}
+	
+	3272.1.1={
+		death="3272.1.1"
+	}
+}
+
+161069 = {
+	name = "Bisi_Baro_Ber"
+	dynasty = 1030006
+	religion = ashari
+	culture = songhai
+	father = 161066
+	3254.1.1={
+		birth="3254.1.1"
+	}
+	
+	3277.1.1={
+		death="3277.1.1"
+	}
+}
+
+161070 = {
+	name = "Ali_Kolon"
+	dynasty = 1030007
+	religion = ashari
+	culture = songhai
+	3232.1.1={
+		birth="3232.1.1"
+	}
+	
+	3282.1.1={
+		death="3282.1.1"
+	}
+}
+
+161071 = {
+	name = "Salman_Nari"
+	dynasty = 1030007
+	religion = ashari
+	culture = songhai
+	father = 161070
+	3252.1.1={
+		birth="3252.1.1"
+	}
+	
+	3302.1.1={
+		death="3302.1.1"
+	}
+}
+
+161072 = {
+	name = "Ibrahim_Kabayo"
+	dynasty = 1030007
+	religion = ashari
+	culture = songhai
+	father = 161070
+	3257.1.1={
+		birth="3257.1.1"
+	}
+	
+	3312.1.1={
+		death="3312.1.1"
+	}
+}
+
+161073 = {
+	name = "Uthman_Gifo_Kanafa"
+	dynasty = 1030007
+	religion = ashari
+	culture = songhai
+	father = 161072
+	3277.1.1={
+		birth="3277.1.1"
+	}
+	
+	3322.1.1={
+		death="3322.1.1"
+	}
+}
+
+
+161074 = {
+	name = "Ber_Kayna_Ankabi"
+	dynasty = 1030007
+	religion = ashari
+	culture = songhai
+	father = 161073
+	3302.1.1={
+		birth="3302.1.1"
+	}
+	
+	3352.1.1={
+		death="3352.1.1"
+	}
+}
+
+161075 = {
+	name = "Musa"
+	dynasty = 1030007
+	religion = ashari
+	culture = songhai
+	father = 161074
+	3322.1.1={
+		birth="3322.1.1"
+	}
+	
+	3372.1.1={
+		death="3372.1.1"
+	}
+}
+
+260876 = {
+	name = "Bakr"
+	dynasty = 2001221
+	religion = west_african_bidu_pagan
+	culture = songhai
+	2884.1.1 = {
+		birth = yes
+	}
+	2935.1.1 = {
+		death = yes
+	}
+}
+260877 = {
+	name = "Bakr"
+	dynasty = 2001221
+	religion = west_african_bidu_pagan
+	culture = songhai
+	father = 260876
+	2912.1.1 = {
+		birth = yes
+	}
+	2947.1.1 = {
+		death = yes
+	}
+}
+260878 = {
+	name = "Dao"
+	dynasty = 2001221
+	religion = west_african_bidu_pagan
+	culture = songhai
+	father = 260876
+	2914.1.1 = {
+		birth = yes
+	}
+	2966.1.1 = {
+		death = yes
+	}
+}

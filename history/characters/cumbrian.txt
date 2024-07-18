@@ -1,0 +1,972 @@
+﻿131110 = {
+	name = "Owain"
+	# AKA: Owain 'the Bald'
+	dynasty = 816
+	martial = 6
+	diplomacy = 2
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "cumbrian"
+	trait = education_martial_2
+	father = 166434
+	2966.1.2 = {
+		birth = "2966.1.2"
+		give_nickname = nick_the_bald
+	}
+	3020.1.2 = {
+		death = "3020.1.2"
+	}
+}
+159007 = {
+	name = "Tegid" #
+	dynasty = 1029039 # Goddoddin
+	religion = "catholic"
+	culture = "cumbrian"
+	2242.1.1 = {
+		birth = "2242.1.1"
+	}
+	2302.1.1 = {
+		death = "2302.1.1"
+	}
+}
+159008 = {
+	name = "Padarn_Beisrudd" #
+	dynasty = 1029039 # Goddoddin
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159007
+	2272.1.1 = {
+		birth = "2272.1.1"
+	}
+	2342.1.1 = {
+		death = "2342.1.1"
+	}
+}
+159009 = {
+	name = "Edern" #
+	dynasty = 1029039 # Goddoddin
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159008
+	2312.1.1 = {
+		birth = "2312.1.1"
+	}
+	2392.1.1 = {
+		death = "2392.1.1"
+	}
+}
+159029 = {
+	name = "Sandde" #
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159030 # Alcwn
+	2682.1.1 = {
+		birth = "2682.1.1"
+	}
+	2722.1.1 = {
+		add_spouse = 159933
+	}
+	2732.1.1 = {
+		death = "2732.1.1"
+	}
+}
+159030 = {
+	name = "Algwyn" # aka Alcwn
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159031 # Tegid
+	2642.1.1 = {
+		birth = "2642.1.1"
+	}
+	2712.1.1 = {
+		death = "2712.1.1"
+	}
+}
+159031 = {
+	name = "Teigid" #
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159032 #
+	2602.1.1 = {
+		birth = "2602.1.1"
+	}
+	2682.1.1 = {
+		death = "2682.1.1"
+	}
+}
+159032 = {
+	name = "Gwyar" #
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159033 #
+	2562.1.1 = {
+		birth = "2562.1.1"
+	}
+	2642.1.1 = {
+		death = "2642.1.1"
+	}
+}
+159033 = {
+	name = "Llywarch" #
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159034 # Elidyr Llydanwyn
+	2527.1.1 = {
+		birth = "2527.1.1"
+	}
+	2614.1.1 = {
+		give_nickname = nick_the_old
+	}
+	2615.1.1 = {
+		death = "2615.1.1"
+	}
+}
+159034 = {
+	name = "Elidyr" # the Handsome
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159035 # Meirchion Gul
+	2502.1.1 = {
+		birth = "2502.1.1"
+	}
+	2527.1.1 = {
+		give_nickname = nick_the_handsome
+	}
+	2562.1.1 = {
+		death = "2562.1.1"
+	}
+}
+159035 = {
+	name = "Meirchion" # Gul
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159036 # Gwrast the Ragged
+	2432.1.1 = {
+		birth = "2432.1.1"
+	}
+	2527.1.1 = {
+		death = "2527.1.1"
+	}
+}
+159036 = {
+	name = "Gwrast" # the Ragged
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159037 # Ceneu
+	2412.1.1 = {
+		birth = "2412.1.1"
+	}
+	2492.1.1 = {
+		death = "2492.1.1"
+	}
+}
+
+159037 = {
+	name = "Ceneu" #
+	dynasty = 1029002 #Ebrauc
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159038 # Coel
+	mother = 159951 #Ystradwel of Dumnonia
+	2392.1.1 = {
+		birth = "2392.1.1"
+	}
+	2462.1.1 = {
+		death = "2462.1.1"
+	}
+}
+159038 = {
+	name = "Coel" #
+	dynasty = 1029002 #Ebrauc
+	religion = "catholic"
+	culture = "cumbrian"
+	2342.1.1 = {
+		birth = "2342.1.1"
+	}
+	2392.1.1 = {
+		add_spouse = 159951
+	}
+	2422.1.1 = {
+		give_nickname = nick_the_old
+	}
+	2422.1.1 = {
+		death = "2422.1.1"
+	}
+}
+159039 = {
+	name = "Gwawl" #
+	female = yes
+	dynasty = 1029002 #Ebrauc
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159038 # Coel
+	mother = 159951 #Ystradwel of Dumnonia
+	2361.1.1 = {
+		birth = yes
+	}
+	2392.1.2 = {
+		add_spouse = 159010
+	}
+	2432.1.1 = {
+		death = "2432.1.1"
+	}
+}
+
+
+159952 = {
+	name = "Cynfarch" #Oer
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159035 # Meirchion Gul
+	2462.1.1 = {
+		birth = "2462.1.1"
+	}
+	2478.1.1 = {
+		add_spouse = 159957
+	}
+	2562.1.1 = {
+		death = "2562.1.1"
+	}
+}
+159953 = {
+	name = "Urien"
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159952 # Cynfarch
+	mother = 159957
+	2492.1.1 = {
+		birth = "2492.1.1"
+	}
+	2599.1.1 = {
+		death = "2599.1.1"
+	}
+}
+159954 = {
+	name = "Rhun"
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159953 # Urien
+	2532.1.1 = {
+		birth = "2532.1.1"
+	}
+	2612.1.1 = {
+		death = "2612.1.1"
+	}
+}
+159955 = {
+	name = "Rhoedd"
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159954 # Urien
+	2582.1.1 = {
+		birth = "2582.1.1"
+	}
+	2647.1.1 = {
+		death = "2647.1.1"
+	}
+}
+
+159958 = {
+	name = "Owain"
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159953 # Urien
+	2512.1.1 = {
+		birth = "2512.1.1"
+	}
+	2599.1.1 = {
+		death = "2599.1.1"
+	}
+}
+159959 = {
+	name = "Elffin"
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159958 # Owain
+	2542.1.1 = {
+		birth = "2542.1.1"
+	}
+	2618.1.1 = {
+		death = "2618.1.1"
+	}
+}
+159960 = {
+	name = "Nyfain"
+	female = yes
+	dynasty_house = house_british_isles_rheged #Rheged
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 159952 # Cynfarch
+	mother = 159957
+	2478.1.1 = {
+		birth = "2478.1.1"
+	}
+	2494.1.1 = {
+		add_spouse = 159823
+	}
+	2532.1.1 = {
+		death = "2532.1.1"
+	}
+}
+
+
+
+163104 = {
+	name = "Artgal"
+	dynasty = 816
+	martial = 6
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "cumbrian"
+	trait = education_martial_2
+	father = 166444
+	2806.1.1 = {
+		birth = "2806.1.1"
+	}
+	2874.1.1 = {
+		death = "2874.1.1"
+	}
+}
+
+166433 = {  	
+	name = "Malcolm"
+	# AKA: Mael Coluim II, "Son of the King of the Cumbrians"
+	dynasty = 816
+	martial = 4
+	diplomacy = 1
+	intrigue = 3
+	stewardship = 3
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 131110
+	3003.1.1 = {
+		birth = "3003.1.1"
+	}
+	3069.1.1 = {
+		death = "3069.1.1"
+	}
+}
+
+166434 = {  	
+	name = "Malcolm"
+	# AKA: Mael Coluim I
+	dynasty = 816
+	martial = 5
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166437
+	2947.1.1 = {
+		birth = "2947.1.1"
+	}
+	2999.1.1 = {
+		death = "2999.1.1"
+	}
+}
+
+166441 = {  	
+	name = "Oucydd"
+	# AKA: Eochaid map Run
+	dynasty = 816
+	martial = 5
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166442
+	mother = 166443
+	2846.1.1 = {
+		birth = "2846.1.1"
+	}
+	2891.1.1 = {
+		death = "2891.1.1"
+	}
+}
+
+166440 = {  	
+	name = "Dyfnwal"
+	# AKA: Dyfnwal map Eochaid
+	dynasty = 816
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166441
+	2863.1.1 = {
+		birth = "2863.1.1"
+	}
+	2891.1.1 = {
+		dynasty = 816
+	}
+	2918.1.1 = {
+		death = "2918.1.1"
+	}
+}
+
+166444 = {  	
+	name = "Dumnagual"
+	# AKA: Dumnagual IV of Alt Clut
+	dynasty = 816
+	martial = 5
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 6
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166445
+	2787.1.1 = {
+		birth = "2787.1.1"
+	}
+	2853.1.1 = {
+		death = "2853.1.1"
+	}
+}
+
+166445 = {  	
+	name = "Rhydderch"
+	# AKA: Riderch II of Alt Clut
+	dynasty = 816
+	martial = 7
+	diplomacy = 4
+	intrigue = 2
+	stewardship = 5
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166446
+	2770.1.1 = {
+		birth = "2770.1.1"
+	}
+	2837.1.1 = {
+		death = "2837.1.1"
+	}
+}
+
+166447 = {  	
+	name = "Dumnagual"
+	# AKA: Dumnagual III of Alt Clut
+	dynasty = 816
+	martial = 5
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166448
+	2730.1.1 = {
+		birth = "2730.1.1"
+	}
+	2762.1.1 = {
+		death = "2762.1.1"
+	}
+}
+
+166448 = {  	
+	name = "Teudebur"
+	# AKA: Teudebur map Beli of Alt Clut
+	dynasty = 816
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166449
+	2706.1.1 = {
+		birth = "2706.1.1"
+	}
+	2754.1.1 = {
+		death = "2754.1.1"
+	}
+}
+
+166449 = {  	
+	name = "Beli"
+	# AKA: Beli II map Elfin of Alt Clut
+	dynasty = 816
+	martial = 6
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166451
+	2680.1.1 = {
+		birth = "2680.1.1"
+	}
+	2724.1.1 = {
+		death = "2724.1.1"
+	}
+}
+
+166450 = {  	
+	name = "Dumnagual"
+	# AKA: Dumnagual II map Eugein of Alt Clut
+	dynasty = 816
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166453
+	2642.1.1 = {
+		birth = "2642.1.1"
+	}
+	2696.1.1 = {
+		death = "2696.1.1"
+	}
+}
+
+166451 = {  	
+	name = "Elfin"
+	# AKA: Elfin map Eugein of Alt Clut
+	dynasty = 816
+	martial = 5
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166453
+	2640.1.1 = {
+		birth = "2640.1.1"
+	}
+	2688.1.1 = {
+		death = "2688.1.1"
+	}
+}
+
+166452 = {  	
+	name = "Guret"
+	# AKA: Guret map Eugein of Alt Clut
+	dynasty = 816
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166453
+	2637.1.1 = {
+		birth = "2637.1.1"
+	}
+	2660.1.1 = {
+		death = "2660.1.1"
+	}
+}
+
+166454 = {  	
+	name = "Beli"
+	# AKA: Beli I map Neithon of Alt Clut
+	dynasty = 816
+	martial = 6
+	diplomacy = 4
+	intrigue = 2
+	stewardship = 5
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166455
+	2595.1.1 = {
+		birth = "2595.1.1"
+	}
+	2629.1.1 = {
+		death = "2629.1.1"
+	}
+}
+
+166455 = {  	
+	name = "Neithon"
+	# AKA: Neithon map Guipno map Dumnagual Hen of Alt Clut
+	dynasty = 816
+	martial = 8
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166460
+	2557.1.1 = {
+		birth = "2557.1.1"
+	}
+	2622.1.1 = {
+		death = "2622.1.1"
+	}
+}
+
+166456 = {  	
+	name = "Custennin"
+	# AKA: St. Constantine map Riderch I Hael of Alt Clut
+	dynasty = 816
+	martial = 4
+	diplomacy = 8
+	intrigue = 2
+	stewardship = 6
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166457
+	2570.1.1 = {
+		birth = "2570.1.1"
+	}
+	2642.1.1 = {
+		death = "2642.1.1"
+		give_nickname = nick_the_saint
+	}
+}
+
+166457 = {  	
+	name = "Rhydderch"
+	# AKA: Riderch I Hael map Tutagual of Alt Clut
+	dynasty = 816
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166458
+	2531.1.1 = {
+		birth = "2531.1.1"
+	}
+	2616.1.1 = {
+		death = "2616.1.1"
+		give_nickname = nick_the_old
+	}
+}
+
+166458 = {  	
+	name = "Tutagual"
+	# AKA: Tutagual map Clinoch of Alt Clut
+	dynasty = 816
+	martial = 5
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166459
+	2494.1.1 = {
+		birth = "2494.1.1"
+	}
+	2564.1.1 = {
+		death = "2564.1.1"
+	}
+}
+
+166459 = {  	
+	name = "Clinoch"
+	# AKA: Clinoch map Dumnagual Hen of Alt Clut
+	dynasty = 816
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166461
+	2466.1.1 = {
+		birth = "2466.1.1"
+	}
+	2537.1.1 = {
+		death = "2537.1.1"
+	}
+}
+
+166460 = {  	
+	name = "Guipno"
+	# AKA: Guipno map Dumnagual Hen of Alt Clut
+	dynasty = 816
+	martial = 8
+	diplomacy = 3
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166461
+	2508.1.1 = {
+		birth = "2508.1.1"
+	}
+	2567.1.1 = {
+		death = "2567.1.1"
+	}
+}
+
+166461 = {  	
+	name = "Dumnagual"
+	# AKA: Dumnagual I Hen map Cinuit of Alt Clut
+	dynasty = 816
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166462
+	2442.1.1 = {
+		birth = "2442.1.1"
+	}
+	2527.1.1 = {
+		death = "2527.1.1"
+		give_nickname = nick_the_old
+	}
+}
+
+166462 = {  	
+	name = "Cinuit"
+	# AKA: Cinuit map Ceretic Guletic of Alt Clut
+	dynasty = 816
+	martial = 5
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166463
+	2424.1.1 = {
+		birth = "2424.1.1"
+	}
+	2503.1.1 = {
+		death = "2503.1.1"
+	}
+}
+
+166463 = {  	
+	name = "Ceretic_Guletic"
+	# AKA: "Coroticus" Ceretic Guletic map Cynloyp of Alt Clut
+	dynasty = 816
+	martial = 8
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "cumbrian"
+	trait = education_martial_2
+	father = 166464
+	2402.1.1 = {
+		birth = "2402.1.1"
+	}
+	2490.1.1 = {
+		death = "2490.1.1"
+	}
+}
+
+166464 = {  	
+	name = "Cynloyp"
+	# AKA: Cynloyp map Cinhil
+	dynasty = 816
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166465
+	2385.1.1 = {
+		birth = "2385.1.1"
+	}
+	2438.1.1 = {
+		death = "2438.1.1"
+	}
+}
+
+166465 = {  	
+	name = "Cinhil"
+	# AKA: Cinhil map Cluim
+	dynasty = 816
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166466
+	2362.1.1 = {
+		birth = "2362.1.1"
+	}
+	2414.1.1 = {
+		death = "2414.1.1"
+	}
+}
+
+166466 = {  	
+	name = "Cluim"
+	# AKA: Cluim
+	dynasty = 816
+	religion = "catholic"
+	culture = "cumbrian"
+	2335.1.1 = {
+		birth = "2335.1.1"
+	}
+	2386.1.1 = {
+		death = "2386.1.1"
+	}
+}
+
+166442 = {  	
+	name = "Rhun"
+	# AKA: Run of Alt Clut
+	dynasty = 816
+	martial = 3
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 163104
+	2829.1.1 = {
+		birth = "2829.1.1"
+	}
+	2845.1.1 = {
+		add_spouse = 166443 #Daughter of Cináed mac Ailpín
+	}
+	2880.1.1 = {
+		death = "2880.1.1"
+	}
+}
+
+166446 = {  	
+	name = "Owain"
+	# AKA: Eugein II of Alt Clut
+	dynasty = 816
+	martial = 6
+	diplomacy = 3
+	intrigue = 5
+	stewardship = 2
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166447
+	2752.1.1 = {
+		birth = "2752.1.1"
+	}
+	2806.1.1 = {
+		death = "2806.1.1"
+	}
+}
+
+166453 = {  	
+	name = "Owain"
+	# AKA: Eugein I map Beli of Alt Clut
+	dynasty = 816
+	martial = 4
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166454
+	2613.1.1 = {
+		birth = "2613.1.1"
+	}
+	2654.1.1 = {
+		death = "2654.1.1"
+	}
+}
+
+166435 = {  	
+	name = "Addiena"
+	# AKA: daughter of Amdarch, raped by Cuilén mac Iduilb
+	female = yes
+	dynasty = 816
+	martial = 3
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 4
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166436
+	2959.1.1 = {
+		birth = "2959.1.1"
+	}
+	3017.1.1 = {
+		death = "3017.1.1"
+	}
+}
+
+166436 = {  	
+	name = "Rhydderch"
+	# AKA: Amdarch
+	dynasty = 816
+	martial = 7
+	diplomacy = 2
+	intrigue = 8
+	stewardship = 2
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166437
+	2942.1.1 = {
+		birth = "2942.1.1"
+	}
+	2974.1.1 = {
+		death = "2974.1.1"
+	}
+}
+
+166437 = {  	
+	name = "Dyfnwal"
+	# AKA: Dyfnwal map Ywain
+	dynasty = 816
+	martial = 7
+	diplomacy = 2
+	intrigue = 8
+	stewardship = 2
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166438
+	2921.1.1 = {
+		birth = "2921.1.1"
+	}
+	2977.1.1 = {
+		death = "2977.1.1"
+	}
+}
+
+166438 = {  	
+	name = "Owain"
+	# AKA: Ywain map Dyfnwal
+	dynasty = 816
+	martial = 7
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166439
+	2897.1.1 = {
+		birth = "2897.1.1"
+	}
+	2939.1.1 = {
+		death = "2939.1.1"
+	}
+}
+
+166439 = {  	
+	name = "Dyfnwal"
+	# AKA: Dyfnwal map Dyfnwal
+	dynasty = 816
+	martial = 5
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 5
+	religion = "catholic"
+	culture = "cumbrian"
+	father = 166440
+	2880.1.1 = {
+		birth = "2880.1.1"
+	}
+	2943.1.1 = {
+		death = "2943.1.1"
+	}
+}

@@ -1,0 +1,2056 @@
+﻿175110 = {
+	name = "Vijayaditya" # Vijay Aditya III
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189085
+	2817.1.1 = {
+		birth = "2817.1.1"
+	}
+	2894.1.1 = {
+		death = "2894.1.1"
+	}
+}
+
+189075 = {
+	name = "Jayasimha"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189074
+	2612.1.1 = {
+		birth = "2612.1.1"
+	}
+	2675.1.1 = {
+		death = "2675.1.1"
+	}
+}
+189076 = {
+	name = "Indrabhattaraka"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189074
+	2613.1.1 = {
+		birth = "2613.1.1"
+	}
+	2675.1.8 = {
+		death = "2675.1.8"
+	}
+}
+189077 = {
+	name = "Vishnuvardhana" #II
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189076
+	2632.1.1 = {
+		birth = "2632.1.1"
+	}
+	2684.1.1 = {
+		death = "2684.1.1"
+	}
+}
+189078 = {
+	name = "Mangiyuvaraja"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189077
+	2652.1.1 = {
+		birth = "2652.1.1"
+	}
+	2708.1.1 = {
+		death = "2708.1.1"
+	}
+}
+189079 = {
+	name = "Jayasimha" #II
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189078
+	2672.1.1 = {
+		birth = "2672.1.1"
+	}
+	2720.1.1 = {
+		death = "2720.1.1"
+	}
+}
+189080 = {
+	name = "Vikramaditya"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189078
+	2682.1.1 = {
+		birth = "2682.1.1"
+	}
+	2721.1.1 = {
+		death = yes
+	}
+}
+189081 = {
+	name = "Vishnuvardhana" #III
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189078
+	2677.1.1 = {
+		birth = "2677.1.1"
+	}
+	2757.1.1 = {
+		death = "2757.1.1"
+	}
+}
+189082 = {
+	name = "Vijayaditya" #I
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189081
+	2702.1.1 = {
+		birth = "2702.1.1"
+	}
+	2774.1.1 = {
+		death = "2774.1.1"
+	}
+}
+189083 = {
+	name = "Vishnuvardhana" #IV
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189082
+	2732.1.1 = {
+		birth = "2732.1.1"
+	}
+	2810.1.1 = {
+		death = "2810.1.1"
+	}
+}
+189084 = {
+	name = "Vijayaditya" #II
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189083
+	2762.1.1 = {
+		birth = "2762.1.1"
+	}
+	2849.1.1 = {
+		death = "2849.1.1"
+	}
+}
+189085 = {
+	name = "Vishnuvardhana" #V
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189084
+	2782.1.1 = {
+		birth = "2782.1.1"
+	}
+	2851.1.1 = {
+		death = "2851.1.1"
+	}
+}
+
+
+189086 = {
+	name = "Yuddhamala"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189085
+	2822.1.1 = {
+		birth = "2822.1.1"
+	}
+	2894.6.1 = {
+		death = "2894.6.1"
+	}
+}
+189087 = {
+	name = "Vikramaditya"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189085
+	2827.1.1 = {
+		birth = "2827.1.1"
+	}
+	2892.1.1 = {
+		death = "2892.1.1"
+	}
+}
+189088 = {
+	name = "Bhima"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189087
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2923.1.1 = {
+		death = "2923.1.1"
+	}
+}
+189089 = {
+	name = "Vijayaditya"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189088
+	2872.1.1 = {
+		birth = "2872.1.1"
+	}
+	2923.6.1 = {
+		death = "2923.6.1"
+	}
+}
+additional_eastern_chalukyas_1 = {
+	name = "Vishnuvardhana" #VI
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189088
+	2874.1.1 = {
+		birth = yes
+	}
+	2929.1.1 = {
+		death = yes
+	}
+}
+189090 = {
+	name = "Vijayaditya"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189089
+	2892.1.1 = {
+		birth = "2892.1.1"
+	}
+	2929.1.1 = {
+		death = "2929.1.1"
+	}
+}
+189091 = {
+	name = "Tala"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189086
+	2852.1.1 = {
+		birth = "2852.1.1"
+	}
+	2929.2.1 = {
+		death = "2929.2.1"
+	}
+}
+189092 = {
+	name = "Vikramaditya"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189086
+	2857.1.1 = {
+		birth = "2857.1.1"
+	}
+	2930.1.1 = {
+		death = "2930.1.1"
+	}
+}
+189093 = {
+	name = "Bhima"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189089
+	2897.1.1 = {
+		birth = yes
+	}
+	2930.11.1 = {
+		death = yes
+	}
+}
+189094 = {
+	name = "Yudhamalla"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189091
+	2882.1.1 = {
+		birth = "2882.1.1"
+	}
+	2937.1.1 = {
+		death = "2937.1.1"
+	}
+}
+189095 = {
+	name = "Bhima" #III
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189089
+	2902.1.1 = {
+		birth = "2902.1.1"
+	}
+	2949.1.1 = {
+		death = "2949.1.1"
+	}
+}
+189096 = {
+	name = "Amma" #
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189095
+	2922.1.1 = {
+		birth = "2922.1.1"
+	}
+	2972.1.1 = {
+		death = "2972.1.1"
+	}
+}
+189097 = {
+	name = "Tala" #II
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189094
+	2922.1.1 = {
+		birth = "2922.1.1"
+	}
+	2972.6.1 = {
+		death = "2972.6.1"
+	}
+}
+189098 = {
+	name = "Danarnava" #
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189095
+	2917.1.1 = {
+		birth = yes
+	}
+	2975.1.1 = {
+		death = yes
+	}
+}
+additional_eastern_chalukyas_2 = {
+	name = "Bhima" #
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189095
+	2932.1.1 = {
+		birth = yes
+	}
+	3001.1.1 = {
+		death = yes
+	}
+}
+189099 = {
+	name = "Saktivarman" #
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189098
+	2942.1.1 = {
+		birth = "2942.1.1"
+	}
+	3013.1.1 = {
+		death = "3013.1.1"
+	}
+}
+189100 = {
+	name = "Vimaladitya" #
+	dynasty_house = 1029175
+	religion = "svetambara"
+	culture = "telugu"
+	father = 189098
+	2947.1.1 = {
+		birth = "2947.1.1"
+	}
+	3020.1.1 = {
+		death = "3020.1.1"
+	}
+}
+189101 = {
+	name = "Danarnava" #unknown name
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189099
+	2962.1.1 = {
+		birth = "2962.1.1"
+	}
+	3012.1.1 = {
+		death = "3012.1.1"
+	}
+}
+189102 = {
+	name = "Rajaraja" #Narendra
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189099
+	2992.1.1 = {
+		birth = "2992.1.1"
+	}
+	3017.1.1 = {
+		add_spouse = chola_daughters_1
+	}
+	3063.1.1 = {
+		death = "3063.1.1"
+	}
+}
+189103 = {
+	name = "Saktivarman" #II
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189098
+	2992.1.1 = {
+		birth = "2992.1.1"
+	}
+	3065.1.1 = {
+		death = "3065.1.1"
+	}
+}
+189104 = {
+	name = "Vijayaditya" #VII
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189103
+	3012.1.1 = {
+		birth = "3012.1.1"
+	}
+	3077.1.1 = {
+		death = "3077.1.1"
+	}
+}
+189105 = {
+	name = "Rajaraja" #II
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189102
+	mother = chola_daughters_1
+	3022.1.1 = {
+		birth = "3022.1.1"
+	}
+	3042.1.1 = {
+		add_spouse = chola_daughters_2
+	}
+	3081.1.1 = {
+		death = "3081.1.1"
+	}
+}
+189106 = {
+	name = "Vishnuvardhana" #IX
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189105
+	mother = chola_daughters_2
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3104.1.1 = {
+		death = "3104.1.1"
+	}
+}
+189074 = {
+	name = "Vishnuvardhana"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 74720
+	2592.1.1 = {
+		birth = "2592.1.1"
+	}
+	2643.1.1 = {
+		death = "2643.1.1"
+	}
+}
+189223 = {
+	name = "Durjaya" #
+	dynasty = 1029179
+	religion = "svetambara"
+	culture = "telugu"
+	2702.1.1 = {
+		birth = yes
+	}
+	2752.1.1 = {
+		death = yes
+	}
+}
+189224 = {
+	name = "Venna" #
+	dynasty = 1029179
+	religion = "svetambara"
+	culture = "telugu"
+	father = 189223
+	2732.1.1 = {
+		birth = yes
+	}
+	2860.1.1 = {
+		death = yes
+	}
+}
+189225 = {
+	name = "Gunda" #Gunda I
+	dynasty = 1029179
+	religion = "svetambara"
+	culture = "telugu"
+	father = 189224
+	2752.1.1 = {
+		birth = yes
+	}
+	2826.1.1 = {
+		death = yes
+	}
+}
+189226 = {
+	name = "Gunda" #II
+	dynasty = 1029179
+	religion = "svetambara"
+	culture = "telugu"
+	father = 189225
+	2802.1.1 = {
+		birth = yes
+	}
+	2872.1.1 = {
+		death = yes
+	}
+}
+189227 = {
+	name = "Gunda" #III
+	dynasty = 1029179
+	religion = "svetambara"
+	culture = "telugu"
+	father = 189226
+	2832.1.1 = {
+		birth = yes
+	}
+	2897.1.1 = {
+		death = yes
+	}
+}
+189228 = {
+	name = "Erriya" #Erriya / Erra
+	dynasty = 1029179
+	religion = "svetambara"
+	culture = "telugu"
+	father = 189227
+	2862.1.1 = {
+		birth = yes
+	}
+	2942.1.1 = {
+		death = yes
+	}
+}
+189229 = {
+	name = "Betiya" #Betiya
+	dynasty = 1029179
+	religion = "svetambara"
+	culture = "telugu"
+	father = 189228
+	2917.1.1 = {
+		birth = yes
+	}
+	2952.1.1 = {
+		death = yes
+	}
+}
+189230 = {
+	name = "Gunda" #Gunda IV
+	dynasty = 1029179
+	religion = "svetambara"
+	culture = "telugu"
+	father = 189229
+	2932.1.1 = {
+		birth = yes
+	}
+	2998.1.1 = {
+		death = yes
+	}
+}
+189231 = {
+	name = "Beta" #
+	dynasty = 1029179
+	religion = "svetambara"
+	culture = "telugu"
+	father = 189230
+	2982.1.1 = {
+		birth = "2982.1.1"
+	}
+	3057.1.1 = {
+		death = "3057.1.1"
+	}
+}
+189232 = {
+	name = "Prola" #
+	dynasty = 1029179
+	religion = "svetambara"
+	culture = "telugu"
+	father = 189231
+	3022.1.1 = {
+		birth = "3022.1.1"
+	}
+	3078.1.1 = {
+		death = "3078.1.1"
+	}
+}
+189233 = {
+	name = "Beta" #II
+	dynasty = 1029179
+	religion = "svetambara"
+	culture = "telugu"
+	father = 189232
+	3042.1.1 = {
+		birth = "3042.1.1"
+	}
+	3110.1.1 = {
+		death = "3110.1.1"
+	}
+}
+189234 = {
+	name = "Durgaraja" #Durgaraja 
+	dynasty = 1029179
+	religion = "svetambara"
+	culture = "telugu"
+	father = 189233
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3118.1.1 = {
+		death = "3118.1.1"
+	}
+}
+189235 = {
+	name = "Prola" #II
+	dynasty = 1029179
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189233
+	3068.9.1 = {
+		birth = "3068.9.1"
+	}
+	3159.1.1 = {
+		death = "3159.1.1"
+	}
+}
+189236 = {
+	name = "Prataparudra" #
+	dynasty = 1029179
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189235
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3197.1.1 = {
+		death = "3197.1.1"
+	}
+}
+189237 = {
+	name = "Mahadeva" #
+	dynasty = 1029179
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189235
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3201.1.1 = {
+		death = "3201.1.1"
+	}
+}
+189238 = {
+	name = "Ganpatideva" #Ganpatideva
+	dynasty = 1029179
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189237
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3264.1.1 = {
+		death = "3264.1.1"
+	}
+}
+189239 = {
+	name = "Rudramadevi" #
+	dynasty = 1029179
+	female = yes
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189238
+	3212.1.1 = {
+		birth = yes
+	}
+	3242.1.1 = {
+		add_spouse = 189244
+	}
+	3291.1.1 = {
+		death = yes
+	}
+}
+189240 = {
+	name = "Vijayaditya" # hypothetical name
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189106
+	3092.1.1 = {
+		birth = "3092.1.1"
+	}
+	3170.1.1 = {
+		death = "3170.1.1"
+	}
+}
+189241 = {
+	name = "Narendra" #hypothetical name
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189240
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3216.1.1 = {
+		death = "3216.1.1"
+	}
+}
+189242 = {
+	name = "Virbhadra" #hypothetical name
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189241
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3232.1.1 = {
+		death = "3232.1.1"
+	}
+}
+189243 = {
+	name = "Prataparudra" #hypothetical name
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189242
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3282.1.1 = {
+		death = "3282.1.1"
+	}
+}
+189244 = {
+	name = "Virbhadra" #
+	dynasty = 1029206
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189243
+	3212.1.1 = {
+		birth = yes
+	}
+	3242.1.1 = {
+		add_spouse = 189239
+	}
+	3282.1.1 = {
+		death = yes
+	}
+}
+189245 = {
+	name = "Narendra" #hypothetical name
+	dynasty = 1029206
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189244
+	mother = 189239
+	3243.1.1 = {
+		birth = yes
+	}
+	3287.1.1 = {
+		death = yes
+	}
+}
+189246 = {
+	name = "Prataparudra" #
+	dynasty = 1029206
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189245
+	3262.1.1 = {
+		birth = yes
+	}
+	3325.1.1 = {
+		death = yes
+	}
+}
+189247 = {
+	name = "Annamdeva" #
+	dynasty = 1029206
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189245
+	3287.1.1 = {
+		birth = "3287.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+178009 = {
+	name = "Kumaragiri" # Fictional
+	dynasty = 1041109
+	religion = "shaivism"
+	culture = "telugu"
+	2838.1.1 = {
+		birth = yes
+	}
+	2894.1.1 = {
+		death = yes
+	}
+}
+178010 = {
+	name = "Yuddhamalla" # Fictional
+	dynasty = 1041110
+	religion = "shaivism"
+	culture = "telugu"
+	2845.1.1 = {
+		birth = yes
+	}
+	2894.1.1 = {
+		death = yes
+	}
+}
+
+narayanavanam_yadava_ruler = {
+	name = "Immadi_Narasimha"
+	dynasty = telugu_yadava #Yadava
+	religion = "shaivism"
+	culture = "telugu"
+	3012.1.1 = {
+		birth = yes
+		capital = "c_candragiri"
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+banas_of_renandu_1 = {
+	name = "Vikramaditya" #Vikramaditya Bali Indra Banaraja
+	dynasty = telugu_banas #Bana
+	religion = "shaivism"
+	culture = "telugu"
+	3002.1.1 = {
+		birth = yes
+	}
+	3077.1.1 = {
+		death = yes
+	}
+}
+
+velanati_chodas_1 = {
+	name = "Gonka"
+	dynasty = telugu_velanati_choda #Velanati Chodas
+	religion = "shaivism"
+	culture = "telugu"
+	3017.1.1 = {
+		birth = yes
+		capital = "c_palakka"
+	}
+	3110.1.1 = {
+		death = yes
+	}
+}
+
+telugu_vaidumba_1 = {
+	name = "Chalavundu"
+	dynasty = telugu_vaidumba #Telugu Vaidumbas
+	religion = "shaivism"
+	culture = "telugu"
+	2822.1.1 = {
+		birth = yes
+	}
+	2876.1.1 = {
+		death = yes
+	}
+}
+
+#Telugu Minor Dynasties:
+natavadi_1 = {
+	name = "Beta_Kshanipalaka"
+	dynasty = telugu_natavadi
+	religion = "shaivism"
+	culture = "telugu"
+	3032.1.1 = {
+		birth = yes
+	}
+	3106.1.1 = {
+		death = yes
+	}
+}
+
+natavadi_2 = {
+	name = "Durga"
+	dynasty = telugu_natavadi
+	religion = "shaivism"
+	culture = "telugu"
+	father = natavadi_1
+	3067.1.1 = {
+		birth = yes
+	}
+	3159.1.1 = {
+		death = yes
+	}
+}
+
+natavadi_3 = {
+	name = "Budha"
+	dynasty = telugu_natavadi
+	religion = "shaivism"
+	culture = "telugu"
+	father = natavadi_2
+	3122.1.1 = {
+		birth = yes
+	}
+	3203.1.1 = {
+		death = yes
+	}
+}
+
+natavadi_4 = {
+	name = "Rudra"
+	dynasty = telugu_natavadi
+	religion = "shaivism"
+	culture = "telugu"
+	father = natavadi_3
+	3162.1.1 = {
+		birth = yes
+	}
+	3250.1.1 = {
+		death = yes
+	}
+}
+
+natavadi_5 = {
+	name = "Rudra" #II
+	dynasty = telugu_natavadi
+	religion = "shaivism"
+	culture = "telugu"
+	father = natavadi_4
+	3192.1.1 = {
+		birth = yes
+	}
+	3271.1.1 = {
+		death = yes
+	}
+}
+
+malyala_1 = {
+	name = "Danna" #Danna Senani
+	dynasty = telugu_malyala
+	religion = "shaivism"
+	culture = "telugu"
+	3022.1.1 = {
+		birth = yes
+	}
+	3054.1.1 = {
+		employer = 189232 #Kakatiyas
+	}
+	3078.1.1 = {
+		death = yes
+	}
+}
+
+malyala_2 = {
+	name = "Danna" #II
+	dynasty = telugu_malyala
+	religion = "shaivism"
+	culture = "telugu"
+	father = malyala_1
+	3062.1.1 = {
+		birth = yes
+	}
+	3112.1.1 = {
+		death = yes
+	}
+}
+
+malyala_3 = {
+	name = "Bachavarudhini"
+	dynasty = telugu_malyala
+	religion = "shaivism"
+	culture = "telugu"
+	father = malyala_1
+	3067.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+
+malyala_4 = {
+	name = "Sabba" #Sabba Senani
+	dynasty = telugu_malyala
+	religion = "shaivism"
+	culture = "telugu"
+	father = malyala_2
+	3112.1.1 = {
+		birth = yes
+	}
+	3167.1.1 = {
+		death = yes
+	}
+}
+
+malyala_5 = {
+	name = "Kata" #Kata Senani
+	dynasty = telugu_malyala
+	religion = "shaivism"
+	culture = "telugu"
+	father = malyala_4
+	3147.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = yes
+	}
+}
+
+malyala_6 = {
+	name = "Potha" #Potha Senani
+	dynasty = telugu_malyala
+	religion = "shaivism"
+	culture = "telugu"
+	father = malyala_5
+	3172.1.1 = {
+		birth = yes
+	}
+	3204.1.1 = {
+		death = yes
+	}
+}
+
+malyala_7 = {
+	name = "Chaunda" #Chaunda Senani
+	dynasty = telugu_malyala
+	religion = "shaivism"
+	culture = "telugu"
+	father = malyala_6
+	3192.1.1 = {
+		birth = yes
+	}
+	3247.1.1 = {
+		death = yes
+	}
+}
+
+viryala_1 = {
+	name = "Poranti" #Poranti Venna
+	dynasty = telugu_viryala
+	religion = "shaivism"
+	culture = "telugu"
+	2842.1.1 = {
+		birth = yes
+	}
+	2922.1.1 = {
+		death = yes
+	}
+}
+
+viryala_2 = {
+	name = "Erra" #Erra Bhupati
+	dynasty = telugu_viryala
+	religion = "shaivism"
+	culture = "telugu"
+	father = viryala_1
+	2882.1.1 = {
+		birth = yes
+	}
+	2942.1.1 = {
+		death = yes
+	}
+}
+
+viryala_3 = {
+	name = "Bhima"
+	dynasty = telugu_viryala
+	religion = "shaivism"
+	culture = "telugu"
+	father = viryala_2
+	2902.1.1 = {
+		birth = yes
+	}
+	2962.1.1 = {
+		death = yes
+	}
+}
+
+viryala_4 = {
+	name = "Erra" #Era Narendra II
+	dynasty = telugu_viryala
+	religion = "shaivism"
+	culture = "telugu"
+	father = viryala_3
+	2942.1.1 = {
+		birth = yes
+	}
+	2992.1.1 = {
+		death = yes
+	}
+}
+
+viryala_5 = {
+	name = "Sura" #Sura Senani
+	dynasty = telugu_viryala
+	religion = "shaivism"
+	culture = "telugu"
+	father = viryala_4
+	2972.1.1 = {
+		birth = yes
+	}
+	3022.1.1 = {
+		death = yes
+	}
+}
+
+viryala_6 = {
+	name = "Betana"
+	dynasty = telugu_viryala
+	religion = "shaivism"
+	culture = "telugu"
+	father = viryala_5
+	3002.1.1 = {
+		birth = yes
+	}
+	3072.1.1 = {
+		death = yes
+	}
+}
+
+viryala_7 = {
+	name = "Sura"
+	dynasty = telugu_viryala
+	religion = "shaivism"
+	culture = "telugu"
+	father = viryala_6
+	3052.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+viryala_8 = {
+	name = "Malla"
+	dynasty = telugu_viryala
+	religion = "shaivism"
+	culture = "telugu"
+	father = viryala_6
+	3055.1.1 = {
+		birth = yes
+	}
+	3091.1.1 = {
+		death = yes
+	}
+}
+
+viryala_9 = {
+	name = "Rudrama"
+	dynasty = telugu_viryala
+	religion = "shaivism"
+	culture = "telugu"
+	father = viryala_6
+	3057.1.1 = {
+		birth = yes
+	}
+	3097.1.1 = {
+		death = yes
+	}
+}
+
+viryala_10 = {
+	name = "Nagasani"
+	dynasty = telugu_viryala
+	religion = "shaivism"
+	culture = "telugu"
+	father = viryala_7
+	3082.1.1 = {
+		birth = yes
+	}
+	3142.1.1 = {
+		death = yes
+	}
+}
+
+viryala_11 = {
+	name = "Annaya"
+	dynasty = telugu_viryala
+	religion = "shaivism"
+	culture = "telugu"
+	father = viryala_10
+	3132.1.1 = {
+		birth = yes
+	}
+	3222.1.1 = {
+		death = yes
+	}
+}
+
+
+#Mudigonda Chalukyas
+mudigonda_chalukya_1 = {
+	name = "Gonagudu"
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	2752.1.1 = {
+		birth = yes
+	}
+	2842.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_2 = {
+	name = "Kokki" #Kokkiraja
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_1
+	2792.1.1 = {
+		birth = yes
+	}
+	2852.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_3 = {
+	name = "Ranamarda" #Ranamarda
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_1 #Brother of Kokkiraja
+	2797.1.1 = {
+		birth = yes
+	}
+	2872.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_4 = {
+	name = "Kusumayudha" #Kusumayudha I
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_3
+	2832.1.1 = {
+		birth = yes
+	}
+	2897.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_5 = {
+	name = "Gonagudu" #Gonagudu II
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_4
+	2852.1.1 = {
+		birth = yes
+	}
+	2912.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_6 = {
+	name = "Niravadya" #Niravadya
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_4 #Brother of Gonagadu II - Usurper
+	2868.1.1 = {
+		birth = yes
+	}
+	2937.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_7 = {
+	name = "Kusumayudha" #Kusumayudha II
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_5 #Son of Gonagudu II
+	2892.1.1 = {
+		birth = yes
+	}
+	2962.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_8 = {
+	name = "Vijayaditya" #Vijayaditya
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_7
+	2922.1.1 = {
+		birth = yes
+	}
+	2982.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_9 = {
+	name = "Kusumayudha" #Kusumayudha III
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_8
+	2952.1.1 = {
+		birth = yes
+	}
+	3002.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_9a = {
+	name = "Bottubeta" #Bottubeta
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_8
+	2972.1.1 = {
+		birth = yes
+	}
+	3002.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_10 = {
+	name = "Gonaga" #Gonaga
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_9
+	2982.1.1 = {
+		birth = yes
+	}
+	3027.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_11 = {
+	name = "Nijjayaraja" #Nijjayaraja
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_9
+	2985.1.1 = {
+		birth = yes
+	}
+	3052.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_12 = {
+	name = "Mallapa" #Mallapa - Never Ruler
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_9
+	2987.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_13 = {
+	name = "Lobhachalaka" #Lobhachalaka - Never Ruler
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_9
+	2992.1.1 = {
+		birth = yes
+	}
+	3080.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_14 = {
+	name = "Kusumayudha" #Kusumayudha IV
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_9a
+	2997.1.1 = {
+		birth = yes
+	}
+	3077.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_15 = {
+	name = "Betaraja" #Betaraja I
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_14
+	3042.1.1 = {
+		birth = yes
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_16 = {
+	name = "Kusumayudha" #Kusumayudha V
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_15
+	3067.1.1 = {
+		birth = yes
+	}
+	3127.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_17 = {
+	name = "Betaraja" #Betaraja II
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_16
+	3092.1.1 = {
+		birth = yes
+	}
+	3152.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_18 = {
+	name = "Kusumayudha" #Kusumayudha VI
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_17
+	3122.1.1 = {
+		birth = yes
+	}
+	3177.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_19 = {
+	name = "Nagatiraja" #Nagatiraja
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_18
+	3152.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = yes
+	}
+}
+
+mudigonda_chalukya_20 = {
+	name = "Ganapatidev" #Ganapatidev - Never Ruler
+	dynasty = telugu_mudigonda_chalukyas
+	religion = "shaivism"
+	culture = "telugu"
+	father = mudigonda_chalukya_19
+	3152.1.1 = {
+		birth = yes
+	}
+	3202.1.1 = {
+		death = yes
+	}
+}
+
+#Polavasa/Nengonda Chiefs:
+polavasa_1 = {
+	name = "Durgaraja" #Durgaraja
+	dynasty = telugu_polavasa
+	religion = "shaivism"
+	culture = "telugu"
+	3042.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+polavasa_2 = {
+	name = "Meda" #Meda I
+	dynasty = telugu_polavasa
+	religion = "shaivism"
+	culture = "telugu"
+	father = polavasa_1
+	3062.1.1 = {
+		birth = yes
+	}
+	3112.1.1 = {
+		death = yes
+	}
+}
+
+polavasa_3 = {
+	name = "Jaggaraja"
+	dynasty = telugu_polavasa
+	religion = "shaivism"
+	culture = "telugu"
+	father = polavasa_2
+	3092.1.1 = {
+		birth = yes
+	}
+	3118.1.1 = {
+		death = yes
+	}
+}
+
+polavasa_4 = {
+	name = "Meda" #II
+	dynasty = telugu_polavasa
+	religion = "shaivism"
+	culture = "telugu"
+	father = polavasa_1
+	3093.1.1 = {
+		birth = yes
+	}
+	3160.1.1 = {
+		death = yes
+	}
+}
+
+polavasa_5 = {
+	name = "Gunda"
+	dynasty = telugu_polavasa
+	religion = "shaivism"
+	culture = "telugu"
+	father = polavasa_1
+	3194.1.1 = {
+		birth = yes
+	}
+	3140.1.1 = {
+		death = yes
+	}
+}
+
+polavasa_6 = {
+	name = "Jaggadeva" #II
+	dynasty = telugu_polavasa
+	religion = "shaivism"
+	culture = "telugu"
+	father = polavasa_4
+	3122.1.1 = {
+		birth = yes
+	}
+	3182.1.1 = {
+		death = yes
+	}
+}
+
+polavasa_7 = {
+	name = "Edaraja"
+	dynasty = telugu_polavasa
+	religion = "shaivism"
+	culture = "telugu"
+	father = polavasa_6
+	3162.1.1 = {
+		birth = yes
+	}
+	3222.1.1 = {
+		death = yes
+	}
+}
+
+karikala_1 = {
+	name = "Bhima" #I
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	3012.1.1 = {
+		birth = yes
+	}
+	3067.1.1 = {
+		death = yes
+	}
+}
+
+karikala_2 = {
+	name = "Tonda" #I 
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	father = karikala_1
+	3032.1.1 = {
+		birth = yes
+	}
+	3078.1.1 = {
+		death = yes
+	}
+}
+
+karikala_3 = {
+	name = "Bhima" #II
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	father = karikala_2
+	3052.1.1 = {
+		birth = yes
+	}
+	3093.1.1 = {
+		death = yes
+	}
+}
+
+karikala_4 = {
+	name = "Tonda" #II
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	father = karikala_3
+	3072.1.1 = {
+		birth = yes
+	}
+	3107.1.1 = {
+		death = yes
+	}
+}
+
+karikala_5 = {
+	name = "Gokarna" #I
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	father = karikala_3
+	3092.1.1 = {
+		birth = yes
+	}
+	3138.1.1 = {
+		death = yes
+	}
+}
+
+karikala_6 = {
+	name = "Udaychoda" #I
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	father = karikala_3
+	3093.1.1 = {
+		birth = yes
+	}
+	3138.1.1 = {
+		death = yes
+	}
+}
+
+karikala_7 = {
+	name = "Sridevi"
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	father = karikala_6
+	3112.1.1 = {
+		birth = yes
+	}
+	3138.1.1 = {
+		death = yes
+	}
+}
+
+karikala_8a = { 
+	name = "Bhima" #III
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	father = karikala_3
+	3090.1.1 = {
+		birth = yes
+	}
+	3159.1.1 = {
+		death = yes
+	}
+}
+
+karikala_8 = { 
+	name = "Udaychoda" #II
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	father = karikala_5
+	3111.1.1 = {
+		birth = yes
+	}
+	3178.1.1 = {
+		death = yes
+	}
+}
+
+karikala_9a = { 
+	name = "Bhima" #IV
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	father = karikala_8
+	3142.1.1 = {
+		birth = yes
+	}
+	3237.1.1 = {
+		death = yes
+	}
+}
+
+karikala_9 = { 
+	name = "Gokarna" #II
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	father = karikala_8
+	3144.1.1 = {
+		birth = yes
+	}
+	3250.1.1 = {
+		death = yes
+	}
+}
+
+karikala_10 = { 
+	name = "Malnathadeva"
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	father = karikala_9
+	3202.1.1 = {
+		birth = yes
+	}
+	3284.1.1 = {
+		death = yes
+	}
+}
+
+karikala_11 = { 
+	name = "Ramanathadeva"
+	dynasty = telugu_karikala #Karikalas / Kandur Cholas
+	religion = "shaivism"
+	culture = "telugu"
+	father = karikala_10
+	3242.1.1 = {
+		birth = yes
+	}
+	3325.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_0 = {
+	name = "Kamambika"
+	female = yes
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	2982.1.1 = {
+		birth = yes
+	}
+	3072.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_1 = {
+	name = "Kata" #I
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	mother = cheraku_reddy_0
+	3012.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_2 = {
+	name = "Keta" #I
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_1
+	3047.1.1 = {
+		birth = yes
+	}
+	3066.1.1 = {
+		add_spouse = cheraku_reddy_2_spouse_1
+	}
+	3068.1.1 = {
+		add_spouse = cheraku_reddy_2_spouse_2
+	}
+	3132.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_2_spouse_1 = {
+	name = "Tikkambika"
+	female = yes
+	religion = "shaivism"
+	culture = "telugu"
+	3042.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_2_spouse_2 = {
+	name = "Mallambika"
+	female = yes
+	religion = "shaivism"
+	culture = "telugu"
+	3046.1.1 = {
+		birth = yes
+	}
+	3082.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_2a = {
+	name = "Sura" #I
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_1
+	3057.1.1 = {
+		birth = yes
+	}
+	3122.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_2b = {
+	name = "Bolla" #I
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_1
+	3062.1.1 = {
+		birth = yes
+	}
+	3102.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_3 = {
+	name = "Kata" #II
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_2
+	3122.1.1 = {
+		birth = yes
+	}
+	3192.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_3a = {
+	name = "Mara"
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_2
+	3125.1.1 = {
+		birth = yes
+	}
+	3172.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_3b = {
+	name = "Erra"
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_2
+	3127.1.1 = {
+		birth = yes
+	}
+	3142.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_3c = {
+	name = "Erra" #Yes, Keta had 2 sons both named Erra
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_2
+	3129.1.1 = {
+		birth = yes
+	}
+	3152.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_4 = {
+	name = "Kata" #III
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_3
+	3172.1.1 = {
+		birth = yes
+	}
+	3282.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_4a = {
+	name = "Mara" #II
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_3
+	3176.1.1 = {
+		birth = yes
+	}
+	3252.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_4b = {
+	name = "Bolla" #II
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_3
+	3178.1.1 = {
+		birth = yes
+	}
+	3222.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_5 = {
+	name = "Ganapati"
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_4
+	3232.1.1 = {
+		birth = yes
+	}
+	3316.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_5a = {
+	name = "Visvanatha"
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_4
+	3236.1.1 = {
+		birth = yes
+	}
+	3302.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_5b = {
+	name = "Keta" #II
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_4
+	3238.1.1 = {
+		birth = yes
+	}
+	3262.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_5c = {
+	name = "Immadi"
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_4
+	3242.1.1 = {
+		birth = yes
+	}
+	3307.1.1 = {
+		death = yes
+	}
+}
+
+cheraku_reddy_6 = {
+	name = "Annama" #Ruler from 1305
+	dynasty = telugu_cheraku_reddy #Cheraku Reddys
+	religion = "shaivism"
+	culture = "telugu"
+	father = cheraku_reddy_5
+	3282.1.1 = {
+		birth = yes
+	}
+	3325.1.1 = {
+		death = yes
+	}
+}
