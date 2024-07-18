@@ -1,0 +1,3979 @@
+﻿# Turkic {
+	# Ottoman = {
+		CKU_ottoman_1 = {
+			name = "Ahmed"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_28 #Mehmed
+			3404.1.1 = {
+				birth = yes
+			}
+			3431.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_10 = {
+			name = "Dundar"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_53 #Suleymansah
+			3212.1.1 = {
+				birth = yes
+			}
+			3290.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_11 = {
+			name = "Ertugrul"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_53 #Suleymansah
+			3200.1.1 = {
+				birth = yes
+			}
+			3283.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_12 = {
+			name = "Ertugrul"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_7 #Bayezid
+			3378.1.1 = {
+				birth = yes
+			}
+			3395.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_13 = {
+			name = "Fatma"
+			culture = "turkish"
+			faith = "ashari"
+			female = yes
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_44 #Osman
+			3286.1.1 = {
+				birth = yes
+			}
+			3349.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_14 = {
+			name = "Fatma"
+			culture = "turkish"
+			faith = "ashari"
+			female = yes
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_39 #Orhan
+			3313.1.1 = {
+				birth = yes
+			}
+			3363.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_15 = {
+			name = "Fatma"
+			culture = "turkish"
+			faith = "ashari"
+			female = yes
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_7 #Bayezid
+			3399.1.1 = {
+				birth = yes
+			}
+			3419.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_16 = {
+			name = "Fatma"
+			culture = "turkish"
+			faith = "ashari"
+			female = yes
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_34 #Murad
+			3430.1.1 = {
+				birth = yes
+			}
+			3480.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_17 = {
+			name = "Gundogdu"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_53 #Suleymansah
+			3198.1.1 = {
+				birth = yes
+			}
+			3279.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_18 = {
+			name = "Gunduz"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_11 #Ertugrul
+			3237.1.1 = {
+				birth = yes
+			}
+			3308.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_19 = {
+			name = "Hamid"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_44 #Osman
+			3290.1.1 = {
+				birth = yes
+			}
+			3331.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_2 = {
+			name = "Ahmed"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_34 #Murad
+			3422.1.1 = {
+				birth = yes
+			}
+			3439.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_20 = {
+			name = "Hasan"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_34 #Murad
+			3433.1.1 = {
+				birth = yes
+			}
+			3446.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_21 = {
+			name = "Hundi"
+			culture = "turkish"
+			faith = "ashari"
+			female = yes
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_7 #Bayezid
+			3388.1.1 = {
+				birth = yes
+			}
+			3431.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_22 = {
+			name = "Ibrahim"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_39 #Orhan
+			3312.1.1 = {
+				birth = yes
+			}
+			3362.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_23 = {
+			name = "İsa"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_7 #Bayezid
+			3382.1.1 = {
+				birth = yes
+			}
+			3405.8.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_24 = {
+			name = "Kasim"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_7 #Bayezid
+			3392.1.1 = {
+				birth = yes
+			}
+			3419.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_25 = {
+			name = "Kaya Alp"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			3142.1.1 = {
+				birth = yes
+			}
+			3216.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_26 = {
+			name = "Khalil"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_39 #Orhan
+			3349.1.1 = {
+				birth = yes
+			}
+			3362.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_27 = {
+			name = "Mahmud"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_28 #Mehmed
+			3415.1.1 = {
+				birth = yes
+			}
+			3431.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_28 = {
+			name = "Mehmed"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_7 #Bayezid
+			3391.1.1 = {
+				birth = yes
+			}
+			3423.5.26 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_29 = {
+			name = "Mehmed"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_28 #Mehmed
+			3404.1.1 = {
+				birth = yes
+			}
+			3417.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_3 = {
+			name = "Ahmed"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_34 #Murad
+			3452.1.1 = {
+				birth = yes
+			}
+			3453.2.18 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_30 = {
+			name = "Mehmed"
+			dna = CKU_ottoman_30_dna
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_34 #Murad
+			3434.3.30 = {
+				birth = yes
+			}
+			3483.5.3 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_31 = {
+			name = "Mehmedsah"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_40 #Orhan
+			3415.1.1 = {
+				birth = yes
+			}
+			3423.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_32 = {
+			name = "Melik"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_44 #Osman
+			3292.1.1 = {
+				birth = yes
+			}
+			3368.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_33 = {
+			name = "Murad"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_39 #Orhan
+			3302.1.1 = {
+				birth = yes
+			}
+			3391.6.29 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_34 = {
+			name = "Murad"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_28 #Mehmed
+			3406.1.1 = {
+				birth = yes
+			}
+			3453.2.2 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_35 = {
+			name = "Musa"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_7 #Bayezid
+			3390.1.1 = {
+				birth = yes
+			}
+			3415.7.5 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_36 = {
+			name = "Mustafa"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_7 #Bayezid
+			3382.1.1 = {
+				birth = yes
+			}
+			3424.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_37 = {
+			name = "Mustafa"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_28 #Mehmed
+			3413.1.1 = {
+				birth = yes
+			}
+			3425.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_38 = {
+			name = "Nefise Melek"
+			culture = "turkish"
+			faith = "ashari"
+			female = yes
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_33 #Murad
+			3367.1.1 = {
+				birth = yes
+			}
+			3417.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_39 = {
+			name = "Orhan"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_44 #Osman
+			3283.1.1 = {
+				birth = yes
+			}
+			1362 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_4 = {
+			name = "Aktimur"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_18 #Gunduz
+			3287.1.1 = {
+				birth = yes
+			}
+			3303.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_40 = {
+			name = "Orhan"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_52 #Suleyman
+			3397.1.1 = {
+				birth = yes
+			}
+			3431.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_41 = {
+			name = "Orhan"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_40 #Orhan
+			3414.1.1 = {
+				birth = yes
+			}
+			3455.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_42 = {
+			name = "Orhan"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_24 #Kasim
+			3414.1.1 = {
+				birth = yes
+			}
+			3455.5.29 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_43 = {
+			name = "Orhan"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_34 #Murad
+			3435.1.1 = {
+				birth = yes
+			}
+			3453.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_44 = {
+			name = "Osman"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_11 #Ertugrul
+			3260.1.1 = {
+				birth = yes
+			}
+			3326.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_45 = {
+			name = "Pazarlu"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_44 #Osman
+			3287.1.1 = {
+				birth = yes
+			}
+			3313.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_46 = {
+			name = "Savci"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_11 #Ertugrul
+			3249.1.1 = {
+				birth = yes
+			}
+			3289.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_47 = {
+			name = "Savci"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_33 #Murad
+			3364.1.1 = {
+				birth = yes
+			}
+			3387.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_48 = {
+			name = "Selcuk"
+			culture = "turkish"
+			faith = "ashari"
+			female = yes
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_39 #Orhan
+			3314.1.1 = {
+				birth = yes
+			}
+			3364.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_49 = {
+			name = "Selcuk"
+			culture = "turkish"
+			faith = "ashari"
+			female = yes
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_28 #Mehmed
+			3410.1.1 = {
+				birth = yes
+			}
+			3487.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_5 = {
+			name = "Alaeddin"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_34 #Murad
+			3432.1.1 = {
+				birth = yes
+			}
+			3445.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_50 = {
+			name = "Suleyman"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_46 #Savci
+			3271.1.1 = {
+				birth = yes
+			}
+			3314.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_51 = {
+			name = "Suleyman"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_39 #Orhan
+			3318.1.1 = {
+				birth = yes
+			}
+			3361.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_52 = {
+			name = "Suleyman"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_7 #Bayezid
+			3379.1.1 = {
+				birth = yes
+			}
+			3413.2.17 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_53 = {
+			name = "Suleymansah"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_25 #Kaya Alp
+			3168.1.1 = {
+				birth = yes
+			}
+			3229.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_54 = {
+			name = "Sultan"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_39 #Orhan
+			3326.1.1 = {
+				birth = yes
+			}
+			3349.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_55 = {
+			name = "Sungurtekin"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_53 #Suleymansah
+			3189.1.1 = {
+				birth = yes
+			}
+			3302.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_56 = {
+			name = "Yakup"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_33 #Murad
+			3363.1.1 = {
+				birth = yes
+			}
+			3391.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_57 = {
+			name = "Yusuf"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_28 #Mehmed
+			3416.1.1 = {
+				birth = yes
+			}
+			3431.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_6 = {
+			name = "Aydogdu"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_18 #Gunduz
+			3286.1.1 = {
+				birth = yes
+			}
+			3304.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_7 = {
+			name = "Bayezid"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_33 #Murad
+			3362.6.28 = {
+				birth = yes
+			}
+			3405.3.8 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_8 = {
+			name = "Bayhoca"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_46 #Savci
+			3270.1.1 = {
+				birth = yes
+			}
+			3286.1.1 = {
+				death = yes
+			}
+		}
+		
+		CKU_ottoman_9 = {
+			name = "Coban"
+			culture = "turkish"
+			faith = "ashari"
+			dynasty = CKU_ottoman #Osmanoglu
+			father = CKU_ottoman_44 #Osman
+			3285.1.1 = {
+				birth = yes
+			}
+			3339.1.1 = {
+				death = yes
+			}
+		}		
+	# }
+# }
+
+# Karluk {
+	# Barlas/Timur = {
+		CKU_timurid_001 = {
+			name = "Ilengir"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_064
+			3242.1.1 = {
+				birth = yes
+			}
+			3292.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_007 = {
+			name = "Abdallah"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_116
+			3422.1.1 = {
+				birth = yes
+			}
+			3435.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_008 = {
+			name = "Abdallah"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_067
+			3435.1.1 = {
+				birth = yes
+			}
+			3453.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_004 = {
+			name = "Abdulaziz"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_116
+			3432.1.1 = {
+				birth = yes
+			}
+			3451.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_009 = {
+			name = "Abdulbaki"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_217
+			3423.1.1 = {
+				birth = yes
+			}
+			3509.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_010 = {
+			name = "Abdullatif"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_116
+			3430.1.1 = {
+				birth = yes
+			}
+			3452.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_006 = {
+			name = "Abdulrezzak "
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_010
+			3452.1.1 = {
+				birth = yes
+			}
+			3502.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_005 = {
+			name = "Abdurrahman"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_116
+			3423.1.1 = {
+				birth = yes
+			}
+			3434.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_015 = {
+			name = "Adil Sultan"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_222
+			3390.1.1 = {
+				birth = yes
+			}
+			3440.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_016 = {
+			name = "Ahmed"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_028
+			3419.1.1 = {
+				birth = yes
+			}
+			3469.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_017 = {
+			name = "Ahmed"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_204
+			3402.1.1 = {
+				birth = yes
+			}
+			3474.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_018 = {
+			name = "Ahmed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_010
+			3449.1.1 = {
+				birth = yes
+			}
+			3459.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_019 = {
+			name = "Ahmed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_169
+			3422.1.1 = {
+				birth = yes
+			}
+			3500.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_020 = {
+			name = "Ahmed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_214
+			3390.1.1 = {
+				birth = yes
+			}
+			3427.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_022 = {
+			name = "Ala'ud-Dawla"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_053
+			3419.1.1 = {
+				birth = yes
+			}
+			3462.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_021 = {
+			name = "Alem Seyh"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_202
+			3334.1.1 = {
+				birth = yes
+			}
+			3384.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_023 = {
+			name = "Ali"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_168
+			3484.1.1 = {
+				birth = yes
+			}
+			3534.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_024 = {
+			name = "Ali"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_046
+			3338.1.1 = {
+				birth = yes
+			}
+			3388.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_025 = {
+			name = "Ali"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_039
+			3421.1.1 = {
+				birth = yes
+			}
+			3471.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_026 = {
+			name = "Ali Askar"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_172
+			3430.1.1 = {
+				birth = yes
+			}
+			3448.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_027 = {
+			name = "Ali Dervis"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_163
+			3383.1.1 = {
+				birth = yes
+			}
+			3433.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_028 = {
+			name = "Ali Farsi"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_036
+			3389.1.1 = {
+				birth = yes
+			}
+			3439.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_029 = {
+			name = "Allahdad"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_203
+			3353.1.1 = {
+				birth = yes
+			}
+			3403.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_030 = {
+			name = "Ara Temur"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_208
+			3327.1.1 = {
+				birth = yes
+			}
+			3377.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_031 = {
+			name = "Ata Qur Tuqa"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_073
+			3237.1.1 = {
+				birth = yes
+			}
+			3287.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_032 = {
+			name = "Awgar"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_090
+			3236.1.1 = {
+				birth = yes
+			}
+			3286.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_033 = {
+			name = "Baykara"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_214
+			3395.1.1 = {
+				birth = yes
+			}
+			3425.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_034 = {
+			name = "Baykara"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_056
+			3432.1.1 = {
+				birth = yes
+			}
+			3489.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_035 = {
+			name = "Behlul"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_106
+			3394.1.1 = {
+				birth = yes
+			}
+			3444.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_036 = {
+			name = "Behlul Sirazi"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_215
+			3359.1.1 = {
+				birth = yes
+			}
+			3409.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_037 = {
+			name = "Buralgi"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_122
+			3282.1.1 = {
+				birth = yes
+			}
+			3332.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_038 = {
+			name = "Burgul"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_001
+			3272.1.1 = {
+				birth = yes
+			}
+			3322.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_039 = {
+			name = "Burunduk"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_079
+			3392.1.1 = {
+				birth = yes
+			}
+			3422.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_040 = {
+			name = "Buyan Aga"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_038
+			3303.1.1 = {
+				birth = yes
+			}
+			3353.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_041 = {
+			name = "Buzandjir"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_131
+			3404.1.1 = {
+				birth = yes
+			}
+			3431.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_044 = {
+			name = "Caku"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_098
+			3329.1.1 = {
+				birth = yes
+			}
+			3385.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_045 = {
+			name = "Camis"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_001
+			3273.1.1 = {
+				birth = yes
+			}
+			3323.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_051 = {
+			name = "Can Oglan"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_100
+			3405.1.1 = {
+				birth = yes
+			}
+			3413.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_081 = {
+			name = "Celaleddin Miransah"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_205
+			3368.1.1 = {
+				birth = yes
+			}
+			3410.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_054 = {
+			name = "Celaleddin Muhammed"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_198
+			3359.1.1 = {
+				birth = yes
+			}
+			3409.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_042 = {
+			name = "Cihangir"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_037
+			3324.1.1 = {
+				birth = yes
+			}
+			3343.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_043 = {
+			name = "Cihangir"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_186
+			3421.1.1 = {
+				birth = yes
+			}
+			3471.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_080 = {
+			name = "Cihangir"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_131
+			3404.1.1 = {
+				birth = yes
+			}
+			3435.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_079 = {
+			name = "Cihansah"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_044
+			3361.1.1 = {
+				birth = yes
+			}
+			3407.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_046 = {
+			name = "Cugam"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_074
+			3322.1.1 = {
+				birth = yes
+			}
+			3372.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_082 = {
+			name = "Cuki"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_202
+			3336.1.1 = {
+				birth = yes
+			}
+			3386.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_058 = {
+			name = "Cuneyd"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_186
+			3423.1.1 = {
+				birth = yes
+			}
+			3473.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_047 = {
+			name = "Davut"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_122
+			3283.1.1 = {
+				birth = yes
+			}
+			3313.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_048 = {
+			name = "Dawlat Hwaga"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_119
+			3367.1.1 = {
+				birth = yes
+			}
+			3417.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_049 = {
+			name = "Dawlatkeldi"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_126
+			3394.1.1 = {
+				birth = yes
+			}
+			3444.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_050 = {
+			name = "Dilu Qazan"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_140
+			3273.1.1 = {
+				birth = yes
+			}
+			3323.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_002 = {
+			name = "Ebu Bekir"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_081
+			3384.1.1 = {
+				birth = yes
+			}
+			3419.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_003 = {
+			name = "Ebu Bekir"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_174
+			3462.1.1 = {
+				birth = yes
+			}
+			3512.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_011 = {
+			name = "Ebu’l-Kasim"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_016
+			3449.1.1 = {
+				birth = yes
+			}
+			3499.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_014 = {
+			name = "Ebu’l-Kasim"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_053
+			3424.1.1 = {
+				birth = yes
+			}
+			3459.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_012 = {
+			name = "Ebu'l-Gazi Sultan Huseyin"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_056
+			3440.1.1 = {
+				birth = yes
+			}
+			3508.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_013 = {
+			name = "Ebu'l-Hayr Baysongor"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_022
+			3437.1.1 = {
+				birth = yes
+			}
+			3473.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_052 = {
+			name = "Feridun"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_128
+			3396.1.1 = {
+				birth = yes
+			}
+			3446.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_057 = {
+			name = "Giyaseddin"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_098
+			3330.1.1 = {
+				birth = yes
+			}
+			3380.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_053 = {
+			name = "Giyaseddin Baysongor"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_100
+			3399.1.1 = {
+				birth = yes
+			}
+			3435.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_055 = {
+			name = "Giyaseddin Cihangir"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_205
+			3358.1.1 = {
+				birth = yes
+			}
+			3378.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_056 = {
+			name = "Giyaseddin Mansur"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_033
+			3415.1.1 = {
+				birth = yes
+			}
+			3447.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_086 = {
+			name = "Halid"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_131
+			3401.1.1 = {
+				birth = yes
+			}
+			3429.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_087 = {
+			name = "Halil Sultan"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_111
+			3428.1.1 = {
+				birth = yes
+			}
+			3461.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_088 = {
+			name = "Halil Sultan"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_081
+			3386.1.1 = {
+				birth = yes
+			}
+			3413.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_060 = {
+			name = "Harguy"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_156
+			3298.1.1 = {
+				birth = yes
+			}
+			3348.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_061 = {
+			name = "Hari Malik"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_221
+			3371.1.1 = {
+				birth = yes
+			}
+			3421.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_059 = {
+			name = "Hemze"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_200
+			3363.1.1 = {
+				birth = yes
+			}
+			3407.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_062 = {
+			name = "Hindu Buqa"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_206
+			3295.1.1 = {
+				birth = yes
+			}
+			3345.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_063 = {
+			name = "Hinduka"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_091
+			3332.1.1 = {
+				birth = yes
+			}
+			3382.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_064 = {
+			name = "Icil"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_134
+			3212.1.1 = {
+				birth = yes
+			}
+			3262.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_065 = {
+			name = "Ibadallah"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_116
+			3414.1.1 = {
+				birth = yes
+			}
+			3419.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_066 = {
+			name = "Ibrahim Sultan"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_079
+			3393.1.1 = {
+				birth = yes
+			}
+			3432.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_067 = {
+			name = "Ibrahim Sultan"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_100
+			3396.1.1 = {
+				birth = yes
+			}
+			3437.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_068 = {
+			name = "Idiku"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_037
+			3322.1.1 = {
+				birth = yes
+			}
+			3372.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_069 = {
+			name = "Idiku"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_057
+			3362.1.1 = {
+				birth = yes
+			}
+			3409.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_070 = {
+			name = "Igil"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_154
+			3363.1.1 = {
+				birth = yes
+			}
+			3413.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_071 = {
+			name = "Ilengir"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_002
+			3398.1.1 = {
+				birth = yes
+			}
+			3411.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_072 = {
+			name = "Ilci Hwaga"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_046
+			3339.1.1 = {
+				birth = yes
+			}
+			3389.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_073 = {
+			name = "Ildar"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_134
+			3207.1.1 = {
+				birth = yes
+			}
+			3257.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_074 = {
+			name = "Ildar"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_032
+			3292.1.1 = {
+				birth = yes
+			}
+			3342.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_075 = {
+			name = "Ilyas"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_062
+			3325.1.1 = {
+				birth = yes
+			}
+			3375.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_076 = {
+			name = "Iskender"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_214
+			3386.1.1 = {
+				birth = yes
+			}
+			3417.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_077 = {
+			name = "Islam Sultan"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_072
+			3369.1.1 = {
+				birth = yes
+			}
+			3419.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_078 = {
+			name = "Ismail"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_067
+			3425.1.1 = {
+				birth = yes
+			}
+			3434.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_083 = {
+			name = "Karcar"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_172
+			3416.1.1 = {
+				birth = yes
+			}
+			3441.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_084 = {
+			name = "Kaydu"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_131
+			3399.1.1 = {
+				birth = yes
+			}
+			3420.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_085 = {
+			name = "Kayzar"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_131
+			3403.1.1 = {
+				birth = yes
+			}
+			3420.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_140 = {
+			name = "Kutlug Qiya"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_064
+			3243.1.1 = {
+				birth = yes
+			}
+			3293.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_142 = {
+			name = "Kutlug Tarkan"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+			female = Yes
+		
+			father= CKU_timurid_202
+			3333.1.1 = {
+				birth = yes
+			}
+			3390.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_141 = {
+			name = "Kutlug Temur"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_138
+			3269.1.1 = {
+				birth = yes
+			}
+			3319.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_143 = {
+			name = "Kutlugsah"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_031
+			3267.1.1 = {
+				birth = yes
+			}
+			3317.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_089 = {
+			name = "Lala"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_164
+			3334.1.1 = {
+				birth = yes
+			}
+			3384.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_090 = {
+			name = "Lala"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_134
+			3205.1.1 = {
+				birth = yes
+			}
+			3255.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_091 = {
+			name = "Luin"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_032
+			3291.1.1 = {
+				birth = yes
+			}
+			3341.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_092 = {
+			name = "Mahmud"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_016
+			3451.1.1 = {
+				birth = yes
+			}
+			3501.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_093 = {
+			name = "Mahmud"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_154
+			3364.1.1 = {
+				birth = yes
+			}
+			3414.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_094 = {
+			name = "Mahmud"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_010
+			3450.1.1 = {
+				birth = yes
+			}
+			3500.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_100 = {
+			name = "Mahmud Muinuddin Sahruh"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_205
+			3379.1.1 = {
+				birth = yes
+			}
+			3449.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_095 = {
+			name = "Malik Muhammed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_096
+			3460.1.1 = {
+				birth = yes
+			}
+			3496.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_096 = {
+			name = "Manucehr"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_188
+			3423.1.1 = {
+				birth = yes
+			}
+			3471.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_097 = {
+			name = "Midrab"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_044
+			3359.1.1 = {
+				birth = yes
+			}
+			3416.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_098 = {
+			name = "Mubarek"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_207
+			3299.1.1 = {
+				birth = yes
+			}
+			3349.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_099 = {
+			name = "Mubareksah"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_156
+			3299.1.1 = {
+				birth = yes
+			}
+			3349.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_101 = {
+			name = "Muhammed"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_149
+			3385.1.1 = {
+				birth = yes
+			}
+			3435.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_102 = {
+			name = "Muhammed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_033
+			3419.1.1 = {
+				birth = yes
+			}
+			3469.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_103 = {
+			name = "Muhammed Baki"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_010
+			3451.1.1 = {
+				birth = yes
+			}
+			3501.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_104 = {
+			name = "Muhammed Bekir"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_088
+			3408.1.1 = {
+				birth = yes
+			}
+			3436.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_105 = {
+			name = "Muhammed Bekir"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_168
+			3487.1.1 = {
+				birth = yes
+			}
+			3537.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_109 = {
+			name = "Muhammed Cafer"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_168
+			3486.1.1 = {
+				birth = yes
+			}
+			3536.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_111 = {
+			name = "Muhammed Cihangir"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_115
+			3398.1.1 = {
+				birth = yes
+			}
+			3435.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_107 = {
+			name = "Muhammed Cuki"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_010
+			3451.1.1 = {
+				birth = yes
+			}
+			3466.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_108 = {
+			name = "Muhammed Cuki"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_100
+			3405.1.1 = {
+				birth = yes
+			}
+			3447.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_106 = {
+			name = "Muhammed Dervis"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_068
+			3364.1.1 = {
+				birth = yes
+			}
+			3434.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_110 = {
+			name = "Muhammed Ibrahim"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_022
+			3442.1.1 = {
+				birth = yes
+			}
+			3461.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_112 = {
+			name = "Muhammed Kasim"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_168
+			3485.1.1 = {
+				birth = yes
+			}
+			3535.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_113 = {
+			name = "Muhammed Sultan"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_019
+			3460.1.1 = {
+				birth = yes
+			}
+			3486.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_114 = {
+			name = "Muhammed Sultan"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_111
+			3425.1.1 = {
+				birth = yes
+			}
+			3450.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_115 = {
+			name = "Muhammed Sultan"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_055
+			3378.1.1 = {
+				birth = yes
+			}
+			3405.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_116 = {
+			name = "Muhammed Taragay"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_100
+			3396.1.1 = {
+				birth = yes
+			}
+			3451.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_117 = {
+			name = "Muhammed Yadigar"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_189
+			3453.1.1 = {
+				birth = yes
+			}
+			3472.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_118 = {
+			name = "Muhammed Yardi"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_100
+			3406.1.1 = {
+				birth = yes
+			}
+			3411.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_119 = {
+			name = "Murad"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_046
+			3337.1.1 = {
+				birth = yes
+			}
+			3387.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_120 = {
+			name = "Muzaffer"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_186
+			3422.1.1 = {
+				birth = yes
+			}
+			3472.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_121 = {
+			name = "Muzaffer"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_033
+			3411.1.1 = {
+				birth = yes
+			}
+			3431.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_122 = {
+			name = "Nimuli"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_225
+			3242.1.1 = {
+				birth = yes
+			}
+			3292.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_123 = {
+			name = "Nur Malik"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_057
+			3363.1.1 = {
+				birth = yes
+			}
+			3413.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_124 = {
+			name = "Nusirvan"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_063
+			3357.1.1 = {
+				birth = yes
+			}
+			3407.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_125 = {
+			name = "Nusirvan"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_040
+			3333.1.1 = {
+				birth = yes
+			}
+			3383.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_211 = {
+			name = "Omer"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_081
+			3385.1.1 = {
+				birth = yes
+			}
+			3409.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_212 = {
+			name = "Omerseyh"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_174
+			3458.1.1 = {
+				birth = yes
+			}
+			3496.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_213 = {
+			name = "Omerseyh"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_132
+			3400.1.1 = {
+				birth = yes
+			}
+			3431.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_214 = {
+			name = "Omerseyh"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_205
+			3358.1.1 = {
+				birth = yes
+			}
+			3396.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_217 = {
+			name = "Osman"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_169
+			3404.1.1 = {
+				birth = yes
+			}
+			3424.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_218 = {
+			name = "Osman"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_145
+			3402.1.1 = {
+				birth = yes
+			}
+			3426.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_220 = {
+			name = "Osman"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_101
+			3415.1.1 = {
+				birth = yes
+			}
+			3465.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_219 = {
+			name = "Osman Cedi"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_002
+			3403.1.1 = {
+				birth = yes
+			}
+			3410.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_126 = {
+			name = "Payanda Sultan"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_042
+			3364.1.1 = {
+				birth = yes
+			}
+			3414.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_127 = {
+			name = "Pir Ali"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_076
+			3408.1.1 = {
+				birth = yes
+			}
+			3418.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_128 = {
+			name = "Pir Lokman"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_160
+			3375.1.1 = {
+				birth = yes
+			}
+			3415.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_129 = {
+			name = "Pir Muhammed"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_200
+			3364.1.1 = {
+				birth = yes
+			}
+			3414.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_130 = {
+			name = "Pir Muhammed"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_066
+			3423.1.1 = {
+				birth = yes
+			}
+			3473.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_131 = {
+			name = "Pir Muhammed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_055
+			3378.1.1 = {
+				birth = yes
+			}
+			3409.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_132 = {
+			name = "Pir Muhammed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_214
+			3381.1.1 = {
+				birth = yes
+			}
+			3412.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_133 = {
+			name = "Qadan"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_170
+			3239.1.1 = {
+				birth = yes
+			}
+			3289.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_134 = {
+			name = "Karcar"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+			3158.1.1 = {
+				birth = yes
+			}
+			3268.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_135 = {
+			name = "Qarayru"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_050
+			3303.1.1 = {
+				birth = yes
+			}
+			3353.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_136 = {
+			name = "Qazan Temur"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_044
+			3362.1.1 = {
+				birth = yes
+			}
+			3412.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_137 = {
+			name = "Qugan"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_073
+			3238.1.1 = {
+				birth = yes
+			}
+			3288.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_138 = {
+			name = "Qul"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_073
+			3239.1.1 = {
+				birth = yes
+			}
+			3289.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_139 = {
+			name = "Qulgay"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_141
+			3299.1.1 = {
+				birth = yes
+			}
+			3349.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_144 = {
+			name = "Rustem"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_089
+			3364.1.1 = {
+				birth = yes
+			}
+			3407.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_145 = {
+			name = "Rustem"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_214
+			3383.1.1 = {
+				birth = yes
+			}
+			3426.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_146 = {
+			name = "Sa'd Vakkas"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_115
+			3401.1.1 = {
+				birth = yes
+			}
+			3420.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_147 = {
+			name = "Sa'd Vakkas"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_131
+			3402.1.1 = {
+				birth = yes
+			}
+			3420.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_148 = {
+			name = "Sa'd Vakkas"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_189
+			3439.1.1 = {
+				birth = yes
+			}
+			3469.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_165 = {
+			name = "Sah Mahmud"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_022
+			3448.1.1 = {
+				birth = yes
+			}
+			3461.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_149 = {
+			name = "Sah Malik"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_075
+			3355.1.1 = {
+				birth = yes
+			}
+			3405.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_150 = {
+			name = "Sah Malik"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_057
+			3361.1.1 = {
+				birth = yes
+			}
+			3411.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_151 = {
+			name = "Sah Muhammed"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_016
+			3450.1.1 = {
+				birth = yes
+			}
+			3500.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_166 = {
+			name = "Sahruh"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_174
+			3464.1.1 = {
+				birth = yes
+			}
+			3514.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_152 = {
+			name = "Said"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_079
+			3395.1.1 = {
+				birth = yes
+			}
+			3445.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_153 = {
+			name = "Salih"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_132
+			3408.1.1 = {
+				birth = yes
+			}
+			3454.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_154 = {
+			name = "Saliq"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_135
+			3333.1.1 = {
+				birth = yes
+			}
+			3383.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_156 = {
+			name = "Sanqasun"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_137
+			3268.1.1 = {
+				birth = yes
+			}
+			3318.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_155 = {
+			name = "Sencer"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_131
+			3405.1.1 = {
+				birth = yes
+			}
+			3431.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_164 = {
+			name = "Sevinc Bilqa"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_045
+			3303.1.1 = {
+				birth = yes
+			}
+			3353.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_157 = {
+			name = "Seyfeddin"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_037
+			3323.1.1 = {
+				birth = yes
+			}
+			3363.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_158 = {
+			name = "Seyh Abdallah"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_180
+			3423.1.1 = {
+				birth = yes
+			}
+			3473.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_159 = {
+			name = "Seyh Ali"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_060
+			3328.1.1 = {
+				birth = yes
+			}
+			3378.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_160 = {
+			name = "Seyh Lokman"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_042
+			3365.1.1 = {
+				birth = yes
+			}
+			3439.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_161 = {
+			name = "Seyh Lokman"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_128
+			3397.1.1 = {
+				birth = yes
+			}
+			3436.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_162 = {
+			name = "Seyh Muhammed"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_128
+			3395.1.1 = {
+				birth = yes
+			}
+			3445.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_163 = {
+			name = "Seyh Muhammed"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_157
+			3353.1.1 = {
+				birth = yes
+			}
+			3403.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_167 = {
+			name = "Sirin Begi Agha"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+			female = Yes
+		
+			father= CKU_timurid_202
+			3337.1.1 = {
+				birth = yes
+			}
+			3387.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_168 = {
+			name = "Shuja al-Din Muhammed Burunduk"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_025
+			3454.1.1 = {
+				birth = yes
+			}
+			3509.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_169 = {
+			name = "Sidi Ahmed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_214
+			3393.1.1 = {
+				birth = yes
+			}
+			3431.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_170 = {
+			name = "Sirga"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_134
+			3209.1.1 = {
+				birth = yes
+			}
+			3259.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_173 = {
+			name = "Sultan"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+			female = Yes
+		
+			father= CKU_timurid_079
+			3397.1.1 = {
+				birth = yes
+			}
+			3447.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_175 = {
+			name = "Sultan Abu Uskhak"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_067
+			3421.1.1 = {
+				birth = yes
+			}
+			3429.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_176 = {
+			name = "Sultan Ahmed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_174
+			3453.1.1 = {
+				birth = yes
+			}
+			3496.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_177 = {
+			name = "Sultan Ahmed"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_079
+			3396.1.1 = {
+				birth = yes
+			}
+			3446.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_178 = {
+			name = "Sultan Ali"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_145
+			3404.1.1 = {
+				birth = yes
+			}
+			3424.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_179 = {
+			name = "Sultan Bayezid"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_043
+			3451.1.1 = {
+				birth = yes
+			}
+			3501.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_180 = {
+			name = "Sultan Bayezid"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_123
+			3393.1.1 = {
+				birth = yes
+			}
+			3443.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_174 = {
+			name = "Sultan Ebu Said"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_188
+			3426.1.1 = {
+				birth = yes
+			}
+			3471.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_183 = {
+			name = "Sultan Halil"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_174
+			3463.1.1 = {
+				birth = yes
+			}
+			3513.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_181 = {
+			name = "Sultan Huseyin"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_069
+			3392.1.1 = {
+				birth = yes
+			}
+			3442.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_182 = {
+			name = "Sultan Ibrahim"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_043
+			3452.1.1 = {
+				birth = yes
+			}
+			3502.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_184 = {
+			name = "Sultan Mahmud"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_174
+			3455.1.1 = {
+				birth = yes
+			}
+			3497.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_185 = {
+			name = "Sultan Mesud"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_172
+			3415.1.1 = {
+				birth = yes
+			}
+			3445.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_186 = {
+			name = "Sultan Muhammed"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_079
+			3391.1.1 = {
+				birth = yes
+			}
+			3441.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_187 = {
+			name = "Sultan Muhammed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_034
+			3453.1.1 = {
+				birth = yes
+			}
+			3503.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_188 = {
+			name = "Sultan Muhammed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_081
+			3407.1.1 = {
+				birth = yes
+			}
+			3428.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_189 = {
+			name = "Sultan Muhammed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_053
+			3420.1.1 = {
+				birth = yes
+			}
+			3452.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_190 = {
+			name = "Sultan Muhammed"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_174
+			3454.1.1 = {
+				birth = yes
+			}
+			3504.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_191 = {
+			name = "Sultan Murad"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_174
+			3459.1.1 = {
+				birth = yes
+			}
+			3509.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_192 = {
+			name = "Sultan Pir Ahmed"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_097
+			3389.1.1 = {
+				birth = yes
+			}
+			3439.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_193 = {
+			name = "Sultan Seyyid"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_069
+			3394.1.1 = {
+				birth = yes
+			}
+			3444.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_194 = {
+			name = "Sultan Uveys"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_102
+			3439.1.1 = {
+				birth = yes
+			}
+			3489.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_195 = {
+			name = "Sultan Uveys"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_069
+			3393.1.1 = {
+				birth = yes
+			}
+			3443.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_196 = {
+			name = "Sultan Veled"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_174
+			3460.1.1 = {
+				birth = yes
+			}
+			3510.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_197 = {
+			name = "Sultan Yusuf"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_066
+			3424.1.1 = {
+				birth = yes
+			}
+			3474.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_198 = {
+			name = "Sultansah"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_099
+			3329.1.1 = {
+				birth = yes
+			}
+			3379.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_171 = {
+			name = "Suyurtgamis"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_202
+			3335.1.1 = {
+				birth = yes
+			}
+			3385.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_172 = {
+			name = "Suyurtgamis"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_100
+			3399.1.1 = {
+				birth = yes
+			}
+			3429.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_199 = {
+			name = "Suyurtgamis"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_081
+			3388.1.1 = {
+				birth = yes
+			}
+			3413.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_200 = {
+			name = "Tagay Buga"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_164
+			3333.1.1 = {
+				birth = yes
+			}
+			3383.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_201 = {
+			name = "Tagay Temur"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_047
+			3293.1.1 = {
+				birth = yes
+			}
+			3343.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_202 = {
+			name = "Taragay"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_038
+			3302.1.1 = {
+				birth = yes
+			}
+			3363.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_205 = {
+			name = "Temur"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_202
+			3338.1.1 = {
+				birth = yes
+			}
+			3407.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_206 = {
+			name = "Temur Buga"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_216
+			3265.1.1 = {
+				birth = yes
+			}
+			3315.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_203 = {
+			name = "Tevekkul"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_201
+			3323.1.1 = {
+				birth = yes
+			}
+			3373.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_204 = {
+			name = "Tevekkul"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_221
+			3372.1.1 = {
+				birth = yes
+			}
+			3422.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_207 = {
+			name = "Togan-Shirga"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_133
+			3269.1.1 = {
+				birth = yes
+			}
+			3319.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_208 = {
+			name = "Ulgay Buga"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_143
+			3297.1.1 = {
+				birth = yes
+			}
+			3347.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_209 = {
+			name = "Ulug Bey"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_030
+			3357.1.1 = {
+				birth = yes
+			}
+			3407.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_210 = {
+			name = "Ulug Bey"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_174
+			3461.1.1 = {
+				birth = yes
+			}
+			3511.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_215 = {
+			name = "Urda"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_139
+			3329.1.1 = {
+				birth = yes
+			}
+			3379.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_216 = {
+			name = "Uruci"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_090
+			3235.1.1 = {
+				birth = yes
+			}
+			3285.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_221 = {
+			name = "Yadigar"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_091
+			3331.1.1 = {
+				birth = yes
+			}
+			3381.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_222 = {
+			name = "Yadigar"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_057
+			3360.1.1 = {
+				birth = yes
+			}
+			3410.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_223 = {
+			name = "Yahya"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_079
+			3392.1.1 = {
+				birth = yes
+			}
+			3429.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_224 = {
+			name = "Yahya"
+			dynasty_house = house_barlas_timurid
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_115
+			3402.1.1 = {
+				birth = yes
+			}
+			3410.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_225 = {
+			name = "Yesunte Mongke"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_134
+			3202.1.1 = {
+				birth = yes
+			}
+			3252.1.1 = {
+				death = yes
+			}
+		}
+		CKU_timurid_226 = {
+			name = "Zirek"
+			dynasty = CKU_barlas
+			religion = ashari
+			culture = karluk
+		
+			father= CKU_timurid_044
+			3360.1.1 = {
+				birth = yes
+			}
+			3410.1.1 = {
+				death = yes
+			}
+		}
+	# }
+# }

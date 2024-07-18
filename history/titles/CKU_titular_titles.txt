@@ -1,0 +1,172 @@
+# Titular Archbishoprics
+k_archbishopric_koln = {
+	3445.1.1 = {
+		liege = e_hre
+		government = theocracy_government
+		holder = CKU_moers_11
+		succession_laws = { 
+			bishop_theocratic_succession_law
+			male_only_law
+		}
+	}
+}
+k_archbishopric_mainz = {
+	3445.1.1 = {
+		liege = e_hre
+		government = theocracy_government
+		holder = CKU_erbach_35
+		succession_laws = { 
+			bishop_theocratic_succession_law
+			male_only_law
+		}
+	}
+}
+k_archbishopric_trier = {
+	3445.1.1 = {
+		liege = e_hre
+		government = theocracy_government
+		holder = CKU_german_minor_3
+		succession_laws = { 
+			bishop_theocratic_succession_law
+			male_only_law
+		}
+	}
+}
+k_archbishopric_bremen = {
+	3445.1.1 = {
+		liege = e_hre
+		government = theocracy_government
+		holder = CKU_hoya_20
+		succession_laws = { 
+			bishop_theocratic_succession_law
+			male_only_law
+		}
+	}
+}
+k_archbishopric_magdeburg = {
+	3445.1.1 = {
+		liege = e_hre
+		government = theocracy_government
+		holder = CKU_schwarzburg_63
+		succession_laws = { 
+			bishop_theocratic_succession_law
+			male_only_law
+		}
+	}
+}
+k_archbishopric_salzburg = {
+	3445.1.1 = {
+		liege = e_hre
+		government = theocracy_government
+		holder = CKU_german_minor_14
+		succession_laws = { 
+			bishop_theocratic_succession_law
+			male_only_law
+		}
+	}
+}
+
+# Titular Bishoprics
+d_bishopric_utrecht = {
+	3445.1.1 = {
+		liege = e_hre
+		government = theocracy_government
+		holder = CKU_diepholz_25
+		succession_laws = { 
+			bishop_theocratic_succession_law
+			male_only_law
+		}
+	}
+}
+d_bishopric_passau = {
+	3445.1.1 = {
+		liege = e_hre
+		government = theocracy_government
+		holder = CKU_german_minor_27
+		succession_laws = { 
+			bishop_theocratic_succession_law
+			male_only_law
+		}
+	}
+}
+
+# Pomerania 1444
+d_pomerania_stettin = {
+	3445.1.1 = {
+		liege = e_hre
+		government = feudal_government
+		holder = CKU_griffin_31
+		succession_laws = { 
+			high_partition_succession_law
+			male_only_law
+		}
+	}
+}
+d_pomerania_wolgast = {
+	3445.1.1 = {
+		liege = e_hre
+		government = feudal_government
+		holder = CKU_griffin_20
+		succession_laws = { 
+			high_partition_succession_law
+			male_only_law
+		}
+	}
+}
+d_pomerania_stolp = {
+	3445.1.1 = {
+		liege = e_hre
+		government = feudal_government
+		holder = CKU_griffin_9
+		succession_laws = { 
+			high_partition_succession_law
+			male_only_law
+		}
+	}
+}
+d_pomerania_barth = {
+	3445.1.1 = {
+		liege = e_hre
+		government = feudal_government
+		holder = CKU_griffin_36
+		succession_laws = { 
+			high_partition_succession_law
+			male_only_law
+		}
+	}
+}
+
+# Bavaria 1444
+d_bayern_landshut = {
+	3445.1.1 = {
+		liege = e_hre
+		government = feudal_government
+		holder = CKU_wittelsbach_63
+		succession_laws = { 
+			high_partition_succession_law
+			male_only_law
+		}
+	}
+}
+d_bayern_munich = {
+	3445.1.1 = {
+		liege = e_hre
+		government = feudal_government
+		holder = CKU_wittelsbach_73
+		succession_laws = { 
+			high_partition_succession_law
+			male_only_law
+		}
+	}
+}
+d_bayern_ingolstadt = {
+	3445.1.1 = {
+		liege = e_hre
+		government = feudal_government
+		holder = CKU_wittelsbach_61
+		succession_laws = { 
+			high_partition_succession_law
+			male_only_law
+		}
+	}
+}

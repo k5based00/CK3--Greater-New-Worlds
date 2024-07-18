@@ -1,0 +1,15 @@
+﻿## these assets are then used in the genes (game/common/genes/..) at the bottom of the file. 
+
+#####################################
+#									#
+# 			CU  Clothes			    #
+#									#
+#####################################
+
+## Western European ##
+
+male_clothes_europe_nobility_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_europe_nobility_01_entity }
+}
+
+##########################################################################

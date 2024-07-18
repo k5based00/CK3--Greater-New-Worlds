@@ -1,0 +1,2975 @@
+﻿70926 = {
+	name = "Pierre" #Ecclesiastical
+	# AKA: Pierre de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = "arpitan"
+	trait = education_learning_3
+	trait = chaste
+	father = 462692
+	#mother = #GuyAnd
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3334.11.1 = {
+		death = "3334.11.1"
+	}
+}
+
+70941 = {
+	name = "Beatrice" #spouse of 70945 (1323)
+	# AKA: Beatrice batarde de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 7
+	intrigue = 3
+	stewardship = 3
+	learning = 7
+	religion = "catholic"
+	culture = "arpitan"
+	trait = education_stewardship_1
+	trait = greedy
+	trait = bastard
+	father = 462691	
+	3309.1.1 = {
+		birth = "3309.1.1"
+	}
+	3358.1.1 = {
+		death = "3358.1.1"
+	}
+}
+
+70942 = {
+	name = "Francesca" #spouse of 70946 (1325)
+	# AKA: Francesca batarde de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 8
+	diplomacy = 8
+	intrigue = 3
+	stewardship = 8
+	learning = 3
+	religion = "catholic"
+	culture = "arpitan"
+	trait = education_diplomacy_1
+	trait = chaste
+	trait = bastard
+	father = 462691	
+	3310.1.1 = {
+		birth = "3310.1.1"
+	}
+	3354.1.1 = {
+		death = "3354.1.1"
+	}
+}
+
+70943 = {
+	name = "Antonio" #Ecclesiastical
+	# AKA: Antonio batard de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 6
+	learning = 3
+	religion = "catholic"
+	culture = "arpitan"
+	trait = education_learning_3
+	trait = shy
+	trait = bastard
+	father = 462691
+	3312.1.1 = {
+		birth = "3312.1.1"
+	}
+	3380.1.1 = {
+		death = "3380.1.1"
+	}
+}
+
+70944 = {
+	name = "Antelmo"
+	# AKA: Antelmo batard de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 3
+	intrigue = 7
+	stewardship = 3
+	learning = 8
+	religion = "catholic"
+	culture = "arpitan"
+	trait = education_martial_1
+	trait = chaste
+	trait = bastard
+	father = 462691	
+	3314.1.1 = {
+		birth = "3314.1.1"
+	}
+	3371.1.1 = {
+		death = "3371.1.1"
+	}
+}
+
+462157 = {
+	name = "Jeanne"
+	# AKA: Anna
+	female = yes
+	dynasty = CKU_savoia
+	martial = 8
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "arpitan"
+	trait = deceitful
+	trait = education_intrigue_2
+	father = 462150
+	mother = 487055
+	3309.9.27 = {
+		birth = "3309.9.27"
+	}
+	3328.10.1 = {
+		name = "Anna"
+	religion = "orthodox"
+	culture = "greek"
+	}
+	3362.1.1 = {
+		name = "Anastasia"
+	# AKA: Anna
+	}
+	3367.1.1 = {
+		death = "3367.1.1"
+	}
+}
+10078 = {
+	name = "Tiburge"
+	# AKA: Thietburge
+	female = yes
+	dynasty = CKU_savoia
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_2
+	father = 1178
+	3035.1.1 = {
+		birth = "3035.1.1"
+	}
+	3092.1.1 = {
+		death = "3092.1.1"
+	}
+}
+1176 = {
+	name = "Humbert"
+	dynasty = CKU_savoia
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_martial_2
+	2974.1.1 = {
+		birth = "2974.1.1"
+	}
+	2997.1.1 = {
+		add_spouse = 1177
+	}
+	3053.7.1 = {
+		death = "3053.7.1"
+	}
+}
+
+1178 = {
+	name = "AmE_dE_e"
+	# AKA: Amadeo
+	dynasty = CKU_savoia
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_2
+	father = 1176
+	mother = 1177
+	2998.1.1 = {
+		birth = "2998.1.1"
+	}
+	3053.12.18 = {
+		death = "3053.12.18"
+	}
+}
+
+1180 = {
+	name = "Oddon"
+	# AKA: Oddone
+	dynasty = CKU_savoia
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_martial_3
+	father = 1176
+	mother = 1177
+	3019.1.1 = {
+		birth = "3019.1.1"
+	}
+	3048.1.1 = {
+		add_spouse = 1115
+	}
+	3062.3.1 = {
+		death = "3062.3.1"
+	}
+}
+
+1181 = {
+	name = "Adelaide"
+	# AKA: Adelaida
+	female = yes
+	dynasty = CKU_savoia
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = cynical
+	trait = hunchbacked
+	trait = education_intrigue_1
+	father = 1180
+	mother = 1115
+	3045.1.1 = {
+		birth = "3045.1.1"
+	}
+	3081.1.1 = {
+		death = "3081.1.1"
+	}
+}
+
+1182 = {
+	name = "Pierre"
+	# AKA: Pietro
+	dynasty = CKU_savoia
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_martial_2
+	father = 1180
+	mother = 1115
+	3049.1.1 = {
+		birth = "3049.1.1"
+	}
+	3066.1.1 = {
+		add_spouse = 239
+	}
+	3080.8.9 = {
+		death = "3080.8.9"
+	}
+}
+
+1183 = {
+	name = "Bertha"
+	# AKA: Berta
+	female = yes
+	dynasty = CKU_savoia
+	martial = 5
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_2
+	father = 1180
+	mother = 1115
+	3050.9.21 = {
+		#birth = "3053.9.21" # Historical, but then she is a child at game start
+		birth = "3050.9.21"
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+	}
+	3089.12.27 = {
+		death = "3089.12.27"
+	}
+}
+
+1184 = {
+	name = "AmE_dE_e"
+	# AKA: Amadeo
+	dynasty = CKU_savoia
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_3
+	father = 1180
+	mother = 1115
+	3051.1.1 = {
+		birth = "3051.1.1"
+	}
+	3067.1.1 = {
+		add_spouse = 10080
+	}
+	3082.1.26 = {
+		death = "3082.1.26"
+	}
+}
+212671 = {
+	name = "AgnE_s"
+	# AKA: Agnes
+	female = yes
+	dynasty = CKU_savoia
+	martial = 8
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_2
+	father = 213111
+	mother = 213112
+	3146.1.1 = {
+		birth = "3146.1.1"
+	}
+	3174.1.1 = {
+		death = "3174.1.1"
+	}
+}
+
+212672 = {
+	name = "Mathilde"
+	female = yes
+	dynasty = CKU_savoia
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = cynical
+	trait = education_intrigue_2
+	father = 213111
+	mother = 70888
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3159.11.4 = {
+		death = "3159.11.4"
+	}
+}
+213110 = {
+	name = "Humbert"
+	dynasty = CKU_savoia
+	martial = 5
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 213111
+	mother = 213112
+	3138.8.4 = {
+		birth = "3138.8.4"
+	}
+	3161.1.1 = {
+		add_spouse = 70895
+	}
+	3164.1.1 = {
+		remove_spouse = 70895
+	}
+	3166.1.1 = {
+		add_spouse = 212601
+	}
+	3177.1.1 = {
+		add_spouse = 213114
+	}
+	3191.3.4 = {
+		death = "3191.3.4"
+	}
+}
+
+213111 = {
+	name = "AmE_dE_e"
+	# AKA: Amedee
+	dynasty = CKU_savoia
+	martial = 5
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 213119
+	mother = 232558
+	3097.1.1 = {
+		birth = "3097.1.1"
+	}
+	3122.1.1 = {
+		add_spouse = 70888
+	}
+	3137.7.1 = {
+		add_spouse = 213112
+	}
+	3150.8.30 = {
+		death = "3150.8.30"
+	}
+}
+213115 = {
+	name = "Sophie"
+	female = yes
+	dynasty = CKU_savoia
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = diligent
+	trait = arrogant
+	trait = education_intrigue_2
+	father = 213110
+	mother = 212601
+	3170.1.1 = {
+		birth = "3170.1.1"
+	}
+	3204.12.3 = {
+		death = "3204.12.3"
+	}
+}
+
+213116 = {
+	name = "Alix"
+	# AKA: Eleonore
+	female = yes
+	dynasty = CKU_savoia
+	martial = 2
+	diplomacy = 2
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = greedy
+	trait = arrogant
+	trait = education_stewardship_2
+	father = 213110
+	mother = 212601
+	3168.1.1 = {
+		birth = "3168.1.1"
+	}
+	3183.1.1 = {
+		death = "3183.1.1"
+	}
+}
+
+213117 = {
+	name = "Thomas"
+	dynasty = CKU_savoia
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = lustful
+	trait = arrogant
+	trait = education_stewardship_2
+	father = 213110
+	mother = 213114
+	3180.6.26 = {
+		birth = "3180.6.26"
+	}
+	3198.1.1 = {
+		add_spouse = 212746
+	}
+	3235.3.1 = {
+		death = "3235.3.1"
+	}
+}
+
+213118 = {
+	name = "Adelaide"
+	female = yes
+	dynasty = CKU_savoia
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 213119
+	mother = 232558
+	3094.1.1 = {
+		birth = "3094.1.1"
+	}
+	3156.1.18 = {
+		death = "3156.1.18"
+	}
+}
+
+213119 = {
+	name = "Humbert"
+	dynasty = CKU_savoia
+	martial = 7
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_1
+	father = 1184
+	mother = 10080
+	3067.1.1 = {
+		birth = "3067.1.1"
+	}
+	3092.1.1 = {
+		add_spouse = 232558
+	}
+	3105.3.19 = {
+		death = "3105.3.19"
+	}
+}
+
+213120 = {
+	name = "BE_atrix" #de Savoie
+	# AKA: Beatrice
+	female = yes
+	dynasty = CKU_savoia
+	religion = "catholic"
+	culture = arpitan
+	father = 213117
+	mother = 212746
+	3207.1.1 = {
+		birth = "3207.1.1"
+	}
+	3269.1.4 = {
+		death = "3269.1.4"
+	}
+}
+462030 = {
+	name = "Catherine"
+	female = yes
+	dynasty = CKU_savoia
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = arpitan
+	trait = humble
+	trait = education_martial_2
+	father = 462150
+	mother = 487055
+	
+	3305.1.1 = {
+		birth = "3305.1.1"
+	}
+	3338.9.30 = {
+		death = "3338.9.30"
+	}
+}
+462093 = {
+	name = "E_lE_onore" #spouse of Rodolphe de Neufchatel (1309)
+	# AKA: Eleonore
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 8
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 3
+	learning = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_4
+	trait = calm
+	father = 462159
+	mother = 462141
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3337.3.24 = {
+		death = "3337.3.24"
+	}
+}
+462140 = {
+	name = "Louis" #Louis II de Savoie
+	dynasty = CKU_savoia
+	religion = "catholic"
+	culture = arpitan
+	father = 462159
+	mother = 462141
+	3292.1.1 = {
+		birth = "3292.1.1"
+	}
+	# 3311.7.9 married Isabelle de Chalon-Arlay
+	3351.2.1 = {
+		death = "3351.2.1"
+	}
+}
+462143 = {
+	name = "Jean" #de Savoie
+	dynasty = CKU_savoia
+	religion = "catholic"
+	culture = arpitan
+	trait = lustful
+	trait = education_martial_2
+	father = 462140 #Louis II de Savoie
+	#Isabelle de Chalon-Arlay
+	3314.1.1 = {
+		birth = "3314.1.1"
+	}
+	3335.3.14 = {
+		add_spouse = 455743
+	}
+	3339.1.1 = {
+		trait = ill
+	}
+	3341.6.21 = {
+		death = "3341.6.21"
+	}
+}
+
+462144 = {
+	name = "Bonne"
+	# AKA: Guta
+	female = yes
+	dynasty = CKU_savoia
+	religion = "catholic"
+	culture = arpitan
+	trait = bastard
+	father = 462140
+	3308.1.1 = {
+		birth = "3308.1.1"
+	}
+	3344.5.1 = {
+		death = "3344.5.1"
+	}
+}
+
+462150 = {
+	name = "AmE_dE_e"
+	# AKA: Amedee
+	dynasty = CKU_savoia
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = cynical
+	trait = education_intrigue_2
+	father = 462158
+	mother = 70923
+	3255.1.1 = {
+		birth = "3255.1.1"
+	}
+	3274.7.5 = {
+		add_spouse = 462680
+	}
+	3299.10.23 = {
+		add_spouse = 487055
+	}
+	3325.10.16 = {
+		death = "3325.10.16"
+	}
+}
+
+462151 = {
+	name = "E_lE_onore"
+	# AKA: Eleonor
+	female = yes
+	dynasty = CKU_savoia
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = diligent
+	trait = education_intrigue_1
+	father = 462150
+	mother = 462680
+	3278.1.1 = {
+		birth = "3278.1.1"
+	}
+	3326.1.1 = {
+		death = "3326.1.1"
+	}
+}
+
+462152 = {
+	name = "Jeanne"
+	female = yes
+	dynasty = CKU_savoia
+	martial = 8
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = wrathful
+	trait = education_intrigue_3
+	father = 462153
+	mother = 455534
+	3312.1.1 = {
+		birth = "3312.1.1"
+	}
+	3331.11.4 = {
+		add_pressed_claim = d_savoie
+		add_pressed_claim = c_savoie
+	}
+	3346.6.29 = {
+		death = "3346.6.29"
+	}
+}
+
+462153 = {
+	name = "E_douard"
+	# AKA: Edouard
+	dynasty = CKU_savoia
+	martial = 4
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = lustful
+	trait = humble
+	trait = education_diplomacy_3
+	father = 462150
+	mother = 462680
+	3286.2.8 = {
+		birth = "3286.2.8"
+	}
+	3309.10.18 = {
+		add_spouse = 455534
+	}
+	3331.11.4 = {
+		death = "3331.11.4"
+	}
+}
+
+462154 = {
+	name = "Aymon"
+	# AKA: Aymond
+	dynasty = CKU_savoia
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = generous
+	trait = education_intrigue_2
+	father = 462150
+	mother = 462680
+	3293.12.15 = {
+		birth = "3293.12.15"
+	}
+	3335.5.1 = {
+		add_spouse = 462670
+	}
+	3345.6.22 = {
+		death = "3345.6.22"
+	}
+}
+
+462155 = {
+	name = "AmE_dE_e"
+	# AKA: Amedee
+	dynasty = CKU_savoia
+	martial = 8
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = arpitan
+	father = 462154
+	mother = 462670
+	3336.1.4 = {
+		birth = "3336.1.4"
+	}
+	3385.3.1 = {
+		death = "3385.3.1"
+	}
+}
+
+462156 = {
+	name = "Blanche"
+	female = yes
+	dynasty = CKU_savoia
+	martial = 4
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	father = 462154
+	mother = 462670
+	3337.1.1 = {
+		birth = "3337.1.1"
+	}
+	3389.12.31 = {
+		death = "3389.12.31"
+	}
+}
+
+462158 = {
+	name = "Thomas"
+	dynasty = CKU_savoia
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_2
+	father = 213117
+	mother = 212746
+	3204.1.21 = {
+		birth = "3204.1.21"
+	}
+	3253.6.1 = {
+		add_spouse = 70923
+	}
+	3261.12.7 = {
+		death = "3261.12.7"
+	}
+}
+
+462159 = {
+	name = "Louis"
+	dynasty = CKU_savoia
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_2
+	father = 462158
+	mother = 70923
+	3256.1.1 = {
+		birth = "3256.1.1"
+	}
+	3280.2.1 = {
+		add_spouse = 462141
+	}
+	3303.5.1 = {
+		add_spouse = 70947
+	}
+	3305.4.27 = {
+		death = "3305.4.27"
+	}
+}
+462671 = {
+	name = "Marie"
+	# AKA: Theodore
+	female = yes
+	dynasty = CKU_savoia
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_2
+	father = 462150
+	mother = 487055
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3336.5.7 = {
+		death = "3336.5.7"
+	}
+}
+462690 = {
+	name = "Jacques"
+	# AKA: Jaques
+	dynasty = CKU_savoia
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = wrathful
+	trait = education_martial_2
+	father = 462691
+	mother = 462700
+	3317.1.16 = {
+		birth = "3317.1.16"
+	}
+	3364.1.1 = {
+		add_spouse = CKU_albon_14
+	}
+	3369.5.14 = {
+		death = "3369.5.14"
+	}
+}
+
+462691 = {
+	name = "Philippe" #Prince of Achaia
+	# AKA: Phillippe
+	dynasty = CKU_savoia
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = arpitan
+	trait = calm
+	trait = education_intrigue_2
+	father = 462692
+	3280.1.1 = {
+		birth = "3280.1.1"
+	}
+	3303.1.1 = {
+		add_spouse = 31341
+	}
+	3314.5.7 = {
+		add_spouse = 462700
+	}
+	3336.9.23 = {
+		death = "3336.9.23"
+	}
+}
+
+462692 = {
+	name = "Thomas"
+	dynasty = CKU_savoia
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = arpitan
+	trait = calm
+	trait = education_intrigue_2
+	father = 462158
+	mother = 70923
+	3254.1.1 = {
+		birth = "3254.1.1"
+	}
+	3284.5.16 = {
+		death = "3284.5.16"
+	}
+}
+
+462693 = {
+	name = "AmE_dE_e"
+	# AKA: Amedee
+	dynasty = CKU_savoia
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = chaste
+	trait = education_learning_3
+	father = 462691
+	mother = 462700
+	3322.1.1 = {
+		birth = "3322.1.1"
+	}
+	3378.6.16 = {
+		death = "3378.6.16"
+	}
+}
+
+462694 = {
+	name = "Alix"
+	# AKA: Alice
+	female = yes
+	dynasty = CKU_savoia
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = temperate
+	trait = education_diplomacy_1
+	father = 462691
+	mother = 31341
+	3307.1.1 = {
+		birth = "3307.1.1"
+	}
+	3370.1.1 = {
+		death = "3370.1.1"
+	}
+}
+
+462695 = {
+	name = "Thomas"
+	dynasty = CKU_savoia
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_2
+	father = 462691
+	mother = 462700
+	3331.1.1 = {
+		birth = "3331.1.1"
+	}
+	3362.10.6 = {
+		death = "3362.10.6"
+	}
+}
+
+462696 = {
+	name = "E_douard"
+	# AKA: Eduard
+	dynasty = CKU_savoia
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_2
+	father = 462691
+	mother = 462700
+	3332.6.9 = {
+		birth = "3332.6.9"
+	}
+	3397.1.1 = {
+		death = "3397.1.1"
+	}
+}
+
+462697 = {
+	name = "Aymon"
+	# AKA: Aymond
+	dynasty = CKU_savoia
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	father = 462691
+	mother = 462700
+	3332.6.9 = {
+		birth = "3332.6.9"
+	}
+	3400.3.13 = {
+		death = "3400.3.13"
+	}
+}
+
+462698 = {
+	name = "E_lE_onore"
+	# AKA: Eleonore
+	female = yes
+	dynasty = CKU_savoia
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = deceitful
+	trait = education_diplomacy_1
+	father = 462691
+	mother = 462700
+	3318.1.1 = {
+		birth = "3318.1.1"
+	}
+	3352.10.1 = {
+		death = "3352.10.1"
+	}
+}
+
+462699 = {
+	name = "Jeanne"
+	female = yes
+	dynasty = CKU_savoia
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = calm
+	trait = education_stewardship_4
+	father = 462691
+	mother = 462700
+	3320.1.1 = {
+		birth = "3320.1.1"
+	}
+	3357.11.3 = {
+		death = "3357.11.3"
+	}
+}
+
+462702 = {
+	name = "Beatrix"
+	# AKA: Beatrice
+	female = yes
+	dynasty = CKU_savoia
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = wrathful
+	trait = education_intrigue_2
+	father = 462691
+	mother = 462700
+	3324.1.1 = {
+		birth = "3324.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+462703 = {
+	name = "AgnE_s"
+	# AKA: Agnes
+	female = yes
+	dynasty = CKU_savoia
+	martial = 3
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_2
+	father = 462691
+	mother = 462700
+	3326.1.1 = {
+		birth = "3326.1.1"
+	}
+	3386.11.28 = {
+		death = "3386.11.28"
+	}
+}
+
+462704 = {
+	name = "Isabelle"
+	female = yes
+	dynasty = CKU_savoia
+	martial = 4
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = arpitan
+	father = 462691
+	mother = 462700
+	3328.1.1 = {
+		birth = "3328.1.1"
+	}
+	3372.1.1 = {
+		death = "3372.1.1"
+	}
+}
+463143 = {
+	name = "Catherine" #de Savoie
+	female = yes
+	dynasty = CKU_savoia
+	religion = "catholic"
+	culture = arpitan
+	father = 462140 #Louis II de Savoie
+	#Isabelle de Chalon-Arlay
+	3312.1.1 = {
+		birth = "3312.1.1"
+	}
+	3390.1.18 = {
+		death = "3390.1.18"
+	}
+}
+70875 = {
+	name = "Burchard" #	Ecclesiastical
+	# AKA: Buchard de Maurienne
+	dynasty = CKU_savoia
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	learning = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_4
+	trait = temperate
+	father = 1176
+	mother = 1177
+	3005.1.1 = {
+		birth = "3005.1.1"
+	}
+	3070.6.10 = {
+		death = "3070.6.10"
+	}
+}
+
+70876 = {
+	name = "AgnE_s" #spouse of Friedrich von Lützelburg (1080)
+	# AKA: Agnes de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 8
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 6
+	learning = 7
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_3
+	trait = deceitful
+	father = 1182
+	mother = 239
+	3068.1.1 = {
+		birth = "3068.1.1"
+	}
+	3112.3.13 = {
+		death = "3112.3.13"
+	}
+}
+
+70877 = {
+	name = "Alix" #spouse of 7737 (1088)
+	# AKA: Alix de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 8
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 7
+	learning = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_2
+	trait = content
+	father = 1182
+	mother = 239
+	3074.1.1 = {
+		birth = "3074.1.1"
+	}
+	3101.12.21 = {
+		death = "3101.12.21"
+	}
+}
+
+70878 = {
+	name = "Bertha" #spouse of 70231 (3099.8.16)
+	# AKA: Bertha de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 8
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 7
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_1
+	trait = wrathful
+	father = 1182
+	mother = 239
+	3077.1.1 = {
+		birth = "3077.1.1"
+	}
+	3113.1.1 = {
+		death = "3113.1.1"
+	}
+}
+
+70879 = {
+	name = "AdE_laI_de" #spouse of Manasses de Coligny (1084)
+	# AKA: Adelaide de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_3
+	trait = paranoid
+	father = 1184
+	mother = 10080
+	3070.1.1 = {
+		birth = "3070.1.1"
+	}
+	3117.1.1 = {
+		death = "3117.1.1"
+	}
+}
+
+70880 = {
+	name = "Auxilia" #spouse of Humbert de Beaujeu (1086)
+	# AKA: Auxilia de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 5
+	diplomacy = 3
+	intrigue = 7
+	stewardship = 8
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_1
+	trait = wrathful
+	father = 1184
+	mother = 10080
+	3072.1.1 = {
+		birth = "3072.1.1"
+	}
+	3096.1.1 = {
+		death = "3096.1.1"
+	}
+}
+
+70881 = {
+	name = "Oddon" #
+	# AKA: Oddon de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 8
+	learning = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_4
+	trait = honest
+	father = 1184
+	mother = 10080
+	3076.1.1 = {
+		birth = "3076.1.1"
+	}
+	3118.1.1 = {
+		death = "3118.1.1"
+	}
+}
+
+70882 = {
+	name = "Jeanne" #spouse of Ulric de Bage (1092)
+	# AKA: Jeanne de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_3
+	trait = arbitrary
+	father = 1184
+	mother = 10080
+	3078.1.1 = {
+		birth = "3078.1.1"
+	}
+	3114.1.1 = {
+		death = "3114.1.1"
+	}
+}
+
+70883 = {
+	name = "Guillaume" #
+	# AKA: Guillaume de Savoie
+	
+	dynasty = CKU_savoia #Savoie
+	martial = 5
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_3
+	trait = temperate
+	father = 213119
+	mother = 232558
+	3099.1.1 = {
+		birth = "3099.1.1"
+	}
+	3132.1.1 = {
+		death = "3132.1.1"
+	}
+}
+
+70884 = {
+	name = "Humbert" #
+	# AKA: Humbert de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 8
+	intrigue = 3
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_2
+	trait = lustful
+	father = 213119
+	mother = 232558
+	3101.1.1 = {
+		birth = "3101.1.1"
+	}
+	3133.1.1 = {
+		death = "3133.1.1"
+	}
+}
+
+70885 = {
+	name = "Guy" #Ecclesiastical
+	# AKA: Guy de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_3
+	trait = paranoid
+	father = 213119
+	mother = 232558
+	3103.1.1 = {
+		birth = "3103.1.1"
+	}
+	3164.1.1 = {
+		death = "3164.1.1"
+	}
+}
+
+70886 = {
+	name = "AgnE_s" #spouse of Archambaud de Bourbon (1139)
+	# AKA: Agnes de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_1
+	trait = ambitious
+	father = 213119
+	mother = 232558
+	3102.1.1 = {
+		birth = "3102.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+70887 = {
+	name = "Renaud"
+	# AKA: Renaud de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 7
+	intrigue = 3
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_3
+	trait = content
+	father = 213119
+	mother = 232558
+	3105.1.1 = {
+		birth = "3105.1.1"
+	}
+	3152.1.1 = {
+		death = "3152.1.1"
+	}
+}
+70889 = {
+	name = "Alix" #spouse of Humbert de Beaujeu (1140)
+	# AKA: Alix de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 8
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	learning = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_3
+	trait = humble
+	father = 213111
+	mother = 70888
+	3124.1.1 = {
+		birth = "3124.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}
+}
+
+70890 = {
+	name = "Jean" #Ecclesiastical
+	# AKA: Jean de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 6
+	diplomacy = 3
+	intrigue = 8
+	stewardship = 7
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_1
+	trait = lazy
+	father = 213111
+	mother = 213112
+	3140.1.1 = {
+		birth = "3140.1.1"
+	}
+	3183.1.1 = {
+		death = "3183.1.1"
+	}
+}
+
+70891 = {
+	name = "Pierre" #Ecclesiastical
+	# AKA: Pierre de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 6
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 4
+	learning = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_2
+	trait = wrathful
+	father = 213111
+	mother = 213112
+	3142.1.1 = {
+		birth = "3142.1.1"
+	}
+	3192.1.1 = {
+		death = "3192.1.1"
+	}
+}
+
+70892 = {
+	name = "Guillaume" #Ecclesiastical
+	# AKA: Guillaume de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 5
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_4
+	trait = humble
+	father = 213111
+	mother = 213112
+	3144.1.1 = {
+		birth = "3144.1.1"
+	}
+	3207.1.1 = {
+		death = "3207.1.1"
+	}
+}
+
+70893 = {
+	name = "Marguerite" #Ecclesiastical
+	# AKA: Marguerite de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 6
+	diplomacy = 3
+	intrigue = 5
+	stewardship = 6
+	learning = 7
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_4
+	trait = cynical
+	father = 213111
+	mother = 213112
+	3148.1.1 = {
+		birth = "3148.1.1"
+	}
+	3220.1.1 = {
+		death = "3220.1.1"
+	}
+}
+
+70894 = {
+	name = "Juliane" #Ecclesiastical
+	# AKA: Juliane de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 3
+	learning = 7
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_3
+	trait = temperate
+	father = 213111
+	mother = 213112
+	3150.3.30 = {
+		birth = "3150.3.30"
+	}
+	3223.1.1 = {
+		death = "3223.1.1"
+	}
+}
+70896 = {
+	name = "Mathilde" #
+	# AKA: Mathilde de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 4
+	diplomacy = 8
+	intrigue = 3
+	stewardship = 5
+	learning = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_4
+	trait = content
+	father = 213110
+	mother = 213114
+	3182.1.1 = {
+		birth = "3182.1.1"
+	}
+	3189.1.1 = {
+		death = "3189.1.1"
+	}
+}
+
+70897 = {
+	name = "AmE_dE_e" #Duke of Savoy from 1233
+	# AKA: Amedee IV duke of Savoy
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 3
+	learning = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_1
+	trait = wrathful
+	father = 213117
+	mother = 212746
+	3199.1.1 = {
+		birth = "3199.1.1"
+	}
+	3224.1.1 = {
+		add_spouse = 70898
+	}
+	3235.1.1 = {
+		add_spouse = 70899
+	}
+	3255.7.13 = {
+		death = "3255.7.13"
+	}
+}
+70900 = {
+	name = "Beatrix" #spouse of 71181 (1235) & Manfred Hohenstaufen (3250.12.1)
+	# AKA: Beatrix de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	learning = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_3
+	trait = lustful
+	father = 70897
+	mother = 70898
+	3225.3.4 = {
+		birth = "3225.3.4"
+	}
+	3261.5.10 = {
+		death = "3261.5.10"
+	}
+}
+
+70901 = {
+	name = "Marguerite" #spouse of Bonifacio di Monferrato (3237.11.18) & Aymar de Valentinois (3257.1.26)
+	# AKA: Marguerite de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	learning = 7
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_4
+	father = 70897
+	mother = 70898
+	3227.1.1 = {
+		birth = "3227.1.1"
+	}
+	3266.1.14 = {
+		death = "3266.1.14"
+	}
+}
+
+70902 = {
+	name = "Boniface" #Duke of Savoy
+	# AKA: Boniface duke of Savoy
+	dynasty = CKU_savoia #Savoie
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	learning = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_1
+	father = 70897
+	mother = 70899
+	3236.1.1 = {
+		birth = "3236.1.1"
+	}
+	3265.3.13 = {
+		death = "3265.3.13"
+	}
+}
+
+70903 = {
+	name = "Beatrix" #spouse of Pierre de Salins (3270.10.21) & 457621 (1275)
+	# AKA: Beatrix de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 5
+	diplomacy = 3
+	intrigue = 7
+	stewardship = 7
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_2
+	trait = content
+	father = 70897
+	mother = 70899
+	3238.1.1 = {
+		birth = "3238.1.1"
+	}
+	3294.2.23 = {
+		death = "3294.2.23"
+	}
+}
+
+70904 = {
+	name = "E_lE_onore" #spouse of Guichard de Forez (1269)
+	# AKA: Elenore de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_4
+	trait = craven
+	father = 70897
+	mother = 70899
+	3240.1.1 = {
+		birth = "3240.1.1"
+	}
+	3277.1.1 = {
+		death = "3277.1.1"
+	}
+}
+
+70905 = {
+	name = "Constance"
+	# AKA: Constance de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 7
+	intrigue = 3
+	stewardship = 5
+	learning = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_3
+	trait = honest
+	father = 70897
+	mother = 70899
+	3242.1.1 = {
+		birth = "3242.1.1"
+	}
+	3266.1.14 = {
+		death = "3266.1.14"
+	}
+}
+
+70906 = {
+	name = "Humbert" #
+	# AKA: Humbert de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 5
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 3
+	learning = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_3
+	trait = generous
+	father = 213117
+	mother = 212746
+	3200.1.1 = {
+		birth = "3200.1.1"
+	}
+	3225.1.1 = {
+		death = "3225.1.1"
+	}
+}
+
+70907 = {
+	name = "Aymon"
+	# AKA: Aymon de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_martial_1
+	trait = craven
+	father = 213117
+	mother = 212746
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3244.1.1 = {
+		death = "3244.1.1"
+	}
+}
+
+70908 = {
+	name = "Guillaume" #
+	# AKA: Guillaume de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 6
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_3
+	trait = arbitrary
+	father = 213117
+	mother = 212746
+	3203.1.1 = {
+		birth = "3203.1.1"
+	}
+	3241.11.1 = {
+		death = "3241.11.1"
+	}
+}
+
+70909 = {
+	name = "Pierre" #Duke of Savoy from 1263
+	# AKA: Pierre II duke of Savoy
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_3
+	trait = arbitrary
+	father = 213117
+	mother = 212746
+	3205.1.1 = {
+		birth = "3205.1.1"
+	}
+	3238.6.25 = {
+		add_spouse = 70910
+	}
+	3270.5.14 = {
+		death = "3270.5.14"
+	}
+}
+70911 = {
+	name = "Beatrix"
+	# AKA: Beatrix de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	religion = "catholic"
+	culture = arpitan
+	father = 70909
+	mother = 70910
+	3239.4.1 = {
+		birth = "3239.4.1"
+	}
+	#3255.4.22 married Guiges de Viennois
+	#3275.4.2 married Gaston VII de béarn 138186
+	3312.4.21 = {
+		death = "3312.4.21"
+	}
+}
+
+70912 = {
+	name = "Boniface" #Ecclesiastical
+	# AKA: Boniface de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_3
+	trait = shy
+	father = 213117
+	mother = 212746
+	3219.1.1 = {
+		birth = "3219.1.1"
+	}
+	3272.7.18 = {
+		death = "3272.7.18"
+	}
+}
+
+70913 = {
+	name = "Philippe" #Duke of Savoy from 1268
+	# AKA: Philippe I duke of Savoy
+	
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 8
+	intrigue = 3
+	stewardship = 8
+	learning = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_1
+	trait = brave
+	father = 213117
+	mother = 212746
+	3209.1.1 = {
+		birth = "3209.1.1"
+	}
+	3269.6.11 = {
+	#add_spouse = #Adelheid von Andechs (3269.6.11)
+	}
+	3287.8.16 = {
+		death = "3287.8.16"
+	}
+}
+
+70914 = {
+	name = "Mathilde"
+	# AKA: Mathilde de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	learning = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_2
+	trait = paranoid
+	father = 213117
+	mother = 212746
+	3210.1.1 = {
+		birth = "3210.1.1"
+	}
+	3256.1.1 = {
+		death = "3256.1.1"
+	}
+}
+
+70915 = {
+	name = "Sophie" #
+	# AKA: Sophie de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 3
+	learning = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_1
+	trait = lustful
+	father = 213117
+	mother = 212746
+	3211.1.1 = {
+		birth = "3211.1.1"
+	}
+	3256.1.1 = {
+		death = "3256.1.1"
+	}
+}
+
+70916 = {
+	name = "Alix" #Ecclesiastical
+	# AKA: Alix de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_4
+	trait = greedy
+	father = 213117
+	mother = 212746
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3279.1.1 = {
+		death = "3279.1.1"
+	}
+}
+
+70917 = {
+	name = "Agathe" #Ecclesiastical
+	# AKA: Agathe de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 6
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 7
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_3
+	trait = arbitrary
+	father = 213117
+	mother = 212746
+	3213.1.1 = {
+		birth = "3213.1.1"
+	}
+	3281.1.1 = {
+		death = "3281.1.1"
+	}
+}
+
+70918 = {
+	name = "Marguerite" #spouse of Hartmann von Kiburg (1230)
+	# AKA: Marguerite de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 7
+	intrigue = 3
+	stewardship = 8
+	learning = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_2
+	trait = diligent
+	father = 213117
+	mother = 212746
+	3214.1.1 = {
+		birth = "3214.1.1"
+	}
+	3275.9.2 = {
+		death = "3275.9.2"
+	}
+}
+
+70919 = {
+	name = "Beraud"
+	# AKA: Beraud batard de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	learning = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_2
+	trait = gluttonous
+	trait = bastard
+	father = 213117	
+	#mother
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3265.1.1 = {
+		death = "3265.1.1"
+	}
+}
+
+70920 = {
+	name = "BenoI_t" #
+	# AKA: Benoit batard de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_martial_1
+	trait = paranoid
+	trait = bastard
+	father = 213117
+	#mother
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3265.6.1 = {
+		death = "3265.6.1"
+	}
+}
+
+70921 = {
+	name = "AmE_dE_e" #Ecclesiastical
+	# AKA: Amedee batard de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 8
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_2
+	trait = brave
+	trait = bastard
+	father = 213117	
+	3222.1.1 = {
+		birth = "3222.1.1"
+	}
+	3258.1.19 = {
+		death = "3258.1.19"
+	}
+}
+
+70922 = {
+	name = "Avoie" #spouse of Baldwin of Devon (1257) & Robert of Walton (1269)
+	# AKA: Avoie batarde de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_1
+	trait = content
+	trait = bastard
+	father = 213117
+	3232.1.1 = {
+		birth = "3232.1.1"
+	}
+	3294.5.14 = {
+		death = "3294.5.14"
+	}
+}
+
+70927 = {
+	name = "Jean" #
+	# AKA: Jean batard de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 5
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 4
+	learning = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_martial_1
+	trait = bastard
+	father = 70926
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3350.1.1 = {
+		death = "3350.1.1"
+	}
+}
+
+70928 = {
+	name = "Hugues" #
+	# AKA: Hugues batard de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 3
+	learning = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = education_martial_3
+	trait = zealous
+	trait = bastard
+	father = 70926
+	3307.1.1 = {
+		birth = "3307.1.1"
+	}
+	3339.1.1 = {
+		death = "3339.1.1"
+	}
+}
+
+70929 = {
+	name = "Thomas" #
+	# AKA: Thomas de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 6
+	learning = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_martial_2
+	trait = gregarious
+	father = 462692
+	#mother = #GuyAnd
+	3284.1.1 = {
+		birth = "3284.1.1"
+	}
+	
+	3342.12.1 = {
+		death = "3342.12.1"
+	}
+}
+
+70930 = {
+	name = "AmE_dE_e" #
+	# AKA: Amedee de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 3
+	intrigue = 8
+	stewardship = 5
+	learning = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_2
+	trait = generous
+	father = 462692
+	#mother = #GuyAnd
+	3284.1.1 = {
+		birth = "3284.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+70931 = {
+	name = "Guillaume" #
+	# AKA: Guillaume de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_3
+	trait = greedy
+	father = 462692
+	#mother = #GuyAnd
+	3284.1.1 = {
+		birth = "3284.1.1"
+	}
+	3328.1.1 = {
+		death = "3328.1.1"
+	}
+}
+
+70932 = {
+	name = "Lancelot" #
+	# AKA: Lancelot batard de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 3
+	learning = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_3
+	trait = brave
+	trait = bastard
+	father = 462692	
+	3272.1.1 = {
+		birth = "3272.1.1"
+	}
+	3340.1.1 = {
+		death = "3340.1.1"
+	}
+}
+
+70933 = {
+	name = "Nicolas"
+	# AKA: Nicolas batard de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 3
+	intrigue = 8
+	stewardship = 4
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_3
+	trait = diligent
+	trait = bastard
+	father = 462692
+	3277.1.1 = {
+		birth = "3277.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+
+70934 = {
+	name = "Philippine"
+	# AKA: Philippine de Savoie
+	dynasty = CKU_savoia #Savoie
+	female = yes
+	martial = 6
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 5
+	learning = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_martial_2
+	trait = ambitious
+	father = 70933
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3364.1.1 = {
+		death = "3364.1.1"
+	}
+}
+
+70935 = {
+	name = "FranC_ois"
+	# AKA: Francois de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 5
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 8
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_1
+	trait = just
+	trait = bastard
+	father = 462692	
+	3282.1.1 = {
+		birth = "3282.1.1"
+	}
+	3365.1.1 = {
+		death = "3365.1.1"
+	}
+}
+
+70936 = {
+	name = "Pierot"
+	# AKA: Pierot de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 6
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 3
+	learning = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_2
+	trait = greedy
+	father = 70935
+	3307.1.1 = {
+		birth = "3307.1.1"
+	}
+	3371.1.1 = {
+		death = "3371.1.1"
+	}
+}
+
+70937 = {
+	name = "Marie" #
+	# AKA: Marie de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 7
+	intrigue = 3
+	stewardship = 8
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_3
+	trait = craven
+	father = 462691
+	mother = 31341
+	3303.11.1 = {
+		birth = "3303.11.1"
+	}
+	3310.1.1 = {
+		death = "3310.1.1"
+	}
+}
+
+70938 = {
+	name = "Marguerite" #spouse of Renaud de Forez (3326.6.10)
+	# AKA: Marguerite de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 8
+	diplomacy = 3
+	intrigue = 8
+	stewardship = 8
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_1
+	trait = lazy
+	father = 462691
+	mother = 31341
+	3305.1.1 = {
+		birth = "3305.1.1"
+	}
+	3373.12.8 = {
+		death = "3373.12.8"
+	}
+}
+70948 = {
+	name = "Laure" #spouse of Jean de Forez (1324)
+	# AKA: Laure de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	learning = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_4
+	trait = shy
+	father = 462159
+	#mother = #AdeLor
+	3280.1.1 = {
+		birth = "3280.1.1"
+	}
+	
+	3336.1.1 = {
+		death = "3336.1.1"
+	}
+}
+
+70949 = {
+	name = "Isabelle"
+	# AKA: Isabelle de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 5
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 7
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_1
+	trait = chaste
+	father = 462159
+	mother = 462141
+	3283.1.1 = {
+		birth = "3283.1.1"
+	}
+	3291.4.1 = {
+		death = "3291.4.1"
+	}
+}
+
+70950 = {
+	name = "Marguerite" #spouse of Jean de Salins (3302.1.1) & Simon von Saarbrucken (3311.6.21)
+	# AKA: Marguerite de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 7
+	learning = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_2
+	trait = brave
+	father = 462159
+	mother = 462141
+	3286.1.1 = {
+		birth = "3286.1.1"
+	}
+	3315.4.7 = {
+		death = "3315.4.7"
+	}
+}
+
+70951 = {
+	name = "Jeanne" #spouse of Guillaume de Joinville (3305.1.1)
+	# AKA: Jeanne de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 8
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_4
+	trait = gregarious
+	father = 462159
+	mother = 462141
+	3289.1.1 = {
+		birth = "3289.1.1"
+	}
+	3362.10.29 = {
+		death = "3362.10.29"
+	}
+}
+
+70952 = {
+	name = "Pierre" #
+	# AKA: Pierre de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 8
+	learning = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_3
+	trait = chaste
+	father = 462159
+	mother = 462141
+	3293.1.1 = {
+		birth = "3293.1.1"
+	}
+	3314.3.21 = {
+		death = "3314.3.21"
+	}
+}
+
+70953 = {
+	name = "Beatrix" #spouse of Geoffroy de Clermont (1308)
+	# AKA: Beatrix de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 4
+	diplomacy = 8
+	intrigue = 3
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_4
+	trait = cynical
+	father = 462159
+	mother = 462141
+	3294.1.1 = {
+		birth = "3294.1.1"
+	}
+	3358.3.10 = {
+		death = "3358.3.10"
+	}
+}
+
+70955 = {
+	name = "Catherine"
+	# AKA: Catherine de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 3
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 4
+	learning = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_2
+	trait = generous
+	father = 462159
+	mother = 462141
+	3296.1.1 = {
+		birth = "3296.1.1"
+	}
+	3307.1.1 = {
+		death = "3307.1.1"
+	}
+}
+
+70956 = {
+	name = "Blanche" #spouse of Pierre de Grandson (1311)
+	# AKA: Blanche de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 3
+	learning = 3
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_2
+	trait = ambitious
+	father = 462159
+	mother = 462141
+	3298.1.1 = {
+		birth = "3298.1.1"
+	}
+	3325.4.1 = {
+		death = "3325.4.1"
+	}
+}
+
+70957 = {
+	name = "Guillaume"
+	# AKA: Guillaume de Savoie
+	dynasty = CKU_savoia #Savoie
+	martial = 6
+	diplomacy = 3
+	intrigue = 5
+	stewardship = 3
+	learning = 7
+	religion = "catholic"
+	culture = arpitan
+	trait = education_martial_2
+	trait = diligent
+	father = 462159
+	mother = 462141
+	3300.1.1 = {
+		birth = "3300.1.1"
+	}
+	3317.1.1 = {
+		add_spouse = 70959
+	}
+	3344.1.1 = {
+		death = "3344.1.1"
+	}
+}
+
+70958 = {
+	name = "Isabelle" #spouse of 70960 (1316)
+	# AKA: Isabelle de Savoie
+	female = yes	
+	dynasty = CKU_savoia #Savoie
+	martial = 8
+	diplomacy = 7
+	intrigue = 3
+	stewardship = 4
+	learning = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_4
+	trait = just
+	father = 462159
+	mother = 462141
+	3302.1.1 = {
+		birth = "3302.1.1"
+	}
+	3355.1.1 = {
+		death = "3355.1.1"
+	}
+}
+70961 = {
+	name = "Contesson"
+	dynasty = CKU_savoia
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_3
+	trait = just
+	father = 462158
+	mother = 70923
+	3258.1.1 = {
+		birth = "3258.1.1"
+	}
+	3266.1.14 = {
+		death = "3266.1.14"
+	}
+}
+
+70962 = {
+	name = "E_lE_onore"
+	# AKA: Eleonore
+	dynasty = CKU_savoia
+	female = yes
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_3
+	trait = cynical
+	father = 462158
+	mother = 70923
+	3260.1.1 = {
+		birth = "3260.1.1"
+	}
+	3298.8.24 = {
+		death = "3298.8.24"
+	}
+}
+
+70963 = {
+	name = "Alix"
+	dynasty = CKU_savoia
+	female = yes
+	martial = 3
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_1
+	trait = wrathful
+	father = 462158
+	mother = 70923
+	3262.1.1 = {
+		birth = "3262.1.1"
+	}
+	3279.8.1 = {
+		death = "3279.8.1"
+	}
+}
+
+70964 = {
+	name = "Bonne"
+	dynasty = CKU_savoia
+	female = yes
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_stewardship_2
+	trait = humble
+	father = 462150
+	mother = 462680
+	3277.1.1 = {
+		birth = "3277.1.1"
+	}
+	3302.1.1 = {
+		death = "3302.1.1"
+	}
+}
+
+70965 = {
+	name = "Beatrix"
+	dynasty = CKU_savoia
+	female = yes
+	martial = 6
+	diplomacy = 9
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_3
+	trait = content
+	father = 462150
+	mother = 462680
+	3285.1.1 = {
+		birth = "3285.1.1"
+	}
+	3296.1.7 = {
+		death = "3296.1.7"
+	}
+}
+
+70966 = {
+	name = "Marguerite"
+	dynasty = CKU_savoia
+	female = yes
+	martial = 7
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = arpitan
+	trait = education_diplomacy_1
+	trait = cynical
+	father = 462150
+	mother = 462680
+	3288.1.1 = {
+		birth = "3288.1.1"
+	}
+	3341.1.1 = {
+		death = "3341.1.1"
+	}
+}
+
+70967 = {
+	name = "AgnE_s"
+	# AKA: Agnes
+	dynasty = CKU_savoia
+	female = yes
+	martial = 5
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_intrigue_1
+	trait = greedy
+	father = 462150
+	mother = 462680
+	3290.1.1 = {
+		birth = "3290.1.1"
+	}
+	3324.10.4 = {
+		death = "3324.10.4"
+	}
+}
+
+70968 = {
+	name = "Beatrix"
+	dynasty = CKU_savoia
+	female = yes
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = arpitan
+	trait = education_learning_1
+	father = 462150
+	mother = 487055
+	3312.1.1 = {
+		birth = "3312.1.1"
+	}
+	3333.12.20 = {
+		death = "3333.12.20"
+	}
+}
+
+70969 = {
+	name = "Artur"
+	dynasty = CKU_savoia
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = arpitan
+	trait = education_martial_3
+	trait = bastard
+	trait = craven
+	father = 462150
+	3298.1.1 = {
+		birth = "3298.1.1"
+	}
+	3342.1.1 = {
+		death = "3342.1.1"
+	}
+}
+7631 = {
+	name = "Agnes"
+	female = yes
+	dynasty = CKU_savoia
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = arpitan
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 213119
+	mother = 232558
+	3106.1.1 = {
+		birth = "3106.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+arpitan0001 = {
+	name = "Constance" # Constance de Savoie, wife of Ottone II of Montferrato
+	dynasty = CKU_savoia
+	female = yes
+	culture = arpitan
+	religion = catholic
+	
+	father = 1176
+	mother = 1177
+	
+	3019.1.1 = {
+		birth = yes
+	}
+	3065.1.1 = {
+		death = yes
+	}
+}

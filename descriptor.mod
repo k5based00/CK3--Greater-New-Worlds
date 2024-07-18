@@ -1,0 +1,16 @@
+version="1.7"
+tags={
+	"Map"
+	"Total Conversion"
+}
+name="Greater Earth"
+replace_path="common/bookmark_portraits"
+replace_path="common/bookmarks"
+replace_path="common/religion/religions"
+replace_path="history/characters"
+replace_path="history/provinces"
+replace_path="history/titles"
+replace_path="map_data"
+picture="thumbnail.png"
+supported_version="1.12.5"
+remote_file_id="3288354895"

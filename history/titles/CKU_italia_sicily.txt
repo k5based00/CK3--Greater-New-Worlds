@@ -1,0 +1,131 @@
+#Siracusa
+c_syracuse = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_modica = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_malta = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_butera = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_catania = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_aidone = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+
+#Messina
+c_messina = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_longi = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_adrano = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_cefalu = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_geraci = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+
+#Palermo
+c_mazara = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_palermo = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_trapani = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_caltabellotta = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_sclafani = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_agrigento = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_caltanissetta = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}

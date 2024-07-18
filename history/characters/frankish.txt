@@ -1,0 +1,181 @@
+﻿190401 = {
+	name = "Chrodbert"
+	dynasty = CKU_capet #Robertine (dynasty of house Capet)
+	religion = "catholic"
+	culture = "frankish"
+	2574.1.1 = {
+		birth = yes
+	}
+	2623.1.1 = {
+		death = yes
+	}
+}
+190402 = {
+	name = "Lambert"
+	dynasty = CKU_capet #Robertine (dynasty of house Capet)
+	religion = "catholic"
+	culture = "frankish"
+	father = 190401
+	2600.1.1 = {
+		birth = yes
+	}
+	2645.1.1 = {
+		death = yes
+	}
+}
+190403 = {
+	name = "Chrodbert"
+	dynasty = CKU_capet #Robertine (dynasty of house Capet)
+	religion = "catholic"
+	culture = "frankish"
+	father = 190402
+	2622.1.1 = {
+		birth = yes
+	}
+	2678.1.1 = {
+		death = yes
+	}
+}
+190404 = {
+	name = "Lambert"
+	dynasty = CKU_capet #Robertine (dynasty of house Capet)
+	religion = "catholic"
+	culture = "frankish"
+	father = 190403
+	2670.1.1 = {
+		birth = yes
+	}
+	2731.1.1 = {
+		death = yes
+	}
+}
+190409 = {
+	name = "Anselm"
+	dynasty = CKU_capet #Robertine (dynasty of house Capet)
+	religion = "catholic"
+	culture = "frankish"
+	father = 91000
+	mother = 91121
+	2730.1.1 = {
+		birth = yes
+	}
+	2782.1.1 = {
+		death = yes
+	}
+}
+190410 = {
+	name = "Robert"
+	dynasty = CKU_capet #Robertine (dynasty of house Capet)
+	religion = "catholic"
+	culture = "frankish"
+	father = 91000
+	mother = 91121
+	2737.1.1 = {
+		birth = yes
+	}
+	2791.1.1 = {
+		death = yes
+	}
+}
+190411 = {
+	name = "Guntram" #count of worms
+	dynasty = CKU_capet #Robertine (dynasty of house Capet)
+	religion = "catholic"
+	culture = "frankish"
+	father = 91005
+	2812.1.1 = {
+		birth = yes
+	}
+	2849.1.1 = {
+		death = yes
+	}
+}
+91000 = {
+	name = "Robert" #Robert Ier, count de Hesbaye
+	# AKA: Robert Ier de Hesbaye
+	dynasty = CKU_capet #Robertine (dynasty of house Capet)
+	
+	religion = "catholic"
+	culture = "frankish"
+	father = 190404
+	#son of Lambert, count of Neustria and Austrasia
+	
+	2702.1.1 = {
+		birth = "2702.1.1"
+	}
+	
+	2762.1.1 = {
+		death = "2762.1.1" #Before 764
+	}
+}
+194450 = {
+	name = "Robert" #Robert II, count de Hesbaye
+	dynasty = CKU_capet #Robertine (dynasty of house Capet)
+	religion = catholic
+	culture = frankish
+	trait = lustful
+	trait = strong
+	father = 91000
+	mother = 91121
+	2744.8.7 = {
+		birth = yes
+	}
+	2809.6.6 = {
+		death = yes
+	}
+}
+91001 = {
+	name = "Enguerrand" #Enguerrand or Ingramm, count of Hesbaye
+	dynasty = CKU_capet #Robertine (dynasty of house Capet)
+	
+	religion = "catholic"
+	culture = "frankish"
+	
+	father = 91000 #Robert Ier de Hesbaye
+	mother = 91121 #Williswinthe
+	
+	2747.1.1 = {
+		birth = "2747.1.1"
+	}
+	
+	2792.1.1 = {
+		death = "2792.1.1"
+	}
+}
+91003 = {
+	name = "Thurimbert" #Thurimbert, count of Hesbaye
+	dynasty = CKU_capet #Robertine (dynasty of house Capet)
+	
+	religion = "catholic"
+	culture = "frankish"
+	
+	father = 91000 #Robert Ier de Hesbaye
+	mother = 91121 #Williswinthe
+	
+	2742.1.1 = {
+		birth = "2742.1.1" #c. 740
+	}
+	
+	2777.1.1 = {
+		death = "2777.1.1" #after 770
+	}
+}
+
+91004 = {
+	name = "Robert" #Robert II de Hesbaye, count of Hesbaye, Worms and Oberrheingau.
+	# AKA: Robert II
+	dynasty = CKU_capet #Robertine (dynasty of house Capet)
+	
+	religion = "catholic"
+	culture = "frankish"
+	
+	father = 91003 #Thurimbert
+	
+	2767.1.1 = {
+		birth = "2767.1.1" #pretty random estimation
+	}
+	
+	2812.1.1 = {
+		death = "2812.1.1" #pretty random estimation
+	}
+}

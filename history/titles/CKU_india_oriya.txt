@@ -1,0 +1,279 @@
+#orissa = {
+	k_oriya = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+		}
+	}
+	d_oriya = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+		}
+	}
+	d_jeypore = {
+		3446.1.1 = {
+			holder = CKU_orissa_1
+		}
+	}
+	c_cuttack = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+			change_development_level = 14
+		}
+	}
+	c_talchar = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+			change_development_level = 14
+		}
+	}
+	c_balasore = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+			change_development_level = 13
+		}
+	}
+	c_midnapore = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+			change_development_level = 12
+		}
+	}
+	c_puri = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+			change_development_level = 14
+		}
+	}
+	c_ganjam = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+			change_development_level = 10
+		}
+	}
+	c_palasa = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+			change_development_level = 11
+		}
+	}
+	c_srikakulam = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+			change_development_level = 11
+		}
+	}
+	c_visakhapatnam = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+			change_development_level = 9
+		}
+	}
+	c_bhanjanagar = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+			change_development_level = 8
+		}
+	}
+	c_athghath = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+			change_development_level = 11
+		}
+	}
+	c_dharkanal = {
+		3446.1.1 = { 
+			holder = CKU_orissa_1
+			change_development_level = 8
+		}
+	}
+	
+#}
+#keonjhar = {
+	c_kuonjhar = {
+		3446.1.1 = { 
+			holder = CKU_keonjhar_1
+			change_development_level = 9
+			liege = k_oriya
+			government = tribal_government
+		}
+	}
+	c_mayurbhani = {
+		3446.1.1 = { 
+			holder = CKU_keonjhar_1
+			change_development_level = 7
+		}
+	}
+	c_singhbhum = {
+		3446.1.1 = { 
+			holder = CKU_keonjhar_1
+			change_development_level = 8
+		}
+	}
+	c_seraikela = {
+		3446.1.1 = { 
+			holder = CKU_keonjhar_1
+			change_development_level = 7
+		}
+	}
+#}
+#garjat = {
+	d_garjat = {
+		3446.1.1 = {
+			holder = CKU_garjat_1
+			liege = k_oriya
+			government = tribal_government
+		}
+	}
+	c_ranpur = {
+		3446.1.1 = { 
+			holder = CKU_garjat_1
+			change_development_level = 11
+		}
+	}
+	c_nayagarh = {
+		3446.1.1 = { 
+			holder = CKU_garjat_1
+			change_development_level = 8
+		}
+	}
+	c_ath_mallik = {
+		3446.1.1 = { 
+			holder = CKU_garjat_1
+			change_development_level = 10
+		}
+	}
+	c_anugul = {
+		3446.1.1 = { 
+			holder = CKU_garjat_1
+			change_development_level = 9
+		}
+	}
+#}
+#parlakhimidi = {
+	c_rayagada = {
+		3446.1.1 = { 
+			holder = CKU_parlakhimidi_1
+			change_development_level = 7
+			liege = k_oriya
+			government = gond_government
+		}
+	}
+	c_chalmesinda = {
+		3446.1.1 = { 
+			holder = CKU_parlakhimidi_1
+			change_development_level = 7
+		}
+	}
+	c_bagardh = {
+		3446.1.1 = { 
+			holder = CKU_parlakhimidi_1
+			change_development_level = 7
+		}
+	}
+#}
+#kalahandi = {
+	c_kalahandi = {
+		3446.1.1 = { 
+			holder = CKU_kalahandi_1
+			change_development_level = 9
+			government = gond_government
+			liege = k_oriya
+		}
+	}
+#}
+#jeypore = {
+	c_jeypore = {
+		3446.1.1 = { 
+			holder = CKU_jeypore_1
+			change_development_level = 8
+			liege = k_oriya
+			government = gond_government
+		}
+	}
+	c_koraput = {
+		3446.1.1 = { 
+			holder = CKU_jeypore_1
+			change_development_level = 7
+		}
+	}
+
+#}
+
+#bastar = {
+	c_bastar = {
+		3446.1.1 = { 
+			holder = CKU_bastar_1
+			change_development_level = 10
+			government = gond_government
+		}
+	}
+	c_nayanpur = {
+		3446.1.1 = { 
+			holder = CKU_bastar_1
+			change_development_level = 8
+		}
+	}
+	c_usur = {
+		3446.1.1 = { 
+			holder = CKU_bastar_1
+			change_development_level = 7
+		}
+	}
+	c_venkatapuram = {
+		3446.1.1 = { 
+			holder = CKU_bastar_1
+			change_development_level = 7
+		}
+	}
+	c_cherla = {
+		3446.1.1 = { 
+			holder = CKU_bastar_1
+			change_development_level = 6
+		}
+	}
+	c_jagdalpur = {
+		3446.1.1 = { 
+			holder = CKU_bastar_1
+			change_development_level = 6
+		}
+	}
+	c_dantewara = {
+		3446.1.1 = { 
+			holder = CKU_bastar_1
+			change_development_level = 7
+		}
+	}
+	c_raigarh = {
+		3446.1.1 = { 
+			holder = CKU_bastar_1
+			change_development_level = 6
+		}
+	}
+	c_kanker = {
+		3446.1.1 = { 
+			holder = CKU_bastar_1
+			change_development_level = 5
+		}
+	}
+#}
+#chanda = {
+	c_chandrapur = {
+		3446.1.1 = { 
+			holder = CKU_chanda_1
+			change_development_level = 8
+			government = gond_government
+		}
+	}
+	c_armori = {
+		3446.1.1 = { 
+			holder = CKU_chanda_1
+			change_development_level = 6
+		}
+	}
+	c_sironcha = {
+		3446.1.1 = { 
+			holder = CKU_chanda_1
+			change_development_level = 6
+		}
+	}
+#}

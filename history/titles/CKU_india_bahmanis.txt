@@ -1,0 +1,599 @@
+#bahmanis
+	k_ahmednagar = {
+		3446.1.1 = {
+			holder = CKU_bahmani_1
+			
+		}
+	}
+	k_berar = {
+		3446.1.1 = {
+			holder = CKU_bahmani_1
+		}
+	}
+	k_bijapur = {
+		3446.1.1 = {
+			holder = CKU_bahmani_1
+		}
+	}
+	d_bidar = {
+		3446.1.1 = {
+			holder = CKU_bahmani_1
+		}
+	}
+	c_bidar = {
+		3446.1.1 = {
+			holder = CKU_bahmani_1
+			change_development_level = 16
+		}
+	}
+	c_yadgir = {
+		3446.1.1 = {
+			holder = CKU_bahmani_1
+			change_development_level = 15
+		}
+	}
+	c_aland = {
+		3446.1.1 = {
+			holder = CKU_bahmani_1
+			change_development_level = 15
+		}
+	}
+	c_marolia = {
+		3446.1.1 = {
+			holder = CKU_bahmani_1
+			change_development_level = 12
+		}
+	}
+	c_patan = {
+		3446.1.1 = {
+			holder = CKU_bahmani_1
+			change_development_level = 10
+		}
+	}
+	c_kandahar = {
+		3446.1.1 = {
+			holder = CKU_bahmani_1
+			change_development_level = 9
+		}
+	}
+	c_nizamabad = {
+		3446.1.1 = {
+			holder = CKU_bahmani_1
+			change_development_level = 8
+		}
+	}
+	c_koratla = {
+		3446.1.1 = {
+			holder = CKU_bahmani_1
+			change_development_level = 7
+		}
+	}
+#mudgal
+	d_raichur = {
+		3446.1.1 = {
+			holder = CKU_mudgal_1
+			liege = k_ahmednagar
+			
+		}
+	}
+	c_raichuru = {
+		3446.1.1 = {
+			holder = CKU_mudgal_1
+			change_development_level = 17
+		}
+	}
+	c_gadwal = {
+		3446.1.1 = {
+			holder = CKU_mudgal_1
+			change_development_level = 16
+		}
+	}
+	c_shorapur = {
+		3446.1.1 = {
+			holder = CKU_mudgal_1
+			change_development_level = 15
+		}
+	}
+	c_mudgal = {
+		3446.1.1 = {
+			holder = CKU_mudgal_1
+			change_development_level = 15
+		}
+	}
+	c_koppla = {
+		3446.1.1 = {
+			holder = CKU_mudgal_1
+			change_development_level = 14
+		}
+	}
+#savanur
+	d_savanur = {
+		3446.1.1 = {
+			holder = CKU_savanur_1
+			liege = k_ahmednagar
+		}
+	}
+	c_savanur = {
+		3446.1.1 = {
+			holder = CKU_savanur_1
+			change_development_level = 11
+		}
+	}
+	c_hubli = {
+		3446.1.1 = {
+			holder = CKU_savanur_1
+			change_development_level = 4
+		}
+	}
+	c_gajendragarh = {
+		3446.1.1 = {
+			holder = CKU_savanur_1
+			change_development_level = 10
+		}
+	}
+	c_gudag = {
+		3446.1.1 = {
+			holder = CKU_savanur_1
+			change_development_level = 10
+		}
+	}
+#bijapur
+	d_bijapur = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			liege = k_ahmednagar
+			
+		}
+	}
+	c_bijapur = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 14
+		}
+	}
+	c_akluj = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 12
+		}
+	}
+	c_athani = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 11
+		}
+	}
+	c_miraj = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 10
+		}
+	}
+	c_belgaon = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 11
+		}
+	}
+	c_jamkhandi = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 10
+		}
+	}
+	c_kolhapur = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 8
+		}
+	}
+	c_ilkal = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 12
+		}
+	}
+	c_karad = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 9
+		}
+	}
+	c_satara = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 9
+		}
+	}
+	c_pandharpur = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 10
+		}
+	}
+	c_bhor = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 8
+		}
+	}
+	c_sangli = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 7
+		}
+	}
+	c_ratnagiri = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 6
+		}
+	}
+	c_malvan = {
+		3446.1.1 = {
+			holder = CKU_bijapur_1
+			change_development_level = 7
+		}
+	}
+#ahmednagar
+	d_ahmednagar = {
+		3446.1.1 = {
+			holder = CKU_ahmednagar_1
+			liege = k_ahmednagar
+			
+		}
+	}
+	c_ahmednagar = {
+		3446.1.1 = {
+			holder = CKU_ahmednagar_1
+			change_development_level = 12
+		}
+	}
+	c_puna = {
+		3446.1.1 = {
+			holder = CKU_ahmednagar_1
+			change_development_level = 9
+		}
+	}
+	c_kormala = {
+		3446.1.1 = {
+			holder = CKU_ahmednagar_1
+			change_development_level = 9
+		}
+	}
+	c_solapur = {
+		3446.1.1 = {
+			holder = CKU_ahmednagar_1
+			change_development_level = 8
+		}
+	}
+	c_osmanabad = {
+		3446.1.1 = {
+			holder = CKU_ahmednagar_1
+			change_development_level = 7
+		}
+	}
+	c_barsi = {
+		3446.1.1 = {
+			holder = CKU_ahmednagar_1
+			change_development_level = 6
+		}
+	}
+	c_purli = {
+		3446.1.1 = {
+			holder = CKU_ahmednagar_1
+			change_development_level = 6
+		}
+	}
+	c_shrirampur = {
+		3446.1.1 = {
+			holder = CKU_ahmednagar_1
+			change_development_level = 6
+		}
+	}
+	c_pathardi = {
+		3446.1.1 = {
+			holder = CKU_ahmednagar_1
+			change_development_level = 7
+		}
+	}
+#daulatabad
+	c_daulatabad = {
+		3446.1.1 = {
+			holder = CKU_daulatabad_1
+			change_development_level = 12
+			liege = d_ahmednagar
+			
+		}
+	}
+	c_gourithapetra = {
+		3446.1.1 = {
+			holder = CKU_daulatabad_1
+			change_development_level = 8
+		}
+	}
+	c_nandgaon = {
+		3446.1.1 = {
+			holder = CKU_daulatabad_1
+			change_development_level = 10
+		}
+	}
+	c_nashik = {
+		3446.1.1 = {
+			holder = CKU_daulatabad_1
+			change_development_level = 9
+		}
+	}
+	c_bhadgaon = {
+		3446.1.1 = {
+			holder = CKU_daulatabad_1
+			change_development_level = 9
+		}
+	}
+	c_chersithlia = {
+		3446.1.1 = {
+			holder = CKU_daulatabad_1
+			change_development_level = 5
+		}
+	}
+	c_malkapur = {
+		3446.1.1 = {
+			holder = CKU_daulatabad_1
+			change_development_level = 6
+		}
+	}
+	c_hihieresmos = {
+		3446.1.1 = {
+			holder = CKU_daulatabad_1
+			change_development_level = 6
+		}
+	}
+	c_gorgorooas = {
+		3446.1.1 = {
+			holder = CKU_daulatabad_1
+			change_development_level = 5
+		}
+	}
+#berar
+	d_berar = {
+		3446.1.1 = {
+			holder = CKU_berar_1
+			liege = k_ahmednagar
+			
+		}
+	}
+	c_amaravati = {
+		3446.1.1 = {
+			holder = CKU_berar_1
+			change_development_level = 9
+		}
+	}
+	c_manwat = {
+		3446.1.1 = {
+			holder = CKU_berar_1
+			change_development_level = 8
+		}
+	}
+	c_bhainsa = {
+		3446.1.1 = {
+			holder = CKU_berar_1
+			change_development_level = 8
+		}
+	}
+	c_nirmal = {
+		3446.1.1 = {
+			holder = CKU_berar_1
+			change_development_level = 8
+		}
+	}
+	c_yeotmal = {
+		3446.1.1 = {
+			holder = CKU_berar_1
+			change_development_level = 7
+		}
+	}
+	c_akola = {
+		3446.1.1 = {
+			holder = CKU_berar_1
+			change_development_level = 7
+		}
+	}
+	c_magarsaea = {
+		3446.1.1 = {
+			holder = CKU_berar_1
+			change_development_level = 6
+		}
+	}
+	c_chimonastiaea = {
+		3446.1.1 = {
+			holder = CKU_berar_1
+			change_development_level = 6
+		}
+	}
+	c_halicalinlia = {
+		3446.1.1 = {
+			holder = CKU_berar_1
+			change_development_level = 5
+		}
+	}
+	c_bougolcum = {
+		3446.1.1 = {
+			holder = CKU_berar_1
+			change_development_level = 5
+		}
+	}
+#nagpur
+	d_nagpur = {
+		3446.1.1 = {
+			holder = CKU_nagpur_1
+			liege = k_ahmednagar
+			
+		}
+	}
+	c_nagpur = {
+		3446.1.1 = {
+			holder = CKU_nagpur_1
+			change_development_level = 11
+		}
+	}
+	c_gondia = {
+		3446.1.1 = {
+			holder = CKU_nagpur_1
+			change_development_level = 11
+		}
+	}
+	c_balaghat = {
+		3446.1.1 = {
+			holder = CKU_nagpur_1
+			change_development_level = 9
+		}
+	}
+	c_warora = {
+		3446.1.1 = {
+			holder = CKU_nagpur_1
+			change_development_level = 9
+		}
+	}
+	c_kerkdimathera = {
+		3446.1.1 = {
+			holder = CKU_nagpur_1
+			change_development_level = 6
+		}
+	}
+#golconda
+	d_golconda = {
+		3446.1.1 = {
+			holder = CKU_golconda_1
+			liege = k_ahmednagar
+			
+		}
+	}
+	c_golconda = {
+		3446.1.1 = {
+			holder = CKU_golconda_1
+			change_development_level = 12
+		}
+	}
+	c_mahbubnagarh = {
+		3446.1.1 = {
+			holder = CKU_golconda_1
+			change_development_level = 11
+		}
+	}
+	c_medak = {
+		3446.1.1 = {
+			holder = CKU_golconda_1
+			change_development_level = 9
+		}
+	}
+	c_hyderabad = {
+		3446.1.1 = {
+			holder = CKU_golconda_1
+			change_development_level = 8
+		}
+	}
+	c_kazipet = {
+		3446.1.1 = {
+			holder = CKU_golconda_1
+			change_development_level = 8
+		}
+	}
+	c_mahbubabad = {
+		3446.1.1 = {
+			holder = CKU_golconda_1
+			change_development_level = 7
+		}
+	}
+	c_warangal = {
+		3446.1.1 = {
+			holder = CKU_golconda_1
+			change_development_level = 8
+		}
+	}
+	c_parkal = {
+		3446.1.1 = {
+			holder = CKU_golconda_1
+			change_development_level = 6
+		}
+	}
+#nalgonda
+	d_nalgonda = {
+		3446.1.1 = {
+			holder = CKU_telingana_1
+			liege = k_ahmednagar
+		}
+	}
+	c_nalgonda = {
+		3446.1.1 = {
+			holder = CKU_telingana_1
+			change_development_level = 11
+		}
+	}
+	c_devaraconda = {
+		3446.1.1 = {
+			holder = CKU_telingana_1
+			change_development_level = 10
+		}
+	}
+	c_khammam = {
+		3446.1.1 = {
+			holder = CKU_telingana_1
+			change_development_level = 8
+		}
+	}
+	c_yellandu = {
+		3446.1.1 = {
+			holder = CKU_telingana_1
+			change_development_level = 7
+		}
+	}
+	c_kottagudam = {
+		3446.1.1 = {
+			holder = CKU_telingana_1
+			change_development_level = 8
+		}
+	}
+	c_north_godavari = {
+		3446.1.1 = {
+			holder = CKU_telingana_1
+			change_development_level = 8
+		}
+	}
+#karjat
+	c_junnar = {
+		3446.1.1 = {
+			holder = CKU_karjat_1
+			change_development_level = 7
+			liege = k_ahmednagar
+		}
+	}
+	c_sinnar = {
+		3446.1.1 = {
+			holder = CKU_karjat_1
+			change_development_level = 8
+		}
+	}
+	c_lonawla = {
+		3446.1.1 = {
+			holder = CKU_karjat_1
+			change_development_level = 5
+		}
+	}
+	c_croaskios = {
+		3446.1.1 = {
+			holder = CKU_karjat_1
+			change_development_level = 4
+		}
+	}
+	c_murud = {
+		3446.1.1 = {
+			holder = CKU_karjat_1
+			change_development_level = 5
+		}
+	}
+	c_shrivardhan = {
+		3446.1.1 = {
+			holder = CKU_karjat_1
+			change_development_level = 5
+		}
+	}

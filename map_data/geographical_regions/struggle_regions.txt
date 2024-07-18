@@ -1,0 +1,13 @@
+###STRUGGLE REGIONS###
+CKU_struggle_hindustan_region = {
+	duchies = {
+		#multan-punjab
+		d_khushab d_sukkur d_multan d_bahawalpur d_punjab d_lahore d_faisalabad d_islamabad d_sirhind d_dundhar
+
+		#gangeatic plain
+		d_delhi d_gangapur d_agra d_bareilly d_allahbad d_lucknow d_awadh d_jaunpur d_bihar d_patna d_nagaur
+
+		#bengal
+		d_gauda d_dacca d_clazhaliesmos
+	}
+}

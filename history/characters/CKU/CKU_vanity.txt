@@ -1,0 +1,61 @@
+﻿# Vanity = {
+	CKU_mod_char_01 = {
+		name = "Glenn"
+		dna = CKU_mod_char_01_dna
+		#dynasty_house = Unknown
+		religion = "catholic"
+		culture = north_low_saxon
+		trait = calm
+		trait = deceitful
+		trait = cynical
+		trait = education_diplomacy_3
+		trait = shrewd
+		trait = beauty_good_2
+		trait = military_engineer
+		trait = forest_fighter
+		3417.1.1 = {
+			birth = yes
+		}
+		3502.1.1 = {
+			death = yes
+		}
+	}
+	CKU_mod_char_02 = {
+		name = "Robert"
+		dna = CKU_mod_char_02_dna
+		#dynasty_house = Unknown
+		religion = "catholic"
+		culture = dutch
+		trait = content
+		trait = impatient
+		trait = compassionate
+		trait = education_learning_2
+		trait = melancholic
+		trait = giant
+		trait = intellect_good_2
+		trait = organizer
+		3419.1.1 = {
+			birth = yes
+		}
+		3502.1.1 = {
+			death = yes
+		}
+	}
+	CKU_mod_char_03 = {
+		name = "Atlas"
+		dna = CKU_mod_char_03_dna
+		#dynasty_house = Atlas
+		religion = "hussite"
+		culture = hungarian
+		trait = compassionate
+		trait = fickle
+		trait = lazy
+		trait = shrewd
+		3428.1.1 = {
+			birth = yes
+		}
+		3502.1.1 = {
+			death = yes
+		}
+	}
+# }

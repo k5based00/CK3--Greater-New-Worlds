@@ -1,0 +1,1488 @@
+empty = {
+	name = "Empty"
+	3401.1.1 = {
+		birth = "3401.1.1"
+	}
+	3502.1.1 = {
+		death = "3502.1.1"
+	}
+}
+wasteland1 = {
+	name = "Wasteland 1"
+	3401.1.1 = {
+		birth = "3401.1.1"
+	}
+	3502.1.1 = {
+		death = "3502.1.1"
+	}
+}
+wasteland2 = {
+	name = "Wasteland 2"
+	3401.1.2 = {
+		birth = "3401.1.2"
+	}
+	3502.1.2 = {
+		death = "3502.1.2"
+	}
+}
+wasteland3 = {
+	name = "Wasteland 3"
+	3401.1.3 = {
+		birth = "3401.1.3"
+	}
+	3502.1.3 = {
+		death = "3502.1.3"
+	}
+}
+wasteland4 = {
+	name = "Wasteland 4"
+	3401.1.4 = {
+		birth = "3401.1.4"
+	}
+	3502.1.4 = {
+		death = "3502.1.4"
+	}
+}
+wasteland5 = {
+	name = "Wasteland 5"
+	3401.1.5 = {
+		birth = "3401.1.5"
+	}
+	3502.1.5 = {
+		death = "3502.1.5"
+	}
+}
+wasteland6 = {
+	name = "Wasteland 6"
+	3401.1.6 = {
+		birth = "3401.1.6"
+	}
+	3502.1.6 = {
+		death = "3502.1.6"
+	}
+}
+wasteland7 = {
+	name = "Wasteland 7"
+	3401.1.7 = {
+		birth = "3401.1.7"
+	}
+	3502.1.7 = {
+		death = "3502.1.7"
+	}
+}
+wasteland8 = {
+	name = "Wasteland 8"
+	3401.1.8 = {
+		birth = "3401.1.8"
+	}
+	3502.1.8 = {
+		death = "3502.1.8"
+	}
+}
+1 = {
+	name = "Mr Toad"
+	dynasty = 1.0
+	martial = 10
+	diplomacy = 12
+	intrigue = 13
+	stewardship = 14
+	learning = 15
+	prowess = 11
+	3401.1.9 = {
+		birth = "3401.1.9"
+	}
+	3502.1.9 = {
+		death = "3502.1.9"
+	}
+}
+eng = {
+	name = "Mr England"
+	dynasty = 2.0
+	martial = 1
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 5
+	learning = 6
+	prowess = 2
+	3401.1.10 = {
+		birth = "3401.1.10"
+	}
+	3502.1.10 = {
+		death = "3502.1.10"
+	}
+
+	3445.1.1 = {
+		set_primary_title_to = title:k_ireland
+	}
+}
+3 = {
+	name = "Mr Luigi"
+	dynasty = 3.0
+	martial = 1
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 5
+	learning = 6
+	prowess = 2
+	3401.1.11 = {
+		birth = "3401.1.11"
+	}
+	3502.1.11 = {
+		death = "3502.1.11"
+	}
+}
+4 = {
+	name = "Mr Prussia"
+	dynasty = 4.0
+	martial = 1
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 5
+	learning = 6
+	prowess = 2
+	3401.1.12 = {
+		birth = "3401.1.12"
+	}
+	3502.1.12 = {
+		death = "3502.1.12"
+	}
+}
+fra = {
+	name = "Mr Frenchy"
+	dynasty = 5.0
+	martial = 1
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 5
+	learning = 6
+	prowess = 2
+	3401.1.13 = {
+		birth = "3401.1.13"
+	}
+	3502.1.13 = {
+		death = "3502.1.13"
+	}
+}
+CKU_quinones_1370_d = {
+	name = "Diego"
+	dynasty = 7020
+	religion = catholic
+	culture = castilian
+	3372.1.1 = {
+		birth = "3372.1.1"
+	}
+	3447.12.31 = {
+		death = "3447.12.31"
+	}
+}
+CKU_navarrete_1395_j = {
+	name = "Juan"
+	dynasty = dynn_navarrete
+	religion = catholic
+	culture = castilian
+	3392.1.1 = {
+		birth = "3392.1.1"
+	}
+	3457.12.31 = {
+		death = "3457.12.31"
+	}
+}
+CKU_quesada_1410_m = {
+	name = "Mar�a"
+	dynasty_house = house_quesada
+	religion = catholic
+	culture = castilian
+	female = yes
+	3412.1.1 = {
+		birth = "3412.1.1"
+	}
+	3477.12.31 = {
+		death = "3477.12.31"
+	}
+}
+CKU_ribera_1420_p = {
+	name = "Per Af�n"
+	dynasty = dynn_ribera
+	religion = catholic
+	culture = andalusi
+	3422.1.1 = {
+		birth = "3422.1.1"
+	}
+	3456.12.31 = {
+		death = "3456.12.31"
+	}
+}
+CKU_sandoval_1385_d = {
+	name = "Diego"
+	dynasty = dynn_sandoval
+	religion = catholic
+	culture = castilian
+	3387.1.1 = {
+		birth = "3387.1.1"
+	}
+	3457.12.31 = {
+		death = "3457.12.31"
+	}
+}
+CKU_sarmiento_1407_d = {
+	name = "Diego"
+	dynasty = dynn_sarmiento
+	religion = catholic
+	culture = galician
+	3409.1.1 = {
+		birth = "3409.1.1"
+	}
+	3468.3.9 = {
+		death = "3468.3.9"
+	}
+}
+CKU_manrique_1409_d = {
+	name = "Diego"
+	dynasty_house = house_manrique_lara
+	religion = catholic
+	culture = castilian
+	3411.1.1 = {
+		birth = "3411.1.1"
+	}
+	3460.12.31 = {
+		death = "3460.12.31"
+	}
+}
+CKU_villandrado_1378_d = {
+	name = "Rodrigo"
+	dynasty = dynn_villandrado
+	religion = catholic
+	culture = castilian
+	3380.1.1 = {
+		birth = "3380.1.1"
+	}
+	3450.12.31 = {
+		death = "3450.12.31"
+	}
+}
+CKU_stuniga_1396_d = {
+	name = "Diego"
+	dynasty = dynn_stuniga
+	religion = catholic
+	culture = castilian
+	3398.1.1 = {
+		birth = "3398.1.1"
+	}
+	3460.12.31 = {
+		death = "3460.12.31"
+	}
+}
+CKU_osorio_1412_p = {
+	name = "Pedro"
+	dynasty = 8620
+	religion = catholic
+	culture = asturleonese
+	3414.1.1 = {
+		birth = "3414.1.1"
+	}
+	3484.12.31 = {
+		death = "3484.12.31"
+	}
+}
+CKU_luna_1415_p = {
+	name = "Pedro"
+	dynasty = 7033
+	religion = catholic
+	culture = castilian
+	3417.1.1 = {
+		birth = "3417.1.1"
+	}
+	3496.12.31 = {
+		death = "3496.12.31"
+	}
+}
+CKU_osorio_1392_p = {
+	name = "Pedro"
+	dynasty = 8620
+	religion = catholic
+	culture = asturleonese
+	3394.1.1 = {
+		birth = "3394.1.1"
+	}
+	3463.12.31 = {
+		death = "3463.12.31"
+	}
+}
+CKU_andrade_1405_f = {
+	name = "Fern�n"
+	dynasty = dynn_andrade
+	religion = catholic
+	culture = galician
+	3407.1.1 = {
+		birth = "3407.1.1"
+	}
+	3472.12.31 = {
+		death = "3472.12.31"
+	}
+}
+CKU_loyola_1413_j = {
+	name = "Juan"
+	dynasty_house = house_loyola
+	religion = catholic
+	culture = basque
+	3415.1.1 = {
+		birth = "3415.1.1"
+	}
+	3485.12.31 = {
+		death = "3485.12.31"
+	}
+}
+CKU_legizamon_1399_l = {
+	name = "Luis"
+	dynasty = dynn_legizamon
+	religion = catholic
+	culture = basque
+	3401.1.1 = {
+		birth = "3401.1.1"
+	}
+	3471.12.31 = {
+		death = "3471.12.31"
+	}
+}
+CKU_unzueta_1403_l = {
+	name = "Lope"
+	dynasty = dynn_unzueta
+	religion = catholic
+	culture = basque
+	3405.1.1 = {
+		birth = "3405.1.1"
+	}
+	3475.12.31 = {
+		death = "3475.12.31"
+	}
+}
+CKU_gamboa_1398_m = {
+	name = "Mart�n"
+	dynasty_house = house_gamboa
+	religion = catholic
+	culture = basque
+	3400.1.1 = {
+		birth = "3400.1.1"
+	}
+	3460.12.31 = {
+		death = "3460.12.31"
+	}
+}
+CKU_banez_1404_m = {
+	name = "Mart�n"
+	dynasty_house = house_banez
+	religion = catholic
+	culture = basque
+	3406.1.1 = {
+		birth = "3406.1.1"
+	}
+	3470.12.31 = {
+		death = "3470.12.31"
+	}
+}
+CKU_guevara_1390_p = {
+	name = "Pedro"
+	dynasty = dynn_guevara
+	religion = catholic
+	culture = basque
+	3392.1.1 = {
+		birth = "3392.1.1"
+	}
+	3462.12.31 = {
+		death = "3462.12.31"
+	}
+}
+CKU_maturana_1408_a = {
+	name = "Angev�n"
+	dynasty = dynn_maturana
+	religion = catholic
+	culture = basque
+	3394.1.1 = {
+		birth = "3394.1.1"
+	}
+	3464.12.31 = {
+		death = "3464.12.31"
+	}
+}
+CKU_butron_1418_g = {
+	name = "Gome"
+	dynasty_house = house_butron
+	religion = catholic
+	culture = basque
+	3420.1.1 = {
+		birth = "3420.1.1"
+	}
+	3450.6.23 = {
+		death = "3450.6.23"
+	}
+}
+CKU_ayala_1406_p = {
+	name = "Pedro"
+	dynasty = dynn_ayala
+	religion = catholic
+	culture = basque
+	3408.1.1 = {
+		birth = "3408.1.1"
+	}
+	3478.12.31 = {
+		death = "3478.12.31"
+	}
+}
+CKU_mendoza_1398_i = {
+	name = "��igo"
+	dynasty = dynn_mendoza
+	religion = catholic
+	culture = castilian
+	3400.8.19 = {
+		birth = "3400.8.19"
+	}
+	3460.3.25 = {
+		death = "3460.3.25"
+	}
+}
+CKU_manrique_1398_j = {
+	name = "Juan"
+	dynasty_house = house_manrique _lara
+	religion = catholic
+	culture = castilian
+	3400.1.1 = {
+		birth = "3400.1.1"
+	}
+	3495.1.1 = {
+		death = "3495.1.1"
+	}
+}
+CKU_velasco_1399_p = {
+	name = "Pedro"
+	dynasty = dynn_velasco
+	religion = catholic
+	culture = castilian
+	3401.1.1 = {
+		birth = "3401.1.1"
+	}
+	3472.2.25 = {
+		death = "3472.2.25"
+	}
+}
+CKU_bazan_1421_p = {
+	name = "Pedro"
+	dynasty = dynn_bazan
+	religion = catholic
+	culture = castilian
+	3423.1.1 = {
+		birth = "3423.1.1"
+	}
+	3493.12.31 = {
+		death = "3493.12.31"
+	}
+}
+CKU_losada_1420_a = {
+	name = "�lvaro"
+	dynasty_house = house_losada
+	religion = catholic
+	culture = asturleonese
+	3422.1.1 = {
+		birth = "3422.1.1"
+	}
+	3493.12.31 = {
+		death = "3493.12.31"
+	}
+}
+CKU_pimentel_1410_a = {
+	name = "Alonso"
+	dynasty = dynn_pimentel
+	religion = catholic
+	culture = castilian
+	3412.1.1 = {
+		birth = "3412.1.1"
+	}
+	3463.12.31 = {
+		death = "3463.12.31"
+	}
+}
+CKU_giron_1422_p = {
+	name = "Pedro"
+	dynasty = 7025
+	religion = catholic
+	culture = castilian
+	3424.1.1 = {
+		birth = "3424.1.1"
+	}
+	3468.12.31 = {
+		death = "3468.12.31"
+	}
+}
+CKU_rojas_1390_j = {
+	name = "Juan"
+	dynasty = 12150
+	religion = catholic
+	culture = castilian
+	3392.1.1 = {
+		birth = "3392.1.1"
+	}
+	3452.1.1 = {
+		death = "3452.1.1"
+	}
+}
+CKU_rendon_1391_a = {
+	name = "Ant�n"
+	dynasty_house = house_rendon
+	religion = catholic
+	culture = castilian
+	3393.1.1 = {
+		birth = "3393.1.1"
+	}
+	3462.12.31 = {
+		death = "3462.12.31"
+	}
+}
+CKU_mendoza_1390_j = {
+	name = "Juan"
+	dynasty = dynn_mendoza
+	religion = catholic
+	culture = castilian
+	3392.1.1 = {
+		birth = "3392.1.1"
+	}
+	3457.12.31 = {
+		death = "3457.12.31"
+	}
+}
+CKU_la_cerda_1382_l = {
+	name = "Luis"
+	dynasty = 77
+	religion = catholic
+	culture = castilian
+	3384.1.1 = {
+		birth = "3384.1.1"
+	}
+	3449.8.3 = {
+		death = "3449.8.3"
+	}
+}
+CKU_luna_1390_a = {
+	name = "�lvaro 
+"
+	dynasty = 7033
+	religion = catholic
+	culture = castilian
+	3392.1.1 = {
+		birth = "3392.1.1"
+	}
+	3455.6.2 = {
+		death = "3455.6.2"
+	}
+}
+CKU_stuniga_1410_a = {
+	name = "�lvaro"
+	dynasty = dynn_stuniga
+	religion = catholic
+	culture = castilian
+	3412.1.1 = {
+		birth = "3412.1.1"
+	}
+	3490.12.31 = {
+		death = "3490.12.31"
+	}
+}
+CKU_toledo_1390_f = {
+	name = "Fernando"
+	dynasty_house = house_alvz_toledo
+	religion = catholic
+	culture = castilian
+	3392.1.1 = {
+		birth = "3392.1.1"
+	}
+	3462.12.31 = {
+		death = "3462.12.31"
+	}
+}
+CKU_stuniga_1383_p = {
+	name = "Pedro"
+	dynasty = dynn_stuniga
+	religion = catholic
+	culture = castilian
+	3385.1.1 = {
+		birth = "3385.1.1"
+	}
+	3455.12.31 = {
+		death = "3455.12.31"
+	}
+}
+CKU_toledo_1402_f = {
+	name = "Fernando"
+	dynasty_house = house_alvz_toledo
+	religion = catholic
+	culture = castilian
+	3404.1.1 = {
+		birth = "3404.1.1"
+	}
+	3464.12.31 = {
+		death = "3464.12.31"
+	}
+}
+CKU_manrique_1385_e = {
+	name = "Elvira"
+	dynasty_house = house_manrique_lara
+	religion = catholic
+	culture = castilian
+	female = yes
+	3387.1.1 = {
+		birth = "3387.1.1"
+	}
+	3466.12.31 = {
+		death = "3466.12.31"
+	}
+}
+CKU_sotomayor_1400_g = {
+	name = "Gutierre"
+	dynasty = dynn_sotomayor
+	religion = catholic
+	culture = castilian
+	3402.1.1 = {
+		birth = "3402.1.1"
+	}
+	3455.10.12 = {
+		death = "3455.10.12"
+	}
+}
+CKU_figueroa_1411_l = {
+	name = "Lorenzo"
+	dynasty_house = house_srez_figueroa
+	religion = catholic
+	culture = castilian
+	3413.1.1 = {
+		birth = "3413.1.1"
+	}
+	3463.12.31 = {
+		death = "3463.12.31"
+	}
+}
+CKU_pacheco_1419_j = {
+	name = "Juan"
+	dynasty = 7035
+	religion = catholic
+	culture = castilian
+	3421.1.1 = {
+		birth = "3421.1.1"
+	}
+	3476.10.4 = {
+		death = "3476.10.4"
+	}
+}
+CKU_guzman_1410_j = {
+	name = "Juan"
+	dynasty = 7010
+	religion = catholic
+	culture = andalusi
+	3412.1.1 = {
+		birth = "3412.1.1"
+	}
+	3470.12.31 = {
+		death = "3470.12.31"
+	}
+}
+CKU_ponce_1370_p = {
+	name = "Pedro"
+	dynasty = 7003
+	religion = catholic
+	culture = andalusi
+	3372.1.1 = {
+		birth = "3372.1.1"
+	}
+	3447.1.15 = {
+		death = "3447.1.15"
+	}
+}
+CKU_portocarrero_1420_m = {
+	name = "Mar�a"
+	dynasty = dynn_portocarrero
+	religion = catholic
+	culture = andalusi
+	female = yes
+	3422.1.1 = {
+		birth = "3422.1.1"
+	}
+	3472.12.31 = {
+		death = "3472.12.31"
+	}
+}
+CKU_guzman_1385_i = {
+	name = "Isabel Elvira"
+	dynasty = 7010
+	religion = catholic
+	culture = andalusi
+	female = yes
+	3387.1.1 = {
+		birth = "3387.1.1"
+	}
+	3452.12.31 = {
+		death = "3452.12.31"
+	}
+}
+CKU_cordoba_1410_d = {
+	name = "Diego"
+	dynasty_house = house_fdez_cordoba
+	religion = catholic
+	culture = andalusi
+	3412.1.1 = {
+		birth = "3412.1.1"
+	}
+	3483.8.16 = {
+		death = "3483.8.16"
+	}
+}
+CKU_sotomayor_1400_l = {
+	name = "Luis"
+	dynasty = dynn_sotomayor
+	religion = catholic
+	culture = andalusi
+	3402.1.1 = {
+		birth = "3402.1.1"
+	}
+	3488.12.31 = {
+		death = "3488.12.31"
+	}
+}
+CKU_carrillo_1404_j = {
+	name = "Juan"
+	dynasty = dynn_carrillo
+	religion = catholic
+	culture = castilian
+	3406.1.1 = {
+		birth = "3406.1.1"
+	}
+	3466.12.31 = {
+		death = "3466.12.31"
+	}
+}
+CKU_quiroga_1395_g = {
+	name = "Gonzalo"
+	dynasty = 13190
+	religion = catholic
+	culture = galician
+	3397.1.1 = {
+		birth = "3397.1.1"
+	}
+	3458.12.31 = {
+		death = "3458.12.31"
+	}
+}
+CKU_ursua_1414_j = {
+	name = "Juan"
+	dynasty = dynn_ursua
+	religion = catholic
+	culture = basque
+	3416.1.1 = {
+		birth = "3416.1.1"
+	}
+	3476.12.31 = {
+		death = "3476.12.31"
+	}
+}
+CKU_beaumont_1412_l = {
+	name = "Luis"
+	dynasty_house = house_beaumont
+	religion = catholic
+	culture = basque
+	3414.1.1 = {
+		birth = "3414.1.1"
+	}
+	3464.5.28 = {
+		death = "3464.5.28"
+	}
+}
+CKU_baquedano_1380 = {
+	name = "Diego"
+	dynasty = dynn_baquedano
+	religion = catholic
+	culture = basque
+	3382.1.1 = {
+		birth = "3382.1.1"
+	}
+	3449.12.31 = {
+		death = "3449.12.31"
+	}
+}
+CKU_ezpeleta_1405_j = {
+	name = "Juan"
+	dynasty = dynn_ezpeleta
+	religion = catholic
+	culture = basque
+	3407.1.1 = {
+		birth = "3407.1.1"
+	}
+	3473.12.31 = {
+		death = "3473.12.31"
+	}
+}
+CKU_peralta_1422_m = {
+	name = "Mart�n"
+	dynasty = 101911
+	religion = catholic
+	culture = basque
+	3424.1.1 = {
+		birth = "3424.1.1"
+	}
+	3493.12.31 = {
+		death = "3493.12.31"
+	}
+}
+CKU_agramont_1404_g = {
+	name = "Graci�n"
+	dynasty = dynn_agramont
+	religion = catholic
+	culture = basque
+	3406.1.1 = {
+		birth = "3406.1.1"
+	}
+	3471.12.31 = {
+		death = "3471.12.31"
+	}
+}
+CKU_hijar_1419_j = {
+	name = "Juan"
+	dynasty = 8773
+	religion = catholic
+	culture = aragonese
+	3421.1.1 = {
+		birth = "3421.1.1"
+	}
+	3493.11.27 = {
+		death = "3493.11.27"
+	}
+}
+CKU_cabrera_1400_b = {
+	name = "Bernardo"
+	dynasty = 101701
+	religion = catholic
+	culture = catalan
+	3402.1.1 = {
+		birth = "3402.1.1"
+	}
+	3468.5.14 = {
+		death = "3468.5.14"
+	}
+}
+CKU_mataplana_1401_a = {
+	name = "Arnau Roger "
+	dynasty = 10027
+	religion = catholic
+	culture = catalan
+	3403.1.1 = {
+		birth = "3403.1.1"
+	}
+	3453.12.31 = {
+		death = "3453.12.31"
+	}
+}
+CKU_montcada_1370_g = {
+	name = "Guillem Ramon"
+	dynasty = 10026
+	religion = catholic
+	culture = catalan
+	3372.1.1 = {
+		birth = "3372.1.1"
+	}
+	3457.12.31 = {
+		death = "3457.12.31"
+	}
+}
+CKU_cardona_1400_j = {
+	name = "Joan Ramon"
+	dynasty = 10029
+	religion = catholic
+	culture = catalan
+	3402.1.1 = {
+		birth = "3402.1.1"
+	}
+	3472.12.31 = {
+		death = "3472.12.31"
+	}
+}
+CKU_rocamora_1398_j = {
+	name = "Jaume"
+	dynasty = dynn_rocamora
+	religion = catholic
+	culture = valencian
+	3400.1.1 = {
+		birth = "3400.1.1"
+	}
+	3470.12.31 = {
+		death = "3470.12.31"
+	}
+}
+CKU_borja_1390_i = {
+	name = "Isabel"
+	dynasty_house = house_borja
+	religion = catholic
+	culture = valencian
+	3392.1.1 = {
+		birth = "3392.1.1"
+	}
+	3470.12.31 = {
+		death = "3470.12.31"
+	}
+}
+CKU_avis_1432_a = {
+	name = "Afonso"
+	dynasty_house = house_avis
+	religion = catholic
+	culture = portuguese
+	3434.1.15 = {
+		birth = "3434.1.15"
+	}
+	3483.8.28 = {
+		death = "3483.8.28"
+	}
+}
+CKU_almeida_1416_l = {
+	name = "Lopo"
+	dynasty = dynn_almeida
+	religion = catholic
+	culture = portuguese
+	3418.1.1 = {
+		birth = "3418.1.1"
+	}
+	3488.9.16 = {
+		death = "3488.9.16"
+	}
+}
+CKU_andrade_1415_j = {
+	name = "Jo�o Freire"
+	dynasty = dynn_andrade
+	religion = catholic
+	culture = portuguese
+	3417.1.1 = {
+		birth = "3417.1.1"
+	}
+	3487.12.31 = {
+		death = "3487.12.31"
+	}
+}
+CKU_avis_1392_p = {
+	name = "Pedro"
+	dynasty_house = house_avis
+	religion = catholic
+	culture = portuguese
+	3394.12.9 = {
+		birth = "3394.12.9"
+	}
+	3451.5.20 = {
+		death = "3451.5.20"
+	}
+}
+CKU_avis_1429_p = {
+	name = "Pedro"
+	dynasty_house = house_avis
+	religion = catholic
+	culture = portuguese
+	father = CKU_avis_1392_p
+	3431.1.1 = {
+		birth = "3431.1.1"
+	}
+	3468.6.29 = {
+		death = "3468.6.29"
+	}
+}
+CKU_avis_1394_h = {
+	name = "Henrique"
+	dynasty_house = house_avis
+	religion = catholic
+	culture = portuguese
+	3396.3.4 = {
+		birth = "3396.3.4"
+	}
+	3462.11.13 = {
+		death = "3462.11.13"
+	}
+}
+CKU_braganca_1377_a = {
+	name = "Afonso"
+	dynasty = 272
+	religion = catholic
+	culture = portuguese
+	3379.8.10 = {
+		birth = "3379.8.10"
+	}
+	3463.12.15 = {
+		death = "3463.12.15"
+	}
+}
+CKU_braganca_1402_a = {
+	name = "Afonso"
+	dynasty = 272
+	religion = catholic
+	culture = portuguese
+	3404.1.1 = {
+		birth = "3404.1.1"
+	}
+	3462.8.9 = {
+		death = "3462.8.9"
+	}
+}
+CKU_castro_1420_a = {
+	name = "�lvaro"
+	dynasty = 279
+	religion = catholic
+	culture = portuguese
+	3422.1.1 = {
+		birth = "3422.1.1"
+	}
+	3473.8.24 = {
+		death = "3473.8.24"
+	}
+}
+CKU_coutinho_1385_v = {
+	name = "Vasco"
+	dynasty_house = house_coutinho
+	religion = catholic
+	culture = portuguese
+	3387.1.1 = {
+		birth = "3387.1.1"
+	}
+	3452.10.13 = {
+		death = "3452.10.13"
+	}
+}
+CKU_moura_1410_f = {
+	name = "Fern�o"
+	religion = catholic
+	culture = portuguese
+	3412.1.1 = {
+		birth = "3412.1.1"
+	}
+	3470.31.12 = {
+		death = "3470.31.12"
+	}
+}
+CKU_meneses_1400_b = {
+	name = "Brites"
+	dynasty = 400
+	religion = catholic
+	culture = portuguese
+	female = yes
+	3402.1.1 = {
+		birth = "3402.1.1"
+	}
+	3462.12.31 = {
+		death = "3462.12.31"
+	}
+}
+CKU_picanco_1415_m = {
+	name = "Martim Afonso"
+	dynasty = dynn_picanco
+	religion = catholic
+	culture = portuguese
+	3417.1.1 = {
+		birth = "3417.1.1"
+	}
+	3487.12.31 = {
+		death = "3487.12.31"
+	}
+}
+CKU_bahamonde_1394_g = {
+	name = "Garc�a"
+	dynasty = dynn_bahamonde
+	religion = catholic
+	culture = castilian
+	3396.1.1 = {
+		birth = "3396.1.1"
+	}
+	3472.12.31 = {
+		death = "3472.12.31"
+	}
+}
+CKU_pimentel_1388_l = {
+	name = "Luis "
+	dynasty = dynn_pimentel
+	religion = catholic
+	culture = castilian
+	3390.1.1 = {
+		birth = "3390.1.1"
+	}
+	3469.12.31 = {
+		death = "3469.12.31"
+	}
+}
+CKU_mendoza_1363_l = {
+	name = "Lope"
+	dynasty = dynn_mendoza
+	religion = catholic
+	culture = andalusi
+	3365.1.1 = {
+		birth = "3365.1.1"
+	}
+	3447.2.3 = {
+		death = "3447.2.3"
+	}
+}
+CKU_torquemada_1388_j = {
+	name = "Juan"
+	dynasty = dynn_torquemada
+	religion = catholic
+	culture = castilian
+	3390.1.1 = {
+		birth = "3390.1.1"
+	}
+	3470.9.26 = {
+		death = "3470.9.26"
+	}
+}
+CKU_manrique_1410_i = {
+	name = "I�igo"
+	dynasty_house = house_manrique_lara
+	religion = catholic
+	culture = andalusi
+	3412.1.1 = {
+		birth = "3412.1.1"
+	}
+	3487.12.31 = {
+		death = "3487.12.31"
+	}
+}
+CKU_mella_1397_i = {
+	name = "Juan"
+	dynasty = dynn_mella
+	religion = catholic
+	culture = castilian
+	3399.1.1 = {
+		birth = "3399.1.1"
+	}
+	3469.10.13 = {
+		death = "3469.10.13"
+	}
+}
+CKU_moya_1393_r = {
+	name = "Roberto"
+	dynasty_house = house_moya
+	religion = catholic
+	culture = castilian
+	3395.1.1 = {
+		birth = "3395.1.1"
+	}
+	3455.12.31 = {
+		death = "3455.12.31"
+	}
+}
+CKU_cervantes_1382_j = {
+	name = "Juan"
+	dynasty = dynn_cervantes
+	religion = catholic
+	culture = andalusi
+	3384.1.1 = {
+		birth = "3384.1.1"
+	}
+	3455.10.12 = {
+		death = "3455.10.12"
+	}
+}
+CKU_santodomingo_1385_j = {
+	name = "Juan"
+	religion = catholic
+	culture = castilian
+	3457.1.1 = {
+		birth = "3457.1.1"
+	}
+	3387.12.31 = {
+		death = "3387.12.31"
+	}
+}
+CKU_santamaria_1384_a = {
+	name = "Alfonso"
+	dynasty = dynn_santamaria
+	religion = catholic
+	culture = castilian
+	3386.7.6 = {
+		birth = "3386.7.6"
+	}
+	3458.7.12 = {
+		death = "3458.7.12"
+	}
+}
+CKU_velasco_1380_s = {
+	name = "Sancho"
+	dynasty = dynn_velasco
+	religion = catholic
+	culture = castilian
+	3382.1.1 = {
+		birth = "3382.1.1"
+	}
+	3448.12.31 = {
+		death = "3448.12.31"
+	}
+}
+CKU_pontibus_1385_j = {
+	name = "Juan"
+	religion = catholic
+	culture = asturleonese
+	3387.1.1 = {
+		birth = "3387.1.1"
+	}
+	3449.12.31 = {
+		death = "3449.12.31"
+	}
+}
+CKU_toledo_1374_g = {
+	name = "Gutierre"
+	dynasty_house = house_alvz_toledo
+	religion = catholic
+	culture = castilian
+	3376.1.1 = {
+		birth = "3376.1.1"
+	}
+	3448.3.4 = {
+		death = "3448.3.4"
+	}
+}
+CKU_isorna_1370_a = {
+	name = "�lvaro"
+	dynasty = dynn_isorna
+	religion = catholic
+	culture = galician
+	3372.1.1 = {
+		birth = "3372.1.1"
+	}
+	3450.2.9 = {
+		death = "3450.2.9"
+	}
+}
+CKU_comontes_1388_d = {
+	name = "Diego"
+	dynasty = dynn_comontes
+	religion = catholic
+	culture = asturleonese
+	3390.1.1 = {
+		birth = "3390.1.1"
+	}
+	3464.3.6 = {
+		death = "3464.3.6"
+	}
+}
+CKU_osorio_1378_g = {
+	name = "Garc�a"
+	dynasty = 8620
+	religion = catholic
+	culture = asturleonese
+	3380.1.1 = {
+		birth = "3380.1.1"
+	}
+	3450.12.31 = {
+		death = "3450.12.31"
+	}
+}
+CKU_venegas_1402_g = {
+	name = "Gonzalo"
+	dynasty = 12148
+	religion = catholic
+	culture = andalusi
+	3404.1.1 = {
+		birth = "3404.1.1"
+	}
+	3474.12.31 = {
+		death = "3474.12.31"
+	}
+}
+CKU_rojas_1384_s = {
+	name = "Sancho"
+	dynasty = 12150
+	religion = catholic
+	culture = andalusi
+	3386.1.1 = {
+		birth = "3386.1.1"
+	}
+	3456.6.15 = {
+		death = "3456.6.15"
+	}
+}
+CKU_stuniga_1390_g = {
+	name = "Gonzalo"
+	dynasty = dynn_stuniga
+	religion = catholic
+	culture = castilian
+	3392.1.1 = {
+		birth = "3392.1.1"
+	}
+	3459.3.24 = {
+		death = "3459.3.24"
+	}
+}
+
+CKU_figueroa_1384_l = {
+	name = "Lorenzo"
+	dynasty_house = house_srez_figueroa
+	religion = catholic
+	culture = catholic
+	3386.1.1 = {
+		birth = "3386.1.1"
+	}
+	3463.12.31 = {
+		death = "3463.12.31"
+	}
+}
+CKU_siscar_1387_g = {
+	name = "Guillermo"
+	dynasty = dynn_siscar
+	religion = catholic
+	culture = aragonese
+	3389.1.1 = {
+		birth = "3389.1.1"
+	}
+	3464.12.31 = {
+		death = "3464.12.31"
+	}
+}
+CKU_mur_1386_d = {
+	name = "Dalmau"
+	dynasty = dynn_mur
+	religion = catholic
+	culture = catalan
+	3388.1.1 = {
+		birth = "3388.1.1"
+	}
+	3458.12.31 = {
+		death = "3458.12.31"
+	}
+}
+CKU_ram_1378_d = {
+	name = "Domingo"
+	dynasty = dynn_ram
+	religion = catholic
+	culture = aragonese
+	3380.1.1 = {
+		birth = "3380.1.1"
+	}
+	3447.4.25 = {
+		death = "3447.4.25"
+	}
+}
+CKU_ornos_1380_j = {
+	name = "Jordi"
+	dynasty = dynn_ornos
+	religion = catholic
+	culture = catalan
+	3382.1.1 = {
+		birth = "3382.1.1"
+	}
+	3454.12.31 = {
+		death = "3454.12.31"
+	}
+}
+CKU_montcada_1390_o = {
+	name = "Ot"
+	dynasty = 10026
+	religion = catholic
+	culture = catalan
+	3392.1.1 = {
+		birth = "3392.1.1"
+	}
+	3475.2.20 = {
+		death = "3475.2.20"
+	}
+}
+CKU_anon_1382_g = {
+	name = "Garc�a"
+	dynasty = dynn_anon
+	religion = catholic
+	culture = aragonese
+	3384.1.1 = {
+		birth = "3384.1.1"
+	}
+	3451.3.13 = {
+		death = "3451.3.13"
+	}
+}
+CKU_borja_1378_a = {
+	name = "Alfonso"
+	dynasty_house = house_borja
+	religion = catholic
+	culture = valencian
+	3380.12.31 = {
+		birth = "3380.12.31"
+	}
+	3460.8.6 = {
+		death = "3460.8.6"
+	}
+}
+CKU_aguiar_1376_e = {
+	name = "Estev�o"
+	dynasty = dynn_aguiar
+	religion = catholic
+	culture = portuguese
+	3378.1.1 = {
+		birth = "3378.1.1"
+	}
+	3448.12.31 = {
+		death = "3448.12.31"
+	}
+}
+CKU_vicente_1374_j = {
+	name = "Jo�o Vicente"
+	religion = catholic
+	culture = portuguese
+	3376.1.1 = {
+		birth = "3376.1.1"
+	}
+	3448.12.31 = {
+		death = "3448.12.31"
+	}
+}
+CKU_chaves_1384_a = {
+	name = "Ant�o"
+	dynasty = dynn_chaves
+	religion = catholic
+	culture = portuguese
+	3386.1.1 = {
+		birth = "3386.1.1"
+	}
+	3449.7.11 = {
+		death = "3449.7.11"
+	}
+}
+CKU_guerra_1396_l = {
+	name = "Lu�s"
+	dynasty_house = house_guerra
+	religion = catholic
+	culture = portuguese
+	3398.1.1 = {
+		birth = "3398.1.1"
+	}
+	3460.12.31 = {
+		death = "3460.12.31"
+	}
+}
+CKU_perdigao_1390_v = {
+	name = "Vasco"
+	dynasty = dynn_perdigao
+	religion = catholic
+	culture = portuguese
+	3392.1.1 = {
+		birth = "3392.1.1"
+	}
+	3465.12.31 = {
+		death = "3465.12.31"
+	}
+}
+CKU_diogo_1381_r = {
+	name = "Rodrigo Diogo"
+	religion = catholic
+	culture = portuguese
+	3383.1.1 = {
+		birth = "3383.1.1"
+	}
+	3452.12.31 = {
+		death = "3452.12.31"
+	}
+}
+CKU_nasr_1396_m = {
+	name = "Abu Abd-Allah Muhammad"
+	dynasty = dynn_nasr
+	religion = maliki
+	culture = andalusi
+	3398.1.1 = {
+		birth = "3398.1.1"
+	}
+	3456.12.31 = {
+		death = "3456.12.31"
+	}
+}

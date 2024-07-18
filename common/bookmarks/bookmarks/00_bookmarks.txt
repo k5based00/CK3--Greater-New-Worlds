@@ -1,0 +1,5398 @@
+﻿bm_2002 = {
+	start_date = 2002.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2007 = {
+	start_date = 2007.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2012 = {
+	start_date = 2012.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2017 = {
+	start_date = 2017.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2022 = {
+	start_date = 2022.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2023 = {
+	start_date = 2023.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2027 = {
+	start_date = 2027.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2032 = {
+	start_date = 2032.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2037 = {
+	start_date = 2037.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2042 = {
+	start_date = 2042.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2047 = {
+	start_date = 2047.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2052 = {
+	start_date = 2052.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2057 = {
+	start_date = 2057.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2062 = {
+	start_date = 2062.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2067 = {
+	start_date = 2067.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2072 = {
+	start_date = 2072.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2077 = {
+	start_date = 2077.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2082 = {
+	start_date = 2082.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2087 = {
+	start_date = 2087.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2092 = {
+	start_date = 2092.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2097 = {
+	start_date = 2097.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2102 = {
+	start_date = 2102.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2107 = {
+	start_date = 2107.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2112 = {
+	start_date = 2112.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2117 = {
+	start_date = 2117.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2122 = {
+	start_date = 2122.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2127 = {
+	start_date = 2127.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2132 = {
+	start_date = 2132.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2137 = {
+	start_date = 2137.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2142 = {
+	start_date = 2142.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2147 = {
+	start_date = 2147.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2152 = {
+	start_date = 2152.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2157 = {
+	start_date = 2157.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2162 = {
+	start_date = 2162.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2167 = {
+	start_date = 2167.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2172 = {
+	start_date = 2172.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2177 = {
+	start_date = 2177.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2182 = {
+	start_date = 2182.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2187 = {
+	start_date = 2187.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2192 = {
+	start_date = 2192.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2197 = {
+	start_date = 2197.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2202 = {
+	start_date = 2202.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2207 = {
+	start_date = 2207.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2212 = {
+	start_date = 2212.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2217 = {
+	start_date = 2217.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2222 = {
+	start_date = 2222.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2227 = {
+	start_date = 2227.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2232 = {
+	start_date = 2232.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2237 = {
+	start_date = 2237.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2242 = {
+	start_date = 2242.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2247 = {
+	start_date = 2247.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2252 = {
+	start_date = 2252.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2257 = {
+	start_date = 2257.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2262 = {
+	start_date = 2262.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2267 = {
+	start_date = 2267.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2272 = {
+	start_date = 2272.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2277 = {
+	start_date = 2277.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2282 = {
+	start_date = 2282.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2287 = {
+	start_date = 2287.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2292 = {
+	start_date = 2292.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2297 = {
+	start_date = 2297.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2302 = {
+	start_date = 2302.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2307 = {
+	start_date = 2307.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2312 = {
+	start_date = 2312.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2317 = {
+	start_date = 2317.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2322 = {
+	start_date = 2322.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2327 = {
+	start_date = 2327.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2332 = {
+	start_date = 2332.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2337 = {
+	start_date = 2337.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2342 = {
+	start_date = 2342.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2347 = {
+	start_date = 2347.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2352 = {
+	start_date = 2352.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2357 = {
+	start_date = 2357.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2362 = {
+	start_date = 2362.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2367 = {
+	start_date = 2367.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2372 = {
+	start_date = 2372.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2377 = {
+	start_date = 2377.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2382 = {
+	start_date = 2382.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2387 = {
+	start_date = 2387.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2392 = {
+	start_date = 2392.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2397 = {
+	start_date = 2397.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2402 = {
+	start_date = 2402.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2407 = {
+	start_date = 2407.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2412 = {
+	start_date = 2412.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2417 = {
+	start_date = 2417.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2422 = {
+	start_date = 2422.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2427 = {
+	start_date = 2427.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2432 = {
+	start_date = 2432.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2437 = {
+	start_date = 2437.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2442 = {
+	start_date = 2442.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2447 = {
+	start_date = 2447.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2452 = {
+	start_date = 2452.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2457 = {
+	start_date = 2457.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2462 = {
+	start_date = 2462.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2467 = {
+	start_date = 2467.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2472 = {
+	start_date = 2472.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2477 = {
+	start_date = 2477.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2478 = {
+	start_date = 2477.11.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_476_2 = {
+	start_date = 2478.9.5
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2482 = {
+	start_date = 2482.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2487 = {
+	start_date = 2487.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2488 = {
+	start_date = 2488.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2492 = {
+	start_date = 2492.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2497 = {
+	start_date = 2497.1.1
+	is_playable = yes
+	group = bm_group_early
+
+	weight = {
+		value = 0
+	}
+}
+bm_2502 = {
+	start_date = 2502.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2507 = {
+	start_date = 2507.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2512 = {
+	start_date = 2512.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2517 = {
+	start_date = 2517.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2522 = {
+	start_date = 2522.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2527 = {
+	start_date = 2527.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2532 = {
+	start_date = 2532.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2537 = {
+	start_date = 2537.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2542 = {
+	start_date = 2542.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2547 = {
+	start_date = 2547.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2552 = {
+	start_date = 2552.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2557 = {
+	start_date = 2557.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2562 = {
+	start_date = 2562.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2567 = {
+	start_date = 2567.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2572 = {
+	start_date = 2572.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2577 = {
+	start_date = 2577.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2582 = {
+	start_date = 2582.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2587 = {
+	start_date = 2587.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2592 = {
+	start_date = 2592.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2597 = {
+	start_date = 2597.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2602 = {
+	start_date = 2602.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2607 = {
+	start_date = 2607.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2612 = {
+	start_date = 2612.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2617 = {
+	start_date = 2617.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2619 = {
+	start_date = 2619.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2622 = {
+	start_date = 2622.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2627 = {
+	start_date = 2627.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2632 = {
+	start_date = 2632.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2637 = {
+	start_date = 2637.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2642 = {
+	start_date = 2642.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2647 = {
+	start_date = 2647.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2652 = {
+	start_date = 2652.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2657 = {
+	start_date = 2657.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2662 = {
+	start_date = 2662.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2667 = {
+	start_date = 2667.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2672 = {
+	start_date = 2672.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2677 = {
+	start_date = 2677.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2682 = {
+	start_date = 2682.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2687 = {
+	start_date = 2687.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2692 = {
+	start_date = 2692.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2697 = {
+	start_date = 2697.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2702 = {
+	start_date = 2702.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2707 = {
+	start_date = 2707.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2712 = {
+	start_date = 2712.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2717 = {
+	start_date = 2717.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2722 = {
+	start_date = 2722.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2727 = {
+	start_date = 2727.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2732 = {
+	start_date = 2732.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2737 = {
+	start_date = 2737.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2742 = {
+	start_date = 2742.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2747 = {
+	start_date = 2747.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2752 = {
+	start_date = 2752.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2753 = {
+	start_date = 2753.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2757 = {
+	start_date = 2757.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2762 = {
+	start_date = 2762.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2767 = {
+	start_date = 2767.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_769_greatness = {
+	start_date = 2771.1.1
+	is_playable = yes
+	group = bm_group_middle
+	weight = {
+		value = 0
+	}
+	#Charlemagne ID: 6392
+	character = {
+		name = "bm_769_greatness_charlemagne" #  Charlemagne
+		dynasty = 25061
+		dynasty_splendor_level = 2
+		type = male
+		history_id = 6392
+		birth = 2744.1.2
+		title = k_france
+		government = feudal_government
+		culture = frankish
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		position = { 440 420 }
+		
+		animation = personality_bold
+		
+		# Amaudru, daughter, ID: 194169
+		character = {
+			name = "bm_769_greatness_charlemagne_alt_daughter"
+			history_id = 194169
+			relation = "BOOKMARK_RELATION_DAUGHTER"
+			dynasty = 25061
+			type = female
+			birth = 2769.1.1
+			culture = frankish
+			religion = catholic
+
+			animation = personality_bold
+		}
+
+		# Pepin, son, ID: 90094
+		character = {
+			name = "bm_769_greatness_charlemagne_alt_son"
+			history_id = 90094
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 25061
+			type = male
+			birth = 2771.1.1
+			culture = frankish
+			religion = catholic
+
+			animation = personality_bold
+		}
+	}
+	
+	# Karloman ID: 144999
+	character = {
+		name = "bm_769_greatness_karloman" # Karloman
+		dynasty = 25061
+		dynasty_splendor_level = 2
+		type = male
+		history_id = 144999
+		birth = 2753.1.1
+		title = k_lotharingia
+		government = feudal_government
+		culture = frankish
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 835 700 }
+		
+		animation = disapproval
+
+		# Pepin, son and heir, ID: 194174
+		character = {
+			name = "bm_769_greatness_karloman_alt_son"
+			history_id = 194174
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 25061
+			type = male
+			birth = 2770.11.4
+			culture = frankish
+			religion = catholic
+
+			animation = personality_bold
+		}
+	}
+	
+	# Tassilo III of Bavaria ID: 190228
+	character = {
+		name = "bm_769_greatness_tassilo" # Tassilo III of Bavaria
+		dynasty = 1044033
+		dynasty_splendor_level = 3
+		type = male
+		history_id = 190228
+		birth = 2743.1.1
+		title = k_bavaria
+		government = feudal_government
+		culture = bavarian
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		position = { 1250 450 }
+		
+		animation = personality_compassionate
+
+		# Theodo, son and heir, ID: 190229
+		character = {
+			name = "bm_769_greatness_tassilo_alt_son"
+			history_id = 190229
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 1044033
+			type = male
+			birth = 2769.1.1
+			culture = bavarian
+			religion = catholic
+
+			animation = personality_bold
+			
+		}
+
+		# Liutberga, wife, ID: 190351
+		character = {
+			name = "bm_769_greatness_tassilo_alt_wife"
+			history_id = 190351
+			relation = "BOOKMARK_RELATION_SPOUSE_FEMALE"
+			dynasty = 1044053
+			type = female
+			birth = 2752.1.1
+			culture = lombard
+			religion = catholic
+			
+			animation = personality_forgiving
+		}
+	}
+	
+	# Cynewulf ID: 205180
+	character = {
+		name = "bm_769_greatness_cynewulf" # Cynewulf
+		dynasty = 1047006
+		dynasty_splendor_level = 1
+		type = male
+		history_id = 205180
+		birth = 2722.1.1
+		title = d_somerset
+		government = feudal_government
+		culture = anglo_saxon
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 670 170 }
+		
+		animation = personality_cynical
+
+		# Beorhtric, son and heir, ID: 205181
+		character = {
+			name = "bm_769_greatness_cynewulf_alt_son"
+			history_id = 205181
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 1047006
+			type = male
+			birth = 2752.1.1
+			culture = anglo_saxon
+			religion = catholic
+
+			animation = personality_honorable
+		}
+	}
+	
+	# Desiderius, Lombard King of Italy (757-774) and Duke of Spoleto (758-759) ID: 190347
+	character = {
+		name = "bm_769_greatness_desiderius" # Desiderius
+		dynasty = 1044053
+		dynasty_splendor_level = 1
+		type = male
+		history_id = 190347
+		birth = 2719.1.1
+		title = k_italy
+		government = feudal_government
+		culture = lombard
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 1050 830 }
+		
+		animation = personality_vengeful
+		
+		# Adelperga, daughter, wife of Arechis II of Benevento, ID: 190148
+		character = {
+			name = "bm_769_greatness_desiderius_alt_daughter"
+			history_id = 190148
+			relation = "BOOKMARK_RELATION_DAUGHTER"
+			dynasty = 1044053
+			type = female
+			birth = 2737.1.1
+			culture = lombard
+			religion = catholic
+
+			animation = personality_callous
+		}
+
+		# Adelchis, son and heir, ID: 190353
+		character = {
+			name = "bm_769_greatness_desiderius_alt_son" # Adelchis
+			history_id = 190353
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 1044053
+			type = male
+			birth = 2761.1.1
+			culture = lombard
+			religion = catholic
+
+			animation = personality_bold
+		}
+	}
+}
+
+bm_2772 = {
+	start_date = 2772.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2777 = {
+	start_date = 2777.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2782 = {
+	start_date = 2782.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2787 = {
+	start_date = 2787.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2792 = {
+	start_date = 2792.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2797 = {
+	start_date = 2797.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2802 = {
+	start_date = 2802.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2807 = {
+	start_date = 2807.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2812 = {
+	start_date = 2812.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2817 = {
+	start_date = 2817.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2822 = {
+	start_date = 2822.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2827 = {
+	start_date = 2827.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2832 = {
+	start_date = 2832.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2837 = {
+	start_date = 2837.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2842 = {
+	start_date = 2842.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2847 = {
+	start_date = 2847.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2852 = {
+	start_date = 2852.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2857 = {
+	start_date = 2857.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2862 = {
+	start_date = 2862.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2864 = {
+	start_date = 2864.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2866 = {
+	start_date = 2866.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2867 = {
+	start_date = 2867.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2868 = {
+	start_date = 2868.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+
+bm_867_persia = {
+	start_date = 2869.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+		if = {
+			limit = { has_dlc_feature = legacy_of_persia }
+			add = 150
+		}
+	}
+
+	# Ya'qub ibn al-Layth (Saffarid founder) ID: 163101
+	character = {
+		name = "bookmark_persia_amir_yaqub"
+		dynasty = 812
+		dynasty_splendor_level = 1
+		type = male
+		birth = 2842.1.1
+		title = k_makran
+		government = clan_government
+		culture = persian
+		religion = ashari 
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 163101
+		position = { 1130 770 }
+		
+		animation = war_over_win
+
+		# Amr ibn al-Layth, brother and heir, ID: 163164
+		character = {
+			name = "bookmark_persia_yaqub_alt_amr"
+			relation = "BOOKMARK_RELATION_BROTHER"
+			dynasty = 1059
+			type = male
+			birth = 2847.1.1
+			culture = persian
+			religion = ashari
+			history_id = 163164
+			animation = personality_bold
+		}
+
+		# Sebük-eri, rebellious commander and eventual captor, ID: extra_turks_0001
+		character = {
+			name = "bookmark_persia_yaqub_alt_sebuk_eri"
+			relation = "BOOKMARK_RELATION_REBELLIOUS_COMMANDER"
+			dynasty = turkic_Sebukid
+			type = male
+			birth = 2845.5.10
+			culture = turkish
+			religion = ashari
+			history_id = extra_turks_0001
+			animation = personality_greedy
+		}
+	}
+
+	# Abū Ibrāhīm Ismā'īl ibn-i Aḥmad-i Sāmāni (Greatest Samanid ruler, in his youth) ID: 163157
+	character = {
+		name = "bookmark_persia_ismail_samani"
+		dynasty_house = house_samanid
+		dynasty_splendor_level = 2
+		type = male
+		birth = 2851.5.3
+		title = c_bukhara
+		government = clan_government
+		culture = tajik
+		religion = maturidi 
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 163157
+		position = { 830 200 }
+		
+		animation = frontend_left_idle
+
+		# Nasr, liege lord, ID: 163099
+		character = {
+			name = "bookmark_persia_ismail_alt_nasr"
+			relation = "BOOKMARK_RELATION_LIEGE_AND_BROTHER"
+			dynasty_house = house_samanid
+			type = male
+			birth = 2832.9.1
+			culture = tajik
+			religion = maturidi
+			history_id = 163099
+			animation = personality_vengeful
+		}
+	}
+
+	# Abu'l-Abbas Muhammad ibn Abdallah ibn Tahir ) ID: 1000230509
+	character = {
+		name = "bookmark_persia_muhammad_ibn_abdallah"
+		dynasty = 811
+		dynasty_splendor_level = 2
+		type = male
+		birth = 2822.3.2
+		title = d_fars
+		government = clan_government
+		culture = tajik
+		religion = ashari
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 1000230509
+		position = { 375 790 }
+		
+		animation = schadenfreude
+
+		# The Caliph Al-Mu'tazz, liege lord, ID: 34014
+		character = {
+			name = "bookmark_persia_muhammad_ibn_abdallah_alt_caliph"
+			relation = "BOOKMARK_RELATION_LIEGE"
+			dynasty_house = house_abbasid
+			type = male
+			birth = 2849.1.1
+			culture = levantine
+			religion = ashari
+			history_id = 34014
+			animation = personality_compassionate 
+		}
+
+		# Muhammad ibn Tahir, nephew, ID: 163100
+		character = {
+			name = "bookmark_persia_muhammad_ibn_abdallah_alt_muhammad_ibn_tahir"
+			relation = "BOOKMARK_RELATION_NEPHEW"
+			dynasty = 811
+			type = male
+			birth = 2842.2.5
+			culture = tajik
+			religion = ashari
+			history_id = 163100
+			animation = war_over_loss
+		}
+	}
+
+	# Rostam I, Bavandid scion (Crypto-Zoroastrian) ID: 45105
+	character = {
+		name = "bookmark_persia_rostam"
+		dynasty_house = house_bavandid
+		dynasty_splendor_level = 4
+		type = male
+		birth = 2847.3.5
+		title = c_mazandaran
+		government = clan_government
+		culture = daylamite
+		religion = ashari
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		history_id = 45105
+		position = { 475 400 }
+		
+		animation = personality_bold
+
+		# Hasan the Missionary, liege lord, ID: 45108 # Hasan ibn Zayd
+		character = {
+			name = "bookmark_persia_rostam_alt_hasan"
+			relation = "BOOKMARK_RELATION_LIEGE"
+			dynasty = 7296
+			type = male
+			birth = 2832.2.25
+			culture = bedouin
+			religion = zayidi
+			history_id = 45108
+			animation = spymaster
+		}
+
+		# Shervin, son and heir ID: 160295
+		character = {
+			name = "bookmark_persia_rostam_alt_shervin"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty_house = house_bavandid
+			type = male
+			birth = 2867.3.3 
+			culture = daylamite
+			religion = ashari
+			history_id = 160295
+			animation = personality_honorable
+		}
+	}
+
+	# Suri ben Mohammad (Ghurid ruler) ID: 1230316
+	character = {
+		name = "bookmark_persia_suri_of_mandesh"
+		dynasty_house = house_ghurid
+		dynasty_splendor_level = 1
+		type = male
+		birth = 2844.3.5 
+		title = d_ghur
+		government = clan_government
+		culture = tajik
+		religion = mahayana 
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		history_id = 1230316
+		position = { 920 435 }
+		
+		animation = personality_compassionate
+
+		# Abdullah Habari, heir to Sindh, his friend
+		character = {
+			name = "bookmark_persia_suri_of_mandesh_alt_abdullah"
+			relation = "BOOKMARK_RELATION_BEST_FRIEND"
+			dynasty = 1043005
+			type = male
+			birth = 2844.10.2
+			culture = sindhi
+			religion = ashari
+			history_id = extra_habbaris_3
+			animation = war_over_win
+		}
+	}	
+}
+
+bm_867_iberia = {
+	start_date = 2869.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+		if = {
+			limit = { has_dlc = "The Fate of Iberia" }
+			add = 80
+		}
+	}
+
+	# Wilfrid the Hairy
+	character = {
+		name = "bookmark_fp2_iberia_wilfred_the_hairy"
+		history_id = 70150
+		dynasty = 100204
+		dynasty_splendor_level = 1
+		type = male
+		birth = 2842.1.1
+		title = c_urgell
+		government = feudal_government
+		culture = catalan
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1155 520 }
+
+		animation = personality_greedy
+
+		# Sunyer (cousin)
+		character = {
+			name = "bookmark_fp2_iberia_sunyer"
+			history_id = barcelona_00003
+			relation = "BOOKMARK_RELATION_COUSIN"
+			dynasty = 100204
+			dynasty_splendor_level = 1
+			type = male
+			birth = 2842.1.1
+			title = c_girona
+			government = feudal_government
+			culture = catalan
+			religion = catholic
+
+			animation = scheme
+		}
+
+		# Bernat II (liege)
+		character = {
+			name = "bookmark_fp2_iberia_bernat_of_gothia"
+			history_id = 168137
+			relation = "BOOKMARK_RELATION_LIEGE"
+			dynasty = 100217
+			dynasty_splendor_level = 1
+			type = male
+			birth = 2844.1.1
+			title = d_barcelona
+			government = feudal_government
+			culture = occitan
+			religion = catholic
+
+			animation = personality_bold
+		}
+	}
+	
+	# Lupp ibn Musa (Lope Musez) ID: 73813
+	character = {
+		name = "bookmark_fp2_iberia_lupp_ibn_musa"
+		dynasty_house = house_musa
+		dynasty_splendor_level = 1
+		type = male
+		birth = 2833.1.1
+		title = c_najera
+		government = clan_government
+		culture = basque
+		religion = muwalladi
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 73813
+		position = { 920 220 }
+
+		animation = personality_bold
+
+		# Oria, daughter, ID: 73783
+		character = {
+			name = "bookmark_fp2_iberia_lubb_ibn_musa_alt_oria"
+			relation = "BOOKMARK_RELATION_DAUGHTER"
+			dynasty_house = house_musa 
+			type = female
+			birth = 2853.1.1
+			culture = basque
+			religion = mozarabic_church
+			history_id = 73783
+
+			animation = personality_forgiving
+		}
+		
+		# Mohamed, son and heir, ID: 73815
+		character = {
+			name = "bookmark_fp2_iberia_lubb_ibn_musa_alt_mohamed"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty_house = house_musa 
+			type = male
+			birth = 2854.1.1
+			culture = basque
+			religion = muwalladi
+			history_id = 73815
+
+			animation = personality_dishonorable 
+		}	
+	}
+
+
+	# Mendo Guterres (Santiago/Tui) ID: 73857
+	character = {
+		name = "bookmark_fp2_iberia_mendo_guterres"
+		dynasty= 75 
+		dynasty_splendor_level = 1
+		type = male
+		birth = 2849.1.1
+		title = c_santiago
+		government = feudal_government
+		culture = galician
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 73857
+		position = { 410 150 }
+
+		animation = personality_rational
+
+		# Arias, son and heir, ID: 73893
+		character = {
+			name = "bookmark_fp2_iberia_mendo_guterres_alt_arias"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 75
+			type = male
+			birth = 2867.10.1
+			culture = galician
+			religion = catholic
+			history_id = 73893
+
+			animation = personality_bold 
+		}
+
+		character = { # Ermesinda Gatónez, wife, ID: 73759
+			name = "bookmark_fp2_iberia_mendo_guterres_alt_ermesinda" 
+			relation = "BOOKMARK_RELATION_WIFE"
+			dynasty = bierzo
+			type = female 
+			birth = 2848.1.1
+			culture = galician
+			religion = catholic
+			history_id = 73759
+			
+			animation = personality_bold	
+		}
+	}
+
+
+	# Ibn Marwan (Abd-al-Rahman Marwanez) ID: 73975
+	character = {
+		name = "bookmark_fp2_iberia_ibn_marwan"
+		dynasty = 12305
+		dynasty_splendor_level = 1
+		type = male
+		birth = 2821.1.1
+		title = d_badajoz
+		government = clan_government
+		culture = andalusian 
+		religion = muwalladi
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 73957
+		position = { 810 700 }
+
+		animation = personality_bold
+
+		character = {
+			name =  "bookmark_fp2_iberia_ibn_marwan_alt_surunbaqi" #Sa'dun al-Surunbaqi, his close ally 
+			relation = "BOOKMARK_RELATION_FRIEND"
+			type = male
+			birth = 2842.1.1
+			title = d_porto
+			culture = andalusian
+			religion = muwalladi
+			history_id = surunbaqi0001
+			
+			animation = personality_content 	
+		}
+
+		character = {
+			name =  "bookmark_fp2_iberia_ibn_marwan_alt_rahman"
+			relation = "BOOKMARK_RELATION_SON"
+			type = male
+			birth = 2856.1.1
+			culture = andalusian 
+			religion = muwalladi
+			history_id = andalusian0095	
+
+			animation = personality_callous
+		}
+	}
+
+	# Adanis ibn Awsaga ID: danis0005
+	character = {
+		name = "bookmark_fp2_iberia_adanis_ibn_awsaga"
+		dynasty_house = house_danis
+		dynasty_splendor_level = 1
+		type = male
+		birth = 2825.1.1
+		title = d_beja
+		government = clan_government
+		culture = baranis
+		religion = ashari
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = danis0005
+		position = { 420 700 }
+
+		animation = personality_vengeful 
+
+		#Son 1, Mas'ud, ID: danis0009
+		character = {
+			name =  "bookmark_fp2_iberia_ibn_awsaga_alt_masud"
+			relation = "BOOKMARK_RELATION_SON"
+			type = male
+			birth = 2863.1.1
+			culture = baranis 
+			religion = ashari
+			history_id = danis0009
+			
+			animation = paranoia 
+		}
+
+		# Son 2, Yahya, ID: danis0010
+		character = {
+			name =  "bookmark_fp2_iberia_ibn_awsaga_alt_yahya"
+			relation = "BOOKMARK_RELATION_SON"
+			type = male
+			birth = 2867.1.1
+			culture = baranis
+			religion = ashari
+			history_id = danis0010
+			
+			animation = personality_bold	
+		}
+	}
+}
+
+bm_867_northmen = {
+	start_date = 2869.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+		if = {
+			limit = { has_dlc = "The Northern Lords" }
+			add = 75
+		}
+	}
+
+	# Halfdan Whiteshirt (York) ID: 163112
+	character = {
+		name = "bookmark_northmen_halfdan_whiteshirt"
+		dynasty = 7514
+		dynasty_splendor_level = 2
+		type = male
+		birth = 2830.1.1
+		title = d_york
+		government = feudal_government
+		culture = norse
+		religion = norse_pagan
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 163112
+		position = { 700 620 }
+
+		animation = disapproval
+	
+		# Gudfrid, son who became Duke of Frisia, ID: 168336
+		character = {
+			name = "bookmark_northmen_halfdan_whiteshirt_alt_gudfrid"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 7514
+			type = male
+			birth = 2846.1.1
+			culture = norse
+			religion = norse_pagan
+			history_id = 168336
+			animation = personality_greedy
+		}
+
+		# Eldest child and favorite, Saga, ID: 306010
+		character = {
+			name = "bookmark_northmen_halfdan_whiteshirt_alt_saga"
+			relation = "BOOKMARK_RELATION_DAUGHTER"
+			dynasty = 7514
+			type = female
+			birth = 2847.1.1
+			culture = norse
+			religion = norse_pagan
+			history_id = 306010
+			animation = map_worry
+		}
+	}
+
+	# Ivar the Boneless (the Isles) ID: 163111
+	character = {
+		name = "bookmark_northmen_ivar_the_boneless"
+		dynasty = 20084
+		dynasty_splendor_level = 2
+		type = male
+		birth = 2847.2.7
+		title = d_western_isles
+		government = tribal_government
+		culture = norse
+		religion = norse_pagan
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 163111
+		position = { 560 320 }
+		animation = personality_bold
+		
+		# Barid, eldest son and heir and later King of Dublin, ID:6814
+		character = {
+			name = "bookmark_northmen_ivar_the_boneless_alt_barid"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 20084
+			type = male
+			birth = 2860.1.1
+			culture = norse
+			religion = norse_pagan
+			history_id = 6814
+			animation = map_ecstasy
+		}
+
+		# Sigfroth, next eldest son and later King of Dublin, ID:40609
+		character = {
+			name = "bookmark_northmen_ivar_the_boneless_alt_sigfroth"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 20084
+			type = male
+			birth = 2864.1.1
+			culture = norse
+			religion = norse_pagan
+			history_id = 40609
+			animation = shame
+		}
+	}
+
+	# Sigurdr Snake-in-the-eye (Denmark), ID: 163110
+	character = {
+		name = "bookmark_northmen_sigurdr_snake_in_the_eye"
+		dynasty = 490
+		dynasty_splendor_level = 2
+		type = male
+		birth = 2842.1.1
+		title = d_sjaelland
+		government = tribal_government
+		culture = norse
+		religion = norse_pagan
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 163110
+		position = { 1080 660 }
+		
+		animation = map_dismissal
+		
+		# Knud, son and heir, the semi-legendary king Hardeknud, ID:101549
+		character = {
+			name = "bookmark_northmen_sigurdr_snake_in_the_eye_alt_knud"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 490
+			type = male
+			birth = 2868.1.1
+			culture = norse
+			religion = norse_pagan
+			history_id = 101549
+		}
+
+		# Alof, eldest daughter, ID: 306012
+		character = {
+			name = "bookmark_northmen_sigurdr_snake_in_the_eye_alt_alof"
+			relation = "BOOKMARK_RELATION_DAUGHTER"
+			dynasty = 490
+			type = female
+			birth = 2862.1.1
+			culture = norse
+			religion = norse_pagan
+			history_id = 306012
+		}
+	}
+
+	# Björn Ironside (Sweden), ID: 163108
+	character = {
+		name = "bookmark_northmen_bjorn_ironside"
+		dynasty = 502
+		dynasty_splendor_level = 2
+		type = male
+		birth = 2828.1.1
+		title = d_svealand
+		government = tribal_government
+		culture = norse
+		religion = norse_pagan
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 163108
+		position = { 1020 150 }
+
+		animation = personality_cynical
+		
+		# Ingrid, daughter, ID:6863
+		character = {
+			name = "bookmark_northmen_bjorn_ironside_alt_ingrid"
+			relation = "BOOKMARK_RELATION_DAUGHTER"
+			dynasty = 502
+			type = female
+			birth = 2852.1.1
+			culture = norse
+			religion = norse_pagan
+			history_id = 6863
+			animation = disapproval
+		}
+
+		# Eirikr, son and heir, ID: 100500
+		character = {
+			name = "bookmark_northmen_bjorn_ironside_alt_eirikr"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 502
+			type = male
+			birth = 2845.1.1
+			culture = norse
+			religion = norse_pagan
+			history_id = 100500
+			animation = boredom
+		}
+	}
+
+	# Earl Alfred (the great) (Wessex), ID: 7627
+	character = {
+		name = "bookmark_northmen_earl_alfred"
+		dynasty = 100072
+		dynasty_splendor_level = 1
+		type = male
+		birth = 2851.1.1
+		title = c_dorset
+		government = feudal_government
+		culture = anglo_saxon
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		history_id = 7627
+		position = { 340 800 }
+		
+		animation = map_rage
+
+		# Æthelred, brother and king of Wessex, ID:33358
+		character = {
+			name = "bookmark_northmen_earl_alfred_alt_aethelred"
+			relation = "BOOKMARK_RELATION_BROTHER"
+			dynasty = 100072
+			type = male
+			birth = 2842.1.1
+			title = d_somerset
+			government = feudal_government
+			culture = anglo_saxon
+			religion = catholic
+			history_id = 33358
+			animation = map_disbelief
+		}
+	}
+}
+
+bm_867_adventurers = {
+	start_date = 2869.1.1
+	is_playable = yes
+	recommended = yes
+	group = bm_group_middle
+
+	# Jarl Haesteinn (Nantes/Montaigu, Brittany) ID: 6878
+	character = {
+		name = "bookmark_adventurers_jarl_haesteinn"
+		dynasty = 1059
+		dynasty_splendor_level = 1
+		type = male
+		birth = 2817.1.1
+		title = c_montaigu
+		government = feudal_government
+		culture = norse
+		religion = norse_pagan
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 6878
+		position = { 320 400 }
+		
+		animation = personality_rational
+
+		# Ragnarr, son and heir, ID: 6880
+		character = {
+			name = "bookmark_adventurers_jarl_haesteinn_alt_ragnarr"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 1059
+			type = male
+			birth = 2862.1.1
+			culture = norse
+			religion = norse_pagan
+			history_id = 6880
+		}
+	}
+
+	# Rurik Rurikid (Duke of Novgorod, Russia) ID: 40605
+	character = {
+		name = "bookmark_adventurers_rurik_rurikid"
+		dynasty = 705
+		dynasty_splendor_level = 1
+		type = male
+		birth = 2825.1.1
+		title = d_novgorod
+		government = tribal_government
+		culture = norse
+		religion = norse_pagan
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 40605
+		position = { 970 240 }
+		
+		animation = boredom
+
+		# Helgi the Seer, "son" and heir ID:40606
+		character = {
+			name = "bookmark_adventurers_rurik_rurikid_alt_helgi"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 705
+			type = male
+			birth = 2852.1.1
+			culture = norse
+			religion = slavic_pagan
+			history_id = 40606
+			animation = personality_zealous
+		}
+	}
+	
+	# Magajiva Daura, Countess of Daura, Hausa
+	character = {
+		name = "bookmark_adventurers_daurama_daura"
+		dynasty = 1060028
+		dynasty_splendor_level = 1
+		type = female
+		birth = 2842.1.1
+		title = c_daura
+		government = tribal_government
+		culture = hausa
+		religion = west_african_bori_pagan
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 251187
+		position = { 400 810 }
+			
+		animation = personality_forgiving
+
+		# Bawo Durbawa, "son" and heir ID:251181
+		character = {
+			name = "bookmark_adventurers_daurama_daura_alt_bawo"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 1060027
+			type = male
+			birth = 2869.1.1
+			culture = hausa
+			religion = west_african_bori_pagan
+			history_id = 251181
+		}
+	}
+
+	# Eudes Capet (Count of Chartres, France), ID: 6448
+	character = {
+		name = "bookmark_adventurers_count_eudes"
+		dynasty = 743
+		dynasty_splendor_level = 2
+		type = male
+		birth = 2859.1.1
+		title = c_anjou
+		government = feudal_government
+		culture = french
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		history_id = 6448
+		position = { 580 520 }
+
+		# Robert, little brother and future king of France, ID: 6442
+		character = {
+			name = "bookmark_adventurers_count_eudes_alt_robert"
+			relation = "BOOKMARK_RELATION_BROTHER"
+			dynasty = 743 # house capet
+			type = male
+			birth = 2868.8.1
+			culture = french
+			religion = catholic
+			history_id = 6442
+		}
+
+		# Eudes, uncle, ID: 163065
+		character = {
+			name = "bookmark_adventurers_count_eudes_alt_uncle_eudes"
+			relation = "BOOKMARK_RELATION_UNCLE"
+			dynasty = 743
+			type = male
+			birth = 2859.1.1
+			title = c_blois
+			government = feudal_government
+			culture = french
+			religion = catholic
+			history_id = 163065
+			animation = disapproval
+		}
+	}
+
+	# Almos Arpad (Leader of the Magyars, Hungary) ID: 159137
+	character = {
+		name = "bookmark_adventurers_almos_arpad"
+		dynasty = 708
+		dynasty_splendor_level = 1
+		type = male
+		birth = 2822.1.1
+		title = k_magyar
+		government = tribal_government
+		culture = mogyer
+		religion = magyar_pagan
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 159137
+		position = { 1120 630 }
+		
+		animation = personality_bold
+
+		# Arpad, son and heir, ID: 159136
+		character = {
+			name = "bookmark_adventurers_almos_arpad_alt_son_arpad"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 743
+			type = male
+			birth = 2847.1.1
+			culture = mogyer
+			religion = magyar_pagan
+			history_id = 159136
+			animation = personality_honorable
+		}
+
+		# Linütika, grandson, ID: 163168
+		character = {
+			name = "bookmark_adventurers_almos_arpad_alt_linutika"
+			relation = "BOOKMARK_RELATION_GRANDSON"
+			dynasty = 743
+			type = male
+			birth = 2864.1.1
+			culture = mogyer
+			religion = magyar_pagan
+			history_id = 163168
+		}
+	}
+}
+
+bm_867_carolingians = {
+	start_date = 2869.1.1
+	is_playable = yes
+	group = bm_group_middle
+	
+	# Charles the Bald (West Francia) ID:90104
+	character = {
+		name = "bookmark_carolingians_charles_the_bald"
+		dynasty = 25061
+		dynasty_splendor_level = 3
+		type = male
+		birth = 2825.1.14
+		title = k_france #West Francia
+		title_text_override = "WEST_FRANCIA"
+		government = feudal_government
+		culture = french
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 90104
+		position = { 330 550 }
+		
+		animation = map_love
+
+		# Judith, the eloped daughter, 90110
+		character = {
+			name = "bookmark_carolingians_charles_the_bald_alt_judith"
+			relation = "BOOKMARK_RELATION_DAUGHTER"
+			dynasty = 25061
+			type = female
+			birth = 2846.1.2
+			#title = d_somerset
+			#government = feudal_government
+			culture = french
+			religion = catholic
+			history_id = 90110
+			animation = personality_coward
+		}
+		# Louis the Stammerer, heir and king, 90123
+		character = {
+			name = "bookmark_carolingians_charles_the_bald_alt_louis"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 25061
+			type = male
+			birth = 2845.1.2
+			title = k_aquitaine
+			government = feudal_government
+			culture = french
+			religion = catholic
+			history_id = 90123
+			animation = personality_irrational
+		}
+	}
+
+	# Lothaire (Lotharingia) ID: 144998
+	character = {
+		name = "bookmark_carolingians_king_lothaire"
+		dynasty = 25061
+		dynasty_splendor_level = 3
+		type = male
+		birth = 2838.1.1
+		title = k_lotharingia
+		government = feudal_government
+		culture = french
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 144998
+		position = { 590 170 }
+		
+		animation = personality_rational
+
+		# (Waldrada, lover and mother of children, 168314) <- not dynastic
+		character = {
+			name = "bookmark_carolingians_king_lothaire_alt_waldrada"
+			relation = "BOOKMARK_RELATION_LOVER"
+			dynasty = 246
+			type = female
+			birth = 2841.1.1
+			#title = d_somerset
+			#government = feudal_government
+			culture = dutch
+			religion = catholic
+			history_id = 168314
+			animation = map_ecstasy
+		}
+
+		# (Teutberga, spurned wife, 6877) <- not dynastic
+		character = {
+			name = "bookmark_carolingians_king_lothaire_alt_teutberga"
+			relation = "BOOKMARK_RELATION_SPOUSE_FEMALE"
+			dynasty = 7052
+			type = female
+			birth = 2845.1.2
+			#title = d_somerset
+			#government = feudal_government
+			culture = french
+			religion = catholic
+			history_id = 6877
+			animation = map_disgust
+		}
+	}
+
+	# Ludwig the German (East Francia) ID: 90107
+ 	character = {
+		name = "bookmark_carolingians_ludwig_the_german"
+		dynasty = 25061
+		dynasty_splendor_level = 3
+		type = male
+		birth = 2808.1.1
+		title = k_east_francia
+		government = feudal_government
+		culture = franconian
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 90107
+		position = { 1100 160 }
+		
+		animation = map_worry
+
+		# Ludwig the Younger, rebellious son, 42019
+		character = {
+			name = "bookmark_carolingians_ludwig_the_german_alt_youngerludwig"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 25061
+			type = male
+			birth = 2837.1.14
+			title = d_east_franconia
+			government = feudal_government
+			culture = franconian
+			religion = catholic
+			history_id = 42019
+			animation = map_rage
+		}
+		# Karl the Fat, rebellious son, 90105
+		character = {
+			name = "bookmark_carolingians_ludwig_the_german_alt_karl"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 25061
+			type = male
+			birth = 2837.1.14
+			title = d_swabia
+			government = feudal_government
+			culture = franconian
+			religion = catholic
+			history_id = 90105
+			animation = personality_callous
+		}
+	}
+	
+	# Louis II (Italy) ID: 30228
+	character = {
+		name = "bookmark_carolingians_king_louis"
+		dynasty = 25061
+		dynasty_splendor_level = 3
+		type = male
+		birth = 2837.1.1
+		title = k_italy
+		government = feudal_government
+		culture = french
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 30228
+		position = { 870 800 }
+		
+		animation = paranoia
+
+		# Ermengarde, daughter & defender of Vienne, 7982
+		character = {
+			name = "bookmark_carolingians_king_louis_alt_ermengarde"
+			relation = "BOOKMARK_RELATION_DAUGHTER"
+			dynasty = 25061
+			type = female
+			birth = 2861.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			culture = french
+			religion = catholic
+			history_id = 7982
+		}
+
+		# (Engelberga, influtential wife, 167894) <- not dynastic
+		character = {
+			name = "bookmark_carolingians_king_louis_alt_engelberga"
+			relation = "BOOKMARK_RELATION_SPOUSE_FEMALE"
+			dynasty = 9561
+			type = female
+			birth = 2836.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			culture = french
+			religion = catholic
+			history_id = 167894
+			animation = personality_honorable
+		}
+	}
+
+	# Karlmann (Bavaria) ID: 42018
+ 	character = {
+		name = "bookmark_carolingians_king_karlmann"
+		dynasty = 25061
+		dynasty_splendor_level = 3
+		type = male
+		birth = 2832.1.14
+		title = d_bavaria
+		government = feudal_government
+		culture = franconian
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = 42018
+		position = { 1175 420 }
+		
+		animation = disapproval
+
+		# Arnulf, the ambitious bastard, 7945
+		character = {
+			name = "bookmark_carolingians_king_karlmann_alt_arnulf"
+			relation = "BOOKMARK_RELATION_SON" # Likely bastard, definitely heir
+			dynasty = 25061
+			type = male
+			birth = 2852.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			culture = bavarian
+			religion = catholic
+			history_id = 7945
+			animation = boredom
+		}
+		# (Hemma, the supportive mother, 7987) <- not dynastic
+		character = {
+			name = "bookmark_carolingians_king_karlmann_alt_hemma"
+			relation = "BOOKMARK_RELATION_MOTHER"
+			dynasty = 650
+			type = female
+			birth = 2836.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			culture = bavarian
+			religion = catholic
+			history_id = 7987
+			animation = personality_cynical
+		}
+	}
+}
+
+bm_2872 = {
+	start_date = 2872.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2877 = {
+	start_date = 2877.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2882 = {
+	start_date = 2882.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2887 = {
+	start_date = 2887.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2892 = {
+	start_date = 2892.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2897 = {
+	start_date = 2897.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2902 = {
+	start_date = 2902.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2907 = {
+	start_date = 2907.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2912 = {
+	start_date = 2912.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2917 = {
+	start_date = 2917.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2922 = {
+	start_date = 2922.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2927 = {
+	start_date = 2927.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2932 = {
+	start_date = 2932.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2937 = {
+	start_date = 2937.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2942 = {
+	start_date = 2942.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2947 = {
+	start_date = 2947.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2952 = {
+	start_date = 2952.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2957 = {
+	start_date = 2957.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2962 = {
+	start_date = 2962.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2967 = {
+	start_date = 2967.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2972 = {
+	start_date = 2972.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2977 = {
+	start_date = 2977.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2982 = {
+	start_date = 2982.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2987 = {
+	start_date = 2987.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2992 = {
+	start_date = 2992.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_2997 = {
+	start_date = 2997.1.1
+	is_playable = yes
+	group = bm_group_middle
+
+	weight = {
+		value = 0
+	}
+}
+bm_3002 = {
+	start_date = 3002.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3007 = {
+	start_date = 3007.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3012 = {
+	start_date = 3012.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3017 = {
+	start_date = 3017.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3022 = {
+	start_date = 3022.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3027 = {
+	start_date = 3027.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3032 = {
+	start_date = 3032.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3037 = {
+	start_date = 3037.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3042 = {
+	start_date = 3042.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3047 = {
+	start_date = 3047.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3052 = {
+	start_date = 3052.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3057 = {
+	start_date = 3057.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3062 = {
+	start_date = 3062.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3067 = {
+	start_date = 3067.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3068 = {
+	start_date = 3068.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_1066_hastings = {
+	start_date = 3068.9.15
+	is_playable = yes
+	group = bm_group_late
+	
+	# Harold Godwineson ID: 122
+	character = {
+		name = "bookmark_hastings_england" # King Harold of England
+		dynasty = 756
+		dynasty_splendor_level = 1
+		type = male
+		history_id = 122
+		birth = 3024.1.1
+		title = k_england
+		government = feudal_government
+		culture = anglo_saxon
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 320 620 }
+		
+		animation = map_worry
+		
+		#Potentially: Brother, Gyrth (ID: 132)
+
+		#Brother, Tostig Godwineson (ID: 124) (friendly with King Harald of Norway, against you)
+		character = {
+			name = "bookmark_hastings_england_alt_tostig"
+			relation = "BOOKMARK_RELATION_BROTHER"
+			dynasty = 756
+			type = male
+			birth = 3027.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			culture = anglo_saxon
+			religion = catholic
+			history_id = 124
+			animation = map_disgust
+		}
+
+		#Eadgifu, common-law wife and mother of children, English landowner (ID: 131)
+		character = {
+			name = "bookmark_hastings_england_alt_eadgifu"
+			relation = "BOOKMARK_RELATION_COMMON_LAW_WIFE"
+			dynasty = 363
+			type = female
+			birth = 3027.6.6
+			#title = k_east_francia
+			#government = feudal_government
+			culture = anglo_saxon
+			religion = catholic
+			history_id = 131
+			animation = map_schadenfreude
+		}
+	}
+	
+	# William the Bastard ID: 140
+	character = {
+		name = "bookmark_hastings_normandy" # William the Bastard
+		dynasty = 752
+		dynasty_splendor_level = 2
+		type = male
+		history_id = 140
+		birth = 3029.1.15
+		title = d_normandy
+		government = feudal_government
+		culture = norman
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 830 810 }
+		
+		animation = personality_callous
+
+		#Sidekick: Count Robert 'Curthose', son and heir (ID: 142)
+		character = {
+			name = "bookmark_hastings_normandy_alt_robert"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 752
+			type = male
+			birth = 3056.1.1
+			title = c_maine
+			government = feudal_government
+			culture = norman
+			religion = catholic
+			history_id = 142
+		}
+
+		#Sidekick: William the Red, third son (ID: 146)
+		character = {
+			name = "bookmark_hastings_normandy_alt_william"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 752
+			type = male
+			birth = 3058.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			culture = norman
+			religion = catholic
+			history_id = 146
+		}
+	}
+	
+	# Harold Hardrade ID: 102531
+	character = {
+		name = "bookmark_hastings_norway" # Harald Hardrade of Norway ID:102531
+		dynasty = 499
+		dynasty_splendor_level = 2
+		type = male
+		history_id = 102531
+		birth = 3017.1.2
+		title = k_norway
+		government = feudal_government
+		culture = norwegian
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 850 170 }
+		
+		animation = personality_dishonorable
+
+		#	Olaf Haraldsson (son) ID: 102534
+		character = {
+			name = "bookmark_hastings_norway_alt_olaf"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 499
+			type = male
+			birth = 3052.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = catholic
+			culture = norwegian
+			history_id = 102534
+			animation = flirtation
+		}
+
+		#	Ingegerd Haraldsdotter (daughter) ID: 102535
+		character = {
+			name = "bookmark_hastings_norway_alt_ingegerd"
+			relation = "BOOKMARK_RELATION_DAUGHTER"
+			dynasty = 499
+			type = female
+			birth = 3048.1.2
+			#title = k_east_francia
+			#government = feudal_government
+			religion = catholic
+			culture = norwegian
+			history_id = 102535
+			animation = disapproval
+		}
+	}
+	
+	# Svend the Dane ID: 101515
+	character = {
+		name = "bookmark_hastings_denmark" # King Svend of Denmark ID:101515
+		dynasty = 487
+		dynasty_splendor_level = 3
+		type = male
+		history_id = 101515
+		birth = 3021.1.1
+		title = k_denmark
+		government = feudal_government
+		culture = danish
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		position = { 1100 590 }
+		
+		animation = personality_greedy
+
+		#	Harald III (son) ID: 101517
+		character = {
+			name = "bookmark_hastings_denmark_alt_harald"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 487
+			type = male
+			birth = 3043.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = catholic
+			culture = danish
+			history_id = 101517
+			animation = personality_content
+		}
+
+		#	Knud IV (son) ID: 101519
+		character = {
+			name = "bookmark_hastings_denmark_alt_knud"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 487
+			type = male
+			birth = 3045.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = catholic
+			culture = danish
+			history_id = 101519
+			animation = personality_callous
+		}
+	}
+
+	# Malcolm Canmore ID: 984
+	character = {
+		name = "bookmark_hastings_scotland" # King Malcolm of Scotland ID:984
+		dynasty = 1687
+		dynasty_splendor_level = 1
+		type = male
+		history_id = 984
+		birth = 3041.1.2
+		title = k_scotland
+		government = feudal_government
+		culture = scottish
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		position = { 410 230 }
+		
+		animation = personality_rational
+
+		#	Donnchad mac Máel Coluim (son) ID: 988
+		character = {
+			name = "bookmark_hastings_scotland_alt_duncan"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 1687
+			type = male
+			birth = 3062.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = catholic
+			culture = scottish
+			history_id = 988
+		}
+
+		#	Donald III (brother) ID: 986
+		character = {
+			name = "bookmark_hastings_scotland_alt_donald"
+			relation = "BOOKMARK_RELATION_BROTHER"
+			dynasty = 1687
+			type = male
+			birth = 3054.12.2
+			#title = k_east_francia
+			#government = feudal_government
+			religion = catholic
+			culture = scottish
+			history_id = 986
+			animation = personality_forgiving
+		}
+	}	
+}
+
+bm_1066_rags_to_riches = {
+	start_date = 3068.9.15
+	is_playable = yes
+	recommended = yes
+	test_default = yes
+	group = bm_group_late
+
+	weight = { value = 100 }
+
+	# Murchad ua Briain ID: 83355
+	character = {
+		name = "bookmark_rags_to_riches_petty_king_murchad" #ID:83355
+		dynasty = 695
+		dynasty_splendor_level = 2
+		type = male
+		history_id = 83355
+		birth = 3029.1.1
+		title = d_munster
+		government = feudal_government
+		culture = irish
+		religion = insular_celtic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		tutorial = yes
+		position = { 430 190 }
+		
+		animation = personality_rational
+
+		#	Potentially: Conchobar (half-brother) ID: 6207
+
+		#	Brian (son) ID: 83357
+		character = {
+			name = "bookmark_rags_to_riches_petty_king_murchad_alt_brian"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 695
+			type = male
+			birth = 3050.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			culture = irish
+			religion = catholic
+			history_id = 83357
+			animation = personality_content
+		}
+
+		#	Bébinn (aunt) ID: 166126
+		character = {
+			name = "bookmark_rags_to_riches_petty_king_murchad_alt_bebinn"
+			relation = "BOOKMARK_RELATION_AUNT"
+			dynasty = 695
+			type = female
+			birth = 2991.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			culture = irish
+			religion = catholic
+			history_id = 166126
+			animation = personality_cynical
+		}
+	}
+
+	# Matilda of Tuscany ID: 7757
+	character = {
+		name = "bookmark_rags_to_riches_duchess_matilda" #ID:7757
+		dynasty = 101556
+		dynasty_splendor_level = 1
+		type = female
+		history_id = 7757
+		birth = 3048.1.1
+		title = d_toscana
+		government = feudal_government
+		culture = italian
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 1175 500 }
+		
+		animation = personality_zealous
+
+		# Secondary characters:
+		#	None! She’s alone in her dynasty.
+	}
+	
+	# Yahya Dhunnunid ID: 3924
+	character = {
+		name = "bookmark_rags_to_riches_emir_yahya" #ID:3924
+		dynasty = 570
+		dynasty_splendor_level = 2
+		type = male
+		history_id = 3924
+		birth = 3015.1.1
+		title = d_toledo
+		government = clan_government
+		culture = baranis
+		religion = muwalladi
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 320 650 }
+		
+		animation = personality_vengeful
+		
+		#Potentially: Isma’il (son) ID: 73195
+
+		#	Zahida (daughter) ID: 20858
+		character = {
+			name = "bookmark_rags_to_riches_emir_yahya_alt_zahida"
+			relation = "BOOKMARK_RELATION_DAUGHTER"
+			dynasty = 570
+			type = female
+			birth = 3046.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = "muwalladi"
+			culture = "baranis"
+			history_id = 20858
+			animation = map_worry
+		}
+
+		#	Yahya II (grandson) ID: 3926
+		character = {
+			name = "bookmark_rags_to_riches_emir_yahya_alt_yahya2"
+			relation = "BOOKMARK_RELATION_GRANDSON"
+			dynasty = 570
+			type = male
+			birth = 3066.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = "muwalladi"
+			culture = "baranis"
+			history_id = 3926
+		}
+	}
+	
+	# Vratislav Premyslid ID: 522
+	character = {
+		name = "bookmark_rags_to_riches_duke_vratislav" #ID:522
+		dynasty = 506
+		dynasty_splendor_level = 2
+		type = male
+		history_id = 522
+		birth = 3034.1.1
+		title = d_bohemia
+		government = feudal_government
+		culture = czech
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		position = { 910 270 }
+		
+		animation = personality_bold
+
+		# Potentially: Bretislav (son) ID: 530
+
+		#	Judita (daughter) ID: 212881
+		character = {
+			name = "bookmark_rags_to_riches_duke_vratislav_alt_judita"
+			relation = "BOOKMARK_RELATION_DAUGHTER"
+			dynasty = 506
+			type = female
+			birth = 3058.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = "catholic"
+			culture = "czech"
+			history_id = 212881
+		}
+
+		#	Ota the Handsome (brother) ID: 212892
+		character = {
+			name = "bookmark_rags_to_riches_duke_vratislav_alt_ota"
+			relation = "BOOKMARK_RELATION_BROTHER"
+			dynasty = 506
+			type = male
+			birth = 3047.1.1
+			title = c_olomouc
+			government = feudal_government
+			religion = "catholic"
+			culture = "czech"
+			history_id = 212892
+			animation = disapproval
+		}
+	}
+
+
+	# Robert the Fox ID: 1128
+	character = {
+		name = "bookmark_rags_to_riches_duke_robert" #ID:1128
+		dynasty = 678
+		dynasty_splendor_level = 1
+		type = male
+		history_id = 1128
+		birth = 3017.1.1
+		title = d_apulia
+		government = feudal_government
+		culture = norman
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 1050 820 }
+		
+		animation = map_dismissal
+
+		#Potentially: Emma (daughter) ID: 1143
+
+		# Bohemond (son) ID: 1140
+		character = {
+			name = "bookmark_rags_to_riches_duke_robert_alt_bohemond"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 678
+			type = male
+			birth = 3060.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = "catholic"
+			culture = "norman"
+			history_id = 1140
+		}
+
+		# Roger of Messina (brother) ID: 1132
+		character = {
+			name = "bookmark_rags_to_riches_duke_robert_alt_roger"
+			relation = "BOOKMARK_RELATION_BROTHER"
+			dynasty = 678
+			type = male
+			birth = 3033.1.2
+			title = c_messina
+			government = feudal_government
+			religion = "catholic"
+			culture = "norman"
+			history_id = 1132
+			animation = personality_content
+		}
+	}
+}
+
+bm_1066_iberia = {
+	start_date = 3068.9.15
+	is_playable = yes
+	group = bm_group_late
+
+
+	weight = {
+		value = 0
+		if = {
+			limit = { has_dlc = "The Fate of Iberia" }
+			add = 50
+		}
+	}
+
+	
+	# Garcia Jimena ID: 109500
+	character = {
+		name = "bookmark_iberia_king_garcia" #ID:109500
+		dynasty = 442
+		dynasty_splendor_level = 2
+		type = male
+		history_id = 109500
+		birth = 3044.1.1
+		title = k_spanish_galicia
+		government = feudal_government
+		culture = castilian
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 450 530 }
+		
+		animation = paranoia
+	}
+
+	# Alfonso Jimena ID: 108500
+	character = {
+		name = "bookmark_iberia_king_alfonso" #ID:108500
+		dynasty = 442
+		dynasty_splendor_level = 2
+		type = male
+		history_id = 108500
+		birth = 3042.1.1
+		title = k_leon
+		government = feudal_government
+		culture = castilian
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		position = { 620 180 }
+		
+		animation = personality_dishonorable
+
+		#	Sancha Alfonsez (mother) ID: 107511
+		character = {
+			name = "bookmark_iberia_king_alfonso_alt_sancha"
+			relation = "BOOKMARK_RELATION_MOTHER"
+			dynasty = 436
+			type = female
+			birth = 3019.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = "catholic"
+			culture = "castilian"
+			history_id = 107511
+			animation = happiness
+		}
+
+		#	Nuño Alfontsez (uncle) ID: 70076
+		character = {
+			name = "bookmark_iberia_king_alfonso_alt_nuno"
+			relation = "BOOKMARK_RELATION_UNCLE"
+			dynasty = 1046033
+			type = male
+			birth = 3027.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = catholic
+			culture = basque
+			history_id = 70076
+			animation = personality_cynical
+		}
+	}
+	
+	# Sancho Jimena ID: 107500
+	character = {
+		name = "bookmark_iberia_king_sancho" #ID:107500
+		dynasty = 442
+		dynasty_splendor_level = 2
+		type = male
+		history_id = 107500
+		birth = 3038.1.1
+		title = k_castille
+		government = feudal_government
+		culture = castilian
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 950 160 }
+		
+		animation = personality_bold
+
+		#	Rodrigo Diegez de Vivar (commander, and probably friend) ID: 107590
+		character = {
+			name = "bookmark_iberia_king_sancho_alt_rodrigo"
+			relation = "BOOKMARK_RELATION_FRIEND"
+			dynasty = 407
+			type = male
+			birth = 3045.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = "catholic"
+			culture = "castilian"
+			history_id = 107590
+			animation = personality_bold
+		}
+	}
+	
+	# Urraca Jimena ID: 108501
+	character = {
+		name = "bookmark_iberia_infanta_urraca" #ID:108501
+		dynasty = 442
+		dynasty_splendor_level = 2
+		type = female
+		history_id = 108501
+		birth = 3035.1.1
+		title = c_zamora
+		government = feudal_government
+		culture = castilian
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 830 640 }
+		
+		animation = personality_forgiving
+
+		#	Elvira Fernandez (sister and vassal) ID: 107501
+		character = {
+			name = "bookmark_iberia_infanta_urraca_alt_elvira"
+			relation = "BOOKMARK_RELATION_SISTER"
+			dynasty = 442
+			type = female
+			birth = 3045.1.1
+			title = b_toro
+			government = republic_government
+			religion = "catholic"
+			culture = "castilian"
+			history_id = 107501
+			animation = personality_compassionate
+		}
+	}
+
+	# Antso Jimena ID: 106000
+	character = {
+		name = "bookmark_iberia_king_antso" #ID:106000
+		dynasty = 442
+		dynasty_splendor_level = 2
+		type = male
+		history_id = 106000
+		birth = 3041.1.1
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		
+		animation = personality_cynical
+
+		#	Ramiro Gartziez (brother and heir) ID: 106011
+		character = {
+			name = "bookmark_iberia_king_antso_alt_ramiro"
+			relation = "BOOKMARK_RELATION_BROTHER"
+			dynasty = 442
+			type = male
+			birth = 3044.1.1
+			title = c_najera
+			government = feudal_government
+			religion = "catholic"
+			culture = "basque"
+			history_id = 106011
+			animation = scheme
+		}
+
+		#	King Sancho Ramirez (cousin) ID: 110500
+		character = {
+			name = "bookmark_iberia_king_antso_alt_sancho"
+			relation = "BOOKMARK_RELATION_COUSIN"
+			dynasty = 442
+			type = male
+			birth = 3044.1.1
+			title = k_aragon
+			government = feudal_government
+			religion = "catholic"
+			culture = "castilian"
+			history_id = 110500
+			animation = fear
+		}
+	}
+	
+	character = {
+		name = "bookmark_animation_test_female" 
+		dynasty = 442
+		dynasty_splendor_level = 5
+		type = female
+		history_id = animation_test_female
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no		
+		animation = personality_cynical
+	}
+
+	character = {
+		name = "bookmark_animation_test_male" 
+		dynasty = 442
+		dynasty_splendor_level = 5
+		history_id = animation_test_male
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no
+		animation = personality_cynical
+	}
+	
+	character = {
+		name = "bookmark_animation_test_dwarf_female"
+		dynasty = 442
+		dynasty_splendor_level = 5
+		type = female
+		history_id = animation_test_dwarf_female
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no
+		animation = personality_cynical
+	}
+	
+	character = {
+		name = "bookmark_animation_test_dwarf_male" 
+		dynasty = 442
+		dynasty_splendor_level = 5
+		type = male
+		history_id = animation_test_dwarf_male
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no
+		animation = personality_cynical
+	}
+
+	character = {
+		name = "bookmark_animation_test_fat_dwarf_female" 
+		dynasty = 442
+		dynasty_splendor_level = 5
+		type = female
+		history_id = animation_test_fat_dwarf_female
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no
+		animation = personality_cynical
+	}
+	
+	character = {
+		name = "bookmark_animation_test_fat_dwarf_male" 
+		dynasty = 442
+		dynasty_splendor_level = 5
+		type = male
+		history_id = animation_test_fat_dwarf_male
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no
+		animation = personality_cynical
+	}
+
+	character = {
+		name = "bookmark_animation_test_female_pregnant" 
+		dynasty = 442
+		dynasty_splendor_level = 5
+		type = female
+		history_id = animation_test_female_pregnant
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no
+		animation = personality_cynical
+	}
+	
+	character = {
+		name = "bookmark_animation_test_hunchbacked_female" 
+		dynasty = 442
+		dynasty_splendor_level = 5
+		type = female
+		history_id = animation_test_hunchbacked_female
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no
+		animation = personality_cynical
+	}
+	
+	character = {
+		name = "bookmark_animation_test_hunchbacked_male" 
+		dynasty = 442
+		dynasty_splendor_level = 5
+		type = male
+		history_id = animation_test_hunchbacked_male
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no
+		animation = personality_cynical
+	}
+	character = {
+		name = "bookmark_animation_test_female_child" 
+		dynasty = 442
+		dynasty_splendor_level = 5
+		type = female
+		history_id = animation_test_female_child
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no
+		animation = personality_cynical
+	}
+
+	character = {
+		name = "bookmark_animation_test_male_child" 
+		dynasty = 442
+		dynasty_splendor_level = 5
+		history_id = animation_test_male_child
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no
+		animation = personality_cynical
+	}
+	
+	character = {
+		name = "bookmark_animation_test_muscular_female" 
+		dynasty = 442
+		dynasty_splendor_level = 5
+		type = female
+		history_id = animation_test_muscular_female
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no
+		animation = personality_cynical
+	}
+
+	character = {
+		name = "bookmark_animation_test_muscular_male" 
+		dynasty = 442
+		dynasty_splendor_level = 5
+		history_id = animation_test_muscular_male
+		birth = 2802.6.2
+		title = k_navarra
+		government = feudal_government
+		culture = basque
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
+		position = { 1130 480 }
+		display = no
+		animation = personality_cynical
+	}
+}
+
+bm_1066_the_conqueror = { 
+	start_date = 3068.12.26
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+	#  William the Conqueror ID: 140
+	character = {
+		name = "bm_1066_the_conqueror_england" #  William 'the Conqueror'
+		dynasty = 752
+		dynasty_splendor_level = 3
+		type = male
+        history_id = 140
+		birth = 3029.1.15
+		title = k_england
+		government = feudal_government
+		culture = norman
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 320 620 }
+		
+		animation = personality_callous
+
+		#Sidekick: Count Robert 'Curthose', son and heir (ID: 142)
+		character = {
+			name = "bookmark_hastings_normandy_alt_robert"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 752
+			type = male
+			birth = 3056.1.1
+			title = c_maine
+			government = feudal_government
+			culture = norman
+			religion = catholic
+			history_id = 142
+		}
+
+		#Sidekick: William the Red, third son (ID: 146)
+		character = {
+			name = "bookmark_hastings_normandy_alt_william"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 752
+			type = male
+			birth = 3058.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			culture = norman
+			religion = catholic
+			history_id = 146
+		}
+	}
+	
+	# Magnus Haroldsson ID: 102532
+	character = {
+		name = "bm_1066_the_conqueror_norway" # Magnus Haroldsson of Norway ID:102532
+		dynasty = 499
+		dynasty_splendor_level = 3
+		type = male
+		history_id = 102532
+		birth = 3050.1.2
+		title = k_norway
+		government = feudal_government
+		culture = norwegian
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 850 170 }
+		
+		animation = boredom
+
+		#	Olaf Haraldsson (son) ID: 102534
+		character = {
+			name = "bookmark_hastings_norway_alt_olaf"
+			relation = "BOOKMARK_RELATION_BROTHER"
+			dynasty = 499
+			type = male
+			birth = 3052.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = catholic
+			culture = norwegian
+			history_id = 102534
+			animation = flirtation
+		}
+
+		#	Ingegerd Haraldsdotter (daughter) ID: 102535
+		character = {
+			name = "bookmark_hastings_norway_alt_ingegerd"
+			relation = "BOOKMARK_RELATION_SISTER"
+			dynasty = 499
+			type = female
+			birth = 3048.1.2
+			#title = k_east_francia
+			#government = feudal_government
+			religion = catholic
+			culture = norwegian
+			history_id = 102535
+			animation = disapproval
+		}
+	}
+    
+	# Svend the Dane ID: 101515
+	character = {
+		name = "bm_1066_the_conqueror_denmark" # King Svend of Denmark ID:101515
+		dynasty = 487
+		dynasty_splendor_level = 2
+		type = male
+		history_id = 101515
+		birth = 3021.1.1
+		title = k_denmark
+		government = feudal_government
+		culture = danish
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		position = { 1100 590 }
+		
+		animation = personality_greedy
+
+		#	Harald III (son) ID: 101517
+		character = {
+			name = "bookmark_hastings_denmark_alt_harald"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 487
+			type = male
+			birth = 3043.1.1
+			#title = k_east_francia
+			#government = feudal_government
+			religion = catholic
+			culture = danish
+			history_id = 101517
+			animation = personality_content
+		}
+
+		#	Knud IV (son) ID: 101519
+		character = {
+			name = "bookmark_hastings_denmark_alt_knud"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 487
+			type = male
+			birth = 3045.1.1
+			religion = catholic
+			culture = danish
+			history_id = 101519
+			animation = personality_callous
+		}
+	}
+    
+    # Malcolm Canmore ID: 984
+	character = {
+		name = "bm_1066_the_conqueror_scotland" # King Malcolm of Scotland ID:984
+		dynasty = 1687
+		dynasty_splendor_level = 1
+		type = male
+		history_id = 984
+		birth = 3041.1.2
+		title = k_scotland
+		government = feudal_government
+		culture = scottish
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		position = { 410 230 }
+		
+		animation = personality_rational
+
+		#	Donnchad mac Máel Coluim (son) ID: 988
+		character = {
+			name = "bookmark_hastings_scotland_alt_duncan"
+			relation = "BOOKMARK_RELATION_SON"
+			dynasty = 1687
+			type = male
+			birth = 3062.1.1
+			religion = catholic
+			culture = scottish
+			history_id = 988
+		}
+
+		#	Donald III (brother) ID: 986
+		character = {
+			name = "bookmark_hastings_scotland_alt_donald"
+			relation = "BOOKMARK_RELATION_BROTHER"
+			dynasty = 1687
+			type = male
+			birth = 3054.12.2
+			religion = catholic
+			culture = scottish
+			history_id = 986
+			animation = personality_forgiving
+		}
+	}
+}
+bm_3072 = {
+	start_date = 3072.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3077 = {
+	start_date = 3077.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3082 = {
+	start_date = 3082.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3083 = {
+	start_date = 3083.4.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3087 = {
+	start_date = 3087.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3092 = {
+	start_date = 3092.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3095 = {
+	start_date = 3095.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3097 = {
+	start_date = 3097.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3102 = {
+	start_date = 3102.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3107 = {
+	start_date = 3107.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3112 = {
+	start_date = 3112.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3117 = {
+	start_date = 3117.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3122 = {
+	start_date = 3122.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3127 = {
+	start_date = 3127.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3132 = {
+	start_date = 3132.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3137 = {
+	start_date = 3137.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3142 = {
+	start_date = 3142.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3147 = {
+	start_date = 3147.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3152 = {
+	start_date = 3152.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3157 = {
+	start_date = 3157.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3162 = {
+	start_date = 3162.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3167 = {
+	start_date = 3167.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3172 = {
+	start_date = 3172.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3177 = {
+	start_date = 3177.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3182 = {
+	start_date = 3182.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3186 = {
+	start_date = 3186.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3187 = {
+	start_date = 3187.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3189 = {
+	start_date = 3189.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3192 = {
+	start_date = 3192.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3197 = {
+	start_date = 3197.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3202 = {
+	start_date = 3202.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3206 = {
+	start_date = 3207.5.16
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3207 = {
+	start_date = 3207.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3212 = {
+	start_date = 3212.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3217 = {
+	start_date = 3217.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3222 = {
+	start_date = 3222.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3223 = {
+	start_date = 3223.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3227 = {
+	start_date = 3227.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3232 = {
+	start_date = 3232.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3237 = {
+	start_date = 3237.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3242 = {
+	start_date = 3242.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3243 = {
+	start_date = 3243.5.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3247 = {
+	start_date = 3247.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3252 = {
+	start_date = 3252.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3257 = {
+	start_date = 3257.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3262 = {
+	start_date = 3262.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3267 = {
+	start_date = 3267.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3272 = {
+	start_date = 3272.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3277 = {
+	start_date = 3277.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3282 = {
+	start_date = 3282.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3285 = {
+	start_date = 3285.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3287 = {
+	start_date = 3287.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3292 = {
+	start_date = 3292.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3297 = {
+	start_date = 3297.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3302 = {
+	start_date = 3302.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3307 = {
+	start_date = 3307.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3312 = {
+	start_date = 3312.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3317 = {
+	start_date = 3317.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3322 = {
+	start_date = 3322.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3327 = {
+	start_date = 3327.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3332 = {
+	start_date = 3332.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3337 = {
+	start_date = 3337.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3338 = {
+	start_date = 3338.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3339 = {
+	start_date = 3339.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3342 = {
+	start_date = 3342.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3347 = {
+	start_date = 3347.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3352 = {
+	start_date = 3352.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3357 = {
+	start_date = 3357.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3362 = {
+	start_date = 3362.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3367 = {
+	start_date = 3367.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3372 = {
+	start_date = 3372.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3377 = {
+	start_date = 3377.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3382 = {
+	start_date = 3382.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3387 = {
+	start_date = 3387.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3392 = {
+	start_date = 3392.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3397 = {
+	start_date = 3397.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3402 = {
+	start_date = 3402.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3407 = {
+	start_date = 3407.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3412 = {
+	start_date = 3412.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3417 = {
+	start_date = 3417.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3422 = {
+	start_date = 3422.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3427 = {
+	start_date = 3427.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3432 = {
+	start_date = 3432.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3437 = {
+	start_date = 3437.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3442 = {
+	start_date = 3442.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3447 = {
+	start_date = 3447.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3452 = {
+	start_date = 3452.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3454 = {
+	start_date = 3454.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3455 = {
+	start_date = 3455.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3457 = {
+	start_date = 3457.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3462 = {
+	start_date = 3462.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3467 = {
+	start_date = 3467.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3472 = {
+	start_date = 3472.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3477 = {
+	start_date = 3477.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3482 = {
+	start_date = 3482.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3487 = {
+	start_date = 3487.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3492 = {
+	start_date = 3492.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3494 = {
+	start_date = 3494.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3497 = {
+	start_date = 3497.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3501 = {
+	start_date = 3501.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3502 = {
+	start_date = 3502.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3507 = {
+	start_date = 3507.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3512 = {
+	start_date = 3512.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3517 = {
+	start_date = 3517.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3602 = {
+	start_date = 3602.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3702 = {
+	start_date = 3702.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3802 = {
+	start_date = 3802.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_3902 = {
+	start_date = 3902.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_4002 = {
+	start_date = 4002.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}
+bm_4025 = {
+	start_date = 4025.1.1
+	is_playable = yes
+	group = bm_group_late
+
+	weight = {
+		value = 0
+	}
+}

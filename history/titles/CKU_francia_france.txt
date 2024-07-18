@@ -1,0 +1,9 @@
+#France = {
+	d_normandy = {
+		3442.7.2 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+		}
+	}
+#}

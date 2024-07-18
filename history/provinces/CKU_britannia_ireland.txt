@@ -1,0 +1,402 @@
+1012 = {	#iveagh
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1013 = {	#armagh
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1014 = {	#derry
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1015 = {	#newry
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1016 = {	#clanawley
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1017 = {	#monaghan
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1018 = {	#fermanagh
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1019 = {	#coleraine
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1020 = {	#down
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1021 = {	#tullyhaw
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1022 = {	#donegal
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1023 = {	#tyrone
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1024 = {	#cavan
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1025 = {	#carrickfergus
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1026 = {	#antrim
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1027 = {	#farney
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1028 = {	#fingal
+	2982.1.1 = {
+		culture = hiberno_norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1029 = {	#kildare
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1030 = {	#carlow
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1031 = {	#wicklow
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1032 = {	#wexford
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1033 = {	#laois
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1034 = {	#kilkenny
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1035 = {	#ferns
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1036 = {	#callan
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1037 = {	#dublin
+	2982.1.1 = {
+		culture = hiberno_norman
+		religion = catholic
+		holding = city_holding
+	}
+}
+1038 = {	#westmeath
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1039 = {	#irish_louth
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1040 = {	#offaly
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1041 = {	#meath
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1042 = {	#longford
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1043 = {	#waterford
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1044 = {	#nenagh
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1045 = {	#clonmel
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1046 = {	#clare
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1047 = {	#clancullen
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1048 = {	#tipperary
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1049 = {	#athenry
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1050 = {	#mayo
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1051 = {	#roscommon
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1052 = {	#westport
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1053 = {	#galway
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1054 = {	#gailenga
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1055 = {	#leitrim
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1056 = {	#sligo
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1057 = {	#boyle
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1058 = {	#tuam
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = church_holding
+	}
+}
+1059 = {	#kerry
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1060 = {	#clangibbon
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1061 = {	#mccarthy_mor
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1062 = {	#cork
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1063 = {	#muskerry
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1064 = {	#limerick
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1065 = {	#askeaton
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+
+1066 = {	#askeaton
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+
+1067 = {	#imokilly
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = castle_holding
+	}
+}
+
+1068 = {	#kinsale
+	2982.1.1 = {
+		culture = irish
+		religion = catholic
+		holding = city_holding
+	}
+}

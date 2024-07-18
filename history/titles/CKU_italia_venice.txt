@@ -1,0 +1,239 @@
+k_venice = {
+	3446.1.1 = {
+		government = republic_government
+		holder = CKU_foscari_008
+	}
+}
+
+#Venice
+d_venice = {
+	3446.1.1 = {
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_venice = {
+	3446.1.1 = {
+		change_development_level = 10
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_caorle = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_san_dona = {
+	3446.1.1 = {
+		change_development_level = 10
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_portogruaro = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_chioggia = {
+	3446.1.1 = {
+		change_development_level = 10
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_adria = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_este_1
+	}
+}
+c_udine = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+
+#Padua
+c_belluno = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_marostica = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_padua = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_tolmein = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_treviso = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_valmarino = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_feltre = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_val_camonica = {
+	3446.1.1 = {
+		change_development_level = 4
+		hodler = CKU_foscari_008
+	}
+}
+
+#Verona
+c_este = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_este_1
+	}
+}
+c_rovigo = {
+	3446.1.1 = {
+		change_development_level = 11
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_este_1
+	}
+}
+c_vicenza = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_verona = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_legnago = {
+	3446.1.1 = {
+		change_development_level = 10
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+
+c_tolmin = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+
+#Istria
+c_pulj = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_koper = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+
+#Ferrara
+d_ferrara = {
+	3446.1.1 = {
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_este_1
+	}
+}
+c_ravenna = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_imola = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_faenza = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_ferrara = {
+	3446.1.1 = {
+		change_development_level = 11
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_este_1
+	}
+}
+c_comacchio = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_este_1
+	}
+}
+
+c_rovereto = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+

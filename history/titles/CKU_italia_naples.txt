@@ -1,0 +1,441 @@
+c_bisignano = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_molise = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_venosa = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_l_aquila = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_nola = {
+	3445.1.1 = {
+		change_development_level = 11
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_soleto = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_alife = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_sant_angelo = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_ariano = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_atri = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_benevento = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_manfredonia = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_salerno = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_sangro = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_bari = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_taranto = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_gravina = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_teramo = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_cosenza = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = theocracy_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_ankchytaea = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = fuedal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_conversano = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_cilento = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_sora = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_sanseverino = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_otranto = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_ugento = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_bovalino = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_catanzaro = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_andria = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_monteodorisio = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_troia = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_san_severo = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_sinopoli = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_celano = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_squillace = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_san_donato = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_naples = {
+	3445.1.1 = {
+		change_development_level = 14
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_crotone = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_montescaglioso = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_reggio_calabria = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_brindisi = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_amalfi = {
+	3445.1.1 = {
+		change_development_level = 11
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_isernia = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_termoli = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_foggia = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_rossano = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_teano = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_capua = {
+	3445.1.1 = {
+		change_development_level = 11
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_lauria = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_eboli = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_chieti = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_marsico = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_ostuni = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_tricarico = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_montalto = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_avellino = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_trivento = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_venafro = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_policoro = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_potenza = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_lecce = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_popoli = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_cerignola = {
+	3445.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}

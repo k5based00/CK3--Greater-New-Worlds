@@ -1,0 +1,2672 @@
+﻿212057 = {
+	name = "KonrA_d"
+	# AKA: Konrad Ota
+	dynasty = CKU_premyslid
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "czech"
+	trait = diligent
+	trait = just
+	trait = ambitious
+	trait = calm
+	trait = education_diplomacy_3
+	father = 221522
+	mother = 218512
+	3138.1.1 = {
+		birth = "3138.1.1"
+	}
+	3193.9.9 = {
+		death = "3193.9.9"
+	}
+}
+
+212560 = {
+	name = "SobE_slav"
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = paranoid
+	trait = education_martial_3
+	father = 212872
+	mother = 219533
+	3130.1.1 = {
+		birth = "3130.1.1"
+	}
+	3175.1.1 = {
+		add_spouse = 221563
+	}
+	3178.1.1 = {
+		trait = excommunicated
+	}
+	3180.1.1 = {
+		remove_trait = excommunicated
+	}
+	3182.1.29 = {
+		death = "3182.1.29"
+	}
+}
+
+212850 = {
+	name = "BedR_ich"
+	dynasty = CKU_premyslid
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "czech"
+	trait = craven
+	trait = greedy
+	trait = education_intrigue_2
+	father = 212851
+	mother = 212852
+	3143.1.1 = {
+		birth = "3143.1.1"
+	}
+	3159.1.1 = {
+		add_spouse = 219512
+	}
+	3191.3.25 = {
+		death = "3191.3.25"
+	}
+}
+
+212851 = {
+	name = "Vladislav"
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "czech"
+	trait = brave
+	trait = lazy
+	trait = education_martial_3
+	father = 212861
+	mother = 212862
+	3112.10.2 = {
+		birth = "3112.10.2"
+	}
+	3141.1.1 = {
+		add_spouse = 212852
+	}
+	3156.1.1 = {
+		add_spouse = 212441
+	}
+	3176.1.18 = {
+		death = "3176.1.18"
+	}
+}
+
+212853 = {
+	name = "Z_ofie"
+	# AKA: Sofie
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = education_diplomacy_2
+	father = 212850
+	mother = 219512
+	3170.1.1 = {
+		birth = "3170.1.1"
+	}
+	3197.1.1 = {
+		death = "3197.1.1"
+	}
+}
+
+212854 = {
+	name = "Ludmila"
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "czech"
+	trait = generous
+	trait = temperate
+	trait = education_learning_3
+	father = 212850
+	mother = 219512
+	3172.1.1 = {
+		birth = "3172.1.1"
+	}
+	3242.8.5 = {
+		death = "3242.8.5"
+	}
+}
+
+212855 = {
+	name = "PR_emysl"
+	# AKA: Otakar
+	dynasty = CKU_premyslid
+	martial = 8
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "czech"
+	trait = arrogant
+	trait = lustful
+	trait = intellect_good_1
+	trait = education_intrigue_3
+	father = 212851
+	mother = 212441
+	3157.1.1 = {
+		birth = "3157.1.1"
+	}
+	3180.1.1 = {
+		add_spouse = 212044
+	}
+	3201.1.1 = {
+		add_spouse = 219503
+	}
+	3232.12.15 = {
+		death = "3232.12.15"
+	}
+}
+
+212856 = {
+	name = "Vladislav"
+	# AKA: Vladislav Jindrich
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = just
+	trait = humble
+	trait = education_stewardship_3
+	father = 212851
+	mother = 212441
+	3162.1.1 = {
+		birth = "3162.1.1"
+	}
+	3224.8.12 = {
+		death = "3224.8.12"
+	}
+}
+
+212858 = {
+	name = "VojtE_ch"
+	dynasty = CKU_premyslid
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "czech"
+	trait = stuttering
+	trait = temperate
+	trait = education_learning_2
+	father = 212851
+	mother = 212852
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3202.4.8 = {
+		death = "3202.4.8"
+	}
+}
+
+212859 = {
+	name = "AneZ_ka"
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = ambitious
+	trait = education_learning_3
+	father = 212851
+	mother = 212852
+	3150.1.1 = {
+		birth = "3150.1.1"
+	}
+	3230.6.7 = {
+		death = "3230.6.7"
+	}
+}
+
+212860 = {
+	name = "Richenza"
+	# AKA: Richza
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = lustful
+	trait = deceitful
+	trait = education_learning_3
+	father = 212851
+	mother = 212441
+	3164.1.1 = {
+		birth = "3164.1.1"
+	}
+	3185.4.19 = {
+		death = "3185.4.19"
+	}
+}
+
+212861 = {
+	name = "Vladislav"
+	dynasty = CKU_premyslid
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "czech"
+	trait = trusting
+	trait = education_martial_2
+	father = 522
+	mother = 765
+	3067.1.1 = {
+		birth = "3067.1.1"
+	}
+	3112.1.1 = {
+		add_spouse = 212862
+	}
+	3127.4.12 = {
+		death = "3127.4.12"
+	}
+}
+
+212863 = {
+	name = "Diepold"
+	dynasty = CKU_premyslid
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "czech"
+	trait = content
+	trait = diligent
+	trait = education_martial_3
+	father = 212861
+	mother = 212862
+	3115.1.1 = {
+		birth = "3115.1.1"
+	}
+	3156.1.1 = {
+		add_spouse = 212033
+	}
+	3169.8.14 = {
+		death = "3169.8.14"
+	}
+}
+
+212864 = {
+	name = "Diepold"
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "czech"
+	trait = chaste
+	trait = calm
+	trait = education_martial_3
+	father = 212863
+	mother = 212033
+	3157.1.1 = {
+		birth = "3157.1.1"
+	}
+	3192.11.21 = {
+		death = "3192.11.21"
+	}
+}
+
+212865 = {
+	name = "Hedvika"
+	# AKA: Hedwig
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "czech"
+	trait = arrogant
+	trait = lustful
+	trait = education_learning_3
+	father = 212863
+	mother = 212033
+	3157.1.1 = {
+		birth = "3157.1.1"
+	}
+	3212.2.19 = {
+		death = "3212.2.19"
+	}
+}
+
+212866 = {
+	name = "Diepold"
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = wrathful
+	trait = just
+	trait = education_learning_2
+	father = 212864
+	3172.10.2 = {
+		birth = "3172.10.2"
+	}
+	3198.1.1 = {
+		add_spouse = 221540
+	}
+	3225.1.1 = {
+		death = "3225.1.1"
+	}
+}
+
+212868 = {
+	name = "JindR_ich"
+	# AKA: Heinrich
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "czech"
+	trait = humble
+	trait = education_stewardship_1
+	father = 212861
+	mother = 212862
+	3118.1.1 = {
+		birth = "3118.1.1"
+	}
+	3171.8.1 = {
+		death = "3171.8.1"
+	}
+}
+
+212869 = {
+	name = "JindR_ich"
+	# AKA: Heinrich
+	dynasty = CKU_premyslid
+	martial = 6
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = zealous
+	trait = diligent
+	trait = education_learning_3
+	father = 212868
+	3153.1.1 = {
+		birth = "3153.1.1"
+	}
+	3199.6.15 = {
+		death = "3199.6.15"
+	}
+}
+
+212870 = {
+	name = "EliS_ka"
+	# AKA: Alzbeta
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "czech"
+	trait = deceitful
+	trait = education_learning_3
+	father = 212868
+	3163.1.1 = {
+		birth = "3163.1.1"
+	}
+	3213.1.1 = {
+		death = "3213.1.1"
+	}
+}
+
+212871 = {
+	name = "MarkE_ta"
+	# AKA: Marketa
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "czech"
+	trait = arrogant
+	trait = education_diplomacy_1
+	father = 212868
+	3167.1.1 = {
+		birth = "3167.1.1"
+	}
+	3217.1.1 = {
+		death = "3217.1.1"
+	}
+}
+
+212872 = {
+	name = "SobE_slav"
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "czech"
+	trait = brave
+	trait = calm
+	trait = education_martial_4
+	father = 522
+	mother = 765
+	3077.1.1 = {
+		birth = "3077.1.1"
+	}
+	3125.1.1 = {
+		add_spouse = 219533
+	}
+	3142.2.14 = {
+		death = "3142.2.14"
+	}
+}
+
+212873 = {
+	name = "OldR_ich"
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = just
+	trait = education_intrigue_1
+	father = 212872
+	mother = 219533
+	3136.1.1 = {
+		birth = "3136.1.1"
+	}
+	3172.1.1 = {
+		add_spouse = 212043
+	}
+	3179.1.1 = {
+		death = "3179.1.1"
+	}
+}
+
+212875 = {
+	name = "VA_clav"
+	# AKA: Vaclav
+	dynasty = CKU_premyslid
+	martial = 3
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = education_intrigue_1
+	father = 212872
+	mother = 219533
+	3139.1.1 = {
+		birth = "3139.1.1"
+	}
+	3194.1.9 = {
+		death = "3194.1.9"
+	}
+}
+
+212881 = {
+	name = "Judita"
+	# AKA: Judith
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "czech"
+	disallow_random_traits = yes
+	trait = generous
+	trait = humble
+	trait = calm
+	trait = education_learning_1
+	father = 522
+	mother = 477
+	3058.1.1 = {
+		birth = "3058.1.1"
+	}
+	3088.8.26 = {
+		death = "3088.8.26"
+	}
+}
+
+212889 = {
+	name = "Litold"
+	# AKA: Lupold
+	dynasty = CKU_premyslid
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "czech"
+	trait = education_martial_2
+	father = 526
+	mother = 531
+	3088.1.1 = {
+		birth = "3088.1.1"
+	}
+	3109.1.1 = {
+		add_spouse = 212890
+	}
+	3114.3.15 = {
+		death = "3114.3.15"
+	}
+}
+
+212892 = {
+	name = "Ota"
+	dynasty = CKU_premyslid
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	disallow_random_traits = yes
+	trait = patient
+	trait = just
+	trait = honest
+	trait = beauty_good_2
+	trait = education_martial_3
+	father = 518
+	mother = 1437
+	3047.1.1 = {
+		give_nickname = nick_the_handsome
+		birth = "3047.1.1"
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+	}
+	3068.1.1 = {
+		add_spouse = 473
+	}
+	3089.6.9 = {
+		death = "3089.6.9"
+	}
+}
+
+212893 = {
+	name = "Ota"
+	dynasty = CKU_premyslid
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = education_martial_2
+	father = 96009
+	mother = 96073
+	3124.1.1 = {
+		birth = "3124.1.1"
+	}
+	3162.5.12 = {
+		death = "3162.5.12"
+	}
+}
+
+212894 = {
+	name = "VladimI_r"
+	# AKA: Vladimir
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = wrathful
+	trait = diligent
+	trait = education_martial_2
+	father = 212893
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3201.1.1 = {
+		death = "3201.1.1"
+	}
+}
+
+212895 = {
+	name = "BR_etislav"
+	dynasty = CKU_premyslid
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = chaste
+	trait = calm
+	trait = diligent
+	trait = education_learning_3
+	father = 212893
+	3150.1.1 = {
+		birth = "3150.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+221521 = {
+	name = "Helena"
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 8
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6	
+	religion = "catholic"
+	culture = "czech"
+	trait = lustful
+	trait = intellect_good_1
+	trait = education_diplomacy_3
+	father = 221522
+	mother = 218512
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+221522 = {
+	name = "KonrA_d"
+	# AKA: Konrad
+	dynasty = CKU_premyslid
+	martial = 4
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "czech"
+	trait = ambitious
+	trait = education_stewardship_2
+	father = 212889
+	mother = 212890
+	3113.1.1 = {
+		birth = "3113.1.1"
+	}
+	3134.1.1 = {
+		add_spouse = 218512
+	}
+	3164.1.2 = {
+		death = "3164.1.2"
+	}
+}
+
+232526 = {
+	name = "Helena"
+	# AKA: Helena-Eirene
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "czech"
+	trait = calm
+	trait = education_intrigue_2
+	father = 212850
+	mother = 219512
+	3160.1.1 = {
+		birth = "3160.1.1"
+	}
+	3166.1.1 = {
+		name = "Eirene"
+	}
+	3223.1.1 = {
+		death = "3223.1.1"
+	}
+}
+
+462855 = {
+	name = "EliS_ka"
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = "czech"
+	trait = just
+#	trait = stressed
+	trait = arrogant
+	trait = beauty_good_1
+	trait = education_learning_2
+	father = 96002
+	mother = 7526 #Jutta von Habsburg
+	3294.1.20 = {
+		birth = "3294.1.20"
+	}
+	3332.9.28 = {
+		death = "3332.9.28"
+	}
+}
+
+500 = {
+	name = "BoR_ivoj"
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 5
+	religion = "slavic_pagan"
+	culture = "czech"
+	trait = deceitful
+	trait = cynical
+	trait = education_stewardship_3
+	father = 168352
+	mother = 168356
+	2854.1.1 = {
+		birth = "2854.1.1"
+	}
+	2876.1.1 = {
+		add_spouse = 501
+	}
+	2885.1.1 = {
+		religion = "catholic"
+
+	}
+	2892.1.1 = {
+		death = "2892.1.1"
+	}
+}
+
+
+502 = {
+	name = "SpytihnE_v"
+	dynasty = CKU_premyslid
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "czech"
+	trait = calm
+	trait = deceitful
+	trait = education_martial_3
+	father = 500
+	mother = 501
+	2877.1.1 = {
+		birth = "2877.1.1"
+	}
+	2885.1.1 = {
+		religion = "catholic"
+
+	}
+	2917.1.1 = {
+		death = "2917.1.1"
+	}
+}
+
+504 = {
+	name = "Vratislav"
+	dynasty = CKU_premyslid
+	martial = 6
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "czech"
+	trait = humble
+	trait = education_learning_2
+	father = 500
+	mother = 501
+	2890.1.1 = {
+		birth = "2890.1.1"
+	}
+	2908.1.1 = {
+		add_spouse = 505
+	}
+	2923.1.1 = {
+		death = "2923.1.1"
+	}
+}
+
+CKU_premyslid = {
+	name = "VA_clav"
+	# AKA: Vaclav
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = temperate
+	trait = education_martial_3
+	father = 504
+	mother = 505
+	2909.1.1 = {
+		birth = "2909.1.1"
+	}
+	2937.9.28 = {
+		death = {
+			death_reason = death_murder
+			killer = 508
+		}
+	}
+}
+
+508 = {
+	name = "Boleslav"
+	dynasty = CKU_premyslid
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "czech"
+	trait = lisping
+	trait = kinslayer_3
+	trait = greedy
+	trait = education_intrigue_2
+	father = 504
+	mother = 505
+	2917.1.1 = {
+		give_nickname = nick_the_cruel
+		birth = "2917.1.1"
+	}
+	2933.1.1 = {
+		add_spouse = 507
+	}
+	2974.1.1 = {
+		death = "2974.1.1"
+	}
+}
+
+509 = {
+	name = "Doubravka"
+	# AKA: Dubravka
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "czech"
+	trait = arrogant
+	trait = cynical
+	trait = education_learning_3
+	father = 508
+	mother = 507
+	2935.1.1 = {
+		birth = "2935.1.1"
+	}
+	2979.1.1 = {
+		death = "2979.1.1"
+	}
+}
+
+510 = {
+	name = "Boleslav"
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = just
+	trait = education_stewardship_3
+	father = 508
+	mother = 507
+	2934.1.1 = {
+		give_nickname = nick_the_pious
+		birth = "2934.1.1"
+	}
+	2954.1.1 = {
+		add_spouse = 511
+	}
+	2979.1.1 = {
+		add_spouse = 513
+	}
+	3001.1.1 = {
+		death = "3001.1.1"
+	}
+}
+
+
+512 = {
+	name = "Boleslav"
+	dynasty = CKU_premyslid
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = calm
+	trait = education_martial_2
+	father = 510
+	mother = 511
+	2967.1.1 = {
+		birth = "2967.1.1"
+	}
+	3039.1.1 = {
+		death = "3039.1.1"
+	}
+}
+
+514 = {
+	name = "JaromI_r"
+	# AKA: Jaromir
+	dynasty = CKU_premyslid
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = honest
+	trait = disfigured
+	trait = education_martial_2
+	father = 510
+	mother = 513
+	2980.1.1 = {
+		birth = "2980.1.1"
+	}
+	3037.1.1 = {
+		death = "3037.1.1"
+	}
+}
+
+516 = {
+	name = "OldR_ich"
+	dynasty = CKU_premyslid
+	martial = 6
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "czech"
+	trait = lustful
+	trait = education_martial_2
+	father = 510
+	mother = 513
+	2982.1.1 = {
+		birth = "2982.1.1"
+	}
+	3003.1.1 = {
+		add_spouse = 517
+	}
+	3036.1.1 = {
+		death = "3036.1.1"
+	}
+}
+
+518 = {
+	name = "BR_etislav" #The czech Achilles
+	dynasty = CKU_premyslid
+	martial = 9
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "czech"
+	trait = deceitful
+	trait = education_martial_2
+	father = 516
+	mother = 517
+	3004.1.1 = {
+		birth = "3004.1.1"
+	}
+	3032.1.10 = {
+		add_spouse = 1437
+	}
+	3057.1.10 = {
+		death = "3057.1.10"
+	}
+}
+
+520 = {
+	name = "SpytihnE_v"
+	dynasty = CKU_premyslid
+	martial = 8
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = education_martial_2
+	father = 518
+	mother = 1437
+	3033.1.1 = {
+		birth = "3033.1.1"
+	}
+	3052.1.1 = {
+		add_spouse = 532
+	}
+	3063.1.1 = {
+		death = "3063.1.1"
+	}
+}
+
+522 = {
+	name = "Vratislav"
+	dynasty = CKU_premyslid
+	martial = 8
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "czech"
+	trait = just
+	trait = diligent
+	trait = wrathful
+	trait = education_martial_3
+	sexuality = heterosexual
+	father = 518
+	mother = 1437
+	3034.1.1 = {
+		birth = "3034.1.1"
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+	}
+	3058.1.1 = {
+		add_spouse = 477
+	}
+	3064.2.1 = {
+		add_spouse = 765
+	}
+	3094.1.14 = {
+		death = "3094.1.14"
+	}
+}
+
+526 = {
+	name = "KonrA_d"
+	# AKA: Konrad
+	dynasty = CKU_premyslid
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "czech"
+	trait = generous
+	trait = arrogant
+	trait = honest
+	trait = education_martial_2
+	father = 518
+	mother = 1437
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	3067.1.1 = {
+		add_spouse = 531
+	}
+	3094.9.6 = {
+		death = "3094.9.6"
+	}
+}
+
+528 = {
+	name = "JaromI_r"
+	# AKA: Jaromir
+	dynasty = CKU_premyslid
+	martial = 3
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "czech"
+	trait = arbitrary
+	trait = lazy
+	trait = hunter_1
+	trait = education_learning_2
+	father = 518
+	mother = 1437
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3092.6.26 = {
+		death = "3092.6.26"
+	}
+}
+
+530 = {
+	name = "BR_etislav"
+	dynasty = CKU_premyslid
+	martial = 5
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	disallow_random_traits = yes
+	trait = compassionate
+	trait = honest
+	trait = generous
+	trait = education_stewardship_2
+	father = 522
+	mother = 477
+	3060.1.13 = {
+		birth = "3060.1.13"
+	}
+	#3096.1.1 =
+	#{
+		#add_spouse = Lukarta von Bogen
+	#}
+	3102.12.22 = {
+		death = "3102.12.22"
+	}
+}
+
+534 = {
+	name = "Svatobor"
+	# AKA: Svatobor Friedrich
+	dynasty = CKU_premyslid
+	martial = 3
+	diplomacy = 5
+	intrigue = 2
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = education_learning_2
+	father = 520
+	mother = 532
+	3057.1.1 = {
+		birth = "3057.1.1"
+	}
+	3088.2.23 = {
+		death = "3088.2.23"
+	}
+}
+
+8500 = {
+	name = "Boleslav"
+	dynasty = CKU_premyslid
+	martial = 3
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = diligent
+	trait = education_stewardship_2
+	father = 522
+	mother = 765
+	3065.1.15 = {
+		birth = "3065.1.15"
+	}
+	3093.8.11 = {
+		death = "3093.8.11"
+	}
+}
+
+8502 = {
+	name = "Ludmila"
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 3
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "czech"
+	trait = education_learning_2
+	father = 522
+	mother = 477
+	3062.1.1 = {
+		birth = "3062.1.1"
+	}
+	3112.1.1 = {
+		death = "3112.1.1"
+	}
+}
+
+8504 = {
+	name = "BoR_ivoj"
+	dynasty = CKU_premyslid
+	martial = 2
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 2
+	religion = "catholic"
+	culture = "czech"
+	trait = greedy
+	trait = trusting
+	trait = education_martial_1
+	father = 522
+	mother = 765
+	3066.1.1 = {
+		birth = "3066.1.1"
+	}
+	3102.1.1 = {
+		add_spouse = 183188 #Gerberga von Babenberg
+	}
+	3105.1.1 = {
+		remove_trait = trusting
+	}
+	3107.1.1 = {
+		trait = paranoid
+	}
+	3126.2.2 = {
+		death = "3126.2.2"
+	}
+}
+
+96000 = {
+	name = "VA_clav"
+	# AKA: Vaclav
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = arbitrary
+	trait = calm
+	trait = trusting
+	trait = education_diplomacy_3
+	father = 212855
+	mother = 219503
+	3207.1.1 = {
+		birth = "3207.1.1"
+	}
+	3226.1.1 = {
+		add_spouse = 30777
+	}
+	3249.1.3 = {
+		trait = hunter_1
+	}
+	3249.1.3 = {
+		trait = depressed_1
+	}
+	3255.9.23 = {
+		death = "3255.9.23"
+	}
+}
+
+96001 = {
+	name = "PR_emysl"
+	# AKA: Otakar
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = ambitious
+	trait = wrathful
+	trait = just
+	trait = brave
+	trait = intellect_good_1
+	trait = education_stewardship_4
+	father = 96000
+	mother = 30777
+	3235.1.1 = {
+		birth = "3235.1.1"
+	}
+	3254.1.1 = {
+		add_spouse = 30810
+	}
+	3262.7.12 = {
+		give_nickname = nick_the_magnificent
+	}
+	3263.1.1 = {
+		remove_spouse = 30810
+	}
+	3263.1.3 = {
+		add_spouse = 98016
+	}
+	3280.8.26 = {
+		death = "3280.8.26"
+	}
+}
+
+96002 = {
+	name = "VA_clav"
+	# AKA: Vaclav
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = lustful
+	trait = generous
+	trait = arrogant
+	trait = education_diplomacy_3
+	father = 96001
+	mother = 98016
+	3273.9.27 = {
+		birth = "3273.9.27"
+	}
+	3287.1.24 = {
+		add_spouse = 7526 #Jutta Habsburg
+	}
+	3305.5.26 = {
+		add_spouse = 125978 #Elzbieta Ryksa
+	}
+	3307.6.21 = {
+		death = "3307.6.21"
+	}
+}
+
+96003 = {
+	name = "VA_clav"
+	# AKA: Vaclav
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = reveler_1
+	trait = lazy
+	trait = education_stewardship_2
+	trait = twin
+	father = 96002
+	mother = 7526 #Jutta von Habsburg
+	3291.10.6 = {
+		birth = "3291.10.6"
+	}
+	3307.10.5 = {
+		add_spouse = 125952 #Viola/Elzbieta Cieszynska
+	}
+	3308.1.1 = {
+		remove_trait = lazy
+	}
+	3308.8.4 = {
+		death = "3308.8.4"
+	}
+}
+
+96004 = {
+	name = "Vratislav"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96012
+	3114.1.1 = {
+		birth = "3114.1.1"
+	}
+	3158.1.2 = {
+		death = "3158.1.2"
+	}
+}
+
+96005 = {
+	name = "SpytihnE_v"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96004
+	3145.1.1 = {
+		birth = "3145.1.1"
+	}
+	3201.1.1 = {
+		death = "3201.1.1"
+	}
+}
+
+96006 = {
+	name = "Svatopluk"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96004
+	3147.1.1 = {
+		birth = "3147.1.1"
+	}
+	3202.1.1 = {
+		death = "3202.1.1"
+	}
+}
+
+96007 = {
+	name = "VA_clav"
+	# AKA: Vaclav Jindrich
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96011
+	3109.1.1 = {
+		birth = "3109.1.1"
+	}
+	3132.3.1 = {
+		death = "3132.3.1"
+	}
+}
+
+96008 = {
+	name = "Eufemie"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96012
+	mother = 96073
+	3117.1.1 = {
+		birth = "3117.1.1"
+	}
+	3174.1.1 = {
+		death = "3174.1.1"
+	}
+}
+
+96009 = {
+	name = "Ota"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = wrathful
+	trait = arrogant
+	trait = trusting
+	trait = education_martial_2
+	father = 212892
+	mother = 473
+	3087.1.1 = {
+		birth = "3087.1.1"
+	}
+	3116.1.1 = {
+		add_spouse = 96073
+	}
+	3128.2.18 = {
+		death = "3128.2.18"
+	}
+}
+
+96010 = {
+	name = "Svatava"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212893
+	3146.1.1 = {
+		birth = "3146.1.1"
+	}
+	3161.1.1 = {
+		death = "3161.1.1"
+	}
+}
+
+96011 = {
+	name = "Svatopluk"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = calm
+	trait = diligent
+	trait = education_martial_2
+	father = 212892
+	mother = 473
+	3069.1.1 = {
+		birth = "3069.1.1"
+	}
+	3111.9.21 = {
+		death = "3111.9.21"
+	}
+}
+
+96012 = {
+	name = "OldR_ich"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = deceitful
+	trait = education_martial_2
+	father = 526
+	mother = 531
+	3078.1.1 = {
+		birth = "3078.1.1"
+	}
+	3117.3.27 = {
+		death = "3117.3.27"
+	}
+}
+
+96014 = {
+	name = "Eufemie"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212893
+	3151.1.1 = {
+		birth = "3151.1.1"
+	}
+	3161.1.1 = {
+		death = "3161.1.1"
+	}
+}
+
+96015 = {
+	name = "Hedvika"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96009
+	3128.1.1 = {
+		birth = "3128.1.1"
+	}
+	3189.1.1 = {
+		death = "3189.1.1"
+	}
+}
+
+96016 = {
+	name = "Marie"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212893
+	3153.1.1 = {
+		birth = "3153.1.1"
+	}
+	3161.1.1 = {
+		death = "3161.1.1"
+	}
+}
+
+96017 = {
+	name = "BR_etislav"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 530
+	#mother = Lukarta von Bogen
+	3097.6.30 = {
+		birth = "3097.6.30"
+	}
+	3134.3.8 = {
+		death = "3134.3.8"
+	}
+}
+
+96018 = {
+	name = "JaromI_r"
+	# AKA: Jaromir
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = hunter_1
+	trait = education_martial_2
+	father = 8504
+	mother = 183188 #Gerberga von Babenberg
+	3103.1.1 = {
+		birth = "3103.1.1"
+	}
+	3140.1.1 = {
+		death = "3140.1.1"
+	}
+}
+
+96019 = {
+	name = "SpytihnE_v"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 8504
+	mother = 183188 #Gerberga von Babenberg
+	3103.1.1 = {
+		birth = "3103.1.1"
+	}
+	3159.1.1 = {
+		death = "3159.1.1"
+	}
+}
+
+96020 = {
+	name = "Litold"
+	# AKA: Lupold
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 8504
+	mother = 183188 #Gerberga von Babenberg
+	3104.1.1 = {
+		birth = "3104.1.1"
+	}
+	3145.1.1 = {
+		death = "3145.1.1"
+	}
+}
+
+96021 = {
+	name = "Richenza"
+	# AKA: Richza
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 8504
+	mother = 183188 #Gerberga von Babenberg
+	3105.1.1 = {
+		birth = "3105.1.1"
+	}
+	3125.1.1 = {
+		death = "3125.1.1"
+	}
+}
+
+96022 = {
+	name = "Albrecht"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 8504
+	mother = 183188 #Gerberga von Babenberg
+	3106.1.1 = {
+		birth = "3106.1.1"
+	}
+	3125.1.1 = {
+		death = "3125.1.1"
+	}
+}
+
+96023 = {
+	name = "Judita"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 522
+	mother = 765
+	3069.1.1 = {
+		birth = "3069.1.1"
+	}
+	3110.1.1 = {
+		death = "3110.1.1"
+	}
+}
+
+96024 = {
+	name = "Vladislav"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212872
+	mother = 219533
+	3126.1.1 = {
+		birth = "3126.1.1"
+	}
+	3167.1.1 = {
+		death = "3167.1.1"
+	}
+}
+
+96025 = {
+	name = "Marie"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212872
+	mother = 219533
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3174.1.1 = {
+		death = "3174.1.1"
+	}
+}
+
+96026 = {
+	name = "Svatava"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212861
+	mother = 212862
+	3113.10.2 = {
+		birth = "3113.10.2"
+	}
+	3149.1.29 = {
+		death = "3149.1.29"
+	}
+}
+
+96027 = {
+	name = "Diepold"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = education_learning_3
+	father = 212866
+	mother = 221540
+	3198.10.2 = {
+		birth = "3198.10.2"
+	}
+	3228.1.1 = {
+		death = "3228.1.1"
+	}
+}
+
+96028 = {
+	name = "Boleslav"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = education_martial_2
+	father = 212866
+	mother = 221540
+	3200.1.1 = {
+		birth = "3200.1.1"
+	}
+	3243.4.9 = {
+		death = "3243.4.9"
+	}
+}
+
+96029 = {
+	name = "SobE_slav"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212866
+	mother = 221540
+	3201.1.1 = {
+		birth = "3201.1.1"
+	}
+	3248.1.1 = {
+		death = "3248.1.1"
+	}
+}
+
+96030 = {
+	name = "BoR_ivoj"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212866
+	mother = 221540
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3237.1.1 = {
+		death = "3237.1.1"
+	}
+}
+
+96032 = {
+	name = "Vratislav"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212850
+	mother = 219512
+	3160.1.1 = {
+		birth = "3160.1.1"
+	}
+	3182.1.1 = {
+		death = "3182.1.1"
+	}
+}
+
+96033 = {
+	name = "Olga"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212850
+	mother = 219512
+	3161.1.1 = {
+		birth = "3161.1.1"
+	}
+	3165.1.1 = {
+		death = "3165.1.1"
+	}
+}
+
+96034 = {
+	name = "MarkE_ta"
+	# AKA: Marketa
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212850
+	mother = 219512
+	3180.1.1 = {
+		birth = "3180.1.1"
+	}
+	3185.1.1 = {
+		death = "3185.1.1"
+	}
+}
+
+96035 = {
+	name = "Svatopluk"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = wrathful
+	father = 212851
+	mother = 212852
+	3146.1.1 = {
+		birth = "3146.1.1"
+	}
+	3166.1.1 = {
+		add_spouse = 98021
+	}
+	3172.10.15 = {
+		death = "3172.10.15"
+	}
+}
+
+96036 = {
+	name = "Vratislav"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = education_martial_1
+	father = 212855
+	mother = 212044
+	3188.1.1 = {
+		birth = "3188.1.1"
+	}
+	3199.1.1 = {
+		trait = bastard
+	}
+	3199.1.1 = {
+		dynasty = 10109
+	}
+	3228.1.1 = {
+		death = "3228.1.1"
+	}
+}
+
+96037 = {
+	name = "MarkE_ta"
+	# AKA: Marketa
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = gregarious
+	father = 212855
+	mother = 212044
+	3188.1.1 = {
+		birth = "3188.1.1"
+	}
+	3215.5.24 = {
+		death = "3215.5.24"
+	}
+}
+
+96038 = {
+	name = "BoZ_islava"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212855
+	mother = 212044
+	3198.1.1 = {
+		birth = "3198.1.1"
+	}
+	3247.1.1 = {
+		death = "3247.1.1"
+	}
+}
+
+96039 = {
+	name = "Hedvika"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212855
+	mother = 212044
+	3199.1.1 = {
+		birth = "3199.1.1"
+	}
+	3262.1.1 = {
+		death = "3262.1.1"
+	}
+}
+
+96040 = {
+	name = "Vratislav"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212855
+	mother = 219503
+	3202.1.1 = {
+		birth = "3202.1.1"
+	}
+	3203.1.1 = {
+		death = "3203.1.1"
+	}
+}
+
+96041 = {
+	name = "Judita"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212855
+	mother = 219503
+	3203.1.1 = {
+		birth = "3203.1.1"
+	}
+	3232.6.2 = {
+		death = "3232.6.2"
+	}
+}
+
+96042 = {
+	name = "Anna"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = diligent
+	trait = education_learning_2
+	father = 212855
+	mother = 219503
+	3206.1.1 = {
+		birth = "3206.1.1"
+	}
+	3267.6.23 = {
+		death = "3267.6.23"
+	}
+}
+
+96043 = {
+	name = "Vladislav"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 212855
+	mother = 219503
+	3209.1.1 = {
+		birth = "3209.1.1"
+	}
+	3229.1.1 = {
+		death = "3229.1.1"
+	}
+}
+
+96044 = {
+	name = "PR_emysl"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = ambitious
+	father = 212855
+	mother = 219503
+	3211.1.1 = {
+		birth = "3211.1.1"
+	}
+	#3234.9.23 = {
+		#add_spouse = Margaret von Meran
+	#}
+	3241.10.16 = {
+		death = "3241.10.16"
+	}
+}
+
+96045 = {
+	name = "AneZ_ka"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = humble
+	trait = generous
+	trait = content
+	trait = education_learning_4
+	father = 212855
+	mother = 219503
+	3213.1.1 = {
+		birth = "3213.1.1"
+	}
+	3221.1.1 = {
+		trait = celibate
+	}
+	3284.3.6 = {
+		death = "3284.3.6"
+	}
+}
+
+96046 = {
+	name = "VilemI_na"
+	# AKA: Vilemina
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = gregarious
+	trait = education_learning_2
+	father = 212855
+	mother = 219503
+	3212.1.1 = {
+		birth = "3212.1.1"
+	}
+	3283.8.24 = {
+		death = "3283.8.24"
+	}
+}
+
+96047 = {
+	name = "Vladislav"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96000
+	mother = 30777
+	3229.1.1 = {
+		birth = "3229.1.1"
+	}
+	#3248.1.1 = {
+		#add_spouse = Gertrude von Babenberg
+	#}
+	3249.1.3 = {
+		death = "3249.1.3"
+	}
+}
+
+96048 = {
+	name = "AneZ_ka"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96000
+	mother = 30777
+	3229.1.1 = {
+		birth = "3229.1.1"
+	}
+	3270.10.10 = {
+		death = "3270.10.10"
+	}
+}
+
+96049 = {
+	name = "BoZ_ena"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96000
+	mother = 30777
+	3230.1.1 = {
+		birth = "3230.1.1"
+	}
+	3288.5.25 = {
+		death = "3288.5.25"
+	}
+}
+
+96050 = {
+	name = "Kunhuta"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = education_learning_1
+	father = 96001
+	mother = 98016
+	3267.1.1 = {
+		birth = "3267.1.1"
+	}
+	3323.11.27 = {
+		death = "3323.11.27"
+	}
+}
+
+96051 = {
+	name = "AneZ_ka"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96001
+	mother = 98016
+	3271.9.5 = {
+		birth = "3271.9.5"
+	}
+	3298.5.17 = {
+		death = "3298.5.17"
+	}
+}
+
+96055 = {
+	name = "Jan"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = bastard
+	trait = cynical
+	trait = gregarious
+	trait = education_learning_4
+	father = 96001
+	3258.1.1 = {
+		birth = "3258.1.1"
+	}
+	3298.8.26 = {
+		death = "3298.8.26"
+	}
+}
+
+96056 = {
+	name = "PR_emysl"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96002
+	mother = 7526 #Jutta von Habsburg
+	3290.1.1 = {
+		birth = "3290.1.1"
+	}
+	3291.1.1 = {
+		death = "3291.1.1"
+	}
+}
+
+96057 = {
+	name = "AneZ_ka"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = twin
+	father = 96002
+	mother = 7526 #Jutta von Habsburg
+	3291.10.6 = {
+		birth = "3291.10.6"
+	}
+	3298.1.1 = {
+		death = "3298.1.1"
+	}
+}
+
+96058 = {
+	name = "Anna"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96002
+	mother = 7526 #Jutta von Habsburg
+	3292.10.15 = {
+		birth = "3292.10.15"
+	}
+	3315.9.3 = {
+		death = "3315.9.3"
+	}
+}
+
+96059 = {
+	name = "Guta"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96002
+	mother = 7526 #Jutta von Habsburg
+	3295.1.1 = {
+		birth = "3295.1.1"
+	}
+	3296.1.1 = {
+		death = "3296.1.1"
+	}
+}
+
+96060 = {
+	name = "Jan"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96002
+	mother = 7526 #Jutta von Habsburg
+	3296.1.1 = {
+		birth = "3296.1.1"
+	}
+	3297.1.1 = {
+		death = "3297.1.1"
+	}
+}
+
+96061 = {
+	name = "MarkE_ta"
+	# AKA: Marketa
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = shy
+	trait = content
+	father = 96002
+	mother = 7526 #Jutta von Habsburg
+	3298.2.21 = {
+		birth = "3298.2.21"
+	}
+	3324.4.8 = {
+		death = "3324.4.8"
+	}
+}
+
+96062 = {
+	name = "Guta"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96002
+	mother = 7526 #Jutta von Habsburg
+	3299.1.1 = {
+		birth = "3299.1.1"
+	}
+	3300.1.1 = {
+		death = "3300.1.1"
+	}
+}
+
+96063 = {
+	name = "AneZ_ka"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 96002
+	mother = 125978 #Elzbieta Ryksa
+	3307.6.15 = {
+		birth = "3307.6.15"
+	}
+	3338.1.1 = {
+		death = "3338.1.1"
+	}
+}
+
+96064 = {
+	name = "Jan"
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	trait = bastard
+	trait = education_learning_3
+	father = 96002
+	3298.1.1 = {
+		birth = "3298.1.1"
+	}
+	3353.9.27 = {
+		death = "3353.9.27"
+	}
+}
+
+222623 = {
+	name = "Vladislava"
+	female = yes
+	dynasty = CKU_premyslid
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "czech"
+	trait = education_learning_2
+	father = 212851
+	mother = 212852
+	3143.1.1 = {
+		birth = "3143.1.1"
+	}
+	3184.1.1 = {
+		death = "3184.1.1"
+	}
+}
+
+168345 = {
+	name = "PR_emysl"
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	2696.1.1 = {
+		birth = "2696.1.1"
+	}
+	
+	2747.1.1 = {
+		death = "2747.1.1"
+	}
+}
+
+168346 = {
+	name = "Nezamysl"
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	father = 168345
+	2717.1.1 = {
+		birth = "2717.1.1"
+	}
+	
+	2785.1.1 = {
+		death = "2785.1.1"
+	}
+}
+
+168347 = {
+	name = "Mnata"
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	father = 168346
+	2734.1.1 = {
+		birth = "2734.1.1"
+	}
+	
+	2806.1.1 = {
+		death = "2806.1.1"
+	}
+}
+
+168348 = {
+	name = "Vojen"
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	father = 168347
+	2750.1.1 = {
+		birth = "2750.1.1"
+	}
+	
+	2822.1.1 = {
+		death = "2822.1.1"
+	}
+}
+
+168349 = {
+	name = "Unislav"
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	father = 168348
+	2766.1.1 = {
+		birth = "2766.1.1"
+	}
+	
+	2835.1.1 = {
+		death = "2835.1.1"
+	}
+}
+
+168350 = {
+	name = "KR_esomysl"
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	father = 168349
+	2784.1.1 = {
+		birth = "2784.1.1"
+	}
+	
+	2853.1.1 = {
+		death = "2853.1.1"
+	}
+}
+
+168351 = {
+	name = "Neklan"
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	father = 168350
+	2802.1.1 = {
+		birth = "2802.1.1"
+	}
+	2821.1.1 = {
+		add_spouse = 168355
+	}
+	2875.1.1 = {
+		death = "2875.1.1"
+	}
+}
+
+168352 = {
+	name = "HostivI_t"
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	father = 168351
+	mother = 168355
+	2822.1.1 = {
+		birth = "2822.1.1"
+	}
+	2853.1.1 = {
+		add_spouse = 168356
+	}
+	2872.1.1 = {
+		death = "2872.1.1"
+	}
+}
+
+
+
+168353 = {
+	name = "SpytimI_r" #revolted against his kinsman Borivoj in 885
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	father = 168617
+	2847.1.1 = {
+		birth = "2847.1.1"
+	}
+	
+	2887.1.1 = {
+		death = "2887.1.1"
+	}
+}
+
+168354 = {
+	name = "StrojmI_r" #revolted against his kinsmen Borivoj in 885
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	father = 168617
+	2849.1.1 = {
+		birth = "2849.1.1"
+	}
+	
+	2887.1.1 = {
+		death = "2887.1.1"
+	}
+}
+168361 = {
+	name = "StR_ezislava"
+	female = yes
+	dynasty = CKU_premyslid
+	religion = "catholic"
+	culture = "czech"
+	father = 504
+	mother = 505
+	2922.1.1 = {
+		birth = "2922.1.1"
+	}
+	
+	2989.1.1 = {
+		death = "2989.1.1"
+	}
+}
+168617 = {
+	name = "Diepold"
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	father = 168351
+	mother = 168355
+	2827.1.1 = {
+		birth = yes
+	}
+	
+	2867.1.1 = {
+		death = yes
+	}
+}
+146174 = {
+	name = "KR_esomysl"
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	father = 168345
+	2724.1.1 = {
+		birth = yes
+	}
+	2789.1.1 = {
+		death = yes
+	}
+}
+
+146175 = {
+	name = "StrojmI_r"
+	dynasty = CKU_premyslid
+	religion = "slavic_pagan"
+	culture = "czech"
+	father = 146174
+	2744.1.1 = {
+		birth = yes
+	}
+	2803.1.1 = {
+		death = yes
+	}
+}
+273027 = {
+	name = "Svatava" #unknown daughter of Boleslav III.
+	female = yes
+	dynasty = CKU_premyslid
+	religion = catholic
+	culture = czech
+	father = 512
+	mother = 273028
+	2985.1.1 = {
+		birth = yes
+	}
+	3001.1.1 = {
+		add_spouse = 273026
+	}
+	3037.1.1 = {
+		death = yes
+	}
+}
+96052 = {
+	name = "MikulA_S_"
+	# AKA: Mikulas
+	dynasty_house = house_premyslid_opava
+	religion = "catholic"
+	culture = "czech"
+	trait = bastard
+	trait = just
+	trait = education_martial_3
+	father = 96001
+	3257.1.1 = {
+		birth = "3257.1.1"
+	}
+	3320.7.26 = {
+		death = "3320.7.26"
+	}
+}
+
+96053 = {
+	name = "MikulA_s"
+	# AKA: Mikulas
+	dynasty_house = house_premyslid_opava
+	religion = "catholic"
+	culture = "czech"
+	father = 96052
+	3290.1.1 = {
+		birth = "3290.1.1"
+	}
+	#3320.1.1 = {
+		#add_spouse = Anna Raciborska
+	#}
+	3367.12.8 = {
+		death = "3367.12.8"
+	}
+}
+
+96054 = {
+	name = "Jan"
+	dynasty_house = house_premyslid_opava
+	religion = "catholic"
+	culture = "czech"
+	father = 96053
+	#mother = Anna Raciborska
+	3334.1.1 = {
+		birth = "3334.1.1"
+	}
+	3382.1.1 = {
+		death = "3382.1.1"
+	}
+}
+96065 = {
+	name = "MarkE_ta"
+	# AKA: Marketa
+	female = yes
+	dynasty_house = house_premyslid_opava
+	religion = "catholic"
+	culture = "czech"
+	father = 96053
+	#mother = Anna Raciborska
+	3327.1.1 = {
+		birth = "3327.1.1"
+	}
+	3365.1.1 = {
+		death = "3365.1.1"
+	}
+}
+471525 = {
+	name = "Eufemia"
+	female = yes
+	dynasty_house = house_premyslid_opava
+	religion = "catholic"
+	culture = "czech"
+	father = 96053
+	mother = 125972
+	3321.1.2 = {
+			birth = "3321.1.2"
+	}
+	3354.1.2 = {
+			death = "3354.1.2"
+	}
+}

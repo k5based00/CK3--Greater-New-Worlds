@@ -1,0 +1,308 @@
+968 = {	#skye
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+969 = {	#bute
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+970 = {	#morvern
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+971 = {	#argyll
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+972 = {	#islay
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+973 = {	#mull
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+974 = {	#uist
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+975 = {	#lewis_and_harris
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+976 = {	#isle_of_man
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+977 = {	#inverness
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = city_holding
+	}
+}
+978 = {	#sutherland
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+979 = {	#wester_ross
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+980 = {	#easter_ross
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = city_holding
+	}
+}
+981 = {	#banff
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = city_holding
+	}
+}
+982 = {	#caithness
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+983 = {	#moray
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = castle_holding
+	}
+}
+984 = {	#peeble
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = city_holding
+	}
+}
+985 = {	#east_lothian
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = city_holding
+	}
+}
+986 = {	#midlothian
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = castle_holding
+	}
+}
+987 = {	#berwick
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = city_holding
+	}
+}
+988 = {	#west_lothian
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = castle_holding
+	}
+}
+989 = {	#selkirk
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = city_holding
+	}
+}
+990 = {	#roxburgh
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = castle_holding
+	}
+}
+991 = {	#kirkcudbright
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+992 = {	#carrick
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+993 = {	#lanark
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = city_holding
+	}
+}
+994 = {	#renfrew
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = city_holding
+	}
+}
+995 = {	#wigtown
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = city_holding
+	}
+}
+996 = {	#dumfries
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = city_holding
+	}
+}
+997 = {	#stirling
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = city_holding
+	}
+}
+998 = {	#dunbarton
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = city_holding
+	}
+}
+999 = {	#ayr
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = city_holding
+	}
+}
+1000 = {	#orkney
+	2982.1.1 = {
+		culture = norwegian
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1001 = {	#shetland
+	2982.1.1 = {
+		culture = norwegian
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1002 = {	#angus
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1003 = {	#kincardine
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1004 = {	#balmoral
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1005 = {	#perth
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = city_holding
+	}
+}
+1006 = {	#aberdeen
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = city_holding
+	}
+}
+1007 = {	#kinross
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1008 = {	#atholl
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1009 = {	#strathearn
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1010 = {	#fife
+	2982.1.1 = {
+		culture = scots
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1011 = {	#clackmannan
+	2982.1.1 = {
+		culture = gaelic
+		religion = catholic
+		holding = castle_holding
+	}
+}

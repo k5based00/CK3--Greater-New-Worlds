@@ -1,0 +1,385 @@
+#Scotland = {
+	k_scotland = {
+		3373.1.1 = {
+			government = feudal_government
+			holder = CKU_stewart_97
+		}
+		3392.1.1 = {
+			holder = CKU_stewart_98
+		}
+		3408.1.1 = {
+			holder = CKU_stewart_82
+		}
+		3445.1.1 = {
+			holder = CKU_stewart_83
+		}
+	}
+	d_the_isles = {
+		3425.1.1 = { 
+			government = feudal_government
+			holder = CKU_mac_donald_25 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+	
+	c_skye = {
+		3425.1.1 = { 
+			government = feudal_government
+			holder = CKU_mac_donald_25 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+
+	c_bute = {
+		3425.1.1 = { 
+			government = feudal_government
+			holder = CKU_mac_donald_25 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+
+	c_morvern = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_argyll = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_islay = {
+		3425.1.1 = { 
+			government = feudal_government
+			holder = CKU_mac_donald_25 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+	c_mull = {
+		3425.1.1 = { 
+			government = feudal_government
+			holder = CKU_mac_donald_25 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+
+	c_uist = {
+		3425.1.1 = { 
+			government = feudal_government
+			holder = CKU_mac_donald_25 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+
+	c_lewis_and_harris = {
+		3425.1.1 = { 
+			government = feudal_government
+			holder = CKU_mac_donald_25 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+
+	d_isle_of_man = {
+		3439.1.1 = { 
+			government = feudal_government
+			holder = CKU_stanley_33 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_isle_of_man = {
+		3439.1.1 = { 
+			government = feudal_government
+			holder = CKU_stanley_33 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_inverness = {
+		3425.1.1 = { 
+			government = feudal_government
+			holder = CKU_mac_donald_25 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+
+	c_sutherland = {
+		3429.1.1 = { 
+			government = feudal_government
+			holder = CKU_sutherland_12 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+
+	c_wester_ross = {
+		3425.1.1 = { 
+			government = feudal_government
+			holder = CKU_mac_donald_25 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+
+	c_easter_ross = {
+		3425.1.1 = { 
+			government = feudal_government
+			holder = CKU_mac_donald_25 
+			liege = k_scotland
+			change_development_level = 6
+		}
+	}
+
+	c_banff = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_caithness = {
+		3429.1.1 = { 
+			government = feudal_government
+			holder = CKU_sutherland_12 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+
+	c_moray = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_peeble = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_east_lothian = {
+		3424.1.1 = { 
+			government = feudal_government
+			holder = CKU_dunbar_19 
+			liege = k_scotland
+			change_development_level = 8
+		}
+	}
+
+	c_midlothian = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_berwick = {
+		3418.1.1 = { 
+			government = feudal_government
+			holder = nevillepercy078 
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_west_lothian = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_selkirk = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_roxburgh = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_kirkcudbright = {
+		3445.1.1 = { 
+			government = feudal_government
+			holder = CKU_douglas_77 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+
+	c_carrick = {
+		3445.1.1 = {
+			holder = CKU_stewart_83
+			change_development_level = 6
+		}
+	}
+
+	c_lanark = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_renfrew = {
+		3445.1.1 = {
+			holder = CKU_stewart_83
+			change_development_level = 8
+		}
+	}
+
+	c_wigtown = {
+		3445.1.1 = { 
+			government = feudal_government
+			holder = CKU_douglas_77 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+
+	c_dumfries = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_stirling = {
+		3445.1.1 = {
+			holder = CKU_stewart_83
+			change_development_level = 8
+		}
+	}
+
+	c_dunbarton = {
+		3418.1.1 = { 
+			government = feudal_government
+			holder = CKU_lennox_25 
+			liege = k_scotland
+			change_development_level = 8
+		}
+	}
+
+	c_ayr = {
+		3446.1.1 = { 
+			government = feudal_government
+			holder = CKU_cunningham_21
+			liege = k_scotland
+			change_development_level = 6
+		}
+	}
+
+	c_orkney = {
+		3445.1.1 = { 
+			government = feudal_government
+			holder = CKU_sinclair_19 
+			liege = e_scandinavia
+			change_development_level = 5
+		}
+	}
+
+	c_shetland = {
+		3445.1.1 = { 
+			government = feudal_government
+			holder = CKU_sinclair_19 
+			liege = e_scandinavia
+			change_development_level = 5
+		}
+	}
+
+	c_angus = {
+		3439.1.1 = { 
+			government = feudal_government
+			holder = CKU_douglas_29 
+			liege = k_scotland
+			change_development_level = 6
+		}
+	}
+
+	c_kincardine = {
+		3425.1.1 = { 
+			government = feudal_government
+			holder = CKU_mac_donald_25 
+			liege = k_scotland
+			change_development_level = 5
+		}
+	}
+
+	c_mar = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_perth = {
+		3445.1.1 = {
+			holder = CKU_stewart_83
+			change_development_level = 7
+		}
+	}
+
+	c_aberdeen = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 6
+		}
+	}
+
+	c_kinross = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_atholl = {
+		3445.1.1 = {
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_strathearn = {
+		3445.1.1 = {
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_fife = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+
+	c_clackmannan = {
+		3446.1.1 = { 
+			holder = CKU_stewart_83
+			change_development_level = 5
+		}
+	}
+#}

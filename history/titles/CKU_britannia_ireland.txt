@@ -1,0 +1,511 @@
+#Ireland = {
+	c_iveagh = {
+		3446.1.1 = { 
+			government = clan_government
+			holder = CKU_mac_mahon_12
+			change_development_level = 7
+		}
+	}
+
+	c_armagh = {
+		3446.1.1 = { 
+			government = clan_government
+			holder = CKU_mac_mahon_12
+			change_development_level = 5
+		}
+	}
+
+	c_derry = {
+		3446.1.1 = { 
+			government = clan_government
+			holder = CKU_o_cahan_22
+			change_development_level = 5
+		}
+	}
+
+	c_newry = {
+		3446.1.1 = { 
+			government = clan_government
+			holder = CKU_mac_mahon_12
+			change_development_level = 5
+		}
+	}
+
+	c_clanawley = {
+		3432.1.1 = { 
+			government = clan_government
+			holder = CKU_maguire_10
+			change_development_level = 6
+		}
+	}
+
+	c_monaghan = {
+		3446.1.1 = { 
+			government = clan_government
+			holder = CKU_mac_mahon_12
+			change_development_level = 5
+		}
+	}
+
+	c_fermanagh = {
+		3432.1.1 = { 
+			government = clan_government
+			holder = CKU_maguire_10
+			change_development_level = 5
+		}
+	}
+
+	c_coleraine = {
+		3446.1.1 = { 
+			government = clan_government
+			holder = CKU_o_cahan_22
+			change_development_level = 6
+		}
+	}
+
+	c_down = {
+		3445.1.1 = {
+			change_development_level = 7
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+		}
+	}
+
+	c_tullyhaw = {
+		3437.1.1 = { 
+			government = clan_government
+			holder = CKU_o_rourke_43
+			change_development_level = 5
+		}
+	}
+
+	c_donegal = {
+		3441.1.1 = { 
+			government = clan_government
+			holder = CKU_o_donnell_10
+			change_development_level = 5
+		}
+	}
+
+	c_tyrone = {
+		3412.1.1 = { 
+			government = clan_government
+			holder = CKU_o_neill_38
+			change_development_level = 6
+		}
+	}
+
+	c_cavan = {
+		3420.1.1 = { 
+			government = clan_government
+			holder = CKU_o_reilly_32
+			change_development_level = 5
+		}
+	}
+
+	c_carrickfergus = {
+		3445.1.1 = {
+			change_development_level = 6
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+		}
+	}
+
+	c_antrim = {
+		3445.1.1 = {
+			change_development_level = 6
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+		}
+	}
+
+	c_farney = {
+		3446.1.1 = { 
+			government = clan_government
+			holder = CKU_mac_mahon_12
+			change_development_level = 5
+		}
+	}
+
+	d_leinster = {
+		3419.1.1 = {
+			government = clan_government
+			holder = CKU_mac_murrough_15
+		}
+	}
+
+	c_fingal = {
+		3440.1.1 = {
+			government = feudal_government
+			holder = CKU_welles_14 
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_kildare = {
+		3438.1.1 = {
+			government = feudal_government
+			holder = angloirish0202 
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_carlow = {
+		3419.1.1 = {
+			government = clan_government
+			holder = CKU_mac_murrough_15
+			change_development_level = 5
+		}
+	}
+
+	c_wicklow = {
+		3419.1.1 = {
+			government = clan_government
+			holder = CKU_mac_murrough_15
+			change_development_level = 7
+		}
+	}
+
+	c_wexford = {
+		3444.5.20 = {
+			government = feudal_government
+			holder = CKU_talbot_17 
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_laois = {
+		3406.1.1 = {
+			government = clan_government
+			holder = CKU_o_more_1
+			change_development_level = 5
+		}
+	}
+
+	c_kilkenny = {
+		3407.1.1 = { 
+			holder = angloirish0100 
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_ferns = {
+		3419.1.1 = {
+			government = clan_government
+			holder = CKU_mac_murrough_15
+			change_development_level = 6
+		}
+	}
+
+	c_callan = {
+		3407.1.1 = { holder = angloirish0100 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_dublin = {
+		3440.1.1 = {
+			government = feudal_government
+			holder = CKU_welles_14 
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_westmeath = {
+		3440.1.1 = {
+			government = feudal_government
+			holder = CKU_welles_14 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_irish_louth = {
+		3440.1.1 = {
+			government = feudal_government
+			holder = CKU_welles_14 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_offaly = {
+		3427.1.1 = {
+			government = clan_government
+			holder = CKU_o_conor_faly_19
+			change_development_level = 6
+		}
+	}
+
+	c_meath = {
+		3440.1.1 = {
+			government = feudal_government
+			holder = CKU_welles_14 
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_longford = {
+		3440.1.1 = {
+			government = feudal_government
+			holder = CKU_welles_14 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	d_thomond = {
+		3446.1.1 = { 
+			government = clan_government
+			holder = CKU_o_brien_28 
+		}
+	}
+
+	c_waterford = {
+		3407.1.1 = { 
+			holder = angloirish0100 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_nenagh = {
+		3407.1.1 = { 
+			holder = angloirish0100 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_clonmel = {
+		3407.1.1 = { 
+			holder = angloirish0100 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_clare = {
+		3446.1.1 = { 
+			government = clan_government
+			holder = CKU_o_brien_28 
+			change_development_level = 5
+		}
+	}
+
+	c_clancullen = {
+		3446.1.1 = { 
+			government = clan_government
+			holder = CKU_mac_namara_34 
+			liege = d_desmond
+			change_development_level = 5
+		}
+	}
+
+	c_tipperary = {
+		3407.1.1 = { 
+			holder = angloirish0100 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	d_connacht = {
+		3397.1.1 = { 
+			government = clan_government
+			holder = CKU_o_conor_79
+		}
+		3405.1.1 = { 
+			holder = CKU_o_conor_80
+		}
+		3442.1.1 = { 
+			holder = CKU_o_conor_97
+		}
+		3446.1.1 = { 
+			holder = CKU_o_conor_81
+		}
+	}
+
+	c_athenry = {
+		3432.1.1 = { 
+			government = clan_government
+			holder = angloirish0016
+			change_development_level = 5
+		}
+	}
+
+	c_mayo = {
+		3442.1.1 = { 
+			government = clan_government
+			holder = angloirish0020
+			change_development_level = 5
+		}
+	}
+
+	c_roscommon = {
+		3444.1.1 = { 
+			government = clan_government
+			holder = CKU_o_kerry_34
+			liege = d_connacht
+			change_development_level = 6
+		}
+	}
+
+	c_westport = {
+		3442.1.1 = { 
+			government = clan_government
+			holder = angloirish0020
+			change_development_level = 5
+		}
+	}
+
+	c_galway = {
+		3432.1.1 = { 
+			government = clan_government
+			holder = angloirish0016
+			change_development_level = 5
+		}
+	}
+
+	c_gailenga = {
+		3420.1.1 = {
+			government = feudal_government
+			holder = angloirish0153
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_leitrim = {
+		3437.1.1 = { 
+			government = clan_government
+			holder = CKU_o_rourke_43
+			change_development_level = 6
+		}
+	}
+
+	c_sligo = {
+		3446.1.1 = { 
+			government = clan_government
+			holder = CKU_o_conor_81
+			change_development_level = 5
+		}
+	}
+
+	c_boyle = {
+		3446.1.1 = { 
+			government = clan_government
+			holder = CKU_irish_minor_2
+			liege = d_connacht
+			change_development_level = 5
+		}
+	}
+
+	c_tuam = {
+		3443.1.1 = {
+			government = theocracy_government
+			holder = CKU_irish_minor_1 
+			liege = d_connacht
+			change_development_level = 6
+		}
+	}
+
+	d_desmond = {
+		3430.1.1 = { 
+			government = clan_government
+			holder = CKU_mac_carty_15
+		}
+	}
+
+	c_kerry = {
+		3420.1.1 = {
+			government = feudal_government
+			holder = angloirish0153 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_clangibbon = {
+		3422.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_21 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_mccarthy_mor = {
+		3430.1.1 = { 
+			government = clan_government
+			holder = CKU_mac_carty_15
+			change_development_level = 5 
+		}
+	}
+
+	c_cork = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 7 
+		}
+	}
+
+	c_muskerry = {
+		3412.1.1 = { 
+			government = clan_government
+			holder = CKU_mac_carty_26 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_limerick = {
+		3444.1.1 = {
+			holder = plantagenet_1043
+			change_development_level = 6
+		}
+	}
+
+	c_askeaton = {
+		3420.1.1 = {
+			government = feudal_government
+			holder = angloirish0153
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_carbery = {
+		3444.1.1 = { 
+			government = clan_government
+			holder = CKU_mac_carty_36
+			change_development_level = 5 
+		}
+	}
+
+	c_imokilly = {
+		3420.1.1 = {
+			government = feudal_government
+			holder = angloirish0153 
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_kinsale = {
+		3445.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 7 
+		}
+	}
+#}

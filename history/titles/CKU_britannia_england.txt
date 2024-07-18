@@ -1,0 +1,909 @@
+#England = {
+	k_england = {
+		3102.8.5 = {
+			holder = 202992
+		}
+		3156.12.19 = {
+			holder = 204500
+		}
+		3191.9.3 = {
+			holder = 204510
+		}
+		3201.5.27 = {
+			holder = 204514
+		}
+		3218.10.28 = {
+			holder = 454522
+		}
+		3274.11.20 = {
+			holder = 454520
+		}
+		3309.7.7 = {
+			holder = 454510
+		}
+		3329.1.25 = {
+			holder = 454500
+		}
+		3379.1.1 = {
+			holder = plantagenet_1027
+		}
+		3401.1.1 = {
+			holder = plantagenet_1038
+		}
+		3415.1.1 = {
+			holder = plantagenet_1042
+		}
+		3444.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1043
+		}
+	}
+
+	c_gloucester = {
+		3416.5.16 = {
+			government = feudal_government
+			holder = plantagenet_1044
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_stafford = {
+		3405.1.1 = {
+			government = feudal_government
+			holder = stafford_1003
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_bristol = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 10
+		}
+	}
+
+	c_warwick = {
+		3441.1.1 = {
+			government = feudal_government
+			holder = CKU_beauchamp_6
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_worcester = {
+		3441.1.1 = {
+			government = feudal_government
+			holder = CKU_beauchamp_6
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_macclesfield = {
+		3441.7.10 = {
+			government = feudal_government
+			holder = CKU_english_minor_16
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_shrewsbury = {
+		3444.5.20 = {
+			government = feudal_government
+			holder = CKU_talbot_17 
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_haughmond = {
+		3424.1.1 = {
+			government = theocracy_government
+			holder = CKU_english_minor_20
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_nantwich = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 7 
+		}
+	}
+
+	c_chester = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 5
+		}
+	}
+
+	c_hereford = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 5
+		}
+	}
+
+	c_peterborough = {
+		3445.11.4 = {
+			government = feudal_government
+			holder = CKU_english_minor_9
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_bedford = {
+		3446.11.6 = {
+			government = feudal_government
+			holder = CKU_wenlock_wyvell_3
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_northampton = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_8
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_hertford = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 10
+		}
+	}
+
+	c_buckingham = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = stafford_1003
+			liege = k_england
+			change_development_level = 10
+		}
+	}
+
+	c_huntingdon = {
+		3418.1.1 = {
+			government = feudal_government
+			holder = holland_1005
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_oxford = {
+		3419.1.1 = {
+			government = feudal_government
+			holder = CKU_vere_35
+			liege = k_england
+			change_development_level = 10
+		}
+	}
+
+	d_lincoln = {
+		3446.1.1 = { 
+			holder = CKU_english_minor_1
+			liege = k_england
+		}
+	}
+
+	c_rutland = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_10
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_lincoln = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_12
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_leicester = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 5
+		}
+	}
+
+	c_louth = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 5
+		}
+	}
+
+	c_kesteven = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 7 
+		}
+	}
+
+	c_holland = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_12
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_grimsby = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_12
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_derby = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_11
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_nottingham = {
+		3434.1.1 = {
+			government = feudal_government
+			holder = mowbray_1014
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	d_lancaster = { # Is seperate succession from k_england, will not be lost when k_england is lost but stay's in dynasty unless no heir.
+		3444.1.1 = {
+			holder = plantagenet_1043
+		}
+	}
+
+	c_carlisle = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_curwen_3
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_clitheroe = {
+		3441.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_13
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_furness = {
+		3445.1.1 = {
+			government = theocracy_government
+			holder = CKU_english_minor_2
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_allerdale = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_curwen_3
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_preston = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 7 
+		}
+	}
+
+	c_appleby = {
+		3427.1.1 = {
+			government = feudal_government
+			holder = nevillepercy094
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_lancaster = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 7 
+		}
+	}
+
+	c_kendal = {
+		3427.1.1 = {
+			government = feudal_government
+			holder = nevillepercy094
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_liverpool = {
+		3430.1.1 = {
+			government = republic_government
+			holder = CKU_english_minor_15
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_manchester = {
+		3441.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_13
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_carnarvon = {
+		3444.1.1 = {
+			holder = plantagenet_1043
+			change_development_level = 6
+		}
+	}
+
+	c_merioneth = {
+		3444.1.1 = {
+			holder = plantagenet_1043
+			change_development_level = 6
+		}
+	}
+
+	c_anglesey = {
+		3444.1.1 = {
+			holder = plantagenet_1043
+			change_development_level = 6
+		}
+	}
+
+	c_cardigan = {
+		3444.1.1 = {
+			holder = plantagenet_1043
+			change_development_level = 7
+		}
+	}
+
+	c_truro = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 5
+		}
+	}
+
+	c_bodmin = {
+		3397.1.1 = {
+			government = feudal_government
+			holder = CKU_botreaux_10
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_exeter = {
+		3445.1.1 = {
+			government = feudal_government
+			holder = holland_1005
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_barnstaple = {
+		3424.1.1 = {
+			government = feudal_government
+			holder = CKU_courtenay_57
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_plymouth = {
+		3424.1.1 = {
+			government = feudal_government
+			holder = CKU_courtenay_57
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_middlesex = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 14
+		}
+	}
+
+	c_newcastle = {
+		3418.1.1 = { 
+			government = feudal_government
+			holder = nevillepercy078 
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_berwick_upon_tweed = {
+		3418.1.1 = { 
+			government = feudal_government
+			holder = nevillepercy078 
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_durham = {
+		3429.1.1 = {
+			government = theocracy_government
+			holder = nevillepercy105
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_bamburgh = {
+		3418.1.1 = { 
+			government = feudal_government
+			holder = nevillepercy078 
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_hexham = {
+		3429.1.1 = {
+			government = theocracy_government
+			holder = nevillepercy105
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_canterbury = {
+		3445.1.1 = {
+			government = theocracy_government
+			holder = CKU_english_minor_3
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_folkestone = {
+		3444.1.1 = {
+			holder = plantagenet_1043
+			change_development_level = 8
+		}
+	}
+
+	c_surrey = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_5
+			liege = k_england
+			change_development_level = 10
+		}
+	}
+
+	c_rochester = {
+		3446.4.22 = {
+			government = theocracy_government
+			holder = CKU_english_minor_4
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_bromley = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 10
+		}
+	}
+
+	d_norfolk = {
+		3434.1.1 = {
+			government = feudal_government
+			holder = mowbray_1014
+			liege = k_england
+		}
+	}
+
+	c_dunwich = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = pole_1018
+			liege = k_england
+			change_development_level = 3
+		}
+	}
+
+	c_great_yarmouth = {
+		3434.1.1 = {
+			government = feudal_government
+			holder = mowbray_1014
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_ipswich = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = pole_1018
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_norwich = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 5
+		}
+	}
+
+	c_blakeney = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 5
+		}
+	}
+
+	c_west_suffolk = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = pole_1018
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_essex = {
+		3441.1.1 = {
+			government = feudal_government
+			holder = CKU_bourchier_5
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_lynn = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 5
+		}
+	}
+
+	c_cambridge = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_wrexham = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_radnor = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_carmarthen = {
+		3444.1.1 = {
+			holder = plantagenet_1043
+			change_development_level = 8
+		}
+	}
+
+	c_monmouth = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_flint = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_montgomery = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_brecknock = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_denbigh = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_pembroke = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_glamorgan = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_isle_of_wight = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 5
+		}
+	}
+
+	c_winchester = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 7 
+		}
+	}
+
+	c_west_sussex = {
+		3440.1.1 = {
+			government = feudal_government
+			holder = pole_1018
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_east_sussex = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_5
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_southampton = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_carew_18
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_wiltshire = {
+		3430.1.1 = { 
+			government = feudal_government
+			holder = CKU_montagu_3 
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_wells = {
+		3444.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1001
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_dorchester = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 7 
+		}
+	}
+
+	c_reading = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_7
+			liege = k_england
+			change_development_level = 10
+		}
+	}
+
+	c_dunster = {
+		3444.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1001
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_taunton = {
+		3444.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1001
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_wareham = {
+		3444.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1001
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_abingdon = {
+		3437.1.1 = {
+			government = theocracy_government
+			holder = CKU_english_minor_6
+			liege = k_england
+			change_development_level = 10
+		}
+	}
+
+	d_york = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+		}
+	}
+
+	c_northallerton = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_19
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_hull = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_19
+			liege = k_england
+			change_development_level = 6
+		}
+	}
+
+	c_bridlington = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_19
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_scarborough = {
+		3444.1.1 = { 
+			holder = plantagenet_1043
+			change_development_level = 5
+		}
+	}
+
+	c_york = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_pickering = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_ripon = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_19
+			liege = k_england
+			change_development_level = 5
+		}
+	}
+
+	c_holme = {
+		3445.11.4 = {
+			government = feudal_government
+			holder = CKU_english_minor_9
+			liege = k_england
+			change_development_level = 8
+		}
+	}
+
+	c_pontefract = {
+		3417.1.1 = {
+			government = feudal_government
+			holder = plantagenet_1054
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+
+	c_doncaster = {
+		3446.1.1 = {
+			government = feudal_government
+			holder = CKU_english_minor_19
+			liege = k_england
+			change_development_level = 7
+		}
+	}
+#}

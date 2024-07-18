@@ -1,0 +1,753 @@
+#delhi
+	k_delhi = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+		}
+	}
+	d_delhi = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+		}
+	}
+	d_bareilly = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+		}
+	}
+	d_agra = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+		}
+	}
+	c_delhi = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 10
+		}
+	}
+	c_faridabad = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 10
+		}
+	}
+	c_bhiwani = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 9
+		}
+	}
+	c_rohtak = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 10
+		}
+	}
+	c_panipat = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 10
+		}
+	}
+	c_muzaffarnagar = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 9
+		}
+	}
+	c_merath = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 10
+		}
+	}
+	c_shandara = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 9
+		}
+	}
+	c_sikandarabad = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 9
+		}
+	}
+	c_jahangirabad = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 10
+		}
+	}
+	c_aligarh = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 11
+		}
+	}
+	c_hathras = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 11
+		}
+	}
+	c_kasganj = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 12
+		}
+	}
+	c_kakrala = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 12
+		}
+	}
+	c_shahjahanpur = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 10
+		}
+	}
+	c_faridpur_delhi = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 9
+		}
+	}
+	c_hasanpur = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 12
+		}
+	}
+	c_sambhal = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 13
+		}
+	}
+	c_muradabad = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 11
+		}
+	}
+	c_khand = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 10
+		}
+	}
+	c_chandpur = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 10
+		}
+	}
+	c_agra = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 15
+		}
+	}
+	c_shamsabad = {
+		3446.1.1 = {
+			holder = CKU_delhi_1
+			change_development_level = 13
+		}
+	}
+#punjab
+	d_sirhind = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+		}
+	}
+	d_punjab = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			liege = k_delhi
+		}
+	}
+	d_lahore = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+		}
+	}
+	d_faisalabad = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+		}
+	}
+	d_khushab = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+		}
+	}
+	c_lahur = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 15
+		}
+	}
+	c_patiala = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 9
+		}
+	}
+	c_samana = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 9
+		}
+	}
+	c_sangrur = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 9
+		}
+	}
+	c_fatehabad = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 8
+		}
+	}
+	c_bhatinda = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 7
+		}
+	}
+	c_rajkot = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 9
+		}
+	}
+	c_ludhiana = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 8
+		}
+	}
+	c_bharana = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 9
+		}
+	}
+	c_jaito = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 7
+		}
+	}
+	c_dabwali = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 6
+		}
+	}
+	c_sirsa = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 6
+		}
+	}
+	c_shrikaranpur = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 4
+		}
+	}
+	c_ganganagar = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 6
+		}
+	}
+	c_bahawalnagar = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 4
+		}
+	}
+	c_leibemaronine = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 10
+		}
+	}
+	c_fazilka = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 11
+		}
+	}
+	c_firozpur = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 11
+		}
+	}
+	c_khanna = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 9
+		}
+	}
+	c_vihara = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+	c_kassowal = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+	c_sahiwal = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+	c_mandi_burewala = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+	c_pakpattan = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+	c_dipalpur = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+	c_okara = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+	c_kanganpur = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+	c_kasur = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+	c_amritsar = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 11
+		}
+	}
+	c_jalandhar = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 11
+		}
+	}
+	c_shorkot = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 13
+		}
+	}
+	c_kamalia = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+	c_bhamb = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 11
+		}
+	}
+	c_hadali = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 11
+		}
+	}
+	c_shah_alam = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 9
+		}
+	}
+	c_dera_ismail_khan = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 7
+		}
+	}
+	c_isa_khel = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 8
+		}
+	}
+	c_ephymoila = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 7
+		}
+	}
+	c_amnicrolis = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 7
+		}
+	}
+	c_achiolcyra = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 7
+		}
+	}
+	c_lilla = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 8
+		}
+	}
+	c_quidabad = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 7
+		}
+	}
+	c_fatehpur = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 10
+		}
+	}
+	c_nawan_kot = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 8
+		}
+	}
+	c_chaubara = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 8
+		}
+	}
+	c_ahmadpur = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 11
+		}
+	}
+	c_garh_maharaja = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 11
+		}
+	}
+	c_kot_shakar = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 10
+		}
+	}
+	c_sargodha = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 10
+		}
+	}
+	c_jayalpur = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 9
+		}
+	}
+	c_bhera = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 10
+		}
+	}
+	c_gujranwala = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 10
+		}
+	}
+	c_muridke = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 9
+		}
+	}
+	c_layalpur = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 9
+		}
+	}
+	c_bucheki = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+	c_sharqpur = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 13
+		}
+	}
+	c_tandilanwala = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+	c_kalur_kot = {
+		3446.1.1 = {
+			holder = CKU_lodi_1
+			change_development_level = 12
+		}
+	}
+#multan
+	d_multan = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			liege = k_delhi
+		}
+	}
+	d_sukkur = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+		}
+	}
+	d_hublclazocum = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+		}
+	}
+	c_multan = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 14
+		}
+	}
+	c_sardarpur = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 12
+		}
+	}
+	c_vihari = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 12
+		}
+	}
+	c_khairapur = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 13
+		}
+	}
+	c_bahawalpur = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 9
+		}
+	}
+	c_khangarh = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 11
+		}
+	}
+	c_jalalpur = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 13
+		}
+	}
+	c_muzaffargarh = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 12
+		}
+	}
+	c_rahim_yar_khan = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 11
+		}
+	}
+	c_khanpur = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 9
+		}
+	}
+	c_khairgarh = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 6
+		}
+	}
+	c_sadtoabad = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 5
+		}
+	}
+	c_ubauro = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 9
+		}
+	}
+	c_kandhkot = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 9
+		}
+	}
+	c_tuziani = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 5
+		}
+	}
+	c_kharar = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 5
+		}
+	}
+	c_rajanpur = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 9
+		}
+	}
+	c_diwan = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 9
+		}
+	}
+	c_harrand = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 6
+		}
+	}
+	c_kohar = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 5
+		}
+	}
+	c_shadan_lund = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 9
+		}
+	}
+	c_litra = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 5
+		}
+	}
+	c_retra = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 8
+		}
+	}
+	c_paroa = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 8
+		}
+	}
+	c_zarkan = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 6
+		}
+	}
+	c_abadpur = {
+		3446.1.1 = {
+			holder = CKU_multan_1
+			change_development_level = 9
+		}
+	}
+#dholpur
+	c_dholpur = {
+		3446.1.1 = {
+			holder = CKU_dholpur_1
+			change_development_level = 12
+			liege = k_delhi
+		}
+	}
+	c_kosi = {
+		3446.1.1 = {
+			holder = CKU_dholpur_1
+			change_development_level = 11
+		}
+	}
+#gangapur
+	c_gangapur = {
+		3446.1.1 = {
+			holder = CKU_gangapur_1
+			change_development_level = 8
+			liege = k_delhi
+		}
+	}
+	c_antiglocrlia = {
+		3446.1.1 = {
+			holder = CKU_gangapur_1
+			change_development_level = 7
+		}
+	}
+	c_chamesessa = {
+		3446.1.1 = {
+			holder = CKU_gangapur_1
+			change_development_level = 6
+		}
+	}
+	c_rewari = {
+		3446.1.1 = {
+			holder = CKU_gangapur_1
+			change_development_level = 7
+		}
+	}
+	c_dadri = {
+		3446.1.1 = {
+			holder = CKU_gangapur_1
+			change_development_level = 7
+		}
+	}

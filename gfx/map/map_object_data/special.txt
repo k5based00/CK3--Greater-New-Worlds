@@ -1,0 +1,158 @@
+﻿object={
+	name="hadrians wall 01"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="hadrians_wall_01_a_mesh"
+	count=0
+}
+object={
+	name="hadrians wall 02"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="hadrians_wall_01_b_mesh"
+	count=0
+}
+object={
+	name="hadrians wall 03"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="hadrians_wall_01_c_mesh"
+	count=0
+}
+object={
+	name="hadrians wall 04"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="hadrians_wall_01_d_mesh"
+	count=3
+	transform="11548.638672 0.000000 3896.414062 0.000000 -0.315211 0.000000 0.949022 1.000000 1.000000 1.000000
+11545.547852 0.000000 3890.944092 0.000000 0.620255 0.000000 0.784400 1.000000 1.000000 1.000000
+11542.934570 0.000000 3899.768555 0.000000 0.995019 0.000000 0.099683 1.000000 1.000000 1.000000
+"}
+object={
+	name="mines"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_mines_mesh"
+	count=2
+	transform="11543.176758 0.000000 3894.708008 0.000000 -0.381105 0.000000 0.924532 1.000000 1.000000 1.000000
+11547.328125 0.045166 3899.447998 0.000000 -0.713125 0.000000 0.701037 1.000000 1.000000 1.000000
+"}
+object={
+	name="special_brihadeeswarar_temple"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_brihadeeswarar_temple_mesh"
+	count=0
+}
+object={
+	name="special_building_petra"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_petra_mesh"
+	count=0
+}
+object={
+	name="special_cathedral_generic"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_cathedral_generic_mesh"
+	count=0
+}
+object={
+	name="special_cathedral_pagan"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_cathedral_pagan_mesh"
+	count=0
+}
+object={
+	name="special_colosseum"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_colosseum_mesh"
+	count=0
+}
+object={
+	name="special_great_mosque_of_djenne"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_great_mosque_of_djenne_mesh"
+	count=0
+}
+object={
+	name="special_great_mosque_of_mecca"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_great_mosque_of_mecca_mesh"
+	count=0
+}
+object={
+	name="special_notre_dame"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_notre_dame_mesh"
+	count=0
+}
+object={
+	name="special_palace_of_aachen"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_palace_of_aachen_mesh"
+	count=0
+}
+object={
+	name="special_pyramids_giza"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_pyramids_giza_mesh"
+	count=0
+}
+object={
+	name="special_stonehenge"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_stonehenge_mesh"
+	count=0
+}
+object={
+	name="special_tower_of_london"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="temp_layer"
+	pdxmesh="building_special_tower_of_london_mesh"
+	count=0
+}

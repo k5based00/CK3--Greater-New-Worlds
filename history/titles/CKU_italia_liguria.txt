@@ -1,0 +1,90 @@
+#Genoa
+d_genoa = {
+	3446.1.1 = {
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_adorno_1
+	}
+}
+c_genoa = {
+	3446.1.1 = {
+		change_development_level = 14
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_adorno_1
+	}
+}
+c_lavagna = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_adorno_1
+	}
+}
+c_la_spezia = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_adorno_1
+	}
+}
+c_savona = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_adorno_1
+	}
+}
+c_finale = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_carreto_1
+	}
+}
+
+#Nizza
+c_monaco = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		liege = "e_hre"
+		holder = CKU_grimaldi_1
+	}
+}
+c_antibes = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		liege = "e_hre"
+		holder = CKU_grimaldi_1
+	}
+}
+c_oneglia = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		liege = "e_hre"
+		holder = CKU_doria_1
+	}
+}
+c_tenda = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		liege = "e_hre"
+		holder = CKU_ventimiglia_1
+	}
+}
+c_ventimiglia = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		liege = "e_hre"
+		holder = CKU_ventimiglia_1
+	}
+}

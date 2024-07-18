@@ -1,0 +1,349 @@
+k_stato_pontificio = {
+	3433.1.1 = {
+		holder = CKU_pope_1
+		government = theocracy_government
+	}
+}
+
+#Roma
+d_roma = {
+	3433.1.1 = {
+		holder = CKU_pope_1
+		government = theocracy_government
+	}
+}
+c_rome = {
+	3446.1.1 = {
+		change_development_level = 14
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+c_bracciano = {
+	3446.1.1 = {
+		change_development_level = 9
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_monterotondo = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_palestrina = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+c_velletri_segni = {
+	3446.1.1 = {
+		change_development_level = 9
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+c_vicovaro = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+
+#Civitavecchia
+d_civitavecchia = {
+	3433.1.1 = {
+		holder = CKU_pope_1
+		government = feudal_government
+	}
+}
+c_civitavecchia = {
+	3446.1.1 = {
+		change_development_level = 9
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+c_pitigliano = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_viterbo = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+c_orbetello = {
+	3446.1.1 = {
+		change_development_level = 5
+		liege = e_hre
+		holder = CKU_siena_1
+	}
+}
+
+#Perugia
+d_perugia = {
+	3446.1.1 = {
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_perugia = {
+	3446.1.1 = {
+		change_development_level = 10
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+c_spoleto = {
+	3446.1.1 = {
+		change_development_level = 10
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+c_terni = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_foligno = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+c_orvieto = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+c_citta_di_castello = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_agobbio = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+
+#Ascoli
+d_ascoli = {
+	3433.1.1 = {
+		holder = CKU_pope_1
+		government = feudal_government
+	}
+}
+c_ascoli_piceno = {
+	3446.1.1 = {
+		change_development_level = 11
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_camerino = {
+	3446.1.1 = {
+		change_development_level = 11
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_fermo = {
+	3446.1.1 = {
+		change_development_level = 11
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+c_macerata = {
+	3446.1.1 = {
+		change_development_level = 11
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+
+#Ancona
+d_ancona = {
+	3433.1.1 = {
+		holder = CKU_pope_1
+		government = feudal_government
+	}
+}
+c_ancona = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_cagli = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_carpegna = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_fabriano = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+c_pesaro = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_urbino = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+
+#Aquila
+d_aquila = {
+	3433.1.1 = {
+		holder = CKU_pope_1
+		government = feudal_government
+	}
+}
+c_amatrice = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_tagliacozzo = {
+	3446.1.1 = {
+		change_development_level = 10
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_rieti = {
+	3446.1.1 = {
+		change_development_level = 10
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+
+#Rimini
+c_cesena = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_forli = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_rimini = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_san_marino = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+
+#Fondi
+c_sermoneta = {
+	3446.1.1 = {
+		change_development_level = 6
+		holder = CKU_pope_1
+	}
+}
+c_fondi = {
+	3446.1.1 = {
+		change_development_level = 6
+		holder = CKU_pope_1
+	}
+}
+c_anagni = {
+	3446.1.1 = {
+		change_development_level = 5
+		holder = CKU_pope_1
+	}
+}
+c_ceccano = {
+	3446.1.1 = {
+		change_development_level = 5
+		holder = CKU_pope_1
+	}
+}
+c_pontecorvo = {
+	3446.1.1 = {
+		change_development_level = 5
+		holder = CKU_pope_1
+	}
+}
+
+#Avignon Papacy
+c_avignon = {
+	3446.1.1 = {
+		change_development_level = 11
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}
+c_carpentras = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = theocracy_government
+		holder = CKU_pope_1
+	}
+}
+c_valreas = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_pope_1
+	}
+}

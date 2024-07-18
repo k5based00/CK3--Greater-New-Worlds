@@ -1,0 +1,65 @@
+#Monferrato
+c_alessandria = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_tortona = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_alba_piedmont = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_paleologus_1
+	}
+}
+c_monferrato = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_paleologus_1
+	}
+}
+c_asti = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_acqui_terme = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_saluzzo = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_vasto_1
+	}
+}
+c_carmagnola = {
+	3446.1.1 = {
+		change_development_level = 9
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_vasto_1
+	}
+}

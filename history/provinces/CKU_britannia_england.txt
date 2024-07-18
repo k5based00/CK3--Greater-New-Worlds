@@ -1,0 +1,693 @@
+869 = {	#gloucester
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+870 = {	#stafford
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+871 = {	#bristol 
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+872 = {	#warwick
+	2982.1.1 = {
+		culture = english
+		religion = lollard
+		holding = city_holding
+	}
+}
+873 = {	#worcester
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+874 = {	#macclesfield
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+875 = {	#shrewsbury
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+876 = {	#haughmond
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = church_holding
+	}
+}
+877 = {	#nantwich
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+878 = {	#chester
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+879 = {	#hereford
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+880 = {	#peterborough
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+881 = {	#bedford
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+882 = {	#northampton
+	2982.1.1 = {
+		culture = english
+		religion = lollard
+		holding = castle_holding
+	}
+}
+883 = {	#hertford
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+884 = {	#buckingham
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+885 = {	#huntingdon
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+886 = {	#oxford
+	2982.1.1 = {
+		culture = english
+		religion = lollard
+		holding = city_holding
+	}
+}
+887 = {	#rutland
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+888 = {	#lincoln
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+889 = {	#leicester
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+890 = {	#louth
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+891 = {	#kesteven
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+892 = {	#holland
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+893 = {	#grimsby
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+894 = {	#derby
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+895 = {	#nottingham
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+896 = {	#carlisle
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+897 = {	#clitheroe
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+898 = {	#furness
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = church_holding
+	}
+}
+899 = {	#allerdale
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+900 = {	#preston
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+901 = {	#appleby
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+902 = {	#lancaster
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+903 = {	#kendal
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+904 = {	#liverpool
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+905 = {	#manchester
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+906 = {	#carnarvon
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = city_holding
+	}
+}
+907 = {	#merioneth
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = castle_holding
+	}
+}
+908 = {	#anglesey
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = castle_holding
+	}
+}
+909 = {	#cardigan
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = city_holding
+	}
+}
+910 = {	#truro
+	2982.1.1 = {
+		culture = cornish
+		religion = catholic
+		holding = city_holding
+	}
+}
+911 = {	#bodmin
+	2982.1.1 = {
+		culture = cornish
+		religion = catholic
+		holding = city_holding
+	}
+}
+912 = {	#exeter
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+913 = {	#barnstaple
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+914 = {	#plymouth
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+915 = {	#middlesex
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+916 = {	#newcastle
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+917 = {	#berwick_upon_tweed
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+918 = {	#durham
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = church_holding
+	}
+}
+919 = {	#bamburgh
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+920 = {	#hexham
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+921 = {	#canterbury
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = church_holding
+	}
+}
+922 = {	#folkestone
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+923 = {	#surrey
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+924 = {	#rochester
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = church_holding
+	}
+}
+925 = {	#bromley
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+926 = {	#dunwich
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+927 = {	#great_yarmouth
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+928 = {	#ipswich
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+929 = {	#norwich
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+930 = {	#blakeney
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+931 = {	#west_suffolk
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+932 = {	#essex
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+933 = {	#lynn
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+934 = {	#cambridge
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+935 = {	#wrexham
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = city_holding
+	}
+}
+936 = {	#radnor
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = castle_holding
+	}
+}
+937 = {	#carmarthen
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = city_holding
+	}
+}
+938 = {	#monmouth
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = city_holding
+	}
+}
+939 = {	#flint
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = city_holding
+	}
+}
+940 = {	#montgomery
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = city_holding
+	}
+}
+941 = {	#brecknock
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = city_holding
+	}
+}
+942 = {	#denbigh
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = city_holding
+	}
+}
+943 = {	#pembroke
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = city_holding
+	}
+}
+944 = {	#glamorgan
+	2982.1.1 = {
+		culture = welsh
+		religion = catholic
+		holding = castle_holding
+	}
+}
+945 = {	#isle_of_wight
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+946 = {	#winchester
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+947 = {	#west_sussex
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+948 = {	#east_sussex
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+949 = {	#southampton
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+950 = {	#wiltshire
+	2982.1.1 = {
+		culture = english
+		religion = lollard
+		holding = castle_holding
+	}
+}
+951 = {	#wells
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+952 = {	#dorchester
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+953 = {	#reading
+	2982.1.1 = {
+		culture = english
+		religion = lollard
+		holding = city_holding
+	}
+}
+954 = {	#dunster
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+955 = {	#taunton
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+956 = {	#wareham
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+957 = {	#abingdon
+	2982.1.1 = {
+		culture = english
+		religion = lollard
+		holding = church_holding
+	}
+}
+958 = {	#northallerton
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+959 = {	#hull
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+960 = {	#bridlington
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+961 = {	#scarborough
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+962 = {	#york
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+963 = {	#pickering
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+964 = {	#ripon
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+965 = {	#holme
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = city_holding
+	}
+}
+966 = {	#pontefract
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}
+967 = {	#doncaster
+	2982.1.1 = {
+		culture = english
+		religion = catholic
+		holding = castle_holding
+	}
+}

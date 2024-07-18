@@ -1,0 +1,809 @@
+#vijayanagara
+	e_vijayanagara = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+		}
+	}
+	k_vijayanagar = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+		}
+	}
+	d_bellary = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+		}
+	}
+	d_chittor = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+		}
+	}
+	c_bellary = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 30
+		}
+	}
+	c_guntakal = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 16
+		}
+	}
+	c_hospet = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 16
+		}
+	}
+	c_kosigi = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 14
+		}
+	}
+	c_banganapalle = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 13
+		}
+	}
+	c_rayadrug = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 13
+		}
+	}
+	c_anantapur = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 12
+		}
+	}
+	c_guti = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 12
+		}
+	}
+	c_tadpattri = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 10
+		}
+	}
+	c_dharmavaram = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 10
+		}
+	}
+	c_vijayapura = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 10
+		}
+	}
+	c_tumkuru = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 12
+		}
+	}
+	c_chittor = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 9
+		}
+	}
+	c_rayachoti = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 7
+		}
+	}
+	c_vellore = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 7
+		}
+	}
+	c_ranipet = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 7
+		}
+	}
+	c_tiruvallur = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 12
+		}
+	}
+	c_nagari = {
+		3446.1.1 = {
+			holder = CKU_vijayanagar_1
+			change_development_level = 10
+		}
+	}
+#kurnul
+	c_kurnool = {
+		3446.1.1 = {
+			holder = CKU_kurnool_1
+			liege = e_vijayanagara
+			change_development_level = 11
+		}
+	}
+	c_jammalamadugu = {
+		3446.1.1 = {
+			holder = CKU_kurnool_1
+			change_development_level = 9
+		}
+	}
+	c_nandyal = {
+		3446.1.1 = {
+			holder = CKU_kurnool_1
+			change_development_level = 8
+		}
+	}
+#mysore
+	c_mysore = {
+		3446.1.1 = {
+			holder = CKU_mysore_1
+			change_development_level = 13
+			liege = e_vijayanagara
+		}
+	}
+	c_chamrajnagar = {
+		3446.1.1 = {
+			holder = CKU_mysore_1
+			change_development_level = 8
+		}
+	}
+	c_kollegal = {
+		3446.1.1 = {
+			holder = CKU_mysore_1
+			change_development_level = 7
+		}
+	}
+	c_channapatna = {
+		3446.1.1 = {
+			holder = CKU_mysore_1
+			change_development_level = 8
+		}
+	}
+#bengaluru
+	d_bengaluru = {
+		3446.1.1 = {
+			holder = CKU_bengaluru_1
+			liege = e_vijayanagara
+		}
+	}
+	c_bengaluru = {
+		3446.1.1 = {
+			holder = CKU_bengaluru_1
+			change_development_level = 12
+		}
+	}
+	c_kolar = {
+		3446.1.1 = {
+			holder = CKU_bengaluru_1
+			change_development_level = 10
+		}
+	}
+	c_krishnagiri = {
+		3446.1.1 = {
+			holder = CKU_bengaluru_1
+			change_development_level = 9
+		}
+	}
+	c_tirupattur = {
+		3446.1.1 = {
+			holder = CKU_bengaluru_1
+			change_development_level = 6
+		}
+	}
+	c_dharmapuri = {
+		3446.1.1 = {
+			holder = CKU_bengaluru_1
+			change_development_level = 7
+		}
+	}
+#tondainadu
+	c_chengalpattu = {
+		3446.1.1 = {
+			holder = CKU_tondainadu_1
+			change_development_level = 15
+			liege = e_vijayanagara
+		}
+	}
+	c_chennai = {
+		3446.1.1 = {
+			holder = CKU_tondainadu_1
+			change_development_level = 13
+		}
+	}
+	c_kanchipuram = {
+		3446.1.1 = {
+			holder = CKU_tondainadu_1
+			change_development_level = 11
+		}
+	}
+#nelluru
+	c_nellore = {
+		3446.1.1 = {
+			holder = CKU_nellore_1
+			change_development_level = 15
+			liege = e_vijayanagara
+		}
+	}
+	c_giddalur = {
+		3446.1.1 = {
+			holder = CKU_nellore_1
+			change_development_level = 10
+		}
+	}
+	c_Cadapah = {
+		3446.1.1 = {
+			holder = CKU_nellore_1
+			change_development_level = 7
+		}
+	}
+	c_rajampet = {
+		3446.1.1 = {
+			holder = CKU_nellore_1
+			change_development_level = 11
+		}
+	}
+	c_thamminapatnam = {
+		3446.1.1 = {
+			holder = CKU_nellore_1
+			change_development_level = 15
+		}
+	}
+#villupuram
+	c_viluppuram = {
+		3446.1.1 = {
+			holder = CKU_vilupparam_1
+			change_development_level = 15
+			liege = e_vijayanagara
+		}
+	}
+	c_tiruvannamalai = {
+		3446.1.1 = {
+			holder = CKU_vilupparam_1
+			change_development_level = 10
+		}
+	}
+	c_kallakurichi = {
+		3446.1.1 = {
+			holder = CKU_vilupparam_1
+			change_development_level = 12
+		}
+	}
+	c_puducherry = {
+		3446.1.1 = {
+			holder = CKU_vilupparam_1
+			change_development_level = 15
+		}
+	}
+#tavanjur
+	d_thanjavur = {
+		3446.1.1 = {
+			holder = CKU_tavanjur_1
+			liege = e_vijayanagara
+		}
+	}
+	c_thanjavur = {
+		3446.1.1 = {
+			holder = CKU_tavanjur_1
+			change_development_level = 15
+		}
+	}
+	c_gaitanum = {
+		3446.1.1 = {
+			holder = CKU_tavanjur_1
+			change_development_level = 15
+		}
+	}
+	c_nagapattinam = {
+		3446.1.1 = {
+			holder = CKU_tavanjur_1
+			change_development_level = 15
+		}
+	}
+	c_karaikal = {
+		3446.1.1 = {
+			holder = CKU_tavanjur_1
+			change_development_level = 12
+		}
+	}
+	c_mayiladuthurai = {
+		3446.1.1 = {
+			holder = CKU_tavanjur_1
+			change_development_level = 15
+		}
+	}
+	c_erykoera = {
+		3446.1.1 = {
+			holder = CKU_tavanjur_1
+			change_development_level = 15
+		}
+	}
+	c_ariyalur = {
+		3446.1.1 = {
+			holder = CKU_tavanjur_1
+			change_development_level = 15
+		}
+	}
+	c_perambalur = {
+		3446.1.1 = {
+			holder = CKU_tavanjur_1
+			change_development_level = 10
+		}
+	}
+#salem
+	d_salem = {
+		3446.1.1 = {
+			holder = CKU_salem_1
+			liege = e_vijayanagara
+		}
+	}
+	c_salem = {
+		3446.1.1 = {
+			holder = CKU_salem_1
+			change_development_level = 12
+		}
+	}
+	c_namakkal = {
+		3446.1.1 = {
+			holder = CKU_salem_1
+			change_development_level = 9
+		}
+	}
+	c_erode = {
+		3446.1.1 = {
+			holder = CKU_salem_1
+			change_development_level = 10
+		}
+	}
+#nayak
+	c_karur = {
+		3446.1.1 = {
+			holder = CKU_nayak_1
+			change_development_level = 12
+			liege = e_vijayanagara
+		}
+	}
+	c_tiruchirapalli = {
+		3446.1.1 = {
+			holder = CKU_nayak_1
+			change_development_level = 12
+		}
+	}
+	c_tiruppur = {
+		3446.1.1 = {
+			holder = CKU_nayak_1
+			change_development_level = 10
+		}
+	}
+	c_coimbatore = {
+		3446.1.1 = {
+			holder = CKU_nayak_1
+			change_development_level = 6
+		}
+	}
+	c_dindigul = {
+		3446.1.1 = {
+			holder = CKU_nayak_1
+			change_development_level = 5
+		}
+	}
+	c_theni = {
+		3446.1.1 = {
+			holder = CKU_nayak_1
+			change_development_level = 4
+		}
+	}
+	c_manapparai = {
+		3446.1.1 = {
+			holder = CKU_nayak_1
+			change_development_level = 7
+		}
+	}
+	c_pudukkottai = {
+		3446.1.1 = {
+			holder = CKU_nayak_1
+			change_development_level = 11
+		}
+	}
+	c_sivagangai = {
+		3446.1.1 = {
+			holder = CKU_nayak_1
+			change_development_level = 12
+		}
+	}
+	c_ramanathapuram = {
+		3446.1.1 = {
+			holder = CKU_nayak_1
+			change_development_level = 13
+		}
+	}
+#madurai
+	d_madurai = {
+		3446.1.1 = {
+			holder = CKU_madurai_1
+			liege = e_vijayanagara
+		}
+	}
+	c_madurai = {
+		3446.1.1 = {
+			holder = CKU_madurai_1
+			change_development_level = 8
+		}
+	}
+	c_virudhunagar = {
+		3446.1.1 = {
+			holder = CKU_madurai_1
+			change_development_level = 7
+		}
+	}
+	c_tenkasi = {
+		3446.1.1 = {
+			holder = CKU_madurai_1
+			change_development_level = 4
+		}
+	}
+	c_tirunelveli = {
+		3446.1.1 = {
+			holder = CKU_madurai_1
+			change_development_level = 5
+		}
+	}
+	c_toothukudi = {
+		3446.1.1 = {
+			holder = CKU_madurai_1
+			change_development_level = 6
+		}
+	}
+#chitradurga
+	d_seringpatam = {
+		3446.1.1 = {
+			holder = CKU_chitradurga_1
+			liege = e_vijayanagara
+		}
+	}
+	c_berar = {
+		3446.1.1 = {
+			holder = CKU_chitradurga_1
+			change_development_level = 13
+		}
+	}
+	c_sira = {
+		3446.1.1 = {
+			holder = CKU_chitradurga_1
+			change_development_level = 11
+		}
+	}
+	c_hindupuram = {
+		3446.1.1 = {
+			holder = CKU_chitradurga_1
+			change_development_level = 11
+		}
+	}
+	c_mandya = {
+		3446.1.1 = {
+			holder = CKU_chitradurga_1
+			change_development_level = 10
+		}
+	}
+#keladi
+	d_keladi = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			liege = e_vijayanagara
+		}
+	}
+	c_goa = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			change_development_level = 11
+		}
+	}
+	c_vengurla = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			change_development_level = 8
+		}
+	}
+	c_karwar = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			change_development_level = 5
+		}
+	}
+	c_kumta = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			change_development_level = 6
+		}
+	}
+	c_bhatkal = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			change_development_level = 5
+		}
+	}
+	c_mangaluru = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			change_development_level = 5
+		}
+	}
+	c_madikeri = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			change_development_level = 4
+		}
+	}
+	c_haveri = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			change_development_level = 6
+		}
+	}
+	c_harihar = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			change_development_level = 10
+		}
+	}
+	c_bhadravati = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			change_development_level = 8
+		}
+	}
+	c_shivamoga = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			change_development_level = 7
+		}
+	}
+	c_tiptur = {
+		3446.1.1 = {
+			holder = CKU_keladi_1
+			change_development_level = 9
+		}
+	}
+#virajpet
+	c_narispur = {
+		3446.1.1 = {
+			holder = CKU_virajpet_1
+			change_development_level = 6
+			liege = e_vijayanagara
+		}
+	}
+	c_virajpet = {
+		3446.1.1 = {
+			holder = CKU_virajpet_1
+			change_development_level = 5
+		}
+	}
+	c_hunsur = {
+		3446.1.1 = {
+			holder = CKU_virajpet_1
+			change_development_level = 6
+		}
+	}
+	c_ammatti = {
+		3446.1.1 = {
+			holder = CKU_virajpet_1
+			change_development_level = 5
+		}
+	}
+	c_hasan = {
+		3446.1.1 = {
+			holder = CKU_virajpet_1
+			change_development_level = 7
+		}
+	}
+	c_arsikere = {
+		3446.1.1 = {
+			holder = CKU_virajpet_1
+			change_development_level = 6
+		}
+	}
+
+
+
+
+
+#andhra / reddi
+	k_andhra = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+		}
+	}
+	d_andhra = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+		}
+	}
+	c_guntur = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+			change_development_level = 18
+		}
+	}
+	c_chirala = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+			change_development_level = 12
+		}
+	}
+	c_kavali = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+			change_development_level = 13
+		}
+	}
+	c_markapur = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+			change_development_level = 9
+		}
+	}
+	c_narasaraopet = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+			change_development_level = 10
+		}
+	}
+	c_macherla = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+			change_development_level = 8
+		}
+	}
+	c_vijayawada = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+			change_development_level = 12
+		}
+	}
+	c_masulipatnam = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+			change_development_level = 13
+		}
+	}
+	c_west_godavari = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+			change_development_level = 12
+		}
+	}
+	c_east_godavari = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+			change_development_level = 12
+		}
+	}
+	c_godavari = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+			change_development_level = 12
+		}
+	}
+	c_visakhapatnam = {
+		3446.1.1 = {
+			holder = CKU_reddy_1
+			change_development_level = 9
+		}
+	}
+#travancore = {
+	c_tiruvanantapuram = {
+		3446.1.1 = {
+			holder = CKU_venad_1
+			change_development_level = 6
+		}
+	}
+	c_kanniyakumari = {
+		3446.1.1 = {
+			holder = CKU_venad_1
+			change_development_level = 6
+		}
+	}
+	c_nemam = {
+		3446.1.1 = {
+			holder = CKU_venad_1
+			change_development_level = 6
+		}
+	}
+#}
+#quilon = {
+	c_quilon = {
+		3446.1.1 = {
+			holder = CKU_quilon_1
+			change_development_level = 6
+		}
+	}
+#}
+#kayankulam = {
+	c_kayankulam = {
+		3446.1.1 = {
+			holder = CKU_kayankulam_1
+			change_development_level = 6
+		}
+	}
+#}
+#kottayam = {
+	c_kottayam = {
+		3446.1.1 = {
+			holder = CKU_kottayam_1
+			change_development_level = 6
+		}
+	}
+#}
+#kochin = {
+	c_kochin = {
+		3446.1.1 = {
+			holder = CKU_kochin_1
+			change_development_level = 9
+		}
+	}
+	c_kakkanad = {
+		3446.1.1 = {
+			holder = CKU_kochin_1
+			change_development_level = 6
+		}
+	}
+#}
+#kolathiri = {
+	c_kanannur = {
+		3446.1.1 = {
+			holder = CKU_kanannur_1
+			change_development_level = 6
+		}
+	}
+	c_mahi = {
+		3446.1.1 = {
+			holder = CKU_kanannur_1
+			change_development_level = 6
+		}
+	}
+	c_kozhikode = {
+		3446.1.1 = {
+			holder = CKU_kanannur_1
+			change_development_level = 6
+		}
+	}
+#}
+#zamorin = {
+	c_beipur = {
+		3446.1.1 = {
+			holder = CKU_zamorin_1
+			change_development_level = 6
+		}
+	}
+	c_thrissur = {
+		3446.1.1 = {
+			holder = CKU_zamorin_1
+			change_development_level = 6
+		}
+	}
+	c_nilambur = {
+		3446.1.1 = {
+			holder = CKU_zamorin_1
+			change_development_level = 6
+		}
+	}
+	c_shoranur = {
+		3446.1.1 = {
+			holder = CKU_zamorin_1
+			change_development_level = 6
+		}
+	}
+#}

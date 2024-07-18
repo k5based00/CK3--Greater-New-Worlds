@@ -1,0 +1,54 @@
+#Great Britain
+
+915 = { #London
+	2771.1.1 = {
+		special_building = CKU_tower_of_london
+	}
+}
+950 = { #wiltshire
+	2004.1.1 = {
+		special_building = CKU_stonehenge
+	}
+}
+1019 = { #colerain
+	2004.1.1 = {
+		special_building = CKU_giants_causeway
+	}
+}
+921 = { #canterbury
+	2599.1.1 = {
+		special_building = CKU_canterbury_cathedral
+	}
+}
+#hadrians wall ---
+896 = {
+	2124.1.1 = {
+		special_building = CKU_hadrians_wall_01
+	}
+}
+920 = {
+	2124.1.1 = {
+		special_building = CKU_hadrians_wall_01
+	}
+}
+916 = {
+	2124.1.1 = {
+		special_building = CKU_hadrians_wall_01
+	}
+}
+# ---
+886 = { #oxford
+	3098.1.1 = {
+		special_building = CKU_oxford_university
+	}
+}
+872 = { #warwick
+	3070.1.1 = {
+		special_building = CKU_warwick_castle
+	}
+}
+986 = { #midlothian
+	3095.1.1 = {
+		special_building = CKU_edinburgh_castle
+	}
+}

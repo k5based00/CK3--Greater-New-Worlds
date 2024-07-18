@@ -1,0 +1,1135 @@
+﻿40120 = {
+	name = "Armand" #viscount Armand I d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	2842.1.1 = {
+		birth = "2842.1.1"
+	}
+	2907.11.1 = {
+		death = "2907.11.1"
+	}
+}
+
+40126 = {
+	name = "GuilhE_m" #Guillaume IV d'Auvergne
+	# AKA: Guilhem
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40124  #viscount Robert II d'Auvergne
+	#maybe son of 138430
+	2947.1.1 = {
+		birth = "2947.1.1" #unknown
+	}
+	3018.1.1 = {
+		death = "3018.1.1"
+	}
+}
+
+40130 = {
+	name = "GuilhE_m" #Guillaume V d'Auvergne
+	# AKA: Guilhem
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40128 #Robert I d'Auvergne
+	mother = 40235 #Ermengarde de Toulouse
+	3012.1.1 = {
+		birth = "3002.1.1"
+	}
+	3025.1.1 = {
+		add_spouse = 40261 #Philippa de Gévaudan
+	}
+	3066.1.1 = {
+		death = "3066.1.1"
+	}
+}
+206034 = {
+	name = "GuilhE_m" #Guillaume VI d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	trait = education_martial_2
+	father = 306 #Robert II d'Auvergne
+	mother = 138261 #Judith de Melgueil
+	3071.1.1 = {
+		birth = "3071.1.1"
+	}
+	3092.1.1 = {
+		add_spouse = 211533 #Emma de Sicile marriage d. unknown
+	}
+	3104.1.1 = {
+		trait = faith_warrior
+	}
+	3138.1.1 = {
+		death = "3138.1.1"
+	}
+}
+206033 = {
+	name = "GuilhE_m" #Guillaume "the_old" VIII d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	trait = education_martial_2
+	father = 206034 #Guillaume VI d'Auvergne
+	mother = 211533 #Emma de Sicile/Hauteville
+	3102.1.2 = {
+		birth = "3102.1.2"
+		give_nickname = "nick_the_old"
+	}
+	3142.1.2 = {
+		add_spouse = 205716 #Anne de Nevers
+	}
+	3184.1.1 = {
+		death = "3184.1.1"
+	}
+}
+138303 = {
+	name = "AinE_s" #Agnès d'Auvergne
+	female = yes
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 206033 #Guillaume VII d'Auvergne
+	mother = 205716 #Anne de Nevers
+	3137.1.1 = {
+		birth = "3137.1.1"
+	}
+	3172.1.1 = {
+		death = "3172.1.1"
+	}	
+}
+
+40122 = {
+	name = "RobE_rt" #viscount Robert I d'Auvergne
+	# AKA: Robert
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40120 #Armand I d'Auvergne
+	2872.1.1 = {
+		birth = "2872.1.1"
+	}
+	2947.1.1 = {
+		death = "2947.1.1"
+	}
+}
+
+40132 = {
+	name = "Matfre" #Malfroid de Thiern
+	dynasty = CKU_auvergne #d'Auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40120
+	2907.1.1 = {
+		birth = "2907.1.1" #unknown
+	}
+	2964.2.1 = {
+		death = "2964.2.1" #before
+	}
+}
+
+40134 = {
+	name = "EstE_ve" #Etienne I de Thiern
+	# AKA: Etienne
+	dynasty_house = house_auvergne_thiern #was 733 Auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40132 #Malfroid de Thiern
+	2927.1.1 = {
+		birth = "2927.1.1" #unknown
+	}
+	2984.1.1 = {
+		death = "2984.1.1" #unknown
+	}
+}
+
+40136 = {
+	name = "Gui" #Guy II de Thiern
+	dynasty_house = house_auvergne_thiern #was 733 Auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40134 #Etienne I de Thiern
+	2967.1.1 = {
+		birth = "2967.1.1" #unknown
+	}
+	3033.1.1 = {
+		death = "3033.1.1"
+	}
+}
+
+40140 = {
+	name = "EstE_ve" #Etienne II de Thiern
+	# AKA: Etienne
+	dynasty_house = house_auvergne_thiern #was 733 Auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40136 #Guy II de Thiern
+	2987.1.1 = {
+		birth = "2987.1.1"
+	}
+	#1015 married Blanche de Chalon
+	3062.1.1 = {
+		death = "3062.1.1"
+	}
+}
+
+40142 = {
+	name = "GuilhE_m" #Guillaume II de Thiern
+	# AKA: Guilhem
+	dynasty_house = house_auvergne_thiern #was 733 Auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40140 #Etienne d'Auvergne
+	3017.1.1 = {
+		birth = "3017.1.1"
+	}
+	3033.1.1 = {
+		add_spouse = 91148 #Adelais de Chalon
+	}
+	3085.11.1 = {
+		death = "3085.11.1"
+	}
+}
+
+40144 = {
+	name = "GuilhE_m" #Guillaume III de Thiern
+	# AKA: Guilhem
+	dynasty_house = house_auvergne_thiern #was 733 Auvergne
+	religion = "catholic"
+	culture = "occitan"
+	trait = education_martial_2
+	father = 40142 #Guillaume II de Thiern
+	mother = 91148 #Adelais de Chalon
+	3037.1.1 = {
+		birth = "3037.1.1"
+	}
+	3107.1.1 = {
+		death = "3107.1.1"
+	}
+}
+
+91149 = {
+	name = "Gui" #Guy III de Thiern/Chalon
+	# AKA: Guy
+	dynasty = 736 #was 733 Auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40142 #Guillaume II de Thiern
+	mother = 91148 #Adelais de Chalon
+	3038.1.1 = {
+		birth = "3038.1.1" #unknown
+	}
+	3115.1.1 = {
+		death = "3115.1.1"
+	}
+}
+
+205691 = {
+	name = "GuilhE_m" #Guillaume I de Chalon
+	dynasty = 736 #was 733 Auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 91149 #Guy III de Thiers	
+	3057.1.1 = {
+		birth = "3057.1.1" #unknown
+	}	
+	3168.1.1 = {
+		death = "3168.1.1"
+	}
+}
+
+205690 = {
+	name = "GuilhE_m" #Guillaume II de Chalon
+	dynasty = 736 #was 733 Auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 205691 #Guillaume I de Chalon
+	3122.1.1 = {
+		birth = "3122.1.1"
+	}
+	3204.1.1 = {
+		death = "3204.1.1"
+	}
+}
+
+138432 = {
+	name = "GuilhE_m" #Guillaume III de Chalon
+	dynasty = 736 #was 733 Auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 205690 #Guillaume II de Chalon
+	3152.1.1 = {
+		birth = "3152.1.1"
+	}
+	3175.1.1 = {
+		add_spouse = 212509  #Beatrix von Hohenstaufen
+	}
+	3205.1.3 = {
+		death = "3205.1.3"
+	}
+}
+
+205692 = {
+	name = "Beatritz" #Béatrice de Chalon
+	female = yes
+	dynasty = 736 #was 733 Auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 138432 #Guillaume III de Chalon
+	mother = 212509 #Beatrix von Hohenstaufen
+	3176.1.1 = {
+		birth = "3176.1.1"
+	}
+	3229.4.7 = {
+		death = "3229.4.7"
+	}
+}
+
+40124 = {
+	name = "RobE_rt" #viscount Robert II d'Auvergne
+	# AKA: Robert
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40122 #Robert I d'Auvergne
+	2902.1.1 = {
+		birth = "2902.1.1" #unknown
+	}
+	2970.1.1 = {
+		death = "2970.1.1"
+	}
+}
+
+138430 = {
+	name = "Gui" #Guy I d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40124  #viscount Robert II d'Auvergne
+	2937.1.1 = {
+		birth = "2937.1.1" #unknown
+	}
+	2987.1.1 = {
+		death = "2987.1.1"
+	}
+}
+
+40128 = {
+	name = "RobE_rt" #Robert I d'Auvergne
+	# AKA: Robert
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40126 #Guillaume IV d'Auvergne
+	2987.1.1 = {
+		birth = "2987.1.1" #unknown
+	}
+	3022.1.1 = {
+		add_spouse = 40235 #Ermengarde de Toulouse
+	}
+	3034.1.1 = {
+		death = "3034.1.1"
+	}
+}
+
+40129 = {
+	name = "Ermengarda" #d'Auvergne
+	female = yes
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40126 #Guillaume IV d'Auvergne
+	2997.1.1 = {
+		birth = "2997.1.1"
+	}
+	3044.3.11 = {
+		death = "3044.3.11"
+	}
+}
+
+40131 = {
+	name = "Filipa" #d'Auvergne
+	# AKA: Philippa
+	female = yes
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40130 #Guillaume V d'Auvergne
+	mother = 40261 #Philippa de Gévaudan
+	3025.1.1 = {
+		birth = "3025.1.1"
+	}
+	#1048 married Archambaud de Bourbon
+	3072.1.1 = {
+		death = "3072.1.1"
+	}
+}
+
+206030 = {
+	name = "RobE_rt" #Robert IV d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 206033 #Guillaume d'Auvergne the Old
+	mother = 205716 #Anne de Bachaumont
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	3163.1.1 = {
+		add_spouse = 206017 #Mahaut de Bourgogne
+	}
+	3196.1.1 = {
+		death = "3196.1.1"
+	}
+}
+
+206035 = {
+	name = "Maria" #d'Auvergne
+	female = yes
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 206030 #Robert IV d'Auvergne
+	mother = 206017 #Mahaut de Bourgogne
+	3168.1.1 = {
+		birth = "3168.1.1"
+	}
+	#married Albert II de la Tour du Pin 138408
+	3231.1.1 = {
+		death = "3231.1.1" #after
+	}
+}
+
+206032 = {
+	name = "RobE_rt" #Robert de Clermont
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 206030 #Robert IV d'Auvergne
+	mother = 206017 #Mahaut de Bourgogne
+	3192.1.1 = {
+		birth = "3192.1.1"
+	}
+	3236.2.1 = {
+		death = "3236.2.1"
+	}
+}
+
+138427 = {
+	name = "RobE_rt" #Robert d'Auvergne Bishop of Clermont and Archbishop of Lyon
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 206030 #Robert IV d'Auvergne
+	mother = 206017 #Mahaut de Bourgogne
+	3177.1.1 = {
+		birth = "3177.1.1"
+	}
+	3236.1.6 = {
+		death = "3236.1.6"
+	}	
+}
+
+206031 = {
+	name = "GuilhE_m" #Guillaume IX d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 206030 #Robert IV d'Auvergne
+	mother = 206017 #Mahaut de Bourgogne
+	3171.1.2 = {
+		birth = "3171.1.2"
+	}
+	3199.1.1 = {
+		death = "3199.1.1"
+	}
+}
+
+206036 = {
+	name = "Gui" #Guy II d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 206030 #Robert IV d'Auvergne
+	mother = 206017 #Mahaut de Bourgogne
+	3172.1.2 = {
+		birth = "3172.1.2"
+	}
+	3224.1.1 = {
+		death = "3224.1.1"
+	}
+}
+
+7467 = {
+	name = "GuilhE_m" #Guillaume X d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 206036 #Guy II d'Auvergne
+	3197.1.1 = {
+		birth = "3197.1.1"
+	}
+	3227.2.3 = {
+		add_spouse = 7473 #Adelaide de Brabant
+	}
+	3248.1.1 = {
+		death = "3248.1.1"
+	}
+}
+
+7468 = {
+	name = "RobE_rt" #Robert V d'Auvergne
+	# AKA: Robert
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 7467 #Guillaume X d'Auvergne
+	mother = 7473 #Adelaide de Brabant
+	3228.1.1 = {
+		birth = "3228.1.1"
+	}
+	3279.1.11 = {
+		death = "3279.1.11"
+	}
+}
+
+7469 = {
+	name = "GuilhE_m" #late Guillaume XI d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 7468 #Robert V d'Auvergne
+	3251.1.1 = {
+		birth = "3251.1.1"
+	}
+	3279.1.1 = {
+		death = "3279.1.1"
+	}
+}
+
+7470 = {
+	name = "RobE_rt" #Robert VI d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 7468 #Robert V d'Auvergne
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	#3278.7.14 married Beatrix de Montgascon
+	3319.1.1 = {
+		death = "3319.1.1"
+	}
+}
+
+7471 = {
+	name = "RobE_rt" #Robert VII d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 7470 #Robert VI d'Auvergne
+	3284.1.1 = {
+		birth = "3284.1.1"
+		give_nickname = nick_the_great
+	}
+	3305.6.25 = {
+		add_spouse = 7472 #Blanche de Clermont
+	}
+	3314.2.1 = {
+		add_spouse = 138429 #Marie de Flandre
+	}
+	3327.10.13 = {
+		death = "3327.10.13"
+	}
+}
+
+32756 = {
+	name = "Matilda" #d'Auvergne
+	female = yes
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 7471 #Robert VII d'Auvergne
+	mother = 138429 #Marie de Flandre
+	3320.1.1 = {
+		birth = "3320.1.1"
+	}
+	3398.8.28 = {
+		death = "3398.8.28"
+	}
+}
+
+455821 = {
+	name = "GuilhE_m" #Guillaume XII d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 7471 #Robert VII d'Auvergne
+	mother = 7472 #Blanche de Clermont
+	3305.4.1 = {
+		birth = "3305.4.1"
+	}
+	3327.1.1 = {
+		add_spouse = 455822 #Marguerite d'Evreux
+	}
+	3334.8.6 = {
+		death = "3334.8.6"
+	}
+}
+
+455820 = {
+	name = "Joana" #Countess Jeanne d'Auvergne
+	female = yes
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 455821 #Guillaume XII d'Auvergne
+	mother = 455822 #Marguerite d'Evreux
+	3328.1.1 = {
+		birth = "3328.1.1"
+	}
+	3378.1.1 = {
+		death = "3378.1.1"
+	}
+}
+
+206038 = {
+	name = "RobE_rt" #Robert III d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 206034 #Guillaume VI d'Auvergne
+	mother = 211533 #Emma de Sicile/Hauteville
+	3097.1.1 = {
+		birth = "3097.1.1"
+	}
+	3149.1.1 = {
+		death = "3149.1.1"
+	}
+}
+
+206040 = {
+	name = "GuilhE_m" #Guillaume VII "le_jeune" d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 206038 #Robert III d'Auvergne
+	3132.1.1 = {
+		birth = "3132.1.1"
+		give_nickname = nick_the_young
+	}
+	3152.1.1 = {
+		add_spouse = 206039 #Marquise d'Albon
+	}
+	3157.1.1 = {
+		add_pressed_claim = title:c_auvergne
+	}
+	3171.1.1 = {
+		death = "3171.1.1"
+	}
+}
+
+206042 = {
+	name = "Daufin" #(Robert IV) Dauphin d'Auvergne count of Clermont
+	# AKA: Guillaume
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	trait = lustful
+	trait = gregarious
+	father = 206040
+	mother = 206039 #Marquise d'Albon
+	3153.1.1 = {
+		birth = "3153.1.1"
+		give_nickname = nick_the_troubadour
+	}
+	3168.1.1 = {
+		add_spouse = 205607 #Guillemette de Comborn
+	}
+	3237.3.22 = {
+		death = "3237.3.22"
+	}
+}
+
+206043 = {
+	name = "Daufine" #d'Auvergne
+	female = yes
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 206042 #Dauphin d'Auvergne
+	mother = 205607 #Guillemette de Comborn
+	3170.1.1 = {
+		birth = "3170.1.1" #unknown
+	}
+	3201.1.1 = {
+		death = "3201.1.1"
+	}
+}
+
+206044 = {
+	name = "GuilhE_m" #Guillaume II de Clermont
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 206042 #Dauphin d'Auvergne
+	mother = 205607 #Guillemette de Comborn
+	3177.1.2 = {
+		birth = "3177.1.2"
+	}
+	3242.11.19 = {
+		death = "3242.11.19"
+	}
+}
+
+303433 = {
+	name = "Robert"	#Robert III of Clermont, count of Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40124  #viscount Robert II d'Auvergne
+	2934.1.1 = {
+		birth = yes #unknown
+	}
+	2981.1.1 = {
+		death = yes	#bteween 962 and 980
+	}
+}
+
+306 = {
+	name = "RobE_rt" #Robert II d'Auvergne
+	dynasty = CKU_auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40130 #Guillaume V d'Auvergne
+	mother = 40261 #Philippa de Gévaudan
+	3041.1.1 = {
+		birth = "3041.1.1"
+	}
+	3061.1.1 = {
+		add_spouse = occitan0107 # Berthe de Rouerge
+	}
+	3070.5.14 = {
+		add_spouse = 138261 #Judith de Melgueil
+	}
+	3098.1.1 = {
+		death = "3098.1.1"
+	}
+}
+
+40138 = {
+	name = "GuilhE_m" #Guillaume I de Thiern
+	# AKA: Guilhem
+	dynasty_house = house_auvergne_thiern #was 733 Auvergne
+	religion = "catholic"
+	culture = "occitan"
+	father = 40136 #Guy II de Thiern
+	2982.1.1 = {
+		birth = "2982.1.1" #unknown
+	}
+	3050.1.1 = {
+		death = "3050.1.1"
+	}
+}
+
+138403 = {
+	name = "Guigues" #Guigues I d'Albon
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"
+	2947.1.1 = {
+		birth = "2947.1.1" #unknown
+	}
+	2998.10.18 = {
+		death = "2998.10.18"
+	}
+}
+
+40460 = {
+	name = "Guigues" #Guigues II d'Albon
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"
+	father = 138403 #Guigues I d'Albon
+	2977.1.1 = {
+		birth = "2977.1.1"
+	}
+	3011.1.1 = {
+		death = "3011.1.1"
+	}
+}
+
+40462 = {
+	name = "Guigues" #Guigues III the old d'Albon
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"
+	father = 40460 #Guigues II d'Albon
+	3002.1.1 = {
+		birth = "3002.1.1"
+		give_nickname = nick_the_old
+	}
+	3072.5.10 = {
+		add_spouse = 110523 #Agnès de Barcelona
+	}
+	3076.4.22 = {
+		death = "3076.4.22"
+	}	
+}
+
+40466 = {
+	name = "Ubert" #d'Albon
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"
+	father = 40462 #Guigues III the old d'Albon
+	3028.1.1 = {
+		birth = "3028.1.1"
+	}
+	3082.1.1 = {
+		death = "3082.1.1"
+	}
+}
+
+212804 = {
+	name = "Guigues" #Guigues IV Pinguis d'Albon
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"
+	father = 40462 #Guigues III d'Albon
+ 	trait = gluttonous
+	3027.1.1 = {
+		birth = "3027.1.1"
+		give_nickname = nick_the_fat
+	}
+	# 3052.4.27 married Petronille de Royans
+	3108.1.19 = {
+		death = "3108.1.19"
+	}
+}
+
+212803 = {
+	name = "Guigues" #Guigues V d'Albon
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"	
+	father = 212804  #Guigues IV Pinguis d'Albon
+	3052.1.2 = {
+		birth = "3052.1.2"
+	}
+	#1095 married Regina/Mathilde (from england)
+	3127.12.21 = {
+		death = "3127.12.21"
+	}
+}
+
+40468 = {
+	name = "Ubert" #d'Albon
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"
+	father = 212803  #Guigues V d'Albon
+	3098.1.1 = {
+		birth = "3098.1.1"
+	}
+	3149.11.20 = {
+		death = "3149.11.20"
+	}
+}
+
+213112 = {
+	name = "Matilda" #d'Albon
+	female = yes
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"
+	father = 212803 #Guigues V d'Albon
+	3114.1.1 = {
+		birth = "3114.1.1"
+	}
+	#1135.7 married Amédéé de Savoie 213111
+	3150.3.30 = {
+		death = "3150.3.30" #was 3152.1.13
+	}
+}
+
+212802 = {
+	name = "Guigues" #Guigues VI d'Albon
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"
+	father = 212803  #Guigues V d'Albon
+	trait = education_martial_2
+	3097.1.1 = {
+		birth = "3097.1.1"
+	}
+	3126.1.10 = {
+		add_spouse = 7584 #Clémence de Macon
+	}
+	3144.6.28 = {
+		death = "3144.6.28"
+	}
+}
+
+212801 = {
+	name = "Guigues" #Guigues VII d'Albon
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"
+	trait = hunchbacked
+	trait = education_learning_2
+	father = 212802 #Guigues VI d'Albon
+	mother = 7584 #Clémence de Macon
+	3127.1.1 = {
+		birth = "3127.1.1"
+	}
+	3155.4.22 = {
+		add_spouse = 213522 #Beatrice de Monferrato
+	}
+	3164.7.29 = {
+		death = "3164.7.29"
+	}
+}
+
+212800 = {
+	name = "Beatritz" #Beatrix d'Albon
+	female = yes
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"
+	father = 212801 #Guigues VII d'Albon
+	mother = 213522 #Beatrice de Monferrato
+	3163.1.1 = {
+		birth = "3163.1.1"
+	}
+	#married 1179.11 Alberic de Toulouse
+	#married 3185.9.1 Hugues III of Burgundy
+	#married 1193 Hugues de Coligny
+	3230.12.15 = {
+		death = "3230.12.15"
+	}
+}
+
+206039 = {
+	name = "Marquise" #d'Albon
+	female = yes
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"
+	father = 212802 #Guigues VI d'Albon
+	mother = 7584 #Clémence de Macon
+	3131.1.1 = {
+		birth = "3131.1.1"
+	}
+	#married 206038 Robert IV Dauphin 3152.1.1
+	3179.1.1 = {
+		death = "3179.1.1"
+	}
+}
+
+138405 = {
+	name = "Beatritz" #Beatrix d'Albon
+	female = yes
+	dynasty = CKU_albon
+	religion = "catholic"
+	culture = "occitan"
+	father = 212802 #Guigues VI d'Albon
+	mother = 7584 #Clémence de Macon
+	3117.1.1 = {
+		birth = "3117.1.1"
+	}
+	#married 1152 Guillaume de Poitiers Valentinois 212780
+	3179.1.1 = {
+		death = "3179.1.1"
+	}
+}
+
+212805 = {
+	name = "Guigues-Raimond" #Guigues dit Raymond d'Albon
+	dynasty_house = house_albon_forez
+	religion = "catholic"
+	culture = "occitan"
+	father = 40462 #Guigues III d'Albon
+	mother = 110523 #Agnès de Barcelona
+	3076.1.1 = {
+		birth = "3076.1.1"
+	}
+	3093.1.1 = {
+		add_spouse = 10036 #Ita de Forez
+	}
+	3098.12.5 = {
+		death = "3098.12.5"
+	}
+}
+
+205681 = {
+	name = "Guigues" #Guigues de Lyon et de Forez
+	dynasty_house = house_albon_forez
+	religion = "catholic"
+	culture = "occitan"
+	father = 212805 #Guigues IV d'Albon
+	mother = 10036 #Ita de Forez
+	3097.1.1 = {
+		birth = "3097.1.1"
+	}
+	3131.1.1 = {
+		add_spouse = 205682 #Alix de Beaujeu
+	}
+	3140.10.27 = {
+		death = "3140.10.27"
+	}
+}
+
+205680 = {
+	name = "Guigues" #Guigues II de Forez/Lyon
+	dynasty_house = house_albon_forez
+	religion = "catholic"
+	culture = "occitan"
+	father = 205681 #Guy d'Albon
+	mother = 205682 #Alix de Beaujeu
+	3132.1.1 = {
+		birth = "3132.1.1"
+	}
+	# married 1158 Guillelme ?
+	3208.6.12 = {
+		death = "3208.6.12"
+	}
+}
+
+205684 = {
+	name = "Guigues" #Guigues III de Forez/Lyon
+	dynasty_house = house_albon_forez
+	religion = "catholic"
+	culture = "occitan"
+	father = 205680 #Guigues II de Forez
+	3162.1.2 = {
+		birth = "3162.1.2"
+	}
+	3203.1.1 = {
+		trait = faith_warrior
+	}
+	3204.11.28 = {
+		death = "3204.11.28"
+	}
+}
+
+
+205685 = {
+	name = "Rainaut" #Renaud d'Albon archbishop of Lyon
+	dynasty_house = house_albon_forez
+	religion = "catholic"
+	culture = "occitan"
+	father = 205680 #Guigues II de Forez
+	3180.1.1 = {
+		birth = "3180.1.1"
+	}
+	3228.10.21 = {
+		death = "3228.10.21"
+	}
+}
+
+206015 = {
+	name = "Guigone" #Alix de Forez
+	# AKA: Alix
+	female = yes
+	dynasty_house = house_albon_forez
+	religion = "catholic"
+	culture = "occitan"
+	father = 205684  #Guigues III de Forez/Lyon
+	3191.1.1 = {
+		birth = "3191.1.1"
+	}
+	#1219 maried Géraud de Bourgogne Comté?
+	3241.1.1 = {
+		death = "3241.1.1"
+	}
+}
+
+7491 = {
+	name = "Guigues" #Guigues IV de Forez/Lyon
+	dynasty_house = house_albon_forez
+	religion = "catholic"
+	culture = "occitan"
+	father = 205684  #Guigues III de Forez/Lyon
+	3201.1.1 = {
+		birth = "3201.1.1"
+	}
+	3216.1.1 = {
+		add_spouse = 7486 #Mahaut de Dampierre
+	}
+	3243.10.29 = {
+		death = "3243.10.29"
+	}
+}
+
+7485 = {
+	name = "Rainaut" #Renaud de Forez
+	dynasty_house = house_albon_forez
+	religion = "catholic"
+	culture = "occitan"
+	father = 7491
+	mother = 7486
+	3226.1.1 = {
+		birth = "3226.1.1"
+	}
+	#1247.11 married Isabelle de Beaujeu
+	3272.11.13 = {
+		death = "3272.11.13"
+	}
+}
+
+7489 = {
+	name = "Guigues" #Guy VI de Forez
+	dynasty_house = house_albon_forez
+	religion = "catholic"
+	culture = "occitan"
+	father = 7485 #Renaud de Forez
+	3252.1.1 = {
+		birth = "3252.1.1"
+	}
+	3270.1.1 = {
+		add_spouse = 462141 #Jeanne de Montfort
+	}
+	3280.1.1 = {
+		death = "3280.1.1"
+	}
+}
+
+7490 = {
+	name = "Joan" #Jean I de Forez
+	dynasty_house = house_albon_forez
+	religion = "catholic"
+	culture = "occitan"
+	father = 7489 #Guy VI de Forez
+	mother = 462141 #Jeanne de Montfort
+	3279.11.1 = {
+		birth = "3279.11.1"
+	}
+	3298.3.28 = {
+		add_spouse = 7496 #Alix de la Tour du Pins/viennois
+	}
+	#married Eleonore de Savoie
+	3335.1.1 = {
+		death = "3335.1.1"
+	}
+}
+
+455670 = {
+	name = "Guigues" #Guy VII de Forez
+	dynasty_house = house_albon_forez
+	religion = "catholic"
+	culture = "occitan"
+	father = 7490 #Jean I de Forez
+	mother = 7496 #Alix de la Tour du Pins
+	3301.4.19 = {
+		birth = "3301.4.19"
+	}
+	3326.8.3 = {
+		add_spouse = CKU_bourbon_54 #Jeanne de Clermont married 3326.8.3
+	}
+	3360.6.23 = {
+		death = "3360.6.23"
+	}
+}

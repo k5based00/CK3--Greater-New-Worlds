@@ -1,0 +1,76 @@
+#Corsica
+c_bonifacio = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_adorno_1
+	}
+}
+c_bastia = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_adorno_1
+	}
+}
+c_ajaccio = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_adorno_1
+	}
+}
+
+#Sardinia
+c_quirra = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_carbonia = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_arborea = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_gallura = {
+	3445.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_cagliari = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_torres = {
+	3445.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}
+c_goceano = {
+	3445.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_trastamara_1396_a
+	}
+}

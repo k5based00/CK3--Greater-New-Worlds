@@ -1,0 +1,693 @@
+CKU_ahmadebad_1 = {
+	name = "Muizz-ud-Din Muhammad Shah" #Muhammad Shah II
+	dynasty = CKU_ahmadebad
+	religion = hanafi
+	culture = gujarati
+	father = CKU_ahmadebad_2 #Muhammad Shah I
+	mother = CKU_ahmadebad_21 #unknown
+	3422.1.1 = { birth = yes }
+	3453.2.1 = { death = yes }
+}
+CKU_thana_1 = {
+	name = "Malik"
+	dynasty = CKU_us_sharq
+	religion = hanafi
+	culture = gujarati
+	#parents unknown
+	3404.1.1 = { birth = yes } #unknown
+	3467.1.1 = { death = yes } #unknown
+}
+CKU_radhanpur_1 = {
+	name = "Arja"
+	dynasty = CKU_singh
+	religion = hanafi
+	culture = gujarati
+	#parents unknown
+	3413.1.1 = { birth = yes }
+	3477.1.1 = { death = yes }
+}
+
+CKU_idar_1 = {
+	name = "Bhan"
+	dynasty = CKU_rathore
+	religion = vaishnavism
+	culture = gujarati
+	#parents unknown
+	3425.1.1 = { birth = yes }
+	3482.1.1 = { death = yes }
+}
+
+CKU_rewakantha_1 = {
+	name = "Patai Rawal"
+	dynasty = CKU_chauhan
+	religion = vaishnavism
+	culture = gujarati
+	#parents
+	3422.1.1 = { birth = yes }
+	3451.1.1 = { death = yes }
+}
+
+CKU_baglana_1 = {
+	name = "Nandeva"
+	dynasty = CKU_rastraudha
+	religion = vaishnavism
+	culture = marathi
+	#parents
+	3412.1.1 = { birth = yes }
+	3486.1.1 = { death = yes }
+}
+
+CKU_orissa_1 = {
+	name = "Kapilendra Deva"
+	dynasty = CKU_gajapati
+	religion = vaishnavism
+	culture = oriya
+	#parents
+	3415.1.1 = { birth = yes }
+	3468.1.1 = { death = yes }
+}
+CKU_keonjhar_1 = {
+	name = "Batuli"
+	dynasty = CKU_bhanj
+	religion = vaishnavism
+	culture = oriya
+	#parents
+	3426.1.1 = { birth = yes }
+	3469.1.1 = { death = yes }
+}
+CKU_garjat_1 = {
+	name = "Adi"
+	dynasty = CKU_bhanj
+	religion = vaishnavism
+	culture = oriya
+	#parents
+	3425.1.1 = { birth = yes }
+	3494.1.1 = { death = yes }
+}
+CKU_parlakhimidi_1 = {
+	name = "Kolahomi"
+	dynasty = CKU_gajapati
+	religion = vaishnavism
+	culture = oriya
+	#parents
+	3414.1.1 = { birth = yes }
+	3450.1.1 = { death = yes }
+}
+CKU_kalahandi_1 = {
+	name = "Pratapnayan"
+	dynasty = CKU_gangavanshi
+	religion = vaishnavism
+	culture = oriya
+	#parents
+	3419.1.1 = { birth = yes }
+	3461.1.1 = { death = yes }
+}
+CKU_jeypore_1 = {
+	name = "Vinayak"
+	dynasty = CKU_sankara
+	religion = vaishnavism
+	culture = oriya
+	#parents
+	3428.1.1 = { birth = yes }
+	3500.1.1 = { death = yes }
+}
+
+CKU_bastar_1 = {
+	name = "Bhaitai"
+	dynasty = CKU_bhanja
+	religion = vaishnavism
+	culture = oriya
+	#parents
+	3394.1.1 = { birth = yes }
+	3456.1.1 = { death = yes }
+}
+
+CKU_chanda_1 = {
+	name = "Karan"
+	dynasty = CKU_chandi
+	religion = vaishnavism
+	culture = oriya
+	#parents
+	3404.1.1 = { birth = yes }
+	3462.1.1 = { death = yes }
+}
+
+CKU_reddy_1 = {
+	name = "Veerabhadra"
+	dynasty = CKU_reddy
+	religion = vaishnavism
+	culture = telugu
+	#parents
+	3404.1.1 = { birth = yes }
+	3450.1.1 = { death = yes }
+}
+
+CKU_bahmani_1 = {
+	name = "Ala ud-Din Ahmad Shah"
+	dynasty = CKU_bahmani
+	religion = ismaili
+	culture = kannada
+	martial = 11
+	stewardship = 8
+	learning = 8
+	diplomacy = 10
+	intrigue = 5
+	#parents
+	3420.1.1 = { birth = yes }
+	3479.1.1 = { death = yes }
+}
+CKU_telingana_1 = {
+	name = "Lingama"
+	dynasty = CKU_velama
+	religion = vaishnavism
+	culture = telugu
+	#parents
+	3408.1.1 = { birth = yes }
+	3456.1.1 = { death = yes }
+}
+CKU_golconda_1 = {
+	name = "Jamshid"
+	dynasty = CKU_tuluva
+	religion = ismaili
+	culture = telugu
+	#parents
+	3425.1.1 = { birth = yes }
+	3462.1.1 = { death = yes }
+}
+CKU_berar_1 = {
+	name = "Dariya"
+	dynasty = CKU_koli
+	religion = ismaili
+	culture = marathi
+	#parents unknown
+	3426.1.1 = { birth = yes }
+	3451.1.1 = { death = yes }
+}
+CKU_ahmednagar_1 = {
+	name = "Burhan"
+	dynasty = CKU_ruddha
+	religion = ismaili
+	culture = marathi
+	#parents
+	3425.1.1 = { birth = yes }
+	3483.1.1 = { death = yes }
+}
+CKU_bijapur_1 = {
+	name = "Abdullah"
+	dynasty = CKU_hoysalah
+	religion = ismaili
+	culture = kannada
+	#parents
+	3416.1.1 = { birth = yes }
+	3469.1.1 = { death = yes }
+
+}
+CKU_savanur_1 = {
+	name = "Bhadrappa Nayaka"
+	dynasty = CKU_chalukya
+	religion = vaishnavism
+	culture = kannada
+	#parents
+	3389.1.1 = { birth = yes }
+	3474.1.1 = { death = yes }
+}
+CKU_mudgal_1 = {
+	name = "Ali"
+	dynasty = CKU_bahmani
+	religion = ismaili
+	culture = kannada
+	#parents
+	3421.1.1 = { birth = yes }
+	3456.1.1 = { death = yes }
+}
+CKU_nagpur_1 = {
+	name = "Ismail"
+	dynasty = CKU_bahmani
+	religion = ismaili
+	culture = kannada
+	3415.1.1 = { birth = yes }
+	3490.1.1 = { death = yes }
+}
+CKU_daulatabad_1 = {
+	name = "Jahan"
+	dynasty = CKU_bahmani
+	religion = ismaili
+	culture = marathi
+	3403.1.1 = { birth = yes }
+	3479.1.1 = { death = yes }
+}
+CKU_karjat_1 = {
+	name = "Soneri"
+	dynasty = CKU_karjat
+	religion = vaishnavism
+	culture = marathi
+	3426.1.1 = { birth = yes }
+	1500 = { death = yes }
+}
+CKU_samma_1 = {
+	name = "Vchan"
+	dynasty = CKU_jadeja
+	religion = digambara
+	culture = gujarati
+	#parents
+	3400.1.1 = { birth = yes }
+	3448.1.1 = { death = yes }
+}
+CKU_chukla_1 = {
+	name = "Bárách"
+	dynasty = CKU_jadeja
+	religion = digambara
+	culture= gujarati
+	#parents
+	3416.1.1 = { birth = yes }
+	3452.1.1 = { death = yes }
+}
+CKU_chavda_1 = {
+	name = "Rajadhán"
+	dynasty = CKU_jadeja
+	religion = digambara
+	culture = gujarati
+	#parents
+	3408.1.1 = { birth = yes }
+	3457.1.1 = { death = yes }
+}
+
+CKU_vijayanagar_1 = { #greatest ruler of the Sangama dynasty
+	name = "Deva Raya"
+	dynasty = CKU_sangama
+	religion = vaishnavism
+	culture = kannada
+	#parents
+	3404.1.1 = { birth = yes }
+	3448.1.1 = { death = yes }
+
+	martial = 13 #defeated the Reddys and bahmani
+	prowess = 11
+	diplomacy = 12 #keeping the Deccan and south in check
+	learning = 9 
+	intrigue = 8
+	stewardship = 9
+	trait = ambitious
+	trait = brave
+	trait = temperate
+	disallow_random_traits = yes
+}
+CKU_mysore_1 = {
+	name = "Chamaraja"
+	dynasty = CKU_wodeyar
+	religion = vaishnavism
+	culture = mysorean
+	#parents
+	3410.1.1 = { birth = yes }
+	3461.1.1 = { death = yes }
+}
+CKU_nandyal_1 = {
+	name = "Nandaja"
+	dynasty = CKU_nandyal
+	religion = vaishnavism
+	culture = kannada
+	#parents
+	3405.1.1 = { birth = yes }
+	3471.1.1 = { death = yes }
+}
+CKU_kurnool_1 = {
+	name = "Krishna"
+	dynasty = CKU_kurnul
+	religion = vaishnavism
+	culture = kannada
+	#parents
+	3415.1.1 = { birth = yes }
+	3460.1.1 = { death = yes }
+}
+CKU_muluvay_1 = {
+	name = "Vijay"
+	dynasty = CKU_muluvay
+	religion = vaishnavism
+	culture = tamil
+	3415.1.1 = { birth = yes }
+	3460.1.1 = { death = yes }
+}
+CKU_isira_1 = {
+	name = "Krish"
+	dynasty = CKU_isira
+	religion = vaishnavism
+	culture = kannada
+	3423.1.1 = { birth = yes }
+	3490.1.1 = { death = yes}
+}
+CKU_araga_1 = {
+	name = "Gaja"
+	dynasty = CKU_araga
+	religion = vaishnavism
+	culture = kannada
+	3420.1.1 = { birth = yes }
+	3481.1.1 = { death = yes }
+}
+CKU_virajpet_1 = {
+	name = "Arin"
+	dynasty = CKU_virajpet
+	religion = vaishnavism
+	culture = kannada
+	3420.1.1 = { birth = yes }
+	3481.1.1 = { death = yes }
+}
+CKU_chittor_1 = {
+	name = "Tantivarman"
+	dynasty = CKU_chittor
+	religion = vaishnavism
+	culture = tamil
+	3420.1.1 = { birth = yes }
+	3481.1.1 = { death = yes }
+}
+CKU_nellore_1 = {
+	name = "Cevakattevan"
+	dynasty = CKU_nellore
+	religion = vaishnavism
+	culture = tamil
+	3420.1.1 = { birth = yes }
+	3481.1.1 = { death = yes }
+}
+CKU_bengaluru_1 = {
+	name = "Brijesh"
+	dynasty = CKU_bengaluru_1
+	religion = vaishnavism
+	culture = kannada
+	3416.1.1 = { birth = yes }
+}
+CKU_tondainadu_1 = {
+	name = "Chaandy"
+	dynasty = CKU_tondainadu
+	religion = vaishnavism
+	culture = tamil
+	3420.1.1 = { birth = yes }
+	3481.1.1 = { death = yes }
+}
+CKU_cuddalore_1 = {
+	name = "Niyaparilapattan"
+	dynasty = CKU_cuddalore
+	religion = vaishnavism
+	culture = tamil
+	3420.1.1 = { birth = yes }
+	3481.1.1 = { death = yes }
+}
+CKU_venad_1 = {
+	name = "Nadigal"
+	dynasty = CKU_venad
+	religion = vaishnavism
+	culture = tamil
+	3414.1.1 = { birth = yes }
+	3457.1.1 = { death = yes }
+}
+CKU_quilon_1 = {
+	name = "Nadigal"
+	dynasty = CKU_quilon
+	religion = vaishnavism
+	culture = tamil
+	3414.1.1 = { birth = yes }
+	3457.1.1 = { death = yes }
+}
+CKU_kayankulam_1 = {
+	name = "Nadigal"
+	dynasty = CKU_kayankulam
+	religion = vaishnavism
+	culture = tamil
+	3414.1.1 = { birth = yes }
+	3457.1.1 = { death = yes }
+}
+CKU_kottayam_1 = {
+	name = "Nadigal"
+	dynasty = CKU_kottayam
+	religion = vaishnavism
+	culture = tamil
+	3414.1.1 = { birth = yes }
+	3457.1.1 = { death = yes }
+}
+CKU_kochin_1 = {
+	name = "Nadigal"
+	dynasty = CKU_kochin
+	religion = vaishnavism
+	culture = tamil
+	3414.1.1 = { birth = yes }
+	3457.1.1 = { death = yes }
+}
+CKU_kanannur_1 = {
+	name = "Nadigal"
+	dynasty = CKU_kanannur
+	religion = vaishnavism
+	culture = tamil
+	3414.1.1 = { birth = yes }
+	3457.1.1 = { death = yes }
+}
+CKU_zamorin_1 = {
+	name = "Nadigal"
+	dynasty = CKU_zamorin
+	religion = vaishnavism
+	culture = tamil
+	3414.1.1 = { birth = yes }
+	3457.1.1 = { death = yes }
+}
+CKU_malwa_1 = {
+	name = "Ala ud-Din Mahmud"
+	dynasty = CKU_khalji
+	religion = hanafi
+	culture = malvi
+	3408.1.1 = { birth = yes }
+	3471.1.1 = { death = yes }
+}
+CKU_alirajpur_1 = {
+	name = "Deo"
+	dynasty = CKU_alirajpur
+	religion = vaishnavism
+	culture = gujarati
+	3418.1.1 = { birth = yes }
+	#death unknown
+}
+CKU_garha_1 = {
+	name = "Sangam"
+	dynasty = CKU_gond
+	religion = vaishnavism
+	culture = gond
+	3402.1.1 = { birth = yes }
+}
+CKU_baghelkand_1 = {
+	name = "Virama"
+	dynasty = CKU_baghela
+	religion = vaishnavism
+	culture = hindustani
+	3421.1.1 = { birth = yes }
+}
+CKU_kalinjar_1 = {
+	name = "Pahar Chand"
+	dynasty = CKU_chandella
+	religion = vaishnavism
+	culture = hindustani
+	3412.1.1 = { birth = yes }
+}
+CKU_kalpi_1 = {
+	name = "Nasir Khan"
+	dynasty = CKU_malikzada
+	religion = hanafi
+	culture = hindustani
+	3421.1.1 = { birth = yes }
+}
+CKU_bundelkhand_1 = {
+	name = "Arjun"
+	dynasty = CKU_bundela
+	religion = vaishnavism
+	culture = hindustani
+	3418.1.1 = { birth = yes }
+}
+CKU_bhopal_1 = {
+	name = "Brijesh"
+	dynasty = CKU_khalji
+	religion = hanafi
+	culture = malvi
+	3424.1.1 = { birth = yes }
+}
+CKU_jaora_1 = {
+	name = "Mohammed"
+	dynasty = CKU_khalji
+	religion = hanafi
+	culture = malvi
+	3425.1.1 = { birth = yes }
+}
+CKU_lodi_1 = {
+	name = "Bahlul Khan"
+	dynasty = CKU_lodi
+	religion = hanafi
+	culture = afghan
+	3403.1.1 = { birth = yes }
+	3491.7.12 = { death = yes }
+
+	martial = 15 
+	prowess = 25
+	diplomacy = 12
+	learning = 7
+	intrigue = 10
+	stewardship = 12
+	trait = ambitious
+	trait = arrogant
+	trait = impatient
+	trait = shrewd
+	trait = education_martial_4
+	trait = warlike_court_2
+	trait = aggressive_attacker
+	trait = open_terrain_expert
+}
+
+CKU_delhi_1 = {
+	name = "Muhammad Shah"
+	dynasty = CKU_sayyid
+	religion = hanafi
+	culture = hindustani
+	3414.1.1 = { birth = yes }
+	3447.1.1 = { death = yes }
+
+	martial = 2 
+	prowess = 5
+	diplomacy = 5
+	learning = 10
+	intrigue = 5
+	stewardship = 6
+	trait = craven
+	trait = content
+	trait = cynical
+	trait = sayyid
+	trait = education_diplomacy_2
+	trait = warlike_court_2
+}
+CKU_khandesh_1 = {
+	name = "Mahmud"
+	dynasty = CKU_ahmadebad
+	religion = hanafi
+	culture = marathi
+	3416.1.1 = { birth = yes }
+}
+CKU_asirgarh_1 = {
+	name = "Breeja"
+	dynasty = CKU_amud
+	religion = vaishnavism
+	culture = marathi
+	3382.1.1 = { birth = yes }
+}
+CKU_harda_1 = {
+	name = "Krishna"
+	dynasty = CKU_buj
+	religion = vaishnavism
+	culture = marathi
+	3407.1.1 = { birth = yes }
+}
+CKU_vilupparam_1 = {
+	name = "Nyak"
+	dynasty = CKU_kalachuri
+	religion = vaishnavism
+	culture = tamil
+	3413.1.1 = { birth = yes }
+}
+CKU_tavanjur_1 = {
+	name = "Alagiri"
+	dynasty = CKU_chola
+	religion = vaishnavism
+	culture = tamil
+	3424.1.1 = { birth = yes }
+}
+CKU_salem_1 = {
+	name = "Umdat"
+	dynasty = CKU_chera
+	religion = vaishnavism
+	culture = tamil
+	3421.1.1 = { birth = yes }
+}
+CKU_nayak_1 = {
+	name = "Gangama"
+	dynasty = CKU_wodeyar
+	religion = vaishnavism
+	culture = tamil
+	3409.1.1 = { birth = yes }
+}
+CKU_madurai_1 = {
+	name = "Vira"
+	dynasty = CKU_pandya
+	religion = vaishnavism
+	culture = tamil
+	3418.1.1 = { birth = yes }
+}
+CKU_chitradurga_1 = {
+	name = "Amra"
+	dynasty = CKU_chitradurga
+	religion = vaishnavism
+	culture = tamil
+	3418.1.1 = { birth = yes }
+}
+CKU_keladi_1 = {
+	name = "Karaka"
+	dynasty = CKU_keladi
+	religion = vaishnavism
+	culture = tamil
+	3418.1.1 = { birth = yes }
+}
+CKU_gwalior_1 = {
+	name = "Dungarasimha"
+	dynasty = CKU_tomara
+	religion = vaishnavism
+	culture = hindustani
+	3395.1.1 = { birth = yes }
+	3461.1.1 = { death = yes }
+}
+CKU_nagaur_1 = {
+	name = "Qiyam Khan"
+	dynasty = CKU_khokar
+	religion = hanafi
+	culture = rajput
+	3414.1.1 = { birth = yes }
+}
+CKU_mewar_1 = {
+	name = "Kumbhakarna Singh"
+	dynasty = CKU_mewar
+	religion = vaishnavism
+	culture = rajput
+	3406.1.1 = { birth = yes }
+	3470.1.1 = { death = yes }
+}
+CKU_multan_1 = {
+	name = "Yousaf Qureshi"
+	dynasty = CKU_zakariya
+	religion = shafii
+	culture = punjabi
+	3413.1.1 = { birth = yes }
+}
+CKU_dholpur_1 = {
+	name = "Ibrahim"
+	dynasty = CKU_dholpur
+	religion = hanafi
+	culture = hindustani
+	3425.1.1 = { birth = yes }
+}
+CKU_gangapur_1 = {
+	name = "Ala"
+	dynasty = CKU_gangapur
+	religion = hanafi
+	culture = hindustani
+	3434.1.1 = { birth = yes }
+}
+CKU_jaunpur_1 = {
+	name = "Mahmud Shah"
+	dynasty = CKU_sharqi
+	religion = hanafi
+	culture = hindustani
+	3413.1.1 = { birth = yes }
+}
+CKU_lucknow_1 = {
+	name = "Ismail"
+	dynasty = CKU_sharqi
+	religion = hanafi
+	culture = hindustani
+	3415.1.1 = { birth = yes }
+}
+CKU_allahbad_1 = {
+	name = "Abdul"
+	dynasty = CKU_sharqi
+	religion = hanafi
+	culture = hindustani
+	3422.1.1 = { birth = yes }
+}

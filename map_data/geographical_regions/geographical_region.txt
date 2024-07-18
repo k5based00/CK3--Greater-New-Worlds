@@ -1,0 +1,62 @@
+#define rgions by titles:
+# region = {
+# 	duchies = { }
+# 	counties = { }
+# 	provinces = { }
+# 	regions = { }
+# }
+
+
+###############################################################
+# WORLD REGIONS
+###############################################################
+# world
+# > world_europe
+# > > world_europe_west
+# > > > world_europe_west_britannia
+# > > > world_europe_west_francia
+# > > world_europe_south
+
+
+world = {
+	regions = {
+		world_europe
+	}
+}
+
+world_europe = {
+	regions = {
+		world_europe_west world_europe_south
+	}
+}
+
+world_europe_west = {
+	regions = {
+		world_europe_west_britannia
+	}
+}
+
+world_europe_west_britannia = {
+	duchies = {
+		#england
+		d_cornwall d_somerset d_sussex d_kent d_bedford d_east_anglia d_lincoln d_gloucester d_hereford d_lancaster d_york d_northumberland
+		#wales
+		d_welsh_march d_wales
+		#scotland
+		d_hamilton d_buccleuch d_albany d_ross d_mann d_isle_of_man
+		#ireland
+		d_ulster d_meath d_leinster d_connacht d_thomond d_desmond
+	}
+}
+
+world_europe_west_francia = {
+	duchies = {
+		d_picardy d_normandy d_alencon d_ile_de_france d_orleans d_champagne d_burgundy d_berry d_touraine d_anjou d_brittany d_poitiers d_sainonge d_limousin d_bourbon d_auvergne d_guyenne d_gascogne d_languedoc d_provence d_dauphine d_savoue d_franche_comte
+	}
+}
+
+world_europe_south = {
+	regions = {
+
+	}
+}

@@ -1,0 +1,225 @@
+#Milan
+d_milan = {
+	3446.1.1 = {
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_milan = {
+	3446.1.1 = {
+		change_development_level = 14
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_crema = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_novara = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_bellinzona = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_varese = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_como = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_pavia = {
+	3446.1.1 = {
+		change_development_level = 10
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_vigevano = {
+	3446.1.1 = {
+		change_development_level = 9
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_lodi = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_voghera = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+
+#Parma
+c_borgonovo_val_tidone = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_bobbio = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_piacenza = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_parma = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_fidenza = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+
+#Brescia
+c_cremona = {
+	3446.1.1 = {
+		change_development_level = 10
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_mantua = {
+	3446.1.1 = {
+		change_development_level = 10
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_gonzaga_0121
+	}
+}
+c_val_camonica = {
+	3446.1.1 = {
+		change_development_level = 0
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_asola = {
+	3446.1.1 = {
+		change_development_level = 10
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_brescia = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+c_bergamo = {
+	3446.1.1 = {
+		change_development_level = 5
+		government = feudal_government
+		holder = CKU_foscari_008
+	}
+}
+
+#Modena
+d_modena = {
+	3446.1.1 = {
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_este_1
+	}
+}
+c_guastalla = {
+	3446.1.1 = {
+		change_development_level = 11
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_gonzaga_0121
+	}
+}
+c_modena = {
+	3446.1.1 = {
+		change_development_level = 8
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_este_1
+	}
+}
+c_reggio = {
+	3446.1.1 = {
+		change_development_level = 7
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_este_1
+	}
+}
+c_mirandola = {
+	3446.1.1 = {
+		change_development_level = 11
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_pico_1
+	}
+}
+c_bologna = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_bentivoglio_1
+	}
+}

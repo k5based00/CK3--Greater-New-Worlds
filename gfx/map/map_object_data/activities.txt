@@ -1,0 +1,8 @@
+﻿game_object_locator={
+	name="activities"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="activities_layer"
+	instances={}
+}

@@ -1,0 +1,44 @@
+CKU_ALPHA_1 = { # Scotland
+	name = "Placeholder of Scotland"
+	religion = "catholic"
+	culture = "scots"
+	3422.1.1 = {
+		birth = yes
+	}
+}
+
+CKU_ALPHA_2 = { # Normandy
+	name = "Placeholder de Normandie"
+	religion = "catholic"
+	culture = "norman"
+	3422.1.1 = {
+		birth = yes
+	}
+}
+
+CKU_ALPHA_3 = { # HRE/Germany
+	name = "Placeholder von HRE"
+	religion = "catholic"
+	culture = "test_culture"
+	3422.1.1 = {
+		birth = yes
+	}
+}
+
+CKU_ALPHA_4 = { # Italy
+	name = "Placeholder di Italia"
+	religion = "catholic"
+	culture = "test_culture"
+	3422.1.1 = {
+		birth = yes
+	}
+}
+
+CKU_ALPHA_5 = { # Ireland
+	name = "Placeholder of Ireland"
+	religion = "catholic"
+	culture = "irish"
+	3422.1.1 = {
+		birth = yes
+	}
+}

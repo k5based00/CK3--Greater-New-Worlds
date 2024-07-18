@@ -1,0 +1,66 @@
+2294 = {
+	3446.1.1 = {
+		special_building = bidar_stronghold_01
+		culture = kannada
+
+		buildings = {
+			military_camps_02
+			regimental_grounds_03
+			cereal_fields_02
+			curtain_walls_02
+		}
+	}
+}
+2225 = {
+	3446.1.1 = {
+		special_building = mudgal_fort
+		culture = kannada
+
+		buildings = {
+			military_camps_01
+			regimental_grounds_01
+		}
+	}
+}
+34 = {
+	3446.1.1 = {
+		special_building = virupaksha_temple
+		culture = kannada
+
+		buildings = {
+			military_camps_02
+			cereal_fields_03
+			curtain_walls_02
+			hunting_grounds_02
+		}
+	}
+}
+#agra
+3770 = {
+	3446.1.1 = {
+		special_building = taj_mahal_00
+		culture = hindustani
+
+		buildings = {
+			cereal_fields_02
+			curtain_walls_02
+			military_camps_01
+			regimental_grounds_01
+		}
+	}
+}
+#golconda
+2239 = {
+	3446.1.1 = {
+		special_building = golconda_diamond_district_00
+		culture = kannada
+	
+		buildings = {
+			cereal_fields_02
+			regimental_grounds_01
+			curtain_walls_02
+			farm_estates_02
+			hunting_grounds_01
+		}
+	}
+}

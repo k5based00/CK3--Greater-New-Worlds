@@ -1,0 +1,83 @@
+﻿bm_group_mid_bronze_age = {
+	default_start_date = 0.1.1 # 2000 BC
+}
+
+bm_group_peak_bronze_age = {
+	default_start_date = 502.1.1 # 1500 BC
+}
+
+bm_group_bronze_age_collapse = {
+	default_start_date = 902.1.1 # 1100 BC
+}
+
+bm_group_early_iron_age = {
+	default_start_date = 1192.1.1 # 810 BC
+}
+
+bm_group_mid_iron_age = {
+	default_start_date = 1249.1.1 # 753 BC
+}
+
+bm_group_peak_iron_age = {
+	default_start_date = 1522.1.1 # 480 BC
+}
+
+bm_group_early_hellenistic_age = {
+	default_start_date = 1646.1.1 # 356 BC
+}
+
+bm_group_late_hellenistic_age = {
+	default_start_date = 1712.1.1 # 290 BC
+}
+
+bm_group_rise_of_rome = {
+	default_start_date = 1822.1.1 # 180 BC
+}
+
+bm_group_classical_age = {
+	default_start_date = 1960.1.1 # 42 BC
+}
+
+bm_group_pax_romana_age = {
+	default_start_date = 2016.1.1 # 14 AD
+}
+
+bm_group_late_classical_age = {
+	default_start_date = 2182.1.1 # 180 AD
+}
+
+bm_group_migration_period = {
+	default_start_date = 2500.1.1 # 476 AD (Fall of Western Roman Empire)
+}
+
+bm_group_early_medieval_age = {
+	default_start_date = 2700.1.1 # 600 AD
+}
+
+bm_group_high_medieval_age = {
+	default_start_date = 2968.1.1 # 868 AD
+}
+
+bm_group_late_medieval_age = {
+	default_start_date = 3330.1.1 # 1200 AD
+}
+
+bm_group_renaissance_age = {
+	default_start_date = 3600.1.1 # 1471 AD
+}
+
+bm_group_age_of_discovery = {
+	default_start_date = 3742.1.1 # 1613 AD
+}
+
+bm_group_age_of_reformation = {
+	default_start_date = 3842.1.1 # 1713 AD
+}
+
+bm_group_age_of_enlightenment = {
+	default_start_date = 3970.1.1 # 1841 AD
+}
+
+bm_group_victorian_age = {
+	default_start_date = 4122.1.1 # 1910 AD
+}

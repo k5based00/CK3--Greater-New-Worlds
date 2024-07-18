@@ -1,0 +1,100 @@
+﻿202992 = {
+	name = "Henry" # Henry I of England
+	dynasty = 752
+	martial = 7
+	diplomacy = 4
+	intrigue = 9
+	stewardship = 6
+	learning = 10
+	religion = "catholic"
+	culture = "norman"
+	trait = education_diplomacy_3
+	trait = diligent
+	trait = just
+	trait = arrogant
+	trait = calm
+	trait = brave
+	trait = ambitious
+	3070.9.1 = {
+		birth = yes
+	}
+	3137.12.1 = {
+		death = yes
+	}
+}
+
+204576 = {
+	name = "Roger"
+	dynasty = CKU_beaumont
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "norman"
+	father = 129057
+	3022.1.2 = {
+		birth = "3022.1.2"
+	}
+	3038.1.1 = {
+		add_spouse = 204577
+	}
+	3096.1.24 = {
+		death = "3096.1.24"
+	}
+}
+
+204596 = {
+	name = "Robert" #Robert I de Meulan
+	dynasty = CKU_beaumont
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "norman"
+	trait = greedy
+	trait = education_stewardship_2
+	father = 204576
+	mother = 204577
+	3052.1.1 = {
+		birth = "3052.1.1"
+	}
+	3068.1.2 = {
+		employer = 140
+	}
+	3082.1.1 = {
+		add_spouse = 30918
+	}
+	3092.11.1 = {
+		remove_spouse = 30918
+	}
+	3098.1.1 = {
+		add_spouse = 551
+	}
+	3116.12.1 = {
+		remove_spouse = 551
+	}
+	3120.6.5 = {
+		death = "3120.6.5"
+	}
+}
+
+204717 = {
+	name = "Henri"
+	dynasty = CKU_beaumont
+	martial = 4
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = "norman"
+	father = 204576
+	mother = 204577
+	3054.1.1 = {
+		birth = "3054.1.1"
+	}
+	3121.6.20 = {
+		death = "3121.6.20"
+	}
+}

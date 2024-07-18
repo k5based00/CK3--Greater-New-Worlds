@@ -1,0 +1,281 @@
+#jaunpur
+	k_jaunpur = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+		}
+	}
+	d_jaunpur = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+		}
+	}
+	d_patna = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+		}
+	}
+	d_awadh = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+		}
+	}
+	d_bihar = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+		}
+	}
+	c_jaunpur = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 16
+		}
+	}
+	c_varanasi = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 14
+		}
+	}
+	c_ghazipur = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 13
+		}
+	}
+	c_sahatwar = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 12
+		}
+	}
+	c_akbarpur = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 13
+		}
+	}
+	c_faizabad = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 13
+		}
+	}
+	c_sultanpur = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 11
+		}
+	}
+	c_kunda = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 13
+		}
+	}
+	c_mirzapur = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 10
+		}
+	}
+	c_ramnagar = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 10
+		}
+	}
+	c_dehri = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 8
+		}
+	}
+	c_dumraon = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 9
+		}
+	}
+	c_daudnagar = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 8
+		}
+	}
+	c_patna = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 13
+		}
+	}
+	c_lakhisarai = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 10
+		}
+	}
+	c_begusarai = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 11
+		}
+	}
+	c_hajipur = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 10
+		}
+	}
+	c_maharajganj = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 11
+		}
+	}
+	c_barhaj = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 11
+		}
+	}
+	c_gorakhpur = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 9
+		}
+	}
+	c_basti = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 9
+		}
+	}
+	c_gonda = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 10
+		}
+	}
+	c_bairampur = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 7
+		}
+	}
+	c_bahraich = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 8
+		}
+	}
+	c_muhamdi = {
+		3446.1.1 = {
+			holder = CKU_jaunpur_1
+			change_development_level = 9
+		}
+	}
+
+#allahabad
+	d_allahbad = {
+		3446.1.1 = {
+			holder = CKU_allahbad_1
+			liege = k_jaunpur
+		}
+	}
+	c_allahbad = {
+		3446.1.1 = {
+			holder = CKU_allahbad_1
+			change_development_level = 14
+		}
+	}
+	c_phulpur = {
+		3446.1.1 = {
+			holder = CKU_allahbad_1
+			change_development_level = 12
+		}
+	}
+	c_bendow = {
+		3446.1.1 = {
+			holder = CKU_allahbad_1
+			change_development_level = 11
+		}
+	}
+	c_chirakut = {
+		3446.1.1 = {
+			holder = CKU_allahbad_1
+			change_development_level = 11
+		}
+	}
+	c_ghatampur = {
+		3446.1.1 = {
+			holder = CKU_allahbad_1
+			change_development_level = 11
+		}
+	}
+	c_kannauj = {
+		3446.1.1 = {
+			holder = CKU_allahbad_1
+			change_development_level = 14
+		}
+	}
+	c_mathura = {
+		3446.1.1 = {
+			holder = CKU_allahbad_1
+			change_development_level = 12
+		}
+	}
+	c_dawa = {
+		3446.1.1 = {
+			holder = CKU_allahbad_1
+			change_development_level = 12
+		}
+	}
+	c_mampuri = {
+		3446.1.1 = {
+			holder = CKU_allahbad_1
+			change_development_level = 11
+		}
+	}
+#lucknow
+	d_lucknow = {
+		3446.1.1 = {
+			holder = CKU_lucknow_1
+			liege = k_jaunpur
+		}
+	}
+	c_lucknow = {
+		3446.1.1 = {
+			holder = CKU_lucknow_1
+			change_development_level = 14
+		}
+	}
+	c_unnao = {
+		3446.1.1 = {
+			holder = CKU_lucknow_1
+			change_development_level = 11
+		}
+	}
+	c_bahramghat = {
+		3446.1.1 = {
+			holder = CKU_lucknow_1
+			change_development_level = 10
+		}
+	}
+	c_mellanwan = {
+		3446.1.1 = {
+			holder = CKU_lucknow_1
+			change_development_level = 9
+		}
+	}
+	c_bilgram = {
+		3446.1.1 = {
+			holder = CKU_lucknow_1
+			change_development_level = 10
+		}
+	}
+	c_kanpur = {
+		3446.1.1 = {
+			holder = CKU_lucknow_1
+			change_development_level = 11
+		}
+	}

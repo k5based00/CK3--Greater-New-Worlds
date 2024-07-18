@@ -1,0 +1,133 @@
+#Firenze
+d_firenze = {
+	3446.1.1 = {
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_medici_1
+	}
+}
+c_florence = {
+	3446.1.1 = {
+		change_development_level = 5		
+		liege = e_hre
+		holder = CKU_medici_1
+	}
+}
+c_pistoia = {
+	3446.1.1 = {
+		change_development_level = 6		
+		liege = e_hre
+		holder = CKU_medici_1
+	}
+}
+c_arezzo = {
+	3446.1.1 = {
+		change_development_level = 10
+		liege = e_hre
+		holder = CKU_medici_1
+	}
+}
+c_montevarchi = {
+	3446.1.1 = {
+		change_development_level = 10
+		liege = e_hre
+		holder = CKU_medici_1
+	}
+}
+c_empoli = {
+	3446.1.1 = {
+		change_development_level = 14
+		liege = e_hre
+		holder = CKU_medici_1
+	}
+}
+c_carrara = {
+	3446.1.1 = {
+		change_development_level = 6
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_visconti_1
+	}
+}
+c_lucca = {
+	3446.1.1 = {
+		change_development_level = 11
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_lucca_1
+	}
+}
+
+#Pisa
+c_volterra = {
+	3446.1.1 = {
+		change_development_level = 11		
+		liege = e_hre
+		holder = CKU_medici_1
+	}
+}
+c_pisa = {
+	3446.1.1 = {
+		change_development_level = 7	
+		liege = e_hre
+		holder = CKU_medici_1
+	}
+}
+c_pontedera = {
+	3446.1.1 = {
+		change_development_level = 5
+		liege = e_hre
+		holder = CKU_medici_1
+	}
+}
+c_livorno = {
+	3446.1.1 = {
+		change_development_level = 5
+		liege = e_hre
+		holder = CKU_medici_1
+	}
+}
+
+#Siena
+d_oropoeera = {
+	3446.1.1 = {
+		government = feudal_government
+		liege = e_hre
+		holder = CKU_siena_1
+	}
+}
+c_siena = {
+	3446.1.1 = {
+		change_development_level = 11
+		liege = e_hre
+		holder = CKU_siena_1
+	}
+}
+c_grosseto = {
+	3446.1.1 = {
+		change_development_level = 6
+		liege = e_hre
+		holder = CKU_siena_1
+	}
+}
+c_santa_fiora = {
+	3446.1.1 = {
+		change_development_level = 7
+		liege = e_hre
+		holder = CKU_siena_1
+	}
+}
+c_montepulciano = {
+	3446.1.1 = {
+		change_development_level = 10
+		liege = e_hre
+		holder = CKU_medici_1
+	}
+}
+c_piombino = {
+	3446.1.1 = {
+		change_development_level = 5
+		liege = e_hre
+		holder = CKU_colonna_1
+	}
+}

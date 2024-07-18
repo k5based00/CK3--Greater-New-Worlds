@@ -1,0 +1,10 @@
+﻿empty = {
+	name = "Test"
+	dna = 6000000_test
+	dynasty = 5000000
+	religion = "test_faith"
+	culture = "test_culture"
+	2982.1.1 = {
+		birth = yes
+	}
+}

@@ -1,0 +1,1379 @@
+1499 = {	#goelo
+	2982.1.1 = {
+		culture = breton
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1500 = {	#brest
+	2982.1.1 = {
+		culture = breton
+		religion = catholic
+		holding = city_holding
+	}
+}
+1501 = {	#rochefort_en_terre
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = city_holding
+	}
+}
+1502 = {	#retz
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1503 = {	#chateaubriant
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1504 = {	#concarneau
+	2982.1.1 = {
+		culture = breton
+		religion = catholic
+		holding = city_holding
+	}
+}
+1505 = {	#rohan
+	2982.1.1 = {
+		culture = breton
+		religion = catholic
+		holding = city_holding
+	}
+}
+1506 = {	#saint_malo
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = city_holding
+	}
+}
+1507 = {	#ancenis
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1508 = {	#vannes
+	2982.1.1 = {
+		culture = breton
+		religion = catholic
+		holding = city_holding
+	}
+}
+1509 = {	#penthievre
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1510 = {	#rennes
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = city_holding
+	}
+}
+1511 = {	#tregor
+	2982.1.1 = {
+		culture = breton
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1512 = {	#dinan
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = city_holding
+	}
+}
+1513 = {	#fougeres
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = city_holding
+	}
+}
+1514 = {	#quimper
+	2982.1.1 = {
+		culture = breton
+		religion = catholic
+		holding = city_holding
+	}
+}
+1515 = {	#carhaix
+	2982.1.1 = {
+		culture = breton
+		religion = catholic
+		holding = city_holding
+	}
+}
+1516 = {	#saint_pol_de_leon
+	2982.1.1 = {
+		culture = breton
+		religion = catholic
+		holding = city_holding
+	}
+}
+1517 = {	#vitre
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = city_holding
+	}
+}
+1518 = {	#blain
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1519 = {	#nantes
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = city_holding
+	}
+}
+1520 = {	#combourg
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1521 = {	#clisson
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = city_holding
+	}
+}
+1522 = {	#hennebont
+	2982.1.1 = {
+		culture = breton
+		religion = catholic
+		holding = city_holding
+	}
+}
+1523 = {	#porhoet
+	2982.1.1 = {
+		culture = gallo
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1524 = {	#guerande
+	2982.1.1 = {
+		culture = breton
+		religion = catholic
+		holding = city_holding
+	}
+}
+1353 = {	#mortain
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1354 = {	#caen
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = city_holding
+	}
+}
+1355 = {	#coutances
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1356 = {	#tancarville
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = city_holding
+	}
+}
+1357 = {	#rouen
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = city_holding
+	}
+}
+1358 = {	#dieppe
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = city_holding
+	}
+}
+1359 = {	#pacy_sur_eure
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1360 = {	#fecamp
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = church_holding
+	}
+}
+1361 = {	#lisieux
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = church_holding
+	}
+}
+1362 = {	#cotentin
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1363 = {	#harcourt
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1364 = {	#avranches
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1365 = {	#estouteville
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1366 = {	#evreux
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = city_holding
+	}
+}
+1367 = {	#bayeux
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = church_holding
+	}
+}
+1368 = {	#aumale
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1369 = {	#chateau_gaillard
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1370 = {	#eu
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1526 = {	#domfront
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1528 = {	#argentan
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = city_holding
+	}
+}
+1530 = {	#alencon
+	2982.1.1 = {
+		culture = norman
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1468 = {	#bethune
+	2982.1.1 = {
+		culture = picard
+		religion = catholic
+		holding = city_holding
+	}
+}
+1469 = {	#saint_quentin
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1470 = {	#arras
+	2982.1.1 = {
+		culture = picard
+		religion = catholic
+		holding = city_holding
+	}
+}
+1471 = {	#peronne
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1472 = {	#montreuil
+	2982.1.1 = {
+		culture = picard
+		religion = catholic
+		holding = city_holding
+	}
+}
+1473 = {	#amiens
+	2982.1.1 = {
+		culture = picard
+		religion = catholic
+		holding = church_holding
+	}
+}
+1474 = {	#calais
+	2982.1.1 = {
+		culture = picard
+		religion = catholic
+		holding = city_holding
+	}
+}
+1475 = {	#guise
+	2982.1.1 = {
+		culture = walloon
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1476 = {	#boulogne_sur_mer
+	2982.1.1 = {
+		culture = picard
+		religion = catholic
+		holding = city_holding
+	}
+}
+1477 = {	#saint_omer
+	2982.1.1 = {
+		culture = picard
+		religion = catholic
+		holding = church_holding
+	}
+}
+1478 = {	#abbeville
+	2982.1.1 = {
+		culture = picard
+		religion = catholic
+		holding = city_holding
+	}
+}
+1455 = {	#rethel
+	2982.1.1 = {
+		culture = walloon
+		religion = catholic
+		holding = city_holding
+	}
+}
+1446 = {	#grandpre
+	2982.1.1 = {
+		culture = walloon
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1343 = {	#bourbon_l_archambault
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1347 = {	#moulins
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1348 = {	#montlucon
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1349 = {	#montpensier
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1350 = {	#bourbon_lancy
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1351 = {	#combrailles
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1352 = {	#montbrison
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = city_holding
+	}
+}
+1378 = {	#nevers
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1389 = {	#rochechouart
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1390 = {	#comborn
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1391 = {	#mortemart
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1392 = {	#ventadour
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1393 = {	#chateaudun
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1394 = {	#orleans
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1395 = {	#artenay
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1396 = {	#vendome
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1397 = {	#blois
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1398 = {	#montargis
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1399 = {	#chartres
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1400 = {	#beaugency
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1401 = {	#gien
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1402 = {	#sully_sur_loire
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1412 = {	#angers
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1413 = {	#loudun
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1414 = {	#maine
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1415 = {	#lassay
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1416 = {	#la_fleche
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1417 = {	#sarthe
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1418 = {	#laval
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1419 = {	#craon
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1420 = {	#mayenne
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1421 = {	#sainte_suzanne
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1422 = {	#chateau_gontier
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1423 = {	#bauge
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1424 = {	#cholet
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1425 = {	#saumur
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1426 = {	#champtoce
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1427 = {	#pouance
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1428 = {	#laon
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = church_holding
+	}
+}
+1429 = {	#nemours
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1430 = {	#poissy
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1431 = {	#meaux
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1432 = {	#senlis
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1433 = {	#roucy
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1434 = {	#dreux
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1435 = {	#beauvais
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = church_holding
+	}
+}
+1436 = {	#paris
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1437 = {	#etampes
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1438 = {	#dammartin_en_goele
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1439 = {	#montmorency
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1440 = {	#soissons
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1441 = {	#l_isle_adam
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1442 = {	#melun
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1443 = {	#clermont_de_l_oise
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1444 = {	#torcy
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1445 = {	#vitry_le_francois
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1447 = {	#auxerre
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = church_holding
+	}
+}
+1448 = {	#tonnerre
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1449 = {	#brienne_le_chateau
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1450 = {	#epernay
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1451 = {	#langres
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = city_holding
+	}
+}
+1452 = {	#chateau_porcien
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1453 = {	#joinville
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1454 = {	#reims
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = church_holding
+	}
+}
+1456 = {	#bar_sur_seine
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1457 = {	#joigny
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1458 = {	#chalons_en_champagne
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = church_holding
+	}
+}
+1459 = {	#sens
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = church_holding
+	}
+}
+1460 = {	#troyes
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = church_holding
+	}
+}
+1461 = {	#chaumont
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1462 = {	#chinon
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1463 = {	#richelieu
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1464 = {	#chatillon_sur_indre
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1465 = {	#loches
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1466 = {	#amboise
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1467 = {	#tours
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = church_holding
+	}
+}
+1479 = {	#vierzon
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1480 = {	#bourges
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1481 = {	#vatan
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1482 = {	#issoudun
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1483 = {	#concressault
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1484 = {	#valencay
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1485 = {	#sancerre
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1486 = {	#mehun_sur_yevre
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1487 = {	#aubigny_sur_nere
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1488 = {	#talmont_saint_hilaire
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1489 = {	#la_roche_sur_yon
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1490 = {	#parthenay
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1491 = {	#niort
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1492 = {	#lusignan
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1493 = {	#mauleon
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1494 = {	#poitiers
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = church_holding
+	}
+}
+1495 = {	#chatellerault
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1496 = {	#chauvigny
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = church_holding
+	}
+}
+1497 = {	#thouars
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1498 = {	#champagne_mouton
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1525 = {	#mortagne_au_perche
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1527 = {	#beaumont_sur_sarthe
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = city_holding
+	}
+}
+1529 = {	#nogent_le_rotrou
+	2982.1.1 = {
+		culture = french
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1344 = {	#beaujeu
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1345 = {	#roanne
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = city_holding
+	}
+}
+1346 = {	#lyon
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = church_holding
+	}
+}
+1371 = {	#autun
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = church_holding
+	}
+}
+1372 = {	#semur_en_auxois
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = city_holding
+	}
+}
+1373 = {	#macon
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = city_holding
+	}
+}
+1374 = {	#beaune
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = city_holding
+	}
+}
+1375 = {	#avallon
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = city_holding
+	}
+}
+1376 = {	#cluny
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = church_holding
+	}
+}
+1377 = {	#chatillon_sur_seine
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = city_holding
+	}
+}
+1379 = {	#varzy
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = church_holding
+	}
+}
+1380 = {	#charolles
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = city_holding
+	}
+}
+1381 = {	#chateau_chinon
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1382 = {	#dijon
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = city_holding
+	}
+}
+1383 = {	#chalon_sur_saone
+	2982.1.1 = {
+		culture = burgundian
+		religion = catholic
+		holding = church_holding
+	}
+}
+1384 = {	#turenne
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1385 = {	#ussel
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = city_holding
+	}
+}
+1386 = {	#bridiers
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1387 = {	#aubusson
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1388 = {	#limoges
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = city_holding
+	}
+}
+1403 = {	#la_tour_d_auvergne
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1404 = {	#montferrand
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1405 = {	#aurillac
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = city_holding
+	}
+}
+1406 = {	#clermont
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = church_holding
+	}
+}
+1407 = {	#tournoel
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = castle_holding
+	}
+}
+1408 = {	#vodable
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = city_holding
+	}
+}
+1409 = {	#salers
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = city_holding
+	}
+}
+1410 = {	#issoire
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = city_holding
+	}
+}
+1411 = {	#pontgibaud
+	2982.1.1 = {
+		culture = occitan
+		religion = catholic
+		holding = city_holding
+	}
+}
+1531 = {	#kassel
+	2982.1.1 = {
+		culture = flemish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1532 = {	#brugge
+	2982.1.1 = {
+		culture = flemish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1533 = {	#gent
+	2982.1.1 = {
+		culture = flemish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1534 = {	#cortrijk
+	2982.1.1 = {
+		culture = flemish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1535 = {	#aalst
+	2982.1.1 = {
+		culture = flemish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1536 = {	#doornik
+	2982.1.1 = {
+		culture = flemish
+		religion = catholic
+		holding = church_holding
+	}
+}
+1537 = {	#duinkerke
+	2982.1.1 = {
+		culture = flemish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1538 = {	#ieper
+	2982.1.1 = {
+		culture = flemish
+		religion = catholic
+		holding = city_holding
+	}
+}
+1539 = {	#rijssel
+	2982.1.1 = {
+		culture = flemish
+		religion = catholic
+		holding = city_holding
+	}
+}
