@@ -1,2 +1,2 @@
-# CK3: Greater New Worlds
+# CK3: A New World
  
